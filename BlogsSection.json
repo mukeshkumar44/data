@@ -1,0 +1,37 @@
+{
+  "heading": "Featured Blogs & Real Estate Guides",
+
+  "description": "Stay updated with the latest real estate trends, buying tips, investment advice, and expert guides. Our featured blogs help you make informed decisions when searching for a house for sale in Hisar.",
+
+  "viewAllButton": {
+    "label": "View All Blogs",
+    "link": "/blogs"
+  },
+
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Top 10 Neighborhoods for Families in 2023",
+      "excerpt": "Discover the best family-friendly neighborhoods with excellent schools, parks, and amenities.",
+      "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1170&q=80",
+      "date": "May 15, 2023",
+      "category": "Neighborhoods"
+    },
+    {
+      "id": 2,
+      "title": "How to Increase Your Home Value Before Selling",
+      "excerpt": "Learn simple and cost-effective ways to boost your property value before listing it on the market.",
+      "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1170&q=80",
+      "date": "April 28, 2023",
+      "category": "Selling Tips"
+    },
+    {
+      "id": 3,
+      "title": "The Future of Smart Homes",
+      "excerpt": "Explore the latest technology trends that are transforming modern homes into smart living spaces.",
+      "image": "https://images.unsplash.com/photo-1558002038-1055e2e8ecea?auto=format&fit=crop&w=1170&q=80",
+      "date": "April 10, 2023",
+      "category": "Technology"
+    }
+  ]
+}

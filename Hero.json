@@ -1,0 +1,30 @@
+{
+  "badge": {    
+    "text": "Premium Properties Available"
+  },
+  "heading": {
+    "prefix": "House for",
+    "highlight": "Sale in Hisar",
+    "suffix": "– Find Your Ideal Home Today"
+  },
+  "description": "Looking for your dream property in Hisar? Our platform brings you the best house for sale in Hisar options with verified listings, user-friendly filters, and accurate details. Whether you need a budget-friendly house, a premium villa, or a ready-to-move home, you’ll find everything here in one place. Explore the most trusted properties, compare features, and make the right real estate decision with ease. Your perfect house for sale in Hisar is just a click away.",
+  "buttons": [
+    {
+      "label": "Explore Listings",
+      "link": "/about",
+      "variant": "primary"
+    },
+    {
+      "label": "Contact Property Experts",
+      "link": "/contact",
+      "variant": "secondary"
+    }
+  ],
+  "backgroundImages": [
+    "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2070&q=80",
+    "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=2053&q=80",
+    "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=2070&q=80",
+    "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2074&q=80"
+  ]
+  
+}

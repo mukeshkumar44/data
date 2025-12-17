@@ -1,0 +1,37 @@
+{
+  "brand": {
+    "name": "EstatePro Real Estate",
+    "description": "We help you discover premium properties with expert guidance, transparent processes, and trusted real estate services across the city."
+  },
+
+  "poweredBy": {
+    "label": "Powered By",
+    "name": "Dealacres"
+  },
+
+  "social": {
+    "heading": "Follow Us",
+    "links": [
+      {
+        "platform": "Facebook",
+        "url": "#"
+      },
+      {
+        "platform": "Twitter",
+        "url": "#"
+      },
+      {
+        "platform": "Instagram",
+        "url": "#"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "#"
+      }
+    ]
+  },
+
+  "copyright": {
+    "text": "© {{year}} EstatePro. All Rights Reserved."
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "domain": "house-for-sale-in-faridabad.projectwallah.live",
+
+  "heroSection": {
+    "badge": "Verified Residential Houses",
+    "heading": "Buy the Perfect House for Sale in Faridabad",
+    "description": ["Searching for a house for sale in Faridabad that fits your lifestyle, budget, and future goals?",
+    "Deal Acres helps you discover verified residential properties in the most sought-after locations of Faridabad.",
+    "From independent houses and builder floors to spacious family homes, we bring you trusted options.",
+      "With expert guidance, transparent pricing, and genuine listings, finding a house for sale in Faridabad has never been easier."
+    ],
+    "buttons": [
+      {
+        "label": "Search Houses in Faridabad",
+        "path": "/"
+      },
+      {
+        "label": "List Property for Free",
+        "path": "/"
+      }
+    ],
+    "backgroundImages": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c",
+      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0"
+    ]
+  },
+
+  "welcomeSection": {
+    "title": "Trusted platform for smart home buyers in Faridabad",
+    "heading": "Explore Verified Houses for Sale in Faridabad",
+    "description": [
+      "Buying a house for sale in Faridabad is a major decision, and we make sure you choose the right one.",
+      "At Deal Acres, we list verified independent houses, builder floors, and residential homes across prime sectors.",
+      "Each property is checked for location value, ownership clarity, and fair market pricing.Whether you are buying for self-use or investment, our listings match every requirement.",
+"Our expert property dealers in Faridabad assist you at every step of the buying journey."
+    ]
+  },
+
+  "featureWithImage": {
+    "badge": "Premium Agriculture Land",
+    "title": "Why Deal Acres Is Best for House Buying",
+    "description": ["Choosing the right house for sale in Faridabad requires trust, knowledge, and local expertise.",
+    "Deal Acres brings all three under one platform.",
+      "We focus on buyer safety, verified documentation, and genuine seller connections.",
+      "Our goal is to help you invest in a home that offers comfort and long-term value."
+    ],
+    "subTitle": "Key Benefits for Buyers",
+    "features": [
+      "Verified houses with clear ownership and legal transparency",
+      "Wide range of budget-friendly and premium houses",
+      "Expert guidance from local property dealers in Faridabad"
+    ],
+    "primaryButton": {
+      "label": "View Verified Houses",
+      "path": "/"
+    },
+    "secondaryButton": {
+      "label": "Connect with Property Expert",
+      "path": "/"
+    },
+    "image": {
+      "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "alt": "House for Sale in Faridabad"
+    },
+    "floatingCard": {
+      "title": "Local Property Experts",
+      "subtitle": "Faridabad Housing Specialists",
+      "description": "Get expert assistance from trusted property dealers in Faridabad for buying verified residential houses."
+    }
+  },
+
+  "servicesSection": {
+    "heading": "Discover Multiple Property Options in Faridabad",
+    "description": [
+      "Along with houses for sale in Faridabad, Deal Acres offers diverse real estate solutions.Whether you are planning to rent, buy, invest, or lease, we cover all property needs under one roof."
+    ],
+    "services": [
+      {
+        "title": "House for Sale in Faridabad",
+        "description": "Independent houses and builder floors in prime residential areas."
+      },
+      {
+        "title": "Flat for Rent in Faridabad",
+        "description": "Well-maintained rental flats near schools, offices, and metro stations."
+      },
+      {
+        "title": "Flat for Sale in Faridabad",
+        "description": "Ready-to-move and under-construction flats with modern amenities."
+      },
+      {
+        "title": "Shop for Sale in Faridabad",
+        "description": "Commercial shops in high-visibility and high-footfall locations."
+      },
+      {
+        "title": "Shop for Rent in Faridabad",
+        "description": "Retail spaces ideal for startups, franchises, and growing businesses."
+      },
+      {
+        "title": "Plot for Sale in Faridabad",
+        "description": "Residential and investment plots in developing and premium sectors."
+      },
+      {
+        "title": "Agricultural Land for Sale in Faridabad",
+        "description": "Secure land options for long-term investment opportunities."
+      },
+      {
+        "title": "To-Let Service in Faridabad",
+        "description": "Fast and reliable leasing services for owners and tenants."
+      }
+    ]
+  },
+
+  "whyChooseUs": {
+    "heading": "Deal Acres – A Trusted Real Estate Venture",
+    "description": [
+      "Deal Acres is a reputed property dealer in Faridabad and a property dealer in Hisar, known for transparency and trust.",
+      "Our platform is designed to connect genuine buyers, sellers, and investors seamlessly.We combine digital convenience with local market expertise for better decision-making."
+    ],
+    "points": [
+      "Free unlisted property listing for owners",
+      "Free business listing for property dealers",
+      "Direct buyer-seller connections without hidden charges",
+      "Local experts with deep market knowledge"
+    ],
+    "image": {
+      "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "alt": "Trusted Property Dealer in Faridabad"
+    }
+  },
+
+  "blogsSection": {
+    "heading": "Latest Property Blogs & Market Insights",
+    "description": [
+      "Stay informed with expert blogs on houses for sale in Faridabad, market trends, pricing insights, and buying tips.",
+      "Our featured articles help buyers and investors make confident property decisions."
+    ],
+    "viewAllButton": {
+      "label": "View All Blogs",
+      "path": "/blogs"
+    },
+    "blogs": [ {
+        "id": 1,
+        "title": "Top 10 Neighborhoods for Families in 2023",
+        "excerpt": "Discover the best family-friendly neighborhoods with excellent schools, parks, and amenities.",
+        "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1170&q=80",
+        "date": "May 15, 2023",
+        "category": "Neighborhoods"
+      },
+      {
+        "id": 2,
+        "title": "How to Increase Your Home Value Before Selling",
+        "excerpt": "Learn simple and cost-effective ways to boost your property value before listing it on the market.",
+        "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1170&q=80",
+        "date": "April 28, 2023",
+        "category": "Selling Tips"
+      },
+      {
+        "id": 3,
+        "title": "The Future of Smart Homes",
+        "excerpt": "Explore the latest technology trends that are transforming modern homes into smart living spaces.",
+        "image": "https://images.unsplash.com/photo-1558002038-1055e2e8ecea?auto=format&fit=crop&w=1170&q=80",
+        "date": "April 10, 2023",
+        "category": "Technology"
+      }]
+  },
+
+  "contactSection": {
+    "formSection": {
+      "heading": "Get In Touch",
+      "description": [
+        "Fill out the form and our team will get back to you to help with Shop for Rent in Hisar and commercial property needs."
+      ],
+      "fields": [
+        {
+          "label": "Full Name",
+          "placeholder": "Your Name",
+          "type": "text"
+        },
+        {
+          "label": "Email Address",
+          "placeholder": "your@email.com",
+          "type": "email"
+        },
+        {
+          "label": "Phone Number",
+          "placeholder": "+1 234 567 890",
+          "type": "text"
+        },
+        {
+          "label": "Message",
+          "placeholder": "Write your message...",
+          "type": "textarea"
+        }
+      ],
+      "submitButton": "Send Message"
+    },
+    "contactDetails": {
+      "heading": "Contact Information",
+      "description": ["Contact us anytime for assistance with Shop for Rent in Hisar, commercial listings, or business property guidance."],
+      "items": [
+        {
+          "label": "Phone",
+          "value": "+1 (246) 333-0088"
+        },
+        {
+          "label": "Email",
+          "value": "info@estatepro.com"
+        },
+        {
+          "label": "Office Address",
+          "value": "2799 Mainroad Ave, NY"
+        }
+      ]
+    }
+  },
+
+  "faqSection": {
+    "heading": "Frequently Asked Questions ",
+    "subheading": "Answers to common questions about House for Sale in Faridabad",
+    "faqs": [
+      {
+        "q": "Why should I buy a house in Faridabad?",
+        "a": "Faridabad offers excellent connectivity, strong infrastructure, and growing residential demand."
+      },
+      {
+        "q": "What types of houses are available in Faridabad?",
+        "a": "Independent houses, builder floors, duplex homes, and residential properties are available."
+      },
+      {
+        "q": "Is Deal Acres a trusted property dealer in Faridabad?",
+        "a": "Yes, Deal Acres is a verified and trusted real estate venture with local expertise."
+      },
+      {
+        "q": "Can I list my house for sale in Faridabad for free?",
+        "a": "Yes, we provide free property listing services for owners."
+      },
+      {
+        "q": "Which areas are best for buying a house in Faridabad?",
+        "a": "Popular areas include Sector 14, Sector 15, Sector 21, and Neharpar."
+      },
+      {
+        "q": "Does Deal Acres help with documentation?",
+        "a": "Yes, we guide buyers through documentation and verification processes."
+      },
+      {
+        "q": "Are home loans available for houses in Faridabad?",
+        "a": "Yes, buyers can apply for home loans through trusted financial partners."
+      },
+      {
+        "q": "Is Faridabad good for property investment?",
+        "a": "Yes, increasing development makes it a strong investment destination."
+      },
+      {
+        "q": "Can NRIs buy a house in Faridabad?",
+        "a": "Yes, NRIs can legally purchase residential property in Faridabad."
+      },
+      {
+        "q": "How can I schedule a site visit?",
+        "a": "Simply click on “Connect with Property Expert” or submit an enquiry form."
+      }
+    ]
+  },
+
+  "footer": {
+    "brand": {
+      "name": "EstatePro Real Estate",
+      "description": ["We help you discover premium flats for rent and other properties with expert guidance, transparent processes, and trusted real estate services across the city."]
+    },
+    "poweredBy": {
+      "label": "Powered By",
+      "name": "Dealacres"
+    },
+    "social": {
+      "heading": "Follow Us",
+      "links": [
+        {
+          "platform": "Facebook",
+          "url": "#"
+        },
+        {
+          "platform": "Twitter",
+          "url": "#"
+        },
+        {
+          "platform": "Instagram",
+          "url": "#"
+        },
+        {
+          "platform": "LinkedIn",
+          "url": "#"
+        }
+      ]
+    },
+    "copyright": {
+      "text": "© {{year}} EstatePro. All Rights Reserved."
+    }
+  }
+}
