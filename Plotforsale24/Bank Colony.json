@@ -14,7 +14,8 @@
         "label": "Speak With Property Experts",
         "path": "/"
       }
-    ]
+    ],
+    "images": []
   },
 
   "featuresSection": {
@@ -166,17 +167,12 @@
     }
   ],
 
-  "contactSection": {
+  "contact-section": {
     "title": "Get Expert Help to Buy Plots in Bank Colony Hisar",
     "description": [
       "Buying a plot is a major financial decision, and expert guidance helps reduce risks and confusion. Professional support ensures clarity on pricing, documentation, and future prospects.",
       "Share your details to connect with property experts who can help you find the right plot in Bank Colony based on your requirements and budget."
     ],
-    "formFields": [
-      "name",
-      "phone",
-      "email",
-      "message"
-    ]
+    "formFields": ["name", "phone", "email", "message"]
   }
 }

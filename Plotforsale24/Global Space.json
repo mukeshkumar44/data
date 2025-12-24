@@ -1,112 +1,125 @@
 {
   "hero": {
-    "heading": "Residential Plots in Global Space Hisar for Secure Future Living",
-    "content": "Global Space has emerged as a promising residential location in Hisar, attracting buyers who prefer organized development, peaceful surroundings, and future growth prospects. Investing in a plot for sale in Global Space, Hisar allows buyers to own land in a locality that is steadily developing with planned roads, residential zoning, and improving connectivity. The area is suitable for families, professionals, and investors who want a balanced lifestyle away from overcrowded zones.\n\nOne of the biggest advantages of Global Space is the freedom it offers to design and build a home according to personal preferences. With rising interest from homebuyers and limited availability of residential plots, property demand in this location continues to grow. Whether you are planning immediate construction or a long-term investment, Global Space offers stability, affordability, and strong appreciation potential in Hisar’s real estate market.",
+    "title": "Residential Plots in Global Space Hisar for Secure Future Living",
+    "description": [
+      "Global Space has emerged as a promising residential location in Hisar, attracting buyers who prefer organized development, peaceful surroundings, and future growth prospects. Investing in a plot for sale in Global Space, Hisar allows buyers to own land in a locality that is steadily developing with planned roads, residential zoning, and improving connectivity. The area is suitable for families, professionals, and investors who want a balanced lifestyle away from overcrowded zones.",
+      "One of the biggest advantages of Global Space is the freedom it offers to design and build a home according to personal preferences. With rising interest from homebuyers and limited availability of residential plots, property demand in this location continues to grow. Whether you are planning immediate construction or a long-term investment, Global Space offers stability, affordability, and strong appreciation potential in Hisar’s real estate market."
+    ],
     "buttons": [
       {
         "label": "Browse Available Plots",
-        "link": "/"
+        "path": "/"
       },
       {
         "label": "Get Plot Consultation",
-        "link": "/"
+        "path": "/"
       }
-    ]
+    ],
+    "images": []
   },
 
-  "plotSizes": {
+  "featuresSection": {
     "heading": "Choose Ideal Plot Sizes in Global Space for Smart Home Planning",
-    "tagline": "Selecting the correct plot size plays a vital role when purchasing a plot for sale in Global Space, Hisar. Plot dimensions affect construction design, open space availability, overall budget, and long-term comfort. Global Space offers multiple plot size options that suit a wide range of residential requirements, from compact homes to premium independent houses.\n\nUnderstanding the benefits of each plot size helps buyers plan their investment wisely while aligning it with current needs and future expansion possibilities.",
-    "options": [
+    "description": [
+      "Selecting the correct plot size plays a vital role when purchasing a plot for sale in Global Space, Hisar. Plot dimensions affect construction design, open space availability, overall budget, and long-term comfort. Global Space offers multiple plot size options that suit a wide range of residential requirements, from compact homes to premium independent houses.",
+      "Understanding the benefits of each plot size helps buyers plan their investment wisely while aligning it with current needs and future expansion possibilities."
+    ],
+    "features": [
       {
         "title": "4 Marla Plot",
-        "content": "4 Marla plots are suitable for buyers seeking affordable residential land. These plots support compact house designs with efficient layouts and manageable construction costs."
+        "description": "4 Marla plots are suitable for buyers seeking affordable residential land. These plots support compact house designs with efficient layouts and manageable construction costs."
       },
       {
         "title": "6 Marla Plot",
-        "content": "6 Marla plots offer better space planning and comfort, making them ideal for small families looking for functional and well-ventilated homes."
+        "description": "6 Marla plots offer better space planning and comfort, making them ideal for small families looking for functional and well-ventilated homes."
       },
       {
         "title": "8 Marla Plot",
-        "content": "8 Marla plots provide additional flexibility for parking, open areas, and modern architectural designs, appealing to mid-sized families."
+        "description": "8 Marla plots provide additional flexibility for parking, open areas, and modern architectural designs, appealing to mid-sized families."
       },
       {
         "title": "10 Marla Plot",
-        "content": "10 Marla plots allow spacious home construction with multiple rooms, green spaces, and enhanced lifestyle features."
+        "description": "10 Marla plots allow spacious home construction with multiple rooms, green spaces, and enhanced lifestyle features."
       },
       {
         "title": "12 Marla Plot",
-        "content": "12 Marla plots are preferred by buyers planning premium residences with improved privacy, landscaping, and long-term value."
+        "description": "12 Marla plots are preferred by buyers planning premium residences with improved privacy, landscaping, and long-term value."
       },
       {
         "title": "14 Marla Plot",
-        "content": "14 Marla plots represent luxury residential land, offering ample space for high-end home designs and excellent appreciation potential."
+        "description": "14 Marla plots represent luxury residential land, offering ample space for high-end home designs and excellent appreciation potential."
       }
     ]
   },
 
-  "locationTiles": {
-    "heading": "Explore Residential Plot Options Across Key Locations in Hisar",
-    "tagline": "While Global Space is gaining popularity, comparing other residential areas in Hisar helps buyers understand pricing trends, location benefits, and development standards. Different sectors and colonies cater to diverse budgets and lifestyle expectations.\n\nExploring multiple locations ensures buyers make informed property decisions aligned with their personal and investment goals.",
-    "tiles": [
+  "locationsSection": {
+    "title": "Explore Residential Plot Options Across Key Locations in Hisar",
+    "description": [
+      "While Global Space is gaining popularity, comparing other residential areas in Hisar helps buyers understand pricing trends, location benefits, and development standards. Different sectors and colonies cater to diverse budgets and lifestyle expectations.",
+      "Exploring multiple locations ensures buyers make informed property decisions aligned with their personal and investment goals."
+    ],
+    "locations": [
       {
         "title": "Plot for Sale in Sector 14 Hisar",
-        "link": "/"
+        "path": "/"
       },
       {
         "title": "Plot for Sale in Sector 15 Hisar",
-        "link": "/"
+        "path": "/"
       },
       {
         "title": "Plot for Sale in Sector 16-17 Hisar",
-        "link": "/"
+        "path": "/"
       },
       {
         "title": "Plot for Sale in Sector 9-11 Hisar",
-        "link": "/"
+        "path": "/"
       },
       {
         "title": "Plot for Sale in Urban Estate Hisar",
-        "link": "/"
+        "path": "/"
       }
     ]
   },
 
-  "dealAcrexs": {
-    "heading": "Why Deal Acrexs Is Trusted for Buying Residential Plots",
-    "tagline": "Buying a plot requires careful evaluation of legal documents, location advantages, and market pricing. Deal Acrexs simplifies the entire process by offering verified listings and expert support throughout the buying journey.\n\nWith a customer-first approach and deep local market knowledge, Deal Acrexs ensures buyers feel confident and informed at every step.",
+  "whyChoose": {
+    "title": "Why Deal Acrexs Is Trusted for Buying Residential Plots",
+    "description": [
+      "Buying a plot requires careful evaluation of legal documents, location advantages, and market pricing. Deal Acrexs simplifies the entire process by offering verified listings and expert support throughout the buying journey.",
+      "With a customer-first approach and deep local market knowledge, Deal Acrexs ensures buyers feel confident and informed at every step."
+    ],
     "points": [
       {
         "title": "Verified Plot Listings",
-        "content": "Each listing undergoes verification to ensure clear ownership and proper approvals."
+        "description": "Each listing undergoes verification to ensure clear ownership and proper approvals."
       },
       {
         "title": "Accurate Market Insights",
-        "content": "Buyers receive real-time guidance on pricing trends and location value."
+        "description": "Buyers receive real-time guidance on pricing trends and location value."
       },
       {
         "title": "Legal Assistance Support",
-        "content": "Basic legal guidance helps buyers understand registry and documentation requirements."
+        "description": "Basic legal guidance helps buyers understand registry and documentation requirements."
       },
       {
         "title": "Transparent Communication",
-        "content": "Clear information ensures there are no hidden costs or misleading details."
+        "description": "Clear information ensures there are no hidden costs or misleading details."
       },
       {
         "title": "Customized Property Suggestions",
-        "content": "Plot recommendations are based on budget, size preference, and future plans."
+        "description": "Plot recommendations are based on budget, size preference, and future plans."
       },
       {
         "title": "Smooth Transaction Handling",
-        "content": "From site visits to final paperwork, buyers receive continuous assistance."
+        "description": "From site visits to final paperwork, buyers receive continuous assistance."
       },
       {
         "title": "Time Efficient Search",
-        "content": "Advanced filtering tools help buyers shortlist suitable plots quickly."
+        "description": "Advanced filtering tools help buyers shortlist suitable plots quickly."
       },
       {
         "title": "Strong Buyer Trust",
-        "content": "Consistent service quality has earned long-term trust among property buyers."
+        "description": "Consistent service quality has earned long-term trust among property buyers."
       }
     ]
   },
@@ -154,9 +167,12 @@
     }
   ],
 
-  "contact": {
-    "heading": "Connect With Experts to Find the Right Residential Plot",
-    "tagline": "Buying a residential plot is a long-term decision that requires clarity on location, legal aspects, and future value. Professional guidance helps you avoid risks and make confident choices.\n\nSubmit your details to connect with trusted advisors who can help you find the best plot for sale in Global Space, Hisar based on your requirements and budget.",
+  "contactSection": {
+    "title": "Connect With Experts to Find the Right Residential Plot",
+    "description": [
+      "Buying a residential plot is a long-term decision that requires clarity on location, legal aspects, and future value. Professional guidance helps you avoid risks and make confident choices.",
+      "Submit your details to connect with trusted advisors who can help you find the best plot for sale in Global Space, Hisar based on your requirements and budget."
+    ],
     "formFields": ["name", "phone", "email", "message"]
   }
 }

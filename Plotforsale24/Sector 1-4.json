@@ -1,143 +1,143 @@
 {
-  "section1": {
-    "heading": "Prime Residential Plot Opportunities in Well Planned Sector 1-4 Hisar",
-    "content": "Sector 1-4 is one of the oldest and most reliable residential zones in Hisar, known for its organised planning, strong civic amenities, and central city access. Investing in a plot for sale in Sector 1-4, Hisar gives buyers the advantage of a mature neighbourhood where infrastructure, connectivity, and livability are already well established. The area is surrounded by schools, hospitals, shopping areas, banks, and daily convenience stores, making it suitable for families and working professionals.\n\nPlots in Sector 1-4 are preferred for self-construction due to wide roads, proper drainage, and peaceful surroundings. The locality enjoys consistent demand because of limited land availability and steady development. Whether you are planning to build your own home or looking for a long-term asset, Sector 1-4 offers stability, security, and dependable appreciation potential.",
+  "hero": {
+    "title": "Prime Residential Plot Opportunities in Well-Planned Sector 1-4 Hisar",
+    "description": [
+      "Sector 1-4 is one of the oldest and most reliable residential zones in Hisar, known for organised planning, strong civic amenities, and central city access. Investing in a plot for sale in Sector 1-4, Hisar offers the advantage of a mature neighbourhood where infrastructure, connectivity, and livability are already well established.",
+      "With wide roads, proper drainage, and peaceful surroundings, plots in Sector 1-4 are preferred for self-construction and long-term investment. Limited land availability and steady demand make this locality a stable choice with dependable appreciation potential."
+    ],
     "buttons": [
-      { "label": "Explore Available Plots", "link": "/" },
-      { "label": "Talk to Property Expert", "link": "/" }
-    ]
+      {
+        "label": "Explore Available Plots",
+        "path": "/"
+      },
+      {
+        "label": "Talk to Property Expert",
+        "path": "/"
+      }
+    ],
+    "images": []
   },
 
-  "section2": {
+  "featuresSection": {
     "heading": "Residential Plot Sizes in Sector 1-4 Suitable for Every Buyer",
-    "tagline": "Choosing the right plot size plays a major role in determining construction flexibility, lifestyle comfort, and overall investment value. Sector 1-4 provides a wide range of residential plot dimensions that cater to diverse housing requirements. From compact plots for efficient homes to larger plots for spacious villas, buyers can select options aligned with their needs and budgets.\n\nUnderstanding plot size options helps in planning construction layouts, managing costs, and ensuring future resale potential. Each plot category in Sector 1-4 carries its own advantages depending on family size, design preferences, and long-term goals.",
-    "subpoints": [
+    "description": [
+      "Choosing the right plot size plays an important role in construction flexibility, lifestyle comfort, and overall investment value. Plot dimensions influence layout planning, open space, and future usability.",
+      "Sector 1-4 offers a wide range of residential plot sizes that cater to different housing requirements, from compact homes to spacious independent residences."
+    ],
+    "features": [
       {
-        "title": "4 Marla Plot",
-        "content": "4 Marla plots in Sector 1-4 are ideal for buyers seeking affordability within a prime location. These plots support compact residential construction with smart layouts while offering access to all essential neighbourhood facilities."
+        "title": "4 Marla Plots in Sector 1-4",
+        "description": "4 Marla plots are ideal for buyers seeking affordability within a prime location. These plots support compact residential construction with smart layouts."
       },
       {
-        "title": "6 Marla Plot",
-        "content": "6 Marla plots provide additional space for comfortable living without significantly increasing construction costs. They allow better ventilation, parking space, and balanced room planning for small families."
+        "title": "6 Marla Plots in Sector 1-4",
+        "description": "6 Marla plots provide additional space for comfortable living with better ventilation and parking while keeping construction costs manageable."
       },
       {
-        "title": "8 Marla Plot",
-        "content": "8 Marla plots are well-suited for modern homes with enhanced interior space. Buyers can design larger bedrooms, open living areas, and modest outdoor spaces for daily comfort."
+        "title": "8 Marla Plots in Sector 1-4",
+        "description": "8 Marla plots are well-suited for modern homes with enhanced interior space, open living areas, and modest outdoor planning."
       },
       {
-        "title": "10 Marla Plot",
-        "content": "10 Marla plots in Sector 1-4 are popular among buyers looking for spacious independent homes. These plots support premium construction designs and offer improved privacy and functionality."
+        "title": "10 Marla Plots in Sector 1-4",
+        "description": "10 Marla plots support spacious independent homes with premium construction design, improved privacy, and functionality."
       },
       {
-        "title": "12 Marla Plot",
-        "content": "12 Marla plots are considered premium residential options. They allow luxurious home designs with landscaped areas, parking zones, and future expansion possibilities."
+        "title": "12 Marla Plots in Sector 1-4",
+        "description": "12 Marla plots are premium residential options allowing luxurious home designs with parking zones and future expansion potential."
       },
       {
-        "title": "14 Marla Plot",
-        "content": "14 Marla plots are ideal for buyers planning large villas or high-end residences. These plots carry strong long-term appreciation due to limited availability in established sectors."
+        "title": "14 Marla Plots in Sector 1-4",
+        "description": "14 Marla plots are ideal for large villas or high-end residences and carry strong long-term appreciation due to limited availability."
       }
     ]
   },
 
-  "section3": {
-    "heading": "Browse Plot Options Across Popular Residential Areas of Hisar",
-    "tagline": "Exploring different localities helps buyers compare pricing, infrastructure quality, and lifestyle benefits before making a decision. Along with Sector 1-4, Hisar offers several well-developed residential zones that attract plot buyers.\n\nLocation-based tiles simplify the property search journey and allow users to quickly discover suitable areas based on preferences and budget expectations.",
-    "tiles": [
-      { "title": "Plot for Sale in Sector 13 Hisar", "link": "/" },
-      { "title": "Plot for Sale in Sector 14 Hisar", "link": "/" },
-      { "title": "Plot for Sale in Sector 15 Hisar", "link": "/" },
-      { "title": "Plot for Sale in Urban Estate Hisar", "link": "/" },
-      { "title": "Plot for Sale in Model Town Hisar", "link": "/" }
+  "locationsSection": {
+    "title": "Browse Plot Options Across Popular Residential Areas of Hisar",
+    "description": [
+      "Exploring multiple localities helps buyers compare pricing, infrastructure quality, and lifestyle benefits before finalising a purchase.",
+      "Along with Sector 1-4, several other well-developed residential areas in Hisar attract plot buyers."
+    ],
+    "locations": [
+      { "title": "Plot for Sale in Sector 13 Hisar", "path": "/", "icon": "Landmark" },
+      { "title": "Plot for Sale in Sector 14 Hisar", "path": "/", "icon": "Landmark" },
+      { "title": "Plot for Sale in Sector 15 Hisar", "path": "/", "icon": "Landmark" },
+      { "title": "Plot for Sale in Urban Estate Hisar", "path": "/", "icon": "Landmark" },
+      { "title": "Plot for Sale in Model Town Hisar", "path": "/", "icon": "Landmark" }
     ]
   },
 
-  "section4": {
-    "heading": "Why Deal Acrexs Is the Preferred Platform for Plot Buyers",
-    "tagline": "Buying a residential plot requires transparency, legal clarity, and local market knowledge. Deal Acrexs has built strong trust among buyers by offering verified listings and professional support throughout the property journey.\n\nThe platform focuses on simplifying decision-making by providing accurate information, honest guidance, and complete assistance from enquiry to registration.",
-    "subpoints": [
+  "whyChoose": {
+    "title": "Why Buyers Prefer Deal Acres for Residential Plots in Sector 1-4",
+    "description": [
+      "Buying a residential plot requires transparency, legal clarity, and local market knowledge. Deal Acres simplifies the buying journey by offering verified listings and professional support.",
+      "With accurate information and personalised guidance, Deal Acres helps buyers make confident property decisions from enquiry to registration."
+    ],
+    "points": [
       {
         "title": "Verified Property Listings",
-        "content": "Each plot is checked for ownership records, approvals, and documentation accuracy before being listed."
+        "description": "Plots are checked for ownership records, approvals, and documentation accuracy."
       },
       {
-        "title": "Local Market Knowledge",
-        "content": "Area-specific insights help buyers understand Sector 1-4 pricing trends and future prospects."
+        "title": "Local Market Expertise",
+        "description": "Area-specific insights help buyers understand Sector 1-4 pricing trends."
       },
       {
-        "title": "Transparent Deal Structure",
-        "content": "Clear pricing and communication ensure buyers are aware of every step involved."
+        "title": "Transparent Pricing",
+        "description": "Clear communication ensures no hidden costs."
       },
       {
-        "title": "Legal Support Assistance",
-        "content": "Guidance is provided for registry processes, approvals, and legal verification."
+        "title": "Legal Documentation Support",
+        "description": "Guidance for registry, approvals, and verification."
       },
       {
-        "title": "Personalised Property Suggestions",
-        "content": "Buyers receive recommendations based on budget, plot size preference, and usage goals."
+        "title": "Personalised Assistance",
+        "description": "Plot recommendations based on budget and size preference."
       },
       {
-        "title": "End-to-End Buyer Guidance",
-        "content": "Support continues until documentation and possession are completed."
+        "title": "End-to-End Buyer Support",
+        "description": "Assistance until documentation and possession are completed."
       },
       {
-        "title": "Time Saving Search Tools",
-        "content": "Smart filters help buyers shortlist suitable plots quickly."
+        "title": "Time-Saving Search",
+        "description": "Smart filters help shortlist suitable plots quickly."
       },
       {
-        "title": "Strong Customer Trust",
-        "content": "Consistent service quality has resulted in high buyer satisfaction and repeat clients."
+        "title": "Trusted by Buyers",
+        "description": "Consistent service quality builds long-term trust."
       }
     ]
   },
 
-  "section5": {
-    "faqs": [
-      {
-        "question": "Is Sector 1-4 a good location for buying residential plots?",
-        "answer": "Yes, Sector 1-4 is a well-established locality with strong infrastructure, making it suitable for residential living and long-term investment."
-      },
-      {
-        "question": "What plot sizes are commonly available in Sector 1-4?",
-        "answer": "Plots ranging from 4 Marla to 14 Marla are typically available, depending on current listings."
-      },
-      {
-        "question": "Can I build my house immediately after purchasing a plot?",
-        "answer": "Construction can begin after completing registration and receiving necessary approvals from local authorities."
-      },
-      {
-        "question": "Are plots in Sector 1-4 legally approved?",
-        "answer": "Many plots are approved, but buyers should always verify documents before finalising a deal."
-      },
-      {
-        "question": "Does Sector 1-4 offer good future appreciation?",
-        "answer": "Due to limited land supply and consistent demand, Sector 1-4 shows steady appreciation over time."
-      },
-      {
-        "question": "How does Deal Acrexs assist in plot buying?",
-        "answer": "Deal Acrexs provides verified listings, legal guidance, and complete transaction support."
-      },
-      {
-        "question": "Is bank financing available for purchasing plots?",
-        "answer": "Loan availability depends on plot approval status and bank policies."
-      },
-      {
-        "question": "What factors influence plot prices in Sector 1-4?",
-        "answer": "Plot size, road access, location within the sector, and nearby amenities affect pricing."
-      },
-      {
-        "question": "Is Sector 1-4 well connected to other parts of Hisar?",
-        "answer": "Yes, Sector 1-4 enjoys excellent connectivity to major roads and city facilities."
-      },
-      {
-        "question": "How can I get expert advice before buying a plot?",
-        "answer": "You can submit your details through the enquiry form to connect with experienced property consultants."
-      }
-    ]
-  },
+  "faqs": [
+    {
+      "question": "Is Sector 1-4 a good location for buying residential plots?",
+      "answer": "Yes, Sector 1-4 is a well-established locality with strong infrastructure, suitable for living and long-term investment."
+    },
+    {
+      "question": "What plot sizes are available in Sector 1-4 Hisar?",
+      "answer": "Residential plots generally range from 4 Marla to 14 Marla."
+    },
+    {
+      "question": "Can I start construction immediately after buying a plot?",
+      "answer": "Construction can begin after completing registration and obtaining required approvals."
+    },
+    {
+      "question": "Are plots in Sector 1-4 legally approved?",
+      "answer": "Many plots are approved, but buyers should always verify documents before purchase."
+    },
+    {
+      "question": "Is Sector 1-4 suitable for future appreciation?",
+      "answer": "Yes, limited land availability and steady demand support consistent appreciation."
+    }
+  ],
 
-  "section6": {
-    "heading": "Connect With Experts for Buying Residential Plots in Sector 1-4",
-    "tagline": "Purchasing a residential plot is a significant decision that requires clarity on location benefits, legal safety, and future value. Professional assistance helps buyers avoid risks and make confident choices.\n\nFill out the contact form to receive personalised guidance and explore the best plot for sale in Sector 1-4, Hisar based on your requirements and investment goals.",
+  "contactSection": {
+    "title": "Get Expert Help to Buy Residential Plots in Sector 1-4 Hisar",
+    "description": [
+      "Buying a residential plot is a significant decision, and professional guidance helps reduce risk and confusion.",
+      "Share your details to receive personalised assistance for finding the right plot in Sector 1-4, Hisar."
+    ],
     "formFields": ["name", "phone", "email", "message"]
   }
 }

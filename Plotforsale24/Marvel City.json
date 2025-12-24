@@ -1,143 +1,123 @@
 {
-  "section1": {
-    "heading": "Modern Residential Plot Options in Rapidly Growing Marvel City Hisar",
-    "content": "Marvel City has emerged as one of the most promising residential developments in Hisar, attracting buyers who seek planned infrastructure and future-ready living. Choosing a plot for sale in Marvel City, Hisar allows investors and home builders to enter a locality that is thoughtfully designed with wide roads, organised layouts, and growing civic facilities. The area is steadily gaining popularity due to its clean surroundings, easy accessibility, and proximity to developing commercial hubs.\n\nMarvel City is suitable for buyers who want a balance between present affordability and future appreciation. With increasing interest from end-users and investors, land value in this area is witnessing gradual growth. Whether your goal is to construct a modern home or hold the plot as a long-term asset, Marvel City offers a dependable opportunity backed by structured planning and rising demand.",
+  "hero": {
+    "title": "Residential Plots for Sale in Marvel City Hisar with Future Growth Potential",
+    "description": [
+      "Marvel City is emerging as one of the most promising residential developments in Hisar, offering planned layouts, wide roads, and a peaceful living environment. Buyers looking for a plot for sale in Marvel City Hisar are attracted by its organised infrastructure and long-term development prospects.",
+      "Suitable for both home construction and investment, Marvel City provides a balanced mix of present affordability and future appreciation. With increasing interest from families and investors, this locality continues to gain popularity as a reliable residential destination in Hisar."
+    ],
     "buttons": [
-      { "label": "View Available Plots", "link": "/" },
-      { "label": "Get Expert Guidance", "link": "/" }
-    ]
+      {
+        "label": "View Available Plots",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Guidance",
+        "path": "/"
+      }
+    ],
+    "images": []
   },
 
-  "section2": {
-    "heading": "Explore Residential Plot Sizes in Marvel City for Smart Investment",
-    "tagline": "Selecting the right plot size is an important step when planning residential construction or property investment. Marvel City offers multiple plot configurations that suit different budgets, family sizes, and design preferences. Buyers can choose from compact plots for efficient homes to larger plots that support premium residential layouts.\n\nEach plot size in Marvel City serves a unique purpose, allowing buyers to plan construction according to lifestyle needs and long-term expectations. Understanding these options helps in making informed decisions while ensuring future resale and appreciation potential.",
-    "subpoints": [
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Marvel City Hisar",
+    "description": [
+      "Selecting the right plot size is an important decision when planning residential construction or long-term property investment. Marvel City offers multiple plot size options that suit different budgets, family requirements, and design preferences.",
+      "From compact plots for efficient homes to larger plots for premium construction, Marvel City allows buyers the flexibility to plan according to their lifestyle and future expectations."
+    ],
+    "features": [
       {
-        "title": "4 Marla Plot",
-        "content": "4 Marla plots in Marvel City are ideal for buyers looking for budget-friendly entry into a planned township. These plots support compact yet functional homes while offering access to developing infrastructure."
+        "title": "4 Marla Residential Plots in Marvel City",
+        "description": "4 Marla plots are ideal for buyers seeking an affordable entry into a planned residential township. These plots support compact yet functional home designs and are suitable for first-time buyers."
       },
       {
-        "title": "6 Marla Plot",
-        "content": "6 Marla plots provide additional flexibility in home design, allowing better room planning, ventilation, and parking without significantly increasing overall investment cost."
+        "title": "6 Marla Residential Plots in Marvel City",
+        "description": "6 Marla plots offer better flexibility in layout planning, ventilation, and parking. They are preferred by buyers who want additional space without moving into higher budgets."
       },
       {
-        "title": "8 Marla Plot",
-        "content": "8 Marla plots are suitable for families seeking balanced space and comfort. These plots allow modern layouts with open living areas and improved outdoor usage."
+        "title": "8 Marla Residential Plots in Marvel City",
+        "description": "8 Marla plots are suitable for families looking for balanced space and comfort. These plots allow modern layouts with open living areas and improved outdoor usage."
       },
       {
-        "title": "10 Marla Plot",
-        "content": "10 Marla plots in Marvel City are preferred by buyers planning spacious independent homes. They support premium construction designs and better privacy."
+        "title": "10 Marla Residential Plots in Marvel City",
+        "description": "10 Marla plots support spacious independent home construction with better privacy and architectural flexibility. These plots are often chosen for premium residential planning."
       },
       {
-        "title": "12 Marla Plot",
-        "content": "12 Marla plots offer enhanced living standards with scope for landscaped areas, parking zones, and future modifications as family needs evolve."
+        "title": "12 Marla Residential Plots in Marvel City",
+        "description": "12 Marla plots provide ample space for landscaped areas, parking zones, and future expansion. They are ideal for long-term residential use."
       },
       {
-        "title": "14 Marla Plot",
-        "content": "14 Marla plots are ideal for luxury home construction and long-term investors. Limited availability and growing demand make these plots valuable assets."
+        "title": "14 Marla Residential Plots in Marvel City",
+        "description": "14 Marla plots represent luxury residential options with limited availability. These plots are attractive for buyers focusing on exclusivity and long-term asset value."
       }
     ]
   },
 
-  "section3": {
-    "heading": "Discover Plot Opportunities Across Prime Residential Locations in Hisar",
-    "tagline": "Location comparison is essential when purchasing residential land. Along with Marvel City, Hisar offers several popular localities that attract plot buyers due to infrastructure quality and connectivity.\n\nProperty tiles help users explore multiple areas easily and shortlist locations that match their budget, lifestyle preferences, and investment goals.",
-    "tiles": [
-      { "title": "Plot for Sale in Sector 14 Hisar", "link": "/" },
-      { "title": "Plot for Sale in Sector 15 Hisar", "link": "/" },
-      { "title": "Plot for Sale in Urban Estate Hisar", "link": "/" },
-      { "title": "Plot for Sale in Model Town Hisar", "link": "/" },
-      { "title": "Plot for Sale in Global Space Hisar", "link": "/" }
+  "locationsSection": {
+    "title": "Explore Residential Plot Options in Other Prime Areas of Hisar",
+    "description": [
+      "Along with Marvel City, Hisar offers several established and developing residential localities for plot buyers. Comparing locations helps buyers understand pricing differences, connectivity advantages, and future growth potential.",
+      "Exploring nearby areas allows buyers to shortlist locations that best match their budget, lifestyle needs, and investment goals."
+    ],
+    "locations": [
+      { "title": "Plot for Sale in Sector 14 Hisar", "path": "/", "icon": "Landmark" },
+      { "title": "Plot for Sale in Sector 15 Hisar", "path": "/", "icon": "Landmark" },
+      { "title": "Plot for Sale in Urban Estate Hisar", "path": "/", "icon": "Landmark" },
+      { "title": "Plot for Sale in Model Town Hisar", "path": "/", "icon": "Landmark" },
+      { "title": "Plot for Sale in Global Space Hisar", "path": "/", "icon": "Landmark" }
     ]
   },
 
-  "section4": {
-    "heading": "Why Buyers Trust Deal Acrexs for Residential Plot Purchases",
-    "tagline": "Buying a residential plot involves financial commitment and legal responsibility. Deal Acrexs has earned buyer trust by focusing on transparency, accuracy, and customer-first service. The platform ensures that buyers receive reliable information and professional support at every stage.\n\nFrom initial enquiry to final registration, Deal Acrexs simplifies the process and helps buyers make confident property decisions.",
-    "subpoints": [
-      {
-        "title": "Verified Plot Listings",
-        "content": "All listings undergo documentation checks to ensure ownership clarity and approval status."
-      },
-      {
-        "title": "Area-Specific Market Insights",
-        "content": "Buyers receive detailed guidance on Marvel City pricing trends and growth prospects."
-      },
-      {
-        "title": "Transparent Pricing Structure",
-        "content": "No hidden charges or misleading information during the transaction process."
-      },
-      {
-        "title": "Legal Documentation Support",
-        "content": "Assistance is provided for registry, approvals, and verification processes."
-      },
-      {
-        "title": "Personalised Buyer Assistance",
-        "content": "Property recommendations are tailored to individual budgets and requirements."
-      },
-      {
-        "title": "End-to-End Transaction Guidance",
-        "content": "Support continues until deal closure and possession completion."
-      },
-      {
-        "title": "Time Efficient Property Search",
-        "content": "Advanced filters help buyers quickly identify suitable plots."
-      },
-      {
-        "title": "Strong Customer Satisfaction",
-        "content": "Consistent service quality has built long-term buyer confidence."
-      }
+  "whyChoose": {
+    "title": "Why Buyers Choose Deal Acres for Residential Plots in Marvel City",
+    "description": [
+      "Buying a residential plot involves financial commitment and legal clarity. Deal Acres focuses on transparency, verified listings, and buyer-first support to simplify the property buying process.",
+      "With strong local market understanding and professional assistance, Deal Acres helps buyers make confident and informed decisions while investing in Marvel City Hisar."
+    ],
+    "points": [
+      { "title": "Verified Plot Listings", "description": "Listings are checked for ownership clarity and approval status." },
+      { "title": "Transparent Pricing", "description": "Clear pricing information without hidden charges." },
+      { "title": "Local Market Expertise", "description": "Guidance based on Marvel City pricing trends and demand." },
+      { "title": "Legal Documentation Support", "description": "Assistance with registry and verification processes." },
+      { "title": "Personalised Assistance", "description": "Property suggestions based on buyer needs and budget." },
+      { "title": "End-to-End Guidance", "description": "Support from enquiry to final possession." },
+      { "title": "Time-Saving Search", "description": "Easy filtering to find suitable plots quickly." },
+      { "title": "Trusted by Buyers", "description": "Consistent service quality builds long-term trust." }
     ]
   },
 
-  "section5": {
-    "faqs": [
-      {
-        "question": "Is Marvel City a good location for buying residential plots?",
-        "answer": "Yes, Marvel City is a developing residential area with planned layouts and growing infrastructure, making it suitable for both living and investment purposes."
-      },
-      {
-        "question": "What plot sizes are available in Marvel City Hisar?",
-        "answer": "Buyers can find plots ranging from 4 Marla to 14 Marla, depending on availability and layout planning."
-      },
-      {
-        "question": "Can I start construction immediately after purchasing a plot?",
-        "answer": "Construction can begin once registration is complete and required approvals are obtained from local authorities."
-      },
-      {
-        "question": "Are plots in Marvel City legally approved?",
-        "answer": "Many plots are approved, but buyers should always verify documents before finalising any purchase."
-      },
-      {
-        "question": "Does Marvel City offer good appreciation potential?",
-        "answer": "As a developing area with increasing demand, Marvel City shows promising long-term appreciation potential."
-      },
-      {
-        "question": "How does Deal Acrexs help in plot purchase?",
-        "answer": "Deal Acrexs provides verified listings, legal support, and end-to-end transaction assistance."
-      },
-      {
-        "question": "Is financing available for buying plots in Marvel City?",
-        "answer": "Loan availability depends on plot approval status and individual bank policies."
-      },
-      {
-        "question": "What factors affect plot prices in Marvel City?",
-        "answer": "Plot size, road access, location within the project, and surrounding development influence pricing."
-      },
-      {
-        "question": "Is Marvel City well connected to Hisar city?",
-        "answer": "Yes, Marvel City offers good road connectivity to major parts of Hisar."
-      },
-      {
-        "question": "How can I get expert advice before buying a plot?",
-        "answer": "You can submit your enquiry through the contact form to connect with experienced property consultants."
-      }
-    ]
-  },
+  "faqs": [
+    {
+      "question": "Is Marvel City Hisar a good location for buying residential plots?",
+      "answer": "Yes, Marvel City is a developing residential area with planned layouts and growing infrastructure, suitable for living and investment."
+    },
+    {
+      "question": "What plot sizes are available in Marvel City Hisar?",
+      "answer": "Plot sizes typically range from 4 Marla to 14 Marla, depending on availability."
+    },
+    {
+      "question": "Can I start construction immediately after buying a plot?",
+      "answer": "Construction can begin after registration and obtaining required approvals."
+    },
+    {
+      "question": "Are plots in Marvel City legally approved?",
+      "answer": "Many plots are approved, but buyers should always verify documents before purchase."
+    },
+    {
+      "question": "Is Marvel City suitable for long-term investment?",
+      "answer": "Yes, due to increasing demand and infrastructure development, it offers good appreciation potential."
+    },
+    {
+      "question": "Does Deal Acres assist in plot purchases?",
+      "answer": "Yes, Deal Acres provides verified listings, legal guidance, and complete transaction support."
+    }
+  ],
 
-  "section6": {
-    "heading": "Get Expert Assistance for Buying Residential Plots in Marvel City",
-    "tagline": "Purchasing a residential plot requires clarity on location benefits, documentation, and future value. Professional guidance helps buyers avoid risks and make informed decisions.\n\nFill out the enquiry form to explore the best plot for sale in Marvel City, Hisar and receive personalised assistance based on your budget and investment goals.",
+  "contactSection": {
+    "title": "Get Expert Help to Buy Residential Plots in Marvel City Hisar",
+    "description": [
+      "Buying a residential plot is a long-term decision, and professional guidance helps reduce risks and confusion. Our experts help you compare options, understand documentation, and choose the right plot.",
+      "Share your details to receive personalised assistance for finding the best plot for sale in Marvel City Hisar."
+    ],
     "formFields": ["name", "phone", "email", "message"]
   }
 }

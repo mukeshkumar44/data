@@ -1,143 +1,143 @@
 {
-  "section1": {
-    "heading": "Residential Plot Opportunities in Well Connected Sector 13 Hisar",
-    "content": "Sector 13 is a well-established residential pocket in Hisar, known for its balanced lifestyle, organised layout, and strong civic infrastructure. Choosing a plot for sale in Sector 13, Hisar allows buyers to invest in a locality that combines everyday convenience with long-term growth potential. The area enjoys smooth connectivity to major roads, educational institutions, healthcare facilities, local markets, and daily utility services, making it highly suitable for families and professionals alike.\n\nSector 13 is preferred by buyers who value a peaceful environment without compromising on accessibility. Residential plots here offer flexibility to design independent homes as per modern living standards. With consistent demand and controlled development, plots in Sector 13 provide stability, safety, and promising appreciation, making them a practical choice for both end-users and investors.",
+  "hero": {
+    "title": "Residential Plot Opportunities in Well-Connected Sector 13 Hisar",
+    "description": [
+      "Sector 13 is a well-established residential pocket in Hisar, known for its organised layout, balanced lifestyle, and strong civic infrastructure. Buying a plot for sale in Sector 13, Hisar allows buyers to invest in a locality that offers everyday convenience along with long-term growth potential.",
+      "With smooth connectivity to major roads, schools, healthcare facilities, and local markets, Sector 13 is highly suitable for families and professionals. Residential plots here provide flexibility for independent home construction and offer stability, safety, and promising appreciation."
+    ],
     "buttons": [
-      { "label": "View Available Plots", "link": "/" },
-      { "label": "Connect With Expert", "link": "/" }
-    ]
+      {
+        "label": "View Available Plots",
+        "path": "/"
+      },
+      {
+        "label": "Connect With Expert",
+        "path": "/"
+      }
+    ],
+    "images": []
   },
 
-  "section2": {
+  "featuresSection": {
     "heading": "Plot Size Options in Sector 13 Designed for Diverse Housing Needs",
-    "tagline": "Selecting the right plot size is a crucial step in planning a comfortable home or a profitable real estate investment. Sector 13 offers multiple residential plot dimensions, ensuring buyers can match their requirements with suitable land options. From compact plots for efficient construction to larger plots for premium residences, each size category serves a distinct purpose.\n\nUnderstanding these plot sizes helps buyers manage construction budgets, plan layouts effectively, and secure future resale value while investing in a trusted locality like Sector 13.",
-    "subpoints": [
+    "description": [
+      "Choosing the right plot size is an important step in planning a comfortable home or making a smart real estate investment. Plot dimensions affect construction layout, budget planning, and future usability.",
+      "Sector 13 offers multiple residential plot sizes ranging from compact options to premium plots, allowing buyers to select according to their needs and long-term goals."
+    ],
+    "features": [
       {
-        "title": "4 Marla Plot",
-        "content": "4 Marla plots in Sector 13 are ideal for buyers seeking an economical entry into a premium residential area. These plots support compact home designs that maximise space efficiency while maintaining access to essential neighbourhood facilities."
+        "title": "4 Marla Plots in Sector 13",
+        "description": "4 Marla plots are ideal for buyers seeking an economical entry into a premium residential area. These plots support compact, space-efficient home designs."
       },
       {
-        "title": "6 Marla Plot",
-        "content": "6 Marla plots offer a practical balance between affordability and living comfort. They allow better room planning, ventilation, and parking options while keeping construction costs manageable."
+        "title": "6 Marla Plots in Sector 13",
+        "description": "6 Marla plots offer a practical balance between affordability and comfort, allowing better room planning, ventilation, and parking."
       },
       {
-        "title": "8 Marla Plot",
-        "content": "8 Marla plots provide enhanced design flexibility for modern homes. Buyers can plan spacious interiors, balconies, and small green areas, making them suitable for growing families."
+        "title": "8 Marla Plots in Sector 13",
+        "description": "8 Marla plots provide enhanced design flexibility for modern homes with spacious interiors and small green areas."
       },
       {
-        "title": "10 Marla Plot",
-        "content": "10 Marla plots in Sector 13 support larger independent homes with improved privacy and outdoor space. These plots are preferred by buyers focusing on long-term residential comfort."
+        "title": "10 Marla Plots in Sector 13",
+        "description": "10 Marla plots support larger independent homes with improved privacy and outdoor space for long-term living."
       },
       {
-        "title": "12 Marla Plot",
-        "content": "12 Marla plots are considered premium options, offering ample space for luxury home designs, parking areas, and landscaped sections. They also carry strong resale appeal."
+        "title": "12 Marla Plots in Sector 13",
+        "description": "12 Marla plots are premium options suitable for luxury home designs, parking zones, and landscaped sections."
       },
       {
-        "title": "14 Marla Plot",
-        "content": "14 Marla plots represent high-end residential land in Sector 13. These plots are ideal for spacious villas or custom-designed homes and are known for their long-term appreciation potential."
+        "title": "14 Marla Plots in Sector 13",
+        "description": "14 Marla plots represent high-end residential land, ideal for spacious villas and long-term appreciation."
       }
     ]
   },
 
-  "section3": {
-    "heading": "Discover Plot Options Across Prime Residential Locations in Hisar",
-    "tagline": "Exploring multiple residential areas helps buyers compare pricing, development standards, and lifestyle benefits before finalising a purchase. Along with Sector 13, Hisar features several well-known localities offering varied plot options for different budgets and preferences.\n\nLocation-based tiles simplify the comparison process and help users shortlist suitable areas with confidence and clarity.",
-    "tiles": [
-      { "title": "Plot for Sale in Sector 14 Hisar", "link": "/" },
-      { "title": "Plot for Sale in Sector 15 Hisar", "link": "/" },
-      { "title": "Plot for Sale in Sector 16-17 Hisar", "link": "/" },
-      { "title": "Plot for Sale in Urban Estate Hisar", "link": "/" },
-      { "title": "Plot for Sale in Model Town Hisar", "link": "/" }
+  "locationsSection": {
+    "title": "Discover Plot Options Across Prime Residential Locations in Hisar",
+    "description": [
+      "Exploring multiple residential areas helps buyers compare pricing, development standards, and lifestyle benefits before making a final decision.",
+      "Along with Sector 13, Hisar offers several well-known localities that provide varied plot options for different budgets and preferences."
+    ],
+    "locations": [
+      { "title": "Plot for Sale in Sector 14 Hisar", "path": "/", "icon": "Landmark" },
+      { "title": "Plot for Sale in Sector 15 Hisar", "path": "/", "icon": "Landmark" },
+      { "title": "Plot for Sale in Sector 16-17 Hisar", "path": "/", "icon": "Landmark" },
+      { "title": "Plot for Sale in Urban Estate Hisar", "path": "/", "icon": "Landmark" },
+      { "title": "Plot for Sale in Model Town Hisar", "path": "/", "icon": "Landmark" }
     ]
   },
 
-  "section4": {
-    "heading": "Why Deal Acrexs Is the Trusted Choice for Plot Buyers",
-    "tagline": "Buying residential land involves legal checks, price evaluation, and local market understanding. Deal Acrexs has earned buyer trust by delivering transparent property solutions and verified listings. The platform focuses on reducing buyer uncertainty through accurate information and guided assistance.\n\nFrom property discovery to final documentation, Deal Acrexs ensures a smooth, secure, and informed buying experience.",
-    "subpoints": [
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Residential Plots in Sector 13",
+    "description": [
+      "Buying residential land involves legal checks, price evaluation, and local market understanding. Deal Acres simplifies the process by offering verified listings and transparent property information.",
+      "With strong area knowledge and a buyer-first approach, Deal Acres helps customers make confident and informed property decisions."
+    ],
+    "points": [
       {
         "title": "Verified Plot Listings",
-        "content": "Every plot is reviewed for ownership clarity and documentation accuracy before being listed."
+        "description": "Every plot is reviewed for ownership clarity and documentation accuracy."
       },
       {
         "title": "Area-Specific Expertise",
-        "content": "Local insights help buyers understand Sector 13 pricing trends and development prospects."
+        "description": "Local insights help buyers understand Sector 13 pricing trends."
       },
       {
         "title": "Transparent Deal Process",
-        "content": "Clear communication ensures buyers are aware of all costs and steps involved."
+        "description": "Clear communication ensures buyers are aware of all costs and steps."
       },
       {
         "title": "Legal Assistance",
-        "content": "Support is provided for registry, approvals, and compliance documentation."
+        "description": "Support for registry, approvals, and compliance documentation."
       },
       {
         "title": "Tailored Property Suggestions",
-        "content": "Recommendations are customised based on buyer budget, plot size, and future plans."
+        "description": "Recommendations based on buyer budget, plot size, and future plans."
       },
       {
         "title": "End-to-End Buyer Support",
-        "content": "Assistance continues until possession and documentation completion."
+        "description": "Assistance continues until possession and documentation completion."
       },
       {
-        "title": "Time Efficient Search",
-        "content": "Smart filtering tools help buyers shortlist suitable plots faster."
+        "title": "Time-Efficient Search",
+        "description": "Smart tools help buyers shortlist suitable plots faster."
       },
       {
         "title": "High Customer Trust",
-        "content": "Consistent service quality has resulted in strong buyer satisfaction and referrals."
+        "description": "Consistent service quality has built strong buyer satisfaction."
       }
     ]
   },
 
-  "section5": {
-    "faqs": [
-      {
-        "question": "Is Sector 13 a suitable location for buying residential plots?",
-        "answer": "Yes, Sector 13 is a well-developed and well-connected locality, making it suitable for both residential living and long-term investment."
-      },
-      {
-        "question": "What plot sizes are available in Sector 13?",
-        "answer": "Residential plots ranging from 4 Marla to 14 Marla are commonly available in Sector 13, depending on inventory."
-      },
-      {
-        "question": "Can I construct a house immediately after purchasing a plot?",
-        "answer": "Construction can begin after completing registry formalities and obtaining required approvals from local authorities."
-      },
-      {
-        "question": "Are plots in Sector 13 legally approved?",
-        "answer": "Many plots are approved, but buyers should verify documents before finalising the purchase."
-      },
-      {
-        "question": "Does Sector 13 offer good future appreciation?",
-        "answer": "Due to its planned development and steady demand, Sector 13 shows stable appreciation potential."
-      },
-      {
-        "question": "How does Deal Acrexs help in plot buying?",
-        "answer": "Deal Acrexs offers verified listings, legal guidance, and complete transaction support."
-      },
-      {
-        "question": "Are home loans available for purchasing plots?",
-        "answer": "Loan availability depends on plot approval status and bank policies."
-      },
-      {
-        "question": "What factors affect plot prices in Sector 13?",
-        "answer": "Plot size, road access, location within the sector, and nearby amenities influence pricing."
-      },
-      {
-        "question": "Is Sector 13 well connected to major parts of Hisar?",
-        "answer": "Yes, Sector 13 has good road connectivity and access to key city facilities."
-      },
-      {
-        "question": "How can I get expert advice before purchasing a plot?",
-        "answer": "You can submit your details through the enquiry form to connect with experienced property advisors."
-      }
-    ]
-  },
+  "faqs": [
+    {
+      "question": "Is Sector 13 a suitable location for buying residential plots?",
+      "answer": "Yes, Sector 13 is a well-developed and well-connected locality, suitable for residential living and long-term investment."
+    },
+    {
+      "question": "What plot sizes are available in Sector 13 Hisar?",
+      "answer": "Residential plots generally range from 4 Marla to 14 Marla."
+    },
+    {
+      "question": "Can I construct a house immediately after purchasing a plot?",
+      "answer": "Construction can begin after completing registry formalities and required approvals."
+    },
+    {
+      "question": "Are plots in Sector 13 legally approved?",
+      "answer": "Many plots are approved, but buyers should verify documents before purchase."
+    },
+    {
+      "question": "Does Sector 13 offer good future appreciation?",
+      "answer": "Yes, planned development and steady demand support consistent appreciation."
+    }
+  ],
 
-  "section6": {
-    "heading": "Get Personalised Guidance for Buying Plots in Sector 13",
-    "tagline": "Buying a residential plot requires careful evaluation of location, legal safety, and long-term returns. Professional guidance helps buyers make informed decisions and avoid common pitfalls.\n\nShare your details through the contact form to connect with trusted experts who can assist you in finding the right plot for sale in Sector 13, Hisar based on your needs and budget.",
+  "contactSection": {
+    "title": "Get Personalised Guidance for Buying Plots in Sector 13 Hisar",
+    "description": [
+      "Buying a residential plot requires careful evaluation of location benefits, legal safety, and long-term returns.",
+      "Share your details to receive expert assistance in finding the right plot for sale in Sector 13, Hisar."
+    ],
     "formFields": ["name", "phone", "email", "message"]
   }
 }

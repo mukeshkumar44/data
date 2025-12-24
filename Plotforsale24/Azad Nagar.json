@@ -1,112 +1,125 @@
 {
   "hero": {
     "title": "Residential Plot Investment Opportunities Growing Rapidly in Azad Nagar Hisar",
-    "content": "Azad Nagar is one of the established residential localities in Hisar that continues to attract buyers looking for stable and secure property investments. A plot for sale in Azad Nagar, Hisar appeals to families and investors who prefer well-settled neighborhoods with daily conveniences already in place. The area benefits from reliable road connectivity, nearby schools, healthcare centers, grocery markets, and easy access to key city routes. This makes Azad Nagar suitable for both immediate home construction and long-term land holding.\n\nInvesting in a residential plot here gives buyers complete flexibility to design and build according to personal requirements. With limited vacant land availability and steady housing demand, plot values in Azad Nagar show consistent appreciation. Whether you are planning to construct your dream home or secure land as a future asset, Azad Nagar offers a practical mix of comfort, location advantage, and investment safety within Hisar.",
+    "description": [
+      "Azad Nagar is one of the established residential localities in Hisar that continues to attract buyers looking for stable and secure property investments. A plot for sale in Azad Nagar, Hisar appeals to families and investors who prefer well-settled neighborhoods with daily conveniences already in place. The area benefits from reliable road connectivity, nearby schools, healthcare centers, grocery markets, and easy access to key city routes. This makes Azad Nagar suitable for both immediate home construction and long-term land holding.",
+      "Investing in a residential plot here gives buyers complete flexibility to design and build according to personal requirements. With limited vacant land availability and steady housing demand, plot values in Azad Nagar show consistent appreciation. Whether you are planning to construct your dream home or secure land as a future asset, Azad Nagar offers a practical mix of comfort, location advantage, and investment safety within Hisar."
+    ],
     "buttons": [
       {
         "label": "Browse Available Plots",
-        "link": "/"
+        "path": "/"
       },
       {
         "label": "Get Expert Advice",
-        "link": "/"
+        "path": "/"
       }
-    ]
+    ],
+    "images": []
   },
 
-  "plotSizes": {
+  "featuresSection": {
     "heading": "Different Plot Sizes Available to Match Diverse Residential Needs",
-    "tagline": "Choosing the right plot size is a crucial decision when exploring a plot for sale in Azad Nagar, Hisar. Plot dimensions directly impact construction planning, budget allocation, and long-term usability. Azad Nagar offers a wide range of residential plot sizes that cater to both compact housing needs and spacious independent home designs.\n\nUnderstanding the benefits of each plot size helps buyers make informed decisions based on family size, lifestyle expectations, and future expansion plans.",
-    "options": [
+    "description": [
+      "Choosing the right plot size is a crucial decision when exploring a plot for sale in Azad Nagar, Hisar. Plot dimensions directly impact construction planning, budget allocation, and long-term usability. Azad Nagar offers a wide range of residential plot sizes that cater to both compact housing needs and spacious independent home designs.",
+      "Understanding the benefits of each plot size helps buyers make informed decisions based on family size, lifestyle expectations, and future expansion plans."
+    ],
+    "features": [
       {
         "title": "4 Marla Residential Plots",
-        "content": "4 Marla plots in Azad Nagar are ideal for buyers seeking affordable land options. These plots suit compact home designs with efficient space utilization and lower construction costs, making them attractive for first-time buyers."
+        "description": "4 Marla plots in Azad Nagar are ideal for buyers seeking affordable land options. These plots suit compact home designs with efficient space utilization and lower construction costs, making them attractive for first-time buyers."
       },
       {
         "title": "6 Marla Residential Plots",
-        "content": "6 Marla plots provide a comfortable balance between affordability and livable space. They allow better room planning and are suitable for small families wanting functional yet well-designed homes."
+        "description": "6 Marla plots provide a comfortable balance between affordability and livable space. They allow better room planning and are suitable for small families wanting functional yet well-designed homes."
       },
       {
         "title": "8 Marla Residential Plots",
-        "content": "8 Marla plots offer increased flexibility in house design, better ventilation, and scope for parking or small outdoor areas, making them a popular mid-range option."
+        "description": "8 Marla plots offer increased flexibility in house design, better ventilation, and scope for parking or small outdoor areas, making them a popular mid-range option."
       },
       {
         "title": "10 Marla Residential Plots",
-        "content": "10 Marla plots are preferred by buyers planning independent houses with open spaces, parking, and future modification possibilities."
+        "description": "10 Marla plots are preferred by buyers planning independent houses with open spaces, parking, and future modification possibilities."
       },
       {
         "title": "12 Marla Residential Plots",
-        "content": "12 Marla plots support premium residential construction, offering enhanced privacy, spacious layouts, and strong long-term value."
+        "description": "12 Marla plots support premium residential construction, offering enhanced privacy, spacious layouts, and strong long-term value."
       },
       {
         "title": "14 Marla Residential Plots",
-        "content": "14 Marla plots are suitable for luxury home projects and buyers looking for large land parcels with high appreciation potential."
+        "description": "14 Marla plots are suitable for luxury home projects and buyers looking for large land parcels with high appreciation potential."
       }
     ]
   },
 
-  "nearbyLocations": {
-    "heading": "Compare Plot Opportunities Across Other Popular Areas of Hisar",
-    "tagline": "While searching for a plot for sale in Azad Nagar, Hisar, many buyers also evaluate nearby localities to compare pricing trends, infrastructure quality, and development scope. Hisar offers multiple residential zones that cater to different budget ranges and living preferences.\n\nExploring these areas alongside Azad Nagar helps buyers identify the most suitable option for residential construction or long-term investment.",
-    "tiles": [
+  "locationsSection": {
+    "title": "Compare Plot Opportunities Across Other Popular Areas of Hisar",
+    "description": [
+      "While searching for a plot for sale in Azad Nagar, Hisar, many buyers also evaluate nearby localities to compare pricing trends, infrastructure quality, and development scope. Hisar offers multiple residential zones that cater to different budget ranges and living preferences.",
+      "Exploring these areas alongside Azad Nagar helps buyers identify the most suitable option for residential construction or long-term investment."
+    ],
+    "locations": [
       {
         "title": "Plot for Sale in Sector 14 Hisar",
-        "link": "/"
+        "path": "/"
       },
       {
         "title": "Plot for Sale in Sector 15 Hisar",
-        "link": "/"
+        "path": "/"
       },
       {
         "title": "Plot for Sale in Bank Colony Hisar",
-        "link": "/"
+        "path": "/"
       },
       {
         "title": "Plot for Sale in Krishna Nagar Hisar",
-        "link": "/"
+        "path": "/"
       },
       {
         "title": "Plot for Sale in Urban Estate Hisar",
-        "link": "/"
+        "path": "/"
       }
     ]
   },
 
-  "dealAcrexs": {
-    "heading": "Why Buyers Prefer Deal Acrexs for Secure Plot Purchases",
-    "tagline": "Buying residential land involves legal verification, market evaluation, and careful location assessment. Deal Acrexs simplifies the buying journey by offering verified listings, transparent information, and customer-focused support for buyers interested in Azad Nagar.\n\nWith a strong emphasis on trust, clarity, and professional guidance, Deal Acrexs helps buyers make confident property decisions without unnecessary complications.",
-    "reasons": [
+  "whyChoose": {
+    "title": "Why Buyers Prefer Deal Acrexs for Secure Plot Purchases",
+    "description": [
+      "Buying residential land involves legal verification, market evaluation, and careful location assessment. Deal Acrexs simplifies the buying journey by offering verified listings, transparent information, and customer-focused support for buyers interested in Azad Nagar.",
+      "With a strong emphasis on trust, clarity, and professional guidance, Deal Acrexs helps buyers make confident property decisions without unnecessary complications."
+    ],
+    "points": [
       {
         "title": "Verified Plot Listings",
-        "content": "Every plot listing undergoes checks for ownership details and documentation accuracy to reduce buyer risk."
+        "description": "Every plot listing undergoes checks for ownership details and documentation accuracy to reduce buyer risk."
       },
       {
         "title": "Clear Legal Guidance",
-        "content": "Buyers receive assistance in understanding approvals, registry processes, and compliance requirements."
+        "description": "Buyers receive assistance in understanding approvals, registry processes, and compliance requirements."
       },
       {
         "title": "Accurate Market Pricing",
-        "content": "Local price insights ensure buyers pay fair and competitive rates."
+        "description": "Local price insights ensure buyers pay fair and competitive rates."
       },
       {
         "title": "User-Friendly Platform",
-        "content": "Easy filters and search tools help buyers quickly shortlist relevant plot options."
+        "description": "Easy filters and search tools help buyers quickly shortlist relevant plot options."
       },
       {
         "title": "Personalized Property Support",
-        "content": "Recommendations are aligned with individual budget, usage, and investment goals."
+        "description": "Recommendations are aligned with individual budget, usage, and investment goals."
       },
       {
         "title": "Transparent Communication",
-        "content": "All property details are shared clearly to avoid hidden surprises."
+        "description": "All property details are shared clearly to avoid hidden surprises."
       },
       {
         "title": "End-to-End Assistance",
-        "content": "Support is provided from initial inquiry through final documentation."
+        "description": "Support is provided from initial inquiry through final documentation."
       },
       {
         "title": "Strong Buyer Trust",
-        "content": "Deal Acrexs has built credibility through consistent service quality and customer satisfaction."
+        "description": "Deal Acrexs has built credibility through consistent service quality and customer satisfaction."
       }
     ]
   },
@@ -154,9 +167,12 @@
     }
   ],
 
-  "contact": {
-    "heading": "Connect With Experts to Buy the Right Plot Confidently",
-    "tagline": "Buying a residential plot involves careful evaluation of location, pricing, and legal aspects. Professional guidance can help you avoid common pitfalls and make informed decisions.\n\nFill in your details to connect with experienced property advisors who can help you find the best plot for sale in Azad Nagar, Hisar, based on your requirements.",
+  "contact-section": {
+    "title": "Connect With Experts to Buy the Right Plot Confidently",
+    "description": [
+      "Buying a residential plot involves careful evaluation of location, pricing, and legal aspects. Professional guidance can help you avoid common pitfalls and make informed decisions.",
+      "Fill in your details to connect with experienced property advisors who can help you find the best plot for sale in Azad Nagar, Hisar, based on your requirements."
+    ],
     "formFields": ["name", "phone", "email", "message"]
   }
 }

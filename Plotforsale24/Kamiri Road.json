@@ -1,112 +1,125 @@
 {
   "hero": {
-    "heading": "Residential Plot Investment Opportunities Along Rapidly Developing Kamiri Road Hisar",
-    "content": "Kamiri Road has emerged as one of the fastest-growing residential corridors in Hisar, attracting homebuyers and investors looking for affordable land with strong future potential. Choosing a plot for sale in Kamiri Road, Hisar allows buyers to enter a location that is witnessing continuous infrastructure upgrades, improved road connectivity, and expanding residential development. The area connects smoothly with key parts of the city while still offering comparatively open surroundings and planned layouts.\n\nPlots along Kamiri Road are suitable for buyers planning independent home construction as well as investors seeking appreciation-driven assets. With increasing demand for residential expansion beyond the city core, Kamiri Road presents a balanced mix of accessibility, pricing advantage, and long-term growth. Whether you plan to build immediately or hold the plot for future value, this location supports smart, forward-looking property decisions in Hisar.",
+    "title": "Residential Plot Investment Opportunities Along Rapidly Developing Kamiri Road Hisar",
+    "description": [
+      "Kamiri Road has emerged as one of the fastest-growing residential corridors in Hisar, attracting homebuyers and investors looking for affordable land with strong future potential. Choosing a plot for sale in Kamiri Road, Hisar allows buyers to enter a location that is witnessing continuous infrastructure upgrades, improved road connectivity, and expanding residential development. The area connects smoothly with key parts of the city while still offering comparatively open surroundings and planned layouts.",
+      "Plots along Kamiri Road are suitable for buyers planning independent home construction as well as investors seeking appreciation-driven assets. With increasing demand for residential expansion beyond the city core, Kamiri Road presents a balanced mix of accessibility, pricing advantage, and long-term growth. Whether you plan to build immediately or hold the plot for future value, this location supports smart, forward-looking property decisions in Hisar."
+    ],
     "buttons": [
       {
         "label": "View Available Plots",
-        "link": "/"
+        "path": "/"
       },
       {
         "label": "Consult Property Advisor",
-        "link": "/"
+        "path": "/"
       }
-    ]
+    ],
+    "images": []
   },
 
-  "plotSizes": {
+  "featuresSection": {
     "heading": "Plot Size Options on Kamiri Road Designed for Diverse Housing Needs",
-    "tagline": "Selecting the right plot size is a critical step when purchasing residential land. Kamiri Road offers multiple plot dimensions that cater to different budgets, construction plans, and lifestyle expectations. From compact plots for cost-efficient homes to larger plots for spacious residences, buyers can find options that align with both present requirements and future expansion goals.\n\nUnderstanding plot size advantages helps ensure practical home planning, controlled construction costs, and better long-term usability.",
-    "options": [
+    "description": [
+      "Selecting the right plot size is a critical step when purchasing residential land. Kamiri Road offers multiple plot dimensions that cater to different budgets, construction plans, and lifestyle expectations. From compact plots for cost-efficient homes to larger plots for spacious residences, buyers can find options that align with both present requirements and future expansion goals.",
+      "Understanding plot size advantages helps ensure practical home planning, controlled construction costs, and better long-term usability."
+    ],
+    "features": [
       {
         "title": "4 Marla Plot",
-        "content": "4 Marla plots on Kamiri Road are ideal for budget-conscious buyers seeking entry-level residential land with good connectivity."
+        "description": "4 Marla plots on Kamiri Road are ideal for budget-conscious buyers seeking entry-level residential land with good connectivity."
       },
       {
         "title": "6 Marla Plot",
-        "content": "6 Marla plots provide balanced space for comfortable home layouts while maintaining affordability and easy maintenance."
+        "description": "6 Marla plots provide balanced space for comfortable home layouts while maintaining affordability and easy maintenance."
       },
       {
         "title": "8 Marla Plot",
-        "content": "8 Marla plots allow better ventilation, parking space, and flexible architectural planning for growing families."
+        "description": "8 Marla plots allow better ventilation, parking space, and flexible architectural planning for growing families."
       },
       {
         "title": "10 Marla Plot",
-        "content": "10 Marla plots support modern independent homes with additional open space and enhanced lifestyle comfort."
+        "description": "10 Marla plots support modern independent homes with additional open space and enhanced lifestyle comfort."
       },
       {
         "title": "12 Marla Plot",
-        "content": "12 Marla plots are suitable for buyers seeking premium residential space with higher resale and rental potential."
+        "description": "12 Marla plots are suitable for buyers seeking premium residential space with higher resale and rental potential."
       },
       {
         "title": "14 Marla Plot",
-        "content": "14 Marla plots offer ample land for luxury homes and long-term appreciation in a developing residential zone."
+        "description": "14 Marla plots offer ample land for luxury homes and long-term appreciation in a developing residential zone."
       }
     ]
   },
 
-  "locationTiles": {
-    "heading": "Compare Residential Plot Locations Across Key Areas of Hisar",
-    "tagline": "Evaluating multiple residential localities helps buyers understand pricing variations, development pace, and livability standards. Along with Kamiri Road, Hisar offers several established and upcoming zones that suit different investment and residential goals.\n\nExploring location options empowers buyers to choose land that aligns with budget, connectivity, and future prospects.",
-    "tiles": [
+  "locationsSection": {
+    "title": "Compare Residential Plot Locations Across Key Areas of Hisar",
+    "description": [
+      "Evaluating multiple residential localities helps buyers understand pricing variations, development pace, and livability standards. Along with Kamiri Road, Hisar offers several established and upcoming zones that suit different investment and residential goals.",
+      "Exploring location options empowers buyers to choose land that aligns with budget, connectivity, and future prospects."
+    ],
+    "locations": [
       {
         "title": "Plot for Sale in Sector 14 Hisar",
-        "link": "/"
+        "path": "/"
       },
       {
         "title": "Plot for Sale in Sector 15 Hisar",
-        "link": "/"
+        "path": "/"
       },
       {
         "title": "Plot for Sale in Sector 16-17 Hisar",
-        "link": "/"
+        "path": "/"
       },
       {
         "title": "Plot for Sale in Urban Estate Hisar",
-        "link": "/"
+        "path": "/"
       },
       {
         "title": "Plot for Sale in Model Town Hisar",
-        "link": "/"
+        "path": "/"
       }
     ]
   },
 
-  "dealAcrexs": {
-    "heading": "Why Deal Acrexs Is the Preferred Platform for Plot Buyers",
-    "tagline": "Buying residential land requires clarity on legal ownership, fair pricing, and location suitability. Deal Acrexs simplifies this process by offering verified listings, local expertise, and transparent communication throughout the buying journey.\n\nWith a strong customer-first approach, Deal Acrexs ensures buyers receive reliable guidance and stress-free property transactions.",
+  "whyChoose": {
+    "title": "Why Deal Acrexs Is the Preferred Platform for Plot Buyers",
+    "description": [
+      "Buying residential land requires clarity on legal ownership, fair pricing, and location suitability. Deal Acrexs simplifies this process by offering verified listings, local expertise, and transparent communication throughout the buying journey.",
+      "With a strong customer-first approach, Deal Acrexs ensures buyers receive reliable guidance and stress-free property transactions."
+    ],
     "points": [
       {
         "title": "Verified Plot Listings",
-        "content": "Every plot is checked for documentation accuracy and ownership authenticity."
+        "description": "Every plot is checked for documentation accuracy and ownership authenticity."
       },
       {
         "title": "Area-Specific Expertise",
-        "content": "Local market insights help buyers understand Kamiri Road pricing and growth trends."
+        "description": "Local market insights help buyers understand Kamiri Road pricing and growth trends."
       },
       {
         "title": "Legal Assistance Support",
-        "content": "Guidance is provided on registry processes and compliance requirements."
+        "description": "Guidance is provided on registry processes and compliance requirements."
       },
       {
         "title": "Transparent Deal Process",
-        "content": "Clear pricing ensures buyers face no hidden costs or surprises."
+        "description": "Clear pricing ensures buyers face no hidden costs or surprises."
       },
       {
         "title": "Customized Property Options",
-        "content": "Plot suggestions are aligned with buyer budget, size preference, and goals."
+        "description": "Plot suggestions are aligned with buyer budget, size preference, and goals."
       },
       {
         "title": "End-to-End Buyer Support",
-        "content": "Assistance continues from inquiry to final documentation completion."
+        "description": "Assistance continues from inquiry to final documentation completion."
       },
       {
         "title": "Efficient Search Tools",
-        "content": "User-friendly platform design helps buyers shortlist plots quickly."
+        "description": "User-friendly platform design helps buyers shortlist plots quickly."
       },
       {
         "title": "Strong Buyer Trust",
-        "content": "Consistent service quality builds long-term customer confidence."
+        "description": "Consistent service quality builds long-term customer confidence."
       }
     ]
   },
@@ -154,9 +167,12 @@
     }
   ],
 
-  "contact": {
-    "heading": "Connect With Experts to Secure the Right Residential Plot",
-    "tagline": "Buying a plot involves important decisions related to location, legal safety, and future returns. Professional assistance helps buyers avoid risks and choose land that aligns with long-term goals.\n\nFill in your details to connect with trusted advisors who can guide you toward the best plot for sale in Kamiri Road, Hisar based on your budget and requirements.",
+  "contactSection": {
+    "title": "Connect With Experts to Secure the Right Residential Plot",
+    "description": [
+      "Buying a plot involves important decisions related to location, legal safety, and future returns. Professional assistance helps buyers avoid risks and choose land that aligns with long-term goals.",
+      "Fill in your details to connect with trusted advisors who can guide you toward the best plot for sale in Kamiri Road, Hisar based on your budget and requirements."
+    ],
     "formFields": ["name", "phone", "email", "message"]
   }
 }

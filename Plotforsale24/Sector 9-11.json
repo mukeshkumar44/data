@@ -1,112 +1,110 @@
 {
   "hero": {
-    "heading": "Prime Residential Plot Opportunities in Well Connected Sector 9-11 Hisar",
-    "content": "Sector 9-11 is among the most preferred residential belts in Hisar due to its central location, established infrastructure, and balanced urban environment. A plot for sale in Sector 9-11, Hisar is ideal for buyers who want both convenience and long-term value. The locality is surrounded by reputed schools, healthcare facilities, local markets, and smooth road connectivity, making daily life comfortable and time-efficient.\n\nPurchasing a residential plot here gives buyers complete flexibility to design and build a home that matches their lifestyle and future plans. With consistent demand, limited vacant land, and steady price appreciation, Sector 9-11 stands out as a reliable option for both end-users and investors. Whether you plan to construct immediately or hold the land for future gains, this location offers stability, accessibility, and strong growth potential within Hisar’s real estate market.",
+    "title": "Prime Residential Plot Opportunities in Well-Connected Sector 9-11 Hisar",
+    "description": [
+      "Sector 9-11 is among the most preferred residential belts in Hisar due to its central location, established infrastructure, and balanced urban environment. Buying a plot for sale in Sector 9-11, Hisar is ideal for families and investors seeking convenience along with long-term value.",
+      "With reputed schools, healthcare facilities, local markets, and smooth road connectivity nearby, this locality ensures comfortable daily living. Limited land availability and steady demand make Sector 9-11 a stable and high-potential residential destination."
+    ],
     "buttons": [
       {
         "label": "Check Available Plots",
-        "link": "/"
+        "path": "/"
       },
       {
         "label": "Connect With Expert",
-        "link": "/"
+        "path": "/"
       }
-    ]
+    ],
+    "images": []
   },
 
-  "plotSizes": {
+  "featuresSection": {
     "heading": "Select the Ideal Plot Size That Matches Your Housing Vision",
-    "tagline": "Choosing the right plot size plays a crucial role when investing in a plot for sale in Sector 9-11, Hisar. Plot dimensions directly affect construction design, budget planning, open space availability, and future expansion possibilities. Sector 9-11 offers a variety of plot sizes to suit different residential needs and financial plans.\n\nUnderstanding the advantages of each plot size helps buyers make informed decisions that align with both present requirements and long-term objectives.",
-    "options": [
+    "description": [
+      "Choosing the right plot size plays a crucial role in construction planning, budget management, and future expansion. Plot dimensions directly affect home design, open spaces, and overall comfort.",
+      "Sector 9-11 offers multiple residential plot size options to suit different housing needs and investment plans."
+    ],
+    "features": [
       {
-        "title": "4 Marla Plot",
-        "content": "4 Marla plots are suitable for buyers seeking affordable residential land. These plots allow compact home construction with efficient layouts, making them ideal for small families or first-time property buyers."
+        "title": "4 Marla Plots in Sector 9-11",
+        "description": "4 Marla plots are suitable for buyers seeking affordable residential land. These plots allow compact home construction with efficient layouts."
       },
       {
-        "title": "6 Marla Plot",
-        "content": "6 Marla plots provide a practical balance between cost and space. They support better room planning, adequate ventilation, and comfortable living without a high investment burden."
+        "title": "6 Marla Plots in Sector 9-11",
+        "description": "6 Marla plots offer a balance between cost and space, supporting better room planning, ventilation, and comfortable living."
       },
       {
-        "title": "8 Marla Plot",
-        "content": "8 Marla plots offer enhanced design flexibility. Buyers can plan spacious interiors, parking areas, and small green spaces, making them popular among mid-budget home builders."
+        "title": "8 Marla Plots in Sector 9-11",
+        "description": "8 Marla plots provide enhanced design flexibility with space for parking and small green areas, making them popular among mid-budget buyers."
       },
       {
-        "title": "10 Marla Plot",
-        "content": "10 Marla plots are ideal for independent homes with larger living areas. These plots allow premium construction and offer strong resale potential."
+        "title": "10 Marla Plots in Sector 9-11",
+        "description": "10 Marla plots are ideal for spacious independent homes with premium construction and strong resale value."
       },
       {
-        "title": "12 Marla Plot",
-        "content": "12 Marla plots are preferred by buyers looking for upscale residential development with more privacy, open areas, and long-term appreciation."
+        "title": "12 Marla Plots in Sector 9-11",
+        "description": "12 Marla plots are preferred for upscale residential development offering better privacy and long-term appreciation."
       },
       {
-        "title": "14 Marla Plot",
-        "content": "14 Marla plots are best suited for luxury home projects. They offer ample space, flexibility, and high investment value within Sector 9-11."
+        "title": "14 Marla Plots in Sector 9-11",
+        "description": "14 Marla plots are suitable for luxury homes and high-value investments within a prime residential sector."
       }
     ]
   },
 
-  "locationTiles": {
-    "heading": "Discover Plot Options in Other Prominent Residential Locations",
-    "tagline": "While exploring a plot for sale in Sector 9-11, Hisar, buyers often compare nearby residential areas to understand price trends, development quality, and future prospects. Hisar features multiple planned sectors and colonies that cater to varied budgets and preferences.\n\nExploring multiple locations helps buyers identify the most suitable area for building a home or making a secure real estate investment.",
-    "tiles": [
-      {
-        "title": "Plot for Sale in Sector 14 Hisar",
-        "link": "/"
-      },
-      {
-        "title": "Plot for Sale in Sector 15 Hisar",
-        "link": "/"
-      },
-      {
-        "title": "Plot for Sale in Sector 16-17 Hisar",
-        "link": "/"
-      },
-      {
-        "title": "Plot for Sale in Urban Estate Hisar",
-        "link": "/"
-      },
-      {
-        "title": "Plot for Sale in Bank Colony Hisar",
-        "link": "/"
-      }
+  "locationsSection": {
+    "title": "Discover Plot Options in Other Prominent Residential Locations",
+    "description": [
+      "While considering a plot in Sector 9-11, buyers often explore nearby residential areas to compare pricing, infrastructure quality, and future growth potential.",
+      "Hisar offers several planned sectors and colonies that cater to different budgets and lifestyle preferences."
+    ],
+    "locations": [
+      { "title": "Plot for Sale in Sector 14 Hisar", "path": "/", "icon": "Landmark" },
+      { "title": "Plot for Sale in Sector 15 Hisar", "path": "/", "icon": "Landmark" },
+      { "title": "Plot for Sale in Sector 16-17 Hisar", "path": "/", "icon": "Landmark" },
+      { "title": "Plot for Sale in Urban Estate Hisar", "path": "/", "icon": "Landmark" },
+      { "title": "Plot for Sale in Bank Colony Hisar", "path": "/", "icon": "Landmark" }
     ]
   },
 
-  "dealAcrexs": {
-    "heading": "Why Buyers Trust Deal Acrexs for Residential Plot Investments",
-    "tagline": "Buying a residential plot requires market awareness, legal clarity, and accurate information. Deal Acrexs simplifies the entire process by offering verified listings, transparent details, and expert assistance focused on buyer satisfaction.\n\nWith strong local expertise and a customer-centric approach, Deal Acrexs ensures a smooth, secure, and informed property buying experience.",
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Residential Plot Investments",
+    "description": [
+      "Buying a residential plot requires accurate market information, legal clarity, and transparent pricing. Deal Acres simplifies the buying journey by offering verified listings and professional assistance.",
+      "With strong local expertise and a buyer-focused approach, Deal Acres ensures a secure and informed property buying experience."
+    ],
     "points": [
       {
         "title": "Verified Plot Listings",
-        "content": "Each listing undergoes strict verification to ensure authenticity, ownership clarity, and documentation accuracy."
+        "description": "Each listing is verified for ownership clarity and documentation accuracy."
       },
       {
         "title": "Legal Assistance Support",
-        "content": "Buyers receive guidance on registry, approvals, and compliance to avoid future legal complications."
+        "description": "Guidance is provided for registry, approvals, and compliance."
       },
       {
         "title": "Accurate Market Pricing",
-        "content": "Local market insights help buyers understand fair pricing and investment value."
+        "description": "Local market insights help buyers understand fair property value."
       },
       {
-        "title": "User Friendly Platform",
-        "content": "Easy search tools and filters make it simple to shortlist suitable plots quickly."
+        "title": "User-Friendly Platform",
+        "description": "Easy search tools make shortlisting plots quick and simple."
       },
       {
-        "title": "Customized Property Suggestions",
-        "content": "Recommendations are tailored based on budget, plot size preference, and future plans."
+        "title": "Personalised Recommendations",
+        "description": "Property suggestions based on budget, size preference, and future plans."
       },
       {
         "title": "Transparent Deal Process",
-        "content": "Clear communication ensures buyers are fully informed at every stage of the transaction."
+        "description": "Clear communication ensures buyers are informed at every step."
       },
       {
-        "title": "Complete Transaction Support",
-        "content": "Assistance is provided from initial inquiry to final documentation and possession."
+        "title": "End-to-End Support",
+        "description": "Assistance from enquiry to final documentation and possession."
       },
       {
         "title": "Trusted Buyer Experience",
-        "content": "Consistent service quality has built long-term trust among property buyers."
+        "description": "Consistent service quality has built strong buyer trust."
       }
     ]
   },
@@ -114,49 +112,32 @@
   "faqs": [
     {
       "question": "Is Sector 9-11 a good location for buying residential plots?",
-      "answer": "Yes, Sector 9-11 is centrally located with established infrastructure, making it suitable for both residential living and long-term investment."
+      "answer": "Yes, Sector 9-11 is centrally located with developed infrastructure, suitable for living and long-term investment."
     },
     {
       "question": "What plot sizes are available in Sector 9-11?",
-      "answer": "Plots typically range from 4 Marla to 14 Marla, offering flexibility for different budgets and construction needs."
+      "answer": "Residential plots generally range from 4 Marla to 14 Marla."
     },
     {
-      "question": "Can I construct my house immediately after buying a plot?",
-      "answer": "Construction is allowed after obtaining required approvals and following local building regulations."
+      "question": "Can I start construction immediately after buying a plot?",
+      "answer": "Construction can begin after completing required approvals and registry formalities."
     },
     {
       "question": "Are plots in Sector 9-11 legally approved?",
-      "answer": "Most plots fall under approved residential zones, but buyers should always verify documents before finalizing."
+      "answer": "Most plots fall under approved residential zones, but document verification is recommended."
     },
     {
-      "question": "Is Sector 9-11 suitable for investment purposes?",
-      "answer": "Yes, due to limited land availability and steady demand, the area shows consistent appreciation."
-    },
-    {
-      "question": "How does Deal Acrexs help in buying plots?",
-      "answer": "Deal Acrexs provides verified listings, legal guidance, pricing insights, and end-to-end transaction support."
-    },
-    {
-      "question": "Are home loans available for residential plots?",
-      "answer": "Loan availability depends on plot approval status and individual bank policies."
-    },
-    {
-      "question": "What factors influence plot prices in Sector 9-11?",
-      "answer": "Plot size, road access, nearby amenities, and overall market demand affect pricing."
-    },
-    {
-      "question": "Is Sector 9-11 well connected to other parts of Hisar?",
-      "answer": "Yes, the sector enjoys strong connectivity to major residential and commercial zones."
-    },
-    {
-      "question": "How can I get expert guidance for plot selection?",
-      "answer": "You can submit your details to connect with property advisors for personalized assistance."
+      "question": "Is Sector 9-11 suitable for investment?",
+      "answer": "Yes, limited land availability and steady demand support consistent appreciation."
     }
   ],
 
-  "contact": {
-    "heading": "Connect With Experts to Find the Right Residential Plot",
-    "tagline": "Buying the right residential plot requires careful evaluation of location benefits, legal aspects, and future growth potential. Expert guidance helps you make confident and informed decisions.\n\nShare your details to connect with experienced advisors who can help you find the best plot for sale in Sector 9-11, Hisar based on your preferences and investment goals.",
+  "contactSection": {
+    "title": "Connect With Experts to Find the Right Residential Plot in Sector 9-11",
+    "description": [
+      "Buying a residential plot requires careful evaluation of location benefits, legal aspects, and future growth potential.",
+      "Share your details to receive personalised guidance for finding the best plot for sale in Sector 9-11, Hisar."
+    ],
     "formFields": ["name", "phone", "email", "message"]
   }
 }
