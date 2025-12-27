@@ -1,1 +1,170 @@
-{}
+{
+  "domain": "flat-for-sale.com",
+
+  "hero": {
+    "title": "Well Developed and Centrally Located Flats for Sale in Sector 18 Faridabad",
+    "description": [
+      "Sector 18 Faridabad is a well-known and established residential locality that attracts buyers looking for convenience, connectivity, and a balanced urban lifestyle. People searching for a flat for sale in Sector 18 Faridabad prefer this area due to its close proximity to Neelam Chowk, Mathura Road, commercial markets, and major business establishments. The sector offers easy access to schools, hospitals, shopping areas, banks, and public transport, making daily life smooth for families and working professionals.",
+      "Residential flats in Sector 18 Faridabad mainly include low-rise builder floors and ready-to-move options designed for comfortable and practical living. The locality benefits from stable infrastructure, well-maintained internal roads, and a mature residential environment. Due to consistent demand and limited new supply, buying a flat in Sector 18 ensures good rental demand, steady appreciation, and long-term residential security."
+    ],
+    "buttons": [
+      { "label": "Explore Flats in Sector 18", "path": "/" },
+      { "label": "Get Property Expert Advice", "path": "/" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c",
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Understanding Plot Size Based Flat Development in Sector 18",
+    "description": [
+      "Plot size plays an important role in defining flat layout, ventilation, privacy, and overall living quality when choosing a flat for sale in Sector 18 Faridabad.",
+      "Sector 18 features residential developments across various plot sizes, supporting builder floors and low-rise flats suitable for different family sizes and budgets."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot Based Flats in Sector 18",
+        "description": "4 Marla plot based flats are compact and budget-friendly, designed for efficient space usage. These homes are suitable for small families, couples, and first-time buyers."
+      },
+      {
+        "title": "6 Marla Plot Based Flats in Sector 18",
+        "description": "6 Marla developments offer better room planning and ventilation, making them ideal for families seeking balanced and comfortable living spaces."
+      },
+      {
+        "title": "8 Marla Plot Based Flats in Sector 18",
+        "description": "8 Marla plot constructions provide spacious interiors, better natural light, and improved privacy for growing families."
+      },
+      {
+        "title": "10 Marla Plot Based Flats in Sector 18",
+        "description": "10 Marla flats feature wider layouts, better parking facilities, and improved construction quality for long-term comfort."
+      },
+      {
+        "title": "12 Marla Plot Based Flats in Sector 18",
+        "description": "12 Marla developments are considered premium options with refined layouts, larger balconies, and enhanced airflow."
+      },
+      {
+        "title": "14 Marla Plot Based Flats in Sector 18",
+        "description": "14 Marla plot based flats represent low-density living with superior privacy and strong resale potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential and Rental Property Options in Sector 18 Faridabad",
+    "description": [
+      "Buyers looking for a flat for sale in Sector 18 Faridabad often explore different residential and rental property categories before finalizing a purchase.",
+      "These tiles help users easily navigate related property options within Sector 18 and nearby areas."
+    ],
+    "locations": [
+      { "title": "Flat for Sale in Sector 18 Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "Flat for Rent in Sector 18 Faridabad", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 18 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 18 Faridabad", "path": "/", "icon": "Key" },
+      { "title": "Builder Floors in Sector 18", "path": "/", "icon": "Layers" },
+      { "title": "Plots for Sale in Sector 18", "path": "/", "icon": "Landmark" },
+      { "title": "Nearby Residential Sectors in Faridabad", "path": "/", "icon": "Map" },
+      { "title": "Ready to Move Flats in Faridabad", "path": "/", "icon": "CheckCircle" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Sector 18 Properties",
+    "description": [
+      "Finding a reliable flat for sale in Sector 18 Faridabad requires verified listings, transparent pricing, and professional guidance. Deal Acres focuses on trust, accuracy, and buyer satisfaction.",
+      "With strong local market experience, Deal Acres helps buyers make confident and well-informed property decisions."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All listings are thoroughly verified to ensure authenticity and reliability."
+      },
+      {
+        "title": "Transparent Pricing Guidance",
+        "description": "Clear pricing insights based on real local market trends."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth understanding of Sector 18 residential trends."
+      },
+      {
+        "title": "Easy Property Search Experience",
+        "description": "User-friendly tools simplify browsing and shortlisting."
+      },
+      {
+        "title": "Buyer Focused Consultation",
+        "description": "Recommendations tailored to buyer needs and budgets."
+      },
+      {
+        "title": "Legal and Documentation Assistance",
+        "description": "Complete support with paperwork and ownership checks."
+      },
+      {
+        "title": "End to End Buying Support",
+        "description": "Assistance from enquiry to possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Consistent service quality has built long-term buyer trust."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Flats in Sector 18 Faridabad",
+    "description": "Detailed answers to common buyer queries for informed decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 18 Faridabad a good location to buy a flat?",
+        "answer": "Yes, Sector 18 is centrally located with strong infrastructure, making it suitable for both living and investment."
+      },
+      {
+        "question": "What types of flats are available in Sector 18?",
+        "answer": "Buyers can find builder floors, low-rise apartments, and ready-to-move flats."
+      },
+      {
+        "question": "Is Sector 18 suitable for family living?",
+        "answer": "Yes, schools, hospitals, parks, and markets are easily accessible."
+      },
+      {
+        "question": "Are flats in Sector 18 good for investment?",
+        "answer": "Stable demand and limited supply support long-term value appreciation."
+      },
+      {
+        "question": "Are home loans available for flats in Sector 18?",
+        "answer": "Most properties are eligible for bank home loans, subject to documentation."
+      },
+      {
+        "question": "What affects flat prices in Sector 18 Faridabad?",
+        "answer": "Prices depend on plot size, construction quality, flat size, and location."
+      },
+      {
+        "question": "Are ready to move flats available in Sector 18?",
+        "answer": "Yes, many flats are ready for immediate possession."
+      },
+      {
+        "question": "How is connectivity from Sector 18?",
+        "answer": "Sector 18 is well connected to Mathura Road, Neelam Chowk, and major city areas."
+      },
+      {
+        "question": "Does Deal Acres provide verified listings in Sector 18?",
+        "answer": "Yes, all listings on Deal Acres are verified."
+      },
+      {
+        "question": "How can I contact a property expert for Sector 18?",
+        "answer": "You can submit your details through the enquiry form to connect with experienced advisors."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Assistance for Buying Flats in Sector 18 Faridabad",
+    "description": [
+      "Buying a flat for sale in Sector 18 Faridabad becomes easier with professional guidance and verified listings.",
+      "Share your details to connect with experts who will help you shortlist and finalize the right home."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

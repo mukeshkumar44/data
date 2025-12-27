@@ -1,1 +1,170 @@
-{}
+{
+  "domain": "flat-for-sale.com",
+
+  "hero": {
+    "title": "Well Planned and Centrally Located Flats for Sale in Sector 31",
+    "description": [
+      "Sector 31 Faridabad is a prime residential locality known for its central location, excellent road connectivity, and well-developed infrastructure. Homebuyers searching for a flat for sale in Sector 31 Faridabad are drawn to this area due to its proximity to Mathura Road, NH-19, metro stations, and major commercial zones. The sector offers easy access to schools, hospitals, shopping markets, offices, and daily convenience facilities, making everyday living smooth and stress-free.",
+      "Flats in Sector 31 Faridabad are popular among families, professionals, and long-term investors because of the sector’s organized layout and stable residential environment. Limited overcrowding and consistent housing demand support healthy property appreciation. Buying a flat here provides a strong balance of comfort, connectivity, and long-term investment security."
+    ],
+    "buttons": [
+      { "label": "Explore Flats in Sector 31", "path": "/" },
+      { "label": "Get Expert Property Guidance", "path": "/" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c",
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Patterns Supporting Housing in Sector 31",
+    "description": [
+      "Understanding plot size distribution is important when evaluating a flat for sale in Sector 31 Faridabad, as it directly affects building design, ventilation, privacy, and overall living quality. Plot dimensions influence how residential buildings are planned and how comfortably families can live.",
+      "Sector 31 includes a mix of builder floors and low-rise flats developed on various plot sizes, offering flexible housing options across different budget ranges."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot Based Flats in Sector 31",
+        "description": "4 Marla plot developments generally feature compact flats with efficient layouts. These homes are suitable for small families and buyers looking for affordable residential options."
+      },
+      {
+        "title": "6 Marla Plot Based Flats in Sector 31",
+        "description": "6 Marla plots allow better space utilization with improved room planning, ventilation, and functional interiors, making them ideal for mid-range buyers."
+      },
+      {
+        "title": "8 Marla Plot Based Flats in Sector 31",
+        "description": "8 Marla plot constructions offer balanced flat designs with comfortable room sizes and better privacy for growing families."
+      },
+      {
+        "title": "10 Marla Plot Based Flats in Sector 31",
+        "description": "10 Marla plots support spacious residential layouts with enhanced parking availability and improved living comfort."
+      },
+      {
+        "title": "12 Marla Plot Based Flats in Sector 31",
+        "description": "12 Marla developments are often associated with premium construction quality, wider layouts, and long-term livability."
+      },
+      {
+        "title": "14 Marla Plot Based Flats in Sector 31",
+        "description": "14 Marla plots represent low-density housing with superior space planning and strong value retention over time."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Property Options Available in Sector 31 Faridabad",
+    "description": [
+      "Buyers exploring a flat for sale in Sector 31 Faridabad often compare different residential and rental categories to identify the most suitable option.",
+      "These tiles help users easily navigate related property types within Sector 31 and nearby localities."
+    ],
+    "locations": [
+      { "title": "Flat for Sale in Sector 31 Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "Flat for Rent in Sector 31 Faridabad", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 31 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 31 Faridabad", "path": "/", "icon": "Key" },
+      { "title": "Builder Floors in Sector 31", "path": "/", "icon": "Layers" },
+      { "title": "Plots for Sale in Sector 31", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Areas Near Sector 30", "path": "/", "icon": "Map" },
+      { "title": "Ready to Move Flats in Faridabad", "path": "/", "icon": "CheckCircle" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Sector 31 Property Search",
+    "description": [
+      "Finding the right flat for sale in Sector 31 Faridabad requires verified listings and accurate market insights. Deal Acres focuses on transparency, trust, and buyer-first guidance.",
+      "With strong experience in Faridabad’s real estate market, Deal Acres helps buyers make confident and informed property decisions."
+    ],
+    "points": [
+      {
+        "title": "Verified Listings Only",
+        "description": "Each property listing is checked for accuracy and authenticity."
+      },
+      {
+        "title": "Clear Pricing Information",
+        "description": "Buyers receive realistic pricing insights based on local market trends."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "Deep knowledge of Sector 31 ensures relevant property suggestions."
+      },
+      {
+        "title": "Easy Property Discovery",
+        "description": "Simple tools make searching and comparing properties easy."
+      },
+      {
+        "title": "Buyer-Centric Approach",
+        "description": "Recommendations are aligned with buyer needs and budgets."
+      },
+      {
+        "title": "Legal Documentation Support",
+        "description": "Assistance is provided for understanding paperwork and legal checks."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support is available from search to final possession."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Consistent service quality builds long-term customer trust."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Flats in Sector 31 Faridabad",
+    "description": "Common buyer questions answered clearly to support informed decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 31 Faridabad a good place to buy a flat?",
+        "answer": "Yes, Sector 31 is centrally located with excellent connectivity, strong infrastructure, and stable residential demand, making it ideal for both living and investment."
+      },
+      {
+        "question": "What types of flats are available in Sector 31?",
+        "answer": "The area offers builder floors, low-rise flats, and residential apartments in multiple configurations."
+      },
+      {
+        "question": "Is Sector 31 suitable for family living?",
+        "answer": "Yes, the sector has schools, hospitals, parks, and markets nearby, making it family-friendly."
+      },
+      {
+        "question": "Are flats in Sector 31 good for long-term investment?",
+        "answer": "Stable demand, central location, and limited overdevelopment support consistent value appreciation."
+      },
+      {
+        "question": "Are home loans available for flats in Sector 31?",
+        "answer": "Most properties are eligible for home loans, subject to bank approval and proper documentation."
+      },
+      {
+        "question": "What factors influence flat prices in Sector 31?",
+        "answer": "Pricing depends on flat size, plot size, construction quality, and exact location within the sector."
+      },
+      {
+        "question": "Is public transport easily available in Sector 31?",
+        "answer": "Yes, the sector is well connected by road transport and nearby metro stations."
+      },
+      {
+        "question": "Are ready-to-move flats available in Sector 31?",
+        "answer": "Yes, many flats are ready to move due to the sector’s established development."
+      },
+      {
+        "question": "Does Deal Acres provide verified listings?",
+        "answer": "Yes, all listings are verified to ensure buyer confidence."
+      },
+      {
+        "question": "How can I contact property experts for Sector 31 flats?",
+        "answer": "You can submit your details through the enquiry form to connect with experienced property advisors."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Professional Help to Buy Flats in Sector 31 Faridabad",
+    "description": [
+      "Buying a flat for sale in Sector 31 Faridabad becomes easier with expert guidance.",
+      "Share your details to connect with professionals who can help you shortlist, compare, and finalize the right property."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

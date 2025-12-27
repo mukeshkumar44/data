@@ -1,1 +1,170 @@
-{}
+{
+  "domain": "flat-for-sale.com",
+
+  "hero": {
+    "title": "Centrally Located and Well Planned Flats for Sale in Sector 10 Faridabad",
+    "description": [
+      "Sector 10 Faridabad is one of the oldest and most centrally positioned residential sectors in the city, known for its excellent planning and strong civic infrastructure. Buyers looking for a flat for sale in Sector 10 Faridabad are attracted by the area’s close proximity to key government offices, reputed schools, hospitals, industrial zones, and major commercial markets. The sector enjoys smooth connectivity to Mathura Road, NH-19, and other prime sectors of Faridabad, making daily commuting convenient for residents.",
+      "Residential living in Sector 10 offers a calm and secure environment with low-rise flats and builder floors designed for practical and comfortable living. The locality has a mature residential ecosystem with well-maintained roads, parks, and essential services. Due to limited new supply and consistent demand, flats in Sector 10 Faridabad maintain strong resale value and rental potential, making the area suitable for families, working professionals, and long-term property investors."
+    ],
+    "buttons": [
+      { "label": "Explore Flats in Sector 10", "path": "/" },
+      { "label": "Get Expert Property Advice", "path": "/" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c",
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Based Residential Development in Sector 10 Faridabad",
+    "description": [
+      "Plot size is an important factor when evaluating layout efficiency, ventilation, and overall comfort while choosing a flat for sale in Sector 10 Faridabad.",
+      "Sector 10 features residential construction across varied plot sizes, offering suitable options for different family needs and budget levels."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot Based Flats in Sector 10",
+        "description": "Flats on 4 Marla plots are designed with compact layouts and efficient space utilization. These homes are ideal for small families and first-time buyers looking for affordable options in a central location."
+      },
+      {
+        "title": "6 Marla Plot Based Flats in Sector 10",
+        "description": "6 Marla plot flats provide better room planning, improved ventilation, and comfortable living spaces, making them suitable for mid-budget homebuyers."
+      },
+      {
+        "title": "8 Marla Plot Based Flats in Sector 10",
+        "description": "Flats built on 8 Marla plots offer spacious interiors, balanced layouts, and improved privacy, preferred by families planning long-term residence."
+      },
+      {
+        "title": "10 Marla Plot Based Flats in Sector 10",
+        "description": "10 Marla developments support wider layouts, better parking arrangements, and enhanced construction quality for everyday comfort."
+      },
+      {
+        "title": "12 Marla Plot Based Flats in Sector 10",
+        "description": "12 Marla plot flats are considered premium homes, offering larger balconies, better airflow, and refined architectural detailing."
+      },
+      {
+        "title": "14 Marla Plot Based Flats in Sector 10",
+        "description": "14 Marla flats represent low-density residential living with superior privacy, strong resale value, and long-term stability."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential and Rental Property Options in Sector 10",
+    "description": [
+      "When searching for a flat for sale in Sector 10 Faridabad, buyers often explore various residential and rental property categories to compare suitability.",
+      "These tiles help users easily navigate related property options within Sector 10 and nearby sectors."
+    ],
+    "locations": [
+      { "title": "Flat for Sale in Sector 10 Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "Flat for Rent in Sector 10 Faridabad", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 10 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 10 Faridabad", "path": "/", "icon": "Key" },
+      { "title": "Builder Floors in Sector 10", "path": "/", "icon": "Layers" },
+      { "title": "Plots for Sale in Sector 10", "path": "/", "icon": "Landmark" },
+      { "title": "Nearby Residential Sectors in Faridabad", "path": "/", "icon": "Map" },
+      { "title": "Ready to Move Flats in Faridabad", "path": "/", "icon": "CheckCircle" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Sector 10 Properties",
+    "description": [
+      "Finding a genuine flat for sale in Sector 10 Faridabad requires verified listings, accurate pricing, and reliable guidance. Deal Acres is built on transparency and buyer trust.",
+      "With in-depth knowledge of the Faridabad real estate market, Deal Acres simplifies the property buying journey."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Every property listed on Deal Acres is verified to ensure authenticity and protect buyer interests."
+      },
+      {
+        "title": "Transparent Pricing Insights",
+        "description": "Buyers receive realistic pricing guidance based on current market trends in Sector 10."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "Detailed understanding of Sector 10 helps buyers identify properties that truly match their requirements."
+      },
+      {
+        "title": "Simple Property Search Experience",
+        "description": "User-friendly tools and filters make property browsing easy and time-efficient."
+      },
+      {
+        "title": "Buyer Focused Recommendations",
+        "description": "Property suggestions are aligned with buyer needs, budget, and long-term goals."
+      },
+      {
+        "title": "Legal and Documentation Assistance",
+        "description": "Deal Acres supports buyers with property verification, legal checks, and paperwork."
+      },
+      {
+        "title": "Complete Buying Support",
+        "description": "Assistance is provided from first enquiry to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Consistent service quality has made Deal Acres a trusted choice among homebuyers."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Flats in Sector 10 Faridabad",
+    "description": "Detailed answers to common buyer questions for confident decision-making.",
+    "faqs": [
+      {
+        "question": "Is Sector 10 Faridabad a good area to buy a flat?",
+        "answer": "Yes, Sector 10 is a centrally located and well-developed area with excellent infrastructure, connectivity, and stable residential demand."
+      },
+      {
+        "question": "What types of flats are available in Sector 10?",
+        "answer": "Buyers can find builder floors, low-rise flats, and ready-to-move residential units across various budgets."
+      },
+      {
+        "question": "Is Sector 10 suitable for family living?",
+        "answer": "Yes, nearby schools, hospitals, parks, and markets make Sector 10 ideal for family living."
+      },
+      {
+        "question": "Are flats in Sector 10 good for investment?",
+        "answer": "Limited new supply and consistent demand support long-term value appreciation in Sector 10."
+      },
+      {
+        "question": "Are home loans available for flats in Sector 10?",
+        "answer": "Most flats are eligible for home loans, subject to bank approval and proper documentation."
+      },
+      {
+        "question": "What factors influence flat prices in Sector 10?",
+        "answer": "Prices depend on plot size, construction quality, floor level, and exact location within the sector."
+      },
+      {
+        "question": "Are ready to move flats available in Sector 10?",
+        "answer": "Yes, many residential properties in Sector 10 are ready to move, allowing immediate possession."
+      },
+      {
+        "question": "How is connectivity from Sector 10 to other areas?",
+        "answer": "Sector 10 enjoys smooth connectivity to major roads, industrial areas, and other parts of Faridabad."
+      },
+      {
+        "question": "Does Deal Acres provide verified listings in Sector 10?",
+        "answer": "Yes, all listings on Deal Acres are verified to ensure transparency and buyer trust."
+      },
+      {
+        "question": "How can I get expert help to buy a flat in Sector 10?",
+        "answer": "You can submit your details through the enquiry form to connect with experienced property experts."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Flats in Sector 10 Faridabad",
+    "description": [
+      "Buying a flat for sale in Sector 10 Faridabad becomes easier with professional guidance and verified listings.",
+      "Share your details to connect with property experts who will help you shortlist and finalize the right home."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

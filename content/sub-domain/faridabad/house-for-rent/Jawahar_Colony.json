@@ -1,0 +1,170 @@
+{
+  "domain": "house-for-rent.com",
+
+  "hero": {
+    "title": "Well Established Residential Houses for Rent in Jawahar Colony Faridabad",
+    "description": [
+      "Jawahar Colony Faridabad is a densely populated and well-established residential area that is widely preferred by tenants looking for affordable yet convenient living options. People searching for a house for rent in Jawahar Colony Faridabad are attracted to the locality because of its close proximity to markets, schools, hospitals, banks, and daily utility shops. The area enjoys strong road connectivity to major parts of Faridabad, making daily commuting easy for working professionals and families.",
+      "Houses for rent in Jawahar Colony Faridabad mostly include independent houses and builder floors with functional layouts and efficient use of space. The locality is suitable for families, salaried individuals, and tenants seeking budget-friendly rental homes without compromising on accessibility. With consistent rental demand and a lively neighborhood atmosphere, Jawahar Colony continues to remain a practical and reliable choice for long-term rental living in Faridabad."
+    ],
+    "buttons": [
+      { "label": "Browse Rental Houses", "path": "/" },
+      { "label": "Talk to Rental Experts", "path": "/" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Based House Rental Options in Jawahar Colony",
+    "description": [
+      "Selecting the right plot size is an important consideration when choosing a house for rent in Jawahar Colony Faridabad, as it affects comfort, room layout, and monthly rental budget.",
+      "Jawahar Colony offers rental houses across multiple plot sizes, allowing tenants to choose homes that align with their family size, lifestyle needs, and budget expectations."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Houses for Rent in Jawahar Colony",
+        "description": "4 Marla houses for rent in Jawahar Colony Faridabad are suitable for individuals and small families looking for compact, affordable homes with low maintenance requirements."
+      },
+      {
+        "title": "6 Marla Houses for Rent in Jawahar Colony",
+        "description": "6 Marla houses provide balanced layouts with adequate living space, making them ideal for nuclear families seeking comfort at a reasonable rental cost."
+      },
+      {
+        "title": "8 Marla Houses for Rent in Jawahar Colony",
+        "description": "8 Marla houses offer improved room sizes, better ventilation, and added comfort, making them a preferred choice for mid-sized families."
+      },
+      {
+        "title": "10 Marla Houses for Rent in Jawahar Colony",
+        "description": "10 Marla houses feature spacious interiors, parking space, and enhanced privacy, suitable for families wanting a more relaxed lifestyle."
+      },
+      {
+        "title": "12 Marla Houses for Rent in Jawahar Colony",
+        "description": "12 Marla houses are ideal for larger families that require generous layouts, open areas, and comfortable indoor living space."
+      },
+      {
+        "title": "14 Marla Houses for Rent in Jawahar Colony",
+        "description": "14 Marla houses offer premium rental living with expansive layouts, greater privacy, and better long-term living comfort."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Rental and Sale Property Options in Jawahar Colony",
+    "description": [
+      "Before finalizing a house for rent in Jawahar Colony Faridabad, tenants often explore nearby rental and sale property options to compare prices, house types, and locality benefits.",
+      "These location tiles help users easily navigate different property categories within Jawahar Colony and surrounding residential areas."
+    ],
+    "locations": [
+      { "title": "House for Rent in Jawahar Colony Faridabad", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Jawahar Colony Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Independent Houses for Rent in Jawahar Colony", "path": "/", "icon": "Key" },
+      { "title": "Builder Floors for Rent in Jawahar Colony", "path": "/", "icon": "Layers" },
+      { "title": "Houses for Rent in NIT Faridabad", "path": "/", "icon": "Map" },
+      { "title": "Houses for Rent in Sector 22 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Family Houses for Rent in Faridabad", "path": "/", "icon": "Users" },
+      { "title": "Ready to Move Rental Houses", "path": "/", "icon": "CheckCircle" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Rental Homes",
+    "description": [
+      "Finding a genuine house for rent in Jawahar Colony Faridabad requires accurate listings, transparent information, and reliable support, which Deal Acres consistently delivers.",
+      "With strong knowledge of Faridabad’s rental market, Deal Acres helps tenants make confident and informed rental decisions."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "Each rental house is verified for authenticity, availability, and accurate property details."
+      },
+      {
+        "title": "Transparent Property Information",
+        "description": "Clear information about rent, plot size, location, and house condition is shared upfront."
+      },
+      {
+        "title": "Local Rental Market Expertise",
+        "description": "In-depth understanding of Jawahar Colony rental trends helps match tenants with suitable homes."
+      },
+      {
+        "title": "Easy Property Search Experience",
+        "description": "User-friendly platform design allows quick filtering and discovery of rental houses."
+      },
+      {
+        "title": "Tenant-Focused Recommendations",
+        "description": "Rental options are suggested based on tenant budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Support with rental agreements and basic documentation ensures a smooth renting process."
+      },
+      {
+        "title": "Time-Saving Property Shortlists",
+        "description": "Only relevant rental houses are shared, saving time and reducing unnecessary visits."
+      },
+      {
+        "title": "Preferred Rental Platform",
+        "description": "Deal Acres is trusted by tenants for reliability, transparency, and consistent service quality."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Jawahar Colony",
+    "description": "Detailed answers to common tenant questions for better rental decision-making.",
+    "faqs": [
+      {
+        "question": "Is Jawahar Colony Faridabad a good area for renting a house?",
+        "answer": "Yes, Jawahar Colony is a well-established residential area with good connectivity, markets, schools, and hospitals nearby, making it suitable for rental living."
+      },
+      {
+        "question": "What types of houses are available for rent in Jawahar Colony?",
+        "answer": "The locality mainly offers independent houses and builder floors in various plot sizes."
+      },
+      {
+        "question": "Is Jawahar Colony suitable for family living?",
+        "answer": "Yes, it is suitable for families due to its residential environment and access to daily conveniences."
+      },
+      {
+        "question": "What is the average rent in Jawahar Colony Faridabad?",
+        "answer": "Rental values vary depending on plot size, furnishing, and house condition, generally ranging from budget-friendly to mid-segment options."
+      },
+      {
+        "question": "Are furnished houses available in Jawahar Colony?",
+        "answer": "Yes, furnished and semi-furnished houses are available depending on current listings."
+      },
+      {
+        "question": "How much security deposit is required?",
+        "answer": "Typically one to two months’ rent is required as a security deposit, based on landlord terms."
+      },
+      {
+        "question": "Is public transport easily accessible?",
+        "answer": "Yes, Jawahar Colony has good access to local transport and main road connectivity."
+      },
+      {
+        "question": "Are rental agreements legally provided?",
+        "answer": "Yes, proper rental agreements are provided for most rental houses."
+      },
+      {
+        "question": "Does Deal Acres help with rental documentation?",
+        "answer": "Yes, Deal Acres assists tenants with rental agreements and basic documentation guidance."
+      },
+      {
+        "question": "How can I quickly find a house for rent in Jawahar Colony Faridabad?",
+        "answer": "By submitting your requirement through the enquiry form, you can receive expert assistance and suitable rental options quickly."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help Finding Houses for Rent in Jawahar Colony",
+    "description": [
+      "Finding the right house for rent in Jawahar Colony Faridabad becomes easier with expert guidance and verified property listings.",
+      "Share your details to connect with rental specialists and receive personalized house options without delay."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

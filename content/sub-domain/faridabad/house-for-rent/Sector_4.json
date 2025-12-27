@@ -1,0 +1,170 @@
+{
+  "domain": "house-for-rent.com",
+
+  "hero": {
+    "title": "Peaceful Family Houses for Rent in Sector 4 Faridabad",
+    "description": [
+      "Sector 4 Faridabad is a well-established residential locality known for its calm surroundings, organized layout, and dependable civic infrastructure. Tenants looking for a house for rent in Sector 4 Faridabad prefer this area because it offers easy access to schools, hospitals, local markets, parks, and daily convenience stores. The sector enjoys smooth connectivity to Mathura Road and nearby city sectors, making daily commuting comfortable for working professionals and families alike.",
+      "Houses for rent in Sector 4 Faridabad mainly include independent houses and builder floors that provide functional layouts, good ventilation, and a secure neighborhood environment. The locality is suitable for long-term tenants who value stability, community living, and a peaceful residential atmosphere within the city. With consistent rental demand, mature surroundings, and reliable public services, Sector 4 remains a trusted and practical choice for comfortable rental living in Faridabad."
+    ],
+    "buttons": [
+      { "label": "Browse Rental Houses", "path": "/" },
+      { "label": "Talk to Rental Experts", "path": "/" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Based House Rental Options in Sector 4",
+    "description": [
+      "Choosing the right plot size is an important factor when selecting a house for rent in Sector 4 Faridabad, as it directly affects space, comfort, privacy, and rental budget.",
+      "Sector 4 offers rental houses across multiple plot sizes, giving tenants the flexibility to choose homes that suit their family size, lifestyle needs, and long-term living plans."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Houses for Rent in Sector 4",
+        "description": "4 Marla houses for rent in Sector 4 Faridabad are ideal for individuals and small families seeking compact homes with affordable rent and easy maintenance."
+      },
+      {
+        "title": "6 Marla Houses for Rent in Sector 4",
+        "description": "6 Marla houses offer balanced layouts with comfortable room sizes, making them suitable for nuclear families looking for practical rental living."
+      },
+      {
+        "title": "8 Marla Houses for Rent in Sector 4",
+        "description": "8 Marla houses provide better living space, improved ventilation, and enhanced comfort, appealing to mid-sized families."
+      },
+      {
+        "title": "10 Marla Houses for Rent in Sector 4",
+        "description": "10 Marla houses feature spacious interiors, parking space, and improved privacy for families seeking relaxed residential living."
+      },
+      {
+        "title": "12 Marla Houses for Rent in Sector 4",
+        "description": "12 Marla houses are suitable for larger families that require generous layouts, open areas, and comfortable everyday living."
+      },
+      {
+        "title": "14 Marla Houses for Rent in Sector 4",
+        "description": "14 Marla houses offer premium rental living with expansive layouts, low-density surroundings, and long-term residential comfort."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Rental and Sale Property Options in Sector 4",
+    "description": [
+      "Tenants searching for a house for rent in Sector 4 Faridabad often explore nearby rental and sale options to compare pricing, layouts, and neighborhood advantages.",
+      "These location tiles help users easily navigate different property categories within Sector 4 and surrounding residential sectors."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 4 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 4 Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Independent Houses for Rent in Sector 4", "path": "/", "icon": "Key" },
+      { "title": "Builder Floors for Rent in Sector 4", "path": "/", "icon": "Layers" },
+      { "title": "Houses for Rent in Sector 3 Faridabad", "path": "/", "icon": "Map" },
+      { "title": "Houses for Rent in Sector 5 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Family Houses for Rent in Faridabad", "path": "/", "icon": "Users" },
+      { "title": "Ready to Move Rental Houses", "path": "/", "icon": "CheckCircle" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Rental Homes",
+    "description": [
+      "Finding a genuine house for rent in Sector 4 Faridabad requires verified listings, transparent property details, and reliable local market insight, which Deal Acres consistently provides.",
+      "With strong expertise in Faridabad’s rental market, Deal Acres helps tenants make confident, informed, and stress-free rental decisions."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "Every rental property is verified to ensure authenticity, availability, and accurate information."
+      },
+      {
+        "title": "Transparent Property Details",
+        "description": "Clear information on rent, plot size, location, and house condition is shared upfront."
+      },
+      {
+        "title": "Local Rental Market Expertise",
+        "description": "In-depth understanding of Sector 4 rental trends helps tenants find suitable homes faster."
+      },
+      {
+        "title": "Easy Property Search Experience",
+        "description": "User-friendly platform design ensures smooth browsing and quick rental discovery."
+      },
+      {
+        "title": "Tenant-Centric Recommendations",
+        "description": "Personalized rental suggestions based on tenant budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Rental Documentation Support",
+        "description": "Assistance with rental agreements and paperwork ensures a hassle-free renting process."
+      },
+      {
+        "title": "Time-Saving Shortlists",
+        "description": "Only relevant rental options are shared to reduce unnecessary visits and delays."
+      },
+      {
+        "title": "Highly Trusted Platform",
+        "description": "Deal Acres is trusted by tenants for reliability, transparency, and consistent service quality."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 4",
+    "description": "Detailed answers to common tenant questions to support confident rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 4 Faridabad a good area for renting a house?",
+        "answer": "Yes, Sector 4 is a peaceful and well-developed residential area with good connectivity and essential amenities, making it ideal for families and professionals."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 4?",
+        "answer": "Independent houses and builder floors across multiple plot sizes are commonly available."
+      },
+      {
+        "question": "Is Sector 4 suitable for family living?",
+        "answer": "Yes, the locality offers a calm and family-friendly environment with schools, hospitals, and markets nearby."
+      },
+      {
+        "question": "What is the average rent in Sector 4 Faridabad?",
+        "answer": "Rental values depend on plot size, furnishing, and property condition, generally ranging from affordable to mid-segment."
+      },
+      {
+        "question": "Are furnished houses available in Sector 4?",
+        "answer": "Yes, furnished and semi-furnished houses are available depending on current listings."
+      },
+      {
+        "question": "How much security deposit is required?",
+        "answer": "Typically one to two months’ rent is required as a security deposit, depending on landlord terms."
+      },
+      {
+        "question": "Is public transport easily accessible from Sector 4?",
+        "answer": "Yes, Sector 4 has good road connectivity and access to buses and shared transport."
+      },
+      {
+        "question": "Are rental agreements legally provided?",
+        "answer": "Yes, proper legal rental agreements are provided for most rental properties."
+      },
+      {
+        "question": "Does Deal Acres assist with rental documentation?",
+        "answer": "Yes, Deal Acres provides complete assistance with rental agreements and documentation."
+      },
+      {
+        "question": "How can I quickly find a house for rent in Sector 4 Faridabad?",
+        "answer": "By submitting your requirement through the enquiry form, you can receive expert assistance and suitable rental options quickly."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help Finding Houses for Rent in Sector 4",
+    "description": [
+      "Finding the right house for rent in Sector 4 Faridabad becomes easy with expert guidance and verified property listings.",
+      "Share your details to connect with rental professionals and receive personalized house options without delay."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

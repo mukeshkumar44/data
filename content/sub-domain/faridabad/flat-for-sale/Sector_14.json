@@ -1,1 +1,170 @@
-{}
+{
+  "domain": "flat-for-sale.com",
+
+  "hero": {
+    "title": "Prime and Centrally Located Flats for Sale in Sector 14 Faridabad",
+    "description": [
+      "Sector 14 Faridabad is one of the most prominent and centrally located residential sectors in the city, known for its premium surroundings and excellent civic infrastructure. Buyers searching for a flat for sale in Sector 14 Faridabad prefer this location due to its close proximity to reputed hospitals, educational institutions, government offices, shopping complexes, and major business areas. The sector enjoys seamless connectivity to Mathura Road, NH-19, and Delhi border, making daily commuting smooth and time-efficient.",
+      "Residential flats in Sector 14 Faridabad are primarily low-rise and builder floor developments designed for spacious living, privacy, and long-term comfort. The area offers a calm, green environment with wide roads, parks, and well-maintained facilities. Due to limited availability of new properties and consistently high demand, buying a flat in Sector 14 ensures strong resale value, rental demand, and a premium lifestyle suited for families and professionals."
+    ],
+    "buttons": [
+      { "label": "Explore Flats in Sector 14", "path": "/" },
+      { "label": "Get Expert Property Advice", "path": "/" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c",
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Understanding Plot Size Based Flat Development in Sector 14",
+    "description": [
+      "Plot size plays a crucial role in shaping layout quality, ventilation, privacy, and overall living comfort when choosing a flat for sale in Sector 14 Faridabad.",
+      "Sector 14 features residential construction across varied plot sizes, supporting premium builder floors and well-planned flats suitable for different lifestyle needs."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot Based Flats in Sector 14",
+        "description": "4 Marla plot based flats are designed with compact layouts and efficient space utilization. These homes suit small families and buyers seeking affordability in a prime central location."
+      },
+      {
+        "title": "6 Marla Plot Based Flats in Sector 14",
+        "description": "6 Marla developments offer better room planning, improved ventilation, and comfortable layouts, making them suitable for mid-budget homebuyers."
+      },
+      {
+        "title": "8 Marla Plot Based Flats in Sector 14",
+        "description": "8 Marla plot constructions support spacious interiors, better privacy, and balanced living spaces preferred by growing families."
+      },
+      {
+        "title": "10 Marla Plot Based Flats in Sector 14",
+        "description": "10 Marla plot flats provide wider layouts, better parking arrangements, and enhanced construction quality for long-term comfort."
+      },
+      {
+        "title": "12 Marla Plot Based Flats in Sector 14",
+        "description": "12 Marla developments are considered premium options, offering larger balconies, better airflow, and refined architectural design."
+      },
+      {
+        "title": "14 Marla Plot Based Flats in Sector 14",
+        "description": "14 Marla plot based flats represent low-density living with superior privacy, strong resale value, and a premium residential experience."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential and Rental Property Options in Sector 14 Faridabad",
+    "description": [
+      "When searching for a flat for sale in Sector 14 Faridabad, buyers often explore multiple residential and rental property categories before finalizing their decision.",
+      "These location tiles help users quickly navigate related property options within Sector 14 and nearby prime sectors."
+    ],
+    "locations": [
+      { "title": "Flat for Sale in Sector 14 Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "Flat for Rent in Sector 14 Faridabad", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 14 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 14 Faridabad", "path": "/", "icon": "Key" },
+      { "title": "Builder Floors in Sector 14", "path": "/", "icon": "Layers" },
+      { "title": "Plots for Sale in Sector 14", "path": "/", "icon": "Landmark" },
+      { "title": "Nearby Prime Sectors in Faridabad", "path": "/", "icon": "Map" },
+      { "title": "Ready to Move Flats in Faridabad", "path": "/", "icon": "CheckCircle" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Prefer Deal Acres for Sector 14 Properties",
+    "description": [
+      "Buying a flat for sale in Sector 14 Faridabad requires verified listings, transparent pricing, and reliable guidance. Deal Acres is built on trust, accuracy, and buyer-first service.",
+      "With strong experience in Faridabad’s premium residential market, Deal Acres ensures buyers make confident and informed property decisions."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Every listing is thoroughly verified to ensure authenticity and buyer confidence."
+      },
+      {
+        "title": "Transparent Pricing Insights",
+        "description": "Accurate pricing guidance based on real-time local market trends."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Sector 14 helps identify the right property options."
+      },
+      {
+        "title": "Simple Property Search",
+        "description": "User-friendly tools make browsing and shortlisting easy."
+      },
+      {
+        "title": "Buyer Centric Approach",
+        "description": "Property recommendations focus on buyer needs and long-term goals."
+      },
+      {
+        "title": "Legal and Documentation Support",
+        "description": "Complete assistance with paperwork and verification."
+      },
+      {
+        "title": "End to End Buying Support",
+        "description": "Support from initial enquiry to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Consistent service quality has earned strong buyer trust."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Flats in Sector 14 Faridabad",
+    "description": "Detailed answers to common buyer queries for confident decision-making.",
+    "faqs": [
+      {
+        "question": "Is Sector 14 Faridabad a good area to buy a flat?",
+        "answer": "Yes, Sector 14 is a premium and centrally located area offering excellent infrastructure, greenery, and strong long-term value."
+      },
+      {
+        "question": "What types of flats are available in Sector 14?",
+        "answer": "Buyers can find builder floors, low-rise flats, and ready-to-move residential units."
+      },
+      {
+        "question": "Is Sector 14 suitable for family living?",
+        "answer": "Yes, reputed schools, hospitals, parks, and markets nearby make it ideal for families."
+      },
+      {
+        "question": "Are flats in Sector 14 good for investment?",
+        "answer": "Limited supply and high demand ensure strong appreciation and rental potential."
+      },
+      {
+        "question": "Are home loans available for flats in Sector 14?",
+        "answer": "Most flats are eligible for home loans, subject to bank approval and documentation."
+      },
+      {
+        "question": "What factors affect flat prices in Sector 14 Faridabad?",
+        "answer": "Prices depend on plot size, construction quality, floor level, and exact location."
+      },
+      {
+        "question": "Are ready to move flats available in Sector 14?",
+        "answer": "Yes, many properties in Sector 14 are ready for immediate possession."
+      },
+      {
+        "question": "How is connectivity from Sector 14 to Delhi?",
+        "answer": "Sector 14 enjoys excellent connectivity to Delhi via Mathura Road and major arterial routes."
+      },
+      {
+        "question": "Does Deal Acres provide verified listings in Sector 14?",
+        "answer": "Yes, all listings on Deal Acres are verified to ensure buyer confidence."
+      },
+      {
+        "question": "How can I get expert help to buy a flat in Sector 14?",
+        "answer": "You can submit your details through the enquiry form to connect with experienced property advisors."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Assistance for Buying Flats in Sector 14 Faridabad",
+    "description": [
+      "Buying a flat for sale in Sector 14 Faridabad becomes easier with professional guidance and verified listings.",
+      "Share your details to connect with experts who will help you shortlist and finalize the right home."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}
