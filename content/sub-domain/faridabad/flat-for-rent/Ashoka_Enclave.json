@@ -1,1 +1,166 @@
-{}
+{
+  "domain": "flat-for-rent.com",
+
+  "hero": {
+    "title": "Peaceful and Well Connected Flats for Rent in Ashoka Enclave",
+    "description": [
+      "Ashoka Enclave Faridabad is a well-established residential locality known for its prime location, clean surroundings, and comfortable lifestyle. People searching for a flat for rent in Ashoka Enclave Faridabad prefer this area due to its close proximity to Delhi, Mathura Road, and major commercial hubs of Faridabad. The locality offers excellent access to schools, hospitals, shopping complexes, metro stations, and daily convenience markets, making everyday living smooth for families and working professionals.",
+      "Flats for rent in Ashoka Enclave Faridabad are mostly available in well-built builder floors and low-rise residential blocks that focus on privacy, ventilation, and practical layouts. The area has a strong residential character with calm streets and a secure environment. With stable rental demand, premium neighborhood appeal, and excellent connectivity, Ashoka Enclave remains one of the most preferred choices for tenants seeking long-term, hassle-free rental living."
+    ],
+    "buttons": [
+      { "label": "Browse Rental Flats", "path": "/" },
+      { "label": "Get Rental Assistance", "path": "/" }
+    ],
+    "images": []
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Based Rental Flat Choices in Ashoka Enclave",
+    "description": [
+      "Plot size directly impacts space utilization, privacy, and rental value when choosing a flat for rent in Ashoka Enclave Faridabad.",
+      "Ashoka Enclave offers rental flats across multiple plot sizes, helping tenants select homes based on family size, comfort expectations, and rental budget."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot Based Flats for Rent in Ashoka Enclave",
+        "description": "4 Marla rental flats are compact and cost-effective options, suitable for bachelors, couples, or small families. These flats offer functional layouts, easy maintenance, and convenient access to nearby markets and transport facilities."
+      },
+      {
+        "title": "6 Marla Plot Based Flats for Rent in Ashoka Enclave",
+        "description": "6 Marla flats provide better room distribution and ventilation compared to smaller units. These rental homes are ideal for small families looking for balanced living in a prime locality."
+      },
+      {
+        "title": "8 Marla Plot Based Flats for Rent in Ashoka Enclave",
+        "description": "8 Marla rental flats offer spacious rooms, improved privacy, and natural lighting. These flats are preferred by families seeking comfort and a peaceful residential environment."
+      },
+      {
+        "title": "10 Marla Plot Based Flats for Rent in Ashoka Enclave",
+        "description": "10 Marla flats feature wide layouts, larger balconies, and better parking facilities. These rental homes suit tenants who value space and premium neighborhood living."
+      },
+      {
+        "title": "12 Marla Plot Based Flats for Rent in Ashoka Enclave",
+        "description": "12 Marla flats are premium rental options offering refined layouts, better airflow, and low-density living. Ideal for families planning longer rental stays."
+      },
+      {
+        "title": "14 Marla Plot Based Flats for Rent in Ashoka Enclave",
+        "description": "14 Marla flats represent spacious and exclusive rental living with maximum privacy and high construction quality, suitable for tenants seeking luxury rental homes."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Property Options in and Around Ashoka Enclave Faridabad",
+    "description": [
+      "While searching for a flat for rent in Ashoka Enclave Faridabad, users often explore different property categories to compare availability and pricing.",
+      "These tiles help visitors easily navigate related rental and sale property options within Ashoka Enclave and nearby locations."
+    ],
+    "locations": [
+      { "title": "Flat for Rent in Ashoka Enclave Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Flat for Sale in Ashoka Enclave Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Ashoka Enclave", "path": "/", "icon": "Key" },
+      { "title": "House for Sale in Ashoka Enclave", "path": "/", "icon": "Home" },
+      { "title": "Builder Floors in Ashoka Enclave", "path": "/", "icon": "Layers" },
+      { "title": "Rental Flats Near Mathura Road", "path": "/", "icon": "Map" },
+      { "title": "Ready to Move Flats in Ashoka Enclave", "path": "/", "icon": "CheckCircle" },
+      { "title": "Premium Residential Areas in Faridabad", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Trusted Platform for Rental Homes",
+    "description": [
+      "Finding a flat for rent in Ashoka Enclave Faridabad requires verified listings, transparent rental terms, and local expertise. Deal Acres ensures trust and clarity throughout the rental process.",
+      "With a tenant-first approach and strong local knowledge, Deal Acres helps renters find suitable homes without confusion or risk."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Properties",
+        "description": "All rental listings are verified for ownership, location accuracy, and authenticity."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear rental guidance based on actual local market trends."
+      },
+      {
+        "title": "Prime Locality Expertise",
+        "description": "Deep understanding of Ashoka Enclave and nearby residential zones."
+      },
+      {
+        "title": "Easy Search and Navigation",
+        "description": "Simple and user-friendly platform for quick property discovery."
+      },
+      {
+        "title": "Tenant Focused Recommendations",
+        "description": "Property suggestions aligned with tenant needs, budget, and lifestyle."
+      },
+      {
+        "title": "Rental Agreement Assistance",
+        "description": "Support with lease documentation and compliance."
+      },
+      {
+        "title": "End to End Rental Support",
+        "description": "Assistance from initial enquiry to final possession."
+      },
+      {
+        "title": "Trusted by Thousands of Renters",
+        "description": "Strong reputation built through consistent service and reliability."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Flats for Rent in Ashoka Enclave",
+    "description": "Helpful answers to common rental queries for better decision-making.",
+    "faqs": [
+      {
+        "question": "Is Ashoka Enclave Faridabad a good area for renting a flat?",
+        "answer": "Yes, Ashoka Enclave is a prime and well-established residential locality offering excellent connectivity, safety, and daily convenience, making it ideal for rental living."
+      },
+      {
+        "question": "What types of flats are available for rent in Ashoka Enclave?",
+        "answer": "Tenants can find builder floors and low-rise residential flats in furnished, semi-furnished, and unfurnished options."
+      },
+      {
+        "question": "Are flats in Ashoka Enclave suitable for families?",
+        "answer": "Yes, the area has reputed schools, hospitals, parks, and markets nearby, making it suitable for families."
+      },
+      {
+        "question": "Is Ashoka Enclave close to Delhi?",
+        "answer": "Yes, Ashoka Enclave is well connected to Delhi via Mathura Road and nearby metro stations."
+      },
+      {
+        "question": "What is the average rent in Ashoka Enclave Faridabad?",
+        "answer": "Rental values depend on flat size, furnishing, and location, but Ashoka Enclave generally commands premium yet stable rents."
+      },
+      {
+        "question": "Are furnished flats available for rent?",
+        "answer": "Yes, furnished and semi-furnished flats are available depending on owner offerings."
+      },
+      {
+        "question": "Are gated residential options available?",
+        "answer": "Many rental properties are located in secure and well-maintained residential blocks."
+      },
+      {
+        "question": "Are bachelors allowed to rent flats in Ashoka Enclave?",
+        "answer": "Some landlords allow bachelors, subject to society norms and rental agreements."
+      },
+      {
+        "question": "Does Deal Acres provide verified rental listings?",
+        "answer": "Yes, Deal Acres verifies all listings to ensure transparency and trust."
+      },
+      {
+        "question": "How can I get help finding a flat here?",
+        "answer": "You can submit your enquiry through the contact form to connect with experienced rental experts."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get in Touch for Flats for Rent in Ashoka Enclave Faridabad",
+    "description": [
+      "Finding the right flat for rent in Ashoka Enclave Faridabad becomes easy with verified listings and expert guidance.",
+      "Share your details to receive personalized rental assistance from trusted property professionals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

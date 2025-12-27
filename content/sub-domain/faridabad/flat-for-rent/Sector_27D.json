@@ -1,1 +1,166 @@
-{}
+{
+  "domain": "flatforrent.com",
+
+  "hero": {
+    "title": "Peaceful And Well Connected Flats for Rent in Sector 27D",
+    "description": [
+      "Sector 27D Faridabad is a calm and well-established residential locality preferred by tenants seeking a balanced lifestyle with strong connectivity. People searching for a flat for rent in Sector 27D Faridabad value the area for its organized layout, clean surroundings, and proximity to key city roads such as Mathura Road and NH-19. The sector offers convenient access to schools, hospitals, local markets, banks, and public transport, making everyday living comfortable for families, working professionals, and senior citizens.",
+      "Flats for rent in Sector 27D Faridabad are mainly available in builder floors and low-rise residential constructions that emphasize space, ventilation, and privacy. The locality is known for its peaceful environment, stable residential community, and less traffic congestion compared to busier sectors. With reasonable rental pricing, dependable civic amenities, and a safe neighborhood atmosphere, Sector 27D continues to be a practical choice for long-term rental living in Faridabad."
+    ],
+    "buttons": [
+      { "label": "Explore Rental Flats", "path": "/" },
+      { "label": "Get Expert Help", "path": "/" }
+    ],
+    "images": []
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Wise Flats Available for Rent in Sector 27D",
+    "description": [
+      "Choosing the right plot size is important as it directly impacts the space, comfort, and rental value of a home.",
+      "Sector 27D offers flats for rent across multiple plot sizes, giving tenants the flexibility to select homes based on family size, lifestyle preferences, and budget."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot Based Flats for Rent in Sector 27D",
+        "description": "4 Marla flats are compact and economical rental options suitable for bachelors and small families. These flats provide functional layouts with essential amenities and are easy to maintain, making them ideal for budget-conscious tenants."
+      },
+      {
+        "title": "6 Marla Plot Based Flats for Rent in Sector 27D",
+        "description": "6 Marla flats offer a balanced layout with comfortable bedrooms and living spaces. They are a popular choice for small families seeking affordability along with better space utilization."
+      },
+      {
+        "title": "8 Marla Plot Based Flats for Rent in Sector 27D",
+        "description": "8 Marla flats provide improved ventilation, larger rooms, and better privacy. These flats suit medium-sized families who prefer comfortable interiors in a peaceful residential area."
+      },
+      {
+        "title": "10 Marla Plot Based Flats for Rent in Sector 27D",
+        "description": "10 Marla flats feature spacious living areas, wider balconies, and better parking arrangements. These homes are ideal for tenants looking for premium comfort and long-term rental stability."
+      },
+      {
+        "title": "12 Marla Plot Based Flats for Rent in Sector 27D",
+        "description": "12 Marla flats are designed for families that prioritize space and comfort. They offer airy layouts, quality construction, and a more premium living experience."
+      },
+      {
+        "title": "14 Marla Plot Based Flats for Rent in Sector 27D",
+        "description": "14 Marla flats are among the most spacious rental options in Sector 27D. These flats offer expansive interiors, superior ventilation, and a low-density living environment."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Rental And Sale Properties in Sector 27D",
+    "description": [
+      "While searching for a flat for rent in Sector 27D Faridabad, tenants often explore different property categories.",
+      "These tiles help users easily navigate rental and ownership options within Sector 27D and nearby residential sectors."
+    ],
+    "locations": [
+      { "title": "Flat for Rent in Sector 27D Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Flat for Sale in Sector 27D Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 27D Faridabad", "path": "/", "icon": "Key" },
+      { "title": "House for Sale in Sector 27D Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Builder Floors in Sector 27D", "path": "/", "icon": "Layers" },
+      { "title": "Rental Homes Near Mathura Road", "path": "/", "icon": "Map" },
+      { "title": "Ready to Move Flats in Faridabad", "path": "/", "icon": "CheckCircle" },
+      { "title": "Residential Areas in Central Faridabad", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Rental Properties",
+    "description": [
+      "Finding the right flat for rent in Sector 27D Faridabad requires accurate information and reliable support.",
+      "Deal Acres has earned user trust by offering verified listings, transparent pricing, and complete rental assistance."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "Each property is verified for ownership, location accuracy, and rental details."
+      },
+      {
+        "title": "Transparent Pricing Insights",
+        "description": "Rental prices are suggested based on real market trends in Sector 27D."
+      },
+      {
+        "title": "Local Area Knowledge",
+        "description": "Strong understanding of Sector 27D and surrounding residential localities."
+      },
+      {
+        "title": "Easy Search Platform",
+        "description": "User-friendly interface for quick and smooth property discovery."
+      },
+      {
+        "title": "Tenant Focused Guidance",
+        "description": "Recommendations aligned with tenant lifestyle, budget, and space needs."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Assistance with rental agreements and verification processes."
+      },
+      {
+        "title": "End to End Assistance",
+        "description": "Support from property shortlisting to final possession."
+      },
+      {
+        "title": "Trusted By Renters",
+        "description": "Preferred by tenants for reliability, transparency, and service quality."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Flats in Sector 27D",
+    "description": "Helpful answers to common tenant questions for better clarity.",
+    "faqs": [
+      {
+        "question": "Is Sector 27D Faridabad a good area for renting a flat?",
+        "answer": "Yes, Sector 27D is a peaceful and well-settled locality with good connectivity and essential amenities, making it suitable for rental living."
+      },
+      {
+        "question": "What types of flats are available for rent in Sector 27D?",
+        "answer": "Builder floor flats in various plot sizes are commonly available, including unfurnished, semi-furnished, and furnished options."
+      },
+      {
+        "question": "Are rental flats in Sector 27D affordable?",
+        "answer": "Yes, rental prices are reasonable compared to many prime areas while offering good space and a calm environment."
+      },
+      {
+        "question": "Is Sector 27D suitable for family living?",
+        "answer": "Yes, the sector has nearby schools, hospitals, parks, and markets, making it family-friendly."
+      },
+      {
+        "question": "Are furnished flats available in Sector 27D?",
+        "answer": "Some properties are available in furnished or semi-furnished condition depending on landlord offerings."
+      },
+      {
+        "question": "How is connectivity from Sector 27D?",
+        "answer": "Sector 27D is well connected to Mathura Road, NH-19, and other major parts of Faridabad."
+      },
+      {
+        "question": "Can working professionals rent flats in Sector 27D?",
+        "answer": "Yes, the area is suitable for working professionals due to its peaceful environment and connectivity."
+      },
+      {
+        "question": "Is Sector 27D a safe residential locality?",
+        "answer": "Yes, it is a stable residential area with a strong community presence."
+      },
+      {
+        "question": "Does Deal Acres provide verified flats in Sector 27D?",
+        "answer": "Yes, all listings on Deal Acres are verified before being shared with tenants."
+      },
+      {
+        "question": "How can I find the best flat for rent in Sector 27D Faridabad?",
+        "answer": "You can submit your requirements through the enquiry form to receive personalized rental options."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get in Touch for Flats for Rent in Sector 27D",
+    "description": [
+      "Finding the right flat for rent in Sector 27D Faridabad becomes simple with expert guidance and verified listings.",
+      "Share your details to receive customized rental options that match your budget, location preference, and space requirements."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

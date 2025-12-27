@@ -1,1 +1,166 @@
-{}
+{
+  "domain": "flatforrent.com",
+
+  "hero": {
+    "title": "Well Connected and Spacious Flats for Rent in Sector 37",
+    "description": [
+      "Sector 37 Faridabad is a well-developed residential locality known for its balanced lifestyle, smooth connectivity, and peaceful environment. Tenants searching for a flat for rent in Sector 37 Faridabad are drawn to its proximity to NH-19, Mathura Road, and key commercial and industrial hubs. The area offers easy access to reputed schools, hospitals, shopping markets, banks, and public transport, making it a convenient choice for families, working professionals, and senior citizens.",
+      "Flats for rent in Sector 37 Faridabad are primarily available in builder floors and low-rise residential constructions that focus on spacious layouts, good ventilation, and privacy. The locality is appreciated for its organized roads, green pockets, and stable residential community. With consistent rental demand, reasonable pricing compared to prime central sectors, and reliable civic amenities, Sector 37 continues to be a preferred destination for comfortable and long-term rental living in Faridabad."
+    ],
+    "buttons": [
+      { "label": "Find Rental Flats", "path": "/" },
+      { "label": "Get Expert Assistance", "path": "/" }
+    ],
+    "images": []
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Wise Rental Flats Available in Sector 37",
+    "description": [
+      "Plot size significantly impacts the layout, comfort, and rental value of a flat for rent in Sector 37 Faridabad.",
+      "Sector 37 offers rental flats across multiple plot sizes, allowing tenants to choose homes that suit their family size and budget."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot Based Flats for Rent in Sector 37",
+        "description": "4 Marla flats are compact and affordable, suitable for individuals, couples, and small families."
+      },
+      {
+        "title": "6 Marla Plot Based Flats for Rent in Sector 37",
+        "description": "6 Marla flats provide balanced layouts with comfortable room sizes, ideal for small families."
+      },
+      {
+        "title": "8 Marla Plot Based Flats for Rent in Sector 37",
+        "description": "8 Marla flats offer spacious interiors, better ventilation, and enhanced privacy."
+      },
+      {
+        "title": "10 Marla Plot Based Flats for Rent in Sector 37",
+        "description": "10 Marla flats feature wider living areas, larger bedrooms, and better parking facilities."
+      },
+      {
+        "title": "12 Marla Plot Based Flats for Rent in Sector 37",
+        "description": "12 Marla flats are premium rental options offering airy layouts and improved comfort."
+      },
+      {
+        "title": "14 Marla Plot Based Flats for Rent in Sector 37",
+        "description": "14 Marla flats provide low-density living with maximum space and long-term rental appeal."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Property Options In and Around Sector 37",
+    "description": [
+      "Tenants looking for a flat for rent in Sector 37 Faridabad often explore nearby rental and ownership property options.",
+      "These tiles help users easily navigate different property categories within Sector 37 and surrounding localities."
+    ],
+    "locations": [
+      { "title": "Flat for Rent in Sector 37 Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Flat for Sale in Sector 37 Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 37 Faridabad", "path": "/", "icon": "Key" },
+      { "title": "House for Sale in Sector 37 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Builder Floors in Sector 37", "path": "/", "icon": "Layers" },
+      { "title": "Rental Homes Near Mathura Road", "path": "/", "icon": "Map" },
+      { "title": "Ready to Move Flats in Faridabad", "path": "/", "icon": "CheckCircle" },
+      { "title": "Residential Areas in Central Faridabad", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Preferred Choice for Rentals",
+    "description": [
+      "Finding a flat for rent in Sector 37 Faridabad requires verified listings, transparent pricing, and dependable guidance. Deal Acres focuses on accuracy and trust to simplify the rental journey.",
+      "With strong local expertise and a tenant-first mindset, Deal Acres helps renters make confident and informed decisions."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "Each property is verified for ownership, location accuracy, and rental details."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear pricing insights based on current market trends."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Sector 37 and nearby residential areas."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly platform for quick and smooth browsing."
+      },
+      {
+        "title": "Tenant Focused Guidance",
+        "description": "Recommendations aligned with tenant lifestyle and budget."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Support with rental agreements and legal paperwork."
+      },
+      {
+        "title": "End to End Rental Support",
+        "description": "Assistance from enquiry to final possession."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Strong reputation built on reliability and service quality."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Flats in Sector 37",
+    "description": "Detailed answers to common tenant queries for better clarity.",
+    "faqs": [
+      {
+        "question": "Is Sector 37 Faridabad a good area for renting a flat?",
+        "answer": "Yes, Sector 37 is a well-developed locality offering good connectivity, safety, and essential amenities for tenants."
+      },
+      {
+        "question": "What types of flats are available for rent in Sector 37?",
+        "answer": "Builder floors and low-rise residential flats are commonly available in furnished and unfurnished options."
+      },
+      {
+        "question": "What is the average rent in Sector 37 Faridabad?",
+        "answer": "Rental values depend on plot size, furnishing, and exact location, generally ranging from affordable to mid-segment."
+      },
+      {
+        "question": "Is Sector 37 suitable for family living?",
+        "answer": "Yes, the area has schools, hospitals, parks, and markets nearby, making it family-friendly."
+      },
+      {
+        "question": "Are furnished flats available in Sector 37?",
+        "answer": "Yes, some landlords offer furnished and semi-furnished rental flats."
+      },
+      {
+        "question": "How is connectivity from Sector 37?",
+        "answer": "Sector 37 is well connected to Mathura Road, NH-19, and public transport routes."
+      },
+      {
+        "question": "Are bachelors allowed to rent flats in Sector 37?",
+        "answer": "Some property owners allow bachelors depending on rental terms."
+      },
+      {
+        "question": "Is Sector 37 safe for tenants?",
+        "answer": "Yes, it is a settled residential locality with a stable community environment."
+      },
+      {
+        "question": "Does Deal Acres provide verified flats in Sector 37?",
+        "answer": "Yes, all listings on Deal Acres are verified before being shared."
+      },
+      {
+        "question": "How can I find the best flat for rent in Sector 37?",
+        "answer": "You can submit the enquiry form to receive personalized rental options from local experts."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get in Touch for Flats for Rent in Sector 37",
+    "description": [
+      "Finding the right flat for rent in Sector 37 Faridabad becomes easy with expert support and verified listings.",
+      "Share your details to receive customized rental options that match your requirements."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

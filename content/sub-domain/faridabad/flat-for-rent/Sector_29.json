@@ -1,1 +1,166 @@
-{}
+{
+  "domain": "flatforrent.com",
+
+  "hero": {
+    "title": "Well Planned and Peaceful Flats for Rent in Sector 29",
+    "description": [
+      "Sector 29 Faridabad is a well-established and thoughtfully planned residential locality that attracts tenants looking for peaceful living with excellent city connectivity. People searching for a flat for rent in Sector 29 Faridabad prefer this area due to its proximity to Mathura Road, Old Faridabad, major markets, and key institutional zones. The sector offers smooth access to reputed schools, hospitals, parks, shopping centers, banks, and public transport, making everyday life convenient for families and working professionals.",
+      "Flats for rent in Sector 29 Faridabad are largely available in builder floors and low-rise residential buildings that emphasize spacious layouts, natural ventilation, and privacy. The locality is known for its clean surroundings, organized roads, and a stable residential community. With consistent rental demand, reasonable pricing compared to premium central sectors, and dependable civic amenities, Sector 29 continues to be a preferred choice for comfortable and long-term rental living in Faridabad."
+    ],
+    "buttons": [
+      { "label": "Browse Rental Flats", "path": "/" },
+      { "label": "Get Expert Assistance", "path": "/" }
+    ],
+    "images": []
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Based Flats for Rent in Sector 29",
+    "description": [
+      "Plot size directly influences space, comfort, and rental value when choosing a flat for rent in Sector 29 Faridabad.",
+      "Sector 29 offers rental flats across multiple plot sizes, giving tenants flexibility to choose homes that suit their family size, lifestyle, and budget."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot Based Flats for Rent in Sector 29",
+        "description": "4 Marla flats in Sector 29 are compact and affordable rental options, suitable for bachelors, couples, and small families. These flats provide functional layouts, easy maintenance, and adequate ventilation. Due to their practical pricing and good location, 4 Marla flats are always in demand among tenants seeking budget-friendly homes."
+      },
+      {
+        "title": "6 Marla Plot Based Flats for Rent in Sector 29",
+        "description": "6 Marla flats offer a balanced mix of comfort and affordability. These homes generally feature well-sized bedrooms, practical kitchens, and comfortable living spaces. A flat for rent in Sector 29 Faridabad on a 6 Marla plot is ideal for small families looking for better space without stretching their budget."
+      },
+      {
+        "title": "8 Marla Plot Based Flats for Rent in Sector 29",
+        "description": "8 Marla flats are preferred by tenants who value spacious interiors and improved privacy. These flats usually include larger rooms, better ventilation, and well-defined living areas. Families planning medium to long-term stays often choose 8 Marla flats in Sector 29 for added comfort."
+      },
+      {
+        "title": "10 Marla Plot Based Flats for Rent in Sector 29",
+        "description": "10 Marla flats provide premium rental living with wider rooms, larger balconies, and better parking facilities. These flats are suitable for medium-sized families seeking an upgraded lifestyle. A flat for rent in Sector 29 Faridabad on a 10 Marla plot offers both space and location advantages."
+      },
+      {
+        "title": "12 Marla Plot Based Flats for Rent in Sector 29",
+        "description": "12 Marla flats are ideal for tenants who want spacious layouts, natural light, and low-density living. These homes often feature airy bedrooms, attached bathrooms, and enhanced privacy. Families looking for premium rental options frequently prefer 12 Marla flats in Sector 29."
+      },
+      {
+        "title": "14 Marla Plot Based Flats for Rent in Sector 29",
+        "description": "14 Marla flats are the most spacious rental options in Sector 29, offering expansive interiors and a peaceful residential environment. Ideal for large families or tenants seeking luxury rentals, these flats provide maximum comfort and strong long-term rental value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Property Options In and Around Sector 29",
+    "description": [
+      "Tenants looking for a flat for rent in Sector 29 Faridabad often explore nearby sectors to compare rental pricing, amenities, and connectivity.",
+      "These location tiles help users easily navigate different rental and ownership property categories within Sector 29 and surrounding residential areas."
+    ],
+    "locations": [
+      { "title": "Flat for Rent in Sector 29 Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Flat for Sale in Sector 29 Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 29 Faridabad", "path": "/", "icon": "Key" },
+      { "title": "House for Sale in Sector 29 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Builder Floors in Sector 29", "path": "/", "icon": "Layers" },
+      { "title": "Rental Homes Near Mathura Road", "path": "/", "icon": "Map" },
+      { "title": "Ready to Move Flats in Central Faridabad", "path": "/", "icon": "CheckCircle" },
+      { "title": "Residential Areas in Faridabad", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Preferred Choice for Rentals",
+    "description": [
+      "Finding a flat for rent in Sector 29 Faridabad requires verified listings, transparent pricing, and reliable guidance. Deal Acres focuses on trust, accuracy, and simplicity to make the rental journey smooth.",
+      "With strong local market knowledge and a tenant-first approach, Deal Acres helps renters make confident and informed rental decisions."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All properties are verified for ownership, location accuracy, and genuine rental details."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear rental insights based on current market trends."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Sector 29 and nearby areas."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "Simple and user-friendly platform for quick browsing."
+      },
+      {
+        "title": "Tenant Focused Guidance",
+        "description": "Recommendations aligned with tenant lifestyle and budget."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Support with rental agreements and paperwork."
+      },
+      {
+        "title": "End to End Rental Support",
+        "description": "Assistance from enquiry to final possession."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Strong reputation built on reliability and service quality."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Flats in Sector 29",
+    "description": "Clear and detailed answers to common tenant questions.",
+    "faqs": [
+      {
+        "question": "Is Sector 29 Faridabad a good area for renting a flat?",
+        "answer": "Yes, Sector 29 is a well-planned and peaceful residential area with good connectivity and daily conveniences."
+      },
+      {
+        "question": "What types of flats are available for rent in Sector 29?",
+        "answer": "Sector 29 mainly offers builder floor flats and low-rise residential units in various sizes."
+      },
+      {
+        "question": "What is the average rent for flats in Sector 29 Faridabad?",
+        "answer": "Rental values depend on plot size, furnishing, and location, generally ranging from affordable to mid-segment."
+      },
+      {
+        "question": "Is Sector 29 suitable for family living?",
+        "answer": "Yes, the sector has schools, hospitals, parks, and markets nearby, making it family-friendly."
+      },
+      {
+        "question": "Are furnished flats available in Sector 29?",
+        "answer": "Yes, some landlords offer furnished and semi-furnished rental flats."
+      },
+      {
+        "question": "How is connectivity from Sector 29?",
+        "answer": "Sector 29 is well connected to Mathura Road, Old Faridabad, and public transport routes."
+      },
+      {
+        "question": "Are bachelors allowed to rent flats in Sector 29?",
+        "answer": "Some property owners allow bachelors depending on rental terms."
+      },
+      {
+        "question": "Is Sector 29 safe for tenants?",
+        "answer": "Yes, it is a settled residential locality with a stable community environment."
+      },
+      {
+        "question": "Does Deal Acres provide verified flats in Sector 29?",
+        "answer": "Yes, all listings on Deal Acres are verified before being shared."
+      },
+      {
+        "question": "How can I find the best flat for rent in Sector 29 Faridabad?",
+        "answer": "You can submit the enquiry form to receive personalized rental options from local experts."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get in Touch for Flats for Rent in Sector 29",
+    "description": [
+      "Finding the right flat for rent in Sector 29 Faridabad becomes easy with verified listings and expert guidance.",
+      "Share your details to receive customized rental options that match your requirements."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,1 +1,166 @@
-{}
+{
+  "domain": "flatforrent.com",
+
+  "hero": {
+    "title": "Comfortable And Well Connected Flats for Rent in Dayal Bagh Colony",
+    "description": [
+      "Dayal Bagh Colony Faridabad is a well-established residential locality known for its peaceful environment, strong community living, and excellent connectivity. Tenants searching for a flat for rent in Dayal Bagh Colony Faridabad prefer this area due to its close proximity to NH-19, Mathura Road, and important commercial zones. The locality offers easy access to schools, hospitals, local markets, banks, and public transport, making daily life convenient for families, working professionals, and senior citizens.",
+      "Flats for rent in Dayal Bagh Colony Faridabad are mostly available in builder floors and low-rise residential homes that focus on spacious layouts, proper ventilation, and privacy. The colony is appreciated for its clean surroundings, organized lanes, and stable residential population. With reasonable rental prices compared to prime areas, reliable civic amenities, and a calm living atmosphere, Dayal Bagh Colony continues to be a preferred choice for comfortable and long-term rental living in Faridabad."
+    ],
+    "buttons": [
+      { "label": "Browse Rental Flats", "path": "/" },
+      { "label": "Get Rental Assistance", "path": "/" }
+    ],
+    "images": []
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Based Flats for Rent in Dayal Bagh Colony",
+    "description": [
+      "The plot size of a property directly impacts space utilization, comfort level, and rental value for tenants.",
+      "Dayal Bagh Colony offers rental flats across multiple plot sizes, allowing tenants to choose homes that match their family size, lifestyle needs, and budget."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot Based Flats for Rent in Dayal Bagh Colony",
+        "description": "4 Marla flats are compact and cost-effective rental options, ideal for bachelors, couples, and small families. These flats offer functional layouts, essential amenities, and easy maintenance within a peaceful neighborhood."
+      },
+      {
+        "title": "6 Marla Plot Based Flats for Rent in Dayal Bagh Colony",
+        "description": "6 Marla flats provide a balanced living experience with comfortable bedrooms and living areas. They are well-suited for small families looking for affordable yet spacious rental homes."
+      },
+      {
+        "title": "8 Marla Plot Based Flats for Rent in Dayal Bagh Colony",
+        "description": "8 Marla flats feature improved layouts, better ventilation, and enhanced privacy. These homes are popular among medium-sized families seeking comfortable and airy interiors."
+      },
+      {
+        "title": "10 Marla Plot Based Flats for Rent in Dayal Bagh Colony",
+        "description": "10 Marla flats offer larger living spaces, wider balconies, and better parking facilities. They are suitable for tenants who prefer premium comfort and long-term rental stability."
+      },
+      {
+        "title": "12 Marla Plot Based Flats for Rent in Dayal Bagh Colony",
+        "description": "12 Marla flats provide spacious interiors with well-planned rooms and quality construction. These flats appeal to families that value space, comfort, and a calm residential environment."
+      },
+      {
+        "title": "14 Marla Plot Based Flats for Rent in Dayal Bagh Colony",
+        "description": "14 Marla flats are premium rental options offering expansive layouts, superior ventilation, and low-density living. Ideal for large families and tenants seeking maximum space and privacy."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Rental And Sale Properties in Dayal Bagh Colony",
+    "description": [
+      "While searching for a flat for rent in Dayal Bagh Colony Faridabad, users often explore multiple property options.",
+      "These location tiles help tenants easily navigate rental and ownership opportunities within Dayal Bagh Colony and nearby areas."
+    ],
+    "locations": [
+      { "title": "Flat for Rent in Dayal Bagh Colony Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Flat for Sale in Dayal Bagh Colony Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Dayal Bagh Colony Faridabad", "path": "/", "icon": "Key" },
+      { "title": "House for Sale in Dayal Bagh Colony Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Builder Floors in Dayal Bagh Colony", "path": "/", "icon": "Layers" },
+      { "title": "Rental Homes Near Mathura Road", "path": "/", "icon": "Map" },
+      { "title": "Ready to Move Flats in Faridabad", "path": "/", "icon": "CheckCircle" },
+      { "title": "Residential Localities in Central Faridabad", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is the First Choice for Rental Homes",
+    "description": [
+      "Finding a reliable flat for rent in Dayal Bagh Colony Faridabad requires verified listings and trustworthy guidance.",
+      "Deal Acres has earned tenant trust by offering transparent processes, accurate property data, and end-to-end rental support."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Each rental property is verified for ownership, location, and listing accuracy."
+      },
+      {
+        "title": "Fair And Transparent Pricing",
+        "description": "Rental suggestions are aligned with current market trends and real pricing data."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "Deep understanding of Dayal Bagh Colony and nearby residential areas."
+      },
+      {
+        "title": "Easy Property Discovery",
+        "description": "Simple and user-friendly platform for quick rental searches."
+      },
+      {
+        "title": "Tenant Oriented Support",
+        "description": "Guidance focused on tenant needs, lifestyle preferences, and budget."
+      },
+      {
+        "title": "Legal And Documentation Help",
+        "description": "Support with rental agreements, verification, and paperwork."
+      },
+      {
+        "title": "Complete Rental Assistance",
+        "description": "End-to-end help from property search to final possession."
+      },
+      {
+        "title": "Trusted By Thousands Of Tenants",
+        "description": "Strong reputation built on reliability, transparency, and service quality."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Flats in Dayal Bagh Colony",
+    "description": "Clear answers to common rental questions to help tenants decide confidently.",
+    "faqs": [
+      {
+        "question": "Is Dayal Bagh Colony Faridabad a good place to rent a flat?",
+        "answer": "Yes, Dayal Bagh Colony is a well-settled residential area with good connectivity, essential amenities, and a peaceful environment suitable for families and professionals."
+      },
+      {
+        "question": "What types of flats are available for rent in Dayal Bagh Colony?",
+        "answer": "Most rental options include builder floor flats in various plot sizes, available in unfurnished, semi-furnished, and furnished formats."
+      },
+      {
+        "question": "Are rental flats in Dayal Bagh Colony affordable?",
+        "answer": "Yes, rental prices are reasonable compared to prime central areas, offering good value for space and location."
+      },
+      {
+        "question": "Is Dayal Bagh Colony suitable for family living?",
+        "answer": "Absolutely. The area has nearby schools, hospitals, parks, and daily-need markets, making it family-friendly."
+      },
+      {
+        "question": "Are furnished flats available in Dayal Bagh Colony?",
+        "answer": "Yes, some landlords offer furnished and semi-furnished flats depending on property type and budget."
+      },
+      {
+        "question": "How is connectivity from Dayal Bagh Colony?",
+        "answer": "The locality is well connected to Mathura Road, NH-19, and public transport routes."
+      },
+      {
+        "question": "Can bachelors rent flats in Dayal Bagh Colony?",
+        "answer": "Some property owners allow bachelors based on rental terms and conditions."
+      },
+      {
+        "question": "Is Dayal Bagh Colony a safe residential area?",
+        "answer": "Yes, it is a stable and peaceful neighborhood with a strong residential community."
+      },
+      {
+        "question": "Does Deal Acres provide verified flats in Dayal Bagh Colony?",
+        "answer": "Yes, all listings on Deal Acres are verified before being shared with tenants."
+      },
+      {
+        "question": "How can I find the best flat for rent in Dayal Bagh Colony Faridabad?",
+        "answer": "You can submit your requirements through the enquiry form to receive personalized and verified rental options."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get in Touch for Flats for Rent in Dayal Bagh Colony",
+    "description": [
+      "Finding the right flat for rent in Dayal Bagh Colony Faridabad becomes easy with expert guidance and verified listings.",
+      "Share your details to receive customized rental options that match your budget, space needs, and location preferences."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

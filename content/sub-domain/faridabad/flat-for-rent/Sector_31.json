@@ -1,1 +1,166 @@
-{}
+{
+  "domain": "flatforrent.com",
+
+  "hero": {
+    "title": "Well Connected and Comfortable Flats for Rent in Sector 31",
+    "description": [
+      "Sector 31 Faridabad is one of the most centrally located and well-developed residential areas, making it a preferred choice for tenants seeking convenience and connectivity. People searching for a flat for rent in Sector 31 Faridabad are attracted by its close proximity to Mathura Road, NH-19, Old Faridabad, and major commercial and industrial zones. The locality offers easy access to reputed schools, hospitals, shopping markets, banks, and public transport, ensuring a smooth and stress-free daily lifestyle for families and working professionals.",
+      "Flats for rent in Sector 31 Faridabad are mostly available in builder floors and low-rise residential buildings known for spacious layouts, good ventilation, and privacy. The sector is appreciated for its organized roads, green surroundings, and mature residential community. With stable rental demand, reasonable pricing compared to premium sectors, and reliable civic amenities, Sector 31 remains a practical and long-term rental destination in Faridabad."
+    ],
+    "buttons": [
+      { "label": "View Rental Flats", "path": "/" },
+      { "label": "Get Expert Help", "path": "/" }
+    ],
+    "images": []
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Based Flats for Rent in Sector 31",
+    "description": [
+      "Plot size directly influences the layout, comfort, and rental value of a flat for rent in Sector 31 Faridabad.",
+      "Sector 31 offers rental flats across a wide range of plot sizes, helping tenants choose homes that suit their family size, space requirements, and budget."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot Based Flats for Rent in Sector 31",
+        "description": "4 Marla flats in Sector 31 are compact and budget-friendly rental options suitable for bachelors, couples, and small families. These flats offer efficient layouts, adequate ventilation, and easy maintenance. Due to their affordability and central location, 4 Marla flats are always in demand among tenants who prioritize accessibility and daily convenience."
+      },
+      {
+        "title": "6 Marla Plot Based Flats for Rent in Sector 31",
+        "description": "6 Marla flats provide a balanced mix of comfort and affordability. These flats usually include well-sized bedrooms, functional kitchens, and comfortable living areas. A flat for rent in Sector 31 Faridabad built on a 6 Marla plot is ideal for small families looking for better space without high rental costs."
+      },
+      {
+        "title": "8 Marla Plot Based Flats for Rent in Sector 31",
+        "description": "8 Marla flats are preferred by tenants seeking spacious interiors and improved privacy. These flats often feature larger rooms, better ventilation, and well-defined living spaces. Families planning long-term stays frequently choose 8 Marla flats in Sector 31 for their livability and comfort."
+      },
+      {
+        "title": "10 Marla Plot Based Flats for Rent in Sector 31",
+        "description": "10 Marla flats offer premium rental living with wider rooms, larger balconies, and better parking facilities. These flats are suitable for medium to large families. A flat for rent in Sector 31 Faridabad on a 10 Marla plot provides both comfort and a refined residential environment."
+      },
+      {
+        "title": "12 Marla Plot Based Flats for Rent in Sector 31",
+        "description": "12 Marla flats are designed for tenants who value spacious layouts, privacy, and natural light. These flats usually come with attached bathrooms, airy rooms, and low-density living. They are ideal for families seeking premium rental homes in a central location."
+      },
+      {
+        "title": "14 Marla Plot Based Flats for Rent in Sector 31",
+        "description": "14 Marla flats represent the most spacious rental category in Sector 31. These homes offer expansive interiors, excellent ventilation, and a peaceful environment. Suitable for large families or tenants seeking luxury rentals, 14 Marla flats deliver maximum comfort and long-term rental appeal."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Property Options In and Around Sector 31",
+    "description": [
+      "Tenants looking for a flat for rent in Sector 31 Faridabad often explore nearby residential areas to compare rental options and amenities.",
+      "These tiles help users quickly navigate different rental and ownership property categories within Sector 31 and surrounding localities."
+    ],
+    "locations": [
+      { "title": "Flat for Rent in Sector 31 Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Flat for Sale in Sector 31 Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 31 Faridabad", "path": "/", "icon": "Key" },
+      { "title": "House for Sale in Sector 31 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Builder Floors in Sector 31", "path": "/", "icon": "Layers" },
+      { "title": "Rental Homes Near Mathura Road", "path": "/", "icon": "Map" },
+      { "title": "Ready to Move Flats in Faridabad", "path": "/", "icon": "CheckCircle" },
+      { "title": "Residential Areas in Central Faridabad", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Trusted Choice for Rental Homes",
+    "description": [
+      "Finding a flat for rent in Sector 31 Faridabad requires verified listings, transparent pricing, and reliable support. Deal Acres focuses on trust and accuracy to simplify the rental journey for tenants.",
+      "With strong local market expertise and a customer-first approach, Deal Acres helps renters make confident and informed decisions."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All rental properties are verified for ownership, location accuracy, and genuine rental details."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear and fair pricing based on current market trends without hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Sector 31 and nearby areas ensures better property matches."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly platform for quick browsing, filtering, and comparison."
+      },
+      {
+        "title": "Tenant-Centric Guidance",
+        "description": "Property recommendations tailored to tenant needs, budget, and lifestyle."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Assistance with rental agreements and paperwork for a smooth process."
+      },
+      {
+        "title": "End-to-End Rental Assistance",
+        "description": "Support from enquiry to possession for complete peace of mind."
+      },
+      {
+        "title": "Trusted by Thousands of Users",
+        "description": "Strong reputation built through consistent service quality and reliability."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Flats in Sector 31",
+    "description": "Helpful answers to common rental questions for better clarity and confidence.",
+    "faqs": [
+      {
+        "question": "Is Sector 31 Faridabad a good area for renting a flat?",
+        "answer": "Yes, Sector 31 is a centrally located and well-developed residential area with excellent connectivity, amenities, and a peaceful environment."
+      },
+      {
+        "question": "What types of flats are available for rent in Sector 31?",
+        "answer": "Sector 31 mainly offers builder floor flats and independent residential units in various furnishing options."
+      },
+      {
+        "question": "What is the average rent in Sector 31 Faridabad?",
+        "answer": "Rental values depend on plot size, furnishing, and location, generally ranging from affordable to mid-segment."
+      },
+      {
+        "question": "Is Sector 31 suitable for families?",
+        "answer": "Yes, the area has schools, hospitals, parks, and markets nearby, making it family-friendly."
+      },
+      {
+        "question": "Are furnished flats available in Sector 31?",
+        "answer": "Yes, furnished and semi-furnished flats are available depending on landlord offerings."
+      },
+      {
+        "question": "How is connectivity from Sector 31?",
+        "answer": "Sector 31 is well connected to Mathura Road, NH-19, and public transport routes."
+      },
+      {
+        "question": "Are bachelors allowed to rent flats in Sector 31?",
+        "answer": "Some owners allow bachelors depending on rental terms and building rules."
+      },
+      {
+        "question": "Is Sector 31 safe for tenants?",
+        "answer": "Yes, it is a settled residential locality with a stable community and civic facilities."
+      },
+      {
+        "question": "Does Deal Acres provide verified flats in Sector 31?",
+        "answer": "Yes, all listings shared by Deal Acres are verified before being offered."
+      },
+      {
+        "question": "How can I find the best flat for rent in Sector 31 Faridabad?",
+        "answer": "You can submit an enquiry form to receive personalized rental options and expert guidance."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get in Touch for Flats for Rent in Sector 31",
+    "description": [
+      "Finding the right flat for rent in Sector 31 Faridabad is easy with verified listings and expert support.",
+      "Share your details to receive customized rental options that match your budget and requirements."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

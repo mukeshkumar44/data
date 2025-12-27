@@ -1,1 +1,166 @@
-{}
+{
+  "domain": "flatforrent.com",
+
+  "hero": {
+    "title": "Well Connected and Peaceful Flats for Rent in Sector 22",
+    "description": [
+      "Sector 22 Faridabad is a well-established residential locality known for its central location, calm surroundings, and excellent connectivity. Tenants searching for a flat for rent in Sector 22 Faridabad prefer this area due to its proximity to Mathura Road, Old Faridabad, and major commercial and industrial zones. The locality is surrounded by reputed schools, hospitals, local markets, banks, and public transport facilities, making daily life convenient for families, working professionals, and senior citizens.",
+      "Flats for rent in Sector 22 Faridabad are primarily available in builder floors and low-rise residential buildings that offer practical layouts, good ventilation, and privacy. The sector is appreciated for its organized roads, green patches, and stable residential community. With consistent rental demand, reasonable pricing compared to prime sectors, and dependable civic infrastructure, Sector 22 remains a preferred choice for comfortable and long-term rental living in Faridabad."
+    ],
+    "buttons": [
+      { "label": "Browse Rental Flats", "path": "/" },
+      { "label": "Get Expert Assistance", "path": "/" }
+    ],
+    "images": []
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Based Flats for Rent in Sector 22",
+    "description": [
+      "Plot size plays a crucial role in defining space, comfort, and rental value when selecting a flat for rent in Sector 22 Faridabad.",
+      "Sector 22 offers rental flats across multiple plot sizes, enabling tenants to choose homes that suit their family size, lifestyle needs, and monthly rental budget."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot Based Flats for Rent in Sector 22",
+        "description": "4 Marla flats in Sector 22 are compact and affordable rental options ideal for bachelors, couples, and small families. These flats usually offer functional layouts, adequate ventilation, and easy maintenance. Due to their budget-friendly nature and central location, 4 Marla flats remain in high demand among tenants seeking convenience and value."
+      },
+      {
+        "title": "6 Marla Plot Based Flats for Rent in Sector 22",
+        "description": "6 Marla flats provide a balanced mix of space and affordability. These flats typically feature comfortable bedrooms, functional kitchens, and better living areas. A flat for rent in Sector 22 Faridabad built on a 6 Marla plot suits small families looking for improved comfort without higher rental commitments."
+      },
+      {
+        "title": "8 Marla Plot Based Flats for Rent in Sector 22",
+        "description": "8 Marla flats are preferred by tenants who want more spacious interiors and enhanced privacy. These homes often include larger rooms, improved ventilation, and well-defined living and dining spaces. Families planning long-term stays frequently choose 8 Marla flats in Sector 22 for their livability."
+      },
+      {
+        "title": "10 Marla Plot Based Flats for Rent in Sector 22",
+        "description": "10 Marla flats offer premium rental living with wider rooms, larger balconies, and better parking facilities. These flats are suitable for medium-sized families seeking a refined lifestyle. A flat for rent in Sector 22 Faridabad on a 10 Marla plot combines space, comfort, and location advantage."
+      },
+      {
+        "title": "12 Marla Plot Based Flats for Rent in Sector 22",
+        "description": "12 Marla flats are designed for tenants who value airy layouts, natural light, and privacy. These flats often come with attached bathrooms, spacious bedrooms, and low-density living. Families looking for premium rental homes prefer 12 Marla flats in Sector 22."
+      },
+      {
+        "title": "14 Marla Plot Based Flats for Rent in Sector 22",
+        "description": "14 Marla flats represent the most spacious rental category in Sector 22. These homes offer expansive interiors, excellent ventilation, and a peaceful residential environment. Ideal for large families or tenants seeking luxury rentals, 14 Marla flats deliver maximum comfort and long-term rental appeal."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Property Options In and Around Sector 22",
+    "description": [
+      "Tenants searching for a flat for rent in Sector 22 Faridabad often explore nearby localities to compare rental pricing, amenities, and layouts.",
+      "These location tiles help users easily navigate different rental and ownership property categories within Sector 22 and surrounding areas."
+    ],
+    "locations": [
+      { "title": "Flat for Rent in Sector 22 Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Flat for Sale in Sector 22 Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 22 Faridabad", "path": "/", "icon": "Key" },
+      { "title": "House for Sale in Sector 22 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Builder Floors in Sector 22", "path": "/", "icon": "Layers" },
+      { "title": "Rental Homes Near Mathura Road", "path": "/", "icon": "Map" },
+      { "title": "Ready to Move Flats in Faridabad", "path": "/", "icon": "CheckCircle" },
+      { "title": "Residential Areas in Central Faridabad", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Most Trusted Rental Platform",
+    "description": [
+      "Finding a flat for rent in Sector 22 Faridabad requires verified listings, transparent pricing, and reliable guidance. Deal Acres focuses on building trust and simplifying the rental journey for tenants.",
+      "With strong local expertise and a customer-first approach, Deal Acres ensures renters make informed and confident rental decisions."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All properties are verified for ownership, location accuracy, and genuine rental details."
+      },
+      {
+        "title": "Transparent Pricing Information",
+        "description": "Rental values are shared based on current market trends with complete clarity."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth understanding of Sector 22 and nearby areas ensures better property matching."
+      },
+      {
+        "title": "Easy and Quick Property Search",
+        "description": "User-friendly platform for smooth browsing, filtering, and comparison."
+      },
+      {
+        "title": "Tenant-Focused Recommendations",
+        "description": "Property suggestions aligned with tenant budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Complete Documentation Support",
+        "description": "Assistance with rental agreements and paperwork for a hassle-free process."
+      },
+      {
+        "title": "End-to-End Rental Assistance",
+        "description": "Support from enquiry to possession for peace of mind."
+      },
+      {
+        "title": "Trusted by Thousands of Renters",
+        "description": "Deal Acres has earned strong user trust through consistent service quality."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Flats in Sector 22",
+    "description": "User-friendly answers to common rental queries for better understanding.",
+    "faqs": [
+      {
+        "question": "Is Sector 22 Faridabad a good area for renting a flat?",
+        "answer": "Yes, Sector 22 is a well-developed and centrally located residential area with good connectivity, amenities, and a peaceful environment suitable for families and professionals."
+      },
+      {
+        "question": "What types of flats are available for rent in Sector 22?",
+        "answer": "Sector 22 mainly offers builder floor flats and independent residential units in unfurnished, semi-furnished, and furnished options."
+      },
+      {
+        "question": "What is the average rent for flats in Sector 22 Faridabad?",
+        "answer": "Rental prices depend on plot size, furnishing, and exact location, generally ranging from affordable to mid-segment."
+      },
+      {
+        "question": "Is Sector 22 suitable for family living?",
+        "answer": "Yes, the locality has schools, hospitals, parks, and markets nearby, making it family-friendly."
+      },
+      {
+        "question": "Are furnished flats available in Sector 22?",
+        "answer": "Yes, furnished and semi-furnished flats are available depending on landlord offerings."
+      },
+      {
+        "question": "How is connectivity from Sector 22?",
+        "answer": "Sector 22 is well connected to Mathura Road, NH-19, and public transport routes."
+      },
+      {
+        "question": "Are bachelors allowed to rent flats in Sector 22?",
+        "answer": "Some property owners allow bachelors based on rental terms and building guidelines."
+      },
+      {
+        "question": "Is Sector 22 safe for tenants?",
+        "answer": "Yes, it is a settled residential area with a stable community and regular civic services."
+      },
+      {
+        "question": "Does Deal Acres provide verified flats in Sector 22?",
+        "answer": "Yes, all listings on Deal Acres are verified before being shared with tenants."
+      },
+      {
+        "question": "How can I find the best flat for rent in Sector 22 Faridabad?",
+        "answer": "You can submit your enquiry through the contact form to receive personalized rental options and expert assistance."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get in Touch for Flats for Rent in Sector 22",
+    "description": [
+      "Finding the right flat for rent in Sector 22 Faridabad is simple with verified listings and professional support.",
+      "Share your details to receive customized rental options that match your needs, budget, and preferred location."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

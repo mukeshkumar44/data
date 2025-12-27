@@ -1,1 +1,166 @@
-{}
+{
+  "domain": "flatforrent.com",
+
+  "hero": {
+    "title": "Prime Central Location Flats for Rent in Sector 14",
+    "description": [
+      "Sector 14 Faridabad is one of the most premium and centrally located residential areas, widely preferred by tenants who value convenience, connectivity, and a well-developed neighborhood. People searching for a flat for rent in Sector 14 Faridabad are drawn to its close proximity to Old Faridabad, Mathura Road, NH-19, metro stations, and major commercial zones. The sector offers easy access to reputed schools, top hospitals, shopping markets, parks, banks, and public transport, making daily life smooth and hassle-free for families and working professionals.",
+      "Flats for rent in Sector 14 Faridabad are primarily available in well-maintained builder floors and low-rise residential buildings that emphasize spacious layouts, proper ventilation, and privacy. The locality is known for its clean surroundings, wide roads, and a well-settled residential community. With high rental demand, premium living standards, and dependable civic amenities, Sector 14 continues to be a top choice for comfortable and long-term rental living in Faridabad."
+    ],
+    "buttons": [
+      { "label": "Browse Rental Flats", "path": "/" },
+      { "label": "Get Expert Assistance", "path": "/" }
+    ],
+    "images": []
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Based Flats for Rent in Sector 14",
+    "description": [
+      "Plot size plays a crucial role in determining space, comfort, and rental value when choosing a flat for rent in Sector 14 Faridabad.",
+      "Sector 14 offers rental flats across multiple plot sizes, allowing tenants to select homes based on family size, lifestyle preferences, and budget."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot Based Flats for Rent in Sector 14",
+        "description": "4 Marla flats in Sector 14 are compact and efficient rental options, suitable for bachelors, couples, and small families. These flats offer practical layouts, easy maintenance, and adequate ventilation. Due to the premium central location, 4 Marla flats are highly demanded by tenants seeking affordability with convenience."
+      },
+      {
+        "title": "6 Marla Plot Based Flats for Rent in Sector 14",
+        "description": "6 Marla flats provide a balanced mix of comfort and space. These homes typically include well-sized bedrooms, functional kitchens, and comfortable living areas. A flat for rent in Sector 14 Faridabad on a 6 Marla plot is ideal for small families seeking better living standards."
+      },
+      {
+        "title": "8 Marla Plot Based Flats for Rent in Sector 14",
+        "description": "8 Marla flats are preferred by tenants who want spacious interiors and enhanced privacy. These flats usually feature larger rooms, improved ventilation, and organized layouts. Families planning medium to long-term stays often choose 8 Marla flats in Sector 14."
+      },
+      {
+        "title": "10 Marla Plot Based Flats for Rent in Sector 14",
+        "description": "10 Marla flats offer premium rental living with wider rooms, larger balconies, and better parking facilities. These flats are suitable for medium-sized families seeking an upgraded lifestyle. A flat for rent in Sector 14 Faridabad on a 10 Marla plot offers both space and central location benefits."
+      },
+      {
+        "title": "12 Marla Plot Based Flats for Rent in Sector 14",
+        "description": "12 Marla flats are ideal for tenants who value spacious layouts, natural light, and low-density living. These homes often include airy bedrooms, attached bathrooms, and enhanced privacy. Families looking for premium rental options frequently prefer 12 Marla flats in Sector 14."
+      },
+      {
+        "title": "14 Marla Plot Based Flats for Rent in Sector 14",
+        "description": "14 Marla flats are the most spacious rental options in Sector 14, offering expansive interiors and a peaceful residential environment. Ideal for large families or tenants seeking luxury rentals, these flats provide maximum comfort and strong long-term rental value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Property Options In and Around Sector 14",
+    "description": [
+      "Tenants looking for a flat for rent in Sector 14 Faridabad often explore nearby sectors to compare rental prices, amenities, and connectivity.",
+      "These location tiles help users easily navigate different rental and ownership property categories within Sector 14 and surrounding areas."
+    ],
+    "locations": [
+      { "title": "Flat for Rent in Sector 14 Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Flat for Sale in Sector 14 Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 14 Faridabad", "path": "/", "icon": "Key" },
+      { "title": "House for Sale in Sector 14 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Builder Floors in Sector 14", "path": "/", "icon": "Layers" },
+      { "title": "Rental Homes Near Mathura Road", "path": "/", "icon": "Map" },
+      { "title": "Ready to Move Flats in Central Faridabad", "path": "/", "icon": "CheckCircle" },
+      { "title": "Residential Areas in Faridabad", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Most Trusted Rental Platform",
+    "description": [
+      "Finding a flat for rent in Sector 14 Faridabad requires verified listings, transparent pricing, and expert guidance. Deal Acres is designed to make the rental journey simple, secure, and stress-free.",
+      "With strong local market knowledge and a tenant-first approach, Deal Acres helps renters make confident and informed rental decisions."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "Every property is verified for ownership, location accuracy, and genuine rental details."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear rental insights based on real-time market trends."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Sector 14 and nearby localities."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "Simple and user-friendly platform for smooth browsing."
+      },
+      {
+        "title": "Tenant Focused Guidance",
+        "description": "Property recommendations aligned with tenant lifestyle and budget."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Support with rental agreements and legal paperwork."
+      },
+      {
+        "title": "End to End Rental Support",
+        "description": "Assistance from enquiry to final possession."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Strong reputation built on reliability and service quality."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Flats in Sector 14",
+    "description": "Detailed and user-friendly answers to common tenant questions.",
+    "faqs": [
+      {
+        "question": "Is Sector 14 Faridabad a good area for renting a flat?",
+        "answer": "Yes, Sector 14 is a premium and centrally located residential area with excellent connectivity and quality infrastructure."
+      },
+      {
+        "question": "What types of flats are available for rent in Sector 14?",
+        "answer": "Sector 14 mainly offers builder floor flats and low-rise residential units in various plot sizes."
+      },
+      {
+        "question": "What is the average rent for flats in Sector 14 Faridabad?",
+        "answer": "Rental values depend on plot size, furnishing, and exact location, generally ranging from mid-segment to premium."
+      },
+      {
+        "question": "Is Sector 14 suitable for family living?",
+        "answer": "Yes, the sector has reputed schools, hospitals, parks, and markets nearby, making it ideal for families."
+      },
+      {
+        "question": "Are furnished flats available in Sector 14?",
+        "answer": "Yes, furnished and semi-furnished flats are available depending on landlord offerings."
+      },
+      {
+        "question": "How is connectivity from Sector 14?",
+        "answer": "Sector 14 is well connected to Mathura Road, metro stations, NH-19, and public transport routes."
+      },
+      {
+        "question": "Are bachelors allowed to rent flats in Sector 14?",
+        "answer": "Some property owners allow bachelors based on rental terms and society guidelines."
+      },
+      {
+        "question": "Is Sector 14 safe for tenants?",
+        "answer": "Yes, it is a well-settled and secure residential locality with a stable community."
+      },
+      {
+        "question": "Does Deal Acres provide verified flats in Sector 14?",
+        "answer": "Yes, all listings on Deal Acres are verified before being shared with tenants."
+      },
+      {
+        "question": "How can I find the best flat for rent in Sector 14 Faridabad?",
+        "answer": "You can submit the enquiry form to receive personalized rental options from local property experts."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get in Touch for Flats for Rent in Sector 14",
+    "description": [
+      "Finding the right flat for rent in Sector 14 Faridabad becomes easy with verified listings and expert guidance.",
+      "Share your details to receive customized rental options that match your budget, space needs, and preferred location."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

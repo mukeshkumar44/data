@@ -1,1 +1,166 @@
-{}
+{
+  "domain": "flatforrent.com",
+
+  "hero": {
+    "title": "Well Connected Residential Flats for Rent in Sector 19",
+    "description": [
+      "Sector 19 Faridabad is a well-developed and centrally located residential locality, known for its organized layout and convenient lifestyle. Tenants searching for a flat for rent in Sector 19 Faridabad prefer this area due to its close proximity to Neelam Chowk, Old Faridabad, Mathura Road, NH-19, and key commercial zones. The sector offers easy access to reputed schools, hospitals, shopping markets, banks, parks, and public transport, making daily commuting and living smooth for families, professionals, and senior citizens.",
+      "Flats for rent in Sector 19 Faridabad are primarily available in builder floors and independent residential houses that emphasize functional layouts, good ventilation, and privacy. The locality is appreciated for its peaceful environment, clean surroundings, and stable residential community. With steady rental demand, reasonable pricing compared to premium sectors, and reliable civic amenities, Sector 19 continues to be a preferred choice for comfortable and long-term rental living in Faridabad."
+    ],
+    "buttons": [
+      { "label": "Browse Rental Flats", "path": "/" },
+      { "label": "Get Expert Assistance", "path": "/" }
+    ],
+    "images": []
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Based Flats for Rent in Sector 19",
+    "description": [
+      "Plot size plays a vital role in determining space, comfort, and rental value when choosing a flat for rent in Sector 19 Faridabad.",
+      "Sector 19 offers rental flats across multiple plot sizes, allowing tenants to select homes based on family size, lifestyle preferences, and budget."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot Based Flats for Rent in Sector 19",
+        "description": "4 Marla flats in Sector 19 are compact and affordable rental options, suitable for bachelors, couples, and small families. These flats offer practical layouts, easy maintenance, and sufficient ventilation. Due to central connectivity and reasonable rent, 4 Marla flats remain in consistent demand among tenants."
+      },
+      {
+        "title": "6 Marla Plot Based Flats for Rent in Sector 19",
+        "description": "6 Marla flats provide a balanced combination of comfort and affordability. These homes generally include well-sized bedrooms, functional kitchens, and comfortable living areas. A flat for rent in Sector 19 Faridabad on a 6 Marla plot is ideal for small families seeking better living space."
+      },
+      {
+        "title": "8 Marla Plot Based Flats for Rent in Sector 19",
+        "description": "8 Marla flats are preferred by tenants who want more spacious interiors and improved privacy. These flats usually feature larger rooms, better ventilation, and organized layouts. Families planning medium to long-term stays often choose 8 Marla flats in Sector 19."
+      },
+      {
+        "title": "10 Marla Plot Based Flats for Rent in Sector 19",
+        "description": "10 Marla flats offer upgraded rental living with wider rooms, larger balconies, and improved parking facilities. These flats are suitable for medium-sized families seeking enhanced comfort. A flat for rent in Sector 19 Faridabad on a 10 Marla plot offers both space and strong connectivity."
+      },
+      {
+        "title": "12 Marla Plot Based Flats for Rent in Sector 19",
+        "description": "12 Marla flats are ideal for tenants who value spacious layouts, natural light, and low-density living. These homes often include airy bedrooms and attached bathrooms. Families looking for premium rental options frequently prefer 12 Marla flats in Sector 19."
+      },
+      {
+        "title": "14 Marla Plot Based Flats for Rent in Sector 19",
+        "description": "14 Marla flats are the most spacious rental options in Sector 19, offering expansive interiors and a peaceful residential environment. Ideal for large families or tenants seeking luxury rentals, these flats provide maximum comfort and long-term rental value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Property Options In and Around Sector 19",
+    "description": [
+      "Tenants searching for a flat for rent in Sector 19 Faridabad often explore nearby sectors to compare rental prices, amenities, and connectivity.",
+      "These location tiles help users easily navigate different rental and ownership property options within Sector 19 and surrounding residential areas."
+    ],
+    "locations": [
+      { "title": "Flat for Rent in Sector 19 Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Flat for Sale in Sector 19 Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 19 Faridabad", "path": "/", "icon": "Key" },
+      { "title": "House for Sale in Sector 19 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Builder Floors in Sector 19", "path": "/", "icon": "Layers" },
+      { "title": "Rental Homes Near Neelam Chowk", "path": "/", "icon": "Map" },
+      { "title": "Ready to Move Flats in Central Faridabad", "path": "/", "icon": "CheckCircle" },
+      { "title": "Residential Areas in Faridabad", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Trusted Rental Choice",
+    "description": [
+      "Finding a flat for rent in Sector 19 Faridabad requires verified listings, transparent pricing, and dependable guidance. Deal Acres is designed to simplify the rental journey with accuracy and trust.",
+      "With strong local expertise and a tenant-first approach, Deal Acres helps renters make confident and informed rental decisions."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "Each property is verified for ownership, location accuracy, and genuine rental details."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear pricing insights based on real-time market trends."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Sector 19 and nearby residential localities."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly platform for quick and hassle-free browsing."
+      },
+      {
+        "title": "Tenant Focused Guidance",
+        "description": "Property suggestions aligned with tenant lifestyle and budget."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Support with rental agreements and legal paperwork."
+      },
+      {
+        "title": "End to End Rental Support",
+        "description": "Complete assistance from enquiry to final possession."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Strong reputation built on reliability, transparency, and service quality."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Flats in Sector 19",
+    "description": "Detailed and user-friendly answers to common tenant questions.",
+    "faqs": [
+      {
+        "question": "Is Sector 19 Faridabad a good area for renting a flat?",
+        "answer": "Yes, Sector 19 is a well-established and centrally located residential area with good connectivity and essential amenities."
+      },
+      {
+        "question": "What types of flats are available for rent in Sector 19?",
+        "answer": "Sector 19 mainly offers builder floor flats and independent residential units in multiple plot sizes."
+      },
+      {
+        "question": "What is the average rent for flats in Sector 19 Faridabad?",
+        "answer": "Rental values depend on plot size, furnishing, and location, generally ranging from affordable to mid-segment."
+      },
+      {
+        "question": "Is Sector 19 suitable for family living?",
+        "answer": "Yes, the sector has nearby schools, hospitals, parks, and markets, making it suitable for family living."
+      },
+      {
+        "question": "Are furnished flats available in Sector 19?",
+        "answer": "Yes, furnished and semi-furnished flats are available depending on the landlord."
+      },
+      {
+        "question": "How is connectivity from Sector 19?",
+        "answer": "Sector 19 is well connected to Neelam Chowk, Mathura Road, NH-19, and public transport routes."
+      },
+      {
+        "question": "Are bachelors allowed to rent flats in Sector 19?",
+        "answer": "Some property owners allow bachelors based on rental terms and housing norms."
+      },
+      {
+        "question": "Is Sector 19 safe for tenants?",
+        "answer": "Yes, it is a secure and well-settled residential locality with a stable community."
+      },
+      {
+        "question": "Does Deal Acres provide verified flats in Sector 19?",
+        "answer": "Yes, all flats listed on Deal Acres are verified before being shared with tenants."
+      },
+      {
+        "question": "How can I find the best flat for rent in Sector 19 Faridabad?",
+        "answer": "You can submit the enquiry form to receive personalized rental options and expert assistance."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get in Touch for Flats for Rent in Sector 19",
+    "description": [
+      "Finding the right flat for rent in Sector 19 Faridabad becomes simple with verified listings and local expertise.",
+      "Share your details to receive customized rental options that match your budget, space needs, and preferred location."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}
