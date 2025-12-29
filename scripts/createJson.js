@@ -95,7 +95,7 @@ const data = [
 
 const baseDir = path.join(
   __dirname,
-  "../content/sub-domain/faridabad/shop-for-rent"
+  "../content/sub-domain/faridabad/plot-for-sale"
 );
 
 // ensure folder exists
