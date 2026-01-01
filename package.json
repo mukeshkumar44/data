@@ -17,5 +17,8 @@
     "url": "https://github.com/mukeshkumar44/data/issues"
   },
   "homepage": "https://github.com/mukeshkumar44/data#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1"
+  }
 }
