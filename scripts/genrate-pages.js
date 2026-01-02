@@ -3,7 +3,7 @@ import path from "path";
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
 // ⚠️ Direct API key (local use only)
-const GEMINI_API_KEY = "AIzaSyDcOCtmwAPUYTGAQVg8t8SWV2Z6VFUloD4";
+const GEMINI_API_KEY = "AIzaSyCcg629xx4ohYHsLAoLHPWHqlPUrm02Xq4";
 const DAILY_LIMIT = 20; // free tier safe
 let generatedToday = 0;
 const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
@@ -13,84 +13,7 @@ const model = genAI.getGenerativeModel({
 
 // ✅ ONLY LOCATION ARRAY (yahin bas locations add karni hain)
 const locations = [
- 
-  
-  
-  "Sector 105",
-  "Sector 63A",
-  "DLF Phase 1",
-  "Sector 33",
-  "Sector 41",
-  "Sector 8",
-  "Sector 65",
-  "Sushant Lok Phase 3",
-  "Ashok Vihar",
-  "Sector 103",
-  "Chandan Vihar",
-  "Sector 30",
-  "Sector 108",
-  "Sadar Bazar",
-  "Ashok Vihar Phase 3",
-  "Sector 63",
-  "Sector 7",
-  "Sector 14",
-  "Sector 3",
-  "Sector 99",
-  "Sector 111",
-  "Sector 113",
-  "Sector 88",
-  "DLF Phase 3",
-  "Sector 51",
-  "Sector 10A",
-  "Sector 76",
-  "Sector 95",
-  "Manesar",
-  "Sector 80",
-  "Sector 35",
-  "Sector 68",
-  "DLF Phase 5",
-  "Sector 1",
-  "Sector 19",
-  "Sector 78",
-  "Sector 49",
-  "Sector 48",
-  "Sector 66",
-  "Sector 11",
-  "Sector 107",
-  "Sector 69",
-  "Golf Course Road",
-  "Udyog Vihar",
-  "Sector 58",
-  "Sector 38",
-  "Palam Vihar Extension",
-  "Palam Vihar Pocket H",
-  "Sector 61",
-  "Sector 67A",
-  "Sushant Lok Phase 1",
-  "New Palam Vihar",
-  "Rajendra Park",
-  "Sector 84",
-  "Sector 89",
-  "DLF Phase 4",
-  "Sector 90",
-  "Sector 59",
-  "Sector 60",
-  "Sector 36",
-  "Sector 45",
-  "South City 3",
-  "Sector 94",
-  "Sector 6",
-  "Sector 54",
-  "Sector 31",
-  "Sector 87",
-  "Sector 106",
-  "New Gurgaon",
-  "MG Road",
-  "Civil Lines",
-  "Sohna Road",
-  "Sector 47",
-  "Sector 46",
-  "Sector 3A"
+
   
  
   
@@ -115,7 +38,7 @@ Generate FULL webpage content in STRICT JSON ONLY.
 No explanation. No markdown.
 
 LOCATION: ${location}
-PRIMARY KEYWORD: 2BHK Flat For Sale in ${location}
+PRIMARY KEYWORD: Buy House in ${location}
 
 CONTENT RULES:
 - Copywriting style
