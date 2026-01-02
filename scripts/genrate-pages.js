@@ -3,7 +3,7 @@ import path from "path";
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
 // ⚠️ Direct API key (local use only)
-const GEMINI_API_KEY = "AIzaSyCcg629xx4ohYHsLAoLHPWHqlPUrm02Xq4";
+const GEMINI_API_KEY = "";
 const DAILY_LIMIT = 20; // free tier safe
 let generatedToday = 0;
 const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
@@ -13,8 +13,45 @@ const model = genAI.getGenerativeModel({
 
 // ✅ ONLY LOCATION ARRAY (yahin bas locations add karni hain)
 const locations = [
-
   
+  
+  "Sector 93",
+  "Jal Vayu Vihar",
+  "Sector 143",
+  "Sector 47",
+  "Sector 120",
+  "Sector 41",
+  "Sector 70",
+  "Sector 46",
+  "Sector 82",
+  "Sector 99",
+  "Sector 74",
+  "Sector 79",
+  "Sector 168",
+  "Sector 134",
+  "Sector 63A",
+  "Sector 22",
+  "Sector 118",
+  "Sector 27",
+  "Sector 25",
+  "Sector 94",
+  "Sector 39",
+  "Sector 121",
+  "Sector 112",
+  "Sector 92",
+  "Sector 133",
+  "Sector 77",
+  "Sector 142",
+  "Sector 30",
+  "Sector 36",
+  "Sector 29",
+  "Sector 119",
+  "Sector 116",
+  "Sector 117",
+  "Sector 31",
+  "Sector 56",
+  "Sector 55",
+  "Sector 131"
  
   
 ]
@@ -38,7 +75,7 @@ Generate FULL webpage content in STRICT JSON ONLY.
 No explanation. No markdown.
 
 LOCATION: ${location}
-PRIMARY KEYWORD: Buy House in ${location}
+PRIMARY KEYWORD: Affordable House in ${location}
 
 CONTENT RULES:
 - Copywriting style
@@ -51,14 +88,14 @@ CONTENT RULES:
 - This applies to ALL fields including:
 - title, heading, section titles, hero title, feature titles, FAQ questions
 - Example of BAD text: "Discover Perfect Plot Sizes: Smart Investment Options"
-- Example of GOOD text: "Perfect Plot Sizes for Residential Homes in Sector 77 Gurugram"
-- When contextually appropriate, you may append "Gurugram" after the location name
+- Example of GOOD text: "Perfect Plot Sizes for Residential Homes in Sector 77 Noida"
+- When contextually appropriate, you may append "Noida" after the location name
 - This is optional and should be used naturally for clarity and SEO
 - Especially allowed in headings, hero title, section titles, and descriptive content
-- Do NOT force "Gurugram" in every line or every field
+- Do NOT force "Noida" in every line or every field
 - Example allowed usage
-  "3 BHK Flat for Sale in Sector 19 Gurugram"
-  "Residential Living Options in Dlf phase 3 Gurugram"
+  "3 BHK Flat for Sale in Sector 15 Noida"
+  "Residential Living Options in Sector 63A Noida"
 
 JSON STRUCTURE (must match exactly):
 
