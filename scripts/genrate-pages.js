@@ -13,47 +13,7 @@ const model = genAI.getGenerativeModel({
 
 // ✅ ONLY LOCATION ARRAY (yahin bas locations add karni hain)
 const locations = [
-  
-  
-  "Sector 93",
-  "Jal Vayu Vihar",
-  "Sector 143",
-  "Sector 47",
-  "Sector 120",
-  "Sector 41",
-  "Sector 70",
-  "Sector 46",
-  "Sector 82",
-  "Sector 99",
-  "Sector 74",
-  "Sector 79",
-  "Sector 168",
-  "Sector 134",
-  "Sector 63A",
-  "Sector 22",
-  "Sector 118",
-  "Sector 27",
-  "Sector 25",
-  "Sector 94",
-  "Sector 39",
-  "Sector 121",
-  "Sector 112",
-  "Sector 92",
-  "Sector 133",
-  "Sector 77",
-  "Sector 142",
-  "Sector 30",
-  "Sector 36",
-  "Sector 29",
-  "Sector 119",
-  "Sector 116",
-  "Sector 117",
-  "Sector 31",
-  "Sector 56",
-  "Sector 55",
-  "Sector 131"
- 
-  
+
 ]
 
 ;
@@ -75,7 +35,7 @@ Generate FULL webpage content in STRICT JSON ONLY.
 No explanation. No markdown.
 
 LOCATION: ${location}
-PRIMARY KEYWORD: Affordable House in ${location}
+PRIMARY KEYWORD: 2BHK Flat For Sale in ${location}
 
 CONTENT RULES:
 - Copywriting style
