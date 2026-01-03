@@ -13,7 +13,23 @@ const model = genAI.getGenerativeModel({
 
 // ✅ ONLY LOCATION ARRAY (yahin bas locations add karni hain)
 const locations = [
-
+//  "Shiv Colony",
+//   "Sector 35",
+//   "Sector 36",
+//   "Sadar Bazar",
+//   "Nilokheri",
+//   "Sector 9",
+//   "Sector 7",
+//   "Sector 16",
+//   "Sector 29",
+//   "Assandh",
+//   "Gharaunda",
+//   "Sector 13",
+//   "Karan Vihar",
+  "Taraori",
+  "Sector 28",
+  "Sector 45",
+  "Sector 4"
 ]
 
 ;
@@ -35,7 +51,7 @@ Generate FULL webpage content in STRICT JSON ONLY.
 No explanation. No markdown.
 
 LOCATION: ${location}
-PRIMARY KEYWORD: 2BHK Flat For Sale in ${location}
+PRIMARY KEYWORD:Plot For Sale  in ${location}
 
 CONTENT RULES:
 - Copywriting style
@@ -48,14 +64,14 @@ CONTENT RULES:
 - This applies to ALL fields including:
 - title, heading, section titles, hero title, feature titles, FAQ questions
 - Example of BAD text: "Discover Perfect Plot Sizes: Smart Investment Options"
-- Example of GOOD text: "Perfect Plot Sizes for Residential Homes in Sector 77 Noida"
-- When contextually appropriate, you may append "Noida" after the location name
+- Example of GOOD text: "Perfect Plot Sizes for Residential Homes in Sector 4 Karnal"
+- When contextually appropriate, you may append "Karnal" after the location name
 - This is optional and should be used naturally for clarity and SEO
 - Especially allowed in headings, hero title, section titles, and descriptive content
-- Do NOT force "Noida" in every line or every field
+- Do NOT force "Karnal" in every line or every field
 - Example allowed usage
-  "3 BHK Flat for Sale in Sector 15 Noida"
-  "Residential Living Options in Sector 63A Noida"
+  "3 BHK Flat for Sale in Sector 9 Karnal"
+  "Residential Living Options in Shiv Colony Karnal"
 
 JSON STRUCTURE (must match exactly):
 
