@@ -1,0 +1,90 @@
+```json
+{
+  "domain": "www.naraingarhproperties.com",
+  "hero": {
+    "title": "Premium Shop For Sale in Narain Garh Ambala",
+    "description": [
+      "Discover prime commercial properties in the heart of Narain Garh Ambala with excellent connectivity and high footfall. Our strategically located shops offer unmatched business potential in this thriving market.",
+      "Whether you're looking to establish a retail outlet, service center, or food business, these shops provide the perfect commercial space with modern amenities and flexible payment options."
+    ],
+    "buttons": [
+      { "label": "View Available Shops", "path": "/shop-listings" },
+      { "label": "Get Price List", "path": "/contact" }
+    ],
+    "images": ["shop-front.jpg", "interior-view.jpg", "location-map.jpg"]
+  },
+  "featuresSection": {
+    "heading": "Shop Sizes Available in Narain Garh",
+    "description": [
+      "We offer commercial spaces in various sizes to suit different business needs and budgets. Each shop is designed for maximum visibility and customer accessibility.",
+      "All our commercial properties come with complete legal documentation and are located in high-traffic areas of Narain Garh Ambala."
+    ],
+    "features": [
+      { "title": "100 Sq Ft Shop", "description": "Compact commercial space ideal for small retail businesses, mobile shops, or service centers. Perfect for first-time entrepreneurs with limited capital looking to establish in Narain Garh market." },
+      { "title": "200 Sq Ft Shop", "description": "Medium-sized commercial unit suitable for general stores, clothing boutiques, or small eateries. Offers good display area and storage space in prime Narain Garh locations." },
+      { "title": "300 Sq Ft Shop", "description": "Spacious shop for established businesses needing larger display areas. Ideal for electronics stores, furniture showrooms, or medium-sized restaurants in Narain Garh Ambala." },
+      { "title": "400 Sq Ft Shop", "description": "Premium commercial space for businesses requiring substantial floor area. Perfect for supermarkets, medical stores, or multi-brand outlets in high-value Narain Garh locations." },
+      { "title": "500 Sq Ft Shop", "description": "Large commercial property suitable for showrooms, wholesale businesses, or food courts. Located in the busiest market areas of Narain Garh with excellent customer footfall." },
+      { "title": "600+ Sq Ft Shop", "description": "Extra-large commercial spaces for enterprises needing expansive areas. Customizable layouts available for supermarkets, banquet halls, or multi-purpose commercial complexes in Narain Garh Ambala." }
+    ]
+  },
+  "locationsSection": {
+    "title": "Prime Commercial Areas Near Narain Garh",
+    "description": [
+      "Narain Garh is surrounded by several thriving commercial hubs that offer excellent business opportunities. These nearby locations complement the commercial potential of Narain Garh properties.",
+      "Investors and business owners frequently consider these adjacent areas when looking for shops in the Narain Garh region due to their connectivity and market potential."
+    ],
+    "locations": [
+      "Ambala Cantt Market",
+      "Ambala City Main Bazaar",
+      "Shahzadpur Commercial Area",
+      "Barara Market",
+      "Naraingarh Bypass Road",
+      "Mullana Market",
+      "Saha Commercial Zone",
+      "Jandli Road Market"
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Invest in Shops in Narain Garh Ambala",
+    "description": [
+      "Narain Garh offers unique advantages for commercial property investors and business owners. The area's strategic location and growing economy make it an ideal choice for shop investments.",
+      "Our commercial properties come with multiple benefits that ensure good returns and business growth potential in the Narain Garh region."
+    ],
+    "points": [
+      { "title": "Strategic Location", "description": "Narain Garh sits at the crossroads of major transportation routes connecting Ambala with Himachal Pradesh and other states. This ensures consistent customer flow and business visibility for shop owners." },
+      { "title": "Growing Local Economy", "description": "With increasing industrialization and residential development in Narain Garh Ambala, the local economy is expanding rapidly, creating more demand for retail and service businesses." },
+      { "title": "High Return on Investment", "description": "Commercial properties in Narain Garh have shown consistent appreciation over the years. The rental yields and resale values remain attractive compared to other nearby markets." },
+      { "title": "Diverse Customer Base", "description": "Shops in Narain Garh cater to both local residents and travelers passing through the area. This diverse customer base provides business stability across seasons." },
+      { "title": "Infrastructure Development", "description": "Ongoing and planned infrastructure projects in Narain Garh Ambala are enhancing connectivity and commercial viability, making this an opportune time to invest." },
+      { "title": "Flexible Payment Options", "description": "We offer customized payment plans for shop purchases, including easy installment schemes and bank loan assistance to suit different investor needs." },
+      { "title": "Complete Legal Documentation", "description": "All our commercial properties come with clear titles and complete legal paperwork, ensuring hassle-free ownership and future transactions." },
+      { "title": "Professional Property Management", "description": "For investors looking for passive income, we provide comprehensive property management services including tenant placement and maintenance." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Shops in Narain Garh",
+    "description": "Find answers to common queries about purchasing and operating commercial properties in Narain Garh Ambala. Our experts have compiled detailed responses to help you make informed decisions.",
+    "faqs": [
+      { "question": "What is the current price range for shops in Narain Garh", "answer": "Shop prices in Narain Garh vary based on size, location, and amenities. Currently, prices range from ₹15,000 to ₹50,000 per square foot. Prime locations near main roads and markets command higher prices. We recommend contacting our team for the latest price list and special offers." },
+      { "question": "Are there any upcoming commercial projects in Narain Garh", "answer": "Yes, several new commercial complexes and market developments are planned in Narain Garh Ambala. These include modern shopping arcades, food courts, and mixed-use developments. Early investors in these projects often benefit from pre-launch pricing and better unit selection." },
+      { "question": "What types of businesses perform well in Narain Garh shops", "answer": "Retail stores dealing in daily necessities, clothing, electronics, and home goods typically perform well. Food businesses including restaurants and sweet shops also thrive due to Narain Garh's position as a transit hub. Service-oriented businesses like pharmacies, mobile stores, and repair services are always in demand." },
+      { "question": "How is the rental market for shops in Narain Garh", "answer": "The rental market in Narain Garh remains strong with occupancy rates above 85% in prime locations. Rental yields typically range between 6-9% annually depending on shop size and location. We maintain a waiting list of potential tenants for our properties." },
+      { "question": "What documents are required for purchasing a shop in Narain Garh", "answer": "Key documents include sale deed, property tax receipts, approved building plans, NOC from relevant authorities, and encumbrance certificate. Our legal team assists buyers in verifying all documents and completing registration formalities smoothly." },
+      { "question": "Are there any restrictions on shop usage in Narain Garh", "answer": "Certain commercial activities may require specific licenses or may be restricted in particular zones. Generally, retail, services, and food businesses are permitted. We provide complete guidance on permissible commercial activities for each property we offer." },
+      { "question": "How is the electricity and water supply for shops in Narain Garh", "answer": "Narain Garh has reliable electricity supply with commercial connections available. Most shops have three-phase connections. Water supply is consistent with municipal connections and many properties have additional borewells. Our team can provide specific utility details for any shop you're considering." },
+      { "question": "What financing options are available for shop purchases", "answer": "Most national and private banks offer commercial property loans for shop purchases in Narain Garh. Loan-to-value ratios typically go up to 70% with repayment periods of 10-15 years. We have tie-ups with multiple financial institutions to help secure favorable loan terms for our clients." },
+      { "question": "How does Narain Garh compare to Ambala City for shop investments", "answer": "While Ambala City offers higher footfall, Narain Garh provides better affordability and growth potential. Narain Garh's strategic location as a transit point gives shops access to both local and passing customers. Property prices are generally 20-30% lower than prime Ambala City locations while offering comparable rental yields." },
+      { "question": "What maintenance charges apply to shops in commercial complexes", "answer": "Maintenance charges in commercial complexes typically range from ₹5-15 per square foot monthly, covering common area cleaning, security, and basic upkeep. Stand-alone shops usually have no maintenance charges beyond individual utility bills. We provide complete transparency about all recurring costs for each property." }
+    ]
+  },
+  "contactSection": {
+    "title": "Contact Us for Shop Listings in Narain Garh",
+    "description": [
+      "Our commercial property experts are ready to assist you in finding the perfect shop in Narain Garh Ambala. Share your requirements and we'll provide personalized recommendations.",
+      "For immediate assistance, you can also call our dedicated helpline available 7 days a week from 9 AM to 8 PM."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}
+```

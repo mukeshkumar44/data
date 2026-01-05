@@ -1,0 +1,90 @@
+```json
+{
+  "domain": "example.com",
+  "hero": {
+    "title": "Find the Best Shop For Rent in Saha Ambala",
+    "description": [
+      "Discover prime commercial spaces for rent in Saha Ambala. Whether you're starting a new business or expanding your existing one, we offer a wide range of shops in strategic locations to meet your needs.",
+      "Our listings cater to various industries, including retail, food, and services. With competitive pricing and flexible lease terms, finding the perfect shop has never been easier."
+    ],
+    "buttons": [
+      { "label": "View Listings", "path": "/listings" },
+      { "label": "Contact Us", "path": "/contact" }
+    ],
+    "images": []
+  },
+  "featuresSection": {
+    "heading": "Explore Our Range of Shops For Rent in Saha Ambala",
+    "description": [
+      "Our portfolio includes shops of various sizes and configurations to suit different business requirements. From compact units to spacious outlets, we have something for everyone.",
+      "Each shop is located in a high-traffic area, ensuring maximum visibility and footfall for your business. Browse our listings today and find the perfect space for your venture."
+    ],
+    "features": [
+      { "title": "4 Marla Plot", "description": "Ideal for small retail stores or service-oriented businesses, offering affordability and convenience in a prime location." },
+      { "title": "6 Marla Plot", "description": "Perfect for medium-sized businesses, providing ample space and excellent connectivity to major roads." },
+      { "title": "8 Marla Plot", "description": "Great for larger retail stores or restaurants, featuring spacious interiors and high visibility." },
+      { "title": "10 Marla Plot", "description": "Suitable for businesses requiring significant space, offering flexibility and strategic positioning." },
+      { "title": "12 Marla Plot", "description": "Excellent for flagship stores or multi-purpose commercial spaces, designed for maximum impact." },
+      { "title": "14 Marla Plot", "description": "Ideal for large-scale businesses or warehouses, providing extensive space and accessibility." }
+    ]
+  },
+  "locationsSection": {
+    "title": "Prime Locations Near Saha Ambala",
+    "description": [
+      "Our shops are located in some of the most sought-after areas near Saha Ambala. These locations are known for their high footfall, excellent infrastructure, and thriving business environment.",
+      "Choose from a variety of neighborhoods that cater to different industries and customer demographics. Whether you're targeting local residents or commuters, we have the perfect spot for your business."
+    ],
+    "locations": [
+      "Ambala Cantt",
+      "Sector 7",
+      "Sector 8",
+      "Sector 9",
+      "Ambala City",
+      "Naraingarh",
+      "Barara",
+      "Shahzadpur"
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Choose Shops For Rent in Saha Ambala",
+    "description": [
+      "Our commitment to quality and customer satisfaction sets us apart. We offer a seamless renting experience, from property selection to lease signing.",
+      "With our extensive network and local expertise, we ensure that you find the ideal shop for your business needs."
+    ],
+    "points": [
+      { "title": "Prime Locations", "description": "Our shops are located in high-traffic areas, ensuring maximum visibility and customer engagement." },
+      { "title": "Flexible Lease Terms", "description": "We offer customizable lease agreements to suit your business requirements and budget." },
+      { "title": "Competitive Pricing", "description": "Enjoy affordable rental rates without compromising on quality or location." },
+      { "title": "Expert Guidance", "description": "Our team provides personalized assistance to help you find the perfect shop for your business." },
+      { "title": "Modern Amenities", "description": "Our shops come equipped with essential facilities to support your business operations." },
+      { "title": "High ROI Potential", "description": "Invest in a shop that promises excellent returns and long-term growth." },
+      { "title": "Easy Accessibility", "description": "Our shops are well-connected to major roads and public transport, ensuring convenience for customers." },
+      { "title": "Trusted Reputation", "description": "We have a proven track record of helping businesses thrive in Saha Ambala." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Shops For Rent in Saha Ambala",
+    "description": "Here are some common questions and answers to help you make an informed decision about renting a shop in Saha Ambala.",
+    "faqs": [
+      { "question": "What types of shops are available for rent in Saha Ambala", "answer": "We offer a variety of shops, including retail stores, food outlets, service centers, and more. Each shop is designed to meet specific business needs." },
+      { "question": "How do I choose the right shop for my business", "answer": "Consider factors such as location, size, footfall, and budget. Our team can guide you in selecting the best shop based on your requirements." },
+      { "question": "What is the average rental price for shops in Saha Ambala", "answer": "Rental prices vary depending on the size, location, and amenities of the shop. Contact us for detailed pricing information." },
+      { "question": "Can I negotiate the lease terms", "answer": "Yes, we offer flexible lease terms and are open to negotiations to accommodate your business needs." },
+      { "question": "Are utilities included in the rent", "answer": "Utilities are typically not included in the rent, but we can provide details about additional costs upfront." },
+      { "question": "How long is the lease agreement", "answer": "Lease agreements typically range from one to three years, but we can customize the duration based on your preferences." },
+      { "question": "What documents are required to rent a shop", "answer": "You will need identification proof, business registration documents, and financial statements. Our team will provide a complete list of requirements." },
+      { "question": "Can I visit the shop before signing the lease", "answer": "Yes, we encourage you to visit the shop to ensure it meets your expectations. Schedule a visit with us today." },
+      { "question": "Is parking available for customers", "answer": "Most of our shops offer ample parking space for customers, ensuring convenience and accessibility." },
+      { "question": "What support do you provide after renting the shop", "answer": "We offer ongoing support, including maintenance services and assistance with any issues that may arise during your lease." }
+    ]
+  },
+  "contactSection": {
+    "title": "Contact Us to Rent Your Ideal Shop in Saha Ambala",
+    "description": [
+      "Ready to find the perfect shop for your business? Get in touch with our team today. We are here to assist you every step of the way.",
+      "Fill out the form below, and we will respond promptly with detailed information and available options."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}
+```

@@ -1,0 +1,88 @@
+{
+  "domain": "",
+  "hero": {
+    "title": "Shop For Sale in Old Town Ambala Prime Location",
+    "description": [
+      "Discover the perfect shop for sale in Old Town Ambala, a prime location known for its bustling markets and thriving business opportunities. Whether you are looking to start a new venture or expand your existing business, this area offers unmatched connectivity and footfall.",
+      "Our listings include shops in various sizes and configurations, catering to diverse business needs. Located in the heart of Ambala, Old Town is a hub of commercial activity, making it an ideal spot for entrepreneurs and investors alike."
+    ],
+    "buttons": [
+      { "label": "Explore Shops", "path": "/shops" },
+      { "label": "Contact Us", "path": "/contact" }
+    ],
+    "images": []
+  },
+  "featuresSection": {
+    "heading": "Available Shop Sizes in Old Town Ambala",
+    "description": [
+      "Find the ideal shop size to meet your business requirements. Our listings include a variety of options, from compact spaces to larger setups, ensuring you find the perfect fit.",
+      "Each shop is strategically located in Old Town Ambala, offering excellent visibility and accessibility for your customers."
+    ],
+    "features": [
+      { "title": "4 Marla Plot", "description": "Perfect for small retail stores or boutique setups, offering a compact yet functional space." },
+      { "title": "6 Marla Plot", "description": "Ideal for medium-sized businesses, providing ample space for display and storage." },
+      { "title": "8 Marla Plot", "description": "Great for larger shops, offering spacious interiors and excellent customer accessibility." },
+      { "title": "10 Marla Plot", "description": "Suited for multi-purpose businesses, with enough room for expansion." },
+      { "title": "12 Marla Plot", "description": "Perfect for showrooms or large retail stores, offering premium visibility." },
+      { "title": "14 Marla Plot", "description": "Best for flagship stores or businesses requiring extensive space and branding." }
+    ]
+  },
+  "locationsSection": {
+    "title": "Nearby Areas and Markets in Ambala",
+    "description": [
+      "Old Town Ambala is surrounded by several prominent areas and markets, making it a strategic location for your business.",
+      "Explore nearby locations that complement your shop in Old Town Ambala, offering additional opportunities for growth and customer reach."
+    ],
+    "locations": [
+      "Ambala Cantt",
+      "Model Town",
+      "Railway Road",
+      "Jagadhri Road",
+      "Patel Nagar",
+      "Kishanpura",
+      "Naraingarh Road",
+      "Sadar Bazaar"
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Choose a Shop in Old Town Ambala",
+    "description": [
+      "Investing in a shop in Old Town Ambala offers numerous benefits, from high footfall to excellent connectivity.",
+      "Here are some compelling reasons to choose this prime location for your business."
+    ],
+    "points": [
+      { "title": "Prime Location", "description": "Old Town Ambala is centrally located, ensuring maximum visibility and accessibility for your customers." },
+      { "title": "High Footfall", "description": "The area attracts a large number of shoppers daily, providing a steady stream of potential customers." },
+      { "title": "Excellent Connectivity", "description": "Well-connected to major roads and transportation hubs, making it easy for customers to reach your shop." },
+      { "title": "Thriving Market", "description": "Old Town Ambala is known for its vibrant market, offering a competitive yet rewarding business environment." },
+      { "title": "Variety of Options", "description": "Choose from a range of shop sizes and configurations to suit your specific business needs." },
+      { "title": "Investment Potential", "description": "The area is rapidly developing, offering excellent returns on your investment in the long term." },
+      { "title": "Supportive Community", "description": "Join a community of established businesses and entrepreneurs, fostering growth and collaboration." },
+      { "title": "Future Prospects", "description": "With ongoing development projects, Old Town Ambala promises a bright future for businesses." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Shops in Old Town Ambala",
+    "description": "Find answers to common questions about buying a shop in Old Town Ambala.",
+    "faqs": [
+      { "question": "What types of businesses are suitable for Old Town Ambala", "answer": "Old Town Ambala is ideal for retail stores, boutiques, showrooms, and various service-oriented businesses due to its prime location and high footfall." },
+      { "question": "What is the average cost of a shop in Old Town Ambala", "answer": "The cost varies depending on the size and location of the shop. Contact us for detailed pricing information." },
+      { "question": "Is Old Town Ambala a good investment for businesses", "answer": "Yes, Old Town Ambala offers excellent investment potential due to its thriving market and ongoing development projects." },
+      { "question": "Are there any legal considerations when buying a shop in Old Town Ambala", "answer": "We ensure all properties are legally verified and provide complete documentation to avoid any issues." },
+      { "question": "Can I get financing options for purchasing a shop in Old Town Ambala", "answer": "Yes, we offer assistance in securing financing options through trusted financial institutions." },
+      { "question": "What are the maintenance charges for shops in Old Town Ambala", "answer": "Maintenance charges depend on the specific property and its amenities. We provide detailed information upon inquiry." },
+      { "question": "How can I visit available shops in Old Town Ambala", "answer": "You can schedule a visit by contacting us directly. We will arrange a convenient time for you." },
+      { "question": "What amenities are available in Old Town Ambala", "answer": "Old Town Ambala offers essential amenities such as parking, security, and easy access to public transport." },
+      { "question": "Can I customize the shop space in Old Town Ambala", "answer": "Yes, many shops allow customization based on your business needs and preferences." },
+      { "question": "How do I get started with purchasing a shop in Old Town Ambala", "answer": "Simply reach out to us to discuss your requirements, and we will guide you through the entire process." }
+    ]
+  },
+  "contactSection": {
+    "title": "Contact Us for Shop For Sale in Old Town Ambala",
+    "description": [
+      "Ready to find your dream shop in Old Town Ambala? Get in touch with us today.",
+      "Our team is here to assist you with all your queries and guide you through the purchasing process."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "domain": "realestate.com",
+  "hero": {
+    "title": "Shop For Sale in Defence Colony Ambala",
+    "description": [
+      "Explore premium shops for sale in Defence Colony Ambala, a prime location known for its bustling commercial activity and excellent connectivity.",
+      "Whether you’re looking to start a new business or expand your existing one, Defence Colony offers the perfect blend of convenience and opportunity."
+    ],
+    "buttons": [
+      { "label": "View Listings", "path": "/listings" },
+      { "label": "Contact Us", "path": "/contact" }
+    ],
+    "images": []
+  },
+  "featuresSection": {
+    "heading": "Available Shop Sizes in Defence Colony Ambala",
+    "description": [
+      "Discover a range of shop sizes tailored to meet your business needs in Defence Colony Ambala.",
+      "From compact spaces ideal for startups to larger shops perfect for established businesses, we have options for every entrepreneur."
+    ],
+    "features": [
+      { "title": "4 Marla Plot", "description": "Compact and affordable, perfect for small businesses or retail outlets." },
+      { "title": "6 Marla Plot", "description": "Ideal for medium-sized businesses with room for growth and expansion." },
+      { "title": "8 Marla Plot", "description": "Spacious enough for larger retail stores or service-based businesses." },
+      { "title": "10 Marla Plot", "description": "Excellent for businesses requiring more storage or customer space." },
+      { "title": "12 Marla Plot", "description": "Perfect for businesses looking for a prominent presence in Defence Colony." },
+      { "title": "14 Marla Plot", "description": "Largest available size, ideal for flagship stores or multi-purpose use." }
+    ]
+  },
+  "locationsSection": {
+    "title": "Nearby Areas to Defence Colony Ambala",
+    "description": [
+      "Defence Colony Ambala is surrounded by several prime locations that enhance its appeal.",
+      "Explore these nearby areas that offer similar commercial opportunities and excellent connectivity."
+    ],
+    "locations": [
+      "Ambala Cantt",
+      "Model Town",
+      "Naraingarh Road",
+      "Sector 7",
+      "Sector 8",
+      "Sector 9",
+      "Railway Road",
+      "Jagadhri Road",
+      "Baldev Nagar",
+      "Patel Nagar"
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Choose Defence Colony Ambala for Your Shop",
+    "description": [
+      "Defence Colony Ambala stands out as a top choice for commercial investments.",
+      "Here are some compelling reasons to consider this location for your next business venture."
+    ],
+    "points": [
+      { "title": "Prime Location", "description": "Defence Colony Ambala is centrally located, offering easy access to major roads and markets." },
+      { "title": "High Footfall", "description": "The area attracts a large number of customers daily, ensuring steady business." },
+      { "title": "Excellent Connectivity", "description": "Well-connected to residential areas, making it convenient for customers to visit." },
+      { "title": "Diverse Business Opportunities", "description": "From retail to services, Defence Colony supports a wide range of businesses." },
+      { "title": "Modern Infrastructure", "description": "The area boasts well-maintained roads, ample parking, and modern amenities." },
+      { "title": "Safe and Secure", "description": "Defence Colony is known for its low crime rate, ensuring a safe environment for business." },
+      { "title": "Growing Market", "description": "The commercial market in Defence Colony is rapidly expanding, offering great potential." },
+      { "title": "Supportive Community", "description": "A thriving business community that fosters growth and collaboration." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Shops in Defence Colony Ambala",
+    "description": "Find answers to common questions about purchasing a shop in Defence Colony Ambala.",
+    "faqs": [
+      { "question": "What types of shops are available in Defence Colony Ambala", "answer": "Defence Colony Ambala offers a variety of shops, including retail stores, service centers, and more." },
+      { "question": "Is Defence Colony Ambala a good location for business", "answer": "Yes, Defence Colony Ambala is a prime location with high footfall and excellent connectivity." },
+      { "question": "What is the price range for shops in Defence Colony Ambala", "answer": "Prices vary based on size and location, ranging from affordable to premium options." },
+      { "question": "Are there any legal considerations when buying a shop in Defence Colony Ambala", "answer": "It’s essential to verify property titles and ensure all legal documents are in order." },
+      { "question": "Can I get financing for a shop in Defence Colony Ambala", "answer": "Yes, several banks and financial institutions offer loans for commercial properties." },
+      { "question": "What amenities are available in Defence Colony Ambala", "answer": "The area offers modern amenities, including parking, security, and easy access to utilities." },
+      { "question": "How can I find the best shop for my business in Defence Colony Ambala", "answer": "Consult with a local real estate agent who specializes in commercial properties." },
+      { "question": "What is the process for purchasing a shop in Defence Colony Ambala", "answer": "The process involves property selection, legal verification, and finalizing the purchase agreement." },
+      { "question": "Are there any upcoming developments in Defence Colony Ambala", "answer": "Yes, the area is seeing new commercial projects that enhance its appeal." },
+      { "question": "Can I visit Defence Colony Ambala before making a decision", "answer": "Absolutely, visiting the area will give you a better understanding of its potential." }
+    ]
+  },
+  "contactSection": {
+    "title": "Contact Us for Shops in Defence Colony Ambala",
+    "description": [
+      "Ready to find your perfect shop in Defence Colony Ambala?",
+      "Get in touch with our expert team today for personalized assistance and more information."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

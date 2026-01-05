@@ -1,0 +1,88 @@
+{
+  "domain": "",
+  "hero": {
+    "title": "Find the Perfect Shop For Rent in Mullana",
+    "description": [
+      "Discover prime commercial spaces for rent in Mullana, tailored to meet your business needs. Whether you’re looking for a small retail outlet or a spacious showroom, Mullana offers a variety of options in bustling areas.",
+      "Our listings feature shops in strategic locations with excellent connectivity, ensuring your business thrives. Explore flexible rental terms and competitive pricing to find the ideal space for your venture."
+    ],
+    "buttons": [
+      { "label": "Browse Shops", "path": "/shops" },
+      { "label": "Contact Us", "path": "/contact" }
+    ],
+    "images": []
+  },
+  "featuresSection": {
+    "heading": "Explore Shop Sizes and Features in Mullana",
+    "description": [
+      "Mullana offers a diverse range of shop sizes to suit every business requirement. From compact retail spaces to expansive commercial units, our listings cater to various industries and budgets.",
+      "Each shop comes with essential amenities, ensuring a seamless business setup. Whether you’re launching a new venture or expanding your operations, Mullana has the perfect space for you."
+    ],
+    "features": [
+      { "title": "Small Retail Shop", "description": "Ideal for boutique stores, small businesses, or startups, these compact spaces are located in high-footfall areas, ensuring maximum visibility." },
+      { "title": "Medium Showroom", "description": "Perfect for mid-sized businesses, these shops offer ample space for display and storage, located in prime commercial zones." },
+      { "title": "Large Commercial Space", "description": "Designed for businesses requiring extensive space, these units are ideal for warehouses, large showrooms, or multi-purpose setups." },
+      { "title": "Corner Shop", "description": "Corner shops with high visibility and accessibility, perfect for retail outlets or service-oriented businesses." },
+      { "title": "Shop in Market Complex", "description": "Located within bustling market complexes, these shops benefit from high customer traffic and a vibrant business environment." },
+      { "title": "Shop with Parking", "description": "Spacious shops with dedicated parking facilities, ideal for businesses catering to customers who drive." }
+    ]
+  },
+  "locationsSection": {
+    "title": "Prime Locations for Shops in Mullana",
+    "description": [
+      "Mullana boasts several prime locations for commercial spaces, each offering unique advantages for businesses. From bustling markets to serene residential areas, our listings cover the most sought-after spots.",
+      "Whether you prefer a high-traffic zone or a quieter neighborhood, Mullana has the perfect location to grow your business."
+    ],
+    "locations": [
+      "Mullana Main Market",
+      "Mullana Industrial Area",
+      "Mullana Residential Colony",
+      "Mullana Highway Road",
+      "Mullana Sector 5",
+      "Mullana Sector 7",
+      "Mullana Sector 9",
+      "Mullana Sector 12"
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Choose Mullana for Your Business Space",
+    "description": [
+      "Mullana is one of the fastest-growing commercial hubs in the region, offering unmatched opportunities for businesses. With its strategic location and excellent infrastructure, Mullana is the ideal choice for entrepreneurs.",
+      "Our shop rentals in Mullana are designed to provide flexibility, affordability, and convenience, ensuring your business thrives in a competitive market."
+    ],
+    "points": [
+      { "title": "Strategic Location", "description": "Mullana’s proximity to major highways and urban centers ensures excellent connectivity and accessibility for your business." },
+      { "title": "Affordable Rentals", "description": "Competitive pricing and flexible rental terms make Mullana an attractive option for businesses of all sizes." },
+      { "title": "High Footfall Areas", "description": "Shops in Mullana are located in bustling markets and commercial zones, ensuring maximum visibility and customer traffic." },
+      { "title": "Modern Infrastructure", "description": "State-of-the-art facilities and amenities ensure a seamless business setup and operations." },
+      { "title": "Safe and Secure", "description": "Mullana’s well-planned commercial areas offer a safe and secure environment for businesses and customers alike." },
+      { "title": "Growth Potential", "description": "With its rapid development and expanding economy, Mullana offers immense growth opportunities for businesses." },
+      { "title": "Flexible Spaces", "description": "From compact shops to large commercial units, Mullana offers a variety of spaces to suit your specific needs." },
+      { "title": "Supportive Community", "description": "A thriving business community and local support make Mullana an ideal place to establish your venture." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Shops For Rent in Mullana",
+    "description": "Got questions about renting a shop in Mullana? Here are some common queries and their answers to help you make an informed decision.",
+    "faqs": [
+      { "question": "What types of shops are available for rent in Mullana", "answer": "Mullana offers a variety of shops, including small retail spaces, medium showrooms, and large commercial units, catering to different business needs." },
+      { "question": "Are there shops available in high-footfall areas", "answer": "Yes, Mullana has several shops located in bustling markets and prime commercial zones, ensuring high visibility and customer traffic." },
+      { "question": "What is the average rental price for shops in Mullana", "answer": "Rental prices vary based on size, location, and amenities. However, Mullana offers competitive pricing to suit various budgets." },
+      { "question": "Can I find shops with parking facilities", "answer": "Absolutely. Many shops in Mullana come with dedicated parking spaces, making them ideal for businesses catering to customers who drive." },
+      { "question": "Are there flexible rental terms available", "answer": "Yes, Mullana offers flexible rental terms to accommodate the needs of businesses, whether short-term or long-term." },
+      { "question": "Is Mullana a safe location for businesses", "answer": "Yes, Mullana’s well-planned commercial areas are safe and secure, providing a conducive environment for businesses and customers." },
+      { "question": "What amenities are included with shop rentals", "description": "Shops in Mullana come with essential amenities such as electricity, water supply, and security, ensuring a hassle-free business setup." },
+      { "question": "How do I apply to rent a shop in Mullana", "description": "Simply browse our listings, select a shop that meets your needs, and contact us to complete the rental process." },
+      { "question": "Can I visit the shop before renting", "description": "Yes, we encourage potential tenants to visit the shop and assess the space before making a decision." },
+      { "question": "What support is available for new businesses in Mullana", "description": "Mullana offers a supportive business community, local resources, and infrastructure to help new ventures thrive." }
+    ]
+  },
+  "contactSection": {
+    "title": "Get in Touch for Shop Rentals in Mullana",
+    "description": [
+      "Ready to find your perfect shop in Mullana? Contact us today to explore our listings and start your business journey in this thriving commercial hub.",
+      "Our team is here to assist you with all your rental needs, ensuring a seamless and hassle-free experience."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

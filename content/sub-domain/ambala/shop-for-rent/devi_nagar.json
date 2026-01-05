@@ -1,0 +1,90 @@
+{
+  "domain": "www.example.com",
+  "hero": {
+    "title": "Find the Perfect Shop For Rent in Devi Nagar",
+    "description": [
+      "Discover premium commercial spaces available for rent in Devi Nagar, tailored to meet your business needs. Whether you are looking for a small boutique or a large retail outlet, Devi Nagar offers a variety of shops in prime locations with excellent connectivity and amenities.",
+      "Our listings include detailed information on shop sizes, rental prices, and nearby facilities, ensuring you make an informed decision. With a focus on providing the best options, we help you find a shop that aligns with your business goals and budget."
+    ],
+    "buttons": [
+      { "label": "View Available Shops", "path": "/shops" },
+      { "label": "Contact Us", "path": "/contact" }
+    ],
+    "images": []
+  },
+  "featuresSection": {
+    "heading": "Available Shops in Devi Nagar",
+    "description": [
+      "Explore a wide range of shops available for rent in Devi Nagar, designed to cater to various business requirements. From compact spaces to expansive commercial units, we have options to suit every need.",
+      "Our featured listings highlight shops with modern amenities, strategic locations, and competitive rental rates, ensuring you find the perfect space for your business."
+    ],
+    "features": [
+      { "title": "4 Marla Shop", "description": "Ideal for small businesses, this 4 Marla shop offers a compact yet functional space with excellent visibility and foot traffic." },
+      { "title": "6 Marla Shop", "description": "Perfect for medium-sized businesses, this 6 Marla shop provides ample space with modern amenities and easy accessibility." },
+      { "title": "8 Marla Shop", "description": "Designed for larger retail outlets, this 8 Marla shop offers spacious interiors and a prime location in Devi Nagar." },
+      { "title": "10 Marla Shop", "description": "A versatile space for various business types, this 10 Marla shop combines size, location, and convenience." },
+      { "title": "12 Marla Shop", "description": "An excellent choice for businesses requiring substantial space, this 12 Marla shop features a strategic location and modern facilities." },
+      { "title": "14 Marla Shop", "description": "The largest option available, this 14 Marla shop is perfect for businesses needing expansive commercial space with top-notch amenities." }
+    ]
+  },
+  "locationsSection": {
+    "title": "Nearby Locations to Devi Nagar",
+    "description": [
+      "Devi Nagar is strategically located near several key areas, making it a convenient choice for businesses. Explore these nearby locations that offer additional opportunities and benefits for your commercial ventures.",
+      "Whether you are looking for proximity to residential areas, markets, or transportation hubs, these locations complement the advantages of setting up your business in Devi Nagar."
+    ],
+    "locations": [
+      "Sector 7 Ambala",
+      "Sector 8 Ambala",
+      "Ambala Cantt",
+      "Naraingarh Road",
+      "Ballana",
+      "Mullana",
+      "Shahpur",
+      "Barara",
+      "Ambala City",
+      "Panjokhra"
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Choose Devi Nagar for Your Business",
+    "description": [
+      "Devi Nagar stands out as an ideal location for businesses due to its strategic position, excellent infrastructure, and vibrant commercial environment. Here are some compelling reasons to consider Devi Nagar for your next business venture.",
+      "From accessibility to a thriving market, Devi Nagar offers numerous benefits that make it a preferred choice for entrepreneurs and established businesses alike."
+    ],
+    "points": [
+      { "title": "Prime Location", "description": "Devi Nagar is centrally located with easy access to major roads and highways, ensuring excellent connectivity for both customers and suppliers." },
+      { "title": "Thriving Market", "description": "The area boasts a bustling market with high foot traffic, providing ample opportunities for businesses to attract customers and grow." },
+      { "title": "Modern Amenities", "description": "Shops in Devi Nagar come equipped with modern amenities, ensuring a comfortable and efficient working environment for your business." },
+      { "title": "Competitive Rentals", "description": "With a range of rental options available, Devi Nagar offers affordable rates that cater to businesses of all sizes and budgets." },
+      { "title": "Proximity to Residential Areas", "description": "The close proximity to residential colonies ensures a steady flow of local customers, enhancing your business's potential for success." },
+      { "title": "Excellent Infrastructure", "description": "Devi Nagar features well-developed infrastructure, including reliable utilities, transportation, and communication networks, supporting seamless business operations." },
+      { "title": "Supportive Community", "description": "The local community is business-friendly, offering a supportive environment that fosters growth and collaboration among entrepreneurs." },
+      { "title": "Future Growth Potential", "description": "With ongoing development and increasing commercial activity, Devi Nagar presents significant potential for future growth and expansion of your business." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Shops For Rent in Devi Nagar",
+    "description": "Here are some common questions and answers to help you understand more about renting a shop in Devi Nagar.",
+    "faqs": [
+      { "question": "What types of shops are available for rent in Devi Nagar", "answer": "Devi Nagar offers a variety of shops ranging from small 4 Marla units to large 14 Marla commercial spaces, catering to different business needs." },
+      { "question": "How do I find the right shop for my business in Devi Nagar", "answer": "Our platform provides detailed listings with information on shop sizes, rental prices, and amenities, helping you find the perfect space for your business." },
+      { "question": "What is the average rental price for shops in Devi Nagar", "answer": "Rental prices vary based on the size and location of the shop. Contact us for specific details and current rental rates." },
+      { "question": "Are there any additional costs besides the rent", "answer": "Additional costs may include maintenance fees, utilities, and security deposits. Ensure you clarify these details before finalizing the rental agreement." },
+      { "question": "What amenities are available in shops for rent in Devi Nagar", "answer": "Shops in Devi Nagar come with modern amenities such as electricity, water supply, parking, and security, ensuring a comfortable working environment." },
+      { "question": "Is Devi Nagar a good location for starting a business", "answer": "Yes, Devi Nagar is an excellent location due to its prime position, thriving market, and supportive community, making it ideal for business growth." },
+      { "question": "How can I contact property owners in Devi Nagar", "answer": "You can contact property owners directly through our platform or reach out to us for assistance in connecting with them." },
+      { "question": "What documents are required to rent a shop in Devi Nagar", "answer": "Typically, you will need identification proof, business registration documents, and financial statements. Specific requirements may vary by property owner." },
+      { "question": "Can I negotiate the rental price for a shop in Devi Nagar", "answer": "Yes, rental prices are often negotiable. Discuss your budget and requirements with the property owner to reach a mutually beneficial agreement." },
+      { "question": "What is the lease duration for shops in Devi Nagar", "answer": "Lease durations vary but are typically between one to three years. Confirm the lease terms with the property owner before signing the agreement." }
+    ]
+  },
+  "contactSection": {
+    "title": "Contact Us for More Information",
+    "description": [
+      "If you have any questions or need assistance in finding the perfect shop for rent in Devi Nagar, feel free to reach out to us.",
+      "Our team is here to help you with detailed information, property viewings, and any other support you may require."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

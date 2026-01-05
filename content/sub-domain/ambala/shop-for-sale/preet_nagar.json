@@ -1,0 +1,88 @@
+{
+  "domain": "www.exampleproperty.com",
+  "hero": {
+    "title": "Shop For Sale in Preet Nagar Ambala",
+    "description": [
+      "Discover the perfect commercial space with our Shop For Sale in Preet Nagar Ambala. Located in one of the most sought-after areas, this shop offers excellent visibility and accessibility, making it ideal for businesses looking to thrive in a bustling environment. Preet Nagar is known for its vibrant community, modern amenities, and strategic location, ensuring your business gets the exposure it deserves.",
+      "Whether you are starting a new venture or expanding your existing one, this shop provides the perfect platform for growth. With ample parking space, 24/7 security, and proximity to major landmarks, it caters to all your business needs. Invest in a shop that promises high returns and long-term success."
+    ],
+    "buttons": [
+      { "label": "Schedule a Visit", "path": "/visit" },
+      { "label": "Contact Us", "path": "/contact" }
+    ],
+    "images": []
+  },
+  "featuresSection": {
+    "heading": "Explore Available Shop Sizes in Preet Nagar Ambala",
+    "description": [
+      "Our Shop For Sale in Preet Nagar Ambala offers a variety of sizes to suit your business requirements. Whether you need a compact space or a larger commercial area, we have options that cater to every need.",
+      "Each shop is designed with modern architecture and built with high-quality materials to ensure durability and aesthetic appeal. Choose the perfect size to match your vision and start your entrepreneurial journey today."
+    ],
+    "features": [
+      { "title": "4 Marla Plot", "description": "Ideal for small businesses or startups, this 4 Marla shop offers a compact yet functional space to kickstart your venture." },
+      { "title": "6 Marla Plot", "description": "A slightly larger option, the 6 Marla shop provides ample space for retail stores or service-based businesses." },
+      { "title": "8 Marla Plot", "description": "Perfect for medium-sized businesses, this 8 Marla shop offers a spacious area with excellent footfall potential." },
+      { "title": "10 Marla Plot", "description": "Designed for growing businesses, the 10 Marla shop ensures you have enough room for expansion and customer comfort." },
+      { "title": "12 Marla Plot", "description": "A premium choice for established businesses, this 12 Marla shop offers unmatched visibility and accessibility." },
+      { "title": "14 Marla Plot", "description": "The largest option available, this 14 Marla shop is perfect for businesses requiring extensive space and high customer traffic." }
+    ]
+  },
+  "locationsSection": {
+    "title": "Nearby Locations to Preet Nagar Ambala",
+    "description": [
+      "Preet Nagar Ambala is strategically located near several prominent areas, making it a prime choice for businesses. Explore these nearby locations that complement the convenience and accessibility of Preet Nagar.",
+      "Each of these areas offers its own unique advantages, ensuring your business benefits from a diverse customer base and excellent connectivity."
+    ],
+    "locations": [
+      "Ambala Cantt",
+      "Sector 7 Ambala",
+      "Sector 8 Ambala",
+      "Sector 9 Ambala",
+      "Model Town Ambala",
+      "Railway Road Ambala",
+      "Jagadhri Road Ambala",
+      "Naraingarh Road Ambala"
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Choose a Shop in Preet Nagar Ambala",
+    "description": [
+      "Investing in a Shop For Sale in Preet Nagar Ambala comes with numerous benefits. From strategic location to modern amenities, here are the reasons why this is the perfect choice for your business.",
+      "Our properties are designed to meet the highest standards, ensuring you get the best value for your investment."
+    ],
+    "points": [
+      { "title": "Prime Location", "description": "Preet Nagar Ambala is centrally located, offering easy access to major roads, markets, and residential areas." },
+      { "title": "High Footfall", "description": "The area attracts a large number of visitors daily, ensuring your business gets maximum exposure." },
+      { "title": "Modern Infrastructure", "description": "Our shops are built with state-of-the-art facilities, providing a comfortable and efficient working environment." },
+      { "title": "Ample Parking", "description": "With dedicated parking spaces, your customers can enjoy hassle-free visits to your shop." },
+      { "title": "24/7 Security", "description": "Safety is a priority, and our properties are equipped with round-the-clock security systems." },
+      { "title": "Proximity to Amenities", "description": "Schools, hospitals, and shopping centers are just a short distance away, adding to the convenience." },
+      { "title": "High ROI Potential", "description": "The growing demand for commercial spaces in Preet Nagar Ambala ensures a high return on your investment." },
+      { "title": "Customizable Options", "description": "We offer flexible designs and layouts to suit your specific business needs." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Shop For Sale in Preet Nagar Ambala",
+    "description": "Here are some common questions and answers to help you make an informed decision about purchasing a shop in Preet Nagar Ambala.",
+    "faqs": [
+      { "question": "What is the price range for shops in Preet Nagar Ambala", "answer": "The price varies depending on the size and location of the shop. Contact us for detailed pricing information." },
+      { "question": "Are there any financing options available", "answer": "Yes, we offer flexible financing options to make your purchase more convenient. Speak to our team for more details." },
+      { "question": "Can I customize the shop layout", "answer": "Absolutely, we provide customizable layouts to meet your specific business requirements." },
+      { "question": "What amenities are available in the area", "answer": "Preet Nagar Ambala offers modern amenities including parking, security, and proximity to essential services." },
+      { "question": "Is the area suitable for retail businesses", "answer": "Yes, the high footfall and strategic location make it ideal for retail businesses." },
+      { "question": "How is the connectivity to other parts of Ambala", "answer": "Preet Nagar Ambala is well-connected to major roads and public transport, ensuring easy accessibility." },
+      { "question": "What is the process for purchasing a shop", "answer": "Simply contact us to schedule a visit, discuss your requirements, and complete the necessary paperwork." },
+      { "question": "Are there any maintenance charges", "answer": "Yes, there are nominal maintenance charges that cover security and common area upkeep." },
+      { "question": "Can I visit the shop before purchasing", "answer": "Of course, we encourage potential buyers to visit and inspect the property before making a decision." },
+      { "question": "What is the expected ROI for a shop in Preet Nagar Ambala", "answer": "Given the area's growth and demand, you can expect a high return on your investment over time." }
+    ]
+  },
+  "contactSection": {
+    "title": "Contact Us for Shop For Sale in Preet Nagar Ambala",
+    "description": [
+      "Have questions or want to schedule a visit? Our team is here to assist you with all your queries about the Shop For Sale in Preet Nagar Ambala.",
+      "Fill out the form below, and we will get back to you promptly."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

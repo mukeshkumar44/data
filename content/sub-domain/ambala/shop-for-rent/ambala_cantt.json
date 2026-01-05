@@ -1,0 +1,89 @@
+```json
+{
+  "domain": "example.com",
+  "hero": {
+    "title": "Find the Best Shop For Rent in Ambala Cantt",
+    "description": [
+      "Discover prime commercial spaces for rent in Ambala Cantt. Whether you're starting a new business or expanding, we have the perfect shop for your needs.",
+      "Our listings include high-footfall areas, competitive pricing, and flexible lease terms to suit your business requirements."
+    ],
+    "buttons": [
+      { "label": "View Available Shops", "path": "/shops" },
+      { "label": "Contact Agent", "path": "/contact" }
+    ],
+    "images": []
+  },
+  "featuresSection": {
+    "heading": "Prime Commercial Spaces in Ambala Cantt",
+    "description": [
+      "Explore a variety of shops for rent in Ambala Cantt, strategically located in bustling markets and commercial hubs.",
+      "Our listings cater to retail stores, eateries, salons, and more, ensuring you find the ideal space for your business."
+    ],
+    "features": [
+      { "title": "Retail Shops", "description": "Spacious and well-lit retail shops in high-traffic areas, perfect for clothing, electronics, and grocery stores." },
+      { "title": "Food Outlets", "description": "Compact and hygienic spaces ideal for cafes, bakeries, and fast-food joints in Ambala Cantt." },
+      { "title": "Beauty Salons", "description": "Elegant and well-ventilated shops suitable for salons, spas, and beauty clinics." },
+      { "title": "Medical Stores", "description": "Prime locations near hospitals and residential areas for pharmacies and medical supply stores." },
+      { "title": "Electronics Shops", "description": "Secure and spacious shops for electronics and appliance showrooms." },
+      { "title": "General Stores", "description": "Affordable and accessible spaces for daily needs and convenience stores." }
+    ]
+  },
+  "locationsSection": {
+    "title": "Top Commercial Areas in Ambala Cantt",
+    "description": [
+      "Ambala Cantt offers a variety of bustling markets and commercial zones perfect for renting a shop.",
+      "Below are some of the most sought-after locations for businesses in Ambala Cantt."
+    ],
+    "locations": [
+      "Sadar Bazaar",
+      "Railway Road",
+      "Jagadhari Road",
+      "Nicholson Road",
+      "Mall Road",
+      "Patel Road",
+      "Court Road",
+      "Manmohan Nagar"
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Rent a Shop in Ambala Cantt",
+    "description": [
+      "Ambala Cantt is a thriving commercial hub with excellent connectivity and a diverse customer base.",
+      "Here are some compelling reasons to set up your business here."
+    ],
+    "points": [
+      { "title": "High Footfall", "description": "Locations like Sadar Bazaar and Railway Road attract thousands of customers daily, ensuring steady business." },
+      { "title": "Affordable Rent", "description": "Competitive rental rates compared to other commercial hubs in the region." },
+      { "title": "Strategic Location", "description": "Proximity to major roads, railways, and residential areas enhances accessibility." },
+      { "title": "Diverse Clientele", "description": "Cater to a mix of locals, tourists, and defense personnel stationed in the area." },
+      { "title": "Business-Friendly Environment", "description": "Supportive local policies and a vibrant entrepreneurial community." },
+      { "title": "Modern Infrastructure", "description": "Well-maintained shops with amenities like electricity, water, and parking." },
+      { "title": "Growth Potential", "description": "Ambala Cantt is rapidly developing, offering long-term business growth opportunities." },
+      { "title": "Flexible Lease Terms", "description": "Options for short-term and long-term rentals to suit your business needs." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Shops For Rent in Ambala Cantt",
+    "description": "Get answers to common queries about renting a shop in Ambala Cantt.",
+    "faqs": [
+      { "question": "What is the average rent for a shop in Ambala Cantt", "answer": "Rent varies based on location and size, ranging from INR 10,000 to INR 50,000 per month." },
+      { "question": "Are there any hidden charges when renting a shop", "answer": "Most listings include transparent pricing, but always verify maintenance and utility charges with the landlord." },
+      { "question": "Can I negotiate the rent with the landlord", "answer": "Yes, rent negotiation is common, especially for long-term leases or if you pay upfront." },
+      { "question": "What documents are required to rent a shop", "answer": "Typically, you need ID proof, address proof, and a security deposit. Commercial leases may require additional paperwork." },
+      { "question": "How do I find the best location for my business", "answer": "Consider foot traffic, nearby competitors, and target audience. Our agents can help you choose the ideal spot." },
+      { "question": "Are there shops available for short-term leases", "answer": "Yes, some landlords offer flexible lease terms, including monthly or quarterly rentals." },
+      { "question": "What amenities are usually included with the shop", "answer": "Basic amenities like electricity, water, and parking are standard. Some shops may include AC or storage space." },
+      { "question": "Is Ambala Cantt a good place for retail businesses", "answer": "Absolutely. The area's high footfall and diverse population make it ideal for retail ventures." },
+      { "question": "How can I verify the legality of the shop", "answer": "Always check property papers and ensure the shop is authorized for commercial use. Our team assists with due diligence." }
+    ]
+  },
+  "contactSection": {
+    "title": "Get in Touch for Shop Rentals in Ambala Cantt",
+    "description": [
+      "Have questions or ready to rent a shop? Our team is here to assist you.",
+      "Fill out the form below, and we'll get back to you promptly."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}
+```

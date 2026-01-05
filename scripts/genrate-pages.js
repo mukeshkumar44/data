@@ -13,23 +13,68 @@ const model = genAI.getGenerativeModel({
 
 // ✅ ONLY LOCATION ARRAY (yahin bas locations add karni hain)
 const locations = [
-//  "Shiv Colony",
-//   "Sector 35",
-//   "Sector 36",
-//   "Sadar Bazar",
-//   "Nilokheri",
-//   "Sector 9",
-//   "Sector 7",
-//   "Sector 16",
-//   "Sector 29",
-//   "Assandh",
-//   "Gharaunda",
-//   "Sector 13",
-//   "Karan Vihar",
-  "Taraori",
-  "Sector 28",
-  "Sector 45",
-  "Sector 4"
+//  "Prem Nagar",
+//   "Jagadhri Gate",
+//   "Sarsehri",
+//   "Vijay Nagar",
+//   "NH 22",
+  // "Durga Nagar",
+  // "Sector 1",
+  // "Tagore Garden",
+  // "Sector 7",
+  // "Inder Nagar",
+  // "Saha",
+  // "Jandli",
+  // "Kala Amb",
+  // "Defence Colony",
+  // "New Pratap Nagar",
+  // "Lohgarh",
+  // "Baldev Nagar",
+  // "Mullana",
+  // "Police Line",
+  // "Ambala Cantt",
+  // "Ambala Sadar",
+  // "Jaggi Garden",
+  // "Geeta Colony",
+  // "Hira Nagar",
+  // "Sector 34",
+  "Mithapur",
+  "Parshuram Nagar",
+  "Barnala Road",
+  "Dhulkot",
+  "Kesari Village",
+  "Patti Mehar",
+  "Ambala Chandigarh Expressway",
+  "Manav Chowk",
+  "Jasmeet Nagar",
+  "Ram Nagar",
+  "Sherpur Village",
+  "Ram Bagh",
+  "Circular Road",
+  "Old Town",
+  "Devi Nagar",
+  "Sector 10",
+  "Jaggi Colony",
+  "Babyal",
+  "Balana",
+  "Mahavir Nagar",
+  "Narain Garh",
+  "Ghel",
+  "Aliyaspur",
+  "Kallerheri",
+  "Model Town",
+  "Preet Nagar",
+  "Sector 8",
+  "Rana Bagh",
+  "Alipur Village",
+  "Jalbera Road",
+  "Sector 9",
+  "RK Puram",
+  "Laxmi Nagar"
+ 
+ 
+
+  
 ]
 
 ;
@@ -37,7 +82,7 @@ const limitedLocations = locations.slice(0, DAILY_LIMIT);
 
 
 // output folder
-const OUTPUT_DIR = "./output";
+const OUTPUT_DIR = "./output2";
 if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR);
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -51,7 +96,7 @@ Generate FULL webpage content in STRICT JSON ONLY.
 No explanation. No markdown.
 
 LOCATION: ${location}
-PRIMARY KEYWORD:Plot For Sale  in ${location}
+PRIMARY KEYWORD: Commercial Property For Sale in ${location}
 
 CONTENT RULES:
 - Copywriting style
@@ -64,14 +109,14 @@ CONTENT RULES:
 - This applies to ALL fields including:
 - title, heading, section titles, hero title, feature titles, FAQ questions
 - Example of BAD text: "Discover Perfect Plot Sizes: Smart Investment Options"
-- Example of GOOD text: "Perfect Plot Sizes for Residential Homes in Sector 4 Karnal"
-- When contextually appropriate, you may append "Karnal" after the location name
+- Example of GOOD text: "Perfect Plot Sizes for Residential Homes in Sector 9 Ambala"
+- When contextually appropriate, you may append "Ambala" after the location name
 - This is optional and should be used naturally for clarity and SEO
 - Especially allowed in headings, hero title, section titles, and descriptive content
-- Do NOT force "Karnal" in every line or every field
+- Do NOT force "Ambala" in every line or every field
 - Example allowed usage
-  "3 BHK Flat for Sale in Sector 9 Karnal"
-  "Residential Living Options in Shiv Colony Karnal"
+  "3 BHK Flat for Sale in Sector 8 Ambala"
+  "Residential Living Options in Ambala Cantt Ambala"
 
 JSON STRUCTURE (must match exactly):
 

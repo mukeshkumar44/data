@@ -1,0 +1,84 @@
+{
+  "domain": "example.com",
+  "hero": {
+    "title": "Shop For Sale in Prem Nagar Ambala",
+    "description": [
+      "Discover premium shop spaces available for sale in Prem Nagar Ambala. Whether you're looking to establish your business or invest in a commercial property, our listings offer the perfect opportunity.",
+      "Prem Nagar is a bustling hub with excellent connectivity, making it an ideal location for shops and businesses. Explore our curated selection of shops that cater to various needs and budgets."
+    ],
+    "buttons": [
+      { "label": "View Listings", "path": "/listings" },
+      { "label": "Contact Us", "path": "/contact" }
+    ],
+    "images": []
+  },
+  "featuresSection": {
+    "heading": "Explore Shop Sizes Available in Prem Nagar",
+    "description": [
+      "Our listings include shops of various sizes to meet your specific requirements. Whether you need a compact space or a larger commercial area, we have options for every business.",
+      "Each shop is strategically located in Prem Nagar, ensuring high visibility and foot traffic. Find the perfect shop to grow your business."
+    ],
+    "features": [
+      { "title": "100 Sq Ft Shop", "description": "Compact and affordable, ideal for small businesses or startups looking for a cost-effective space." },
+      { "title": "200 Sq Ft Shop", "description": "A versatile option for medium-sized businesses, offering ample space for retail or office use." },
+      { "title": "300 Sq Ft Shop", "description": "Perfect for businesses requiring more room, ensuring comfort and functionality for your operations." },
+      { "title": "400 Sq Ft Shop", "description": "Spacious and well-designed, suitable for larger retail stores or service-oriented businesses." },
+      { "title": "500 Sq Ft Shop", "description": "An excellent choice for businesses needing substantial space, providing flexibility and growth potential." },
+      { "title": "600 Sq Ft Shop", "description": "Premium shop spaces for those seeking a prominent location and ample room for expansion." }
+    ]
+  },
+  "locationsSection": {
+    "title": "Nearby Locations to Prem Nagar Ambala",
+    "description": [
+      "Prem Nagar is surrounded by several thriving neighborhoods, making it a central hub for businesses and residents alike.",
+      "Explore these nearby locations that complement the convenience and accessibility of Prem Nagar Ambala."
+    ],
+    "locations": [
+      "Ambala Cantt",
+      "Model Town",
+      "Sector 7",
+      "Sector 8",
+      "Sector 9",
+      "Baldev Nagar",
+      "Shastri Nagar",
+      "Rajendra Nagar"
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Choose Shops in Prem Nagar Ambala",
+    "description": [
+      "Investing in a shop in Prem Nagar Ambala offers numerous benefits for business owners and investors.",
+      "From strategic location to excellent infrastructure, discover why Prem Nagar is the ideal choice for your commercial needs."
+    ],
+    "points": [
+      { "title": "Prime Location", "description": "Prem Nagar is centrally located, ensuring high visibility and accessibility for your business." },
+      { "title": "High Foot Traffic", "description": "The area attracts a large number of visitors, providing excellent opportunities for sales and growth." },
+      { "title": "Modern Infrastructure", "description": "Enjoy well-developed roads, ample parking, and reliable utilities in Prem Nagar." },
+      { "title": "Affordable Prices", "description": "Our shops are competitively priced, offering great value for your investment." },
+      { "title": "Variety of Options", "description": "Choose from a wide range of shop sizes and layouts to suit your specific needs." },
+      { "title": "Growth Potential", "description": "Prem Nagar is a rapidly developing area, ensuring long-term benefits for your business." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Shops in Prem Nagar",
+    "description": "Find answers to common questions about buying or investing in shops in Prem Nagar Ambala.",
+    "faqs": [
+      { "question": "What is the average price of a shop in Prem Nagar", "answer": "The price varies depending on size and location, but you can find affordable options starting at competitive rates." },
+      { "question": "Are there financing options available for shop purchases", "answer": "Yes, we offer financing options and can guide you through the process to make your purchase seamless." },
+      { "question": "Can I visit the shops before making a decision", "answer": "Absolutely, we encourage you to schedule a visit to explore the shops and their surroundings." },
+      { "question": "What types of businesses thrive in Prem Nagar", "answer": "Retail stores, eateries, service providers, and offices are among the businesses that do well in Prem Nagar." },
+      { "question": "Is Prem Nagar a safe area for businesses", "answer": "Yes, Prem Nagar is known for its secure environment and supportive community for businesses." },
+      { "question": "Are there any legal formalities involved in buying a shop", "answer": "We assist you with all legal processes, ensuring a hassle-free transaction." },
+      { "question": "Can I customize the shop space according to my needs", "answer": "Yes, many shops allow customization to suit your business requirements." },
+      { "question": "What amenities are available in Prem Nagar", "answer": "Prem Nagar offers excellent amenities, including parking, utilities, and proximity to markets and schools." }
+    ]
+  },
+  "contactSection": {
+    "title": "Contact Us for Shops in Prem Nagar Ambala",
+    "description": [
+      "Have questions or need assistance? Our team is here to help you find the perfect shop in Prem Nagar Ambala.",
+      "Reach out to us today for personalized guidance and support."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

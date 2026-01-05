@@ -1,0 +1,89 @@
+{
+  "domain": "",
+  "hero": {
+    "title": "Find the Best Shop For Rent in Ghel Ambala",
+    "description": [
+      "Discover premium shop spaces available for rent in Ghel Ambala. Whether you're looking to start a new business or expand your existing one, our listings offer a variety of options in prime locations. With flexible lease terms and competitive pricing, finding the perfect shop has never been easier.",
+      "Our team ensures that every property meets high standards of quality and accessibility. Explore our curated selection of shops today and take the first step toward growing your business in Ghel Ambala."
+    ],
+    "buttons": [
+      { "label": "Browse Shops", "path": "/shops" },
+      { "label": "Contact Us", "path": "/contact" }
+    ],
+    "images": []
+  },
+  "featuresSection": {
+    "heading": "Explore Shop Sizes for Rent in Ghel Ambala",
+    "description": [
+      "We offer a wide range of shop sizes to cater to your business needs. From compact spaces ideal for boutique stores to larger shops perfect for retail chains, our listings cover it all.",
+      "Each shop is strategically located in high-traffic areas, ensuring maximum visibility and footfall for your business. Start your search today and find the perfect space to thrive."
+    ],
+    "features": [
+      { "title": "4 Marla Plot", "description": "Compact shops ideal for small businesses and startups. Perfect for boutique stores, cafes, or small retail outlets." },
+      { "title": "6 Marla Plot", "description": "Spacious shops suitable for medium-sized businesses. Great for fashion stores, electronics shops, or salons." },
+      { "title": "8 Marla Plot", "description": "Larger shops designed for growing businesses. Ideal for supermarkets, furniture stores, or gyms." },
+      { "title": "10 Marla Plot", "description": "Prime shop spaces for established businesses. Perfect for retail chains, pharmacies, or large showrooms." },
+      { "title": "12 Marla Plot", "description": "Premium shops with ample space and visibility. Suitable for high-end brands or multi-purpose retail spaces." },
+      { "title": "14 Marla Plot", "description": "Exclusive shops for businesses requiring large footprints. Ideal for warehouses, large showrooms, or entertainment centers." }
+    ]
+  },
+  "locationsSection": {
+    "title": "Prime Locations for Shops Near Ghel Ambala",
+    "description": [
+      "Our listings include shops in some of the most sought-after areas near Ghel Ambala. These locations are known for their accessibility, high footfall, and thriving business environments.",
+      "Whether you prefer a bustling market or a quiet neighborhood, we have options to suit every business need. Explore our top locations below."
+    ],
+    "locations": [
+      "Ambala Cantt",
+      "Sector 7 Ambala",
+      "Sector 8 Ambala",
+      "Sector 9 Ambala",
+      "Sector 10 Ambala",
+      "Ambala City",
+      "Naraingarh",
+      "Barara",
+      "Shahzadpur"
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Choose Shops For Rent in Ghel Ambala",
+    "description": [
+      "Choosing the right shop location is crucial for your business success. Our properties in Ghel Ambala offer unbeatable advantages to help you grow.",
+      "From prime locations to flexible lease options, we ensure you find the perfect space to meet your business goals."
+    ],
+    "points": [
+      { "title": "Prime Locations", "description": "Our shops are situated in high-traffic areas, ensuring maximum visibility and customer footfall for your business." },
+      { "title": "Flexible Lease Terms", "description": "We offer flexible lease agreements tailored to your business needs, making it easier to focus on growth." },
+      { "title": "Competitive Pricing", "description": "Enjoy affordable rental rates without compromising on quality or location advantages." },
+      { "title": "Variety of Sizes", "description": "From compact shops to large spaces, we have options to suit every type of business." },
+      { "title": "Excellent Infrastructure", "description": "Our shops come with modern amenities and well-maintained infrastructure for a seamless business experience." },
+      { "title": "Professional Support", "description": "Our team provides end-to-end assistance, from property selection to lease signing, ensuring a hassle-free process." },
+      { "title": "High ROI Potential", "description": "Invest in a shop that promises high returns due to its strategic location and growing demand." },
+      { "title": "Tailored Solutions", "description": "We understand your unique business needs and offer customized solutions to help you succeed." }
+    ]
+  },
+  "faqSection": {
+    "title": "FAQs About Shops For Rent in Ghel Ambala",
+    "description": "Find answers to common questions about renting shops in Ghel Ambala. Our FAQs are designed to provide detailed information and solve your queries.",
+    "faqs": [
+      { "question": "What types of shops are available for rent in Ghel Ambala", "answer": "We offer a variety of shop sizes, from compact 4 Marla spaces to larger 14 Marla shops, catering to different business needs." },
+      { "question": "Are the shops located in high-traffic areas", "answer": "Yes, our shops are strategically located in prime areas with high footfall and visibility." },
+      { "question": "What are the lease terms for shops in Ghel Ambala", "answer": "We offer flexible lease terms tailored to your business requirements, ensuring convenience and affordability." },
+      { "question": "Can I customize the shop space", "answer": "Yes, most shops allow for customization to suit your branding and operational needs." },
+      { "question": "Is parking available for customers", "answer": "Many of our shops come with dedicated parking spaces for customer convenience." },
+      { "question": "How do I apply for a shop rental", "answer": "You can browse our listings online and contact our team for assistance with the application process." },
+      { "question": "Are utilities included in the rent", "answer": "Utilities are typically not included in the rent but can be arranged based on your requirements." },
+      { "question": "What is the average rental cost for shops in Ghel Ambala", "answer": "Rental costs vary depending on the size and location of the shop. Contact us for detailed pricing." },
+      { "question": "Can I visit the shop before renting", "answer": "Yes, we encourage site visits to ensure the space meets your expectations." },
+      { "question": "What support services are provided after renting", "answer": "Our team offers ongoing support, including maintenance assistance and lease renewal services." }
+    ]
+  },
+  "contactSection": {
+    "title": "Contact Us for Shops For Rent in Ghel Ambala",
+    "description": [
+      "Have questions or need assistance finding the perfect shop? Our team is here to help.",
+      "Fill out the form below, and we’ll get back to you with tailored solutions for your business needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

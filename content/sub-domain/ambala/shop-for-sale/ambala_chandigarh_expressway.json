@@ -1,0 +1,88 @@
+
+{
+  "domain": "www.ambalaproperties.com",
+  "hero": {
+    "title": "Shop For Sale in Ambala Chandigarh Expressway - Prime Commercial Space",
+    "description": [
+      "Discover premium shops for sale in Ambala Chandigarh Expressway, a thriving commercial hub with high footfall and excellent connectivity.",
+      "Invest in strategically located shops with modern amenities, ideal for retail, food, and service businesses."
+    ],
+    "buttons": [
+      { "label": "Explore Shops", "path": "/shops" },
+      { "label": "Contact Agent", "path": "/contact" }
+    ],
+    "images": []
+  },
+  "featuresSection": {
+    "heading": "Available Shop Sizes in Ambala Chandigarh Expressway",
+    "description": [
+      "Choose from a variety of shop sizes to suit your business needs in Ambala Chandigarh Expressway.",
+      "Each shop is designed for maximum visibility and customer accessibility."
+    ],
+    "features": [
+      { "title": "100 Sq Ft Shop", "description": "Compact and cost-effective, perfect for small retail outlets or service providers." },
+      { "title": "200 Sq Ft Shop", "description": "Spacious enough for medium-sized businesses with room for storage." },
+      { "title": "300 Sq Ft Shop", "description": "Ideal for larger retail stores or restaurants with seating space." },
+      { "title": "400 Sq Ft Shop", "description": "Great for showrooms or multi-product retail businesses." },
+      { "title": "500 Sq Ft Shop", "description": "Perfect for franchises or businesses requiring ample display space." },
+      { "title": "600 Sq Ft Shop", "description": "Luxury commercial space for high-end brands or large establishments." }
+    ]
+  },
+  "locationsSection": {
+    "title": "Prime Commercial Areas Near Ambala Chandigarh Expressway",
+    "description": [
+      "Explore shops in these high-demand commercial locations near Ambala Chandigarh Expressway.",
+      "Each area offers unique advantages for business owners and investors."
+    ],
+    "locations": [
+      "Baldev Nagar Market",
+      "Model Town Commercial Area",
+      "Sector 7 Market",
+      "Railway Road Shops",
+      "Jagadhari Road Commercial Hub",
+      "NH 44 Highway Shops",
+      "Ambala Cantt Market",
+      "Shivaji Colony Market"
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Invest in Shops at Ambala Chandigarh Expressway",
+    "description": [
+      "Ambala Chandigarh Expressway offers unmatched commercial potential for shop owners and investors.",
+      "Here are the top reasons to buy a shop in this thriving location."
+    ],
+    "points": [
+      { "title": "Strategic Highway Location", "description": "High visibility and accessibility from both Ambala and Chandigarh, ensuring constant customer flow." },
+      { "title": "Growing Commercial Hub", "description": "Rapid development with new businesses opening regularly, increasing the area's commercial value." },
+      { "title": "Excellent Connectivity", "description": "Direct access to NH 44 and other major roads, convenient for customers and suppliers." },
+      { "title": "Diverse Customer Base", "description": "Catches traffic from local residents, commuters, and travelers between two major cities." },
+      { "title": "Future Appreciation", "description": "Property values consistently rising due to infrastructure development and economic growth." },
+      { "title": "Flexible Business Options", "description": "Suitable for various commercial ventures from retail to food services." },
+      { "title": "Modern Infrastructure", "description": "Well-planned commercial complexes with proper utilities and parking facilities." },
+      { "title": "Government Development Focus", "description": "Priority area for commercial development with ongoing infrastructure improvements." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Shops in Ambala Chandigarh Expressway",
+    "description": "Get answers to common queries about purchasing commercial property in this prime location.",
+    "faqs": [
+      { "question": "What types of businesses are successful in Ambala Chandigarh Expressway shops", "answer": "The location suits various businesses including retail stores, eateries, automobile showrooms, electronic shops, and service providers due to high vehicular and pedestrian traffic." },
+      { "question": "Are there any legal restrictions for commercial use in these shops", "answer": "All shops come with proper commercial approvals, but specific business types may require additional licenses which our team can help you obtain." },
+      { "question": "What is the average price range for shops in this area", "answer": "Shop prices vary based on size and exact location, ranging from ₹20,000 to ₹80,000 per square foot in the prime commercial belt." },
+      { "question": "How is the parking facility for these commercial shops", "answer": "Most shop complexes include designated parking areas, with some offering basement parking for customers and staff." },
+      { "question": "What are the peak business hours in this commercial area", "answer": "The area sees consistent footfall from 10 AM to 9 PM, with weekends being particularly busy due to highway traveler traffic." },
+      { "question": "Are there any upcoming infrastructure projects that will benefit these shops", "answer": "Several projects including expressway widening and new flyovers are planned, which will further increase accessibility and commercial value." },
+      { "question": "What financing options are available for shop purchases", "answer": "We work with multiple banks offering commercial property loans with competitive interest rates and flexible repayment options." },
+      { "question": "How does this location compare to other commercial areas in Ambala", "answer": "The expressway location offers superior visibility and access compared to inner city markets, with higher growth potential due to its strategic position." },
+      { "question": "What maintenance charges apply to these shop properties", "answer": "Maintenance charges vary by complex but typically cover security, common area cleaning, and basic upkeep, ranging from ₹5-15 per sq ft monthly." }
+    ]
+  },
+  "contactSection": {
+    "title": "Interested in Shops at Ambala Chandigarh Expressway",
+    "description": [
+      "Contact our commercial property experts for personalized assistance.",
+      "We'll help you find the perfect shop for your business needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,92 @@
+```json
+{
+  "domain": "example.com",
+  "hero": {
+    "title": "Prime Shop For Rent in Vijay Nagar for Your Business Needs",
+    "description": [
+      "Looking for the perfect shop for rent in Vijay Nagar to start or expand your business? Our strategically located commercial spaces offer high footfall, excellent visibility, and modern amenities to help your business thrive.",
+      "Vijay Nagar is one of the most sought-after commercial hubs with great connectivity to major roads, residential areas, and markets. Whether you need a small boutique or a large showroom, we have flexible rental options to suit your requirements."
+    ],
+    "buttons": [
+      { "label": "View Available Shops", "path": "/shops" },
+      { "label": "Contact Agent", "path": "/contact" }
+    ],
+    "images": []
+  },
+  "featuresSection": {
+    "heading": "Flexible Shop Sizes for Every Business in Vijay Nagar",
+    "description": [
+      "Our commercial properties in Vijay Nagar come in various sizes to accommodate different business needs. From compact retail spaces to spacious showrooms, find the ideal shop for rent that fits your vision.",
+      "Each shop is designed with modern infrastructure, ample parking, and high visibility to attract customers. Whether you're opening a fashion outlet, electronics store, or grocery shop, we have the perfect space for you."
+    ],
+    "features": [
+      { "title": "100 Sq Ft Shop", "description": "Ideal for small retail stores, boutiques, or service providers looking for an affordable yet prime location in Vijay Nagar." },
+      { "title": "200 Sq Ft Shop", "description": "Perfect for medium-sized businesses such as electronics shops, pharmacies, or fashion outlets with moderate space requirements." },
+      { "title": "300 Sq Ft Shop", "description": "Great for larger retail stores, supermarkets, or showrooms needing extra space for inventory and customer movement." },
+      { "title": "500 Sq Ft Shop", "description": "Spacious commercial units suitable for branded showrooms, furniture stores, or multi-product retail businesses." },
+      { "title": "1000 Sq Ft Shop", "description": "Large commercial spaces for businesses requiring extensive floor area, such as supermarkets or wholesale outlets." },
+      { "title": "Custom Shop Spaces", "description": "Tailored solutions for unique business needs, including partition options, mezzanine floors, and exclusive storefront designs." }
+    ]
+  },
+  "locationsSection": {
+    "title": "Prime Commercial Areas Near Vijay Nagar",
+    "description": [
+      "Vijay Nagar is surrounded by thriving commercial and residential areas that enhance its business potential. Explore nearby locations that offer excellent connectivity and customer reach.",
+      "These areas are ideal for businesses looking to tap into a diverse customer base while benefiting from Vijay Nagar's prime location."
+    ],
+    "locations": [
+      "Indira Nagar",
+      "Geeta Colony",
+      "Krishna Nagar",
+      "Shastri Nagar",
+      "Laxmi Nagar",
+      "Patparganj",
+      "Preet Vihar",
+      "Nirman Vihar",
+      "Mayur Vihar",
+      "Anand Vihar"
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Rent a Shop in Vijay Nagar",
+    "description": [
+      "Vijay Nagar is a prime commercial destination with numerous advantages for business owners. Here’s why renting a shop here can be a game-changer for your enterprise.",
+      "From high foot traffic to excellent infrastructure, Vijay Nagar offers everything you need to run a successful business."
+    ],
+    "points": [
+      { "title": "High Footfall", "description": "Vijay Nagar attracts a large number of shoppers daily, ensuring consistent customer flow for your business." },
+      { "title": "Excellent Connectivity", "description": "Well-connected to major roads and public transport, making it easily accessible for customers and employees." },
+      { "title": "Diverse Customer Base", "description": "A mix of residential and commercial areas ensures a wide range of customers for various business types." },
+      { "title": "Modern Infrastructure", "description": "Shops come with contemporary designs, ample lighting, and proper ventilation for a pleasant shopping experience." },
+      { "title": "Ample Parking", "description": "Dedicated parking spaces for customers and staff, reducing hassle and improving convenience." },
+      { "title": "Competitive Rentals", "description": "Affordable rental options compared to other prime commercial areas in the city." },
+      { "title": "Safe and Secure", "description": "24/7 security and surveillance to ensure the safety of your business premises." },
+      { "title": "Proximity to Markets", "description": "Close to wholesale markets, making it easier to source inventory and manage logistics." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Renting a Shop in Vijay Nagar",
+    "description": "Find answers to common queries about renting commercial spaces in Vijay Nagar. If you have more questions, feel free to contact us.",
+    "faqs": [
+      { "question": "What is the average rent for a shop in Vijay Nagar", "answer": "The rent varies based on size, location, and amenities. Small shops start at around INR 15,000 per month, while larger showrooms can go up to INR 1,00,000 or more." },
+      { "question": "Are there any hidden charges when renting a shop in Vijay Nagar", "answer": "We maintain complete transparency. The rent includes maintenance charges, and any additional costs like electricity or water are billed separately as per usage." },
+      { "question": "Can I customize the shop space as per my business needs", "answer": "Yes, most landlords allow customization with prior approval. You can discuss partition changes, signage, and interior modifications with the property owner." },
+      { "question": "Is Vijay Nagar a good location for a retail business", "answer": "Absolutely. Vijay Nagar is a bustling commercial hub with high foot traffic, making it ideal for retail stores, eateries, and service-based businesses." },
+      { "question": "What are the peak business hours in Vijay Nagar", "answer": "The area remains busy throughout the day, with peak hours typically between 11 AM to 8 PM. Weekends see even higher customer turnout." },
+      { "question": "How do I secure a shop for rent in Vijay Nagar", "answer": "Contact our agents to check availability, visit the property, and complete the paperwork. A security deposit and advance rent are usually required to finalize the deal." },
+      { "question": "Are there any restrictions on the type of business I can run", "answer": "Most commercial spaces allow a wide range of businesses, but certain restrictions may apply to industries like manufacturing or heavy machinery. Always confirm with the landlord." },
+      { "question": "What amenities are included with the shop", "answer": "Common amenities include electricity, water supply, parking, and security. Some properties may also offer backup power and cleaning services." },
+      { "question": "How long is the typical lease agreement for a shop in Vijay Nagar", "answer": "Lease terms usually range from 11 months to 3 years, with options for renewal. Longer leases may offer more favorable terms." },
+      { "question": "Can I sublet the shop if needed", "answer": "Subletting is generally not allowed without the landlord's explicit permission. Always review your lease agreement for specific terms." }
+    ]
+  },
+  "contactSection": {
+    "title": "Get in Touch for Shop Rentals in Vijay Nagar",
+    "description": [
+      "Ready to find your ideal shop for rent in Vijay Nagar? Fill out the form below, and our team will assist you with the best available options.",
+      "We offer personalized service to help you secure the perfect commercial space for your business."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}
+```

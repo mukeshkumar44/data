@@ -1,0 +1,86 @@
+{
+  "domain": "realestateexample.com",
+  "hero": {
+    "title": "Find Your Ideal Shop For Rent in Barnala Road",
+    "description": [
+      "Discover premium commercial spaces tailored to your business needs on Barnala Road. Whether you're looking to start a retail store, a restaurant, or an office, Barnala Road offers prime locations with excellent connectivity and modern amenities.",
+      "Our curated listings ensure you find the perfect shop for rent that fits your budget and requirements. Explore Barnala Road's bustling commercial hubs and secure your space today."
+    ],
+    "buttons": [
+      { "label": "Browse Listings", "path": "/listings" },
+      { "label": "Contact Us", "path": "/contact" }
+    ],
+    "images": []
+  },
+  "featuresSection": {
+    "heading": "Explore Diverse Commercial Spaces on Barnala Road",
+    "description": [
+      "Barnala Road is home to a variety of commercial properties designed to meet the needs of different businesses. From compact shops to spacious showrooms, our listings cater to every requirement.",
+      "Whether you're a startup or an established brand, Barnala Road provides the perfect backdrop for your business growth."
+    ],
+    "features": [
+      { "title": "Compact Shops", "description": "Ideal for small businesses and startups, these shops offer affordable rental options with essential amenities." },
+      { "title": "Spacious Showrooms", "description": "Perfect for retail brands and large-scale businesses, these showrooms provide ample space and visibility." },
+      { "title": "Office Spaces", "description": "Modern office setups with high-speed internet and parking facilities for corporate needs." },
+      { "title": "Restaurant Spaces", "description": "Designed for food businesses with proper ventilation, kitchen setups, and dining areas." },
+      { "title": "Medical Shops", "description": "Tailored for pharmacies and clinics with easy access and patient-friendly layouts." },
+      { "title": "Industrial Units", "description": "Larger spaces for manufacturing and storage needs with advanced infrastructure." }
+    ]
+  },
+  "locationsSection": {
+    "title": "Prime Locations Near Barnala Road",
+    "description": [
+      "Barnala Road is surrounded by vibrant neighborhoods and commercial hubs that enhance its appeal as a business destination.",
+      "Explore nearby areas that complement your business needs and enjoy seamless connectivity."
+    ],
+    "locations": [
+      "Sector 9 Ambala",
+      "Ambala Cantt",
+      "Model Town Ambala",
+      "Railway Road Ambala",
+      "Jagadhri Road",
+      "Naraingarh Road",
+      "Shahzadpur",
+      "Saha"
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Choose Barnala Road for Your Business",
+    "description": [
+      "Barnala Road is a thriving commercial hub with unmatched advantages for businesses of all sizes.",
+      "Here’s why entrepreneurs and established brands trust Barnala Road for their ventures."
+    ],
+    "points": [
+      { "title": "Prime Location", "description": "Barnala Road offers excellent connectivity to major highways, railways, and residential areas, ensuring high footfall and accessibility." },
+      { "title": "Affordable Rentals", "description": "Competitive rental rates make Barnala Road a cost-effective choice for startups and small businesses." },
+      { "title": "Modern Infrastructure", "description": "Well-maintained roads, reliable utilities, and advanced facilities ensure a seamless business experience." },
+      { "title": "High Visibility", "description": "Shops on Barnala Road enjoy high visibility, attracting more customers and boosting sales." },
+      { "title": "Diverse Customer Base", "description": "Proximity to residential colonies and markets ensures a steady flow of customers." },
+      { "title": "Supportive Community", "description": "Join a thriving business community with networking opportunities and collaborative growth." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Shops For Rent in Barnala Road",
+    "description": "Here are answers to some common queries about renting commercial spaces on Barnala Road.",
+    "faqs": [
+      { "question": "What types of shops are available for rent on Barnala Road", "answer": "Barnala Road offers a variety of shops, including compact retail spaces, spacious showrooms, office setups, and restaurant spaces." },
+      { "question": "Are there any furnished shops for rent on Barnala Road", "answer": "Yes, some listings include furnished shops with basic amenities for immediate business setup." },
+      { "question": "What is the average rental cost for shops on Barnala Road", "answer": "Rental costs vary based on size and location, but Barnala Road offers competitive rates starting at affordable prices." },
+      { "question": "Is Barnala Road suitable for starting a new business", "answer": "Absolutely. Barnala Road’s high visibility and diverse customer base make it an ideal location for startups." },
+      { "question": "Are there parking facilities available for shops on Barnala Road", "answer": "Yes, most commercial spaces on Barnala Road include parking facilities for customers and staff." },
+      { "question": "How can I find the best shop for rent on Barnala Road", "answer": "Browse our curated listings or contact our team for personalized assistance in finding the perfect space." },
+      { "question": "Are there any legal requirements for renting a shop on Barnala Road", "answer": "Standard rental agreements and legal documentation are required, which our team can help you navigate." },
+      { "question": "Can I negotiate rental prices on Barnala Road", "answer": "Yes, rental prices are often negotiable depending on the property and lease terms." },
+      { "question": "What amenities are included in shops for rent on Barnala Road", "answer": "Amenities vary but often include electricity, water supply, parking, and security services." },
+      { "question": "Is Barnala Road well-connected to public transportation", "answer": "Yes, Barnala Road is well-connected to buses, autos, and other public transport options." }
+    ]
+  },
+  "contactSection": {
+    "title": "Get in Touch for Shops For Rent in Barnala Road",
+    "description": [
+      "Have questions or need assistance finding the perfect shop for rent on Barnala Road",
+      "Our team is here to help. Fill out the form below, and we’ll get back to you shortly."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

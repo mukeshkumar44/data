@@ -1,0 +1,87 @@
+```json
+{
+  "domain": "www.kesariproperties.com",
+  "hero": {
+    "title": "Shop For Sale in Kesari Village Prime Commercial Space",
+    "description": [
+      "Discover the best commercial investment opportunities with shops for sale in Kesari Village. Located in a thriving market area, these shops offer high footfall and excellent business potential.",
+      "Whether you're looking to start a retail business or expand your existing one, Kesari Village provides the perfect location with modern amenities and connectivity."
+    ],
+    "buttons": [
+      { "label": "View Available Shops", "path": "/shops" },
+      { "label": "Contact Agent", "path": "/contact" }
+    ],
+    "images": []
+  },
+  "featuresSection": {
+    "heading": "Prime Shop Sizes Available in Kesari Village",
+    "description": [
+      "Explore a range of shop sizes designed to meet diverse business needs in Kesari Village.",
+      "Each shop is strategically located to maximize visibility and customer reach."
+    ],
+    "features": [
+      { "title": "100 Sq Ft Shop", "description": "Compact and ideal for small retail outlets or service-based businesses." },
+      { "title": "200 Sq Ft Shop", "description": "Perfect for medium-sized retail stores with ample display space." },
+      { "title": "300 Sq Ft Shop", "description": "Spacious enough for larger retail setups or small showrooms." },
+      { "title": "400 Sq Ft Shop", "description": "Great for businesses requiring storage and customer interaction areas." },
+      { "title": "500 Sq Ft Shop", "description": "Ideal for showrooms or multi-product retail stores." },
+      { "title": "600 Sq Ft Shop", "description": "Best suited for large retail chains or wholesale businesses." }
+    ]
+  },
+  "locationsSection": {
+    "title": "Nearby Commercial Hubs to Kesari Village",
+    "description": [
+      "Kesari Village is surrounded by bustling commercial areas that enhance its business potential.",
+      "These locations are within easy reach and offer complementary business opportunities."
+    ],
+    "locations": [
+      "Kesari Market",
+      "Green Valley Commercial Complex",
+      "Sunrise Business Park",
+      "Royal Plaza",
+      "City Center Mall",
+      "Metro Trade Center"
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Invest in Shops in Kesari Village",
+    "description": [
+      "Kesari Village offers unmatched advantages for commercial property investors and business owners.",
+      "Here’s why you should consider buying a shop here."
+    ],
+    "points": [
+      { "title": "High Footfall Area", "description": "Located in a busy market zone ensuring consistent customer flow." },
+      { "title": "Excellent Connectivity", "description": "Well-connected to major roads and public transport for easy access." },
+      { "title": "Modern Infrastructure", "description": "Shops built with contemporary designs and essential amenities." },
+      { "title": "Growing Business Hub", "description": "Rapidly developing area with increasing commercial activity." },
+      { "title": "Affordable Pricing", "description": "Competitive rates compared to other commercial areas in the region." },
+      { "title": "Secure Environment", "description": "24/7 security and surveillance for safe business operations." },
+      { "title": "Flexible Payment Plans", "description": "Multiple financing options to suit different budgets." },
+      { "title": "High Appreciation Potential", "description": "Property values expected to rise due to ongoing development." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Shops in Kesari Village",
+    "description": "Get answers to common queries about buying and investing in shops in Kesari Village.",
+    "faqs": [
+      { "question": "What types of businesses are suitable for shops in Kesari Village", "answer": "Shops here are ideal for retail stores, service providers, eateries, and small showrooms due to high footfall." },
+      { "question": "Are there any legal clearances required for purchasing a shop", "answer": "All shops come with proper legal documentation and clear titles ensuring a hassle-free purchase process." },
+      { "question": "What is the average price range for shops in Kesari Village", "answer": "Prices vary based on size and location but generally range from INR 20 lakhs to INR 1 crore." },
+      { "question": "Is financing available for shop purchases in Kesari Village", "answer": "Yes several banks and financial institutions offer loans for commercial property purchases here." },
+      { "question": "How is the parking facility for customers in Kesari Village", "answer": "Adequate parking space is available ensuring convenience for customers visiting the shops." },
+      { "question": "What are the maintenance charges for shops in Kesari Village", "answer": "Maintenance charges are nominal and cover security cleaning and common area upkeep." },
+      { "question": "Can I rent out my shop after purchase", "answer": "Yes you can rent out your shop with flexible lease options available." },
+      { "question": "Are there any upcoming infrastructure projects near Kesari Village", "answer": "Several infrastructure developments are planned including road expansions and new commercial complexes." },
+      { "question": "What is the process for reselling a shop in Kesari Village", "answer": "Reselling is straightforward with proper documentation and assistance from local real estate agents." }
+    ]
+  },
+  "contactSection": {
+    "title": "Get in Touch for Shop Purchase in Kesari Village",
+    "description": [
+      "Interested in buying a shop in Kesari Village Contact us for more details and personalized assistance.",
+      "Our team is ready to help you find the perfect commercial space."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}
+```

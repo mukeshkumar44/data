@@ -1,0 +1,92 @@
+```json
+{
+  "domain": "",
+  "hero": {
+    "title": "Find Your Ideal Shop For Sale in Saha",
+    "description": [
+      "Looking for a shop for sale in Saha? Whether you're starting a new business or expanding an existing one, Saha offers a range of prime commercial properties to meet your needs. Our listings include shops in bustling markets, residential areas, and commercial hubs.",
+      "Discover shops with flexible sizes, modern amenities, and strategic locations. Our expert team is here to guide you every step of the way, ensuring you find the perfect shop for your business. Start your journey today and secure your ideal commercial space in Saha."
+    ],
+    "buttons": [
+      { "label": "Browse Listings", "path": "/listings" },
+      { "label": "Contact Us", "path": "/contact" }
+    ],
+    "images": []
+  },
+  "featuresSection": {
+    "heading": "Shop Sizes Available in Saha",
+    "description": [
+      "Saha offers a variety of shop sizes to cater to different business needs. Whether you need a compact space for a boutique or a larger shop for retail, we have options to suit your requirements.",
+      "Our listings include shops ranging from 4 Marla to 14 Marla, all located in prime areas with excellent foot traffic and accessibility. Explore the options below and find the perfect shop for your business."
+    ],
+    "features": [
+      { "title": "4 Marla Plot", "description": "Ideal for small businesses or startups, this compact shop offers affordability and convenience in a prime location." },
+      { "title": "6 Marla Plot", "description": "Perfect for retail stores or cafes, this shop provides ample space for displays and customer seating." },
+      { "title": "8 Marla Plot", "description": "Great for medium-sized businesses, this shop offers flexibility and room for growth." },
+      { "title": "10 Marla Plot", "description": "Suitable for larger retail outlets or showrooms, this shop provides spacious interiors and excellent visibility." },
+      { "title": "12 Marla Plot", "description": "Ideal for warehouses or large-scale retail, this shop offers expansive space and easy access." },
+      { "title": "14 Marla Plot", "description": "Perfect for industrial or commercial use, this shop provides maximum space and versatility." }
+    ]
+  },
+  "locationsSection": {
+    "title": "Prime Locations Near Saha",
+    "description": [
+      "Saha is surrounded by thriving neighborhoods and commercial hubs that make it an ideal location for businesses. Explore these nearby areas to find the perfect shop for your needs.",
+      "Whether you're looking for a shop in a bustling market or a quieter residential area, these locations offer excellent opportunities for business growth."
+    ],
+    "locations": [
+      "Sector 7 Ambala",
+      "Ambala Cantt",
+      "Naraingarh",
+      "Barara",
+      "Jagadhri",
+      "Yamunanagar",
+      "Kalka",
+      "Panchkula",
+      "Shahbad",
+      "Kurukshetra"
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Choose Saha for Your Shop Investment",
+    "description": [
+      "Saha is a growing commercial hub with excellent opportunities for businesses. Here are some reasons why investing in a shop in Saha is a smart choice.",
+      "From strategic locations to affordable prices, Saha offers everything you need to establish or expand your business."
+    ],
+    "points": [
+      { "title": "Strategic Location", "description": "Saha is well-connected to major cities and highways, making it accessible for customers and suppliers." },
+      { "title": "Affordable Prices", "description": "Compared to other commercial hubs, shops in Saha are competitively priced, offering great value for money." },
+      { "title": "Growing Market", "description": "With a growing population and increasing demand for retail, Saha offers excellent business potential." },
+      { "title": "Modern Amenities", "description": "Shops in Saha come with modern facilities, ensuring convenience and comfort for your business." },
+      { "title": "Excellent Foot Traffic", "description": "Prime locations in Saha attract high foot traffic, boosting visibility and sales." },
+      { "title": "Flexible Sizes", "description": "From compact shops to large spaces, Saha offers a range of sizes to suit your business needs." },
+      { "title": "Supportive Community", "description": "The local community in Saha is business-friendly, providing a supportive environment for growth." },
+      { "title": "Expert Guidance", "description": "Our team of experts is here to help you find the perfect shop and navigate the buying process." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Shops in Saha",
+    "description": "Have questions about buying a shop in Saha? We’ve compiled answers to the most common queries to help you make an informed decision.",
+    "faqs": [
+      { "question": "What types of shops are available in Saha", "answer": "Saha offers a variety of shops, including retail spaces, showrooms, warehouses, and small boutiques." },
+      { "question": "Are shops in Saha affordable", "answer": "Yes, shops in Saha are competitively priced compared to other commercial hubs, offering excellent value." },
+      { "question": "Is Saha a good location for business", "answer": "Absolutely. Saha’s strategic location and growing market make it an ideal choice for businesses." },
+      { "question": "How do I find the right shop size", "answer": "Consider your business needs and budget. Our team can help you choose the perfect size for your shop." },
+      { "question": "What amenities are included with shops in Saha", "answer": "Shops in Saha come with modern amenities such as electricity, water supply, and parking facilities." },
+      { "question": "Can I get financing for a shop in Saha", "answer": "Yes, many banks and financial institutions offer loans for commercial properties in Saha." },
+      { "question": "How do I start the buying process", "answer": "Contact us to browse listings, schedule viewings, and get expert guidance throughout the process." },
+      { "question": "Are there legal requirements for buying a shop", "answer": "Yes, you’ll need to complete legal documentation. Our team can assist with all necessary paperwork." },
+      { "question": "What is the average price of a shop in Saha", "answer": "Prices vary depending on size and location. Contact us for detailed pricing information." },
+      { "question": "Can I customize my shop in Saha", "answer": "Yes, many shops allow for customization to meet your specific business needs." }
+    ]
+  },
+  "contactSection": {
+    "title": "Get in Touch for Your Shop in Saha",
+    "description": [
+      "Ready to find your ideal shop in Saha? Contact us today for personalized assistance and expert guidance.",
+      "Our team is here to answer your questions, schedule viewings, and help you secure the perfect commercial space."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}
+```

@@ -1,0 +1,86 @@
+
+{
+  "domain": "example.com",
+  "hero": {
+    "title": "Shop For Rent in New Pratap Nagar Prime Commercial Spaces Available",
+    "description": [
+      "Discover the best shop for rent in New Pratap Nagar with high footfall and excellent visibility. Our commercial spaces are ideal for retail businesses, eateries, and service providers looking to establish a strong presence in this bustling locality.",
+      "New Pratap Nagar offers a strategic location with easy access to major roads, making it a hotspot for entrepreneurs and established businesses alike. Whether you need a small boutique or a spacious showroom, we have options to suit every need."
+    ],
+    "buttons": [
+      { "label": "View Available Shops", "path": "/shops" },
+      { "label": "Contact Agent", "path": "/contact" }
+    ],
+    "images": []
+  },
+  "featuresSection": {
+    "heading": "Shop For Rent in New Pratap Nagar Flexible Sizes and Affordable Rates",
+    "description": [
+      "Explore a variety of shop sizes available for rent in New Pratap Nagar, designed to cater to different business needs. From compact stores to large showrooms, find the perfect space to grow your business.",
+      "Our properties come with essential amenities and are located in high-traffic areas, ensuring maximum visibility and customer reach."
+    ],
+    "features": [
+      { "title": "100 Sq Ft Shop", "description": "Ideal for small retail outlets, mobile stores, or service providers looking for an affordable yet prime location." },
+      { "title": "200 Sq Ft Shop", "description": "Perfect for boutique stores, small eateries, or electronics shops requiring slightly more space." },
+      { "title": "300 Sq Ft Shop", "description": "Great for medium-sized businesses such as clothing stores, pharmacies, or grocery shops." },
+      { "title": "400 Sq Ft Shop", "description": "Suited for larger retail outlets, showrooms, or restaurants needing ample space." },
+      { "title": "500 Sq Ft Shop", "description": "Best for established businesses, supermarkets, or multi-brand outlets requiring significant floor area." },
+      { "title": "Customizable Shop", "description": "Tailor-made solutions for businesses with specific requirements, including partition options and interior modifications." }
+    ]
+  },
+  "locationsSection": {
+    "title": "Prime Commercial Areas Near New Pratap Nagar",
+    "description": [
+      "New Pratap Nagar is surrounded by thriving commercial hubs that enhance its appeal for businesses. These nearby locations offer complementary advantages, making them ideal for expansion or secondary outlets.",
+      "Whether you're targeting local shoppers or a wider customer base, these areas provide excellent connectivity and business opportunities."
+    ],
+    "locations": [
+      "Pratap Nagar Main Market",
+      "Sector 5 Commercial Strip",
+      "Gandhi Nagar Shopping Complex",
+      "Rajendra Nagar Retail Hub",
+      "Mohan Nagar Business Center",
+      "Shivaji Nagar Market"
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Rent a Shop in New Pratap Nagar",
+    "description": [
+      "New Pratap Nagar is a rapidly growing commercial hub with a mix of residential and retail spaces, making it a prime location for businesses. Here’s why you should consider setting up your shop here.",
+      "From excellent connectivity to a diverse customer base, New Pratap Nagar offers numerous advantages for entrepreneurs and established businesses alike."
+    ],
+    "points": [
+      { "title": "High Footfall", "description": "The area attracts a large number of visitors daily, ensuring consistent customer flow for your business." },
+      { "title": "Strategic Location", "description": "Situated near major roads and residential colonies, New Pratap Nagar offers easy accessibility for customers." },
+      { "title": "Affordable Rentals", "description": "Compared to other commercial hubs, shops here come at competitive rates, making it budget-friendly for startups." },
+      { "title": "Diverse Customer Base", "description": "With a mix of residential and commercial spaces, businesses can cater to a wide range of customers." },
+      { "title": "Modern Infrastructure", "description": "Well-maintained roads, ample parking, and reliable utilities make it a hassle-free location for businesses." },
+      { "title": "Growth Potential", "description": "The area is rapidly developing, offering long-term growth opportunities for businesses." },
+      { "title": "Safety and Security", "description": "A well-policed area with low crime rates ensures a safe environment for businesses and customers." },
+      { "title": "Proximity to Transport Hubs", "description": "Close to bus stops and auto stands, making it convenient for customers to reach your shop." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Renting a Shop in New Pratap Nagar",
+    "description": "Find answers to common queries about renting a commercial space in New Pratap Nagar. If you have additional questions, feel free to contact us.",
+    "faqs": [
+      { "question": "What is the average rental rate for shops in New Pratap Nagar", "answer": "Rental rates vary based on size and location, but typically range from INR 10,000 to INR 50,000 per month for standard shops." },
+      { "question": "Are there any hidden charges when renting a shop", "answer": "No, we provide transparent pricing with no hidden costs. All charges are clearly mentioned in the agreement." },
+      { "question": "Can I customize the shop interior", "answer": "Yes, most landlords allow interior modifications, but it’s advisable to get written permission before making any changes." },
+      { "question": "Is parking available for customers", "answer": "Yes, most commercial spaces in New Pratap Nagar come with dedicated or shared parking facilities." },
+      { "question": "What types of businesses thrive in New Pratap Nagar", "answer": "Retail stores, eateries, pharmacies, and service-based businesses such as salons and repair shops perform well here." },
+      { "question": "How long is the typical lease agreement", "answer": "Lease agreements usually range from 11 months to 3 years, with options for renewal." },
+      { "question": "Is the area safe for evening business operations", "answer": "Yes, New Pratap Nagar is a well-lit and secure area, suitable for businesses operating late hours." },
+      { "question": "Are utilities like water and electricity included in the rent", "answer": "This depends on the landlord. Some include basic utilities, while others charge separately based on usage." },
+      { "question": "Can I sublet the shop if needed", "answer": "Subletting is generally not allowed unless specified in the lease agreement. Always check with the landlord first." }
+    ]
+  },
+  "contactSection": {
+    "title": "Get in Touch for Shop Rentals in New Pratap Nagar",
+    "description": [
+      "Interested in renting a shop in New Pratap Nagar? Fill out the form below, and our team will get back to you with the best available options.",
+      "We’re here to help you find the perfect commercial space for your business needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

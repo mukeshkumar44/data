@@ -1,0 +1,88 @@
+{
+  "domain": "www.example.com",
+  "hero": {
+    "title": "Find Your Ideal Shop For Rent in Jaggi Colony",
+    "description": [
+      "Discover the perfect shop for rent in Jaggi Colony, a bustling hub for businesses and entrepreneurs. Whether you're launching a new venture or expanding your existing one, Jaggi Colony offers prime locations with excellent connectivity and thriving customer traffic.",
+      "Our listings feature a variety of shops tailored to meet your business needs. From compact spaces to larger commercial units, we ensure you find the right fit at competitive prices. Start your journey toward success today with our trusted real estate solutions."
+    ],
+    "buttons": [
+      { "label": "Explore Listings", "path": "/listings" },
+      { "label": "Contact Us", "path": "/contact" }
+    ],
+    "images": []
+  },
+  "featuresSection": {
+    "heading": "Prime Commercial Spaces in Jaggi Colony",
+    "description": [
+      "Jaggi Colony is home to a wide range of commercial spaces designed to cater to diverse business requirements. Whether you're looking for a small boutique or a spacious retail outlet, our listings provide options to suit every need.",
+      "Explore our curated selection of shops for rent, each strategically located in high-traffic areas. With flexible leasing terms and modern amenities, these spaces are perfect for entrepreneurs aiming to establish a strong market presence."
+    ],
+    "features": [
+      { "title": "Compact Shops", "description": "Ideal for small businesses and startups, these shops offer affordable rental options without compromising on location or accessibility." },
+      { "title": "Medium-Sized Spaces", "description": "Perfect for growing businesses, these shops provide ample space and excellent visibility to attract more customers." },
+      { "title": "Large Retail Units", "description": "Designed for established businesses, these units offer expansive floor plans and premium locations for maximum footfall." },
+      { "title": "Corner Shops", "description": "Highly sought-after for their strategic positioning, corner shops ensure high visibility and customer engagement." },
+      { "title": "Modern Amenities", "description": "Our listings include shops equipped with modern facilities such as parking, security, and high-speed internet connectivity." },
+      { "title": "Flexible Leasing", "description": "We offer customizable leasing terms to accommodate your business requirements and financial plans." }
+    ]
+  },
+  "locationsSection": {
+    "title": "Nearby Areas for Business Opportunities",
+    "description": [
+      "Jaggi Colony is surrounded by vibrant neighborhoods that complement its commercial appeal. Explore these nearby areas for additional business opportunities and seamless connectivity.",
+      "Each location offers unique advantages, making it easier for you to find the perfect spot for your shop. Whether you prefer a bustling market or a quieter residential area, we have options to match your vision."
+    ],
+    "locations": [
+      "Sector 12 Ambala",
+      "Ambala Cantt Ambala",
+      "Model Town Ambala",
+      "Sector 7 Ambala",
+      "Baldev Nagar Ambala",
+      "Sector 10 Ambala",
+      "Railway Road Ambala",
+      "Sector 9 Ambala"
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Choose Jaggi Colony for Your Business",
+    "description": [
+      "Jaggi Colony stands out as a premier destination for businesses due to its strategic location and thriving commercial ecosystem. Here’s why entrepreneurs and business owners trust us for their ventures.",
+      "From excellent infrastructure to a supportive business environment, Jaggi Colony offers everything you need to succeed. Explore the benefits of setting up your shop in this dynamic locality."
+    ],
+    "points": [
+      { "title": "Prime Location", "description": "Jaggi Colony is centrally located with easy access to major roads, ensuring high visibility and customer footfall." },
+      { "title": "Affordable Rentals", "description": "Our competitive rental prices make it easier for businesses to establish themselves without financial strain." },
+      { "title": "Modern Infrastructure", "description": "The area boasts well-maintained roads, reliable utilities, and modern amenities for seamless operations." },
+      { "title": "High Foot Traffic", "description": "With its bustling markets and residential areas, Jaggi Colony ensures a steady flow of potential customers." },
+      { "title": "Business-Friendly Environment", "description": "The locality supports entrepreneurship with minimal bureaucratic hurdles and a welcoming community." },
+      { "title": "Secure Premises", "description": "Our listed shops are located in safe neighborhoods with round-the-clock security for peace of mind." },
+      { "title": "Customizable Spaces", "description": "We offer flexible layouts to help you design your shop according to your specific business needs." },
+      { "title": "Expert Guidance", "description": "Our team provides end-to-end support, from property selection to lease finalization, ensuring a hassle-free experience." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Shops For Rent in Jaggi Colony",
+    "description": "Have questions about renting a shop in Jaggi Colony? We’ve compiled a list of FAQs to help you make informed decisions.",
+    "faqs": [
+      { "question": "What types of shops are available for rent in Jaggi Colony", "answer": "We offer a variety of shops, including compact spaces, medium-sized units, and large retail outlets, catering to different business needs." },
+      { "question": "Are there any shops available near high-traffic areas", "answer": "Yes, we have listings for corner shops and units in bustling markets to maximize visibility and customer engagement." },
+      { "question": "What amenities are included with the shops", "answer": "Our shops come with modern amenities such as parking, security, and high-speed internet connectivity for seamless business operations." },
+      { "question": "Can I customize the shop layout", "answer": "Absolutely! We offer flexible layouts to help you design the space according to your business requirements." },
+      { "question": "What is the average rental price for shops in Jaggi Colony", "answer": "Rental prices vary based on size and location, but we ensure competitive rates to suit your budget." },
+      { "question": "Is Jaggi Colony a safe area for businesses", "answer": "Yes, Jaggi Colony is known for its secure neighborhoods and round-the-clock security measures." },
+      { "question": "How do I start the rental process", "answer": "Simply contact us through our website or visit our office, and our team will guide you through the entire process." },
+      { "question": "Are there any hidden fees in the rental agreement", "answer": "We maintain transparency in all transactions, ensuring there are no hidden fees or unexpected charges." },
+      { "question": "Can I visit the shops before making a decision", "answer": "Yes, we encourage site visits to help you make an informed choice based on your preferences." },
+      { "question": "What support do you offer after renting the shop", "answer": "Our team provides ongoing support, including assistance with maintenance, lease renewals, and any other concerns." }
+    ]
+  },
+  "contactSection": {
+    "title": "Get in Touch With Us Today",
+    "description": [
+      "Ready to find your ideal shop for rent in Jaggi Colony? Contact us for personalized assistance and expert guidance.",
+      "Our team is here to answer your questions and help you secure the perfect commercial space for your business."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -19,6 +19,8 @@
   "homepage": "https://github.com/mukeshkumar44/data#readme",
   "description": "",
   "dependencies": {
-    "@google/generative-ai": "^0.24.1"
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^17.2.3",
+    "node-fetch": "^3.3.2"
   }
 }

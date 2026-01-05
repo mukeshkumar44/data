@@ -1,0 +1,90 @@
+{
+  "domain": "",
+  "hero": {
+    "title": "Find the Perfect Shop For Rent in Ram Nagar",
+    "description": [
+      "Looking for a shop for rent in Ram Nagar? You’ve come to the right place. Ram Nagar offers a bustling commercial environment with high foot traffic, making it an ideal location for businesses of all types.",
+      "Whether you’re starting a new venture or expanding an existing one, our curated listings provide a variety of shops for rent in Ram Nagar to suit your needs. Explore prime locations, competitive pricing, and flexible lease options today."
+    ],
+    "buttons": [
+      { "label": "Browse Listings", "path": "/listings" },
+      { "label": "Contact Us", "path": "/contact" }
+    ],
+    "images": []
+  },
+  "featuresSection": {
+    "heading": "Explore Shops For Rent in Ram Nagar",
+    "description": [
+      "Ram Nagar is a thriving commercial hub with a wide range of shops available for rent. From compact spaces for boutique stores to larger units for retail chains, there’s something for every business.",
+      "Our listings feature shops in prime locations, ensuring maximum visibility and accessibility for your customers. Check out the options below and find the perfect space for your business."
+    ],
+    "features": [
+      { "title": "Compact Shop Spaces", "description": "Ideal for small businesses, boutiques, and specialty stores, these compact shop spaces offer affordability and convenience in the heart of Ram Nagar." },
+      { "title": "Mid-Sized Retail Units", "description": "Perfect for medium-sized businesses, these retail units provide ample space for product displays and customer movement." },
+      { "title": "Large Commercial Spaces", "description": "Designed for big brands and retail chains, these large commercial spaces offer flexibility and scalability for growing businesses." },
+      { "title": "Prime Location Shops", "description": "Located in high-traffic areas, these shops ensure maximum visibility and accessibility for your customers." },
+      { "title": "Affordable Rental Options", "description": "Budget-friendly rental options tailored to suit businesses of all sizes and industries." },
+      { "title": "Flexible Lease Terms", "description": "Customizable lease agreements designed to meet your specific business needs and requirements." }
+    ]
+  },
+  "locationsSection": {
+    "title": "Nearby Areas for Shops For Rent",
+    "description": [
+      "Ram Nagar is surrounded by several vibrant commercial areas, each offering unique opportunities for businesses. Explore these nearby locations to find the perfect shop for rent.",
+      "Whether you’re looking for a bustling market or a quieter neighborhood, these areas provide a variety of options to suit your business goals."
+    ],
+    "locations": [
+      "Civil Lines",
+      "Subhash Nagar",
+      "Ashok Nagar",
+      "Rajendra Nagar",
+      "Pratap Nagar",
+      "Gandhi Nagar",
+      "Shastri Nagar",
+      "Moti Nagar",
+      "Vijay Nagar",
+      "Krishna Nagar"
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Choose Shops For Rent in Ram Nagar",
+    "description": [
+      "Choosing the right location for your business is crucial for its success. Ram Nagar offers a combination of affordability, accessibility, and growth potential, making it a top choice for entrepreneurs.",
+      "Here are some reasons why renting a shop in Ram Nagar is a smart decision for your business."
+    ],
+    "points": [
+      { "title": "High Foot Traffic", "description": "Ram Nagar is known for its bustling streets and high foot traffic, ensuring maximum visibility for your business." },
+      { "title": "Affordable Rentals", "description": "Compared to other commercial hubs, Ram Nagar offers competitive rental rates, making it easier to manage your budget." },
+      { "title": "Prime Location", "description": "Located in the heart of the city, Ram Nagar provides easy access to major highways and public transportation." },
+      { "title": "Diverse Business Community", "description": "The area is home to a variety of businesses, creating a vibrant and supportive commercial ecosystem." },
+      { "title": "Flexible Lease Options", "description": "Landlords in Ram Nagar offer flexible lease terms, allowing you to customize agreements based on your business needs." },
+      { "title": "Infrastructure Development", "description": "With ongoing infrastructure projects, Ram Nagar is poised for significant growth in the coming years." },
+      { "title": "Safety and Security", "description": "The area is well-policed and offers a safe environment for businesses and customers alike." },
+      { "title": "Growth Potential", "description": "Ram Nagar’s expanding economy provides ample opportunities for businesses to grow and thrive." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Shops For Rent in Ram Nagar",
+    "description": "Have questions about renting a shop in Ram Nagar? We’ve got you covered. Here are some common queries answered to help you make an informed decision.",
+    "faqs": [
+      { "question": "What types of shops are available for rent in Ram Nagar", "answer": "Ram Nagar offers a variety of shops, including compact spaces for small businesses, mid-sized retail units, and large commercial spaces for big brands." },
+      { "question": "How much does it cost to rent a shop in Ram Nagar", "answer": "Rental costs vary depending on the size and location of the shop. Compact spaces start at affordable rates, while larger units may cost more." },
+      { "question": "Are there flexible lease options available", "answer": "Yes, many landlords in Ram Nagar offer flexible lease terms to accommodate your business needs." },
+      { "question": "What are the benefits of renting a shop in Ram Nagar", "answer": "Ram Nagar offers high foot traffic, affordable rentals, prime locations, and a supportive business community." },
+      { "question": "Is Ram Nagar a safe area for businesses", "answer": "Yes, Ram Nagar is known for its safety and security, providing a secure environment for businesses and customers." },
+      { "question": "Can I find shops near public transportation in Ram Nagar", "answer": "Absolutely. Many shops in Ram Nagar are located near major highways and public transportation hubs." },
+      { "question": "What industries thrive in Ram Nagar", "answer": "Ram Nagar is home to a diverse range of industries, including retail, food, fashion, and services." },
+      { "question": "Are there any upcoming developments in Ram Nagar", "answer": "Yes, several infrastructure projects are underway, promising growth and development in the area." },
+      { "question": "How do I find the right shop for my business in Ram Nagar", "answer": "Start by browsing our listings and contact us for personalized assistance in finding the perfect space." },
+      { "question": "What amenities are available in Ram Nagar shops", "answer": "Shops in Ram Nagar come with basic amenities like electricity, water, and parking, with additional features depending on the property." }
+    ]
+  },
+  "contactSection": {
+    "title": "Get in Touch About Shops For Rent in Ram Nagar",
+    "description": [
+      "Ready to find your ideal shop for rent in Ram Nagar? Our team is here to help.",
+      "Fill out the form below, and we’ll get back to you with personalized recommendations and assistance."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

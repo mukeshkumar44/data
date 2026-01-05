@@ -1,0 +1,92 @@
+```json
+{
+  "domain": "example.com",
+  "hero": {
+    "title": "Prime Shop For Rent in Mithapur for Your Business Needs",
+    "description": [
+      "Looking for a shop for rent in Mithapur to start or expand your business? Our prime commercial spaces offer high footfall, excellent connectivity, and modern amenities to help your business thrive.",
+      "Whether you need a retail outlet, grocery store, or boutique, we have the perfect shop spaces in Mithapur to match your requirements. Explore flexible rental options and prime locations today."
+    ],
+    "buttons": [
+      { "label": "View Available Shops", "path": "/shops" },
+      { "label": "Contact Us", "path": "/contact" }
+    ],
+    "images": []
+  },
+  "featuresSection": {
+    "heading": "Shop Spaces Available in Mithapur for Every Business Type",
+    "description": [
+      "Our commercial properties in Mithapur cater to diverse business needs with flexible sizes and strategic locations. Whether you need a small kiosk or a large showroom, we have options to suit your budget and requirements.",
+      "Each shop space is designed to maximize visibility and customer accessibility, ensuring your business gets the exposure it deserves."
+    ],
+    "features": [
+      { "title": "100 Sq Ft Shop", "description": "Compact and affordable shop spaces ideal for small retail businesses, kiosks, or service providers. Perfect for startups looking for budget-friendly options in high-traffic areas." },
+      { "title": "200 Sq Ft Shop", "description": "Spacious enough for medium-sized retail stores, boutiques, or small eateries. These shops offer excellent visibility and customer accessibility in prime Mithapur locations." },
+      { "title": "300 Sq Ft Shop", "description": "Larger commercial spaces suitable for showrooms, grocery stores, or pharmacies. These units provide ample storage and display areas for growing businesses." },
+      { "title": "400 Sq Ft Shop", "description": "Ideal for established businesses needing more floor space. Perfect for electronics stores, clothing outlets, or medium-sized restaurants in busy commercial areas." },
+      { "title": "500 Sq Ft Shop", "description": "Premium commercial spaces for businesses requiring substantial area. Suitable for large retail chains, supermarkets, or multi-brand outlets in high-demand locations." },
+      { "title": "600+ Sq Ft Shop", "description": "Extra-large commercial units for expansive businesses. These spaces are perfect for wholesale stores, warehouses, or large showrooms with heavy customer footfall." }
+    ]
+  },
+  "locationsSection": {
+    "title": "Prime Commercial Areas Near Mithapur for Your Business",
+    "description": [
+      "Mithapur offers excellent connectivity to several thriving commercial hubs in the region. These nearby locations provide additional options for businesses looking for strategic positions with good customer access.",
+      "Whether you prefer a busy market area or a developing commercial zone, these locations near Mithapur offer great potential for various types of businesses."
+    ],
+    "locations": [
+      "Patel Nagar",
+      "Rajendra Place",
+      "Karol Bagh",
+      "Punjabi Bagh",
+      "Shadipur",
+      "Kirti Nagar",
+      "Tagore Garden",
+      "Subhash Nagar",
+      "Tilak Nagar",
+      "Janakpuri"
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Rent a Shop in Mithapur for Your Business",
+    "description": [
+      "Mithapur offers numerous advantages for businesses looking for commercial spaces. Our properties provide the perfect combination of location, amenities, and growth potential to help your business succeed.",
+      "From excellent connectivity to high customer footfall, discover why Mithapur is the ideal location for your next business venture."
+    ],
+    "points": [
+      { "title": "Strategic Location", "description": "Mithapur's prime position offers excellent connectivity to major roads and public transport, ensuring easy access for both customers and suppliers. The area's central location makes it a hub for commercial activity." },
+      { "title": "High Footfall Areas", "description": "Our shop spaces are located in high-traffic zones with consistent customer flow throughout the day. This ensures maximum visibility and sales potential for your business." },
+      { "title": "Modern Infrastructure", "description": "All our commercial properties feature modern construction with proper ventilation, electricity backup, and maintenance services. The shops are designed to meet contemporary business requirements." },
+      { "title": "Flexible Rental Options", "description": "We offer various rental plans to suit different business needs and budgets. Whether you need short-term or long-term leasing, we have options to accommodate your requirements." },
+      { "title": "Diverse Business Community", "description": "Mithapur hosts a vibrant mix of retail, service, and food businesses, creating a dynamic commercial ecosystem. This diversity attracts customers with varied interests and needs." },
+      { "title": "Growth Potential", "description": "The area is experiencing rapid commercial development, offering excellent appreciation potential for your investment. Early establishment in this growing market can give you a competitive edge." },
+      { "title": "Security and Safety", "description": "Our commercial properties are located in secure areas with proper lighting and surveillance. Many buildings also have security personnel for added safety of your business assets." },
+      { "title": "Supportive Business Environment", "description": "Mithapur has a well-established commercial infrastructure with easy access to banks, suppliers, and other essential services. The local administration is business-friendly with proper licensing systems." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Renting Shops in Mithapur",
+    "description": "Find answers to common queries about commercial properties and shop rentals in Mithapur. If you have additional questions, our team is always ready to assist you.",
+    "faqs": [
+      { "question": "What is the average rental price for shops in Mithapur", "answer": "Shop rental prices in Mithapur vary based on size, location, and amenities. Smaller shops (100-200 sq ft) typically range between ₹15,000-₹30,000 per month, while larger spaces (500+ sq ft) can go up to ₹60,000-₹1,00,000 monthly. Prime locations with high footfall command premium rates." },
+      { "question": "What documents are required to rent a shop in Mithapur", "answer": "Standard requirements include identity proof (Aadhar/PAN), address proof, business registration documents (if applicable), and bank details. The landlord may also request references or a security deposit equivalent to 2-3 months' rent. We can guide you through the entire documentation process." },
+      { "question": "Are there any hidden charges when renting a shop in Mithapur", "answer": "We maintain complete transparency in all transactions. While the rent is the primary cost, there might be additional charges for maintenance, electricity, or parking in some properties. All charges will be clearly mentioned in the agreement to avoid any surprises later." },
+      { "question": "Can I modify the shop interior as per my business needs", "answer": "Most landlords allow reasonable modifications with prior approval. Structural changes may require permission, while cosmetic changes like painting or display setups are generally permitted. We recommend discussing your specific requirements before signing the lease." },
+      { "question": "What is the typical lease duration for shops in Mithapur", "answer": "Standard lease agreements are for 11 months, renewable by mutual consent. Some landlords offer longer terms (2-3 years) with predetermined rent escalation clauses. We can negotiate terms that best suit your business plans and growth projections." },
+      { "question": "How is the parking situation for shops in Mithapur", "answer": "Parking availability varies by location. Many commercial complexes have dedicated parking spaces, while street-front shops may rely on public parking. We can help you find properties with parking solutions that match your customer and staff requirements." },
+      { "question": "What are the peak business hours in Mithapur commercial areas", "answer": "Most shops experience high footfall from 11 AM to 8 PM, with variations based on business type. Retail stores see weekends as peak periods, while food businesses may have lunch and dinner rushes. We can help analyze footfall patterns for specific locations." },
+      { "question": "Are there any restrictions on business types in Mithapur shops", "answer": "Certain areas may have zoning regulations, but most commercial spaces in Mithapur accommodate diverse businesses. Some residential-commercial mixed areas might restrict noisy or industrial operations. We'll ensure your business type complies with local regulations before finalizing any property." },
+      { "question": "How quickly can I start operating after renting a shop in Mithapur", "answer": "After completing documentation and payment formalities, you can typically start operations within 2-7 days. The timeline depends on any required modifications or installations. We expedite the process to minimize your business downtime." },
+      { "question": "What support do you provide after I rent a shop through your service", "answer": "Our relationship continues beyond the rental agreement. We assist with utility connections, vendor references, and local business networking. Regular check-ins ensure any maintenance or operational issues are promptly addressed, helping your business thrive in the new location." }
+    ]
+  },
+  "contactSection": {
+    "title": "Find Your Ideal Shop Space in Mithapur Today",
+    "description": [
+      "Ready to explore available shop spaces in Mithapur? Our team of commercial property experts will help you find the perfect location for your business.",
+      "Fill out the form below with your requirements, and we'll schedule a personalized property tour at your convenience."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}
+```

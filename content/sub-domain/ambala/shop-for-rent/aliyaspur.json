@@ -1,0 +1,88 @@
+{
+  "domain": "",
+  "hero": {
+    "title": "Find the Best Shop For Rent in Aliyaspur Ambala",
+    "description": [
+      "Are you searching for a prime shop for rent in Aliyaspur Ambala? Look no further! Our platform offers a wide range of commercial spaces tailored to meet your business needs. Whether you're starting a new venture or expanding an existing one, Aliyaspur provides the perfect location with excellent connectivity and growing foot traffic.",
+      "Explore our curated listings of shops available for rent in Aliyaspur Ambala. From compact spaces for boutique stores to larger units for retail chains, we have options for every business type. Our team ensures transparency, affordability, and convenience, making your property hunt hassle-free."
+    ],
+    "buttons": [
+      { "label": "Browse Listings", "path": "/listings" },
+      { "label": "Contact Us", "path": "/contact" }
+    ],
+    "images": []
+  },
+  "featuresSection": {
+    "heading": "Available Shop Sizes in Aliyaspur Ambala",
+    "description": [
+      "Aliyaspur Ambala offers a variety of shop sizes to suit different business requirements. Whether you need a small shop for a startup or a spacious unit for a thriving enterprise, our listings cater to all needs.",
+      "Discover the perfect shop for rent in Aliyaspur Ambala with flexible lease terms and competitive pricing."
+    ],
+    "features": [
+      { "title": "Compact Shop", "description": "Ideal for small businesses or boutiques, these shops offer affordable rental options in prime locations." },
+      { "title": "Medium Shop", "description": "Perfect for mid-sized retail stores or service providers, these spaces balance affordability and space." },
+      { "title": "Large Shop", "description": "Designed for established businesses, these shops provide ample space for retail chains or large-scale operations." },
+      { "title": "Corner Shop", "description": "Located at strategic corners, these shops attract maximum visibility and foot traffic." },
+      { "title": "Prime Location Shop", "description": "Situated in high-demand areas, these shops ensure maximum customer engagement." },
+      { "title": "Customizable Shop", "description": "Tailor the space to your specific business needs with flexible design options." }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Commercial Hubs",
+    "description": [
+      "Aliyaspur Ambala is surrounded by thriving commercial hubs that offer excellent opportunities for businesses. Here are some nearby locations where you can also find shops for rent.",
+      "These areas are well-connected and provide a mix of residential and commercial advantages."
+    ],
+    "locations": [
+      "Sector 7",
+      "Sector 8",
+      "Sector 9",
+      "Ambala Cantt",
+      "Model Town",
+      "Naraingarh Road",
+      "Jagadhri Road",
+      "Kalka Road"
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Choose a Shop For Rent in Aliyaspur Ambala",
+    "description": [
+      "Aliyaspur Ambala is a growing commercial hub with numerous advantages for businesses. Here’s why renting a shop here is a smart decision.",
+      "From excellent connectivity to affordable rental options, Aliyaspur offers everything you need to succeed."
+    ],
+    "points": [
+      { "title": "Prime Location", "description": "Aliyaspur Ambala is strategically located with easy access to major roads and highways." },
+      { "title": "Affordable Rentals", "description": "Enjoy competitive rental rates that fit your budget without compromising on quality." },
+      { "title": "High Foot Traffic", "description": "Shops in Aliyaspur Ambala benefit from consistent customer visits, ensuring steady business." },
+      { "title": "Modern Infrastructure", "description": "The area boasts well-maintained roads, electricity, and other essential amenities." },
+      { "title": "Business-Friendly Environment", "description": "Aliyaspur Ambala supports businesses with a thriving local economy and supportive policies." },
+      { "title": "Flexible Lease Terms", "description": "Choose from short-term or long-term rental options tailored to your needs." },
+      { "title": "Diverse Customer Base", "description": "Cater to a mix of residential and commercial customers for maximum growth." },
+      { "title": "Expert Assistance", "description": "Our team provides end-to-end support to help you find the perfect shop." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Shops For Rent in Aliyaspur Ambala",
+    "description": "Here are some common questions and detailed answers to help you make an informed decision.",
+    "faqs": [
+      { "question": "What types of shops are available for rent in Aliyaspur Ambala", "answer": "We offer a variety of shops, including compact, medium, large, corner, prime location, and customizable units." },
+      { "question": "What is the average rental cost for shops in Aliyaspur Ambala", "answer": "Rental costs vary based on size and location, but we ensure competitive pricing to suit your budget." },
+      { "question": "Are there any hidden charges when renting a shop in Aliyaspur Ambala", "answer": "No, we maintain complete transparency with no hidden fees or charges." },
+      { "question": "Can I customize the shop space according to my business needs", "answer": "Yes, many shops offer flexible design options to meet your specific requirements." },
+      { "question": "Is Aliyaspur Ambala a good location for retail businesses", "answer": "Absolutely! Aliyaspur Ambala offers high foot traffic and a thriving commercial environment." },
+      { "question": "What lease terms are available for shops in Aliyaspur Ambala", "answer": "We offer both short-term and long-term lease options to suit your business plans." },
+      { "question": "How do I find the best shop for rent in Aliyaspur Ambala", "answer": "Browse our curated listings or contact our team for personalized assistance." },
+      { "question": "Are utilities included in the rental cost", "answer": "Utilities are typically not included, but we can guide you on setting them up." },
+      { "question": "What amenities are available near shops in Aliyaspur Ambala", "answer": "Shops are located near essential amenities like parking, public transport, and markets." },
+      { "question": "Can I visit the shop before renting", "answer": "Yes, we encourage site visits to ensure you make the right choice." }
+    ]
+  },
+  "contactSection": {
+    "title": "Get in Touch for Your Shop For Rent in Aliyaspur Ambala",
+    "description": [
+      "Have questions or need assistance? Our team is here to help you find the perfect shop for rent in Aliyaspur Ambala.",
+      "Fill out the form below, and we’ll get back to you promptly."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

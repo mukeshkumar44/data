@@ -1,0 +1,90 @@
+```json
+{
+  "domain": "www.example.com",
+  "hero": {
+    "title": "Find the Best Shop For Rent in Babyal Ambala",
+    "description": [
+      "Are you searching for the perfect shop for rent in Babyal Ambala? Look no further. Our platform offers a wide range of commercial spaces tailored to meet your business needs. Whether you are starting a new venture or expanding your existing one, we have the ideal shop for you.",
+      "Located in one of the most sought-after areas in Ambala, Babyal provides excellent visibility and accessibility. Our listings include shops of various sizes and configurations, ensuring you find the perfect fit. Explore our options today and take the first step towards growing your business."
+    ],
+    "buttons": [
+      { "label": "View Listings", "path": "/listings" },
+      { "label": "Contact Us", "path": "/contact" }
+    ],
+    "images": []
+  },
+  "featuresSection": {
+    "heading": "Explore Our Range of Shops For Rent in Babyal Ambala",
+    "description": [
+      "Our extensive portfolio of shops for rent in Babyal Ambala caters to a variety of business needs. From compact spaces for boutique stores to larger areas for retail outlets, we have something for everyone.",
+      "Each shop is strategically located to maximize foot traffic and visibility. Our properties come with modern amenities and flexible leasing options, making them the perfect choice for your business."
+    ],
+    "features": [
+      { "title": "Compact Shop Units", "description": "Ideal for small businesses and boutiques, these units offer affordable rental options without compromising on location or accessibility." },
+      { "title": "Medium-Sized Shops", "description": "Perfect for retail stores and service providers, these shops provide ample space and excellent visibility in prime locations." },
+      { "title": "Large Commercial Spaces", "description": "Designed for larger businesses, these spaces offer expansive areas with modern amenities and high foot traffic." },
+      { "title": "Corner Shops", "description": "Located at key intersections, these shops benefit from maximum visibility and accessibility, making them ideal for high-traffic businesses." },
+      { "title": "Modern Amenities", "description": "Our shops come equipped with essential amenities, ensuring a comfortable and efficient environment for your business." },
+      { "title": "Flexible Leasing Options", "description": "We offer flexible leasing terms to accommodate your business needs and financial plans." }
+    ]
+  },
+  "locationsSection": {
+    "title": "Prime Locations Near Babyal Ambala",
+    "description": [
+      "Babyal Ambala is surrounded by several prime locations that offer excellent opportunities for businesses. These areas are known for their high foot traffic, accessibility, and vibrant commercial activity.",
+      "Explore these nearby locations to find the perfect spot for your shop. Each area offers unique advantages and a thriving business environment."
+    ],
+    "locations": [
+      "Ambala Cantt",
+      "Ambala City",
+      "Sector 8 Ambala",
+      "Sector 9 Ambala",
+      "Sector 10 Ambala",
+      "Railway Road Ambala",
+      "Patel Nagar Ambala",
+      "Model Town Ambala"
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Choose Shops For Rent in Babyal Ambala",
+    "description": [
+      "Choosing the right location for your business is crucial for its success. Babyal Ambala offers a strategic location with numerous advantages for businesses of all sizes.",
+      "Here are some reasons why renting a shop in Babyal Ambala is a smart choice for your business."
+    ],
+    "points": [
+      { "title": "Prime Location", "description": "Babyal Ambala is centrally located, offering excellent visibility and accessibility for your business." },
+      { "title": "High Foot Traffic", "description": "The area attracts a large number of visitors, ensuring a steady flow of potential customers." },
+      { "title": "Modern Infrastructure", "description": "Our shops are equipped with modern amenities and infrastructure, providing a comfortable environment for your business." },
+      { "title": "Flexible Leasing Options", "description": "We offer flexible leasing terms to accommodate your business needs and financial plans." },
+      { "title": "Supportive Business Environment", "description": "Babyal Ambala is home to a thriving business community, offering networking and growth opportunities." },
+      { "title": "Competitive Rental Rates", "description": "Our rental rates are competitive, ensuring affordability without compromising on quality." },
+      { "title": "Expert Guidance", "description": "Our team of experts provides personalized assistance to help you find the perfect shop for your business." },
+      { "title": "Convenient Accessibility", "description": "Babyal Ambala is well-connected by major roads and public transport, making it easily accessible for customers." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Shops For Rent in Babyal Ambala",
+    "description": "Here are some common questions and answers to help you make an informed decision about renting a shop in Babyal Ambala.",
+    "faqs": [
+      { "question": "What types of shops are available for rent in Babyal Ambala", "answer": "We offer a variety of shops, including compact units, medium-sized shops, and large commercial spaces, catering to different business needs." },
+      { "question": "Are the shops equipped with modern amenities", "answer": "Yes, our shops come with essential modern amenities to ensure a comfortable and efficient environment for your business." },
+      { "question": "What are the leasing options available", "answer": "We offer flexible leasing options to accommodate your business needs and financial plans." },
+      { "question": "How is the foot traffic in Babyal Ambala", "answer": "Babyal Ambala attracts a high volume of foot traffic, ensuring a steady flow of potential customers for your business." },
+      { "question": "Is Babyal Ambala easily accessible", "answer": "Yes, Babyal Ambala is well-connected by major roads and public transport, making it easily accessible for customers." },
+      { "question": "What are the rental rates for shops in Babyal Ambala", "answer": "Our rental rates are competitive and vary depending on the size and location of the shop. Contact us for detailed pricing information." },
+      { "question": "Can I visit the shops before making a decision", "answer": "Absolutely. We encourage you to visit our shops to assess their suitability for your business. Contact us to schedule a visit." },
+      { "question": "Is there any support available for new businesses", "answer": "Yes, our team provides expert guidance and support to help new businesses establish and grow in Babyal Ambala." },
+      { "question": "Are there any networking opportunities in Babyal Ambala", "answer": "Babyal Ambala has a thriving business community, offering numerous networking and growth opportunities for businesses." },
+      { "question": "How do I start the leasing process", "answer": "Starting the leasing process is simple. Contact us through our website or visit our office to discuss your requirements and begin the process." }
+    ]
+  },
+  "contactSection": {
+    "title": "Contact Us for Shops For Rent in Babyal Ambala",
+    "description": [
+      "If you have any questions or need assistance in finding the perfect shop for rent in Babyal Ambala, feel free to reach out to us.",
+      "Our team is here to help you every step of the way. Fill out the form below, and we will get back to you promptly."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}
+```

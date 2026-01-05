@@ -1,0 +1,89 @@
+
+{
+  "domain": "www.exampleproperty.com",
+  "hero": {
+    "title": "Find the Best Shop For Rent in Patti Mehar for Your Business",
+    "description": [
+      "Looking for a prime commercial space in Patti Mehar? Our selection of shops for rent offers excellent visibility, high foot traffic, and flexible leasing options to suit your business needs.",
+      "Whether you're starting a retail store, boutique, or service center, Patti Mehar provides a thriving market with growing opportunities. Explore our listings today and secure the perfect location for your venture."
+    ],
+    "buttons": [
+      { "label": "View Available Shops", "path": "/shops-for-rent" },
+      { "label": "Contact Agent", "path": "/contact" }
+    ],
+    "images": []
+  },
+  "featuresSection": {
+    "heading": "Prime Commercial Spaces in Patti Mehar",
+    "description": [
+      "Our shops for rent in Patti Mehar cater to various business needs, offering modern amenities and strategic locations.",
+      "Choose from a range of sizes and configurations to find the perfect fit for your enterprise."
+    ],
+    "features": [
+      { "title": "4 Marla Shop", "description": "Ideal for small retail stores or service centers, offering compact yet efficient space with high visibility." },
+      { "title": "6 Marla Shop", "description": "Perfect for medium-sized businesses, providing ample room for inventory and customer movement." },
+      { "title": "8 Marla Shop", "description": "Spacious commercial units suitable for showrooms or larger retail operations with excellent street presence." },
+      { "title": "10 Marla Shop", "description": "Premium commercial spaces for established businesses needing substantial floor area and storage capacity." },
+      { "title": "12 Marla Shop", "description": "Large format retail spaces with multiple entry points and customization potential." },
+      { "title": "14 Marla Shop", "description": "Exceptional commercial properties for flagship stores or multi-purpose business centers in prime locations." }
+    ]
+  },
+  "locationsSection": {
+    "title": "Prime Commercial Areas Near Patti Mehar",
+    "description": [
+      "Patti Mehar is surrounded by thriving commercial hubs that offer excellent business opportunities.",
+      "These nearby locations provide complementary markets and customer bases for your shop in Patti Mehar."
+    ],
+    "locations": [
+      "Mehar Bazaar",
+      "Patti Sultanpur",
+      "Kotla Arab Ali Khan",
+      "Alipur Sayedan",
+      "Daultala",
+      "Gujar Khan",
+      "Mandrah",
+      "Sohawa"
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Rent a Shop in Patti Mehar",
+    "description": [
+      "Patti Mehar offers unique advantages for business owners looking to establish or expand their commercial presence.",
+      "Our properties provide the perfect combination of location, accessibility, and growth potential."
+    ],
+    "points": [
+      { "title": "Strategic Location", "description": "Patti Mehar sits at the crossroads of major commercial routes, ensuring high visibility and easy access for customers from surrounding areas." },
+      { "title": "Growing Local Economy", "description": "The area is experiencing rapid commercial development, creating new opportunities for businesses to thrive in an expanding market." },
+      { "title": "Affordable Rental Rates", "description": "Compared to larger cities, Patti Mehar offers competitive rental prices without compromising on quality or location advantages." },
+      { "title": "Diverse Customer Base", "description": "The local population and surrounding villages provide a steady stream of customers for various types of businesses." },
+      { "title": "Modern Infrastructure", "description": "New commercial developments feature contemporary designs, proper utilities, and business-friendly layouts." },
+      { "title": "Flexible Lease Terms", "description": "We offer customizable rental agreements to accommodate different business models and growth plans." },
+      { "title": "Supportive Business Community", "description": "Join a network of established merchants and entrepreneurs who collaborate for mutual success." },
+      { "title": "Future Growth Potential", "description": "With planned developments and improving connectivity, Patti Mehar is poised for significant commercial expansion in coming years." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Renting Shops in Patti Mehar",
+    "description": "Get answers to common queries about commercial property rentals in this thriving business location.",
+    "faqs": [
+      { "question": "What types of businesses are most successful in Patti Mehar", "answer": "Patti Mehar supports diverse businesses including general stores, clothing boutiques, electronics shops, hardware stores, and service providers like salons and repair centers. The area particularly favors businesses catering to daily needs and agricultural supplies." },
+      { "question": "How is the foot traffic in Patti Mehar commercial areas", "answer": "Patti Mehar experiences consistent foot traffic throughout the week, with peak activity on market days. The central bazaar area attracts customers from surrounding villages, ensuring steady visitor numbers for shops." },
+      { "question": "What are the typical lease terms for shops in Patti Mehar", "answer": "Standard lease agreements typically run for 1-3 years, with options for renewal. Many property owners offer flexible terms including monthly, quarterly, or annual payment plans based on tenant requirements." },
+      { "question": "Are utilities included in shop rentals in Patti Mehar", "answer": "This varies by property. Some rentals include basic utilities in the lease amount, while others charge separately. We clearly specify these details for each listing and can help negotiate favorable terms." },
+      { "question": "What security measures are available for commercial properties", "answer": "Most modern shop spaces feature secure shutters, alarm system provisions, and many are located in areas with neighborhood watch programs. We can recommend properties with specific security features based on your needs." },
+      { "question": "How does Patti Mehar compare to nearby commercial markets", "answer": "Patti Mehar offers more affordable rentals than larger commercial centers while maintaining good customer traffic. Its growing infrastructure and central location make it an attractive alternative to more expensive markets." },
+      { "question": "Can I modify or renovate a rented shop space", "answer": "Most landlords allow reasonable modifications with prior approval. We help negotiate these terms and ensure any improvements are documented properly in the lease agreement." },
+      { "question": "What documents are required to rent a shop in Patti Mehar", "answer": "Standard requirements include CNIC copies, business registration documents (if applicable), and references. Some landlords may request additional guarantees depending on the lease terms and property value." },
+      { "question": "Are there any restrictions on business hours for shops", "answer": "Most areas in Patti Mehar allow flexible business hours, though some locations near residential zones may have evening restrictions. We verify these details for each property to match your operational needs." },
+      { "question": "How quickly can I move into a rented shop in Patti Mehar", "answer": "After completing documentation and payment, most tenants can occupy their shop within 1-3 days. We expedite the process by preparing all necessary paperwork in advance for quick turnover." }
+    ]
+  },
+  "contactSection": {
+    "title": "Find Your Ideal Shop For Rent in Patti Mehar",
+    "description": [
+      "Ready to secure your commercial space in this thriving market?",
+      "Our team is available to show you available properties and answer all your questions about renting in Patti Mehar."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

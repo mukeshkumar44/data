@@ -1,0 +1,87 @@
+```json
+{
+  "domain": "www.jandliproperties.com",
+  "hero": {
+    "title": "Shop For Sale in Jandli Prime Commercial Location",
+    "description": [
+      "Discover the perfect shop for sale in Jandli, a thriving commercial hub with high footfall and excellent connectivity. Whether you're looking to start a retail business or expand your existing one, our properties offer prime visibility and accessibility.",
+      "Invest in Jandli's booming market with shops available in various sizes to suit your business needs. Enjoy competitive pricing, flexible payment plans, and a strategic location that guarantees customer traffic."
+    ],
+    "buttons": [
+      { "label": "View Available Shops", "path": "/shops-for-sale" },
+      { "label": "Contact Agent", "path": "/contact" }
+    ],
+    "images": []
+  },
+  "featuresSection": {
+    "heading": "Shop Sizes Available in Jandli",
+    "description": [
+      "Explore a range of shop sizes designed to meet diverse business requirements. From compact retail spaces to spacious showrooms, find the ideal property for your venture.",
+      "Each shop is strategically located to maximize visibility and customer engagement, ensuring your business thrives in Jandli's bustling market."
+    ],
+    "features": [
+      { "title": "100 Sq Ft Shop", "description": "Ideal for small retail outlets or service-based businesses looking for an affordable yet prime location." },
+      { "title": "200 Sq Ft Shop", "description": "Perfect for medium-sized retail stores or boutiques with ample space for displays and customer movement." },
+      { "title": "300 Sq Ft Shop", "description": "Great for larger retail setups or showrooms requiring additional storage and workspace." },
+      { "title": "400 Sq Ft Shop", "description": "Suited for businesses needing extensive floor space, such as electronics stores or furniture showrooms." },
+      { "title": "500 Sq Ft Shop", "description": "Best for premium retail brands or multi-product stores looking for a prominent presence in Jandli." },
+      { "title": "Custom Size Shop", "description": "Tailor-made solutions available for businesses with specific spatial requirements or unique layouts." }
+    ]
+  },
+  "locationsSection": {
+    "title": "Prime Commercial Areas Near Jandli",
+    "description": [
+      "Jandli is surrounded by thriving commercial zones that enhance its appeal as a business destination. These nearby areas offer complementary advantages for shop owners.",
+      "Investing in Jandli means tapping into a network of bustling markets and high-traffic locations that drive sustained business growth."
+    ],
+    "locations": [
+      "Jandli Main Market",
+      "Jandli Bypass Road",
+      "Near Jandli Bus Stand",
+      "Jandli Industrial Area",
+      "Jandli Cantt Road",
+      "Jandli Railway Station Road"
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Invest in Shops in Jandli",
+    "description": [
+      "Jandli offers unmatched advantages for commercial property investors and business owners. Here's why you should consider buying a shop here.",
+      "From strategic location to infrastructure development, Jandli is poised for sustained commercial growth, making it a smart investment choice."
+    ],
+    "points": [
+      { "title": "High Footfall Area", "description": "Jandli's commercial zones attract consistent customer traffic throughout the day, ensuring good visibility and sales potential for your business." },
+      { "title": "Excellent Connectivity", "description": "With easy access to major roads and public transport, your shop will be easily reachable for customers from across the region." },
+      { "title": "Growing Commercial Hub", "description": "Jandli is witnessing rapid commercial development, with new businesses opening regularly, creating a vibrant ecosystem for retailers." },
+      { "title": "Competitive Pricing", "description": "Compared to other commercial areas, Jandli offers more affordable shop rates with better growth potential and return on investment." },
+      { "title": "Diverse Customer Base", "description": "The area serves both local residents and visitors, giving your business access to multiple customer segments." },
+      { "title": "Infrastructure Development", "description": "Ongoing and planned infrastructure projects in Jandli promise better facilities and increased property values in coming years." },
+      { "title": "Flexible Payment Options", "description": "Multiple payment plans and financing options are available to make your shop purchase convenient and stress-free." },
+      { "title": "Professional Property Management", "description": "Our managed commercial properties ensure proper maintenance and security, letting you focus on your business." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Shops in Jandli",
+    "description": "Get answers to common queries about purchasing and operating shops in Jandli's commercial market.",
+    "faqs": [
+      { "question": "What types of businesses perform well in Jandli", "answer": "Jandli's commercial market supports diverse businesses including retail stores, electronics shops, clothing boutiques, grocery stores, and service providers like salons and repair shops. The area's mixed customer base creates opportunities for various business models." },
+      { "question": "What is the average price range for shops in Jandli", "answer": "Shop prices in Jandli vary based on size and exact location, typically ranging from Rs. 15-50 lakhs. Prime locations near main roads command higher prices, while interior shops offer more affordable options for startups and small businesses." },
+      { "question": "Are there any legal considerations when buying a shop in Jandli", "answer": "All our listed properties have clear titles and necessary approvals. We recommend verifying property documents, checking zoning regulations for your business type, and ensuring proper commercial licenses are obtainable for your intended use before finalizing any purchase." },
+      { "question": "What are the peak business hours in Jandli market", "answer": "Jandli commercial areas typically see highest footfall between 10 AM to 8 PM, with lunchtime and evening hours being particularly busy. Weekend traffic is generally heavier than weekdays, making it ideal for retail businesses." },
+      { "question": "Are there any upcoming infrastructure projects that might affect Jandli's commercial value", "answer": "Several development projects including road widening, new public transport routes, and commercial complex constructions are planned for Jandli, all of which are expected to increase property values and customer accessibility in the coming years." },
+      { "question": "What financing options are available for shop purchases in Jandli", "answer": "Buyers can avail bank loans, developer financing schemes, or installment plans. Many national and local banks offer commercial property loans with competitive interest rates for Jandli properties, typically covering 70-80% of the property value." },
+      { "question": "How does Jandli compare to other commercial areas in the region", "answer": "Jandli offers better value compared to more established commercial areas, with lower entry costs but similar growth potential. Its central location and developing infrastructure make it an attractive alternative to premium-priced markets while offering comparable customer reach." },
+      { "question": "What maintenance charges apply to shops in Jandli commercial complexes", "answer": "Maintenance charges vary by property but typically range from Rs. 5-15 per sq ft monthly in managed complexes, covering common area cleaning, security, and basic upkeep. Standalone shops usually have no maintenance charges beyond municipal taxes." },
+      { "question": "Can residential properties be converted to commercial use in Jandli", "answer": "Some areas in Jandli allow mixed-use or commercial conversions with proper approvals. The process involves obtaining change-of-use permission from local authorities and may require additional fees. We can guide you through specific properties where conversion is feasible." }
+    ]
+  },
+  "contactSection": {
+    "title": "Interested in Shops for Sale in Jandli",
+    "description": [
+      "Ready to find your perfect commercial space in Jandli? Our property experts can help you identify the best shop for your business needs and budget.",
+      "Fill out the form below to schedule a viewing or get more information about available properties in Jandli's commercial market."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}
+```
