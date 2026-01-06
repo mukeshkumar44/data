@@ -7,10 +7,19 @@
       "Finding the right house for rent can be challenging but our curated listings simplify your search. We provide detailed information on property features rental terms and neighbourhood highlights ensuring transparency and peace of mind. Whether you need a fully furnished home for immediate move-in or a semi-furnished space you can personalize our comprehensive database of rental houses in Sector 34 Ambala is designed to meet every requirement and budget Start your journey toward securing your dream rental home today."
     ],
     "buttons": [
-      { "label": "Browse Verified Listings", "path": "/listings" },
-      { "label": "Request Personalized Viewing", "path": "/contact" }
+      {
+        "label": "Browse Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Personalized Viewing",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero-image-1.jpg", "hero-image-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse House For Rent Options in Sector 34 Ambala Suitable for Every Family Size",
@@ -52,12 +61,56 @@
       "We highlight the specific locational benefits that make living here so desirable ensuring that your chosen rental property meets all your logistical needs. From schools and markets to major transportation corridors Sector 34 provides unparalleled convenience helping you establish a stable and easy life in your new rental home."
     ],
     "locations": [
-      "Proximity to Ambala-Chandigarh Highway",
-      "Near Reliable Schools and Educational Hubs",
-      "Convenient Access to Local Market Areas",
-      "Developed Parks and Green Spaces",
-      "Easy Commute to Industrial Areas",
-      "Close to Reputable Hospitals"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to move into your perfect rental home in Sector 34 Ambala We are here to simplify your property search and handle all negotiation details. Our specialized rental team possesses deep market knowledge ensuring you get the best property at the most favorable terms.",
       "Fill out the form below with your specific requirements and one of our dedicated real estate advisors will contact you shortly with personalized listings and viewing appointments. Start the effortless process of securing your ideal house for rent now."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

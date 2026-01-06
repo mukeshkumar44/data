@@ -7,10 +7,19 @@
       "We specialize in connecting you with verified residential properties that align perfectly with your financial goals. Whether you are looking for compact apartments, well-designed independent floors, or plots to build your customized home, our listings ensure transparency and top-tier amenities. Invest in Sector 128 now and unlock access to world-class educational institutions, healthcare facilities, and bustling commercial hubs, all while enjoying the low entry cost of an affordable house."
     ],
     "buttons": [
-      { "label": "Explore Current Listings", "path": "/listings" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "Explore Current Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_img1.jpg", "hero_img2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Finding the Right Plot Size for Building Your Affordable House in Sector 128 Noida",
@@ -52,14 +61,56 @@
       "The close proximity to the Noida-Greater Noida Expressway ensures effortless travel to Delhi, Greater Noida, and other important sectors of Noida. Furthermore, the area boasts robust internal roads and planned infrastructure developments that promise sustained growth. This excellent connectivity translates into reduced commute times, increased professional opportunities, and long-term appreciation for your affordable house investment in Sector 128."
     ],
     "locations": [
-      "Noida Expressway Access Point",
-      "Jaypee Hospital Sector 128",
-      "Amity University Noida Campus",
-      "Sector 137 Metro Station Aqua Line",
-      "Botanical Garden Interchange Metro Station",
-      "Worlds of Wonder Amusement Park",
-      "DND Flyway Connectivity",
-      "Gautam Buddha University"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Don't miss the opportunity to own property in one of Noida's most desirable sectors at an accessible price point. Our real estate experts are deeply familiar with the nuances of the Sector 128 market and are ready to provide personalized, unbiased advice.",
       "Contact us now to schedule a personalized viewing of the best affordable house listings, receive detailed pricing breakdowns, and start your journey towards successful homeownership in Sector 128 Noida. Your future home awaits."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

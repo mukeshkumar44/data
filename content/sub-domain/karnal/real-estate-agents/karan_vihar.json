@@ -7,12 +7,18 @@
       "Whether you are looking for a compact residential plot a ready-to-move apartment or commercial space our team of certified professionals guides you through every step. We specialize in verified listings offering genuine pricing and comprehensive documentation support. Stop navigating the complex property market alone let our expert real estate agents in Karan Vihar simplify your journey and secure the best possible deal for your future."
     ],
     "buttons": [
-      { "label": "Explore Verified Listings", "path": "/listings" },
-      { "label": "Consult an Agent Now", "path": "/contact" }
+      {
+        "label": "Explore Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Consult an Agent Now",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/karan-vihar-hero-1.jpg",
-      "/images/karan-vihar-hero-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The location’s proximity to key infrastructure projects ensures consistent property value appreciation. Understanding the market dynamics of surrounding areas like Mughal Canal Indri Road and various nearby sectors is essential for maximising your investment returns. Our real estate agents in Karan Vihar possess this deep hyperlocal knowledge enabling us to identify emerging hotspots and secure off-market deals for you across the broader Karnal region. Trust us to guide you to the perfect location that meets both your immediate and future needs."
     ],
     "locations": [
-      "Mugal Canal Area",
-      "Sector 6 Karnal",
-      "Indri Road Residential Hub",
-      "Hans Nagar Colony",
-      "New Housing Board Colony",
-      "Gita Colony Extension",
-      "Jain Colony",
-      "Model Town Karnal"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

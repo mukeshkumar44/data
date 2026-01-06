@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Understanding Property Sizes and Investment Opportunities for Houses in Sector 31 Noida",
@@ -58,12 +61,56 @@
       "Choosing an affordable house in Sector 31 means prioritizing convenience and quality of life for the entire family. From top-rated educational institutions to sprawling retail centers and easy access to healthcare everything you need is within immediate reach."
     ],
     "locations": [
-      "Sector 31 Commercial Market Hub",
-      "Near Expressway Access Points",
-      "Top Rated Schools Sector 30 & 31",
-      "Major Healthcare Centers & Hospitals",
-      "Metro Connectivity Sector 18",
-      "Botanical Garden proximity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

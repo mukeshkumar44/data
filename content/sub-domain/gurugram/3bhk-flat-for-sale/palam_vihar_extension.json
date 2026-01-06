@@ -7,10 +7,19 @@
       "These 3BHK apartments are meticulously planned featuring ample natural light excellent ventilation and efficient space utilization. The area boasts robust social infrastructure including top-tier schools healthcare facilities and vibrant marketplaces making daily life effortless and enjoyable. Investing in a home here means securing not just a property but a valuable asset poised for significant appreciation. Explore our listings today to find the perfect residential flat that aligns with your family’s needs and future goals."
     ],
     "buttons": [
-      { "label": "View All 3BHK Listings", "path": "/listings" },
-      { "label": "Schedule a Virtual Tour", "path": "/tour-booking" }
+      {
+        "label": "View All 3BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Virtual Tour",
+        "path": "/tour-booking"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Premium 3 BHK Flat Configurations and Key Community Advantages in Palam Vihar Extension Gurugram",
@@ -52,12 +61,56 @@
       "This established location eliminates the hassles often associated with new developing areas. Families benefit immensely from reduced travel times to schools offices and entertainment centers. Review this list of key amenities and landmarks that underscore the prime positioning of owning a 3BHK flat for sale in Palam Vihar Extension."
     ],
     "locations": [
-      { "name": "Dwarka Expressway Access", "distance": "5 minutes" },
-      { "name": "Indira Gandhi International Airport Delhi", "distance": "20 minutes" },
-      { "name": "Columbia Asia Hospital", "distance": "10 minutes" },
-      { "name": "Vyas Public School and Euro International School", "distance": "Nearby" },
-      { "name": "Cyber Hub and Sector 29 Entertainment", "distance": "25 minutes" },
-      { "name": "Palam Vihar Market Hub", "distance": "5 minutes walk" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to take the next step towards owning a premium 3BHK flat for sale in Palam Vihar Extension Gurugram? Our dedicated team of real estate professionals is here to provide personalized advice and curated property tours.",
       "Fill out the form below to receive immediate details on pricing availability and exclusive off-market listings tailored precisely to your budget and family requirements."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

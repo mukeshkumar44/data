@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Plot Sizes and Investment Options in Prime Parshuram Nagar Ambala",
@@ -58,14 +61,56 @@
       "We highlight the key connectivity features that enhance the living experience here, including proximity to essential public transport links and established neighborhood facilities. This connectivity not only simplifies daily life but significantly boosts the property valuation over time. Review the immediate surrounding locations that make Parshuram Nagar an unparalleled residential choice in Ambala."
     ],
     "locations": [
-      "Proximity to National Highway NH 44 offering excellent interstate connectivity",
-      "Easy access to Ambala Cantt Railway Station a major regional transportation hub",
-      "Short drive to established markets and commercial centers in Ambala",
-      "Close vicinity to leading schools and higher education institutions",
-      "Quick reach to hospitals and specialized healthcare facilities",
-      "Well-developed internal road network providing smooth commuting within the locality",
-      "Neighboring sectors with retail and dining options",
-      "Proposed governmental infrastructure projects enhancing future value"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

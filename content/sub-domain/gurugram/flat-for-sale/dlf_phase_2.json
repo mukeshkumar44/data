@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "dlf_phase_2_flat_hero_1.jpg",
-      "dlf_phase_2_flat_hero_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The robust infrastructure includes multiple reputed hospitals top-tier international schools and sprawling retail complexes all within a few minutes drive. Investing in a Flat For Sale in dlf phase 2 means placing yourself at the nexus of business education and leisure ensuring a quality life for the entire family. This location is continually appreciating offering strong capital gains for future resale."
     ],
     "locations": [
-      "MG Road Shopping District",
-      "Cyber Hub Corporate Towers",
-      "NH 48 National Highway Access",
-      "DLF Cyber City Business Park",
-      "Sikanderpur Metro Interchange",
-      "Apeejay School and DPS Educational Hub",
-      "IndusInd Bank Cyber City Metro Station",
-      "Proximity to Genpact Headquarters"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

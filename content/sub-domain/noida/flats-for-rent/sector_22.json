@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Flat Options When Looking For A Flat For Rent in Sector 22 Noida",
@@ -58,14 +61,56 @@
       "When you secure a Flat For Rent in Sector 22 you gain access to a self-sufficient ecosystem. The area boasts numerous green parks neighborhood markets reliable utility services and renowned educational institutions. This balanced urban planning makes Sector 22 highly desirable for long-term rentals offering both peaceful residential pockets and vibrant commercial activity. We manage properties across the sector ensuring quality and verified listings are always available for discerning tenants."
     ],
     "locations": [
-      "Noida Sector 12 Market",
-      "Sector 12 Metro Station (Blue Line)",
-      "Fortis Hospital Noida",
-      "Atta Market Sector 18",
-      "DND Flyway Access Point",
-      "FNG Expressway Proximity",
-      "Local Parks and Green Spaces",
-      "Prominent Schools in Noida"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

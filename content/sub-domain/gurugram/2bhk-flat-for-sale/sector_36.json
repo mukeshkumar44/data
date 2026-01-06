@@ -7,10 +7,19 @@
       "Explore verified listings of high-quality residences near NH-48. We offer detailed information on amenities, floor plans, and pricing, ensuring complete transparency in your buying journey. Whether you are looking for a ready-to-move-in option or a project nearing completion, our portfolio of 2BHK apartments in Sector 36 caters to every preference and budget. Start your home search today and step into the vibrant life Gurugram promises."
     ],
     "buttons": [
-      { "label": "Explore Verified 2BHK Listings", "path": "/listings" },
-      { "label": "Request a Personal Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Verified 2BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Personal Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Features That Make 2BHK Flats in Sector 36 Gurugram the Perfect Choice for Home Buyers",
@@ -52,14 +61,56 @@
       "This sector is emerging as a preferred residential hub due to its quiet environment compared to central Gurugram, yet it maintains excellent access to commercial activity and educational institutions. Invest wisely in a location that promises sustained appreciation and quality living."
     ],
     "locations": [
-      "Proximity to NH-48 Delhi-Jaipur Highway",
-      "Easy access to major business districts including Cyber Hub and Udyog Vihar",
-      "Short drive to IGI Airport via the Expressway",
-      "Close to renowned schools and universities",
-      "Well-developed road network connecting to nearby sectors 37, 83 and 84",
-      "Near upcoming metro connectivity points enhancing future value",
-      "Availability of essential services like hospitals and shopping complexes within a 5 km radius",
-      "Surrounded by green belts and planned residential layouts"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning your perfect home We offer personalized consultation services to help you identify the best 2BHK Flat For Sale in Sector 36 that meets all your criteria and budget requirements.",
       "Fill out the form below to receive a comprehensive brochure, pricing details, and schedule a private viewing of our exclusive properties. We guarantee professional, unbiased advice."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Shop Options in Kesari Village Ambala",
@@ -58,14 +61,56 @@
       "Our listings include shops in nearby locations such as Ambala Cantonment, Sector 7, and more. Each area is known for its vibrant market scene and accessibility, ensuring your business thrives in a dynamic environment. Explore these prime locations and find the best shop for rent near Kesari Village Ambala."
     ],
     "locations": [
-      "Ambala Cantonment",
-      "Sector 7 Ambala",
-      "Model Town Ambala",
-      "Rajendra Park Ambala",
-      "Baldev Nagar Ambala",
-      "Patel Nagar Ambala",
-      "Naraingarh Road",
-      "Jagadhri Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -161,6 +206,11 @@
       "Ready to find the perfect shop for rent in Kesari Village Ambala? Contact us today for personalized assistance. Our team is here to guide you through the process and answer any questions you may have.",
       "Fill out the form below, and we’ll get back to you promptly. Whether you’re looking for specific shop features or need help with rental agreements, we’re here to make your experience seamless."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

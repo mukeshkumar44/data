@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Residential Options and Available Flats For Sale in Sector 4 Rohtak Today",
@@ -58,12 +61,56 @@
       "The proximity to Sector 1 and Sector 3 expands the local commercial and educational infrastructure offering residents even more options for shopping dining and schooling. We ensure that our property listings include detailed information on local travel times and public transport availability. Investing in Sector 4 means investing in convenience a vital factor that distinguishes top-tier residential locations in Rohtak. Explore how being close to these key areas benefits your everyday living experience and streamlines urban accessibility."
     ],
     "locations": [
-      "Sector 3 Rohtak",
-      "Rohtak Railway Station Area",
-      "Delhi Road Industrial Area",
-      "Civil Lines Rohtak",
-      "Sunariya Chowk",
-      "HUDA Sector 1"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

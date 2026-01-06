@@ -7,12 +7,18 @@
       "Navigating the rental market in Aliyaspur can be complex, but our expert team simplifies the process. We provide detailed property information, high-quality images, and transparent pricing, ensuring you make an informed decision without unnecessary stress. Start your search now and unlock access to exclusive rental homes that offer comfort, security, and excellent connectivity within the greater Ambala region. Find your next dream home faster with our dedicated service."
     ],
     "buttons": [
-      { "label": "Explore Available Houses Now", "path": "/search-listings" },
-      { "label": "Talk to a Rental Specialist", "path": "/contact-us" }
+      {
+        "label": "Explore Available Houses Now",
+        "path": "/search-listings"
+      },
+      {
+        "label": "Talk to a Rental Specialist",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "house-for-rent-aliyaspur-main.jpg",
-      "aliyaspur-residential-area.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,13 +61,56 @@
       "We monitor rental trends across Aliyaspur and its vicinity, providing localized insights into infrastructure development, rent appreciation, and social amenities. This strategic information helps you choose a location that offers not only a suitable house but also a thriving community environment for your family in the greater Ambala area."
     ],
     "locations": [
-      "Aliyaspur Main Road",
-      "Near Ambala-Jagadhri Highway",
-      "Housing Board Colony Aliyaspur",
-      "Adjoining Areas of Ambala Cantt",
-      "Shahpur Village Rentals",
-      "Urban Estate Ambala",
-      "Model Town Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -157,6 +206,11 @@
       "Ready to secure the perfect rental home without stress or delay? Contact our Aliyaspur property specialists today. We are here to answer all your questions, schedule property viewings, and guide you step-by-step through the entire tenancy process.",
       "Fill out the form below to receive a curated list of rental listings matching your requirements within the next 24 hours."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,10 +7,19 @@
       "Sector 25 is known for its strategic location near Cyber City and MG Road, making property here a highly sought-after commodity. Our vetted agents ensure seamless transactions, transparent dealings, and access to off-market listings that suit your precise investment goals. Stop wading through countless listings and start working with a dedicated property consultant who can streamline your buying or selling journey in this prime location today."
     ],
     "buttons": [
-      { "label": "Find Top Agents Now", "path": "/contact-us" },
-      { "label": "Explore Sector 25 Properties", "path": "/properties/sector-25" }
+      {
+        "label": "Find Top Agents Now",
+        "path": "/contact-us"
+      },
+      {
+        "label": "Explore Sector 25 Properties",
+        "path": "/properties/sector-25"
+      }
     ],
-    "images": ["hero-sector25-agents.jpg", "luxury-home-sector25.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Expert Guidance Across Diverse Property Needs in Sector 25 Gurugram Luxury Market",
@@ -52,14 +61,56 @@
       "Expert Real Estate Agents in Sector 25 also possess thorough knowledge of the surrounding localities, allowing them to provide comprehensive investment advice and comparative property analysis across adjacent sectors."
     ],
     "locations": [
-      "DLF Phase 3",
-      "MG Road Retail Corridor",
-      "Cyber City Business District",
-      "Sector 24 Gurugram",
-      "Sikanderpur Metro Station",
-      "NH48 Connectivity",
-      "Golf Course Road Extension",
-      "Sector 43 Residential Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to invest in or sell a premium property in Sector 25 Gurugram Get in touch with our specialist team today. We provide personalised consultations to understand your needs and match you with a vetted agent who can deliver exceptional results.",
       "Fill out the form below or call us directly to schedule a confidential discussion about your real estate goals in this prime Gurugram location."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

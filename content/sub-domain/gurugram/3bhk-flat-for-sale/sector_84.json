@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Advantages of Choosing a 3BHK Flat in Sector 84 Gurugram",
@@ -58,14 +61,56 @@
       "This location is particularly attractive because it is close to the industrial and commercial nerve center of IMT Manesar yet maintains a pristine residential ambiance. For families working in cyber hubs or major corporate offices access via the Dwarka Expressway makes the daily commute incredibly efficient. We highlight several neighbouring sectors that complement the residential appeal of finding a 3BHK flat for sale in Sector 84 offering diverse schooling healthcare and entertainment alternatives all within a short driving distance. This comprehensive regional connectivity solidifies Sector 84 as a premier choice for residential ownership in the Delhi NCR region."
     ],
     "locations": [
-      "Sector 83 Gurugram",
-      "Sector 85 Gurugram",
-      "Sector 90 Gurugram",
-      "IMT Manesar",
-      "Dwarka Expressway",
-      "National Highway 48 NH-48",
-      "Southern Peripheral Road SPR",
-      "Sector 104 Gurugram"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

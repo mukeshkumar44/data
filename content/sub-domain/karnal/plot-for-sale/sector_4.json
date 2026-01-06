@@ -7,12 +7,18 @@
       "Building your custom home starts with finding the right foundation and Sector 4 provides that premium address. This area is characterized by wide roads, proximity to leading educational institutions, and easy access to the main city amenities. Explore residential plots ranging from compact sizes ideal for nuclear families to larger estates perfect for expansive living. Invest strategically in the heart of Karnal’s most promising locality today."
     ],
     "buttons": [
-      { "label": "Contact Our Sector 4 Experts", "path": "/contact" },
-      { "label": "View Available Plots", "path": "/listings" }
+      {
+        "label": "Contact Our Sector 4 Experts",
+        "path": "/contact"
+      },
+      {
+        "label": "View Available Plots",
+        "path": "/listings"
+      }
     ],
     "images": [
-      "sector4_plot_view1.jpg",
-      "sector4_map.png"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,13 +61,56 @@
       "We also handle exclusive listings in neighboring sectors that maintain similar standards of living but may offer different price points or specific amenities. Our comprehensive market knowledge extends across Sector 3, Sector 6, and the upcoming developmental zones ensuring you have a complete picture of the Karnal real estate landscape allowing you to compare investment value."
     ],
     "locations": [
-      "Sector 3 Karnal",
-      "Sector 6 Karnal",
-      "Sector 7 Karnal",
-      "Sector 8 Karnal",
-      "Model Town Karnal",
-      "Indri Road Developments",
-      "Inner City Residential Areas"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

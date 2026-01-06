@@ -7,10 +7,19 @@
       "Our platform provides detailed listings with high-quality images, floor plans, and transparent pricing, ensuring you know exactly what you are getting before you even schedule a viewing. Whether you need a place close to the highway for commuting or a quiet residential pocket near local schools, we have the ideal house for rent in Narain Garh Ambala that fits your lifestyle and budget. Start exploring secure and verified rental options today and secure your next home with confidence."
     ],
     "buttons": [
-      { "label": "Search All Rental Listings", "path": "/search" },
-      { "label": "Request a Call Back", "path": "/contact" }
+      {
+        "label": "Search All Rental Listings",
+        "path": "/search"
+      },
+      {
+        "label": "Request a Call Back",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_rental_narain_garh.jpg", "narain_garh_locality.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Rental House Options and Property Types in Narain Garh Ambala",
@@ -52,14 +61,56 @@
       "Whether you prioritize proximity to the main highways leading out of Ambala, or prefer quiet, interior lanes away from traffic noise, our location guide assists you. We highlight areas known for their excellent civic infrastructure, reliable utility services, and community environment, ensuring your rental experience in Narain Garh Ambala is smooth and pleasant."
     ],
     "locations": [
-      "Near Narain Garh Main Market",
-      "Residential Colonies on Ambala Road",
-      "Areas Close to Local Schools",
-      "Pockets Adjacent to the Highway",
-      "Newly Developed Housing Schemes",
-      "Affordable Zones for Budget Renters",
-      "Executive Living Areas",
-      "Near Government Offices"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Our team is standing by to assist you with personalized property recommendations and scheduling immediate viewings of the best available houses for rent in Narain Garh Ambala. Whether you have specific requirements or need advice on local residential pockets, we are here to help.",
       "Fill out the quick inquiry form below and let us take the complexity out of finding your new rental home. Start your move to Narain Garh today."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

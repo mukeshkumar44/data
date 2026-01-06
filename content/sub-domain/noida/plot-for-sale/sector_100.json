@@ -7,12 +7,18 @@
       "Whether you are planning to build your custom dream home immediately or seeking a land bank opportunity with assured high appreciation this sector caters to both demands. Our curated listings feature verified RERA-approved plots ensuring transparency and peace of mind for every buyer. Explore the finest investment opportunities in residential plots in Sector 100 Noida and take the first step toward building equity in a high-growth environment."
     ],
     "buttons": [
-      { "label": "Explore Verified Listings Now", "path": "/listings" },
-      { "label": "Download Plot Price Guide", "path": "/download-guide" }
+      {
+        "label": "Explore Verified Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Download Plot Price Guide",
+        "path": "/download-guide"
+      }
     ],
     "images": [
-      "sector100_plots_overview.jpg",
-      "noida_skyline_investment.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "Key infrastructure highlights include proximity to the Noida Expressway facilitating rapid travel to Delhi Greater Noida and Agra. Furthermore Sector 100 is buffered by neighboring high-profile sectors ensuring access to premium retail and recreational facilities without compromising the peaceful residential ambiance. The ongoing infrastructural development including planned Metro expansions further solidifies Sector 100 Noida as a superior location for long-term real estate investment."
     ],
     "locations": [
-      "Close proximity to the Noida-Greater Noida Expressway ensuring smooth vehicular movement",
-      "Immediate adjacency to Sector 137 and Sector 93 prime residential neighborhoods",
-      "Easy access to major corporate parks and IT hubs like Sector 135 and Sector 142",
-      "Nearness to top-tier educational institutions and multi-specialty hospitals",
-      "Planned infrastructural upgrades enhancing future connectivity",
-      "Well-developed internal roads and robust civic infrastructure within the sector"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -156,6 +206,11 @@
       "The window for acquiring prime plots in Sector 100 is closing rapidly due to high demand from investors and end-users. Do not miss the opportunity to secure your future in Noida's most promising residential zone.",
       "Contact our expert property advisors now for personalized consultation site visits and access to exclusive off-market inventory that matches your exact investment criteria."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

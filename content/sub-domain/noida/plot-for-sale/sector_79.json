@@ -7,12 +7,18 @@
       "We specialize in premium residential plots, offering fully vetted properties with clear titles and immediate possession options. Whether you envision a spacious villa on a 200 sq yard plot or a compact, well-located space, Sector 79 Noida delivers value and convenience. Explore our exclusive listings today and take the first step toward owning a piece of this flourishing real estate landscape. Investment in a plot here promises long-term security and remarkable returns due to the organized infrastructure development."
     ],
     "buttons": [
-      { "label": "View Available Plots Now", "path": "/listings" },
-      { "label": "Request a Free Consultation", "path": "/contact" }
+      {
+        "label": "View Available Plots Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Free Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/sector79-plot-aerial.jpg",
-      "/images/sector79-infrastructure.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The location provides quick access to the Noida-Greater Noida Expressway, facilitating effortless commuting to Delhi and other NCR regions. Proximity to proposed metro stations and existing arterial roads confirms that Sector 79 is poised for exceptional infrastructural growth, cementing its status as a prime destination for residential plot investment in Noida."
     ],
     "locations": [
-      "Sector 78 Noida",
-      "Sector 77 Noida",
-      "Sector 50 Noida",
-      "Gaur City 2",
-      "Noida Expressway Access Points",
-      "Upcoming Metro Link Stations",
-      "FNG Expressway Connectivity",
-      "Knowledge Park V"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

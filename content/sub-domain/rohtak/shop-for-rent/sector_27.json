@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "shop-front-sector-27.jpg",
-      "commercial-street-rohtak.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "Furthermore the strategic location near major roads like the Delhi Rohtak Bypass ensures easy accessibility for customers commuting from neighboring sectors and towns This excellent connectivity coupled with planned infrastructure development solidifies Sector 27 as a future-proof investment location We identify properties that benefit most from these traffic drivers guaranteeing that your business maximizes its exposure and growth potential within Rohtak’s rapidly developing urban environment"
     ],
     "locations": [
-      "Main Market Entrance",
-      "Residential Colony Access Points",
-      "Near NH-9 Intersection",
-      "Proximity to Major Hospitals",
-      "High-Density Office Areas",
-      "Near Local Transport Hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

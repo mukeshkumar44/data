@@ -7,10 +7,19 @@
       "Our focus is on presenting flats that combine superior architectural design with essential modern amenities ensuring a comfortable and convenient lifestyle. We provide complete transparency regarding property titles pricing and builder reputation allowing you to make an informed decision without any pressure. Explore ready-to-move options and upcoming projects located strategically near key industrial and commercial zones maximizing both your investment value and daily convenience. Begin your journey toward owning a premier residence in Kala Amb today."
     ],
     "buttons": [
-      { "label": "View Latest Listings", "path": "/listings" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "View Latest Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Diverse Residential Flat Options in Kala Amb to Match Every Budget and Lifestyle",
@@ -52,14 +61,56 @@
       "Whether you prefer the buzz of areas close to the main highway for easy commuting or the peaceful environment of peripheral colonies known for their greenery our section highlights top complexes and emerging micro-markets. We ensure you have access to flats situated near essential amenities and transportation networks guaranteeing a truly convenient lifestyle in Kala Amb."
     ],
     "locations": [
-      "Near Industrial Area Phase I Residences",
-      "Housing Board Colony Kala Amb",
-      "Flats on the Main NH 7 Highway",
-      "Sirmaur Road Residential Clusters",
-      "Modern Industrial Estate Apartment Buildings",
-      "Green Valley Heights Kala Amb",
-      "Bata Nagar Housing Society",
-      "Near Paonta Sahib Road Complexes"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

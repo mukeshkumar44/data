@@ -7,10 +7,19 @@
       "We offer an exclusive selection of properties ranging from sophisticated high-rise apartments to sprawling independent villas and meticulously crafted builder floors. Our curated listings ensure you find a home that meets your aspirational lifestyle and financial goals. Begin your journey today towards owning a prestigious address in Sector 65 Gurugram where growth potential and opulent living converge seamlessly. Trust our experts to navigate the best deals available."
     ],
     "buttons": [
-      { "label": "Explore Luxury Listings Now", "path": "/listings" },
-      { "label": "Request a Free Consultation", "path": "/contact" }
+      {
+        "label": "Explore Luxury Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Free Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Residential Inventory When You Decide to Buy House in Sector 65 Gurugram",
@@ -52,12 +61,56 @@
       "The area is surrounded by premium social infrastructure including top-tier schools healthcare facilities and high-end retail hubs like M3M Cosmopolitan. This self-sustaining ecosystem ensures residents enjoy a convenient and luxurious life reducing commute times and enhancing overall quality of living. Understanding the local geography and neighbouring sectors is essential for making an informed investment decision in this burgeoning micro-market of Gurugram."
     ],
     "locations": [
-      "Sector 66 Gurugram",
-      "Sector 67 Gurugram",
-      "Sector 61 Gurugram",
-      "Sector 57 Gurugram",
-      "Golf Course Extension Road",
-      "DLF The Aralias"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to secure your dream home or next big investment in Sector 65 Gurugram Our expert team specializes in this high-growth luxury micro-market and is ready to provide personalized guidance.",
       "Contact us today for a curated list of properties that match your specific requirements and financial planning. Let us help you navigate the best opportunities available."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,12 +7,18 @@
       "Explore diverse options tailored to various business needs, whether you require a compact office space for a startup or a large showroom plot for a flagship store. We provide detailed market insights and professional guidance to ensure you find the ideal commercial property that maximizes your return on investment. Start your successful commercial venture in the thriving heart of Inder Nagar Ambala now by browsing our exclusive portfolio."
     ],
     "buttons": [
-      { "label": "View Available Commercial Plots", "path": "/listings/commercial-plots" },
-      { "label": "Request Commercial Investment Guide", "path": "/contact/guide" }
+      {
+        "label": "View Available Commercial Plots",
+        "path": "/listings/commercial-plots"
+      },
+      {
+        "label": "Request Commercial Investment Guide",
+        "path": "/contact/guide"
+      }
     ],
     "images": [
-      "/images/inder-nagar-commercial-hero1.jpg",
-      "/images/inder-nagar-commercial-hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "We focus on locations that demonstrate strong commercial viability, excellent infrastructure, and confirmed future development plans. These surrounding areas enhance the appeal of commercial property for sale in Inder Nagar by providing a robust ecosystem of supporting businesses and residential populations."
     ],
     "locations": [
-      "Ambala Cantt Main Commercial Street",
-      "Sector 7 Commercial Area",
-      "Model Town Ambala Business Hub",
-      "Panchkula Road Commercial Corridor",
-      "Baldev Nagar Retail Spaces",
-      "Ambala City Industrial Zone",
-      "Near Ambala Bus Stand Commercial Plots",
-      "Defence Colony Commercial Pockets"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to invest in the most promising Commercial Property For Sale in Inder Nagar Ambala Request personalized assistance and detailed financial projections from our dedicated real estate consultants. We offer tailored advice based on current market trends and your specific investment goals.",
       "Submit your inquiry today and take the first critical step towards securing a profitable commercial asset in one of Ambala’s fastest-growing localities. We ensure confidentiality and prompt, professional responses to all commercial inquiries."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

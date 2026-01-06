@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "sector-31-hero-building.jpg",
-      "agent-consulting-gurugram.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Our agents are experts not only in Sector 31 but also in surrounding high-growth areas. We leverage this expanded local knowledge to provide holistic advice whether you are commuting to Cyber City or looking for seamless access to top schools and hospitals. Understanding the regional infrastructure helps us position your property effectively for sale or identify the perfect location for your purchase based on lifestyle preferences."
     ],
     "locations": [
-      "HUDA City Centre Metro Station",
-      "Sector 30 Residential Hub",
-      "National Highway 48 NH 48",
-      "Leisure Valley Park",
-      "Civil Lines Gurugram",
-      "Artemis Hospital Gurugram",
-      "Signature Tower Area",
-      "Sector 40 Gurugram"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

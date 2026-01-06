@@ -7,10 +7,19 @@
       "Our expert team provides personalized assistance to ensure your new commercial space perfectly aligns with your brand requirements and budget expectations. Start capitalizing on the robust economy and established residential density surrounding DLF Phase 4. Whether you seek immediate occupancy or are planning a phased expansion we have access to exclusive listings including ground floor units high-visibility corner shops. Explore the best commercial rentals now and take the crucial step towards business growth in one of Gurugram’s most sought-after commercial hubs."
     ],
     "buttons": [
-      { "label": "Browse Available Retail Spaces", "path": "/search-shops" },
-      { "label": "Request Personalized Consultation", "path": "/contact-us" }
+      {
+        "label": "Browse Available Retail Spaces",
+        "path": "/search-shops"
+      },
+      {
+        "label": "Request Personalized Consultation",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Diverse Commercial Shop Sizes and Layouts Available for Rent in DLF Phase 4",
@@ -52,14 +61,56 @@
       "We help identify the specific micro-market within DLF Phase 4 that best suits your business model whether you need proximity to high-end residential areas for luxury retail or closer access to main thoroughfares for service-based operations. Our local expertise ensures you rent a commercial space where your target demographic naturally congregates guaranteeing maximum operational efficiency and rental yield."
     ],
     "locations": [
-      "DLF Phase 1 Commercial Markets",
-      "Sector 11 Retail Hub",
-      "Green Field Colony Market",
-      "Surajkund Road Commercial Belt",
-      "Badarpur Border Connectivity",
-      "Central Market DLF Phase 4",
-      "Nearby Schools and Institutional Areas",
-      "Premium Residential Towers Proximity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -17,7 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero-flat-view-sector35.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -60,12 +61,56 @@
       "Residents enjoy the benefits of living near key infrastructure developments and planned amenities, guaranteeing a high quality of life. The swift connectivity to arterial roads also positions Sector 35 as an ideal investment locale with promising future appreciation potential."
     ],
     "locations": [
-      "Easy Access to NH 9",
-      "Proximity to MDU University",
-      "Near Rohtak Bus Stand",
-      "Connected to Sector 34 Residential Area",
-      "Close to Commercial Shopping Hubs",
-      "Seamless connectivity to Delhi NCR via major highways"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

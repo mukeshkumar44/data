@@ -7,10 +7,19 @@
       "Benefit from proximity to major corporate hubs, seamless access to the Delhi-Meerut Expressway, and a growing local infrastructure including markets and schools. We simplify the rental process, providing transparent details, verified documentation, and professional assistance to ensure you find the perfect rental property without any hassle. Start your search today for the best homes available."
     ],
     "buttons": [
-      { "label": "Browse All Rental Listings", "path": "/listings/sector-118" },
-      { "label": "Contact Rental Experts", "path": "/contact-us" }
+      {
+        "label": "Browse All Rental Listings",
+        "path": "/listings/sector-118"
+      },
+      {
+        "label": "Contact Rental Experts",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Rental Options and Flat Configurations in Sector 118 Noida",
@@ -52,14 +61,56 @@
       "The proximity to crucial infrastructure elevates the living experience. Whether you need access to hospitals, top schools, or shopping malls, Sector 118 keeps you close to everything essential, making your decision to rent here an intelligent one."
     ],
     "locations": [
-      "Sector 117 Metro Station Proximity",
-      "FNG Expressway Access",
-      "Sector 62 Commercial Hub",
-      "Gaur City Mall",
-      "Shiv Nadar School",
-      "Fortis Hospital Noida",
-      "Hindon River Floodplain Views",
-      "Proximity to Noida Expressway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

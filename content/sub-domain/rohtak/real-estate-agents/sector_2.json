@@ -7,10 +7,19 @@
       "If you are looking to buy a new home or sell an existing asset, our property experts provide comprehensive support from initial valuation to final registration. Trust us to manage negotiations effectively, maximizing your returns whether you are purchasing a premium 8 Marla plot or selling a ready-to-move-in 3 BHK flat. We are committed to making your property journey in Sector 2 transparent, efficient, and stress-free."
     ],
     "buttons": [
-      { "label": "Find Your Dream Home Now", "path": "/properties/buy" },
-      { "label": "Sell Your Property with Experts", "path": "/properties/sell" }
+      {
+        "label": "Find Your Dream Home Now",
+        "path": "/properties/buy"
+      },
+      {
+        "label": "Sell Your Property with Experts",
+        "path": "/properties/sell"
+      }
     ],
-    "images": ["hero_sector_2_agents.jpg", "rohtak_skyline.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Finding Your Dream Property in Sector 2 Rohtak is Easier with Expert Guidance",
@@ -52,12 +61,56 @@
       "Whether you are targeting proximity to the Delhi Road corridor or seeking slightly newer developments near the periphery, our agents ensure you have access to the best properties across Rohtak. We provide detailed comparative market analyses for buying plots or apartments across these popular residential and commercial hubs, ensuring you make a decision based on the best available data."
     ],
     "locations": [
-      "Sector 1 Residential Plots",
-      "Sector 3 Independent Floors",
-      "Sector 4 Rohtak",
-      "Sunaria Property Investments",
-      "Model Town Flats and Homes",
-      "Delhi Road Commercial Spaces"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to take the next step in your real estate journey in Sector 2 Rohtak Fill out the form below to connect directly with one of our specialized property advisors.",
       "Whether you have a specific property query or need general market advice, our Real Estate Agents are here to provide tailored, professional guidance immediately."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

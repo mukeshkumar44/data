@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "2bhk-flat-sector-108-hero.jpg",
-      "dwarka-expressway-view.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The ongoing development of physical and social infrastructure guarantees that residents enjoy smooth commutes and easy access to essential services. Key developments nearby include major schools world-class hospitals and extensive retail hubs creating a self-sufficient ecosystem. Investing in a 2BHK flat for sale in Sector 108 means buying into a future where convenience is paramount. The strategic location ensures that property values remain robust and continue to appreciate significantly as the Expressway reaches full operational capacity."
     ],
     "locations": [
-      "Dwarka Expressway Access Point",
-      "Indira Gandhi International Airport Terminal T3",
-      "Sector 109 Residential Hub",
-      "Pataudi Road Linkage",
-      "Vasant Kunj Delhi",
-      "Northern Peripheral Road NPR",
-      "Proposed Metro Corridor Stop",
-      "Upcoming Retail and Commercial Centers"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

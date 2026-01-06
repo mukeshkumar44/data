@@ -7,12 +7,18 @@
       "Searching for Flats For Sale in Sector 28 can be overwhelming but our expert real estate platform simplifies the process. Explore verified properties ready-to-move options and new launches featuring world-class amenities like secure parking 24/7 security green parks and community facilities. Whether you seek a comfortable starter home or a high-return investment property Sector 28 offers diverse choices tailored to your specific needs and budget. Start your journey toward owning a beautiful flat in one of Karnal’s most promising localities now."
     ],
     "buttons": [
-      { "label": "Explore All Available Flats", "path": "/flats-available" },
-      { "label": "Book a Free Site Visit", "path": "/contact-us" }
+      {
+        "label": "Explore All Available Flats",
+        "path": "/flats-available"
+      },
+      {
+        "label": "Book a Free Site Visit",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "hero-flat-view-sector28.jpg",
-      "sector28-karnal-skyline.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "We highlight key neighbouring areas and essential services that underscore the locational advantage of purchasing a flat here ensuring you are always close to where you need to be for work education or leisure."
     ],
     "locations": [
-      "Sector 32 Karnal",
-      "Sector 33 Karnal",
-      "National Highway 44 Connectivity",
-      "Karnal IT Hub Area",
-      "Reputed Schools and Colleges nearby",
-      "Major Hospitals and Healthcare Centres",
-      "Commercial Shopping Complexes",
-      "Karnal Railway Station Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,12 +7,18 @@
       "Investing in a 2BHK flat in this established area guarantees appreciation potential due to its proximity to major industrial areas like Udyog Vihar and essential social infrastructure. Whether you are a first-time buyer, a young professional, or planning for a small family, these apartments provide the ideal balance of affordability, location, and convenience. Explore our verified listings now and take the first step towards securing a premium property in Rajendra Park Gurugram."
     ],
     "buttons": [
-      { "label": "Explore Verified 2BHK Listings", "path": "/listings" },
-      { "label": "Request a Free Property Consultation", "path": "/contact" }
+      {
+        "label": "Explore Verified 2BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Free Property Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "rajendra-park-2bhk-living.jpg",
-      "rajendra-park-flat-exterior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "Furthermore, the locality is rich in essential social infrastructure. Reputed schools like Suncity School, world-class hospitals such as Medanta The Medicity, bustling retail centers like Palam Vihar Market, and recreational parks are all within a short radius. The area maintains a comfortable residential ambiance while staying connected to the dynamic pace of Gurugram. Investing here means securing a home where convenience and community thrive together, ensuring a high quality of life for you and your family looking for a 2BHK flat for sale in Rajendra Park."
     ],
     "locations": [
-      "Easy access to NH 48 Delhi-Jaipur Expressway",
-      "Proximity to Palam Vihar Metro Station",
-      "Short drive to Udyog Vihar industrial area",
-      "Well-connected public transport network",
-      "Near major schools and educational institutions",
-      "Access to extensive healthcare facilities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

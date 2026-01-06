@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Ideal Residential Plot Sizes for Building Your Future Home in Mullana Ambala",
@@ -58,12 +61,56 @@
       "Our portfolio includes properties near the National Highway 44 ensuring easy commutes and properties strategically located close to the prestigious Maharishi Markandeshwar University MMU creating excellent rental yield opportunities for investors. Whether you prefer the peaceful residential environment of inner Mullana or the commercial vibrancy near the highway access points, we have listings tailored to your goals. Choosing the right location is the first step toward profitable real estate ownership and as the leading Property Dealer in Mullana we provide localized data and future projection maps to guide your decision."
     ],
     "locations": [
-      "Residential Plots near MMU Campus Mullana",
-      "Highway Frontage Commercial Property NH-44",
-      "Developing Residential Sectors near Mullana",
-      "Inner City Mullana Housing Schemes",
-      "Plots near Ambala-Jagadhri Road",
-      "Mullana Industrial Area Investment Opportunities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

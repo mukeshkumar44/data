@@ -7,12 +7,18 @@
       "Our selected agents are experts at deciphering complex ownership histories, ensuring clear titles, and negotiating the best possible price for buyers and sellers alike. Whether you are aiming to acquire a high-yield commercial shop or seeking a strategic location for your next residential project, relying on the top Real Estate Agents in Sadar Bazar Karnal guarantees a smooth, secure, and highly profitable transaction process."
     ],
     "buttons": [
-      { "label": "Contact an Expert Agent Today", "path": "/contact" },
-      { "label": "View Latest Sadar Bazar Listings", "path": "/listings" }
+      {
+        "label": "Contact an Expert Agent Today",
+        "path": "/contact"
+      },
+      {
+        "label": "View Latest Sadar Bazar Listings",
+        "path": "/listings"
+      }
     ],
     "images": [
-      "sadar_bazar_market.jpg",
-      "karnal_agent_office.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "We provide targeted guidance in areas that benefit directly from Sadar Bazar’s commercial pull, including connecting arteries and high-traffic zones. This holistic approach ensures you do not miss out on opportunities just outside the immediate, highly competitive boundary of Sadar Bazar."
     ],
     "locations": [
-      "Railway Road Property Market",
-      "Kunjpura Road Commercial Spaces",
-      "Sector 7 Investment Options",
-      "Civil Lines Residential Apartments",
-      "Namaste Chowk Retail Market",
-      "Fountain Chowk Properties",
-      "Old City Mandi Area",
-      "Maharaja Agarsen Chowk"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -145,6 +193,4 @@
       "message"
     ]
   }
-}
-"
 }

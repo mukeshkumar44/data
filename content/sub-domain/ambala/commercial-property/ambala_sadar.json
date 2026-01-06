@@ -7,10 +7,19 @@
       "Explore exclusive listings of Commercial Property For Sale in Ambala Sadar today and capitalize on the region’s accelerating economic trajectory. Our portfolio includes vetted properties near major transit points and developing residential sectors ensuring long-term rental yield potential and capital appreciation. Let our expertise guide your investment decision guaranteeing a seamless and profitable acquisition process right here in Ambala."
     ],
     "buttons": [
-      { "label": "View Prime Listings Now", "path": "/listings" },
-      { "label": "Request Investment Consultation", "path": "/contact" }
+      {
+        "label": "View Prime Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Investment Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["commercial_ambala_salar_hero.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Ideal Commercial Property Sizes and Investment Opportunities in Ambala Sadar",
@@ -52,14 +61,56 @@
       "Whether you seek the high-density retail environment of the main market or the streamlined connectivity near the national highways we have Commercial Property For Sale options tailored to your needs. These areas benefit from robust infrastructure excellent public transport links and proximity to affluent residential communities driving commercial demand in Ambala."
     ],
     "locations": [
-      "Nicholson Road Commercial Area",
-      "Model Town Business District Ambala Sadar",
-      "Sector 7 Main Market Complex",
-      "Delhi-Amritsar Highway Frontage Plots NH 44",
-      "Mansa Devi Commercial Belt",
-      "Baldev Nagar Business Park",
-      "Urban Estate Phase I & II Commercial Centers",
-      "Sadar Bazaar High Street Retail"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to explore the best Commercial Property For Sale opportunities in Ambala Sadar Speak to our experienced team who understand the nuances of this dynamic market.",
       "We provide bespoke investment strategies and exclusive access to off-market listings ensuring your next commercial venture is profitable and perfectly aligned with your financial goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

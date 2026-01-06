@@ -7,10 +7,19 @@
       "Start your journey to owning a beautiful residential property in Sector 29 today. We offer detailed insights into property valuation legal verification and tailored financing options making the process of buying your next house seamless and trustworthy. Explore various configurations from compact 2 BHK homes to lavish independent villas designed for modern luxury living right here in Sector 29 Karnal. The area boasts excellent connectivity and future growth prospects making your investment a smart choice for long-term prosperity and quality of life."
     ],
     "buttons": [
-      { "label": "View All Available Houses", "path": "/listings" },
-      { "label": "Schedule a Property Tour", "path": "/contact" }
+      {
+        "label": "View All Available Houses",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Property Tour",
+        "path": "/contact"
+      }
     ],
-    "images": ["/img/hero-house-sector29-1.jpg", "/img/hero-house-sector29-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Ideal Residential Configurations for Every Family in Sector 29 Karnal",
@@ -52,12 +61,56 @@
       "The planned layout of Sector 29 ensures that all residential areas are well-connected by wide roads and integrated public services. We also highlight homes in adjacent sectors that share similar advantages allowing buyers to compare value and location benefits effectively before making a final commitment to buying a house in Sector 29."
     ],
     "locations": [
-      "Sector 32 Housing Board Colony",
-      "Sector 28 Residential Area",
-      "Model Town Extension",
-      "NH-44 Connectivity Hubs",
-      "Near Railway Station Road",
-      "Karnal Bus Stand Link Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Our expert real estate team specializes exclusively in the Sector 29 market ensuring you receive the most current listings accurate valuations and professional guidance throughout your buying journey. Do not miss out on securing a prime residential property in this highly sought-after location.",
       "Fill out the form below to receive a personalized portfolio of houses for sale matching your specific criteria including size budget and preferred amenities. We are here to make your dream home purchase a reality."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

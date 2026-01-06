@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Features and Configuration Options for Your Ideal 3BHK Flat in South City 1",
@@ -57,7 +60,58 @@
       "South City 1 holds an enviable position on Gurugram's real estate map primarily due to its strategic location and superb connectivity. Situated right off the National Highway 48 NH-48 it offers effortless travel towards Delhi and other parts of the NCR. This prime location dramatically reduces commute times to major business districts including Cyber City and Golf Course Road making the 3BHK flat for sale in South City 1 highly desirable for working professionals.",
       "The area is self-sufficient boasting proximity to top-tier educational institutions world-class healthcare facilities and upscale retail outlets like the Galleria Market and HUDA Market South City 1. When you invest in a 3BHK flat you are buying into convenience. The established infrastructure ensures reliable utilities and well-maintained public spaces making it one of the most resident-friendly neighborhoods in Gurugram. Access to the metro stations further enhances its connectivity profile ensuring seamless travel across the city."
     ],
-    "locations": []
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Why A 3BHK Flat in South City 1 Is Your Best Property Investment Move",

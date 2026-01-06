@@ -7,12 +7,18 @@
       "Discover spacious living spaces within a two-bedroom configuration designed for maximizing natural light and ventilation. Investing in a 2BHK Flat For Sale in Sector 90 Gurugram offers exceptional value due to the sector's rapid infrastructure development including planned metro extensions and proximity to major corporate hubs like IMT Manesar and Cyber City. Start your search now and secure your future home in a dynamically growing neighborhood providing everything you need right outside your door."
     ],
     "buttons": [
-      { "label": "View Verified 2BHK Listings", "path": "/listings" },
-      { "label": "Download Price List", "path": "/contact" }
+      {
+        "label": "View Verified 2BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Download Price List",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "2bhk-flat-sector-90-hero-1.jpg",
-      "sector-90-skyline.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "This sector is quickly becoming self-sufficient with established retail centers, educational institutions, and healthcare facilities emerging rapidly in the vicinity. Residents of a 2BHK Flat For Sale in Sector 90 enjoy a quieter residential environment while maintaining quick access to the vibrant business districts of Gurugram."
     ],
     "locations": [
-      "Dwarka Expressway Access",
-      "NH-48 Connectivity",
-      "IMT Manesar",
-      "Vatika Business Park",
-      "Southern Peripheral Road SPR",
-      "Akal Badi School",
-      "Aarvy Healthcare Hospital",
-      "Proximity to Planned Metro Station"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to take the next step towards owning a premium 2BHK flat in one of Gurugram's fastest-growing sectors Get in touch with our property experts now for personalized investment advice and exclusive site visits.",
       "We provide comprehensive documentation support and transparent pricing information to make your home buying experience seamless and hassle-free. Contact us to receive the latest price lists and project brochures."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

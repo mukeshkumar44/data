@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero/2bhk-sector-57-1.jpg",
-      "/images/hero/2bhk-sector-57-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The strategic location provides the perfect balance between urban accessibility and quiet suburban living. Many residents choose this area specifically for its superior internal road network and close proximity to essential markets and entertainment zones. Investing in a 2BHK Flat For Sale in Sector 57 ensures you benefit from ongoing infrastructure improvements and strong property appreciation potential in the years to come."
     ],
     "locations": [
-      "AWHO Sector 57 Apartments",
-      "Ardee City Gurugram",
-      "Sector 56 Gurugram",
-      "Sushant Lok 2",
-      "Golf Course Extension Road",
-      "Vipul World",
-      "D Block Builder Floors Sector 57",
-      "Bestech Park View Spa Next"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

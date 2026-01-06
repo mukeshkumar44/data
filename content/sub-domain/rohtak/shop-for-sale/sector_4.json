@@ -7,10 +7,19 @@
       "We offer a curated selection of commercial properties including ready-to-move retail spaces and premium plots suitable for customized development. Investing in a shop here means capitalising on Rohtak's dynamic urban expansion and securing a valuable asset for years to come. Explore our verified listings to find commercial properties that meet your size budget and strategic location needs. This is the ideal moment to establish your presence in one of Rohtak's most promising commercial zones and watch your capital investment thrive with excellent returns."
     ],
     "buttons": [
-      { "label": "View Ground Floor Shops", "path": "/retail-shops" },
-      { "label": "Request Commercial Valuation", "path": "/contact-us" }
+      {
+        "label": "View Ground Floor Shops",
+        "path": "/retail-shops"
+      },
+      {
+        "label": "Request Commercial Valuation",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["/img/hero-shop1.jpg", "/img/hero-shop2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Property Sizes and Investment Opportunities in Sector 4 Rohtak",
@@ -52,12 +61,56 @@
       "Exploring these nearby commercial zones can provide context for the sustained growth and high demand experienced within Sector 4 itself. Investing here places you at the nexus of Rohtak's retail and professional services expansion guaranteeing long-term viability and strong tenant interest."
     ],
     "locations": [
-      "Sector 5 Commercial Market",
-      "HUDA Shopping Complex",
-      "Delhi Road Retail Hub",
-      "Maharshi Dayanand University Area",
-      "Railway Station Road Market",
-      "Model Town Commercial Zone"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to invest in a high-performing shop for sale in Sector 4 Rohtak Our expert commercial real estate consultants are here to guide you through every step of the investment process from selection to final registration.",
       "Fill out the form below to receive customized listings based on your budget and business requirements or to schedule an on-site visit to your preferred commercial properties."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

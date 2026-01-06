@@ -7,10 +7,19 @@
       "We showcase hand-picked listings featuring newly constructed and ready-to-move 2 BHK apartments located near essential infrastructure like the Noida Expressway. Our collection ensures you find a property with superior finishes, access to top-tier amenities, and excellent appreciation potential. Begin your journey to finding the perfect two-bedroom home that aligns perfectly with your budget and lifestyle requirements right here in the heart of Noida."
     ],
     "buttons": [
-      { "label": "Explore Available 2BHK Listings", "path": "/listings" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "Explore Available 2BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Essential Features Defining Modern Living in a 2BHK Flat in Sector 131 Noida",
@@ -19,12 +28,30 @@
       "From strategically designed floor plans that prevent wasted space to state-of-the-art security systems, owning a two-bedroom apartment here means embracing a truly modern existence. Review the defining characteristics that make these properties not just homes but valuable assets ready for immediate occupancy or rental income generation."
     ],
     "features": [
-      { "title": "Spacious Layout Design", "description": "Our featured 2BHK flats emphasize efficient and spacious floor plans where every square foot is optimized. You will enjoy well-ventilated rooms, naturally lit living areas, and intelligent flow between the kitchen, dining, and bedrooms, offering maximum comfort for families residing in Sector 131 Noida." },
-      { "title": "Strategic Connectivity", "description": "The location of Sector 131 provides unbeatable connectivity to key areas of Noida and Delhi NCR via the Noida Expressway. Residents benefit from minimal commute times to major corporate hubs, educational institutions, and entertainment centers, making the 2 BHK flat for sale highly desirable." },
-      { "title": "Modern Amenities Package", "description": "These residential complexes offer a comprehensive suite of modern amenities including swimming pools, fully equipped clubhouses, gymnasiums, and dedicated children’s play areas. This ensures a holistic lifestyle where recreational needs are met right within the boundaries of your new home community." },
-      { "title": "High-Level Security", "description": "Safety is paramount in Sector 131 Noida. Every project includes multi-tiered security measures such as 24/7 manned security checkpoints, CCTV surveillance across common areas, and secure access control, providing complete peace of mind to all residents of the 2BHK units." },
-      { "title": "Sustainable Green Spaces", "description": "The developments surrounding a 2BHK flat in Sector 131 often feature meticulously maintained landscaped gardens and dedicated green belts. These areas offer residents serene environments for relaxation, morning walks, and community engagement, promoting a healthier lifestyle amidst nature." },
-      { "title": "Investment Growth Potential", "description": "Investing in a 2BHK flat for sale in Sector 131 promises strong capital appreciation due to the rapidly developing infrastructure and planned city growth. This area is positioned for future value expansion, ensuring your property acts as a solid financial investment over the long term." }
+      {
+        "title": "Spacious Layout Design",
+        "description": "Our featured 2BHK flats emphasize efficient and spacious floor plans where every square foot is optimized. You will enjoy well-ventilated rooms, naturally lit living areas, and intelligent flow between the kitchen, dining, and bedrooms, offering maximum comfort for families residing in Sector 131 Noida."
+      },
+      {
+        "title": "Strategic Connectivity",
+        "description": "The location of Sector 131 provides unbeatable connectivity to key areas of Noida and Delhi NCR via the Noida Expressway. Residents benefit from minimal commute times to major corporate hubs, educational institutions, and entertainment centers, making the 2 BHK flat for sale highly desirable."
+      },
+      {
+        "title": "Modern Amenities Package",
+        "description": "These residential complexes offer a comprehensive suite of modern amenities including swimming pools, fully equipped clubhouses, gymnasiums, and dedicated children’s play areas. This ensures a holistic lifestyle where recreational needs are met right within the boundaries of your new home community."
+      },
+      {
+        "title": "High-Level Security",
+        "description": "Safety is paramount in Sector 131 Noida. Every project includes multi-tiered security measures such as 24/7 manned security checkpoints, CCTV surveillance across common areas, and secure access control, providing complete peace of mind to all residents of the 2BHK units."
+      },
+      {
+        "title": "Sustainable Green Spaces",
+        "description": "The developments surrounding a 2BHK flat in Sector 131 often feature meticulously maintained landscaped gardens and dedicated green belts. These areas offer residents serene environments for relaxation, morning walks, and community engagement, promoting a healthier lifestyle amidst nature."
+      },
+      {
+        "title": "Investment Growth Potential",
+        "description": "Investing in a 2BHK flat for sale in Sector 131 promises strong capital appreciation due to the rapidly developing infrastructure and planned city growth. This area is positioned for future value expansion, ensuring your property acts as a solid financial investment over the long term."
+      }
     ]
   },
   "locationsSection": {
@@ -34,14 +61,56 @@
       "Whether you need swift access to major business centers like Sector 135 or proximity to top-rated schools for your children, a 2BHK flat here serves as the ideal anchor. We outline the key locations and infrastructure points that make owning property here an intelligent choice, affirming the convenience offered by every residential project in this booming area."
     ],
     "locations": [
-      "Noida Expressway Access",
-      "Premium Educational Institutions",
-      "Healthcare Facilities Nearby",
-      "Commercial Hubs and Shopping Centers",
-      "Upcoming Metro Link Proximity",
-      "Greater Noida Link",
-      "Wipro and HCL Tech Hubs",
-      "Amity University Noida"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -51,30 +120,84 @@
       "The value offered by a 2BHK flat for sale in Sector 131 extends beyond just the walls of the apartment. It encompasses a thriving community, robust civic infrastructure, and a promise of high quality of life. Review these essential advantages that solidify Sector 131 as the ideal place to plant your roots or expand your real estate portfolio."
     ],
     "points": [
-      { "title": "High Rental Yield Potential", "description": "Due to its proximity to major IT parks and corporate offices, 2BHK flats in Sector 131 Noida command strong rental demand. This ensures investors benefit from consistent passive income, making it a highly liquid asset for those focused on yielding returns." },
-      { "title": "Ready Social Infrastructure", "description": "The sector boasts established social infrastructure including shopping complexes, multiplexes, banking facilities, and recreational zones. Everything you need for daily life is available just minutes away from your new 2BHK unit, eliminating the need for long commutes." },
-      { "title": "Trustworthy Developer Track Record", "description": "Properties in this area are generally developed by reputable builders known for adherence to RERA guidelines and timely project delivery. This reduces buyer risk and ensures the quality promised for your 2BHK flat for sale is delivered." },
-      { "title": "Affordable Entry Point", "description": "A 2BHK flat offers the most balanced price point for first-time homebuyers entering the premium Noida real estate market. It provides modern amenities without the high cost associated with larger 3BHK or 4BHK configurations in the same locale." },
-      { "title": "Superior Water and Power Backup", "description": "Reliable essential services are standard in Sector 131 residential projects. Residents of 2BHK apartments benefit from 24/7 power backup and ample, uninterrupted water supply, ensuring daily life runs smoothly without common urban inconveniences." },
-      { "title": "Vastu Compliant Options", "description": "Many of the available 2BHK units include Vastu-compliant layouts and directional orientations, catering to buyers who prioritize traditional architectural harmony and positive energy flow within their residential space." },
-      { "title": "Low Maintenance Costs", "description": "Being newer constructions, 2BHK flats in Sector 131 typically require minimal maintenance initially. Furthermore, the residential societies often have efficient maintenance staff, reducing the long-term operational costs for the homeowner." },
-      { "title": "Future Infrastructure Uplift", "description": "The surrounding areas of Sector 131 are earmarked for further infrastructural improvements including road expansion and transportation projects. These planned developments will continue to boost the property values of 2BHK flats significantly in the coming years." }
+      {
+        "title": "High Rental Yield Potential",
+        "description": "Due to its proximity to major IT parks and corporate offices, 2BHK flats in Sector 131 Noida command strong rental demand. This ensures investors benefit from consistent passive income, making it a highly liquid asset for those focused on yielding returns."
+      },
+      {
+        "title": "Ready Social Infrastructure",
+        "description": "The sector boasts established social infrastructure including shopping complexes, multiplexes, banking facilities, and recreational zones. Everything you need for daily life is available just minutes away from your new 2BHK unit, eliminating the need for long commutes."
+      },
+      {
+        "title": "Trustworthy Developer Track Record",
+        "description": "Properties in this area are generally developed by reputable builders known for adherence to RERA guidelines and timely project delivery. This reduces buyer risk and ensures the quality promised for your 2BHK flat for sale is delivered."
+      },
+      {
+        "title": "Affordable Entry Point",
+        "description": "A 2BHK flat offers the most balanced price point for first-time homebuyers entering the premium Noida real estate market. It provides modern amenities without the high cost associated with larger 3BHK or 4BHK configurations in the same locale."
+      },
+      {
+        "title": "Superior Water and Power Backup",
+        "description": "Reliable essential services are standard in Sector 131 residential projects. Residents of 2BHK apartments benefit from 24/7 power backup and ample, uninterrupted water supply, ensuring daily life runs smoothly without common urban inconveniences."
+      },
+      {
+        "title": "Vastu Compliant Options",
+        "description": "Many of the available 2BHK units include Vastu-compliant layouts and directional orientations, catering to buyers who prioritize traditional architectural harmony and positive energy flow within their residential space."
+      },
+      {
+        "title": "Low Maintenance Costs",
+        "description": "Being newer constructions, 2BHK flats in Sector 131 typically require minimal maintenance initially. Furthermore, the residential societies often have efficient maintenance staff, reducing the long-term operational costs for the homeowner."
+      },
+      {
+        "title": "Future Infrastructure Uplift",
+        "description": "The surrounding areas of Sector 131 are earmarked for further infrastructural improvements including road expansion and transportation projects. These planned developments will continue to boost the property values of 2BHK flats significantly in the coming years."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Buying a 2BHK Flat For Sale in Sector 131 Noida",
     "description": "Get clear, comprehensive answers regarding purchasing a two-bedroom apartment, financing options, and the general market outlook in Sector 131 Noida.",
     "faqs": [
-      { "question": "What is the typical price range for a quality 2BHK flat for sale in Sector 131 Noida", "answer": "The pricing for a 2BHK flat in Sector 131 Noida is influenced by the specific project, size, and amenities offered. Generally, you can expect prices to start within a competitive range suitable for mid-segment buyers. Newer or premium projects closer to the Noida Expressway might command higher rates, while older, established societies may offer more budget-friendly options. We recommend consulting our current listings page or speaking to an expert for precise, real-time pricing tailored to your specific requirement." },
-      { "question": "Are the 2BHK projects in Sector 131 RERA registered and legally clear", "answer": "Yes, all legitimate and reputed residential projects offering a 2BHK flat for sale in Sector 131 Noida are mandated to be RERA registered. This registration ensures transparency and legal compliance regarding project timelines, construction quality, and documentation. We only list properties that have clear titles and the necessary legal approvals, protecting your investment throughout the buying process." },
-      { "question": "What type of capital appreciation can I expect from a 2BHK flat in this sector", "answer": "Sector 131 is situated in a high-growth corridor of Noida, meaning the appreciation potential is robust. Due to increasing infrastructure development, especially surrounding connectivity and commercial activity, property values here are projected to climb steadily over the next five to seven years. A 2BHK unit offers an excellent entry point to capitalize on this predicted market growth." },
-      { "question": "What are the common carpet area sizes available for 2BHK apartments in Sector 131", "answer": "The carpet area for 2BHK apartments varies significantly across different projects, though most builders maintain efficient designs. You can typically find 2BHK units ranging from 650 sq ft to 1100 sq ft built-up area. It is crucial to check the specific RERA carpet area mentioned in the project documents to accurately assess the usable internal space of the flat." },
-      { "question": "Is bank loan facility easily available for purchasing a 2BHK flat in Sector 131 Noida", "answer": "Absolutely. Major nationalized and private sector banks offer easy home loan facilities for the purchase of a 2BHK flat for sale in Sector 131, provided the project is RERA approved and all necessary buyer documents are in order. Our team can connect you with trusted financial advisors to streamline your loan application and disbursement process quickly." },
-      { "question": "How far is Sector 131 from the nearest metro station or major transportation hub", "answer": "While Sector 131 enjoys superb road connectivity via the Noida Expressway, the operational metro stations like Sector 137 or Botanical Garden are within a manageable driving distance. Furthermore, the proposed expansion of the metro network in this area is expected to significantly improve public transit accessibility in the near future, adding considerable value to your 2BHK property." },
-      { "question": "Are there ready-to-move 2BHK options available or only under-construction projects in Sector 131", "answer": "Sector 131 offers a healthy mix of both ready-to-move and under-construction inventory for 2BHK flats. Ready-to-move units allow for immediate occupancy and save you from construction delays, while under-construction properties often come with flexible payment plans and lower initial pricing. We have listings covering both categories to suit your immediate needs." },
-      { "question": "What kind of maintenance charges should I budget for a 2BHK apartment here", "answer": "Maintenance charges typically cover common area electricity, security services, gym access, and upkeep of community facilities. For a standard 2BHK flat in Sector 131, you should generally budget between Rs 3,000 to Rs 5,000 per month, though this figure is subject to the size of the complex and the extent of the amenities provided." },
-      { "question": "Is Sector 131 a good area for families with young children considering schools and hospitals", "answer": "Yes, Sector 131 and its immediate vicinity are highly regarded for families. The area is close to several reputed international schools, high-quality healthcare facilities, and child-friendly recreational parks. This established ecosystem makes finding a 2BHK flat for sale here an excellent choice for those prioritizing education and wellness." },
-      { "question": "Can I arrange a virtual site visit for a 2BHK flat in Sector 131 if I am an NRI investor", "answer": "We specialize in assisting NRI clients and offer comprehensive virtual property tours and detailed video walkthroughs for most 2BHK flat listings in Sector 131 Noida. We can also schedule live video calls with our agents to answer specific queries about the layout, construction status, and legal documentation without the need for you to travel." }
+      {
+        "question": "What is the typical price range for a quality 2BHK flat for sale in Sector 131 Noida",
+        "answer": "The pricing for a 2BHK flat in Sector 131 Noida is influenced by the specific project, size, and amenities offered. Generally, you can expect prices to start within a competitive range suitable for mid-segment buyers. Newer or premium projects closer to the Noida Expressway might command higher rates, while older, established societies may offer more budget-friendly options. We recommend consulting our current listings page or speaking to an expert for precise, real-time pricing tailored to your specific requirement."
+      },
+      {
+        "question": "Are the 2BHK projects in Sector 131 RERA registered and legally clear",
+        "answer": "Yes, all legitimate and reputed residential projects offering a 2BHK flat for sale in Sector 131 Noida are mandated to be RERA registered. This registration ensures transparency and legal compliance regarding project timelines, construction quality, and documentation. We only list properties that have clear titles and the necessary legal approvals, protecting your investment throughout the buying process."
+      },
+      {
+        "question": "What type of capital appreciation can I expect from a 2BHK flat in this sector",
+        "answer": "Sector 131 is situated in a high-growth corridor of Noida, meaning the appreciation potential is robust. Due to increasing infrastructure development, especially surrounding connectivity and commercial activity, property values here are projected to climb steadily over the next five to seven years. A 2BHK unit offers an excellent entry point to capitalize on this predicted market growth."
+      },
+      {
+        "question": "What are the common carpet area sizes available for 2BHK apartments in Sector 131",
+        "answer": "The carpet area for 2BHK apartments varies significantly across different projects, though most builders maintain efficient designs. You can typically find 2BHK units ranging from 650 sq ft to 1100 sq ft built-up area. It is crucial to check the specific RERA carpet area mentioned in the project documents to accurately assess the usable internal space of the flat."
+      },
+      {
+        "question": "Is bank loan facility easily available for purchasing a 2BHK flat in Sector 131 Noida",
+        "answer": "Absolutely. Major nationalized and private sector banks offer easy home loan facilities for the purchase of a 2BHK flat for sale in Sector 131, provided the project is RERA approved and all necessary buyer documents are in order. Our team can connect you with trusted financial advisors to streamline your loan application and disbursement process quickly."
+      },
+      {
+        "question": "How far is Sector 131 from the nearest metro station or major transportation hub",
+        "answer": "While Sector 131 enjoys superb road connectivity via the Noida Expressway, the operational metro stations like Sector 137 or Botanical Garden are within a manageable driving distance. Furthermore, the proposed expansion of the metro network in this area is expected to significantly improve public transit accessibility in the near future, adding considerable value to your 2BHK property."
+      },
+      {
+        "question": "Are there ready-to-move 2BHK options available or only under-construction projects in Sector 131",
+        "answer": "Sector 131 offers a healthy mix of both ready-to-move and under-construction inventory for 2BHK flats. Ready-to-move units allow for immediate occupancy and save you from construction delays, while under-construction properties often come with flexible payment plans and lower initial pricing. We have listings covering both categories to suit your immediate needs."
+      },
+      {
+        "question": "What kind of maintenance charges should I budget for a 2BHK apartment here",
+        "answer": "Maintenance charges typically cover common area electricity, security services, gym access, and upkeep of community facilities. For a standard 2BHK flat in Sector 131, you should generally budget between Rs 3,000 to Rs 5,000 per month, though this figure is subject to the size of the complex and the extent of the amenities provided."
+      },
+      {
+        "question": "Is Sector 131 a good area for families with young children considering schools and hospitals",
+        "answer": "Yes, Sector 131 and its immediate vicinity are highly regarded for families. The area is close to several reputed international schools, high-quality healthcare facilities, and child-friendly recreational parks. This established ecosystem makes finding a 2BHK flat for sale here an excellent choice for those prioritizing education and wellness."
+      },
+      {
+        "question": "Can I arrange a virtual site visit for a 2BHK flat in Sector 131 if I am an NRI investor",
+        "answer": "We specialize in assisting NRI clients and offer comprehensive virtual property tours and detailed video walkthroughs for most 2BHK flat listings in Sector 131 Noida. We can also schedule live video calls with our agents to answer specific queries about the layout, construction status, and legal documentation without the need for you to travel."
+      }
     ]
   },
   "contactSection": {
@@ -83,6 +206,11 @@
       "Ready to take the next step towards owning your dream home or investment property in one of Noida’s most sought-after locations. Our expert team possesses deep market knowledge of Sector 131 and can guide you through every stage of the buying process, from initial selection to final registration.",
       "Do not miss the opportunity to secure a prime 2BHK flat for sale in Sector 131 Noida. Fill out the form below and receive curated listings, detailed floor plans, and personalized financial consultation absolutely free of charge."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

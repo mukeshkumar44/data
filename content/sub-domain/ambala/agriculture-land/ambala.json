@@ -1,6 +1,5 @@
 {
   "domain": "",
-
   "hero": {
     "title": "Fertile and Well Connected Agriculture Land for Sale in Ambala",
     "description": [
@@ -8,12 +7,20 @@
       "Agriculture land for sale in Ambala is available across multiple rural belts and villages, offering flexibility in land size and usage. The region supports a variety of crops thanks to favorable soil conditions and water availability. With stable land appreciation, consistent demand from farmers and investors, and increasing interest in agri-based investments, Ambala continues to be a trusted destination for purchasing agricultural land with both immediate utility and future value."
     ],
     "buttons": [
-      { "label": "View Agriculture Land", "path": "/" },
-      { "label": "Get Expert Guidance", "path": "/" }
+      {
+        "label": "View Agriculture Land",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Guidance",
+        "path": "/"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
-
   "featuresSection": {
     "heading": "Land Size Based Agriculture Plot Options Available in Ambala",
     "description": [
@@ -47,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Agriculture Land Options Across Ambala Region",
     "description": [
@@ -55,17 +61,58 @@
       "These location tiles help users easily navigate multiple agriculture land and investment options available in Ambala."
     ],
     "locations": [
-      { "title": "Agriculture Land for Sale in Ambala", "path": "/", "icon": "Map" },
-      { "title": "Farmland for Sale in Ambala", "path": "/", "icon": "Landmark" },
-      { "title": "Agricultural Plots Near Highway Ambala", "path": "/", "icon": "MapPin" },
-      { "title": "Investment Land in Ambala", "path": "/", "icon": "TrendingUp" },
-      { "title": "Fertile Farming Land in Ambala", "path": "/", "icon": "Leaf" },
-      { "title": "Rural Land for Sale in Ambala", "path": "/", "icon": "Layers" },
-      { "title": "Verified Agriculture Land Listings", "path": "/", "icon": "CheckCircle" },
-      { "title": "Affordable Agriculture Land in Haryana", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Deal Acres Is the Trusted Platform for Agriculture Land Buyers",
     "description": [
@@ -107,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Agriculture Land for Sale in Ambala",
     "description": "Clear and detailed answers to help buyers make informed agricultural land purchase decisions.",
@@ -154,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get in Touch for Agriculture Land for Sale in Ambala",
     "description": [
       "Finding the right agriculture land for sale in Ambala becomes easy with verified listings and expert assistance.",
       "Share your details to receive suitable land options and professional support from trusted land advisors."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

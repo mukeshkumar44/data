@@ -7,10 +7,19 @@
       "Investing in a house in Defence Colony Ambala is more than just a purchase it is an investment in stability and growth. This locality boasts exceptional connectivity to the Ambala Cantonment area the city center and major highways making daily commutes effortless. Our expert real estate team specializes in Defence Colony properties ensuring you receive personalized guidance throughout the selection and transaction process. Explore our current listings and take the first step toward owning a prime piece of real estate in one of Ambala’s most sought-after neighborhoods."
     ],
     "buttons": [
-      { "label": "View Exclusive House Listings", "path": "/listings" },
-      { "label": "Schedule a Property Viewing", "path": "/contact" }
+      {
+        "label": "View Exclusive House Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Property Viewing",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Premium House Configurations and Plot Sizes Available in Defence Colony Ambala",
@@ -52,14 +61,56 @@
       "The colony benefits from swift access to vital transportation nodes top educational institutions and specialized healthcare services. This strategic placement ensures residents are never far from the city's necessities yet remain within the peaceful confines of a dedicated residential enclave. We help buyers analyze how connectivity to these neighboring areas impacts their daily life and the long-term appreciation of their property value."
     ],
     "locations": [
-      "Ambala Cantonment",
-      "Model Town Ambala",
-      "Civil Lines Area",
-      "Sadar Bazaar Road",
-      "Sector 9 Ambala",
-      "NH 44 Connectivity",
-      "Ambala City Main Hub",
-      "Railway Station Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure your dream home in Ambala’s most prestigious neighborhood We offer personalized property tours and confidential consultations tailored to your specific requirements. Contact us now to discuss our exclusive off-market listings and receive expert advice on investment opportunities.",
       "Let our specialized real estate team guide you through the process of finding the perfect House For Sale in Defence Colony Ambala ensuring a seamless and satisfactory experience from inquiry to closing."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,10 +7,19 @@
       "Our carefully curated listings ensure you find the perfect shop to suit your business needs. With flexible rental options, secure locations, and competitive pricing, Jandli Ambala is the ideal destination for entrepreneurs and investors alike."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/shops" },
-      { "label": "Contact Us Now", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/shops"
+      },
+      {
+        "label": "Contact Us Now",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Prime Commercial Spaces in Jandli Ambala",
@@ -19,12 +28,30 @@
       "Whether you need a small retail space or a larger commercial unit, Jandli Ambala offers flexible options to help your business thrive."
     ],
     "features": [
-      { "title": "4 Marla Plot", "description": "Ideal for small businesses, offering compact and affordable spaces in prime locations." },
-      { "title": "6 Marla Plot", "description": "Perfect for medium-sized retail stores or offices with ample space and modern facilities." },
-      { "title": "8 Marla Plot", "description": "Spacious shops suitable for larger businesses, located in high-traffic areas." },
-      { "title": "10 Marla Plot", "description": "Premium commercial spaces for established businesses with excellent visibility and accessibility." },
-      { "title": "12 Marla Plot", "description": "Luxury shops designed for high-end retail stores or corporate offices." },
-      { "title": "14 Marla Plot", "description": "Exclusive commercial units for businesses requiring extensive space and premium amenities." }
+      {
+        "title": "4 Marla Plot",
+        "description": "Ideal for small businesses, offering compact and affordable spaces in prime locations."
+      },
+      {
+        "title": "6 Marla Plot",
+        "description": "Perfect for medium-sized retail stores or offices with ample space and modern facilities."
+      },
+      {
+        "title": "8 Marla Plot",
+        "description": "Spacious shops suitable for larger businesses, located in high-traffic areas."
+      },
+      {
+        "title": "10 Marla Plot",
+        "description": "Premium commercial spaces for established businesses with excellent visibility and accessibility."
+      },
+      {
+        "title": "12 Marla Plot",
+        "description": "Luxury shops designed for high-end retail stores or corporate offices."
+      },
+      {
+        "title": "14 Marla Plot",
+        "description": "Exclusive commercial units for businesses requiring extensive space and premium amenities."
+      }
     ]
   },
   "locationsSection": {
@@ -34,16 +61,56 @@
       "These areas are well-connected, bustling with activity, and provide a supportive environment for businesses of all types."
     ],
     "locations": [
-      "Ambala Cantt",
-      "Ambala City",
-      "Sector 7 Ambala",
-      "Sector 8 Ambala",
-      "Sector 9 Ambala",
-      "Sector 10 Ambala",
-      "Patel Nagar Ambala",
-      "Railway Road Ambala",
-      "Jagadhari Road Ambala",
-      "Naraingarh Road Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -53,30 +120,84 @@
       "Here are some compelling reasons why Jandli Ambala is the perfect choice for your commercial space needs."
     ],
     "points": [
-      { "title": "Prime Location", "description": "Jandli Ambala is strategically located with excellent connectivity to major roads, markets, and transportation hubs, ensuring high visibility and accessibility for your business." },
-      { "title": "Modern Amenities", "description": "Our commercial spaces come equipped with modern amenities such as parking facilities, security systems, and reliable utilities to support your business operations." },
-      { "title": "Flexible Rental Options", "description": "We offer flexible rental terms tailored to meet your business needs, allowing you to focus on growth without financial stress." },
-      { "title": "Thriving Commercial Environment", "description": "Jandli Ambala is a bustling commercial hub with a diverse range of businesses, creating opportunities for collaboration and customer engagement." },
-      { "title": "Competitive Pricing", "description": "Our rental rates are competitive, ensuring you get the best value for your investment in a prime commercial location." },
-      { "title": "Secure and Safe", "description": "All our commercial spaces are located in secure areas with 24/7 surveillance, providing peace of mind for you and your customers." },
-      { "title": "Customizable Spaces", "description": "Our shops can be tailored to suit your specific business requirements, offering flexibility in design and layout." },
-      { "title": "Expert Support", "description": "Our team of real estate professionals provides expert guidance and support throughout the rental process, ensuring a seamless experience." }
+      {
+        "title": "Prime Location",
+        "description": "Jandli Ambala is strategically located with excellent connectivity to major roads, markets, and transportation hubs, ensuring high visibility and accessibility for your business."
+      },
+      {
+        "title": "Modern Amenities",
+        "description": "Our commercial spaces come equipped with modern amenities such as parking facilities, security systems, and reliable utilities to support your business operations."
+      },
+      {
+        "title": "Flexible Rental Options",
+        "description": "We offer flexible rental terms tailored to meet your business needs, allowing you to focus on growth without financial stress."
+      },
+      {
+        "title": "Thriving Commercial Environment",
+        "description": "Jandli Ambala is a bustling commercial hub with a diverse range of businesses, creating opportunities for collaboration and customer engagement."
+      },
+      {
+        "title": "Competitive Pricing",
+        "description": "Our rental rates are competitive, ensuring you get the best value for your investment in a prime commercial location."
+      },
+      {
+        "title": "Secure and Safe",
+        "description": "All our commercial spaces are located in secure areas with 24/7 surveillance, providing peace of mind for you and your customers."
+      },
+      {
+        "title": "Customizable Spaces",
+        "description": "Our shops can be tailored to suit your specific business requirements, offering flexibility in design and layout."
+      },
+      {
+        "title": "Expert Support",
+        "description": "Our team of real estate professionals provides expert guidance and support throughout the rental process, ensuring a seamless experience."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shop For Rent in Jandli Ambala",
     "description": "Find answers to common questions about renting commercial spaces in Jandli Ambala. Our FAQs provide detailed information to help you make informed decisions.",
     "faqs": [
-      { "question": "What types of shops are available for rent in Jandli Ambala", "answer": "We offer a variety of shops ranging from small retail spaces to larger commercial units, catering to businesses of all sizes." },
-      { "question": "Are the shops in Jandli Ambala equipped with modern amenities", "answer": "Yes, our shops come with modern amenities such as parking, security systems, and reliable utilities to support your business needs." },
-      { "question": "What is the rental process for shops in Jandli Ambala", "answer": "The rental process is straightforward. Contact us to view available shops, select your preferred space, and complete the necessary paperwork to finalize the rental agreement." },
-      { "question": "Can I customize the shop space to suit my business requirements", "answer": "Absolutely. Our shops can be customized to meet your specific business needs, offering flexibility in design and layout." },
-      { "question": "Is Jandli Ambala a safe location for businesses", "answer": "Yes, Jandli Ambala is a secure area with 24/7 surveillance, ensuring the safety of your business and customers." },
-      { "question": "What is the average rental cost for shops in Jandli Ambala", "answer": "Rental costs vary depending on the size and location of the shop. Contact us for detailed pricing information tailored to your requirements." },
-      { "question": "Are there any additional charges apart from the rent", "answer": "Additional charges may include maintenance fees or utility costs, depending on the terms of your rental agreement. We provide transparent pricing to avoid surprises." },
-      { "question": "How accessible is Jandli Ambala for customers and suppliers", "answer": "Jandli Ambala is well-connected to major roads and transportation hubs, ensuring easy access for customers and suppliers." },
-      { "question": "Can I rent a shop for a short-term period", "answer": "Yes, we offer flexible rental terms, including short-term options, to accommodate your business needs." },
-      { "question": "What support is available for businesses renting shops in Jandli Ambala", "answer": "Our team provides expert support throughout the rental process, including guidance on legalities, customization, and business setup." }
+      {
+        "question": "What types of shops are available for rent in Jandli Ambala",
+        "answer": "We offer a variety of shops ranging from small retail spaces to larger commercial units, catering to businesses of all sizes."
+      },
+      {
+        "question": "Are the shops in Jandli Ambala equipped with modern amenities",
+        "answer": "Yes, our shops come with modern amenities such as parking, security systems, and reliable utilities to support your business needs."
+      },
+      {
+        "question": "What is the rental process for shops in Jandli Ambala",
+        "answer": "The rental process is straightforward. Contact us to view available shops, select your preferred space, and complete the necessary paperwork to finalize the rental agreement."
+      },
+      {
+        "question": "Can I customize the shop space to suit my business requirements",
+        "answer": "Absolutely. Our shops can be customized to meet your specific business needs, offering flexibility in design and layout."
+      },
+      {
+        "question": "Is Jandli Ambala a safe location for businesses",
+        "answer": "Yes, Jandli Ambala is a secure area with 24/7 surveillance, ensuring the safety of your business and customers."
+      },
+      {
+        "question": "What is the average rental cost for shops in Jandli Ambala",
+        "answer": "Rental costs vary depending on the size and location of the shop. Contact us for detailed pricing information tailored to your requirements."
+      },
+      {
+        "question": "Are there any additional charges apart from the rent",
+        "answer": "Additional charges may include maintenance fees or utility costs, depending on the terms of your rental agreement. We provide transparent pricing to avoid surprises."
+      },
+      {
+        "question": "How accessible is Jandli Ambala for customers and suppliers",
+        "answer": "Jandli Ambala is well-connected to major roads and transportation hubs, ensuring easy access for customers and suppliers."
+      },
+      {
+        "question": "Can I rent a shop for a short-term period",
+        "answer": "Yes, we offer flexible rental terms, including short-term options, to accommodate your business needs."
+      },
+      {
+        "question": "What support is available for businesses renting shops in Jandli Ambala",
+        "answer": "Our team provides expert support throughout the rental process, including guidance on legalities, customization, and business setup."
+      }
     ]
   },
   "contactSection": {
@@ -85,6 +206,11 @@
       "Ready to find your ideal Shop For Rent in Jandli Ambala? Contact us today to explore our listings and get expert assistance tailored to your business needs.",
       "Our team is here to help you every step of the way, ensuring a seamless rental experience."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

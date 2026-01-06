@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero_image_flat_1.jpg",
-      "hero_image_sector_57.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,16 +61,56 @@
       "The area is remarkably self-sufficient, featuring thriving commercial establishments, numerous renowned educational institutions, and multi-specialty hospitals all within a short convenient radius. This essential proximity to high-quality amenities is a defining and attractive characteristic of Sector 57, ensuring residents do not have to travel far for essential services, daily necessities, or leisure activities. Explore the critical neighboring areas and landmarks that firmly place Sector 57 at the forefront of desirable residential locations in Gurugram."
     ],
     "locations": [
-      "Sector 56",
-      "Sector 58",
-      "BPTP Parklands",
-      "Sainik Colony",
-      "National Highway 44 (NH 44)",
-      "RPS City",
-      "Asian Hospital",
-      "Shiv Nadar School",
-      "Pali Road",
-      "Gurugram Metro Stations"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

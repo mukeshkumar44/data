@@ -7,10 +7,19 @@
       "We offer fully vetted and strategically located residential plots in various sizes to meet every requirement, from small family homes to large independent villas. Investing in Alipur Village Ambala means choosing tranquility, assured appreciation, and clear legal documentation. Explore our listings and take the first step toward owning a piece of this rapidly developing area. Our dedicated team is ready to guide you through the process, ensuring a smooth and hassle-free transaction from selection to handover."
     ],
     "buttons": [
-      { "label": "View Available Plots", "path": "/available-plots" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View Available Plots",
+        "path": "/available-plots"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Understanding Available Plot Sizes and Investment Potential in Alipur Village Ambala",
@@ -52,12 +61,56 @@
       "The location ensures residents enjoy the peace of village life without being disconnected from the necessary urban infrastructure, ensuring quick travel times to Ambala Cantt and other critical areas."
     ],
     "locations": [
-      "Ambala Cantt Railway Station",
-      "Ambala City Center",
-      "National Highway 44 (NH-44)",
-      "Prominent Educational Institutions",
-      "Major Hospitals and Healthcare Centers",
-      "Shopping Complexes and Markets nearby Alipur"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

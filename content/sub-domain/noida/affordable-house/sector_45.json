@@ -7,10 +7,19 @@
       "Sector 45 provides immediate access to major highways and is surrounded by essential infrastructure including top schools hospitals and bustling commercial hubs. Explore a diverse range of properties from stylish compact apartments to independent builder floors designed to suit modern family needs. Start your journey today and let us help you unlock the door to truly affordable housing in this sought-after region of Noida."
     ],
     "buttons": [
-      { "label": "Explore Affordable Listings", "path": "/listings" },
-      { "label": "Request a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Affordable Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["/img/hero1.jpg", "/img/hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Finding the Perfect Affordable House Options in Sector 45 Noida That Fit Your Budget",
@@ -52,14 +61,56 @@
       "The metro link is extremely close and the road networks are robust simplifying travel across Noida and towards Delhi and Greater Noida. Investing in an affordable house here means investing in convenience and saving precious time on daily commutes which is a non-negotiable factor for modern working professionals."
     ],
     "locations": [
-      "Noida Sector 46 Residential Area",
-      "Botanical Garden Metro Station",
-      "Sector 18 Noida Commercial Hub",
-      "DND Flyway Access Point",
-      "Amity University Campus",
-      "Atta Market Shopping Area",
-      "Greater Noida Expressway Link",
-      "Widespread Public Transport Network"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning an affordable house in the prime location of Sector 45 Noida. Our experts are here to guide you through every stage from initial selection to final paperwork.",
       "Reach out now for personalized property recommendations customized financial planning and exclusive access to the best affordable listings that match your criteria."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

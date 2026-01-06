@@ -7,10 +7,19 @@
       "Explore diverse options to buy a shop in Sector 142 Noida ranging from compact retail spaces perfect for start-ups to expansive showrooms suitable for large format retail. This locality is known for its modern infrastructure, robust commercial planning, and proximity to major corporate hubs ensuring consistent demand and superior rental yields. Start your search today to capitalize on this premium real estate opportunity near Delhi NCR."
     ],
     "buttons": [
-      { "label": "Explore Available Shops", "path": "/listings" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "Explore Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero-shop-142-1.jpg", "hero-shop-142-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Spaces Available to Buy a Shop in Sector 142 Noida",
@@ -52,12 +61,56 @@
       "This robust infrastructure supports significant residential sectors nearby including Sector 137 Sector 143 and Sector 93 providing a vast and affluent consumer base right next door. Investing here means tapping into one of the fastest-growing residential and corporate corridors making your decision to buy a shop in Sector 142 Noida a future-proof choice."
     ],
     "locations": [
-      "Noida Expressway Frontage",
-      "Sector 142 Metro Station Access",
-      "Proximity to Corporate Hubs Sector 135",
-      "Ease of Access to Greater Noida",
-      "Catchment Area of Sector 137 and 143",
-      "Direct Link to FNG Expressway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to invest in the flourishing commercial market of Sector 142 Noida We offer personalized consultation to help you navigate available inventory pricing structures and projected returns.",
       "Get exclusive access to the best shops for sale in Sector 142 before they hit the open market. Fill out the form below to receive a detailed investment prospectus tailored to your financial goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

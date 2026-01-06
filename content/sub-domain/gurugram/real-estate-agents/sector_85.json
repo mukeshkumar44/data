@@ -7,10 +7,19 @@
       "Stop wasting time searching through endless listings. Our experienced Real Estate Agents in sector 85 specialize in identifying opportunities that match your specific requirements, from luxurious high-rise apartments to well-located residential plots. We handle all negotiations, paperwork, and legal due diligence, guaranteeing a smooth and transparent transaction process. Trust our professionalism to maximize your investment returns and secure your ideal property in Sector 85 Gurugram."
     ],
     "buttons": [
-      { "label": "Find My Dream Home", "path": "/search" },
-      { "label": "Request a Free Valuation", "path": "/valuation" }
+      {
+        "label": "Find My Dream Home",
+        "path": "/search"
+      },
+      {
+        "label": "Request a Free Valuation",
+        "path": "/valuation"
+      }
     ],
-    "images": ["hero_sector85_skyline.jpg", "agent_consultation.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Residential Plot Investment Opportunities Guided by Expert Agents in Sector 85",
@@ -51,7 +60,58 @@
       "Sector 85 serves as a strategic gateway to the high-growth corridor of Greater Gurugram (Neharpar). Our expertise extends beyond the immediate boundaries of Sector 85, covering all adjacent residential and commercial zones that influence local property dynamics and valuations. We provide holistic solutions whether you are looking for an apartment, plot, or commercial space.",
       "The connectivity Sector 85 offers to neighboring sectors is a key factor in its appeal. Our Real Estate Agents in sector 85 specialize in cross-sector comparison, helping you decide if an investment in Sector 81 offers better returns, or if the amenities in Sector 86 better suit your family's lifestyle. We ensure you capitalize on the best opportunities within the entire Greater Gurugram region."
     ],
-    "locations": ["Sector 81", "Sector 82", "Sector 83", "Sector 84", "Sector 86", "Neharpar", "Greater Gurugram", "RPS City", "Omaxe Heights", "Puri Pranayam"]
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Why Our Real Estate Agents in Sector 85 Offer Unmatched Expertise and Client Commitment",
@@ -146,6 +206,11 @@
       "Ready to make your move in Sector 85 Whether you are seeking a lucrative investment or searching for your forever home, our dedicated team is here to assist you. Contact us now to schedule a personal consultation where we can discuss your unique property requirements and share exclusive listings not available anywhere else.",
       "We promise timely, professional, and confidential service tailored specifically to the Sector 85 market dynamics. Fill out the form below or call us directly to speak with one of the leading Real Estate Agents in sector 85 and start your successful property journey right away."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

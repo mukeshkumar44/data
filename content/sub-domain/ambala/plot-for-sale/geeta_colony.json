@@ -7,10 +7,19 @@
       "We offer a curated selection of freehold plots ranging in size to suit all construction needs whether you are planning a small family house or a large multi-story residence. Investing in a residential plot here ensures long-term capital appreciation due to the steady development and rising demand in this thriving neighborhood. Start your journey toward property ownership with us and explore the best available land options."
     ],
     "buttons": [
-      { "label": "View Available Plots", "path": "/available-plots" },
-      { "label": "Get Free Consultation", "path": "/contact-us" }
+      {
+        "label": "View Available Plots",
+        "path": "/available-plots"
+      },
+      {
+        "label": "Get Free Consultation",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["/images/hero-plot-geeta-colony.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Plot Sizes and Investment Potential for Land in Geeta Colony",
@@ -52,14 +61,56 @@
       "Areas closer to main arteries offer immediate access and higher potential for commercial value while plots nestled in quieter, internal lanes provide peace and residential tranquility. We specialize in identifying plots that are not only legally clear but also strategically positioned for maximum appreciation. We cover plots adjacent to local markets, areas near metro connectivity for ease of commute, and quiet zones near parks for enhanced living quality. Our portfolio ensures you can choose a location that perfectly aligns with your specific lifestyle needs and future development plans. Explore these high-demand zones today and find a freehold property that promises both security and substantial returns on investment."
     ],
     "locations": [
-      "Plots near Geeta Colony Metro Station",
-      "Freehold Plots near Pushta Road",
-      "Residential Land near Shamshan Ghat Road",
-      "Available Plots near Rajiv Gandhi Market",
-      "Prime Properties along Geeta Colony Main Road",
-      "Plots near Patparganj Flyover Exit",
-      "Investment Land near Yamuna Bank",
-      "New Developments in Geeta Colony Extension"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to invest in the perfect plot for sale in Geeta Colony Your dream property awaits. Contact our expert real estate team today to schedule a site visit or receive personalized investment advice tailored to your specific financial and construction requirements.",
       "We offer confidential consultations to discuss available inventory, pricing forecasts, and legal due diligence processes. Whether you are a first-time buyer or a seasoned investor, our dedicated professionals are here to provide the insights you need to make the best property decision. Reach out now and take the first step toward securing your future in one of the most promising residential areas of the city. Let us help you find the ideal piece of land for your future home construction."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

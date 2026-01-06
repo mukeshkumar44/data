@@ -7,10 +7,19 @@
       "Finding the right Real Estate Agents in Sector 47 means accessing off-market listings, obtaining accurate valuations, and simplifying complex legal processes. Stop wasting time with generalist brokers. Leverage the deep neighborhood knowledge and negotiation skills of agents dedicated to delivering exceptional results in Sector 47. Start your search now and unlock the full potential of your property investment in Gurugram’s thriving residential corridor."
     ],
     "buttons": [
-      { "label": "Find Your Agent Now", "path": "/agents" },
-      { "label": "Request a Free Valuation", "path": "/valuation" }
+      {
+        "label": "Find Your Agent Now",
+        "path": "/agents"
+      },
+      {
+        "label": "Request a Free Valuation",
+        "path": "/valuation"
+      }
     ],
-    "images": ["hero_sector47_agents.jpg", "map_sector47.png"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Popular Property Investment Opportunities Guided by Expert Agents in Sector 47 Gurugram",
@@ -52,14 +61,56 @@
       "The strategic location near Sohna Road and the Golf Course Extension Road makes Sector 47 crucial for professionals working across Gurugram. Trust our agents to leverage this geographical advantage ensuring you get the best price whether you are buying, selling, or leasing property in this interconnected region."
     ],
     "locations": [
-      "Sector 46 Gurugram",
-      "Sector 48 Gurugram",
-      "Sohna Road",
-      "Subhash Chowk",
-      "Golf Course Extension Road",
-      "Sector 49 Gurugram",
-      "South City 2",
-      "Medanta Hospital Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step in your property journey in Sector 47 Gurugram. Fill out the form below to be instantly connected with a top-tier real estate agent who understands your needs and the local market intimately.",
       "Receive personalized property recommendations, schedule viewings, or request a detailed valuation report. Our service is designed to make your experience seamless, profitable, and stress-free."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

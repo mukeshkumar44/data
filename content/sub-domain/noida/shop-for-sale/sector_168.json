@@ -7,10 +7,19 @@
       "If you are searching for the perfect Shop For Sale in Sector 168 look no further. We offer a curated selection of ready-to-move and under-construction commercial units including high-street retail modern shopping plazas and essential service centers. Investing here means securing a slice of Noida’s rapidly appreciating commercial landscape with guaranteed long-term rental yields and capital growth."
     ],
     "buttons": [
-      { "label": "Explore Available Shops", "path": "/search" },
-      { "label": "Request Pricing Guide", "path": "/contact" }
+      {
+        "label": "Explore Available Shops",
+        "path": "/search"
+      },
+      {
+        "label": "Request Pricing Guide",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/sector-168-shop.jpg", "/images/commercial-investment-noida.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Investment Options Tailored for High Returns in Sector 168",
@@ -19,12 +28,30 @@
       "Whether you are planning a flagship store a small cafe or an essential services outlet our portfolio of Shop For Sale in Sector 168 offers the ideal location and layout. Review these prime commercial categories to identify your next successful venture."
     ],
     "features": [
-      { "title": "Ground Floor High Street Retail", "description": "These units offer maximum visibility and direct access for customers making them ideal for anchor tenants and high-end retail brands. Ground floor shops ensure the highest footfall translating directly into rapid business growth and superior rental income potential in Sector 168." },
-      { "title": "Corner Units with Dual Frontage", "description": "Investing in corner commercial units provides unparalleled exposure due to dual-side visibility and increased natural light. These shops command a premium price and attract prestigious businesses guaranteeing better appreciation rates compared to standard inline retail shops." },
-      { "title": "Food Court and F&B Spaces", "description": "Capitalize on the significant demand for dining and quick-service restaurants driven by the massive working population and residential density nearby. Dedicated food court units in Sector 168 offer specialized infrastructure and high occupancy rates making them stable investment choices." },
-      { "title": "Service Apartment Retail Hubs", "description": "Shops located within or adjacent to premium service apartments cater to a captive audience including business travelers and long-stay residents. This niche market ensures steady demand for convenience stores laundry services and boutique retail maximizing year-round profitability." },
-      { "title": "Office Cum Retail SCO Plots", "description": "Shop Cum Office or SCO plots offer flexibility allowing investors to use spaces for both retail operations on the ground floor and corporate offices above. This hybrid model is highly sought after providing diverse income streams and attracting multi-functional enterprises in Noida." },
-      { "title": "Large Anchor Store Opportunities", "description": "We feature expansive commercial floor plates suitable for large department stores supermarkets or multiplexes. Securing an anchor tenant position drives overall mall traffic benefiting surrounding smaller shops and significantly elevating the valuation of the entire property." }
+      {
+        "title": "Ground Floor High Street Retail",
+        "description": "These units offer maximum visibility and direct access for customers making them ideal for anchor tenants and high-end retail brands. Ground floor shops ensure the highest footfall translating directly into rapid business growth and superior rental income potential in Sector 168."
+      },
+      {
+        "title": "Corner Units with Dual Frontage",
+        "description": "Investing in corner commercial units provides unparalleled exposure due to dual-side visibility and increased natural light. These shops command a premium price and attract prestigious businesses guaranteeing better appreciation rates compared to standard inline retail shops."
+      },
+      {
+        "title": "Food Court and F&B Spaces",
+        "description": "Capitalize on the significant demand for dining and quick-service restaurants driven by the massive working population and residential density nearby. Dedicated food court units in Sector 168 offer specialized infrastructure and high occupancy rates making them stable investment choices."
+      },
+      {
+        "title": "Service Apartment Retail Hubs",
+        "description": "Shops located within or adjacent to premium service apartments cater to a captive audience including business travelers and long-stay residents. This niche market ensures steady demand for convenience stores laundry services and boutique retail maximizing year-round profitability."
+      },
+      {
+        "title": "Office Cum Retail SCO Plots",
+        "description": "Shop Cum Office or SCO plots offer flexibility allowing investors to use spaces for both retail operations on the ground floor and corporate offices above. This hybrid model is highly sought after providing diverse income streams and attracting multi-functional enterprises in Noida."
+      },
+      {
+        "title": "Large Anchor Store Opportunities",
+        "description": "We feature expansive commercial floor plates suitable for large department stores supermarkets or multiplexes. Securing an anchor tenant position drives overall mall traffic benefiting surrounding smaller shops and significantly elevating the valuation of the entire property."
+      }
     ]
   },
   "locationsSection": {
@@ -34,12 +61,56 @@
       "The connectivity to Delhi Greater Noida and key corporate hubs ensures that any commercial investment here is future-proofed against market fluctuations. This area is rapidly evolving into a major consumption center supported by robust planned infrastructure and excellent transport links."
     ],
     "locations": [
-      "Noida Expressway Proximity",
-      "Sector 137 Residential Hub",
-      "Sector 142 Corporate Zone",
-      "FNG Expressway Link",
-      "Upcoming Metro Connectivity",
-      "Adjacent to Greater Noida West"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -49,30 +120,84 @@
       "Our expertise ensures you find commercial properties with clear titles competitive pricing and maximum potential for capital appreciation making your decision to buy a Shop For Sale in Sector 168 exceptionally straightforward and secure."
     ],
     "points": [
-      { "title": "Unmatched Location Advantage", "description": "Sector 168 is strategically located directly off the Noida Expressway providing easy access for commuters from Delhi and Greater Noida. This primary location ensures consistent high visibility essential for any successful commercial establishment and significantly reduces vacancy risks for shop owners." },
-      { "title": "High Residential Catchment Area", "description": "The sector is surrounded by fully developed and rapidly developing residential societies like Sector 137 creating an enormous ready customer base right at your doorstep. This captive audience guarantees high footfall for retail and F&B outlets securing immediate business volume." },
-      { "title": "Exceptional Infrastructure Quality", "description": "Investments here benefit from world-class urban planning including wide service roads ample parking space and modern utility provisions. Robust infrastructure supports large commercial developments and ensures a professional environment for all retail shop operations." },
-      { "title": "Superior Rental Yields", "description": "Due to high demand from national and international brands seeking space along the Expressway Sector 168 offers some of the highest expected rental yields in Noida’s commercial segment. Investors can expect robust ROI starting from the early years of operation." },
-      { "title": "Future Growth Potential", "description": "With continuous planned expansion of corporate offices and residential phases nearby the property values in Sector 168 are projected to appreciate significantly over the next five to ten years. Buying a Shop For Sale in Sector 168 now is buying future growth." },
-      { "title": "Clear and Verified Titles", "description": "We only deal with RERA-registered and fully vetted commercial projects ensuring complete transparency and legal security for your investment. Our team conducts meticulous due diligence so you invest with absolute confidence." },
-      { "title": "Variety of Shop Sizes and Formats", "description": "From small kiosks perfect for start-ups to large multiplex anchors Sector 168 offers commercial spaces suitable for every business size and investment budget. This diversity allows precise alignment between investor goals and available inventory." },
-      { "title": "Proximity to Metro and Transport", "description": "The upcoming and existing metro connectivity points are within easy reach simplifying access for both employees and customers. Excellent public transport linkages further boost the commercial viability and accessibility of these retail spaces." }
+      {
+        "title": "Unmatched Location Advantage",
+        "description": "Sector 168 is strategically located directly off the Noida Expressway providing easy access for commuters from Delhi and Greater Noida. This primary location ensures consistent high visibility essential for any successful commercial establishment and significantly reduces vacancy risks for shop owners."
+      },
+      {
+        "title": "High Residential Catchment Area",
+        "description": "The sector is surrounded by fully developed and rapidly developing residential societies like Sector 137 creating an enormous ready customer base right at your doorstep. This captive audience guarantees high footfall for retail and F&B outlets securing immediate business volume."
+      },
+      {
+        "title": "Exceptional Infrastructure Quality",
+        "description": "Investments here benefit from world-class urban planning including wide service roads ample parking space and modern utility provisions. Robust infrastructure supports large commercial developments and ensures a professional environment for all retail shop operations."
+      },
+      {
+        "title": "Superior Rental Yields",
+        "description": "Due to high demand from national and international brands seeking space along the Expressway Sector 168 offers some of the highest expected rental yields in Noida’s commercial segment. Investors can expect robust ROI starting from the early years of operation."
+      },
+      {
+        "title": "Future Growth Potential",
+        "description": "With continuous planned expansion of corporate offices and residential phases nearby the property values in Sector 168 are projected to appreciate significantly over the next five to ten years. Buying a Shop For Sale in Sector 168 now is buying future growth."
+      },
+      {
+        "title": "Clear and Verified Titles",
+        "description": "We only deal with RERA-registered and fully vetted commercial projects ensuring complete transparency and legal security for your investment. Our team conducts meticulous due diligence so you invest with absolute confidence."
+      },
+      {
+        "title": "Variety of Shop Sizes and Formats",
+        "description": "From small kiosks perfect for start-ups to large multiplex anchors Sector 168 offers commercial spaces suitable for every business size and investment budget. This diversity allows precise alignment between investor goals and available inventory."
+      },
+      {
+        "title": "Proximity to Metro and Transport",
+        "description": "The upcoming and existing metro connectivity points are within easy reach simplifying access for both employees and customers. Excellent public transport linkages further boost the commercial viability and accessibility of these retail spaces."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Buying a Commercial Shop in Sector 168 Noida",
     "description": "Get detailed answers to the most common queries regarding commercial real estate investment opportunities and market dynamics in Sector 168.",
     "faqs": [
-      { "question": "What makes Sector 168 a prime location for commercial shop investment", "answer": "Sector 168 is considered prime because of its direct location on the Noida Expressway and its placement between densely populated residential sectors and major corporate hubs like Sector 142. This strategic triangle ensures high traffic flow affluent clientele and sustained demand for high-quality retail shops making it ideal for investors prioritizing long-term capital appreciation and strong rental returns." },
-      { "question": "Are there ready-to-move shops available for sale in Sector 168", "answer": "Yes we have a substantial inventory of ready-to-move commercial shops in Sector 168 within established and newly completed retail centers. These units are perfect for investors looking for immediate rental income or for businesses that require quick setup. We can help you identify properties with existing leases for immediate returns." },
-      { "question": "What is the typical size range for a retail shop in this sector", "answer": "The typical size for commercial retail shops in Sector 168 varies significantly depending on the complex and floor plan. Standard small retail units usually start from 200 sq ft while larger units can go up to 1000 sq ft or more especially for F&B outlets or anchor stores. We specialize in matching your investment budget to the perfect floor size requirement." },
-      { "question": "What documents are necessary when buying a commercial shop in Noida", "answer": "Necessary documents typically include the Agreement for Sale Possession Letter or Sale Deed if ready-to-move Proof of payment of Stamp Duty and Registration Charges. If the property is under construction RERA registration documents and NOCs from relevant authorities are essential. Our legal team assists with verifying all documentation." },
-      { "question": "How do rental yields in Sector 168 compare to other Noida sectors", "answer": "Rental yields in Sector 168 often exceed those in older established sectors like Sector 18 due to the newer infrastructure better planning and higher exposure along the Expressway. Current estimates suggest potential yields ranging between 6% to 8% annually depending on the shop type size and location within the commercial complex." },
-      { "question": "Is financing available for purchasing a commercial property here", "answer": "Yes all major banks and financial institutions provide robust financing options for commercial property purchases in RERA-approved projects in Sector 168. Loan eligibility often depends on the buyer’s credit history and the property’s valuation. We can connect you with preferred banking partners offering competitive interest rates." },
-      { "question": "What is the importance of RERA registration for these projects", "answer": "RERA Real Estate Regulatory Authority registration is crucial as it ensures transparency accountability and timely delivery of commercial projects. Investing in a RERA-registered Shop For Sale in Sector 168 guarantees that the developer adheres to legal timelines and specifications protecting the investor from potential disputes." },
-      { "question": "Are there maintenance charges associated with commercial shops", "answer": "Yes all commercial complexes in Sector 168 have mandatory common area maintenance CAM charges which cover services like security common lighting garbage disposal elevators and shared utilities. These charges are typically calculated per square foot and are paid monthly or quarterly to the facility management team." },
-      { "question": "What factors influence the price of a commercial shop in Sector 168", "answer": "Pricing is primarily influenced by location within the project ground floor vs upper floors corner unit premium size and the presence of amenities like dedicated parking and power backup. Shops facing the main road or having high-street frontage naturally command a higher price than those in internal corridors." },
-      { "question": "Can NRIs invest in commercial property in Sector 168 Noida", "answer": "Absolutely Non-Resident Indians NRIs are welcome to invest in commercial properties in Sector 168 Noida. The process is straightforward and governed by FEMA guidelines. NRIs need to ensure all transactions are made through proper banking channels. We provide specialized consultation services for our NRI investors." }
+      {
+        "question": "What makes Sector 168 a prime location for commercial shop investment",
+        "answer": "Sector 168 is considered prime because of its direct location on the Noida Expressway and its placement between densely populated residential sectors and major corporate hubs like Sector 142. This strategic triangle ensures high traffic flow affluent clientele and sustained demand for high-quality retail shops making it ideal for investors prioritizing long-term capital appreciation and strong rental returns."
+      },
+      {
+        "question": "Are there ready-to-move shops available for sale in Sector 168",
+        "answer": "Yes we have a substantial inventory of ready-to-move commercial shops in Sector 168 within established and newly completed retail centers. These units are perfect for investors looking for immediate rental income or for businesses that require quick setup. We can help you identify properties with existing leases for immediate returns."
+      },
+      {
+        "question": "What is the typical size range for a retail shop in this sector",
+        "answer": "The typical size for commercial retail shops in Sector 168 varies significantly depending on the complex and floor plan. Standard small retail units usually start from 200 sq ft while larger units can go up to 1000 sq ft or more especially for F&B outlets or anchor stores. We specialize in matching your investment budget to the perfect floor size requirement."
+      },
+      {
+        "question": "What documents are necessary when buying a commercial shop in Noida",
+        "answer": "Necessary documents typically include the Agreement for Sale Possession Letter or Sale Deed if ready-to-move Proof of payment of Stamp Duty and Registration Charges. If the property is under construction RERA registration documents and NOCs from relevant authorities are essential. Our legal team assists with verifying all documentation."
+      },
+      {
+        "question": "How do rental yields in Sector 168 compare to other Noida sectors",
+        "answer": "Rental yields in Sector 168 often exceed those in older established sectors like Sector 18 due to the newer infrastructure better planning and higher exposure along the Expressway. Current estimates suggest potential yields ranging between 6% to 8% annually depending on the shop type size and location within the commercial complex."
+      },
+      {
+        "question": "Is financing available for purchasing a commercial property here",
+        "answer": "Yes all major banks and financial institutions provide robust financing options for commercial property purchases in RERA-approved projects in Sector 168. Loan eligibility often depends on the buyer’s credit history and the property’s valuation. We can connect you with preferred banking partners offering competitive interest rates."
+      },
+      {
+        "question": "What is the importance of RERA registration for these projects",
+        "answer": "RERA Real Estate Regulatory Authority registration is crucial as it ensures transparency accountability and timely delivery of commercial projects. Investing in a RERA-registered Shop For Sale in Sector 168 guarantees that the developer adheres to legal timelines and specifications protecting the investor from potential disputes."
+      },
+      {
+        "question": "Are there maintenance charges associated with commercial shops",
+        "answer": "Yes all commercial complexes in Sector 168 have mandatory common area maintenance CAM charges which cover services like security common lighting garbage disposal elevators and shared utilities. These charges are typically calculated per square foot and are paid monthly or quarterly to the facility management team."
+      },
+      {
+        "question": "What factors influence the price of a commercial shop in Sector 168",
+        "answer": "Pricing is primarily influenced by location within the project ground floor vs upper floors corner unit premium size and the presence of amenities like dedicated parking and power backup. Shops facing the main road or having high-street frontage naturally command a higher price than those in internal corridors."
+      },
+      {
+        "question": "Can NRIs invest in commercial property in Sector 168 Noida",
+        "answer": "Absolutely Non-Resident Indians NRIs are welcome to invest in commercial properties in Sector 168 Noida. The process is straightforward and governed by FEMA guidelines. NRIs need to ensure all transactions are made through proper banking channels. We provide specialized consultation services for our NRI investors."
+      }
     ]
   },
   "contactSection": {
@@ -81,6 +206,11 @@
       "Ready to find the ideal Shop For Sale in Sector 168 Noida that meets your investment goals. Contact our expert team for personalized guidance detailed floor plans and current pricing information.",
       "We provide comprehensive market insights and secure property viewing appointments ensuring you make a well-informed decision."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

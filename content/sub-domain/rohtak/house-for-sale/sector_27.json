@@ -7,10 +7,19 @@
       "Buying a house is a significant decision, and our dedicated team ensures a seamless experience from initial viewing to final possession. We provide transparent pricing, clear documentation, and personalized property tours tailored to your specific requirements. Start your journey today to secure a prime residential property Sector 27 Rohtak. Explore listings that combine luxury, security, and exceptional value, guaranteeing a future investment that appreciates year after year."
     ],
     "buttons": [
-      { "label": "View All House Listings", "path": "/listings" },
-      { "label": "Book a Free Consultation", "path": "/contact" }
+      {
+        "label": "View All House Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Book a Free Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero-house-1.jpg", "/images/hero-house-2.jpg", "/images/hero-house-3.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Housing Options and Property Sizes for Your Family in Sector 27 Rohtak",
@@ -52,13 +61,56 @@
       "The strategic positioning of Sector 27 Rohtak means residents enjoy quick access to major highways and established city centres without compromising the tranquility of suburban life. Whether you work near the industrial area or need convenient routes to universities and hospitals, the surrounding road network is highly efficient. Review these key locations nearby to appreciate the comprehensive connectivity that defines property ownership in this desirable region."
     ],
     "locations": [
-      "Sector 26 Residential Zone",
-      "Sector 28 Developed Area",
-      "HUDA City Centre Rohtak",
-      "Sunaria Kalan Locality",
-      "Delhi Bypass Road Access",
-      "Maharshi Dayanand University (MDU) Area",
-      "Industrial Model Township (IMT) Gateway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -154,6 +206,11 @@
       "Ready to find your ideal home in the thriving heart of Sector 27 Rohtak Get in touch with our specialist team today. We provide bespoke consultation services, detailed property dossiers, and schedule private viewings at your convenience.",
       "Stop searching and start owning. Fill out the quick enquiry form below, and one of our dedicated property advisors will contact you shortly to discuss your specific residential requirements and investment goals in Sector 27."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

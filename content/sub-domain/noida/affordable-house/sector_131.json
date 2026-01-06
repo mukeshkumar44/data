@@ -7,12 +7,18 @@
       "We specialise in connecting you with the best property listings that fit the definition of an Affordable House in Sector 131. Enjoy superior connectivity to major highways, proximity to commercial centres, and rapidly developing social infrastructure. Do not let skyrocketing prices deter your home ownership goals. Explore curated properties that guarantee comfort, convenience, and substantial future appreciation. Discover spacious layouts and modern amenities engineered for modern living right here in Sector 131 Noida. Start your search for a budget-friendly home that truly exceeds expectations."
     ],
     "buttons": [
-      { "label": "Explore Affordable Listings", "path": "/listings" },
-      { "label": "Request a Free Consultation", "path": "/contact" }
+      {
+        "label": "Explore Affordable Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Free Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/sector131_hero1.jpg",
-      "/images/sector131_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "The sector is bordered by major expressways and arterial roads, ensuring quick commutes to business districts, educational institutions, and healthcare facilities. Investing here means securing a future-proof location known for its well-planned civic infrastructure and rapid urban development."
     ],
     "locations": [
-      "Proximity to Noida Expressway",
-      "Easy Access to Delhi and Greater Noida",
-      "Near major corporate offices",
-      "Well-developed internal road network",
-      "Upcoming metro connectivity benefits",
-      "Close to major shopping centres"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -163,5 +213,4 @@
       "message"
     ]
   }
-}
 }

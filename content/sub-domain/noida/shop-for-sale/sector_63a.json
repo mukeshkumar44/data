@@ -7,10 +7,19 @@
       "Whether you are planning to launch a premium retail outlet a specialized service center or a high-yield rental asset finding the perfect Shop For Sale in Sector 63A is critical. We provide expert guidance on Grade A commercial projects ensuring you select an investment that guarantees high foot traffic superior visibility and robust capital appreciation over the coming years."
     ],
     "buttons": [
-      { "label": "Explore Available Shops", "path": "/listings" },
-      { "label": "Download Investment Brochure", "path": "/brochure" }
+      {
+        "label": "Explore Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Download Investment Brochure",
+        "path": "/brochure"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Investment Opportunities Plot Sizes Catering to Every Business Need",
@@ -52,14 +61,56 @@
       "When evaluating a Shop For Sale in Sector 63A consider its adjacency to Sector 62's IT offices the upcoming metro corridor expansions and the density of nearby housing societies which form the primary consumer base for your retail venture."
     ],
     "locations": [
-      "Sector 62 Noida IT Hub",
-      "NH-24 and Eastern Peripheral Expressway Connectivity",
-      "FNG Expressway Access Point",
-      "Residential Catchment of Sectors 70 & 71",
-      "Institutional Area near Electronic City Metro Station",
-      "Proximity to Indirapuram Ghaziabad",
-      "Major Commercial Developments along the main arterial road",
-      "Upcoming Infrastructure Projects surrounding Sector 63A"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to invest in a high-potential Shop For Sale in Sector 63A Noida Let our experienced commercial real estate advisors provide tailored options matching your specific budget and yield expectations.",
       "Contact us now for personalized site visits detailed project analysis and expert legal consultation completely free of charge."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Premium Residential Plot Sizes Available For Sale in Jaggi Garden Ambala Today",
@@ -58,11 +61,56 @@
       "Residents benefit from proximity to reputed schools, advanced healthcare facilities, and bustling commercial markets making daily life extremely convenient. Furthermore, the systematic planning of Jaggi Garden ensures proper sewage, water supply, and electricity infrastructure is in place, eliminating common issues faced in rapidly developing areas. Investing in a residential Plot For Sale in Jaggi Garden Ambala means buying into a future where convenience meets quality living and high land value appreciation. This area is rapidly becoming the preferred address for discerning buyers and astute investors."
     ],
     "locations": [
-      "Ambala City Railway Station",
-      "National Highway 44 Connectivity",
-      "Reputed Schools and Colleges",
-      "Major Private and Government Hospitals",
-      "Shopping Malls and Entertainment Zones"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

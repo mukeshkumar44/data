@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Flat Options and Sizes for Rent on Barnala Road Ambala",
@@ -58,13 +61,56 @@
       "Nearby neighborhoods such as Housing Board Colony and Model Town benefit greatly from Barnala Road’s infrastructure, offering residents more choice in shopping and leisure activities. Finding a Flat For Rent in Barnala Road Ambala means securing a residence that places convenience at the forefront. Major educational institutions and leading healthcare facilities are often just a short drive away, making it ideal for families. We highlight properties that offer the best balance between quiet residential living and robust urban access, ensuring your rental choice enhances your quality of life."
     ],
     "locations": [
-      "Ambala Cantt Railway Station Access",
-      "NH 44 Highway Connectivity",
-      "Proximity to Model Town Ambala",
-      "Housing Board Colony Neighborhood",
-      "Easy Drive to Ambala City Sector 7",
-      "Close to Baldev Nagar Amenities",
-      "Quick Access to Ambala Bus Stand Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "gcr_skyline.jpg",
-      "luxury_apartment_interior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Understanding the subtle differences in pricing, socio-economic profile, and future infrastructure plans is vital for making an informed investment decision. Below are the premier micro-markets where our agents maintain active, high-value inventory and possess intimate, up-to-the-minute market knowledge essential for securing the best deals in prime Gurugram real estate."
     ],
     "locations": [
-      "DLF Phase 5",
-      "Sector 42 Gurugram",
-      "Sector 54 Gurugram",
-      "Sector 55 Gurugram",
-      "Sector 56 Gurugram",
-      "Sector 43 Sushant Lok Phase 1",
-      "MG Road Property",
-      "Golf Course Extension Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

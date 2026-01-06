@@ -7,10 +7,19 @@
       "Explore diverse plot sizes that allow you to customize your dwelling, ensuring maximum value for your investment. Whether you are a first time buyer or looking to upgrade to a more established locality, this sector promises a balanced lifestyle with access to top schools, healthcare facilities, and commercial hubs. Start your search now to secure an affordable house in Sector 82 before prices escalate and capitalize on this limited window of opportunity."
     ],
     "buttons": [
-      { "label": "View Latest Listings", "path": "/listings" },
-      { "label": "Download Price Guide", "path": "/guide" }
+      {
+        "label": "View Latest Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Download Price Guide",
+        "path": "/guide"
+      }
     ],
-    "images": ["/hero1.jpg", "/hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Flexible Residential Plot Sizes for Your Affordable House Project in Sector 82",
@@ -52,10 +61,56 @@
       "The locality boasts reliable utilities, including 24/7 water and power supply, robust sewage systems, and well maintained roads. Furthermore, the proximity to upcoming metro links and existing rapid transit options enhances the long term liveability and investment potential. Sector 82 is not just about finding an affordable house; it is about securing a future in a location designed for modern, efficient living. The area is continually expanding its commercial footprint with new shopping centres, cinemas, and dining options opening regularly, contributing to a vibrant community atmosphere."
     ],
     "locations": [
-      { "name": "Sector 82 Central Market", "path": "/market" },
-      { "name": "Noida Expressway Access Point", "path": "/expressway" },
-      { "name": "Nearby Metro Station Connectivity", "path": "/metro" },
-      { "name": "Major Educational Institutes Proximity", "path": "/education" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -151,6 +206,11 @@
       "Ready to take the next step towards owning your ideal home or plot in Sector 82 Noida. Our team of seasoned real estate professionals specializes in affordable housing solutions and possesses deep knowledge of the local market dynamics. We provide personalized consultation and verified listings.",
       "Fill out the form below to receive a customized property portfolio tailored to your budget and specific requirements. Let us help you navigate the process of securing a high value, affordable house investment today."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

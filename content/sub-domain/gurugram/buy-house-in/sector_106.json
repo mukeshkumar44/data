@@ -7,10 +7,19 @@
       "The residential landscape here features diverse options, from premium builder floors and spacious independent villas to plotted developments where you can construct your dream home. Our curated listings provide verified properties, transparent pricing, and comprehensive market insights, ensuring your decision to buy house in Sector 106 is informed, secure, and perfectly matched to your lifestyle goals. Explore the possibilities of high-end living supported by world-class social and retail infrastructure."
     ],
     "buttons": [
-      { "label": "Explore Premium House Listings", "path": "/listings/houses" },
-      { "label": "Download Sector 106 Investment Guide", "path": "/guide" }
+      {
+        "label": "Explore Premium House Listings",
+        "path": "/listings/houses"
+      },
+      {
+        "label": "Download Sector 106 Investment Guide",
+        "path": "/guide"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Ideal Home Configurations When You Decide to Buy House in Sector 106 Gurugram",
@@ -52,14 +61,56 @@
       "The seamless road networks ensure quick access to Delhi's IGI Airport and the established commercial centers of Gurugram like Cyber City. Reviewing the proximity to these key locations is essential for any buyer focused on convenience and future growth potential in Sector 106 Gurugram."
     ],
     "locations": [
-      "Dwarka Expressway connectivity",
-      "Sector 109 and Sector 107 Residential Areas",
-      "IGI Delhi Airport Terminal 3",
-      "Palam Vihar Extension",
-      "Proposed Metro Corridor access points",
-      "NH-48 National Highway access",
-      "Gurugram Railway Station",
-      "Cyber City Gurugram Business Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

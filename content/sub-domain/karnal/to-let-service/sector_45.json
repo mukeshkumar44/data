@@ -7,12 +7,18 @@
       "Sector 45 boasts excellent connectivity modern infrastructure and proximity to major commercial hubs making it a highly desirable location for families and businesses alike. Our expert team simplifies the often-complex rental process offering tailored solutions comprehensive property verification and transparent negotiations ensuring a smooth transition into your new space. Whether you are looking for a compact 1 BHK or a sprawling office space we provide the specialized local knowledge needed to secure the ideal rental agreement efficiently and reliably. Start your property search with the best To let Service provider today and experience the difference."
     ],
     "buttons": [
-      { "label": "Browse Available Properties", "path": "/properties" },
-      { "label": "List Your Property for Rent Now", "path": "/list-property" }
+      {
+        "label": "Browse Available Properties",
+        "path": "/properties"
+      },
+      {
+        "label": "List Your Property for Rent Now",
+        "path": "/list-property"
+      }
     ],
     "images": [
-      "hero-rental-sector45.jpg",
-      "sector45-apartments.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Our expansive network covers key areas providing diversified options regarding budget property type and accessibility. Explore these neighboring areas to widen your search and discover more fantastic rental opportunities managed by our professional team ensuring the same standard of trust and transparency across all locations."
     ],
     "locations": [
-      "Sector 44 Karnal",
-      "Sector 37 Karnal",
-      "Model Town Extension",
-      "Indira Colony",
-      "Shiv Colony",
-      "Kunjpura Road Area",
-      "Mugal Canal Area",
-      "Railway Road Properties"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

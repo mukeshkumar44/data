@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Property Options Find the Ideal Shop For Sale in Sector 73 Noida",
@@ -58,12 +61,56 @@
       "The connectivity to the Noida Expressway and the proximity to Sectors 50 72 and 74 further cement its status as a premium retail destination. Investing in commercial real estate in this corridor guarantees access to high-net-worth residents and excellent infrastructure support essential for business success."
     ],
     "locations": [
-      "Sector 72 Residential Catchment",
-      "Sector 74 Commercial Development",
-      "Proximity to the Noida Expressway",
-      "Easy Access to Sector 50 Retail Market",
-      "Connectivity to Aqua Line Metro Stations",
-      "Direct Road Access to Sector 119 and 120"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

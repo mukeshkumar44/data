@@ -7,12 +7,18 @@
       "This well-developed sector provides ready-to-move properties, independent floors, and plots allowing for bespoke construction. The area is highly sought after by families seeking proximity to top schools, world-class healthcare facilities, and thriving retail centers like Hong Kong Bazaar. Explore exclusive listings and discover why purchasing property here ensures long-term value appreciation and a genuinely comfortable urban existence."
     ],
     "buttons": [
-      { "label": "Explore Houses for Sale", "path": "/properties" },
-      { "label": "Schedule A Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/properties"
+      },
+      {
+        "label": "Schedule A Site Visit",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "img/hero-sector51-1.jpg",
-      "img/hero-sector51-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Social infrastructure is robust with numerous high-end shopping malls, including Omaxe Celebration Mall and Ninex City Mart, located just minutes away. Additionally, proximity to respected educational institutions like DPS International and top-tier hospitals ensures all essential services are within immediate reach. These surrounding developments confirm that buying a house in Sector 51 means choosing convenience and a higher standard of living."
     ],
     "locations": [
-      "Sohna Road",
-      "Golf Course Extension Road",
-      "Sector 50",
-      "Artemis Hospital",
-      "Hong Kong Bazaar",
-      "Scottish High International School",
-      "HUDA City Centre Metro Station",
-      "Southern Peripheral Road SPR"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

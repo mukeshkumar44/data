@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "shop-rent-sector14-hero1.jpg",
-      "shop-rent-sector14-hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "Proximity to prestigious schools, established hospitals, and major residential sectors ensures a continuous flow of potential customers right to your doorstep. This area is highly regarded for its planned infrastructure and stable commercial environment. Choosing a Shop For Rent in Sector 14 guarantees that your venture operates within a vibrant, secure, and easily reachable ecosystem, minimizing logistical friction and maximizing customer convenience."
     ],
     "locations": [
-      "NH-44 Direct Connectivity",
-      "Proximity to Sector 15 Residential Hub",
-      "Near Crown Interiorz Mall",
-      "Excellent Link to Old Gurugram Metro Station",
-      "Easy Access to Escorts Mujesar Metro Link",
-      "Walking Distance to Major Banks and ATMs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

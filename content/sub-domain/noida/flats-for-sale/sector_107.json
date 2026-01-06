@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "flat-107-hero-view.jpg",
-      "sector-107-noida-skyline.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The area is surrounded by established residential sectors and prominent commercial zones, ensuring that residents are never far from top-tier schools, world-class healthcare facilities, and bustling shopping malls. This integrated development approach makes Sector 107 Noida an ideal choice for families prioritizing convenience and a high quality of life. Explore the vital neighboring locations and connectivity features that enhance the appeal of this prime residential hub."
     ],
     "locations": [
-      "Noida-Greater Noida Expressway",
-      "Sector 108 Residential Hub",
-      "Prominent Schools and Educational Institutions",
-      "World-Class Hospitals and Healthcare Centres",
-      "Atta Market and Sector 18 Commercial Hub",
-      "Metro Station connectivity nearby",
-      "Proposed Infrastructure Developments",
-      "DND Flyway Access for quick Delhi transit"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

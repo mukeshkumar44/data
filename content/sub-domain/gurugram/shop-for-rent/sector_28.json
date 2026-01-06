@@ -7,12 +7,18 @@
       "Discover a curated selection of commercial properties including small retail units spacious showrooms and high-footfall corner shops. We provide detailed listings and expert guidance ensuring you find the perfect Shop For Rent in Sector 28 that aligns precisely with your budget and business vision. Start your successful commercial journey in one of Gurugram’s most sought-after sectors."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/shops-for-rent-sector-28" },
-      { "label": "Request Commercial Consultation", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/shops-for-rent-sector-28"
+      },
+      {
+        "label": "Request Commercial Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "sector-28-commercial-hero-1.jpg",
-      "sector-28-shop-front.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "Our focus extends to highlighting shops that benefit from high synergy with adjacent markets and transit points. This geographical advantage makes renting commercial property in Sector 28 a decision rooted in long-term stability and robust market penetration potential."
     ],
     "locations": [
-      "Sector 29 Commercial Market",
-      "NH-44 Connectivity Hub",
-      "Gurugram Industrial Area",
-      "Badarpur Border Access",
-      "Sector 27 Shopping Complex",
-      "Residential Colonies of Sector 30"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

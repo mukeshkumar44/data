@@ -17,7 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero-sector76-2bhk.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -60,14 +61,56 @@
       "Furthermore, the area is surrounded by established social infrastructure including reputable schools like DPS and Amity, major hospitals such as Medanta and Artemis, and premium retail centers and malls. The upcoming metro line extension is also poised to further boost connectivity and property values, making this the perfect time to finalize your purchase of a 2BHK Flat For Sale in Sector 76. Review the list of key nearby locations and their approximate distance below to understand the convenience offered by this evolving micro-market in Gurugram."
     ],
     "locations": [
-      "NH-48 Delhi-Jaipur Expressway",
-      "Southern Peripheral Road SPR",
-      "Manesar Industrial Area",
-      "Kherki Daula Toll Plaza",
-      "Dwarka Expressway Exit",
-      "Rajiv Chowk",
-      "IGI Airport Delhi T3 Terminal",
-      "Cyber Hub and Cyber City"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

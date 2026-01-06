@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "3bhk-ashok-vihar-exterior.jpg",
-      "3bhk-ashok-vihar-interior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "The infrastructure development in this area is robust, featuring wide roads and efficient public transport networks. This exceptional connectivity elevates the appeal of any 3BHK Flat For Sale in Ashok Vihar Phase 3, ensuring that residents spend less time commuting and more time enjoying their luxurious home life. Everything you need is just minutes away."
     ],
     "locations": [
-      "Major Metro Stations",
-      "Reputable Schools",
-      "Leading Hospitals",
-      "Shopping Malls and Markets",
-      "Parks and Green Spaces",
-      "Financial Institutions"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

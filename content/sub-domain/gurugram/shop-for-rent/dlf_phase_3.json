@@ -7,10 +7,19 @@
       "We offer a curated selection of retail units across main roads and established markets providing optimal visibility for clothing boutiques, cafes, and professional service centers. Our properties are ready for immediate fit-outs allowing your business to start generating revenue quickly. Stop searching for mediocre locations and unlock the potential of a premium address guaranteed to elevate your enterprise. Partner with us to seamlessly transition into your ideal commercial space in the heart of Gurugram's commercial zone."
     ],
     "buttons": [
-      { "label": "View Available Retail Spaces", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View Available Retail Spaces",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["/img/hero-shop-dlf3-1.jpg", "/img/hero-shop-dlf3-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Diverse Commercial Shop Rental Options Across DLF Phase 3 Gurugram",
@@ -52,14 +61,56 @@
       "Our focus extends beyond the immediate perimeter to include highly interconnected commercial zones that complement the prestige of DLF Phase 3. These nearby blocks provide varied leasing options and demographic profiles allowing you to refine your market targeting strategy. Explore these key areas to find a synergistic location that maximizes your business potential and operational convenience."
     ],
     "locations": [
-      "Cyber City Commercial Hub Gurgaon",
-      "DLF City Phase 2 Retail Markets",
-      "Sikanderpur Commercial Area",
-      "MGF Metropolitan Mall nearby access",
-      "NH-48 Service Lane Shops Gurgaon",
-      "Udyog Vihar Industrial Retail Pockets",
-      "Ambience Mall Roadside Units",
-      "Qutub Plaza and surrounding shops"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure your prime shop for rent in DLF Phase 3 Gurugram Don’t miss out on high-visibility commercial opportunities in this thriving economic zone. Our dedicated team is here to provide personalized consultation and guided tours of spaces tailored exactly to your business requirements and budget.",
       "Reach out now to discuss your commercial needs and let us help you elevate your brand presence in one of Gurugram's most prestigious commercial addresses."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

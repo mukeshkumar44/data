@@ -7,12 +7,18 @@
       "The demand for quality land in established areas like Inder Nagar Ambala is consistently high, driven by excellent connectivity to major city hubs, proximity to essential services like schools and hospitals, and well-maintained infrastructure. Finding the right Plot For Sale in Inder Nagar requires expert guidance, and our listings provide detailed information on property dimensions, legal clearances, and pricing transparency, ensuring you purchase with complete confidence. Whether you are looking for a compact space for a small family home or a larger parcel for luxurious construction, explore the best real estate opportunities available only through verified sources."
     ],
     "buttons": [
-      { "label": "Browse Verified Listings", "path": "/listings" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "Browse Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/inder-nagar-plot-1.jpg",
-      "/images/inder-nagar-plot-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "This section outlines key location advantages that make Inder Nagar a highly desirable residential hub. Proximity to national highways ensures smooth inter-city travel, while nearby educational and healthcare facilities minimize the need for long-distance commuting for essential services. This balance of peace and accessibility makes any Plot For Sale in Inder Nagar a robust and future-proof investment for discerning buyers looking for convenience and capital appreciation in Ambala."
     ],
     "locations": [
-      "Close proximity to Ambala Cantt Railway Station",
-      "Easy access to National Highway 44 (NH44)",
-      "Near major educational institutions and colleges",
-      "Short drive to leading multi-specialty hospitals",
-      "Well-connected to Ambala City commercial centers",
-      "Adjacent to established market areas and shopping complexes",
-      "Quick connectivity to defense establishments and offices",
-      "Access to green spaces and community parks within the sector"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to invest in the perfect Plot For Sale in Inder Nagar Ambala? Our team of local real estate experts possesses unparalleled knowledge of current market inventory, pricing trends, and legal due diligence specific to this sector. We ensure a smooth, transparent, and secure purchasing process from inquiry to registration.",
       "Reach out today to schedule a site visit, request customized investment reports, or obtain detailed documentation for any featured plot. Start building your future in Inder Nagar with confidence."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero-udyog-vihar-2bhk1.webp",
-      "/images/hero-udyog-vihar-2bhk2.webp"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "This means quick travel to major corporate offices, international schools, and top-tier hospitals are standard. Living here means reducing stress related to Gurugram traffic and maximizing quality personal time. The area is constantly evolving, with new retail and dining establishments opening frequently, enhancing the lifestyle quotient. When you buy a 2BHK flat for sale in Udyog Vihar, you are buying into convenience and future growth."
     ],
     "locations": [
-      "DLF Cyber City and Cyber Hub",
-      "Indira Gandhi International Airport IGI",
-      "NH-48 Delhi Jaipur Expressway",
-      "Rapid Metro Station Phase 3",
-      "Ambience Mall and Retail Parks",
-      "Major Private Hospitals",
-      "Sector 18 Gurugram",
-      "Golf Course Road Extension"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

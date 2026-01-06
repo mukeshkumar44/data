@@ -7,10 +7,19 @@
       "Searching for a high-quality 2BHK flat for sale in Sector 53 requires expert guidance. We showcase verified properties in gated communities with access to world-class amenities including dedicated parking, power backup, and round-the-clock security. Secure your future in a neighborhood known for its immaculate planning, premium social infrastructure, and seamless connectivity to major business hubs across Gurugram and Delhi NCR. Start your property search today and unlock the door to premium living in Sector 53."
     ],
     "buttons": [
-      { "label": "Explore Verified 2BHK Listings", "path": "/listings" },
-      { "label": "Download Property Brochure", "path": "/download" }
+      {
+        "label": "Explore Verified 2BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Download Property Brochure",
+        "path": "/download"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Advantages of Investing in a 2BHK Flat in Sector 53 Gurugram",
@@ -52,14 +61,56 @@
       "Review the key distances below to fully understand the unparalleled convenience and accessibility offered by this prime residential location in Gurugram."
     ],
     "locations": [
-      "Sector 53-54 Rapid Metro Station Immediate Access",
-      "DLF Cyber City & Cyber Hub 15 Minute Drive",
-      "Iffco Chowk Metro Station 10 Minute Drive",
-      "M.G. Road Shopping District 10 Minute Drive",
-      "South Point Mall Walking Distance",
-      "Major Private Schools The Heritage School Scottish High",
-      "Medanta The Medicity and Artemis Hospitals Nearby",
-      "Golf Course Road Main Commercial Axis"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to view the best 2BHK flat for sale in Sector 53 Gurugram We offer personalized tours, detailed financial planning assistance, and transparent property documentation.",
       "Fill out the form below to receive exclusive listings and schedule a site visit with one of our certified real estate advisors at your convenience."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

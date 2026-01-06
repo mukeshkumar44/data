@@ -7,12 +7,18 @@
       "Our curated selection of 2BHK apartments offers optimal space utilization, modern amenities, and secure environments designed to elevate your everyday living experience. Whether you are looking for your first home or a solid real estate investment, Sector 37D provides outstanding value and assured future growth potential. Secure your dream apartment today and step into a life of comfort and convenience."
     ],
     "buttons": [
-      { "label": "Explore Available 2BHK Units", "path": "/listings" },
-      { "label": "Download Detailed Brochure", "path": "/brochure" }
+      {
+        "label": "Explore Available 2BHK Units",
+        "path": "/listings"
+      },
+      {
+        "label": "Download Detailed Brochure",
+        "path": "/brochure"
+      }
     ],
     "images": [
-      "2bhk-flat-sector-37d-view-1.jpg",
-      "sector-37d-apartment-exterior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "The area is developing into a self-sufficient ecosystem with upcoming social infrastructure including reputed schools, hospitals, and high-street retail centres all within a 5 to 10-minute drive. This accessibility drastically improves the quality of life for residents and enhances property valuation."
     ],
     "locations": [
-      "Direct access to Dwarka Expressway",
-      "Proximity to NH-48 Delhi-Jaipur Highway",
-      "Near IMT Manesar Industrial Area",
-      "Short drive to Gurugram Railway Station",
-      "Easy connectivity to IGI Airport Delhi",
-      "Close to major upcoming Global City project"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -156,6 +206,11 @@
       "Ready to book your ideal 2BHK Flat For Sale in Sector 37D Gurugram Contact our dedicated sales team now for personalized consultation, site visits, and detailed financial breakdowns. We are here to guide you through every step of your property journey.",
       "Fill out the form below and one of our expert property advisors will reach out within the hour to discuss tailored property options that perfectly match your requirements and investment goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

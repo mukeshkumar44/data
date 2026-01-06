@@ -7,12 +7,18 @@
       "Sector 70 Noida is rapidly evolving into a prime residential and commercial hub attracting significant investment. Navigating its complex property landscape demands specialists who understand pricing trends legal nuances and future infrastructure plans. Trust our vetted agents to provide personalized solutions ethical advice and comprehensive support from initial consultation through final registration. Start your successful property journey today by partnering with the best."
     ],
     "buttons": [
-      { "label": "Find Your Expert Agent Now", "path": "/contact-agents" },
-      { "label": "Explore Sector 70 Listings", "path": "/listings" }
+      {
+        "label": "Find Your Expert Agent Now",
+        "path": "/contact-agents"
+      },
+      {
+        "label": "Explore Sector 70 Listings",
+        "path": "/listings"
+      }
     ],
     "images": [
-      "agent_meeting.jpg",
-      "sector70_skyline.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "Whether you prioritize proximity to the Metro connectivity essential amenities or specific school districts our agents know exactly where to focus your search. We cover everything from the bustling main roads with high commercial visibility to the quieter internal sectors prized for peaceful family living ensuring you find the ideal match for your lifestyle or business requirement."
     ],
     "locations": [
-      "Affordable 2 BHK Apartments near Sector 71 Metro",
-      "Premium Builder Floors along the Main Sector Road",
-      "Ready to Move Projects with Modern Amenities",
-      "Commercial Office Spaces near the IT Hub",
-      "Retail Shops and Kiosks in Local Markets",
-      "High-Rise Luxury Housing Societies"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

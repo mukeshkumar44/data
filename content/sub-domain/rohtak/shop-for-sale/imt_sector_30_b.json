@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/imt30b_shop1.jpg",
-      "/images/imt30b_map.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "We highlight properties that benefit from immediate access to major highways and residential zones, maximizing their commercial appeal and future appreciation. Investing in a Shop For Sale in IMT Sector 30 B means buying into a location where commerce is inherently supported by robust infrastructure and regional development plans."
     ],
     "locations": [
-      "IMT Industrial Area Rohtak Main Hub",
-      "Proximity to NH 9 Delhi-Hisar Highway",
-      "Ease of Access to Rohtak City Center",
-      "Sector 27 Residential Colonies",
-      "Direct Road Link to Bahadurgarh",
-      "Upcoming Logistics Parks",
-      "Adjacent High-Density Housing Projects",
-      "Kundli Manesar Palwal KMP Expressway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,10 +7,19 @@
       "Our selection ensures you find homes that meet the highest standards of quality and design. Whether you are looking for a compact, modern unit or a spacious apartment with superior finishes, we guide you through the best properties. Secure your dream home in the heart of Gurugram’s most coveted residential area and start experiencing the elevated lifestyle that DLF Phase 4 promises today. A prime 2BHK flat for sale in DLF Phase 4 represents a smart move towards future financial security."
     ],
     "buttons": [
-      { "label": "Explore 2BHK Listings", "path": "/listings" },
-      { "label": "Schedule Property Visit", "path": "/contact" }
+      {
+        "label": "Explore 2BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule Property Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero-2bhk-dlf4.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Advantages of Investing in a 2BHK Flat in DLF Phase 4 Residential Hub",
@@ -52,14 +61,56 @@
       "The nearby localities boast unparalleled social infrastructure, featuring top hospitals, international schools, high-end dining options, and recreational facilities. Understanding the surrounding landscape is key to appreciating the complete lifestyle benefit associated with this premium neighbourhood. Review these adjacent zones that contribute to the high quality of life enjoyed by DLF Phase 4 residents."
     ],
     "locations": [
-      "DLF Phase 1",
-      "Sushant Lok 1",
-      "DLF Cyber City",
-      "Golf Course Road",
-      "MG Road",
-      "South City 1",
-      "Sector 28 Gurugram",
-      "HUDA City Centre"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to find the ideal 2BHK flat for sale in DLF Phase 4 Contact our expert property consultants today. We provide personalised assistance and detailed insights into the latest inventory, pricing trends, and investment opportunities in this prime locality.",
       "Fill out the form below to receive a curated list of properties matching your exact specifications or to schedule a private viewing at your convenience. We look forward to helping you secure your dream home."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

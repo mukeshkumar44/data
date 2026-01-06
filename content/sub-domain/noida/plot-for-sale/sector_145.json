@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero-145-1.jpg",
-      "/images/hero-145-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The sector benefits immensely from its proximity to key infrastructural developments. The area is well-serviced by the Aqua Line Metro, providing seamless access to internal Noida sectors and major commercial hubs like Sector 137 and Sector 142. Furthermore, its adjacency to institutional and IT parks guarantees high demand for housing, making any Plot For Sale in Sector 145 a smart, future-proof acquisition. Review the critical proximity points that define the strategic advantage of this location."
     ],
     "locations": [
-      "Noida Expressway Access Point",
-      "Sector 144 Metro Station",
-      "Proximity to Tech Zone 4 Greater Noida",
-      "Near Sector 146 Commercial Hub",
-      "Upcoming Jewar International Airport Linkage",
-      "Adjacent to Reputed Schools and Universities",
-      "Easy Access to Jaypee Hospital",
-      "Seamless connectivity to Pari Chowk"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

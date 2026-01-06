@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "gcr_hero_1.jpg",
-      "gcr_hero_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The location’s value proposition extends beyond connectivity. Residents benefit from being moments away from world-class healthcare facilities, top-tier international schools, and premier retail destinations like South Point Mall and major luxury brand outlets. When you buy house in Golf Course Road, you are investing in a lifestyle defined by convenience and access to the best that the NCR has to offer."
     ],
     "locations": [
-      "Rapid Metro Stations Access to all major stations",
-      "Gurugram Cyber City Major IT and corporate hub",
-      "NH-48 Connectivity Direct route to Delhi and Jaipur",
-      "DLF Phase 5 Adjacent luxury residential sector",
-      "Indira Gandhi International Airport 30-minute drive via expressways",
-      "M G Road Commercial and entertainment corridor",
-      "Sector 54 Gurugram Prime residential neighborhood",
-      "Leading International Schools Within a 5-10 minute radius"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

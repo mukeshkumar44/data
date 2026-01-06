@@ -7,12 +7,18 @@
       "Discover seamless connectivity to major business hubs educational institutions and essential services right from your doorstep. Our listings are verified ensuring you move into a safe high-quality property without unnecessary delays. Start exploring the best rental opportunities in Ram Nagar today and secure the perfect place to call home whether you seek a fully-furnished corporate flat or a budget-friendly unfurnished option."
     ],
     "buttons": [
-      { "label": "Explore Available Flats", "path": "/listings" },
-      { "label": "Request a Callback", "path": "/contact" }
+      {
+        "label": "Explore Available Flats",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Callback",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "flat_ramnagar_exterior.jpg",
-      "ramnagar_living_room.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Explore rentals that benefit from excellent road networks proximity to Ambala Cantt railway station and easy access to local markets and hospitals. Expanding your search radius slightly can sometimes unlock even better value and newer property developments suitable for your Flat For Rent needs."
     ],
     "locations": [
-      "Near Ambala Cantt Railway Station",
-      "Ram Nagar Extension",
-      "Model Town Ambala",
-      "Adjoining Ram Bagh Area",
-      "Areas near Ambala Bus Stand",
-      "Close to Jagadhari Road",
-      "Sector 7 Ambala Residential Area",
-      "Central Ambala City Flats"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

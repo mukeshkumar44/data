@@ -7,12 +7,18 @@
       "Sector 29 provides excellent connectivity to major commercial centers educational institutions and medical facilities making it an ideal location for families and working professionals. Explore our curated selection of Flats For Rent in Sector 29 tailored to ensure a comfortable and secure lifestyle. Start your search now and experience stress-free property hunting with dedicated support from local experts."
     ],
     "buttons": [
-      { "label": "View Available Flats Now", "path": "/listings/sector-29" },
-      { "label": "Book A Site Visit", "path": "/contact-us" }
+      {
+        "label": "View Available Flats Now",
+        "path": "/listings/sector-29"
+      },
+      {
+        "label": "Book A Site Visit",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "flat_rental_sector29_karnal.jpg",
-      "sector29_building_view.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The locality is well-developed boasting proximity to top schools like DPS Karnal reputed hospitals and large retail centers ensuring all daily needs are met conveniently. Furthermore the area features beautifully maintained parks and green spaces providing a peaceful retreat from the urban rush. When reviewing Flats For Rent in Sector 29 consider how this superior location enhances your daily routine and overall quality of life. We focus on properties that maximize these locational benefits for our clients providing transparent insights into neighborhood accessibility and future development plans."
     ],
     "locations": [
-      "NH 44 Connectivity Hub",
-      "St Teresa's Convent School nearby",
-      "Karnal Technology Institute proximity",
-      "Major healthcare facilities access",
-      "Local Sector 29 shopping complex",
-      "Dedicated green parks and recreational zones",
-      "Easy access to public transportation nodes",
-      "Proximity to commercial business centers"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Don't miss out on the best rental opportunities in Sector 29. Contact our dedicated real estate team today to discuss your requirements schedule viewings and take the first step toward moving into your ideal home.",
       "Fill out the form below and an expert specializing in Flats For Rent in Sector 29 will reach out to provide personalized advice and curated property options within the next 24 hours."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

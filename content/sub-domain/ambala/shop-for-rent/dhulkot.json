@@ -1,4 +1,3 @@
-```json
 {
   "domain": "",
   "hero": {
@@ -8,10 +7,19 @@
       "With easy accessibility, bustling markets, and a growing customer base, Dhulkot is the ideal place to set up shop. Explore our curated selection of shops for rent and take the first step towards establishing your presence in this vibrant community."
     ],
     "buttons": [
-      { "label": "Browse Shops", "path": "/shop-listings" },
-      { "label": "Contact Us", "path": "/contact" }
+      {
+        "label": "Browse Shops",
+        "path": "/shop-listings"
+      },
+      {
+        "label": "Contact Us",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Shops For Rent in Dhulkot",
@@ -20,12 +28,30 @@
       "Each shop is strategically located in Dhulkot, ensuring high visibility and foot traffic. Take advantage of our detailed descriptions and images to find the perfect space for your business."
     ],
     "features": [
-      { "title": "Compact Shops", "description": "Ideal for small businesses, these shops offer a cozy yet functional space to start your retail journey." },
-      { "title": "Medium-Sized Shops", "description": "Perfect for growing businesses, these shops provide ample space for display and storage." },
-      { "title": "Large Shops", "description": "Designed for established businesses, these shops offer expansive areas for retail operations." },
-      { "title": "Corner Shops", "description": "Enjoy high visibility and accessibility with these prime corner locations." },
-      { "title": "Shops in Market Areas", "description": "Located in bustling markets, these shops ensure maximum customer engagement." },
-      { "title": "Shops with Parking", "description": "Conveniently located shops with parking facilities for both customers and staff." }
+      {
+        "title": "Compact Shops",
+        "description": "Ideal for small businesses, these shops offer a cozy yet functional space to start your retail journey."
+      },
+      {
+        "title": "Medium-Sized Shops",
+        "description": "Perfect for growing businesses, these shops provide ample space for display and storage."
+      },
+      {
+        "title": "Large Shops",
+        "description": "Designed for established businesses, these shops offer expansive areas for retail operations."
+      },
+      {
+        "title": "Corner Shops",
+        "description": "Enjoy high visibility and accessibility with these prime corner locations."
+      },
+      {
+        "title": "Shops in Market Areas",
+        "description": "Located in bustling markets, these shops ensure maximum customer engagement."
+      },
+      {
+        "title": "Shops with Parking",
+        "description": "Conveniently located shops with parking facilities for both customers and staff."
+      }
     ]
   },
   "locationsSection": {
@@ -34,7 +60,58 @@
       "Dhulkot is surrounded by several thriving neighborhoods and markets that offer excellent opportunities for businesses. Here are some nearby areas where you can find shops for rent.",
       "These locations are conveniently accessible from Dhulkot and provide a diverse customer base for your business."
     ],
-    "locations": ["Model Town", "Guru Nanak Colony", "Shanti Nagar", "Green Park", "Rajendra Park", "Civil Lines", "Prem Nagar", "Jawahar Nagar"]
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Why Choose Shops For Rent in Dhulkot",
@@ -43,30 +120,84 @@
       "From strategic locations to affordable rents, Dhulkot offers everything you need to succeed in the retail industry."
     ],
     "points": [
-      { "title": "Prime Locations", "description": "Our shops are located in high-traffic areas, ensuring maximum visibility and customer engagement." },
-      { "title": "Affordable Rents", "description": "Enjoy competitive rental rates that fit your budget without compromising on quality." },
-      { "title": "Growing Customer Base", "description": "Dhulkot’s expanding population provides a steady stream of potential customers for your business." },
-      { "title": "Easy Accessibility", "description": "With well-connected roads and public transport, your shop will be easily accessible to customers." },
-      { "title": "Diverse Business Opportunities", "description": "Whether you’re in retail, food, or services, Dhulkot offers a thriving market for all types of businesses." },
-      { "title": "Modern Amenities", "description": "Our shops come equipped with essential amenities to support your business operations." },
-      { "title": "Supportive Community", "description": "Dhulkot’s friendly and welcoming community makes it an ideal place to establish your business." },
-      { "title": "Future Growth Potential", "description": "With ongoing development projects, Dhulkot promises sustained growth and profitability for businesses." }
+      {
+        "title": "Prime Locations",
+        "description": "Our shops are located in high-traffic areas, ensuring maximum visibility and customer engagement."
+      },
+      {
+        "title": "Affordable Rents",
+        "description": "Enjoy competitive rental rates that fit your budget without compromising on quality."
+      },
+      {
+        "title": "Growing Customer Base",
+        "description": "Dhulkot’s expanding population provides a steady stream of potential customers for your business."
+      },
+      {
+        "title": "Easy Accessibility",
+        "description": "With well-connected roads and public transport, your shop will be easily accessible to customers."
+      },
+      {
+        "title": "Diverse Business Opportunities",
+        "description": "Whether you’re in retail, food, or services, Dhulkot offers a thriving market for all types of businesses."
+      },
+      {
+        "title": "Modern Amenities",
+        "description": "Our shops come equipped with essential amenities to support your business operations."
+      },
+      {
+        "title": "Supportive Community",
+        "description": "Dhulkot’s friendly and welcoming community makes it an ideal place to establish your business."
+      },
+      {
+        "title": "Future Growth Potential",
+        "description": "With ongoing development projects, Dhulkot promises sustained growth and profitability for businesses."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shops For Rent in Dhulkot",
     "description": "Got questions about renting a shop in Dhulkot? We’ve got answers. Explore our FAQs to learn more about the process, pricing, and benefits of renting a shop in this thriving area.",
     "faqs": [
-      { "question": "What types of shops are available for rent in Dhulkot", "answer": "We offer a variety of shops, including compact, medium-sized, and large spaces, as well as corner shops and shops with parking facilities." },
-      { "question": "How much does it cost to rent a shop in Dhulkot", "answer": "Rental prices vary depending on the size and location of the shop. Contact us for detailed pricing information." },
-      { "question": "Are there shops available in market areas", "answer": "Yes, we have shops located in bustling market areas to ensure high customer engagement." },
-      { "question": "What amenities are included with the shops", "answer": "Our shops come with essential amenities such as electricity, water, and parking facilities." },
-      { "question": "How do I apply to rent a shop in Dhulkot", "answer": "Simply browse our listings, select a shop, and contact us to start the rental process." },
-      { "question": "Is Dhulkot a good location for starting a business", "answer": "Absolutely. Dhulkot offers a growing customer base, affordable rents, and excellent accessibility, making it an ideal location for businesses." },
-      { "question": "Can I visit the shop before renting", "answer": "Yes, we encourage potential tenants to visit the shop and assess its suitability for their business." },
-      { "question": "Are there any discounts available for long-term rentals", "answer": "We offer competitive rates for long-term rentals. Contact us for more details." },
-      { "question": "What support do you provide after renting a shop", "answer": "We offer ongoing support to ensure your business thrives, including maintenance services and community engagement opportunities." },
-      { "question": "How can I contact you for more information", "answer": "You can reach us via phone, email, or by filling out the contact form on our website." }
+      {
+        "question": "What types of shops are available for rent in Dhulkot",
+        "answer": "We offer a variety of shops, including compact, medium-sized, and large spaces, as well as corner shops and shops with parking facilities."
+      },
+      {
+        "question": "How much does it cost to rent a shop in Dhulkot",
+        "answer": "Rental prices vary depending on the size and location of the shop. Contact us for detailed pricing information."
+      },
+      {
+        "question": "Are there shops available in market areas",
+        "answer": "Yes, we have shops located in bustling market areas to ensure high customer engagement."
+      },
+      {
+        "question": "What amenities are included with the shops",
+        "answer": "Our shops come with essential amenities such as electricity, water, and parking facilities."
+      },
+      {
+        "question": "How do I apply to rent a shop in Dhulkot",
+        "answer": "Simply browse our listings, select a shop, and contact us to start the rental process."
+      },
+      {
+        "question": "Is Dhulkot a good location for starting a business",
+        "answer": "Absolutely. Dhulkot offers a growing customer base, affordable rents, and excellent accessibility, making it an ideal location for businesses."
+      },
+      {
+        "question": "Can I visit the shop before renting",
+        "answer": "Yes, we encourage potential tenants to visit the shop and assess its suitability for their business."
+      },
+      {
+        "question": "Are there any discounts available for long-term rentals",
+        "answer": "We offer competitive rates for long-term rentals. Contact us for more details."
+      },
+      {
+        "question": "What support do you provide after renting a shop",
+        "answer": "We offer ongoing support to ensure your business thrives, including maintenance services and community engagement opportunities."
+      },
+      {
+        "question": "How can I contact you for more information",
+        "answer": "You can reach us via phone, email, or by filling out the contact form on our website."
+      }
     ]
   },
   "contactSection": {
@@ -75,7 +206,11 @@
       "Ready to find your perfect shop in Dhulkot? Contact us today for personalized assistance and expert advice.",
       "Our team is here to help you every step of the way, from browsing listings to finalizing your rental agreement."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }
-```

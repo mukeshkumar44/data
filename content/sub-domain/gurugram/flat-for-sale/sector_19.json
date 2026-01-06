@@ -7,12 +7,18 @@
       "Our curated selection includes meticulously designed apartments ranging from compact 1 BHK units ideal for young professionals to spacious 4 BHK homes perfect for growing families. Investing in a flat here guarantees not just a beautiful home but a solid asset poised for significant value appreciation. Explore the best properties and take the first step towards securing your future in Sector 19 today."
     ],
     "buttons": [
-      { "label": "Explore Available Flats", "path": "/listings/sector19" },
-      { "label": "Request a Callback", "path": "/contact" }
+      {
+        "label": "Explore Available Flats",
+        "path": "/listings/sector19"
+      },
+      {
+        "label": "Request a Callback",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "flat_sector19_hero1.jpg",
-      "flat_sector19_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "The sector benefits from fully developed infrastructure including wide roads reliable water and power supply and immediate access to top-tier social amenities. This established infrastructure minimizes the issues typically associated with newer developments guaranteeing a smooth and comfortable residential experience from day one."
     ],
     "locations": [
-      "Proximity to NH-19 Delhi-Mathura Highway",
-      "Short drive to Badarpur Border Delhi",
-      "Near Sector 20 and Sector 21",
-      "Excellent access to prominent schools and hospitals",
-      "Quick reach to Gurugram Old Metro Station",
-      "Close to major commercial markets"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -156,6 +206,11 @@
       "Ready to secure your ideal Flat For Sale in sector 19 Gurugram Contact our specialized property consultants today. We provide personalized assistance market insights and full support from initial viewing to final registration.",
       "Fill out the form below and let us help you navigate the Sector 19 real estate landscape effortlessly. Your perfect home is just a conversation away."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

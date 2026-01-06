@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "arya-nagar-rental-house-exterior.jpg",
-      "rohtak-rental-living-space.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,13 +61,56 @@
       "We provide neighborhood insights, focusing on noise levels, local market accessibility, and safety ratings for every House For Rent in Arya Nagar. Whether you need to be near the main Jhajjar Road, the quieter inner lanes, or close to the bypass for easier travel, our local experts have the intelligence to match you with the optimal rental spot, ensuring your move to Rohtak is smooth and well-placed."
     ],
     "locations": [
-      "MDU Campus Area Proximity Rentals",
-      "Houses Near Civil Hospital Rohtak",
-      "Residential Units Close to Main Arya Nagar Market",
-      "Rental Homes Near Rohtak Railway Station",
-      "Properties with Easy Access to NH 10 Bypass",
-      "Affordable Rentals near Sector 14 Rohtak",
-      "Quiet Residential Lanes of Arya Nagar Extension"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

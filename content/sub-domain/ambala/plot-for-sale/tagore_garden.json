@@ -7,12 +7,18 @@
       "We list verified plots ranging from compact 4 Marla options perfect for small families to expansive 14 Marla parcels suitable for luxury estates. Our listings are thoroughly vetted for clear titles and necessary approvals ensuring a smooth and secure transaction. Whether you are a first-time home builder or a seasoned investor purchasing a plot here guarantees access to established infrastructure wide internal roads and proximity to top schools hospitals and commercial centres. Start your search for the perfect land parcel in Tagore Garden Ambala today and lay the foundation for a prosperous tomorrow."
     ],
     "buttons": [
-      { "label": "View Available Plot Listings", "path": "/listings" },
-      { "label": "Request a Site Visit Now", "path": "/contact" }
+      {
+        "label": "View Available Plot Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Site Visit Now",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "tagore_garden_plot_hero_1.webp",
-      "tagore_garden_plot_hero_2.webp"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "Nearby established sectors and emerging residential colonies further solidify Tagore Garden’s appeal. Areas like Ambala Cantt and other prominent sectors are just a short drive away providing residents with access to major railway junctions military establishments and extensive retail options. Investing here means securing a plot in a location that is central highly connected and poised for continuous exponential growth driven by regional development plans and infrastructural upgrades."
     ],
     "locations": [
-      "Ambala Cantt Railway Station Proximity",
-      "National Highway Access NH-44",
-      "Proximity to Educational Hubs",
-      "Major Commercial Market Access",
-      "Connectivity to Industrial Areas",
-      "Nearby Medical Facilities and Hospitals"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

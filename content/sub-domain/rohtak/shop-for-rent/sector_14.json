@@ -7,12 +7,18 @@
       "We specialize in connecting ambitious entrepreneurs with high-demand commercial properties ranging from small office setups to expansive ground-floor retail showrooms. Explore our curated listings tailored to maximize your business potential ensuring your new location drives growth and profitability. Leverage the existing high foot traffic and strong infrastructure that define commercial viability in this premium sector."
     ],
     "buttons": [
-      { "label": "Explore Available Shops Now", "path": "/listings/sector-14-commercial" },
-      { "label": "Request Expert Consultation", "path": "/contact-us" }
+      {
+        "label": "Explore Available Shops Now",
+        "path": "/listings/sector-14-commercial"
+      },
+      {
+        "label": "Request Expert Consultation",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "shop-front-sector-14.jpg",
-      "commercial-street-rohtak.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "Whether you need proximity to the main institutional areas or prefer a quieter spot for specialized services knowing the local environment is paramount. We help you navigate the busy HUDA Market sector and the expanding commercial stretches along the Delhi Road extension ensuring your rental choice is a well-informed strategic decision based on real market data."
     ],
     "locations": [
-      "HUDA Market Commercial Center",
-      "Delhi Road Commercial Belt",
-      "Mansarovar Park Road Access",
-      "Sector 14 Institutional Area Shops",
-      "Model Town Extension Junction",
-      "TDI Mall Vicinity Commercial Spots"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -156,6 +206,11 @@
       "Ready to establish your business in the most strategic location in Rohtak We have exclusive listings for shops in Sector 14 that are not yet available on public platforms.",
       "Get in touch with our specialized commercial property consultants for personalized advice transparent pricing and immediate site visit arrangements. Let us secure the perfect commercial address for your successful future."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

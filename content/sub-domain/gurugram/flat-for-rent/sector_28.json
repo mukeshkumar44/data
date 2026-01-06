@@ -7,10 +7,19 @@
       "Whether you need a cozy 1 BHK for a single person, a spacious 2 BHK family apartment, or a sprawling 3 BHK luxury residence, our listings provide detailed information, high-quality visuals, and completely transparent pricing models. Stop the endless search through unreliable listings and start living your best life in a prime Sector 28 rental flat immediately. Explore the best available options with competitive rental yields and secure your dream home quickly with the help of our dedicated rental experts."
     ],
     "buttons": [
-      { "label": "Browse All Rental Flats in Sector 28", "path": "/search" },
-      { "label": "Schedule a Viewing Consultation", "path": "/contact" }
+      {
+        "label": "Browse All Rental Flats in Sector 28",
+        "path": "/search"
+      },
+      {
+        "label": "Schedule a Viewing Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Premium Flat For Rent Options in sector 28 Gurugram by Configuration Type",
@@ -52,14 +61,56 @@
       "Our portfolio includes rentals exclusively in highly rated, gated communities known for their superior amenities like reliable 24/7 power backup, reserved tenant parking, comprehensive security layers, and dedicated children’s play areas. We help you systematically compare different housing complexes based on critical factors such as maintenance costs, the age of the building, and crucial proximity to the Delhi border for easy access."
     ],
     "locations": [
-      "Sector 28 Apartments Complex",
-      "Green Valley View Residences",
-      "Near Neelam Ajronda Metro Station",
-      "Sector 29 Rental Hubs",
-      "Pali Road Connectivity Flats",
-      "Adjoining Sector 31 Properties",
-      "Crown Plaza Residential Units",
-      "NH-19 Access Flats"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Do not miss out on the best and most sought-after rental opportunities currently available in Sector 28 Gurugram. Our dedicated and experienced team is ready to assist you immediately with personalized property viewings and detailed, side-by-side property comparisons.",
       "Contact us today to discuss your specific residential requirements, your maximum rental budget, and your preferred move-in date. Let us handle the complex process and help you seamlessly unlock the doors to your new, perfectly situated home in Sector 28."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

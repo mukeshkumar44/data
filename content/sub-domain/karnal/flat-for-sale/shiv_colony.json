@@ -7,10 +7,19 @@
       "The demand for secure and well-connected housing in Karnal is consistently high and flats in Shiv Colony represent a smart investment opportunity. Enjoy the convenience of essential amenities excellent infrastructure and superb connectivity to major city centers. Explore our curated listings today and take the first step towards owning your dream home in one of Karnal’s most sought-after localities."
     ],
     "buttons": [
-      { "label": "Browse Verified Listings", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "Browse Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/shiv-colony-flat-exterior.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Diverse Apartment Configurations and Premium Amenities in Shiv Colony Karnal",
@@ -19,29 +28,29 @@
       "We provide detailed information on property specifications pricing and legal documentation ensuring complete transparency throughout the purchase process. From essential utilities to luxury recreational spaces discover the perfect ready-to-move flats for sale in Shiv Colony that meet all your family’s requirements."
     ],
     "features": [
-      { 
-        "title": "1 BHK Compact Living Options", 
-        "description": "These efficiently designed 1 BHK flats are perfect for singles students or young couples starting their careers. Offering optimum utilization of space and lower maintenance costs these units provide a foothold in the Karnal property market. They are strategically located near major transport hubs ensuring quick commutes and easy access to essential services making them an excellent first-time investment in Shiv Colony." 
+      {
+        "title": "1 BHK Compact Living Options",
+        "description": "These efficiently designed 1 BHK flats are perfect for singles students or young couples starting their careers. Offering optimum utilization of space and lower maintenance costs these units provide a foothold in the Karnal property market. They are strategically located near major transport hubs ensuring quick commutes and easy access to essential services making them an excellent first-time investment in Shiv Colony."
       },
-      { 
-        "title": "2 BHK Ideal Family Homes", 
-        "description": "The 2 BHK configurations are the most popular choice among families providing the right balance of space and affordability. These flats typically feature two bedrooms two bathrooms and a spacious living area ideal for comfortable family life. Discover modern layouts with good ventilation and access to reserved parking within the secure premises of Shiv Colony apartments." 
+      {
+        "title": "2 BHK Ideal Family Homes",
+        "description": "The 2 BHK configurations are the most popular choice among families providing the right balance of space and affordability. These flats typically feature two bedrooms two bathrooms and a spacious living area ideal for comfortable family life. Discover modern layouts with good ventilation and access to reserved parking within the secure premises of Shiv Colony apartments."
       },
-      { 
-        "title": "3 BHK Spacious Luxury Apartments", 
-        "description": "For those seeking more expansive living spaces the 3 BHK flats in Shiv Colony offer enhanced privacy and room for expansion. Enjoy larger balconies modular kitchens and premium finishes designed for upscale living. These properties are often found in well-established complexes providing added amenities like clubhouses gymnasiums and dedicated play areas for children." 
+      {
+        "title": "3 BHK Spacious Luxury Apartments",
+        "description": "For those seeking more expansive living spaces the 3 BHK flats in Shiv Colony offer enhanced privacy and room for expansion. Enjoy larger balconies modular kitchens and premium finishes designed for upscale living. These properties are often found in well-established complexes providing added amenities like clubhouses gymnasiums and dedicated play areas for children."
       },
-      { 
-        "title": "RERA Approved Projects Only", 
-        "description": "We prioritize listing apartments that are part of RERA registered projects ensuring legal compliance and investor safety. Buying a RERA approved flat guarantees transparency in carpet area construction timeline and legal ownership transfers. This commitment provides our buyers with peace of mind knowing their investment in Flats For Sale in Shiv Colony is fully protected and verified." 
+      {
+        "title": "RERA Approved Projects Only",
+        "description": "We prioritize listing apartments that are part of RERA registered projects ensuring legal compliance and investor safety. Buying a RERA approved flat guarantees transparency in carpet area construction timeline and legal ownership transfers. This commitment provides our buyers with peace of mind knowing their investment in Flats For Sale in Shiv Colony is fully protected and verified."
       },
-      { 
-        "title": "Modern Security and Safety Systems", 
-        "description": "Residential complexes in Shiv Colony are equipped with state-of-the-art security measures including 24/7 CCTV surveillance manned entry points and secure perimeter fencing. Modern fire safety equipment and intercom facilities are standard in newer developments providing a safe and protected environment for all residents. Security is a non-negotiable feature in all our recommended flats." 
+      {
+        "title": "Modern Security and Safety Systems",
+        "description": "Residential complexes in Shiv Colony are equipped with state-of-the-art security measures including 24/7 CCTV surveillance manned entry points and secure perimeter fencing. Modern fire safety equipment and intercom facilities are standard in newer developments providing a safe and protected environment for all residents. Security is a non-negotiable feature in all our recommended flats."
       },
-      { 
-        "title": "Premium Finishes and Quality Fittings", 
-        "description": "Experience the difference quality makes with apartments featuring high-quality construction materials and premium interior finishes. Expect branded sanitaryware durable flooring stylish electrical fittings and thoughtfully designed common areas. These details contribute significantly to the longevity and aesthetic appeal of your new flat in Shiv Colony Karnal ensuring minimal need for immediate renovations." 
+      {
+        "title": "Premium Finishes and Quality Fittings",
+        "description": "Experience the difference quality makes with apartments featuring high-quality construction materials and premium interior finishes. Expect branded sanitaryware durable flooring stylish electrical fittings and thoughtfully designed common areas. These details contribute significantly to the longevity and aesthetic appeal of your new flat in Shiv Colony Karnal ensuring minimal need for immediate renovations."
       }
     ]
   },
@@ -52,12 +61,56 @@
       "We continually update our database with flats across prime sectors near NH-44 and established colonies providing you with comprehensive options beyond Shiv Colony. Whether proximity to schools commercial centers or the railway station is your priority our listings cover all the best residential areas in Karnal."
     ],
     "locations": [
-      "Sector 6 Karnal Apartments",
-      "Sector 7 Housing Options",
-      "Sector 8 Ready-to-Move Flats",
-      "Model Town Residential Properties",
-      "Indri Road New Projects",
-      "Kunjpura Road Apartment Listings"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -67,37 +120,37 @@
       "Our team provides tailored consultation ensuring you select a flat that not only fits your immediate needs but also promises excellent future returns. Discover why securing one of the Flats For Sale in Shiv Colony is a decision you will celebrate for years to come."
     ],
     "points": [
-      { 
-        "title": "Strategic Central Location Advantage", 
-        "description": "Shiv Colony enjoys a prime location providing easy access to Karnal’s central business district and essential services. Its central placement minimizes travel time to workplaces schools and hospitals. This excellent connectivity ensures that residents benefit from urban convenience without sacrificing peace and accessibility which significantly boosts the appeal of flats here." 
+      {
+        "title": "Strategic Central Location Advantage",
+        "description": "Shiv Colony enjoys a prime location providing easy access to Karnal’s central business district and essential services. Its central placement minimizes travel time to workplaces schools and hospitals. This excellent connectivity ensures that residents benefit from urban convenience without sacrificing peace and accessibility which significantly boosts the appeal of flats here."
       },
-      { 
-        "title": "Robust Infrastructure and Utility Services", 
-        "description": "The area boasts well-maintained roads reliable water supply and consistent power availability features crucial for modern apartment living. Existing infrastructure supports comfortable residency minimizing common urban frustrations. Investing in a flat here means enjoying established municipal services and high-quality utility provision from day one." 
+      {
+        "title": "Robust Infrastructure and Utility Services",
+        "description": "The area boasts well-maintained roads reliable water supply and consistent power availability features crucial for modern apartment living. Existing infrastructure supports comfortable residency minimizing common urban frustrations. Investing in a flat here means enjoying established municipal services and high-quality utility provision from day one."
       },
-      { 
-        "title": "High Potential for Property Appreciation", 
-        "description": "Karnal’s real estate market particularly in established areas like Shiv Colony shows consistent growth trends. Flats purchased here have a strong potential for capital appreciation making them excellent long-term investments. As infrastructure develops further the value of Flats For Sale in Shiv Colony is expected to climb steadily." 
+      {
+        "title": "High Potential for Property Appreciation",
+        "description": "Karnal’s real estate market particularly in established areas like Shiv Colony shows consistent growth trends. Flats purchased here have a strong potential for capital appreciation making them excellent long-term investments. As infrastructure develops further the value of Flats For Sale in Shiv Colony is expected to climb steadily."
       },
-      { 
-        "title": "Proximity to Top Educational Institutions", 
-        "description": "Families benefit immensely from the close proximity of Shiv Colony to some of Karnal’s most reputed schools and colleges. Reduced commuting time for children is a major convenience factor enhancing the quality of family life. This accessibility makes these apartments highly desirable among families prioritizing education." 
+      {
+        "title": "Proximity to Top Educational Institutions",
+        "description": "Families benefit immensely from the close proximity of Shiv Colony to some of Karnal’s most reputed schools and colleges. Reduced commuting time for children is a major convenience factor enhancing the quality of family life. This accessibility makes these apartments highly desirable among families prioritizing education."
       },
-      { 
-        "title": "Excellent Connectivity to Major Highways", 
-        "description": "Shiv Colony offers smooth access to National Highway 44 connecting Karnal efficiently to Delhi Chandigarh and other major cities. This connectivity is vital for professionals who travel frequently or need quick access to regional transport links enhancing the practicality of residential life in these flats." 
+      {
+        "title": "Excellent Connectivity to Major Highways",
+        "description": "Shiv Colony offers smooth access to National Highway 44 connecting Karnal efficiently to Delhi Chandigarh and other major cities. This connectivity is vital for professionals who travel frequently or need quick access to regional transport links enhancing the practicality of residential life in these flats."
       },
-      { 
-        "title": "Access to Comprehensive Healthcare Facilities", 
-        "description": "Several specialized hospitals and healthcare centers are located within a short drive of Shiv Colony ensuring immediate medical attention is always available. Having critical care facilities nearby adds a significant layer of security and convenience for all age groups residing in these apartments." 
+      {
+        "title": "Access to Comprehensive Healthcare Facilities",
+        "description": "Several specialized hospitals and healthcare centers are located within a short drive of Shiv Colony ensuring immediate medical attention is always available. Having critical care facilities nearby adds a significant layer of security and convenience for all age groups residing in these apartments."
       },
-      { 
-        "title": "Availability of Ready-to-Move-In Options", 
-        "description": "Many verified flats in Shiv Colony are available for immediate possession allowing buyers to move in quickly without waiting for lengthy construction periods. Ready-to-move options reduce financial uncertainty and eliminate rental costs saving time and money for the new homeowner." 
+      {
+        "title": "Availability of Ready-to-Move-In Options",
+        "description": "Many verified flats in Shiv Colony are available for immediate possession allowing buyers to move in quickly without waiting for lengthy construction periods. Ready-to-move options reduce financial uncertainty and eliminate rental costs saving time and money for the new homeowner."
       },
-      { 
-        "title": "Secure and Peaceful Community Environment", 
-        "description": "The locality is known for its safe environment and active community associations fostering a pleasant living experience. Secure complexes and friendly neighborhoods contribute to a high quality of life making Flats For Sale in Shiv Colony appealing to those seeking tranquility alongside urban amenities." 
+      {
+        "title": "Secure and Peaceful Community Environment",
+        "description": "The locality is known for its safe environment and active community associations fostering a pleasant living experience. Secure complexes and friendly neighborhoods contribute to a high quality of life making Flats For Sale in Shiv Colony appealing to those seeking tranquility alongside urban amenities."
       }
     ]
   },
@@ -105,45 +158,45 @@
     "title": "Common Questions About Buying Flats For Sale in Shiv Colony Karnal",
     "description": "Get detailed answers to the most frequent queries regarding apartment purchases financial requirements and residential life in Shiv Colony Karnal.",
     "faqs": [
-      { 
-        "question": "What are the common BHK configurations available in Shiv Colony flats", 
-        "answer": "Shiv Colony primarily offers 1 BHK 2 BHK and 3 BHK apartments catering to diverse family needs and budgets. The 2 BHK units are generally the most prevalent offering a good balance of space and cost-effectiveness suitable for nuclear families. Larger 3 BHK flats are typically found in newer complexes with more amenities offering premium living space. We recommend assessing your long-term spatial needs before finalizing the configuration to ensure maximum comfort and utility." 
+      {
+        "question": "What are the common BHK configurations available in Shiv Colony flats",
+        "answer": "Shiv Colony primarily offers 1 BHK 2 BHK and 3 BHK apartments catering to diverse family needs and budgets. The 2 BHK units are generally the most prevalent offering a good balance of space and cost-effectiveness suitable for nuclear families. Larger 3 BHK flats are typically found in newer complexes with more amenities offering premium living space. We recommend assessing your long-term spatial needs before finalizing the configuration to ensure maximum comfort and utility."
       },
-      { 
-        "question": "Is it mandatory for flats in Shiv Colony to be RERA registered", 
-        "answer": "Yes for projects launched after 2017 RERA registration is mandatory in India including for flats in Shiv Colony Karnal. RERA registration ensures project transparency legal compliance and standardized construction timelines protecting the interests of the buyer. Always verify the RERA status of the apartment complex before signing any agreement to guarantee the legality and safety of your investment." 
+      {
+        "question": "Is it mandatory for flats in Shiv Colony to be RERA registered",
+        "answer": "Yes for projects launched after 2017 RERA registration is mandatory in India including for flats in Shiv Colony Karnal. RERA registration ensures project transparency legal compliance and standardized construction timelines protecting the interests of the buyer. Always verify the RERA status of the apartment complex before signing any agreement to guarantee the legality and safety of your investment."
       },
-      { 
-        "question": "What is the typical price range for a 2 BHK flat in this area", 
-        "answer": "The price range for 2 BHK Flats For Sale in Shiv Colony varies significantly based on several factors including the project age builder reputation exact location within the colony and the list of amenities provided. Generally prices start from Rs 35 lakh and can go up to Rs 65 lakh or more for premium ready-to-move-in apartments. Contact our property consultants for the most current and accurate pricing based on verified listings." 
+      {
+        "question": "What is the typical price range for a 2 BHK flat in this area",
+        "answer": "The price range for 2 BHK Flats For Sale in Shiv Colony varies significantly based on several factors including the project age builder reputation exact location within the colony and the list of amenities provided. Generally prices start from Rs 35 lakh and can go up to Rs 65 lakh or more for premium ready-to-move-in apartments. Contact our property consultants for the most current and accurate pricing based on verified listings."
       },
-      { 
-        "question": "What documentation is required to purchase a flat in Shiv Colony", 
-        "answer": "Key documentation typically includes the Sale Deed Khata Certificate sanctioned building plan Completion Certificate Occupation Certificate tax receipts and the Encumbrance Certificate. If financing through a loan banks will require KYC documents income proof and property valuation reports. Ensuring all documents are verified by a legal expert before transaction closure is highly recommended to avoid future disputes." 
+      {
+        "question": "What documentation is required to purchase a flat in Shiv Colony",
+        "answer": "Key documentation typically includes the Sale Deed Khata Certificate sanctioned building plan Completion Certificate Occupation Certificate tax receipts and the Encumbrance Certificate. If financing through a loan banks will require KYC documents income proof and property valuation reports. Ensuring all documents are verified by a legal expert before transaction closure is highly recommended to avoid future disputes."
       },
-      { 
-        "question": "Are there good options for apartment financing and home loans available", 
-        "answer": "Yes most major nationalized and private banks offer attractive home loan schemes for buying flats in Shiv Colony especially for RERA registered properties. Banks generally finance up to 80% of the property value depending on the applicant's credit score and income stability. We can connect you with trusted financial advisors who can help you navigate the loan application process efficiently and secure the best interest rates." 
+      {
+        "question": "Are there good options for apartment financing and home loans available",
+        "answer": "Yes most major nationalized and private banks offer attractive home loan schemes for buying flats in Shiv Colony especially for RERA registered properties. Banks generally finance up to 80% of the property value depending on the applicant's credit score and income stability. We can connect you with trusted financial advisors who can help you navigate the loan application process efficiently and secure the best interest rates."
       },
-      { 
-        "question": "How is the civic infrastructure and maintenance handled in apartment complexes", 
-        "answer": "Newer apartment complexes often have dedicated Residents Welfare Associations RWAs responsible for managing common area maintenance security garbage disposal and utility services. These associations charge a monthly maintenance fee which ensures facilities like elevators parking areas and landscaped gardens are kept in excellent condition. Understanding the maintenance charges and RWA rules is important before purchasing." 
+      {
+        "question": "How is the civic infrastructure and maintenance handled in apartment complexes",
+        "answer": "Newer apartment complexes often have dedicated Residents Welfare Associations RWAs responsible for managing common area maintenance security garbage disposal and utility services. These associations charge a monthly maintenance fee which ensures facilities like elevators parking areas and landscaped gardens are kept in excellent condition. Understanding the maintenance charges and RWA rules is important before purchasing."
       },
-      { 
-        "question": "What are the investment prospects for flats in Shiv Colony", 
-        "answer": "Investment prospects are strong due to Shiv Colony’s established residential status and increasing demand for rental properties in Karnal. Investors can expect reasonable rental yields especially from 1 BHK and 2 BHK units given the locality’s proximity to commercial zones. The capital appreciation trend remains positive fueled by ongoing city development projects and improved connectivity." 
+      {
+        "question": "What are the investment prospects for flats in Shiv Colony",
+        "answer": "Investment prospects are strong due to Shiv Colony’s established residential status and increasing demand for rental properties in Karnal. Investors can expect reasonable rental yields especially from 1 BHK and 2 BHK units given the locality’s proximity to commercial zones. The capital appreciation trend remains positive fueled by ongoing city development projects and improved connectivity."
       },
-      { 
-        "question": "What types of recreational amenities are usually provided with these flats", 
-        "answer": "Depending on the project scale amenities typically include reserved parking 24/7 power backup security services and community halls. Premium projects may offer additional features such as dedicated gymnasiums swimming pools children’s play areas jogging tracks and indoor sports facilities. Always check the specific amenities listed for each property before making a selection." 
+      {
+        "question": "What types of recreational amenities are usually provided with these flats",
+        "answer": "Depending on the project scale amenities typically include reserved parking 24/7 power backup security services and community halls. Premium projects may offer additional features such as dedicated gymnasiums swimming pools children’s play areas jogging tracks and indoor sports facilities. Always check the specific amenities listed for each property before making a selection."
       },
-      { 
-        "question": "Can NRIs buy flats in Shiv Colony and what are the regulations", 
-        "answer": "Yes Non-Resident Indians NRIs are fully permitted to purchase residential flats in Shiv Colony Karnal. The regulations are governed by FEMA the Foreign Exchange Management Act and typically require payment through NRE or NRO accounts. NRIs should consult with a property lawyer specializing in FEMA compliance to ensure all financial and legal steps are correctly followed during the purchase." 
+      {
+        "question": "Can NRIs buy flats in Shiv Colony and what are the regulations",
+        "answer": "Yes Non-Resident Indians NRIs are fully permitted to purchase residential flats in Shiv Colony Karnal. The regulations are governed by FEMA the Foreign Exchange Management Act and typically require payment through NRE or NRO accounts. NRIs should consult with a property lawyer specializing in FEMA compliance to ensure all financial and legal steps are correctly followed during the purchase."
       },
-      { 
-        "question": "Are older resale flats or new construction flats a better choice here", 
-        "answer": "Both options have merits. Older resale flats might offer immediate possession larger carpet area and lower pricing but might require renovation. New construction flats provide modern designs contemporary amenities and RERA protection but might have higher maintenance costs and a wait time. The best choice depends entirely on your budget timeline and preference for design standards." 
+      {
+        "question": "Are older resale flats or new construction flats a better choice here",
+        "answer": "Both options have merits. Older resale flats might offer immediate possession larger carpet area and lower pricing but might require renovation. New construction flats provide modern designs contemporary amenities and RERA protection but might have higher maintenance costs and a wait time. The best choice depends entirely on your budget timeline and preference for design standards."
       }
     ]
   },
@@ -153,6 +206,11 @@
       "Ready to find your ideal apartment in the heart of Karnal’s Shiv Colony We provide personalized assistance transparent dealings and exclusive access to the best properties that meet your specific criteria. Our local property experts are here to guide you through every step of the buying process from selection to legal documentation.",
       "Submit your details below or call us directly to schedule a personalized site visit or to receive a curated list of the latest flats for sale listings in Shiv Colony."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

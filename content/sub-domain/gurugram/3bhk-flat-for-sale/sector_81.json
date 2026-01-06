@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Features Defining the Finest 3BHK Flats Available For Sale in Sector 81 Gurugram",
@@ -58,14 +61,56 @@
       "Healthcare access is robust with major hospitals like Medanta and Artemis located within a short drive. Crucially the connectivity provided by the Dwarka Expressway ensures quick transit towards Delhi IGI Airport and major corporate hubs like Cyber City. This seamless connectivity drastically reduces commute times offering residents more time to enjoy their luxurious 3BHK homes. This strategic positioning makes Sector 81 a highly sought-after residential destination blending serenity with metropolitan convenience."
     ],
     "locations": [
-      "Dwarka Expressway",
-      "NH-48 Connectivity",
-      "IMT Manesar Industrial Area",
-      "Golf Course Extension Road",
-      "Vatika India Next Township",
-      "Upcoming Metro Station",
-      "Top Rated International Schools",
-      "Major Retail and Shopping Malls"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

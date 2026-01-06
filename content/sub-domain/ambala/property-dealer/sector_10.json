@@ -7,10 +7,19 @@
       "Navigating the real estate market in Ambala can be complex but our team simplifies the entire process We specialise in verified listings transparent documentation and negotiating the best deals for you Whether you are seeking a lucrative investment opportunity or planning to build your dream home trust the leading Property Dealer in Sector 10 Ambala to deliver results with integrity and professionalism Start your search with us today and experience the difference true local expertise makes."
     ],
     "buttons": [
-      { "label": "View Sector 10 Listings", "path": "/listings" },
-      { "label": "Request Expert Consultation", "path": "/contact" }
+      {
+        "label": "View Sector 10 Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Expert Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["sector10_hero1.jpg", "sector10_hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Popular Plot Sizes Available for Investment in Sector 10 Ambala Haryana",
@@ -52,14 +61,56 @@
       "We help you compare the investment potential across neighboring sectors providing tailored insights on pricing infrastructure quality and future growth projections Whether you are looking for a bustling commercial space near the main road or a quiet residential plot in an adjacent sector our comprehensive real estate network ensures you access the best opportunities beyond just Sector 10 We cover all key areas that make Ambala a dynamic real estate hub."
     ],
     "locations": [
-      "Sector 7 Ambala",
-      "Sector 9 Ambala",
-      "Model Town Ambala",
-      "Ambala Cantt Residential",
-      "Ambala City Properties",
-      "Defence Colony Ambala",
-      "Mansa Devi Complex",
-      "Baldev Nagar Properties"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Take the first step towards securing your ideal property investment in Sector 10 Ambala Our team of expert property dealers is ready to provide you with personalized advice verified listings and unparalleled market insights We guarantee a professional ethical and efficient service tailored exactly to your requirements.",
       "Fill out the contact form below and let the top Property Dealer in Sector 10 guide you to success Whether buying selling or investing your real estate journey starts here."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

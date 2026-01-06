@@ -7,10 +7,19 @@
       "Investing in a house in Ram Nagar is an excellent long-term decision. The area boasts robust infrastructure, easy access to major roads connecting to Ambala Cantt and Ambala City, and proximity to top educational institutions and healthcare facilities. Explore modern architecture, ample parking space, and secure environments. Begin your property search today and secure a valuable asset in the heart of Ambala's flourishing real estate market. Our local experts are ready to guide you through every step of finding the perfect house for sale in Ram Nagar."
     ],
     "buttons": [
-      { "label": "Explore Available Listings", "path": "/listings/ram-nagar" },
-      { "label": "Schedule a Property Viewing", "path": "/contact" }
+      {
+        "label": "Explore Available Listings",
+        "path": "/listings/ram-nagar"
+      },
+      {
+        "label": "Schedule a Property Viewing",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero-ramnagar-house1.jpg", "hero-ramnagar-house2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Diverse Residential House Options and Property Types Available in Ram Nagar Ambala",
@@ -52,14 +61,56 @@
       "The locality is designed for convenience. Within a short drive, you can reach several prominent landmarks including major hospitals like Civil Hospital Ambala, reputable schools such as DAV Public School and Army Public School, and comprehensive shopping centers. This robust infrastructure support enhances the overall quality of life and future appreciation value of any House For Sale in Ram Nagar Ambala. We understand that location is paramount, and Ram Nagar consistently delivers a premium neighborhood experience that meets all lifestyle requirements. Whether it is healthcare, education, or recreation, everything you need is easily accessible from your new Ram Nagar house."
     ],
     "locations": [
-      "Ambala City Railway Station",
-      "Ambala Cantt Junction",
-      "Model Town Ambala",
-      "Baldev Nagar",
-      "Sector 7 Ambala",
-      "Civil Hospital Ambala",
-      "DAV Public School",
-      "NH 44 Access Points"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning your perfect House For Sale in Ram Nagar Ambala. Our team of local real estate experts possesses in-depth knowledge of market trends and property values in this area.",
       "Contact us now for personalized property recommendations, detailed virtual tours, and expert guidance throughout the buying process. Your ideal Ram Nagar home awaits."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,10 +7,19 @@
       "Explore a wide range of apartments including spacious 2 BHK, luxurious 3 BHK, and expansive 4 BHK flats designed to meet diverse lifestyle needs. Our curated listings feature properties from reputable builders ensuring high construction standards and modern amenities. Whether you are a first-time homebuyer or looking to upgrade, buying a flat in Sector 88 Gurugram offers unmatched value and superb quality of life. Start your search today and step closer to owning your ideal home."
     ],
     "buttons": [
-      { "label": "Explore Available Flats", "path": "/flats-for-sale/sector-88" },
-      { "label": "Schedule a Site Visit", "path": "/contact-us" }
+      {
+        "label": "Explore Available Flats",
+        "path": "/flats-for-sale/sector-88"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["/images/sector88_hero1.jpg", "/images/sector88_hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Popular Configurations of Flats For Sale in Sector 88 Gurugram Designed for Modern Living",
@@ -19,12 +28,30 @@
       "From compact yet efficient homes perfect for nuclear families and young professionals, to sprawling residences ideal for joint families, the residential landscape of Sector 88 is vibrant and accommodating. Each configuration is thoughtfully planned to enhance daily comfort and provide a sanctuary away from the city bustle. Discover the specific flat size that perfectly matches your aspirations for a home in this sought-after locality."
     ],
     "features": [
-      { "title": "1 BHK Apartments", "description": "Ideal for singles, students, or young professionals, 1 BHK flats in Sector 88 offer efficient, low-maintenance living. These units provide a comfortable bedroom, living area, and kitchen, optimized for independent city life. They represent an excellent entry point into the Gurugram real estate market." },
-      { "title": "2 BHK Flats", "description": "The most popular choice for small families or couples, 2 BHK flats provide adequate space and flexibility. Listings typically include two bedrooms, two bathrooms, and a balcony, offering a balanced mix of privacy and communal living. These flats often feature modern club facilities and security." },
-      { "title": "3 BHK Luxury Homes", "description": "Discover spacious 3 BHK Flat For Sale in sector_88, perfect for growing families needing extra room. These apartments usually include servant quarters options, larger living rooms, and premium finishes. Enjoy world-class amenities like swimming pools, gyms, and designated parking spaces within gated communities." },
-      { "title": "4 BHK Premium Residences", "description": "For those seeking ultimate luxury and expansive space, 4 BHK flats are the epitome of upscale living in Sector 88 Gurugram. These large units provide multiple living areas, utility rooms, and expansive views, ideal for large or joint families who do not wish to compromise on comfort or grandeur." },
-      { "title": "Penthouse Options", "description": "A select number of projects offer exclusive penthouse units providing unparalleled luxury and privacy. These top-floor residences often feature private terraces, bespoke interior designs, and panoramic views of the city skyline, delivering a unique, high-end residential experience." },
-      { "title": "Ready-to-Move Flats", "description": "Many properties in Sector 88 are available as ready-to-move options, eliminating the waiting period and allowing immediate possession. This is highly advantageous for buyers looking to avoid rental expenses and needing a quick transition into their new home environment." }
+      {
+        "title": "1 BHK Apartments",
+        "description": "Ideal for singles, students, or young professionals, 1 BHK flats in Sector 88 offer efficient, low-maintenance living. These units provide a comfortable bedroom, living area, and kitchen, optimized for independent city life. They represent an excellent entry point into the Gurugram real estate market."
+      },
+      {
+        "title": "2 BHK Flats",
+        "description": "The most popular choice for small families or couples, 2 BHK flats provide adequate space and flexibility. Listings typically include two bedrooms, two bathrooms, and a balcony, offering a balanced mix of privacy and communal living. These flats often feature modern club facilities and security."
+      },
+      {
+        "title": "3 BHK Luxury Homes",
+        "description": "Discover spacious 3 BHK Flat For Sale in sector_88, perfect for growing families needing extra room. These apartments usually include servant quarters options, larger living rooms, and premium finishes. Enjoy world-class amenities like swimming pools, gyms, and designated parking spaces within gated communities."
+      },
+      {
+        "title": "4 BHK Premium Residences",
+        "description": "For those seeking ultimate luxury and expansive space, 4 BHK flats are the epitome of upscale living in Sector 88 Gurugram. These large units provide multiple living areas, utility rooms, and expansive views, ideal for large or joint families who do not wish to compromise on comfort or grandeur."
+      },
+      {
+        "title": "Penthouse Options",
+        "description": "A select number of projects offer exclusive penthouse units providing unparalleled luxury and privacy. These top-floor residences often feature private terraces, bespoke interior designs, and panoramic views of the city skyline, delivering a unique, high-end residential experience."
+      },
+      {
+        "title": "Ready-to-Move Flats",
+        "description": "Many properties in Sector 88 are available as ready-to-move options, eliminating the waiting period and allowing immediate possession. This is highly advantageous for buyers looking to avoid rental expenses and needing a quick transition into their new home environment."
+      }
     ]
   },
   "locationsSection": {
@@ -34,14 +61,56 @@
       "The local infrastructure is robust, featuring well-maintained internal roads, consistent water supply, and reliable power backup provisions in most residential societies. Furthermore, the development includes dedicated green spaces, commercial complexes, and retail centers within easy reach, solidifying Sector 88 as a self-sufficient and thriving residential ecosystem."
     ],
     "locations": [
-      "Proximity to Badarpur Border",
-      "Easy access to Delhi Metro connectivity",
-      "Near major educational institutions and universities",
-      "Close to shopping malls and entertainment centers",
-      "Excellent road network connecting to NH-2",
-      "Nearby state-of-the-art multi-specialty hospitals",
-      "Well-planned internal sector roads",
-      "Seamless connectivity to Greater Gurugram"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -51,30 +120,84 @@
       "The ongoing infrastructural development, combined with the presence of renowned builders, ensures quality assurance and long-term value retention. We are committed to helping you navigate the market to find an investment that guarantees peace of mind and substantial future returns."
     ],
     "points": [
-      { "title": "High Investment Returns Potential", "description": "Sector 88 is designated as a future growth zone within Greater Gurugram, indicating strong potential for property value appreciation. Early investment here promises significant ROI as the area matures and commercial activity increases. Secure your capital in a location that is rapidly gaining prominence." },
-      { "title": "Superior Gated Community Living", "description": "Most flats here are situated within secure, gated complexes offering 24/7 security, controlled access, and CCTV surveillance. These communities foster a safe environment, particularly essential for families with children and elderly members, ensuring true peace of mind." },
-      { "title": "Modern Residential Amenities", "description": "Enjoy an array of luxury amenities designed for holistic living. This typically includes clubhouses, large swimming pools, fully equipped gymnasiums, sports courts, jogging tracks, and dedicated children’s play zones right outside your flat door in Sector 88." },
-      { "title": "Excellent Social Infrastructure", "description": "The surrounding area is equipped with world-class social amenities. Reputable schools, high-quality hospitals, bustling retail markets, and fine-dining restaurants are all just a short drive away, making daily life convenient and enjoyable for residents." },
-      { "title": "Green and Pollution-Free Environment", "description": "Despite being an urban hub, Sector 88 maintains significant green cover and open spaces. This commitment to ecology ensures a healthier, less polluted living environment compared to the cramped city centres, promoting a better quality of life for all residents." },
-      { "title": "Quality Construction Guaranteed", "description": "Properties listed in Sector 88 are built by leading real estate developers known for their commitment to quality construction and timely project delivery. This minimizes risks and guarantees that your flat meets high structural and aesthetic standards." },
-      { "title": "Flexible Payment Plans Available", "description": "Many developers offer attractive and flexible payment schemes, making it easier for aspiring homeowners to manage their finances. We can connect you with properties featuring suitable payment options and assistance with home loan processing." },
-      { "title": "Diverse Housing Options", "description": "The sector offers an unbeatable mix of inventory, ranging from affordable compact flats to ultra-luxury apartments. Whatever your requirement or budget, Sector 88 has the perfect Flat For Sale waiting for you, ensuring everyone finds their ideal home." }
+      {
+        "title": "High Investment Returns Potential",
+        "description": "Sector 88 is designated as a future growth zone within Greater Gurugram, indicating strong potential for property value appreciation. Early investment here promises significant ROI as the area matures and commercial activity increases. Secure your capital in a location that is rapidly gaining prominence."
+      },
+      {
+        "title": "Superior Gated Community Living",
+        "description": "Most flats here are situated within secure, gated complexes offering 24/7 security, controlled access, and CCTV surveillance. These communities foster a safe environment, particularly essential for families with children and elderly members, ensuring true peace of mind."
+      },
+      {
+        "title": "Modern Residential Amenities",
+        "description": "Enjoy an array of luxury amenities designed for holistic living. This typically includes clubhouses, large swimming pools, fully equipped gymnasiums, sports courts, jogging tracks, and dedicated children’s play zones right outside your flat door in Sector 88."
+      },
+      {
+        "title": "Excellent Social Infrastructure",
+        "description": "The surrounding area is equipped with world-class social amenities. Reputable schools, high-quality hospitals, bustling retail markets, and fine-dining restaurants are all just a short drive away, making daily life convenient and enjoyable for residents."
+      },
+      {
+        "title": "Green and Pollution-Free Environment",
+        "description": "Despite being an urban hub, Sector 88 maintains significant green cover and open spaces. This commitment to ecology ensures a healthier, less polluted living environment compared to the cramped city centres, promoting a better quality of life for all residents."
+      },
+      {
+        "title": "Quality Construction Guaranteed",
+        "description": "Properties listed in Sector 88 are built by leading real estate developers known for their commitment to quality construction and timely project delivery. This minimizes risks and guarantees that your flat meets high structural and aesthetic standards."
+      },
+      {
+        "title": "Flexible Payment Plans Available",
+        "description": "Many developers offer attractive and flexible payment schemes, making it easier for aspiring homeowners to manage their finances. We can connect you with properties featuring suitable payment options and assistance with home loan processing."
+      },
+      {
+        "title": "Diverse Housing Options",
+        "description": "The sector offers an unbeatable mix of inventory, ranging from affordable compact flats to ultra-luxury apartments. Whatever your requirement or budget, Sector 88 has the perfect Flat For Sale waiting for you, ensuring everyone finds their ideal home."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Buying a Flat For Sale in sector_88 Gurugram",
     "description": "Get detailed answers to common inquiries regarding property ownership, location advantages, and investment potential in this premium Gurugram locality.",
     "faqs": [
-      { "question": "What are the common sizes available for flats in Sector 88 Gurugram", "answer": "The residential market in Sector 88 primarily features configurations ranging from 2 BHK to 4 BHK. 2 BHK flats typically range between 900 sq ft to 1200 sq ft, while 3 BHK units are often found between 1400 sq ft and 2200 sq ft. Larger 4 BHK luxury apartments can exceed 2500 sq ft. We recommend specifying your exact spatial requirements so we can match you with the most suitable Flat For Sale in sector_88 that meets your family's needs." },
-      { "question": "Is Sector 88 a good area for long-term real estate investment", "answer": "Absolutely Sector 88 is considered one of the best areas for long-term investment in Gurugram. Its location along the Greater Gurugram development corridor, excellent connectivity to the NCR, and ongoing government and private infrastructure projects contribute to strong capital appreciation forecasts. The steady demand for high-quality residential units also assures good rental yields." },
-      { "question": "What is the typical price range for a 3 BHK Flat For Sale in sector_88", "answer": "The price range for a 3 BHK flat in Sector 88 can vary significantly based on the builder, the society's age, the specific amenities offered, and the size of the unit. Generally, prices start from approximately INR 65 Lakhs and can go up to INR 1.5 Crore or more for premium, ready-to-move-in luxury apartments with high-end specifications. Contact our experts for the latest, most accurate market pricing." },
-      { "question": "Are there any ready-to-move properties available or only under-construction projects", "answer": "Sector 88 offers a healthy mix of both ready-to-move (RTM) and under-construction projects. Many established societies now have RTM flats which are ideal if you need immediate occupancy. Newer developments also offer attractive payment plans for under-construction flats. We maintain an up-to-date database of all available inventory for both categories." },
-      { "question": "How is the connectivity of Sector 88 to Delhi and other parts of the NCR", "answer": "Connectivity is a major strength of Sector 88. It is strategically located close to the major expressways including the FNG corridor and is well-linked to NH-2 (Delhi-Agra National Highway). Furthermore, the proximity to the upcoming metro extension ensures swift travel to central Delhi and surrounding regions, significantly improving the daily commute for residents." },
-      { "question": "What types of amenities can I expect when purchasing a flat in this locality", "answer": "Residential societies offering a Flat For Sale in sector_88 typically feature top-tier amenities. These include 24/7 security and power backup, large swimming pools, state-of-the-art clubhouses, dedicated sports facilities such as tennis and basketball courts, landscaped gardens, and ample basement or multi-level parking spaces designed for resident convenience." },
-      { "question": "Is Sector 88 considered safe and secure for families", "answer": "Yes Sector 88 is known for its high level of security and safety. The majority of residential complexes are gated communities with comprehensive security measures including manned gates, boom barriers, video surveillance (CCTV), and intercom systems. The planning of the sector emphasizes residential comfort and security as primary considerations." },
-      { "question": "Are home loans easily available for properties in Sector 88", "answer": "Since Sector 88 features projects by major reputed builders and falls under approved residential zones, securing home loans from leading banks and financial institutions is straightforward. We can assist you in connecting with financial partners who offer competitive interest rates and smooth approval processes for buying a Flat For Sale in sector_88." },
-      { "question": "What is the quality of social infrastructure like schools and hospitals nearby", "answer": "The social infrastructure near Sector 88 is excellent. It hosts or is very close to several reputed schools like DPS and Amity, and major hospitals such as Asian Hospital and Amrita Hospital. This robust presence of high-quality educational and healthcare facilities makes it an ideal place for family settlement." },
-      { "question": "Can I find rental properties easily if I buy a flat for investment purposes", "answer": "The demand for rental properties in Sector 88 is strong, driven by professionals working in Gurugram, Noida, and the neighboring corporate hubs. Investing here provides a reliable source of rental income, especially for 2 BHK and 3 BHK units which are highly sought after by young families and working professionals seeking quality accommodation." }
+      {
+        "question": "What are the common sizes available for flats in Sector 88 Gurugram",
+        "answer": "The residential market in Sector 88 primarily features configurations ranging from 2 BHK to 4 BHK. 2 BHK flats typically range between 900 sq ft to 1200 sq ft, while 3 BHK units are often found between 1400 sq ft and 2200 sq ft. Larger 4 BHK luxury apartments can exceed 2500 sq ft. We recommend specifying your exact spatial requirements so we can match you with the most suitable Flat For Sale in sector_88 that meets your family's needs."
+      },
+      {
+        "question": "Is Sector 88 a good area for long-term real estate investment",
+        "answer": "Absolutely Sector 88 is considered one of the best areas for long-term investment in Gurugram. Its location along the Greater Gurugram development corridor, excellent connectivity to the NCR, and ongoing government and private infrastructure projects contribute to strong capital appreciation forecasts. The steady demand for high-quality residential units also assures good rental yields."
+      },
+      {
+        "question": "What is the typical price range for a 3 BHK Flat For Sale in sector_88",
+        "answer": "The price range for a 3 BHK flat in Sector 88 can vary significantly based on the builder, the society's age, the specific amenities offered, and the size of the unit. Generally, prices start from approximately INR 65 Lakhs and can go up to INR 1.5 Crore or more for premium, ready-to-move-in luxury apartments with high-end specifications. Contact our experts for the latest, most accurate market pricing."
+      },
+      {
+        "question": "Are there any ready-to-move properties available or only under-construction projects",
+        "answer": "Sector 88 offers a healthy mix of both ready-to-move (RTM) and under-construction projects. Many established societies now have RTM flats which are ideal if you need immediate occupancy. Newer developments also offer attractive payment plans for under-construction flats. We maintain an up-to-date database of all available inventory for both categories."
+      },
+      {
+        "question": "How is the connectivity of Sector 88 to Delhi and other parts of the NCR",
+        "answer": "Connectivity is a major strength of Sector 88. It is strategically located close to the major expressways including the FNG corridor and is well-linked to NH-2 (Delhi-Agra National Highway). Furthermore, the proximity to the upcoming metro extension ensures swift travel to central Delhi and surrounding regions, significantly improving the daily commute for residents."
+      },
+      {
+        "question": "What types of amenities can I expect when purchasing a flat in this locality",
+        "answer": "Residential societies offering a Flat For Sale in sector_88 typically feature top-tier amenities. These include 24/7 security and power backup, large swimming pools, state-of-the-art clubhouses, dedicated sports facilities such as tennis and basketball courts, landscaped gardens, and ample basement or multi-level parking spaces designed for resident convenience."
+      },
+      {
+        "question": "Is Sector 88 considered safe and secure for families",
+        "answer": "Yes Sector 88 is known for its high level of security and safety. The majority of residential complexes are gated communities with comprehensive security measures including manned gates, boom barriers, video surveillance (CCTV), and intercom systems. The planning of the sector emphasizes residential comfort and security as primary considerations."
+      },
+      {
+        "question": "Are home loans easily available for properties in Sector 88",
+        "answer": "Since Sector 88 features projects by major reputed builders and falls under approved residential zones, securing home loans from leading banks and financial institutions is straightforward. We can assist you in connecting with financial partners who offer competitive interest rates and smooth approval processes for buying a Flat For Sale in sector_88."
+      },
+      {
+        "question": "What is the quality of social infrastructure like schools and hospitals nearby",
+        "answer": "The social infrastructure near Sector 88 is excellent. It hosts or is very close to several reputed schools like DPS and Amity, and major hospitals such as Asian Hospital and Amrita Hospital. This robust presence of high-quality educational and healthcare facilities makes it an ideal place for family settlement."
+      },
+      {
+        "question": "Can I find rental properties easily if I buy a flat for investment purposes",
+        "answer": "The demand for rental properties in Sector 88 is strong, driven by professionals working in Gurugram, Noida, and the neighboring corporate hubs. Investing here provides a reliable source of rental income, especially for 2 BHK and 3 BHK units which are highly sought after by young families and working professionals seeking quality accommodation."
+      }
     ]
   },
   "contactSection": {
@@ -83,6 +206,11 @@
       "Ready to take the next step towards owning your perfect home in Sector 88 Gurugram? Our dedicated real estate advisors specialize in this locality and possess the expertise to guide you through every stage of the buying process.",
       "Fill out the form below to receive personalized listings, arrange site visits, and get unbiased market insights. Let us help you secure a profitable and beautiful Flat For Sale in sector_88 that matches your lifestyle and investment goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

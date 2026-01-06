@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "house-rental-sector-35-rohtak.jpg",
-      "independent-home-exterior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "Major shopping complexes and daily convenience stores are within easy reach, minimizing the need for long-distance travel for essential errands. This balance between urban infrastructure and localized community feel is what sets Sector 35 apart. We analyze the micro-location of every rental property, highlighting its specific benefits whether it is being close to a major park or having direct access to public transport routes, ensuring you make an informed decision about where to live in Rohtak."
     ],
     "locations": [
-      "IMT Rohtak Industrial Model Township Access",
-      "Delhi Bypass Road Connectivity",
-      "Maharshi Dayanand University MDU Campus",
-      "Sector 36 Residential Area",
-      "Tilyar Lake Tourist Spot Proximity",
-      "Rohtak Railway Station Access Route"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

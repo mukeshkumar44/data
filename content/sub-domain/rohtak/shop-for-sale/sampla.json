@@ -7,10 +7,19 @@
       "Investing in a shop in Sampla allows you to capitalize on its strategic location right on major national routes and its consistently growing local consumer base. Whether you require a small retail outlet for daily needs, a large showroom space for major brands, or a strategically located shop unit near the main market, our extensive portfolio holds the perfect commercial fit for your needs and budget. Explore verified listings, understand current market rates, and partner with our property experts to finalize your purchase seamlessly, securely, and with complete legal clarity. Start your search for the perfect commercial investment today."
     ],
     "buttons": [
-      { "label": "View Prime Commercial Listings", "path": "/listings" },
-      { "label": "Get Free Investment Consultation", "path": "/contact" }
+      {
+        "label": "View Prime Commercial Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Free Investment Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["shop_sampla1.jpg", "commercial_property_sampla.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Options for Commercial Shop For Sale in Sampla Investment Opportunities",
@@ -52,14 +61,56 @@
       "Whether you are targeting high volume transactional zones near the bus stand or seeking quieter, neighborhood retail spaces within newly developed colonies, our portfolio covers the full spectrum. Review these prominent commercial sectors and localities that are driving the demand for a Shop For Sale in Sampla, ensuring your investment is placed in a growth trajectory."
     ],
     "locations": [
-      "Main Market Sampla Central Hub",
-      "Sampla Bus Stand Area Commercial Frontage",
-      "Sampla Industrial Area Commercial Outlets",
-      "Delhi Rohtak Highway Frontage Shops",
-      "Gohana Road Commercial Corridor",
-      "Retail Hubs Near IMT Rohtak Extension",
-      "Sampla Railway Station Commercial Zone",
-      "New Housing Colony Retail Pockets"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to invest in the perfect Shop For Sale in Sampla Rohtak We offer personalized guidance, comprehensive property tours, and detailed financial analysis to ensure your commercial investment is successful and stress-free. Our team is committed to providing accurate market intelligence and legal support throughout the entire buying process.",
       "Fill out the form below to receive a customized portfolio of commercial listings that match your specific investment criteria and budget. Start securing your high-yield asset in Sampla now."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

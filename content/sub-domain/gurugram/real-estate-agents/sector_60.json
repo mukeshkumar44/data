@@ -17,7 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero-sector60.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -60,14 +61,56 @@
       "Understanding the subtle differences between neighboring sectors like 58, 65, and 67 is crucial for making a high-value informed decision. For instance, while Sector 60 offers established luxury projects, Sector 65 might provide better entry-level investment potential in certain segments. We offer detailed comparative analysis on infrastructure quality, expected appreciation rates, and current rental yields across all these prime locations. Let our experienced agents guide you strategically across the Gurugram property map to find the perfect fit for your specific investment profile."
     ],
     "locations": [
-      "Sector 58 Gurugram",
-      "Sector 59 Residential Hub",
-      "Sector 61 Investment Opportunities",
-      "Sector 62 Commercial Spaces",
-      "Sector 63 New Developments",
-      "Sector 65 Luxury Properties",
-      "Sector 67 High-Rise Living",
-      "Golf Course Extension Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

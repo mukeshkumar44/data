@@ -7,10 +7,19 @@
       "Our dedicated team of Real Estate Agents in Sector 48 understands the intricate dynamics of local pricing trends upcoming infrastructure projects and essential regulatory requirements. We ensure you make sound well-informed investment decisions whether you are actively buying selling or renting property here. We simplify complex transactions delivering transparent efficient service perfectly tailored to your specific financial goals and residential needs."
     ],
     "buttons": [
-      { "label": "Search Properties Now", "path": "/properties" },
-      { "label": "Schedule a Consultation", "path": "/contact" }
+      {
+        "label": "Search Properties Now",
+        "path": "/properties"
+      },
+      {
+        "label": "Schedule a Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/sector48_hero1.jpg", "/images/sector48_agent_team.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Property Options Through Our Dedicated Sector 48 Agents Gurugram",
@@ -52,14 +61,56 @@
       "Our extensive local knowledge ensures seamless property search and accurate valuation across the entire micro-market zone near Sector 48."
     ],
     "locations": [
-      "Sector 49",
-      "Sector 47",
-      "Sector 50",
-      "Nirvana Country",
-      "Sohna Road",
-      "Sector 46",
-      "Golf Course Extension Road",
-      "South City 2"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to find your ideal property or secure the highest valuation for your current asset in Sector 48 Gurugram The journey to successful real estate transactions begins with expert consultation.",
       "Reach out to our professional team now for personalized advice localized market reports and exclusive property listings that match your specific requirements. We are here to help you achieve your property goals efficiently."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

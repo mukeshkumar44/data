@@ -7,12 +7,18 @@
       "Explore our verified listings featuring a diverse range of rental properties from modern 1 BHK apartments perfect for professionals to spacious 3 BHK homes ideal for families. Every rental flat in Sector 19 listed on our platform is vetted for quality, maintenance, and adherence to transparent rental agreements. We prioritize your renting experience, offering detailed virtual tours and expert support throughout the entire application process. Start your hassle-free search now and discover why Sector 19 Gurugram is the preferred destination for quality rental living."
     ],
     "buttons": [
-      { "label": "View All Flats", "path": "/listings" },
-      { "label": "Request Callback", "path": "/contact" }
+      {
+        "label": "View All Flats",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Callback",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "flat_sector19_hero1.jpg",
-      "flat_sector19_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The connectivity provided by the Delhi Metro via the Neelam Chowk Ajronda station ensures fast transit. Furthermore, the sector is well-served by local transport and is known for its excellent urban planning, making any Flat For Rent in sector 19 a wise logistical choice for commuters."
     ],
     "locations": [
-      "Sector 18 Gurugram Residential Flats",
-      "Sector 17 Market Area Rentals",
-      "Sector 20 Gurugram Apartments",
-      "Nehru Ground Retail and Residential Hub",
-      "NHPC Chowk Access Points",
-      "Sector 16 Market Proximity",
-      "Old Gurugram Connectivity",
-      "Delhi-Mathura Road Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to secure your perfect Flat For Rent in sector 19 We are here to simplify your property search and answer any detailed questions you may have about the local market, pricing, and available inventory.",
       "Submit your details using the contact form below and a dedicated real estate consultant will reach out to provide personalized assistance and schedule property viewings at your convenience. Your ideal home in Sector 19 is just a click away."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

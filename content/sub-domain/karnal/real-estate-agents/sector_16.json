@@ -7,10 +7,19 @@
       "These expert agents possess in-depth knowledge of current market valuations, legal documentation, and negotiation strategies ensuring you achieve the best possible price whether buying or selling property. Avoid common transactional pitfalls and streamline your entire property journey with reliable professionals by your side. We vet every agent to ensure they provide transparent and ethical service focused entirely on your financial goals. Start your search for trustworthy Real Estate Agents in Sector 16 today and make your next property move with confidence."
     ],
     "buttons": [
-      { "label": "Connect with Top Agents Now", "path": "/contact" },
-      { "label": "View Sector 16 Property Listings", "path": "/listings" }
+      {
+        "label": "Connect with Top Agents Now",
+        "path": "/contact"
+      },
+      {
+        "label": "View Sector 16 Property Listings",
+        "path": "/listings"
+      }
     ],
-    "images": ["hero-sector16-1.jpg", "hero-sector16-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Prime Investment Opportunities Handled by Expert Real Estate Agents in Sector 16 Karnal",
@@ -51,7 +60,58 @@
       "Sector 16 benefits significantly from its strategic location in Karnal offering excellent connectivity to key neighboring sectors and vital city amenities. Understanding the surrounding locality is essential when determining property value and future growth prospects.",
       "Our Real Estate Agents in Sector 16 possess detailed knowledge not just of the sector itself but also of the adjacent areas influencing local demand and pricing. This comprehensive perspective ensures you receive well-rounded advice whether you are buying a home or investing in commercial property nearby."
     ],
-    "locations": ["Sector 15", "Sector 13", "Model Town", "Arjun Nagar", "Railway Road", "Namaste Chowk", "NH 44 Connectivity"]
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Why Partner with Our Recommended Real Estate Agents in Sector 16 Karnal",
@@ -146,6 +206,11 @@
       "Take the first step towards a successful property transaction today. Whether you are looking to buy sell or lease property in Sector 16 our expert network is ready to assist you with personalized service and invaluable local insights.",
       "Submit your details below and a qualified Real Estate Agent specializing in Sector 16 properties will contact you shortly to discuss your specific needs without obligation."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

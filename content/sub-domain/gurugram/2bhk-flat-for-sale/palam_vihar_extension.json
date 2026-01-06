@@ -7,10 +7,19 @@
       "Palam Vihar Extension provides unmatched connectivity to Delhi, major corporate hubs in Gurugram, and the Indira Gandhi International Airport. Secure your future in a neighborhood known for its peaceful environment, well-maintained parks, and essential amenities right at your doorstep. Browse our curated listings and take the first step toward owning a beautifully designed 2BHK apartment that promises a superior, affordable, and well-connected living experience in one of Gurugram's most promising extensions."
     ],
     "buttons": [
-      { "label": "View All 2BHK Listings", "path": "/listings" },
-      { "label": "Request a Call Back", "path": "/contact" }
+      {
+        "label": "View All 2BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Call Back",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_flat_1.jpg", "hero_flat_2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Excellent Residential Features Defining 2BHK Living in Palam Vihar Extension Gurugram",
@@ -51,7 +60,58 @@
       "Palam Vihar Extension is strategically positioned to offer residents unparalleled access to key areas across Delhi NCR. Its location near major roads like the Dwarka Expressway and NH 48 ensures quick, hassle-free commutes to business districts, international schools, and world-class hospitals. This makes acquiring a 2BHK Flat For Sale here not just a smart residential choice but a highly beneficial logistical decision for seamless, modern daily life.",
       "The proximity to Indira Gandhi International Airport (IGIA) is a massive draw, providing convenience for frequent travelers and boosting the location's rental demand significantly. Essential services, thriving local markets, and large retail outlets are all within a short driving distance, cementing Palam Vihar Extension as a highly sought-after, self-sufficient residential destination in the Gurugram property landscape."
     ],
-    "locations": []
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Why Choose a 2BHK Flat For Sale in Palam Vihar Extension Gurugram Now",
@@ -146,6 +206,11 @@
       "Ready to view the best 2BHK Flat For Sale options in Palam Vihar Extension Gurugram Our dedicated team of certified property advisors is here to assist you with personalized site tours, legal verification, expert negotiation support, and smooth closing.",
       "Do not miss out on securing a highly desirable property in this high-growth locality. Submit your details below and take the first critical step toward owning your dream 2BHK home today."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

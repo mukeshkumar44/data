@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Understanding Property Sizes When Searching for a House For Sale in Ambala Chandigarh Expressway",
@@ -58,14 +61,56 @@
       "Key nearby locations include Ambala Cantt, known for its military infrastructure and established markets, and Chandigarh Mohali, the regional capital and IT/educational nerve center. The Expressway itself ensures minimal commute times, significantly boosting the quality of life for daily commuters. Furthermore, the development surrounding the Expressway is organized, ensuring access to quality schools, specialized hospitals, and new retail centers within a short driving distance. This focus on infrastructure makes any home purchased here a highly liquid and future-proof asset. Explore the properties situated in sectors that offer the best balance of tranquility and accessibility along this vibrant corridor near Ambala."
     ],
     "locations": [
-      "Ambala Cantt Railway Station",
-      "Chandigarh Sector 17 Shopping Center",
-      "Mohali Industrial Area Phase 8",
-      "Panchkula IT Park and Development",
-      "Peer Muchalla Zirakpur Residential Hub",
-      "Barwala Town Industrial Zone",
-      "Dera Bassi Educational Institutions",
-      "Tribune Chowk Chandigarh Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

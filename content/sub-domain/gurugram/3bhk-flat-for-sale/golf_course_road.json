@@ -7,12 +7,18 @@
       "Explore carefully curated properties from leading developers providing state-of-the-art security high-end finishes and access to elite lifestyle facilities including championship golf courses upscale dining and premium retail outlets. Investing in a 3BHK flat here is not merely buying property it is securing a future of prestige and convenience. Contact us today to schedule a private viewing and experience the unparalleled charm of Golf Course Road living firsthand."
     ],
     "buttons": [
-      { "label": "View Available 3BHK Flats", "path": "/listings" },
-      { "label": "Download Brochure Now", "path": "/brochure" }
+      {
+        "label": "View Available 3BHK Flats",
+        "path": "/listings"
+      },
+      {
+        "label": "Download Brochure Now",
+        "path": "/brochure"
+      }
     ],
     "images": [
-      "/images/gcr_hero_1.jpg",
-      "/images/gcr_hero_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,13 +61,56 @@
       "The location ensures rapid access to both Delhi and the rest of Gurugram via the robust infrastructure including the Rapid Metro rail service and multiple elevated expressways. When you purchase a 3BHK flat here you are investing in connectivity convenience and future growth ensuring your daily commute is smooth and your access to premium facilities is instantaneous."
     ],
     "locations": [
-      "Rapid Metro Stations Sikanderpur and Sector 42-43",
-      "DLF Cyber Hub and Cyber City business districts",
-      "Major hospitals like Fortis and Max Healthcare",
-      "Premium shopping malls including Ambience Mall and South Point Mall",
-      "Top international schools The Shri Ram School and Scottish High",
-      "Direct access to NH-48 and Delhi via elevated roads",
-      "Proximity to high-end hotels and convention centers"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

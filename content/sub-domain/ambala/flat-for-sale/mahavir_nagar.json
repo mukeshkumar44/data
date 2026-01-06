@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "mahavir-nagar-skyline.jpg",
-      "flat-interior-mahavir-nagar.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Beyond connectivity, the locality is rich in educational institutions, healthcare facilities, and recreational spaces. Living here means having the Dahanukar Wadi Metro Station, Charkop Market, and numerous reputable schools just minutes away. We help you find properties perfectly positioned to take advantage of Mahavir Nagar’s outstanding urban planning and infrastructural growth."
     ],
     "locations": [
-      "Kandivali Railway Station",
-      "Dahanukar Wadi Metro Station",
-      "Link Road Access",
-      "Charkop Sector",
-      "Borivali West Proximity",
-      "Western Express Highway",
-      "Thakur Village Kandivali",
-      "Growels 101 Mall"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

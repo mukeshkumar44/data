@@ -7,12 +7,18 @@
       "Enjoy unparalleled access to key civic amenities, reputed schools, and major employment hubs right from your doorstep. Start your seamless property search today and step into the comfort and convenience of Sector 35 living. We make renting effortless and transparent so you can focus on settling into your new community. Browse the finest rental apartments and discover why so many people choose Sector 35 Karnal for their long term housing needs."
     ],
     "buttons": [
-      { "label": "View All Rental Listings", "path": "/listings" },
-      { "label": "Contact Rental Experts", "path": "/contact" }
+      {
+        "label": "View All Rental Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Contact Rental Experts",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/sector35_flat_hero1.jpg",
-      "/images/sector35_flat_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The connectivity ensures that residents have prompt access to healthcare facilities, premium educational institutions, and buzzing marketplaces. Our Flats For Rent in Sector 35 are perfectly situated to leverage this seamless infrastructure, offering a blend of peaceful residential life and urban convenience. Explore the key landmarks and neighboring areas that enhance the value of living in Sector 35 Karnal."
     ],
     "locations": [
-      "NH 44 Delhi Chandigarh Highway",
-      "Karnal Railway Station Accessibility",
-      "Assandh Road Connectivity",
-      "Reputed Schools and Colleges nearby",
-      "Major Commercial Hubs proximity",
-      "Healthcare Facilities and Hospitals",
-      "Local Markets and Grocery Stores",
-      "Green Parks and Recreational Areas"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Our dedicated team of real estate experts is ready to assist you in securing the best possible rental property in Sector 35 Karnal. We provide personalized search assistance, property tours, and full negotiation support.",
       "Get in touch today to discuss your specific requirements, desired move in date, and budget. Let us take the stress out of finding your next home."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

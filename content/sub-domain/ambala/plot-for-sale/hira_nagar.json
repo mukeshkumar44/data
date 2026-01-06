@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Ideal Plot Sizes for Building Your Dream Home in Hira Nagar Ambala",
@@ -58,14 +61,56 @@
       "Furthermore, the proximity to key educational institutions and leading hospitals makes Hira Nagar exceptionally attractive for family settlement. Unlike peripheral areas, this locality already benefits from established civic amenities including dedicated water lines, sewage systems, and reliable electricity supply. We ensure all our listed plots are situated in areas that maximize these locational benefits, promising a high quality of life and sustained property appreciation over time."
     ],
     "locations": [
-      "Proximity to National Highway 44",
-      "Short drive to Ambala City Railway Station",
-      "Easy access to leading schools and colleges",
-      "Near major private and government healthcare centers",
-      "Well-connected to local markets and shopping centers",
-      "Upcoming commercial zones nearby",
-      "Access to organized recreational parks",
-      "Reliable public transportation routes"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,12 +7,18 @@
       "The availability of freehold residential plots and luxurious ready-to-move builder floors makes Sector 108 highly attractive for families seeking customization and space. Investing here ensures long-term capital appreciation driven by rapid infrastructural development surrounding the upcoming cloverleaf interchanges and strategic positioning near key commercial hubs. Explore verified listings and secure your dream house in this rapidly appreciating Gurugram hotspot."
     ],
     "buttons": [
-      { "label": "Explore Ready-to-Move Houses", "path": "/ready-to-move" },
-      { "label": "Download Investment Guide", "path": "/guide" }
+      {
+        "label": "Explore Ready-to-Move Houses",
+        "path": "/ready-to-move"
+      },
+      {
+        "label": "Download Investment Guide",
+        "path": "/guide"
+      }
     ],
     "images": [
-      "img/hero-sector108-1.jpg",
-      "img/hero-sector108-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "Understanding the nearby key areas is crucial when you plan to buy house in Sector 108 as connectivity significantly impacts lifestyle and property value. The seamless road network enhances accessibility to major business parks schools and hospitals making it a truly self-sufficient neighbourhood."
     ],
     "locations": [
-      "Dwarka Expressway Main Arterial Road",
-      "Indira Gandhi International Airport New Delhi",
-      "Palam Vihar Extension Residential Hub",
-      "Cyber City Gurugram Corporate Hub",
-      "Sector 109 and 110 Commercial Zones",
-      "Upcoming Diplomatic Enclave II Delhi"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -156,6 +206,11 @@
       "Ready to take the next step towards owning a house in Sector 108 Gurugram Our dedicated team specializes in premium residential listings and investment advice in this prime location. We provide personalized assistance transparent dealings and access to off-market opportunities.",
       "Fill out the form below to receive customized property recommendations detailed project reports and an exclusive tour of verified houses available for sale."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

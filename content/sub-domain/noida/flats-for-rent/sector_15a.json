@@ -7,12 +7,18 @@
       "Sector 15A provides excellent connectivity to major business districts, robust security protocols, and easy access to the Delhi Metro network, simplifying your daily commute. Stop spending countless hours searching through unreliable portals. Our dedicated team of Sector 15A rental experts provides personalized assistance, ensuring a smooth, transparent, and quick transition into your new home. Start exploring the best rental properties in Sector 15A Noida now and step into a life of convenience and comfort."
     ],
     "buttons": [
-      { "label": "View Verified Flats Now", "path": "/search-sector-15a" },
-      { "label": "Schedule a Virtual Tour", "path": "/contact-us" }
+      {
+        "label": "View Verified Flats Now",
+        "path": "/search-sector-15a"
+      },
+      {
+        "label": "Schedule a Virtual Tour",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "flat-for-rent-sector-15a-hero1.jpg",
-      "sector-15a-noida-rental-view.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The connectivity of your Flat For Rent in Sector 15A is unmatched, linking you effortlessly to Delhi and other parts of Noida. This blend of accessibility and serene residential charm makes Sector 15A a truly unique place to live in the National Capital Region."
     ],
     "locations": [
-      "Noida Sector 15 Metro Station (Blue Line)",
-      "Atta Market and Sector 18 Commercial Hub",
-      "Major Expressway Access to Delhi and Greater Noida",
-      "Leading Educational Institutions and Schools",
-      "Renowned Multi-Speciality Hospitals",
-      "Local Parks and Green Belts for Recreation",
-      "Banks and ATMs proximity",
-      "Retail Chains and Supermarkets"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -103,6 +151,7 @@
       {
         "title": "Flexible Rental Terms Available",
         "description": "We work closely with landlords to offer flexible lease durations tailored to your specific needs, whether you require a short six-month term or a standard eleven-month renewable contract. Discuss your requirements with us for a custom rental solution."
+      }
     ]
   },
   "faqSection": {
@@ -157,6 +206,11 @@
       "Ready to find your perfect Flat For Rent in Sector 15A Noida We are here to guide you through every step of the rental journey, offering expert advice and access to the best properties the sector has to offer.",
       "Don't compromise on location, quality, or service. Reach out now to discuss your specific requirements and let us help you move into your ideal home quickly and without stress."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

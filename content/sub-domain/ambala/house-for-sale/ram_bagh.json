@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "ram_bagh_house_exterior_hero.jpg",
-      "ram_bagh_family_home.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The area enjoys superior infrastructure support including reliable utility services and well-maintained local roads. Key amenities such as reputed educational institutions major hospitals and comprehensive shopping destinations are all within a short driving distance. We provide insights into the neighborhoods flanking Ram Bagh ensuring you make a fully informed decision about the accessibility and lifestyle offered by your new independent house location."
     ],
     "locations": [
-      "Ambala Cantt",
-      "Ambala City",
-      "Sector 7 Ambala",
-      "Mahesh Nagar",
-      "Babyal",
-      "Naggal",
-      "Shahpur",
-      "Railway Road Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

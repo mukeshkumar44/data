@@ -7,10 +7,19 @@
       "Navigating the rental market can be challenging, but we make securing your next home effortless. We specialize in providing transparent rental solutions, showcasing properties that are close to essential amenities, schools, and major transit routes. Start your search now to explore affordable and premium options, and discover why renting a flat in Jaggi Garden Ambala offers unparalleled value and comfort for individuals and families alike. Your perfect rental apartment is just a click away."
     ],
     "buttons": [
-      { "label": "View Available Rental Listings", "path": "/listings" },
-      { "label": "Request a Callback from Our Experts", "path": "/contact" }
+      {
+        "label": "View Available Rental Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Callback from Our Experts",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Rental Options and Flat Sizes in Jaggi Garden Ambala",
@@ -52,12 +61,56 @@
       "Our featured flats for rent in Jaggi Garden benefit from proximity to key infrastructure. Whether you need swift access to railway services, top-tier healthcare, or quality schooling for children, Jaggi Garden delivers. This robust connectivity, coupled with excellent neighborhood safety and development, confirms Jaggi Garden as the smart choice for your next rental property in Ambala."
     ],
     "locations": [
-      "Near Ambala Cantt Railway Station",
-      "Shopping Hubs and Retail Markets",
-      "Reputed Educational Institutes",
-      "Major Healthcare Facilities",
-      "Easy Access to National Highway 44",
-      "Local Parks and Green Spaces"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

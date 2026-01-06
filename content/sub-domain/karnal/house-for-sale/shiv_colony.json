@@ -7,12 +7,18 @@
       "Explore ready-to-move and under-construction properties ranging from compact 2 BHK units perfect for nuclear families to spacious 4 BHK independent houses suitable for multi-generational living. Securing a house in this prime locality ensures excellent connectivity to main sectors, schools, and markets, positioning it as an ideal residential destination in Karnal."
     ],
     "buttons": [
-      { "label": "View All House Listings", "path": "/listings" },
-      { "label": "Schedule a Free Consultation", "path": "/contact" }
+      {
+        "label": "View All House Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Free Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "house_shiv_colony_1.jpg",
-      "house_shiv_colony_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "Its strategic placement makes it a top choice for families prioritizing convenience and infrastructure support. The colony is well-served by public transport and maintains easy access to major state highways, securing its place as a practical yet peaceful residential hub in the city."
     ],
     "locations": [
-      "Sector 6 Market Hub",
-      "Karnal Bus Stand Road",
-      "Government Polytechnic College",
-      "Model Town Extension",
-      "National Highway 44 Connectivity",
-      "Dayal Singh College Karnal"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -156,6 +206,11 @@
       "Our dedicated property consultants are ready to assist you in navigating the market and finalizing the best house deal in Shiv Colony. We provide tailored advice based on your budget and family needs.",
       "Reach out today for personalized viewing appointments, detailed property information, and expert financial advice to make your home buying experience seamless."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

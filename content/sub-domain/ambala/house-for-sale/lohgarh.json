@@ -7,10 +7,19 @@
       "Whether you are looking for a compact 2 BHK house perfect for a nuclear family or a spacious 4 BHK luxury villa, our portfolio covers the entire spectrum of residential properties available in this sought-after area. Start exploring properties that offer excellent value and high long-term appreciation potential. Secure your investment in one of Ambala’s fastest-growing sectors by finding the perfect House For Sale in Lohgarh today."
     ],
     "buttons": [
-      { "label": "Explore Verified Listings", "path": "/listings/lohgarh" },
-      { "label": "Schedule a Property Viewing", "path": "/contact" }
+      {
+        "label": "Explore Verified Listings",
+        "path": "/listings/lohgarh"
+      },
+      {
+        "label": "Schedule a Property Viewing",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_lohgarh_house1.jpg", "hero_lohgarh_house2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Property Sizes and Layouts for Your Ideal House in Lohgarh Ambala",
@@ -52,12 +61,56 @@
       "Furthermore, its proximity to the Chandigarh-Ambala highway ensures swift connectivity to larger economic centers like Chandigarh and Delhi. Essential services are just minutes away, including reputable educational institutions like Army Public School and various specialized hospitals and clinics. Investing in a House For Sale in Lohgarh means securing a lifestyle where ultimate convenience does not compromise your family's quality of living. We specifically highlight properties that maximize these locational advantages, ensuring your new home is perfectly situated within the dynamic Ambala landscape."
     ],
     "locations": [
-      "Ambala Cantt Railway Station",
-      "Ambala City Market Access",
-      "Proximity to Chandigarh Highway",
-      "Sector 9 and Sector 10 Ambala",
-      "Major Educational Institutions Nearby",
-      "Healthcare Facilities and Hospitals"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to take the next critical step towards owning your ideal House For Sale in Lohgarh Ambala Get in touch with our dedicated property advisors who possess unparalleled deep local market knowledge and years of experience.",
       "We provide personalized consultations to understand your specific needs, budget constraints, and preferred amenities, ensuring we only show you listings that genuinely match your exact criteria. Start your successful and simplified home buying journey with us now and find your perfect home in Lohgarh."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

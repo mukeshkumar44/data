@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero_image_78_1.jpg",
-      "hero_image_78_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,11 +61,56 @@
       "This area benefits significantly from enhanced road networks, including immediate access to the Delhi-Jaipur Expressway (NH-48) and nearby access to the upcoming cloverleaf interchanges that promise better fluidity of traffic flow. For families, the presence of reputable international schools and established healthcare facilities ensures all necessities are within a short drive. Choosing a 2BHK flat here means securing a home in an area ripe for continued growth and capital appreciation."
     ],
     "locations": [
-      "NH-48 Delhi-Jaipur Expressway",
-      "Dwarka Expressway Link Road",
-      "Apeejay Stya University",
-      "IMT Manesar Industrial Area",
-      "Vatika India Next Retail Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

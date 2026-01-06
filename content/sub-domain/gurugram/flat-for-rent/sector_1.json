@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "flat-for-rent-sector-1-hero-1.jpg",
-      "flat-for-rent-sector-1-hero-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "We cover properties close to major commercial markets, ensuring daily necessities are easily accessible. Our extensive network ensures that whether you are looking for a brand new apartment complex or a more established residential setting, you have access to the best available inventory. Explore listings in these nearby areas to broaden your options and find competitive rental rates without compromising your daily commute or quality of life in this segment of Gurugram."
     ],
     "locations": [
-      "Sector 2 Rental Apartments",
-      "Green View Colony Flats",
-      "Sector 3 Premium Rentals",
-      "Affordable Flats near Metro Station",
-      "Established Residences near Sector 1 Park",
-      "Old Gurugram Connectivity Rentals"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

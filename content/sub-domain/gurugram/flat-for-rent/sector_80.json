@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Range of Residential Flat Options Available For Rent in Sector 80 Gurugram",
@@ -58,14 +61,56 @@
       "The areas surrounding Sector 80 are undergoing massive development, featuring new commercial centers, high-quality schools, and large retail parks. This localized growth guarantees that tenants renting here will have abundant shopping, dining, and educational options just a short drive away. Use this curated list to understand the strategic benefits of residing in this specific locality, ensuring you select a rental property that is perfectly integrated into the region's expanding infrastructure."
     ],
     "locations": [
-      "Sector 81",
-      "Sector 79 Greater Gurugram",
-      "Neharpar Residential Hub",
-      "BPTP Parklands Community",
-      "Omaxe World Street Commercial Centre",
-      "Khedi Bypass Road Connectivity",
-      "Crown Interiorz Mall Area",
-      "Gurugram Metro Stations"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

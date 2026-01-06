@@ -7,12 +7,18 @@
       "We showcase verified properties that meet strict standards for safety, legality, and construction excellence. Stop searching and start living in a vibrant community known for its convenient access to major highways, business hubs, top schools, and essential amenities. Our expert real estate consultants are ready to guide you through finding the perfect 3BHK flat that aligns precisely with your lifestyle needs and financial goals. Take the first step toward owning your dream home today."
     ],
     "buttons": [
-      { "label": "Explore Verified 3BHK Listings", "path": "/listings" },
-      { "label": "Schedule A Site Visit Now", "path": "/contact" }
+      {
+        "label": "Explore Verified 3BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule A Site Visit Now",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "hero-3bhk-sector6-1.jpg",
-      "hero-3bhk-sector6-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The established social infrastructure surrounding Sector 6 ensures that all essential daily needs are met within minutes. From healthcare facilities to world-class educational institutions and bustling retail centers, everything is within reach. This strategic positioning contributes significantly to the high potential for rental income and capital appreciation for any 3BHK flat for sale in Sector 6."
     ],
     "locations": [
-      "NH-48 National Highway Access",
-      "Proximity to MDI Management Development Institute",
-      "Easy Drive to Old Gurugram Railway Station",
-      "Close to Industrial Area Phase 1 and 2",
-      "Connectivity to Dwarka Expressway",
-      "Near Major Healthcare Centers and Hospitals",
-      "Established Retail Markets and Shopping Malls",
-      "Rapid Metro Network Accessibility"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

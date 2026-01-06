@@ -7,10 +7,19 @@
       "We showcase meticulously curated listings that meet high standards of quality construction and strategic location access. Exploring a 2BHK flat for sale in Sector 120 means gaining access to well-planned communities, green surroundings, and essential infrastructure right at your doorstep. Start your journey today to secure a contemporary living space in this vibrant part of Noida."
     ],
     "buttons": [
-      { "label": "Request Pricing Details", "path": "/pricing" },
-      { "label": "Explore Floor Plans", "path": "/floorplans" }
+      {
+        "label": "Request Pricing Details",
+        "path": "/pricing"
+      },
+      {
+        "label": "Explore Floor Plans",
+        "path": "/floorplans"
+      }
     ],
-    "images": ["hero-2bhk-sector-120-noida.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Features Defining the Best 2BHK Flat Options Available in Sector 120",
@@ -52,12 +61,56 @@
       "Residents benefit from close proximity to top-tier schools, advanced medical facilities, and bustling commercial centers like Sector 50 and Sector 71. Investing in a 2BHK flat for sale here ensures that all necessities and lifestyle needs are met just minutes away, enhancing the overall convenience of city living."
     ],
     "locations": [
-      "Sector 50 Market and Commercial Hub",
-      "FNG Expressway Connectivity Corridor",
-      "Reputable Educational Institutions in Noida",
-      "Major Hospitals and Healthcare Centers",
-      "Shopping Malls and Entertainment Hubs",
-      "Nearby Operational Metro Stations (Blue Line)"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to take the next step towards owning your perfect 2BHK flat in the highly sought-after Sector 120 location? Our dedicated property consultants are here to provide expert guidance and personalized assistance.",
       "We offer virtual and in-person tours, detailed floor plan reviews, and unbiased pricing analysis to help you secure the best deal possible. Simply fill out the contact form below with your requirements. Let us help you navigate the Sector 120 property market seamlessly and efficiently."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

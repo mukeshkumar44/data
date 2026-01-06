@@ -7,10 +7,19 @@
       "Our listings include meticulously designed independent houses and duplexes ranging from compact 2 BHK units to spacious 5 BHK luxury villas Each property is carefully vetted ensuring legal compliance high construction quality and excellent long-term investment potential Secure your future home in Dhulkot Ambala today and experience the best blend of suburban tranquility and urban convenience Explore the ideal blend of community living and privacy that this promising locality offers"
     ],
     "buttons": [
-      { "label": "View Available Houses", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View Available Houses",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/dhulkot-hero-1.jpg", "/images/dhulkot-hero-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Residential House Configurations in Dhulkot Ambala for Every Family Need",
@@ -19,12 +28,30 @@
       "We specialize in matching buyers with properties that offer optimal space utilization modern architectural design and necessary proximity to local amenities like schools hospitals and markets Review our common house configurations based on popular plot dimensions available in Dhulkot Ambala"
     ],
     "features": [
-      { "title": "4 Marla Plot Compact 2 BHK Houses", "description": "Ideal for first-time buyers or small families looking for efficiency These houses typically feature 2 bedrooms a living room and a modular kitchen maximizing every inch of space The 4 Marla layout provides affordable entry into the Dhulkot real estate market without compromising connectivity to Ambala Cantt infrastructure Perfect low-maintenance living" },
-      { "title": "6 Marla Plot Comfortable 3 BHK Homes", "description": "The most popular size for mid-sized families These homes offer spacious 3 BHK layouts often including two bathrooms and a dedicated parking area Built on 6 Marla plots these houses strike a perfect balance between spacious interiors and manageable exterior maintenance Find modern finishes and thoughtful ventilation designs ensuring comfortable and breezy living in Dhulkot Ambala" },
-      { "title": "8 Marla Plot Spacious 3+1 BHK Duplexes", "description": "An excellent choice for those needing extra room for a home office or guest accommodation Houses built on 8 Marla plots frequently offer duplex structures allowing for vertical separation of living and private areas High ceilings and premium fixtures are standard These plots ensure ample garden space and wider frontage enhancing the curb appeal of your House For Sale in Dhulkot" },
-      { "title": "10 Marla Plot Large 4 BHK Independent Houses", "description": "Representing premium independent living 10 Marla houses provide substantial space for larger families These properties often feature luxurious specifications multiple balconies and dedicated servant quarters The generous plot size allows for custom landscaping and secure multiple-vehicle parking making them highly sought after within the Dhulkot Ambala locality" },
-      { "title": "12 Marla Plot Luxury 5 BHK Villas", "description": "Experience unparalleled luxury and privacy Houses on 12 Marla plots are typically bespoke villas offering expansive living areas formal dining rooms and high-end security features These homes are designed for discerning buyers prioritizing elite lifestyle and superior construction quality Investing in a 12 Marla House For Sale in Dhulkot offers significant prestige and high appreciation potential" },
-      { "title": "14 Marla Plot Custom Executive Bungalows", "description": "The largest standard size available for bespoke construction These plots allow for maximum customization including swimming pools home theaters or large private gardens 14 Marla bungalows in Dhulkot provide the ultimate residential experience offering vast open spaces unparalleled architectural freedom and proximity to the finest social infrastructure in Ambala" }
+      {
+        "title": "4 Marla Plot Compact 2 BHK Houses",
+        "description": "Ideal for first-time buyers or small families looking for efficiency These houses typically feature 2 bedrooms a living room and a modular kitchen maximizing every inch of space The 4 Marla layout provides affordable entry into the Dhulkot real estate market without compromising connectivity to Ambala Cantt infrastructure Perfect low-maintenance living"
+      },
+      {
+        "title": "6 Marla Plot Comfortable 3 BHK Homes",
+        "description": "The most popular size for mid-sized families These homes offer spacious 3 BHK layouts often including two bathrooms and a dedicated parking area Built on 6 Marla plots these houses strike a perfect balance between spacious interiors and manageable exterior maintenance Find modern finishes and thoughtful ventilation designs ensuring comfortable and breezy living in Dhulkot Ambala"
+      },
+      {
+        "title": "8 Marla Plot Spacious 3+1 BHK Duplexes",
+        "description": "An excellent choice for those needing extra room for a home office or guest accommodation Houses built on 8 Marla plots frequently offer duplex structures allowing for vertical separation of living and private areas High ceilings and premium fixtures are standard These plots ensure ample garden space and wider frontage enhancing the curb appeal of your House For Sale in Dhulkot"
+      },
+      {
+        "title": "10 Marla Plot Large 4 BHK Independent Houses",
+        "description": "Representing premium independent living 10 Marla houses provide substantial space for larger families These properties often feature luxurious specifications multiple balconies and dedicated servant quarters The generous plot size allows for custom landscaping and secure multiple-vehicle parking making them highly sought after within the Dhulkot Ambala locality"
+      },
+      {
+        "title": "12 Marla Plot Luxury 5 BHK Villas",
+        "description": "Experience unparalleled luxury and privacy Houses on 12 Marla plots are typically bespoke villas offering expansive living areas formal dining rooms and high-end security features These homes are designed for discerning buyers prioritizing elite lifestyle and superior construction quality Investing in a 12 Marla House For Sale in Dhulkot offers significant prestige and high appreciation potential"
+      },
+      {
+        "title": "14 Marla Plot Custom Executive Bungalows",
+        "description": "The largest standard size available for bespoke construction These plots allow for maximum customization including swimming pools home theaters or large private gardens 14 Marla bungalows in Dhulkot provide the ultimate residential experience offering vast open spaces unparalleled architectural freedom and proximity to the finest social infrastructure in Ambala"
+      }
     ]
   },
   "locationsSection": {
@@ -34,14 +61,56 @@
       "We understand that location is paramount when purchasing a house in Dhulkot Ambala Our properties are strategically located providing the best balance of quiet community living and essential urban access Review the vital locations easily accessible from your new home"
     ],
     "locations": [
-      "Ambala Cantt Railway Station",
-      "National Highway 44 Delhi-Ambala",
-      "Ambala Air Force Station",
-      "MM University Sadopur",
-      "Paras Hospital Ambala",
-      "Sadar Bazaar Shopping Area",
-      "Ambala Bus Stand",
-      "MDC Sector 5 Panchkula access route"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -51,30 +120,84 @@
       "We are committed to providing transparent and comprehensive real estate services ensuring a seamless buying experience in Dhulkot Ambala Discover the compelling reasons why Dhulkot is the smart choice for your permanent residence or investment portfolio"
     ],
     "points": [
-      { "title": "Prime Location Advantage Near Ambala Cantt", "description": "Dhulkot offers immediate access to Ambala Cantt the military and commercial hub This means faster commute times to offices essential services and superior governmental infrastructure Living here positions you centrally for all major activities while enjoying the quieter residential ambiance ideal for family life" },
-      { "title": "Exceptional Infrastructure and Utilities", "description": "The locality boasts excellent civic infrastructure including reliable electricity supply treated water access and efficient sewage systems New residential areas in Dhulkot are planned with modern urban standards minimizing future maintenance issues and ensuring uninterrupted utility services vital for comfortable living" },
-      { "title": "High Return on Investment Potential", "description": "Real estate values in Dhulkot are showing consistent upward trends driven by infrastructural projects and connectivity improvements Purchasing a House For Sale in Dhulkot now positions you perfectly to capitalize on future appreciation making it a sound long-term financial decision for both end-users and investors seeking growth" },
-      { "title": "Variety of Ready-to-Move Options", "description": "Our portfolio includes a wide range of move-in ready houses eliminating the stress and uncertainty of long construction delays You can choose a property that perfectly fits your aesthetic preferences and immediate occupancy needs ensuring a smooth and quick transition into your new Dhulkot home" },
-      { "title": "Secure and Peaceful Community Environment", "description": "Dhulkot is known for its strong community spirit and low crime rate making it extremely safe for children and senior citizens Many societies offer gated security and monitored entrances providing peace of mind This emphasis on safety contributes significantly to the high quality of life here" },
-      { "title": "Proximity to Top Educational Institutions", "description": "Families residing in Dhulkot benefit from easy access to renowned schools and colleges in Ambala and nearby areas Reducing daily commuting stress for students is a major advantage ensuring children have more time for studies and recreational activities contributing to their holistic development" },
-      { "title": "Modern Architectural Designs and Quality Construction", "description": "The houses featured in our listings adhere to high standards of construction quality utilizing durable materials and modern architectural concepts Expect earthquake-resistant structures contemporary layouts and premium interior finishes ensuring your Dhulkot house is both beautiful and resilient" },
-      { "title": "Flexible Financing and Documentation Support", "description": "We partner with leading financial institutions to offer attractive home loan options and assist with all necessary legal documentation Our team ensures complete transparency throughout the purchase process making the complex task of buying a House For Sale in Dhulkot straightforward and stress-free for every client" }
+      {
+        "title": "Prime Location Advantage Near Ambala Cantt",
+        "description": "Dhulkot offers immediate access to Ambala Cantt the military and commercial hub This means faster commute times to offices essential services and superior governmental infrastructure Living here positions you centrally for all major activities while enjoying the quieter residential ambiance ideal for family life"
+      },
+      {
+        "title": "Exceptional Infrastructure and Utilities",
+        "description": "The locality boasts excellent civic infrastructure including reliable electricity supply treated water access and efficient sewage systems New residential areas in Dhulkot are planned with modern urban standards minimizing future maintenance issues and ensuring uninterrupted utility services vital for comfortable living"
+      },
+      {
+        "title": "High Return on Investment Potential",
+        "description": "Real estate values in Dhulkot are showing consistent upward trends driven by infrastructural projects and connectivity improvements Purchasing a House For Sale in Dhulkot now positions you perfectly to capitalize on future appreciation making it a sound long-term financial decision for both end-users and investors seeking growth"
+      },
+      {
+        "title": "Variety of Ready-to-Move Options",
+        "description": "Our portfolio includes a wide range of move-in ready houses eliminating the stress and uncertainty of long construction delays You can choose a property that perfectly fits your aesthetic preferences and immediate occupancy needs ensuring a smooth and quick transition into your new Dhulkot home"
+      },
+      {
+        "title": "Secure and Peaceful Community Environment",
+        "description": "Dhulkot is known for its strong community spirit and low crime rate making it extremely safe for children and senior citizens Many societies offer gated security and monitored entrances providing peace of mind This emphasis on safety contributes significantly to the high quality of life here"
+      },
+      {
+        "title": "Proximity to Top Educational Institutions",
+        "description": "Families residing in Dhulkot benefit from easy access to renowned schools and colleges in Ambala and nearby areas Reducing daily commuting stress for students is a major advantage ensuring children have more time for studies and recreational activities contributing to their holistic development"
+      },
+      {
+        "title": "Modern Architectural Designs and Quality Construction",
+        "description": "The houses featured in our listings adhere to high standards of construction quality utilizing durable materials and modern architectural concepts Expect earthquake-resistant structures contemporary layouts and premium interior finishes ensuring your Dhulkot house is both beautiful and resilient"
+      },
+      {
+        "title": "Flexible Financing and Documentation Support",
+        "description": "We partner with leading financial institutions to offer attractive home loan options and assist with all necessary legal documentation Our team ensures complete transparency throughout the purchase process making the complex task of buying a House For Sale in Dhulkot straightforward and stress-free for every client"
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Buying a House For Sale in Dhulkot Ambala",
     "description": "Get comprehensive answers to common queries regarding property legality financing and the living environment in Dhulkot Ambala",
     "faqs": [
-      { "question": "What is the typical price range for a 3 BHK House For Sale in Dhulkot Ambala", "answer": "The price of a 3 BHK house in Dhulkot Ambala varies significantly based on several factors including the exact location proximity to the main road plot size and age of the construction Generally you can expect prices to start from approximately 45 lakhs for smaller older constructions and go up to 90 lakhs or more for brand new modern houses or duplexes on larger plots Always check the registration status and included amenities like modular kitchen fittings and power backup facilities for an accurate comparison" },
-      { "question": "Are the properties in Dhulkot legally compliant and registered with the authorities", "answer": "Yes we prioritize transparency and ensure that all listed House For Sale in Dhulkot properties possess clear titles and necessary approvals from relevant local development authorities Before finalizing any purchase we provide complete documentation including sale deeds occupancy certificates and necessary mutation records to guarantee a legally sound transaction We highly recommend having your lawyer review all papers for absolute peace of mind" },
-      { "question": "What kind of infrastructure development is currently ongoing in Dhulkot Ambala", "answer": "Dhulkot is experiencing rapid infrastructural growth focusing primarily on improved road widening projects and the extension of essential municipal services There are plans for better street lighting improved drainage systems and the development of new public parks This ongoing focus on infrastructure directly contributes to higher property valuation and better quality of life for residents in the area" },
-      { "question": "What are the common plot sizes available if I want to build a house myself in Dhulkot", "answer": "While this page focuses on ready houses common residential plot sizes available for custom construction in Dhulkot include 4 Marla 6 Marla 8 Marla and 10 Marla (roughly 100 to 250 square yards) These sizes are preferred due to the ease of construction planning and optimal space utilization resulting in well-proportioned houses that adhere to local building bylaws" },
-      { "question": "Is financing available for purchasing a residential house in Dhulkot", "answer": "Absolutely Major banks and Non-Banking Financial Companies NBFCs offer excellent home loan products for houses in Dhulkot provided the property has approved map layouts and clear titles Loan eligibility typically depends on your income credit score and the technical valuation of the property Our team assists in connecting you with lending partners and streamlining the loan application process for faster approvals" },
-      { "question": "How far is Dhulkot from the main Ambala Cantt Railway Station and market area", "answer": "Dhulkot enjoys excellent connectivity to the main centers Ambala Cantt Railway Station is typically a short 10 to 15-minute drive depending on traffic conditions The main market areas and Sadar Bazaar are also easily accessible usually within a 20-minute radius making daily commuting and shopping highly convenient for Dhulkot residents" },
-      { "question": "What are the water and electricity supply conditions like in the Dhulkot area", "answer": "Dhulkot generally benefits from reliable civic utilities The electricity supply is relatively stable with fewer load shedding issues compared to outlying areas Many new houses are equipped with power backup provisions like inverters or generator connections for critical systems Water supply is managed through municipal lines or reliable borewell systems ensuring adequate potable water access throughout the year" },
-      { "question": "What steps should I take to ensure I get the best deal on a house in Dhulkot", "answer": "To secure the best deal first clearly define your budget and non-negotiable requirements like size and location Second work exclusively with an experienced local real estate broker who understands the Dhulkot market dynamics Third compare multiple properties and always negotiate the asking price Finally ensure that all property documentation and due diligence are completed thoroughly before making any financial commitments" },
-      { "question": "Are there any specific restrictions or building codes applicable to residential houses in Dhulkot Ambala", "answer": "Yes all construction must adhere to the building codes and zoning regulations set forth by the local municipal corporation or development authority These codes dictate aspects like floor-area ratio FAR setbacks maximum height and permissible commercial activity within residential zones Working with approved architects ensures your House For Sale in Dhulkot or any new construction complies fully with these rules" },
-      { "question": "What makes Dhulkot a better residential investment than other sectors in Ambala", "answer": "Dhulkot offers a unique combination of affordability superior connectivity to NH44 and a rapidly developing civic environment Unlike some older sectors Dhulkot provides scope for modern housing layouts better air quality and less congestion It strikes an ideal balance between peaceful suburban living and necessary urban access positioning it as a premium growth area for residential investment in the Ambala region" }
+      {
+        "question": "What is the typical price range for a 3 BHK House For Sale in Dhulkot Ambala",
+        "answer": "The price of a 3 BHK house in Dhulkot Ambala varies significantly based on several factors including the exact location proximity to the main road plot size and age of the construction Generally you can expect prices to start from approximately 45 lakhs for smaller older constructions and go up to 90 lakhs or more for brand new modern houses or duplexes on larger plots Always check the registration status and included amenities like modular kitchen fittings and power backup facilities for an accurate comparison"
+      },
+      {
+        "question": "Are the properties in Dhulkot legally compliant and registered with the authorities",
+        "answer": "Yes we prioritize transparency and ensure that all listed House For Sale in Dhulkot properties possess clear titles and necessary approvals from relevant local development authorities Before finalizing any purchase we provide complete documentation including sale deeds occupancy certificates and necessary mutation records to guarantee a legally sound transaction We highly recommend having your lawyer review all papers for absolute peace of mind"
+      },
+      {
+        "question": "What kind of infrastructure development is currently ongoing in Dhulkot Ambala",
+        "answer": "Dhulkot is experiencing rapid infrastructural growth focusing primarily on improved road widening projects and the extension of essential municipal services There are plans for better street lighting improved drainage systems and the development of new public parks This ongoing focus on infrastructure directly contributes to higher property valuation and better quality of life for residents in the area"
+      },
+      {
+        "question": "What are the common plot sizes available if I want to build a house myself in Dhulkot",
+        "answer": "While this page focuses on ready houses common residential plot sizes available for custom construction in Dhulkot include 4 Marla 6 Marla 8 Marla and 10 Marla (roughly 100 to 250 square yards) These sizes are preferred due to the ease of construction planning and optimal space utilization resulting in well-proportioned houses that adhere to local building bylaws"
+      },
+      {
+        "question": "Is financing available for purchasing a residential house in Dhulkot",
+        "answer": "Absolutely Major banks and Non-Banking Financial Companies NBFCs offer excellent home loan products for houses in Dhulkot provided the property has approved map layouts and clear titles Loan eligibility typically depends on your income credit score and the technical valuation of the property Our team assists in connecting you with lending partners and streamlining the loan application process for faster approvals"
+      },
+      {
+        "question": "How far is Dhulkot from the main Ambala Cantt Railway Station and market area",
+        "answer": "Dhulkot enjoys excellent connectivity to the main centers Ambala Cantt Railway Station is typically a short 10 to 15-minute drive depending on traffic conditions The main market areas and Sadar Bazaar are also easily accessible usually within a 20-minute radius making daily commuting and shopping highly convenient for Dhulkot residents"
+      },
+      {
+        "question": "What are the water and electricity supply conditions like in the Dhulkot area",
+        "answer": "Dhulkot generally benefits from reliable civic utilities The electricity supply is relatively stable with fewer load shedding issues compared to outlying areas Many new houses are equipped with power backup provisions like inverters or generator connections for critical systems Water supply is managed through municipal lines or reliable borewell systems ensuring adequate potable water access throughout the year"
+      },
+      {
+        "question": "What steps should I take to ensure I get the best deal on a house in Dhulkot",
+        "answer": "To secure the best deal first clearly define your budget and non-negotiable requirements like size and location Second work exclusively with an experienced local real estate broker who understands the Dhulkot market dynamics Third compare multiple properties and always negotiate the asking price Finally ensure that all property documentation and due diligence are completed thoroughly before making any financial commitments"
+      },
+      {
+        "question": "Are there any specific restrictions or building codes applicable to residential houses in Dhulkot Ambala",
+        "answer": "Yes all construction must adhere to the building codes and zoning regulations set forth by the local municipal corporation or development authority These codes dictate aspects like floor-area ratio FAR setbacks maximum height and permissible commercial activity within residential zones Working with approved architects ensures your House For Sale in Dhulkot or any new construction complies fully with these rules"
+      },
+      {
+        "question": "What makes Dhulkot a better residential investment than other sectors in Ambala",
+        "answer": "Dhulkot offers a unique combination of affordability superior connectivity to NH44 and a rapidly developing civic environment Unlike some older sectors Dhulkot provides scope for modern housing layouts better air quality and less congestion It strikes an ideal balance between peaceful suburban living and necessary urban access positioning it as a premium growth area for residential investment in the Ambala region"
+      }
     ]
   },
   "contactSection": {
@@ -83,6 +206,11 @@
       "Ready to take the next step towards owning a magnificent House For Sale in Dhulkot Ambala Our dedicated team of property specialists is here to guide you through every stage of the buying process from initial selection to final registration",
       "Contact us today to schedule an exclusive viewing of your desired property receive personalized investment advice or get detailed information regarding current market trends and financing options in Dhulkot We guarantee prompt professional and personalized service"
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

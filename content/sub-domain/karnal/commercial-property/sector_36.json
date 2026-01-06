@@ -7,10 +7,19 @@
       "Our curated listings feature RERA-approved commercial projects with world-class infrastructure, ample parking facilities, and strong connectivity to the NH-44 and major residential zones of Karnal. Whether you are looking to launch a flagship showroom, secure a prime office location, or invest in future commercial assets, Sector 36 provides the perfect environment. Start exploring the best commercial property for sale in Sector 36 Karnal right now and capitalize on Karnal's rapid urban expansion."
     ],
     "buttons": [
-      { "label": "View Available Listings", "path": "/listings" },
-      { "label": "Request Investment Guide", "path": "/guide" }
+      {
+        "label": "View Available Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Investment Guide",
+        "path": "/guide"
+      }
     ],
-    "images": ["image1.jpg", "image2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Investment Options Available When Buying Commercial Property in Sector 36 Karnal",
@@ -52,12 +61,56 @@
       "Furthermore Sector 36 benefits from being close to major established residential colonies ensuring a built-in catchment area of consumers and potential employees. Proximity to educational institutions healthcare facilities and recreational areas means constant flow of human traffic maximizing the success potential of any commercial venture established here. Explore how this prime location enhances the value of every commercial property for sale here."
     ],
     "locations": [
-      "National Highway 44 Access Points",
-      "Proximity to Residential Sectors 33 and 35",
-      "Connectivity to Karnal City Centre",
-      "Easy Access to Proposed Ring Road Projects",
-      "Nearness to Major Industrial Areas",
-      "Direct Link Roads to Outer City Limits"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to secure your high-return investment in one of Karnal’s most promising commercial zones Contact us today for exclusive access to verified RERA-approved commercial property listings in Sector 36.",
       "Our dedicated commercial property specialists offer personalized consultations market intelligence and guided site visits to help you make an informed decision. Do not miss out on this opportunity for strategic growth."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

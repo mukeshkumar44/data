@@ -7,12 +7,18 @@
       "Discover a curated selection of genuine, verified plots ranging from compact 4 Marla options to expansive 14 Marla spaces, catering to diverse residential and investment needs. Our commitment is to provide transparent deals and expert guidance throughout your property acquisition journey in Sector 45 Karnal. Take advantage of the current market dynamics to acquire prime land in one of Karnal’s most sought-after sectors, guaranteeing excellent connectivity and a peaceful, secure environment perfect for long-term residency."
     ],
     "buttons": [
-      { "label": "View Available Plots", "path": "/plots" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View Available Plots",
+        "path": "/plots"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/hero-plot-45-1.jpg",
-      "/images/hero-map-45-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "The location provides a peaceful residential environment while keeping essential services within a short drive. Families benefit greatly from the proximity to reputed schools and hospitals, guaranteeing a high quality of life. Investors recognize this sector as a hotspot for future development, driven by continuous infrastructure upgrades and seamless road networks linking Sector 45 to the rest of Karnal city and the national highway system."
     ],
     "locations": [
-      "Close proximity to National Highway 44",
-      "Quick access to prominent schools and colleges",
-      "Major hospitals and clinics nearby",
-      "Developing commercial and retail markets within 5 minutes",
-      "Seamless connectivity to Karnal city center",
-      "Well-maintained internal sector roads"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

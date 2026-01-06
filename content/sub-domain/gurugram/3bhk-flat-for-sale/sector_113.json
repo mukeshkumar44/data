@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Features Defining Luxury 3BHK Flats for Sale in Sector 113 Gurugram",
@@ -58,12 +61,56 @@
       "Furthermore, the sector benefits from established social infrastructure in neighboring areas like Sector 109 and Sector 110, providing access to top-tier educational institutions, healthcare facilities, and vibrant shopping complexes. For professionals, the proximity to Cyber City and other business parks makes the daily commute manageable and efficient. Our listings focus on properties that maximize this location advantage, ensuring that your 3BHK flat in Sector 113 offers both a luxurious retreat and practical urban living in Gurugram."
     ],
     "locations": [
-      "Dwarka Expressway Access Points",
-      "Close Proximity to IGI Airport Delhi",
-      "Proposed Metro Station Connectivity Hubs",
-      "Malls and Retail Hubs near Sector 113",
-      "Prominent International Schools",
-      "Leading Multi-Specialty Hospitals"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

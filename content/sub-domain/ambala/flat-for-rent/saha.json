@@ -7,12 +7,18 @@
       "Explore our listings of verified properties including modern apartments and spacious independent floors. Every flat for rent in Saha featured on our platform comes with detailed insights into neighbourhood amenities, proximity to local markets, and essential services like schools and hospitals. Start your journey here and secure a high-quality rental flat in the thriving community of Saha Ambala quickly and efficiently."
     ],
     "buttons": [
-      { "label": "Explore All Rental Flats", "path": "/listings" },
-      { "label": "Contact Rental Experts", "path": "/contact" }
+      {
+        "label": "Explore All Rental Flats",
+        "path": "/listings"
+      },
+      {
+        "label": "Contact Rental Experts",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "saha_flat_exterior.jpg",
-      "saha_apartment_interior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,13 +61,56 @@
       "Whether you need proximity to the local market, major highways, or quality healthcare facilities, our area guides provide essential information. Finding the right neighbourhood is as important as finding the right flat for rent, and our experts guide you through the best pockets of Saha Ambala offering optimal community living and high safety standards."
     ],
     "locations": [
-      "Saha Industrial Area flats",
-      "Flats near AIIMS Saha Ambala",
-      "Rental apartments on Ambala-Chandigarh Highway near Saha",
-      "Residential colonies near Saha Bus Stand",
-      "Flats close to local markets Saha",
-      "Apartments near Ambala Cantt connectivity points",
-      "New residential societies in Saha Extension"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

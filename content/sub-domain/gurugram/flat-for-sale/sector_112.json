@@ -7,10 +7,19 @@
       "Investing in a Flat For Sale in sector_112 means securing a lifestyle defined by modern amenities strong infrastructure and rapid value appreciation. Explore our verified listings and take the first step toward owning a high-quality apartment in one of Gurugram’s rapidly developing neighborhoods that promises both security and convenience."
     ],
     "buttons": [
-      { "label": "Explore Available Flats", "path": "/listings" },
-      { "label": "Schedule Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Available Flats",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_flat_112_1.jpg", "hero_flat_112_2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Investment Opportunities Available Buying Flats in Sector 112 Gurugram",
@@ -52,14 +61,56 @@
       "When considering a Flat For Sale in sector_112 you are not just buying property you are buying unparalleled access to life's essentials. The area is bordered by several well-established sectors and rapidly developing commercial hubs ensuring that shopping medical care and entertainment are just minutes away. This strong infrastructure support coupled with green open spaces makes Sector 112 a highly desirable residential address offering both peace and convenience. We ensure that our featured listings provide the best balance of location quality and investment potential for discerning buyers in Gurugram."
     ],
     "locations": [
-      "BPTP Parklands",
-      "Greater Gurugram Expressway",
-      "Gurugram Bypass Road",
-      "Shiv Nadar School",
-      "Amrita Hospital Gurugram",
-      "Omaxe World Street",
-      "Neharpar Area",
-      "Upcoming Metro Station"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Contact our expert team now for personalized assistance and verified listings tailored to your specific requirements. We specialize in connecting serious buyers with the best residential apartments in Sector 112 Gurugram.",
       "Submit your details below and a dedicated property advisor will reach out within the next business hour to schedule a site visit or consultation."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,12 +7,18 @@
       "Whether you are searching for a premium office space, considering buying land for development, or looking for high-yield rental properties, our network of vetted professionals is ready to assist. Stop wasting time with generic searches and engage an expert who can quickly match your specific requirements with the best available inventory. Discover why intelligent investors rely on our dedicated real estate agents in Sector 63A Noida to secure their perfect property efficiently and safely and achieve unparalleled ROI."
     ],
     "buttons": [
-      { "label": "Find Your Next Property Investment", "path": "/properties" },
-      { "label": "Speak to an Expert Agent Now", "path": "/contact" }
+      {
+        "label": "Find Your Next Property Investment",
+        "path": "/properties"
+      },
+      {
+        "label": "Speak to an Expert Agent Now",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "hero_63a_noida.jpg",
-      "agent_meeting.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Understanding the proximity effects of neighboring sectors like 62, 63, and the connectivity to Ghaziabad and Delhi is vital for calculating future appreciation potential. Use our list of related investment zones to broaden your search criteria and discover hidden gems that might perfectly align with your budget and development goals. Our local experts will guide you through the comparative advantages of each adjacent market, giving you a wider perspective on the entire micro-market."
     ],
     "locations": [
-      "Sector 62 Noida Institutional Hub",
-      "Sector 63 Commercial Market",
-      "Sector 64 Industrial Zone",
-      "Sector 65 IT and ITES Park",
-      "Sector 57 Residential and Institutional Mix",
-      "Sector 135 Expressway Commercial",
-      "Greater Noida West Connectivity Zone",
-      "Indirapuram Ghaziabad Corporate Corridor"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

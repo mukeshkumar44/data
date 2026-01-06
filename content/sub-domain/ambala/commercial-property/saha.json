@@ -7,10 +7,19 @@
       "Investing in Commercial Property For Sale in Saha means leveraging unparalleled connectivity to major highways and proximity to established industrial areas. This is your chance to capitalize on the region’s economic growth, securing a scalable asset that promises long-term profitability. Explore our verified listings and begin your journey to establishing a prominent business presence in this dynamic market."
     ],
     "buttons": [
-      { "label": "View Commercial Listings", "path": "/listings" },
-      { "label": "Get Investment Consultation", "path": "/contact" }
+      {
+        "label": "View Commercial Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Investment Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Property Options Catering to Every Business Need in Saha",
@@ -52,11 +61,56 @@
       "Areas immediately adjacent to the Ambala-Chandigarh Expressway are highly sought after for large showrooms and warehousing due to their massive visibility and ease of access. Furthermore, properties near established educational institutions and industrial estates ensure a steady workforce and ancillary business demand. Our expertise pinpoints these specific high-return zones, helping you avoid underperforming assets. Whether your priority is heavy industry logistics or consumer-facing retail, we guide you to the location in Saha or the wider Ambala region that guarantees operational success and robust capital gains."
     ],
     "locations": [
-      "Saha Industrial Area",
-      "Near Ambala-Chandigarh Expressway Commercial Belt",
-      "Delhi-Ambala Highway Frontage Sites",
-      "Saha Market Center Development Zone",
-      "Ambala Cantt Logistics Hub Access Points"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

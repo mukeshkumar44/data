@@ -7,12 +7,18 @@
       "Explore our handpicked collection of ready-to-move and under-construction flats for sale. Our listings range from spacious 2 BHK units perfect for young professionals to lavish 4 BHK residences and exclusive penthouses designed for elite living. Each property boasts high-end specifications, state-of-the-art amenities, and secure, well-managed community living. Start your search for the perfect Flat For Sale in sushant_lok_phase_1 today and take the first step towards elevated urban living in the Millennium City."
     ],
     "buttons": [
-      { "label": "Explore Available Flats", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Available Flats",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/sushant_lok_hero1.jpg",
-      "/images/sushant_lok_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "When you choose a Flat For Sale in sushant_lok_phase_1, you benefit immediately from living next to Gurugram's most significant commercial and residential zones. This excellent proximity to key business districts not only enhances your daily lifestyle but also reliably boosts long-term property valuation, making it a sound financial move."
     ],
     "locations": [
-      "DLF Phase 1",
-      "MG Road",
-      "Sector 28 Gurugram",
-      "Sector 43 Gurugram",
-      "Golf Course Road",
-      "IFFCO Chowk",
-      "Cyber City",
-      "Sikanderpur Metro Station"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

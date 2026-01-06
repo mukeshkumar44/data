@@ -7,10 +7,19 @@
       "Our curated listings include fully-equipped shops in various sizes to meet your business needs. Explore competitive pricing, modern amenities, and strategic locations that ensure high footfall and profitability."
     ],
     "buttons": [
-      { "label": "View Shops", "path": "/shops" },
-      { "label": "Contact Us", "path": "/contact" }
+      {
+        "label": "View Shops",
+        "path": "/shops"
+      },
+      {
+        "label": "Contact Us",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Shops in Jalbera Road Ambala",
@@ -52,16 +61,56 @@
       "These areas offer excellent connectivity, amenities, and growth potential, ensuring your business thrives in a vibrant community."
     ],
     "locations": [
-      "Ambala Cantt",
-      "Ambala City",
-      "Sector 7 Ambala",
-      "Sector 8 Ambala",
-      "Railway Road Ambala",
-      "Naraingarh Road Ambala",
-      "Patel Nagar Ambala",
-      "Model Town Ambala",
-      "Shastri Nagar Ambala",
-      "GT Road Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -157,6 +206,11 @@
       "Our team is here to assist you in finding the perfect shop in Jalbera Road Ambala. Reach out to us for personalized guidance and expert advice.",
       "Fill out the form below, and we’ll get back to you promptly with the information you need."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

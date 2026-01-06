@@ -7,10 +7,19 @@
       "Assandh is rapidly developing, offering significant potential in both residential and agricultural land segments. Stop wasting time searching through unverified listings. We ensure that every real estate agent listed here adheres to the highest standards of transparency and integrity. Let us match you with a dedicated property partner who will safeguard your interests and streamline the entire transaction process efficiently from negotiation to final registration. Start your successful property journey in Assandh Karnal region right now."
     ],
     "buttons": [
-      { "label": "Find Your Trusted Agent Now", "path": "/agents" },
-      { "label": "View Latest Property Listings", "path": "/listings" }
+      {
+        "label": "Find Your Trusted Agent Now",
+        "path": "/agents"
+      },
+      {
+        "label": "View Latest Property Listings",
+        "path": "/listings"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Residential and Commercial Plot Opportunities with Expert Assandh Agents",
@@ -52,14 +61,56 @@
       "We focus on locations that boast proximity to essential infrastructure like hospitals, schools, and transportation links, ensuring both quality of life and sustained property value growth. Whether you seek immediate occupancy or long-term land banking opportunities, these areas represent the prime focus for active Real Estate Agents in Assandh ensuring you make a decision based on reliable, current market data."
     ],
     "locations": [
-      "Old Assandh City Center",
-      "New Housing Board Colony Assandh",
-      "Karnal Road Extension Area",
-      "Sector 7 Assandh Residential Plots",
-      "Bypass Road Commercial Hub",
-      "Gandhi Nagar Extension",
-      "Chahakpur Area Plots",
-      "Rural Agricultural Land Belt near Assandh"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure your perfect property or achieve a profitable sale in the thriving Assandh real estate market Karnal region. Our platform simplifies the process of finding professional, reliable, and results-driven real estate agents.",
       "Submit your inquiry below detailing your specific property needs, and a dedicated local Assandh expert will reach out to offer personalized consultation and strategic guidance immediately. Let us handle the complexity while you focus on the future."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

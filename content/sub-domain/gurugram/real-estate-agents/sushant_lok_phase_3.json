@@ -7,10 +7,19 @@
       "Stop wasting time sifting through unverified listings. Our dedicated agents provide personalized service, from property valuation and legal due diligence to securing the fastest closing timeline. Let us simplify your real estate journey in one of Gurugram’s most sought-after addresses. Trust the professionals who live and breathe Sushant Lok Phase 3 property—your success starts here."
     ],
     "buttons": [
-      { "label": "List Your Property Now", "path": "/sell" },
-      { "label": "Explore Current Listings", "path": "/buy" }
+      {
+        "label": "List Your Property Now",
+        "path": "/sell"
+      },
+      {
+        "label": "Explore Current Listings",
+        "path": "/buy"
+      }
     ],
-    "images": ["/images/hero/sushant-lok-3-agents.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Specialized Property Services Offered by Leading Real Estate Agents in Sushant Lok Phase 3",
@@ -19,29 +28,29 @@
       "Understanding the specific dimensions and market value associated with these common configurations is crucial for making informed decisions, especially in a premium location where space often dictates lifestyle and potential appreciation. We specialize in matching clients with properties based on their exact spatial and investment needs, ensuring clarity regarding the usage and regulatory status of each property size mentioned below."
     ],
     "features": [
-      { 
-        "title": "Small Builder Floor Investment 4 Marla Plot Equivalent", 
-        "description": "Ideal for investors seeking high rental yield or small families looking for a modern yet manageable living space. Our agents excel in locating newly constructed or ready-to-move-in 2 BHK and 3 BHK builder floors that maximize space utilization in this size category. We focus on properties with clear titles and proximity to essential conveniences, negotiating the best entry price for prime assets in Sushant Lok Phase 3." 
+      {
+        "title": "Small Builder Floor Investment 4 Marla Plot Equivalent",
+        "description": "Ideal for investors seeking high rental yield or small families looking for a modern yet manageable living space. Our agents excel in locating newly constructed or ready-to-move-in 2 BHK and 3 BHK builder floors that maximize space utilization in this size category. We focus on properties with clear titles and proximity to essential conveniences, negotiating the best entry price for prime assets in Sushant Lok Phase 3."
       },
-      { 
-        "title": "Mid-Sized Residential Homes 6 Marla Plot Equivalent", 
-        "description": "This is a popular configuration for independent houses or larger 3 BHK/4 BHK builder floors. Our Real Estate Agents in Sushant Lok Phase 3 provide specialized valuation services for these mid-range properties, analyzing factors like specific block location, construction quality, and interior finish to ensure accurate pricing. We target maximum exposure for sellers and precise matching for buyers in this high-demand segment." 
+      {
+        "title": "Mid-Sized Residential Homes 6 Marla Plot Equivalent",
+        "description": "This is a popular configuration for independent houses or larger 3 BHK/4 BHK builder floors. Our Real Estate Agents in Sushant Lok Phase 3 provide specialized valuation services for these mid-range properties, analyzing factors like specific block location, construction quality, and interior finish to ensure accurate pricing. We target maximum exposure for sellers and precise matching for buyers in this high-demand segment."
       },
-      { 
-        "title": "Premium Builder Floor Options 8 Marla Plot Equivalent", 
-        "description": "Represents the standard for luxury builder floors offering spacious 4 BHK layouts and premium amenities like servant quarters and dedicated parking. Agents specializing in this segment focus on transactions involving Grade A developers and meticulous legal scrutiny. We ensure the property aligns perfectly with the luxury standards expected in Sushant Lok Phase 3 Gurugram." 
+      {
+        "title": "Premium Builder Floor Options 8 Marla Plot Equivalent",
+        "description": "Represents the standard for luxury builder floors offering spacious 4 BHK layouts and premium amenities like servant quarters and dedicated parking. Agents specializing in this segment focus on transactions involving Grade A developers and meticulous legal scrutiny. We ensure the property aligns perfectly with the luxury standards expected in Sushant Lok Phase 3 Gurugram."
       },
-      { 
-        "title": "Executive Residential Villas 10 Marla Plot Equivalent", 
-        "description": "Entering the independent villa and large kothi market requires agents with high-net-worth client experience and discretion. Our experts manage complex negotiations involving independent residential units on 10 Marla plots, focusing on long-term appreciation potential and detailed inspection reports. We facilitate a seamless transition for buyers seeking substantial living spaces." 
+      {
+        "title": "Executive Residential Villas 10 Marla Plot Equivalent",
+        "description": "Entering the independent villa and large kothi market requires agents with high-net-worth client experience and discretion. Our experts manage complex negotiations involving independent residential units on 10 Marla plots, focusing on long-term appreciation potential and detailed inspection reports. We facilitate a seamless transition for buyers seeking substantial living spaces."
       },
-      { 
-        "title": "Luxury Independent Houses 12 Marla Plot Equivalent", 
-        "description": "These large land parcels typically accommodate expansive luxury homes or highly exclusive bespoke residences. Finding appropriate buyers or sellers for 12 Marla plots demands a targeted, high-discretion marketing strategy. Our Real Estate Agents in Sushant Lok Phase 3 employ private networking channels to ensure sensitive transactions are handled with the utmost professionalism and speed, achieving premium valuations." 
+      {
+        "title": "Luxury Independent Houses 12 Marla Plot Equivalent",
+        "description": "These large land parcels typically accommodate expansive luxury homes or highly exclusive bespoke residences. Finding appropriate buyers or sellers for 12 Marla plots demands a targeted, high-discretion marketing strategy. Our Real Estate Agents in Sushant Lok Phase 3 employ private networking channels to ensure sensitive transactions are handled with the utmost professionalism and speed, achieving premium valuations."
       },
-      { 
-        "title": "Estate Level Property Transactions 14 Marla Plot Equivalent", 
-        "description": "The highest echelon of residential property in the area, offering unparalleled scale and exclusivity. Transacting properties of this size involves extensive legal vetting, complex financial structuring, and bespoke client management. We provide specialized consulting to ensure these high-value investments are executed flawlessly, preserving the legacy and value of the estate." 
+      {
+        "title": "Estate Level Property Transactions 14 Marla Plot Equivalent",
+        "description": "The highest echelon of residential property in the area, offering unparalleled scale and exclusivity. Transacting properties of this size involves extensive legal vetting, complex financial structuring, and bespoke client management. We provide specialized consulting to ensure these high-value investments are executed flawlessly, preserving the legacy and value of the estate."
       }
     ]
   },
@@ -52,14 +61,56 @@
       "We track listings and pricing trends across the adjacent localities that influence the real estate valuation here. Our agents offer comparative market analyses that factor in amenities, connectivity to the Golf Course Extension Road, and proximity to major commercial centres. This holistic approach ensures comprehensive service for both buyers seeking proximity to essential amenities and sellers looking to achieve the optimal price point."
     ],
     "locations": [
-      "Block C Sushant Lok 3",
-      "Block D Prime Locality",
-      "Block E Residential Areas",
-      "Sector 56 Gurugram Adjacency",
-      "Sector 57 Gurugram Connectivity",
-      "Golf Course Extension Road Access",
-      "South City 2 Bordering Areas",
-      "Hong Kong Bazaar Proximity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -69,37 +120,37 @@
       "We pride ourselves on local knowledge, superior negotiation skills, and a commitment to transparency that sets us apart. Trust us to handle the complexities while you focus on the excitement of your next move or investment. Our success is measured by your satisfaction."
     ],
     "points": [
-      { 
-        "title": "Unmatched Local Market Expertise and Insights", 
-        "description": "Our Real Estate Agents in Sushant Lok Phase 3 possess hyper-local knowledge that generic agents cannot match. We know the history of price fluctuations, the reputation of specific builders, and the future infrastructural plans impacting specific blocks. This specialized understanding allows us to accurately forecast appreciation and identify undervalued properties, giving you a competitive edge whether buying or selling in this highly competitive Gurugram market segment." 
+      {
+        "title": "Unmatched Local Market Expertise and Insights",
+        "description": "Our Real Estate Agents in Sushant Lok Phase 3 possess hyper-local knowledge that generic agents cannot match. We know the history of price fluctuations, the reputation of specific builders, and the future infrastructural plans impacting specific blocks. This specialized understanding allows us to accurately forecast appreciation and identify undervalued properties, giving you a competitive edge whether buying or selling in this highly competitive Gurugram market segment."
       },
-      { 
-        "title": "Verified Listings and Transparent Due Diligence", 
-        "description": "We rigorously vet every property listing before presenting it to you. Transparency is our foundation. Our agents conduct thorough title checks, regulatory compliance verification, and physical inspections to preemptively identify any legal or structural issues. When you work with us, you receive clear documentation and honest assessments, eliminating the risk associated with unverified real estate deals." 
+      {
+        "title": "Verified Listings and Transparent Due Diligence",
+        "description": "We rigorously vet every property listing before presenting it to you. Transparency is our foundation. Our agents conduct thorough title checks, regulatory compliance verification, and physical inspections to preemptively identify any legal or structural issues. When you work with us, you receive clear documentation and honest assessments, eliminating the risk associated with unverified real estate deals."
       },
-      { 
-        "title": "Superior Negotiation Strategies for Best Results", 
-        "description": "Achieving the optimal price requires skilled negotiation rooted in real-time market data. Our Real Estate Agents in Sushant Lok Phase 3 are master negotiators who work tirelessly to secure the lowest possible purchase price for buyers and the highest achievable sale price for sellers. We handle the critical financial discussions with professionalism and strategic insight, protecting your financial interests at all times." 
+      {
+        "title": "Superior Negotiation Strategies for Best Results",
+        "description": "Achieving the optimal price requires skilled negotiation rooted in real-time market data. Our Real Estate Agents in Sushant Lok Phase 3 are master negotiators who work tirelessly to secure the lowest possible purchase price for buyers and the highest achievable sale price for sellers. We handle the critical financial discussions with professionalism and strategic insight, protecting your financial interests at all times."
       },
-      { 
-        "title": "Personalized Client-Centric Service Model", 
-        "description": "We understand that every client's needs are unique. Our service model is tailored to your specific goals, timeline, and lifestyle requirements. Whether you are a first-time homebuyer or a seasoned investor, your agent acts as a dedicated advisor, available outside standard hours and committed to making your property search or sale feel seamless and stress-free from start to finish." 
+      {
+        "title": "Personalized Client-Centric Service Model",
+        "description": "We understand that every client's needs are unique. Our service model is tailored to your specific goals, timeline, and lifestyle requirements. Whether you are a first-time homebuyer or a seasoned investor, your agent acts as a dedicated advisor, available outside standard hours and committed to making your property search or sale feel seamless and stress-free from start to finish."
       },
-      { 
-        "title": "Access to Exclusive Off-Market Inventory", 
-        "description": "Due to our established network and reputation within Sushant Lok Phase 3, we often gain access to properties that are not publicly listed. This off-market inventory provides premium opportunities for buyers seeking exclusivity and allows sellers to conduct discreet transactions. Partnering with us grants you privileged access to the most desirable and unique residential assets in Gurugram." 
+      {
+        "title": "Access to Exclusive Off-Market Inventory",
+        "description": "Due to our established network and reputation within Sushant Lok Phase 3, we often gain access to properties that are not publicly listed. This off-market inventory provides premium opportunities for buyers seeking exclusivity and allows sellers to conduct discreet transactions. Partnering with us grants you privileged access to the most desirable and unique residential assets in Gurugram."
       },
-      { 
-        "title": "Expert Guidance Through Legal and Financial Formalities", 
-        "description": "The paperwork involved in Gurugram real estate can be overwhelming. Our agents guide you through every legal formality, including registration, mutation, and securing necessary clearances. We collaborate with trusted legal advisors and financial institutions, ensuring the entire process, from loan application to final handover, is managed efficiently and complies with all state regulations." 
+      {
+        "title": "Expert Guidance Through Legal and Financial Formalities",
+        "description": "The paperwork involved in Gurugram real estate can be overwhelming. Our agents guide you through every legal formality, including registration, mutation, and securing necessary clearances. We collaborate with trusted legal advisors and financial institutions, ensuring the entire process, from loan application to final handover, is managed efficiently and complies with all state regulations."
       },
-      { 
-        "title": "Proven Track Record of Successful Closures", 
-        "description": "Our reputation is built on hundreds of successful property closures in Sushant Lok Phase 3 Gurugram. We measure our success by the long-term satisfaction of our clients. Our systematic approach and commitment to closing deadlines mean less anxiety and a faster path to achieving your real estate objective. Review our testimonials to see why we are the trusted choice." 
+      {
+        "title": "Proven Track Record of Successful Closures",
+        "description": "Our reputation is built on hundreds of successful property closures in Sushant Lok Phase 3 Gurugram. We measure our success by the long-term satisfaction of our clients. Our systematic approach and commitment to closing deadlines mean less anxiety and a faster path to achieving your real estate objective. Review our testimonials to see why we are the trusted choice."
       },
-      { 
-        "title": "Post-Sale Support and Community Integration", 
-        "description": "Our relationship does not end at closing. We offer essential post-sale support, including assistance with utility transfers, society documentation, and connecting you with reliable service providers in the area. We help you integrate quickly into the community of Sushant Lok Phase 3, ensuring your transition is smooth and enjoyable, solidifying our role as your lifelong property partner." 
+      {
+        "title": "Post-Sale Support and Community Integration",
+        "description": "Our relationship does not end at closing. We offer essential post-sale support, including assistance with utility transfers, society documentation, and connecting you with reliable service providers in the area. We help you integrate quickly into the community of Sushant Lok Phase 3, ensuring your transition is smooth and enjoyable, solidifying our role as your lifelong property partner."
       }
     ]
   },
@@ -107,45 +158,45 @@
     "title": "Frequently Asked Questions About Real Estate Agents and Property in Sushant Lok Phase 3",
     "description": "We provide transparent answers to the most common queries buyers and sellers have when dealing with property transactions handled by expert Real Estate Agents in Sushant Lok Phase 3 Gurugram.",
     "faqs": [
-      { 
-        "question": "What types of properties do Real Estate Agents in Sushant Lok Phase 3 primarily deal with", 
-        "answer": "The predominant property types handled by Real Estate Agents in Sushant Lok Phase 3 are high-quality builder floors and independent residential houses or kothis. This area is highly sought after for its planned development and proximity to major commercial hubs. Transactions often involve premium 3 BHK, 4 BHK, and 5 BHK builder floors built on plots ranging from 180 square yards to 500 square yards. Our agents are specialists in accurately valuing and marketing these residential units, understanding the nuances between floor levels and specific amenities offered by different developers in the area." 
+      {
+        "question": "What types of properties do Real Estate Agents in Sushant Lok Phase 3 primarily deal with",
+        "answer": "The predominant property types handled by Real Estate Agents in Sushant Lok Phase 3 are high-quality builder floors and independent residential houses or kothis. This area is highly sought after for its planned development and proximity to major commercial hubs. Transactions often involve premium 3 BHK, 4 BHK, and 5 BHK builder floors built on plots ranging from 180 square yards to 500 square yards. Our agents are specialists in accurately valuing and marketing these residential units, understanding the nuances between floor levels and specific amenities offered by different developers in the area."
       },
-      { 
-        "question": "How important is RERA registration for agents operating in Sushant Lok Phase 3", 
-        "answer": "RERA registration is critically important and non-negotiable for all professional Real Estate Agents in Sushant Lok Phase 3. Working with a RERA-compliant agent ensures that all transactions adhere to strict legal and ethical guidelines, providing a layer of protection and transparency for both buyers and sellers. Our network exclusively features RERA-registered professionals, guaranteeing proper documentation, clear communication, and adherence to prescribed timelines as mandated by the regulatory authority for all property dealings in Gurugram." 
+      {
+        "question": "How important is RERA registration for agents operating in Sushant Lok Phase 3",
+        "answer": "RERA registration is critically important and non-negotiable for all professional Real Estate Agents in Sushant Lok Phase 3. Working with a RERA-compliant agent ensures that all transactions adhere to strict legal and ethical guidelines, providing a layer of protection and transparency for both buyers and sellers. Our network exclusively features RERA-registered professionals, guaranteeing proper documentation, clear communication, and adherence to prescribed timelines as mandated by the regulatory authority for all property dealings in Gurugram."
       },
-      { 
-        "question": "What are the standard brokerage fees charged by agents in this area", 
-        "answer": "Brokerage fees in premium areas like Sushant Lok Phase 3 Gurugram generally follow established industry standards, typically ranging from 1 to 2 percent of the total transaction value from both the buyer and the seller. The exact percentage can sometimes be negotiated based on the property value and the complexity of the deal. Our agents maintain transparent fee structures and ensure all charges are clearly communicated upfront before any commitments are made, ensuring no hidden costs affect your final calculation." 
+      {
+        "question": "What are the standard brokerage fees charged by agents in this area",
+        "answer": "Brokerage fees in premium areas like Sushant Lok Phase 3 Gurugram generally follow established industry standards, typically ranging from 1 to 2 percent of the total transaction value from both the buyer and the seller. The exact percentage can sometimes be negotiated based on the property value and the complexity of the deal. Our agents maintain transparent fee structures and ensure all charges are clearly communicated upfront before any commitments are made, ensuring no hidden costs affect your final calculation."
       },
-      { 
-        "question": "Can your agents assist with property loans and financial documentation", 
-        "answer": "Absolutely. Our professional Real Estate Agents in Sushant Lok Phase 3 provide end-to-end support that extends well beyond finding the property. We have strong ties with leading banks and Non-Banking Financial Companies (NBFCs). We can facilitate loan applications, assist with compiling necessary financial documentation, and help you secure the most favorable interest rates and repayment terms available, significantly simplifying the funding aspect of your purchase." 
+      {
+        "question": "Can your agents assist with property loans and financial documentation",
+        "answer": "Absolutely. Our professional Real Estate Agents in Sushant Lok Phase 3 provide end-to-end support that extends well beyond finding the property. We have strong ties with leading banks and Non-Banking Financial Companies (NBFCs). We can facilitate loan applications, assist with compiling necessary financial documentation, and help you secure the most favorable interest rates and repayment terms available, significantly simplifying the funding aspect of your purchase."
       },
-      { 
-        "question": "What should I look for when selecting a builder floor in Sushant Lok Phase 3", 
-        "answer": "When selecting a builder floor, agents recommend focusing on three key aspects the builder’s reputation and track record in the specific area, the quality of construction and finishings, and the legal clearances including the Occupation Certificate (OC) and Completion Certificate (CC). Additionally, assess the floor level, parking availability, and maintenance charges. Our Real Estate Agents in Sushant Lok Phase 3 will provide a comprehensive checklist and inspection report to ensure you invest in a quality asset." 
+      {
+        "question": "What should I look for when selecting a builder floor in Sushant Lok Phase 3",
+        "answer": "When selecting a builder floor, agents recommend focusing on three key aspects the builder’s reputation and track record in the specific area, the quality of construction and finishings, and the legal clearances including the Occupation Certificate (OC) and Completion Certificate (CC). Additionally, assess the floor level, parking availability, and maintenance charges. Our Real Estate Agents in Sushant Lok Phase 3 will provide a comprehensive checklist and inspection report to ensure you invest in a quality asset."
       },
-      { 
-        "question": "What is the current market trend for property appreciation in Sushant Lok Phase 3", 
-        "answer": "Sushant Lok Phase 3 consistently demonstrates robust long-term appreciation due to its excellent connectivity, established social infrastructure, and scarcity of new land parcels. Current trends show strong demand for ready-to-move-in luxury builder floors, driving stable capital growth. While short-term fluctuations can occur, the area remains a safe and profitable investment zone in Gurugram. Our agents provide detailed quarterly market reports to help investors capitalize on prevailing trends." 
+      {
+        "question": "What is the current market trend for property appreciation in Sushant Lok Phase 3",
+        "answer": "Sushant Lok Phase 3 consistently demonstrates robust long-term appreciation due to its excellent connectivity, established social infrastructure, and scarcity of new land parcels. Current trends show strong demand for ready-to-move-in luxury builder floors, driving stable capital growth. While short-term fluctuations can occur, the area remains a safe and profitable investment zone in Gurugram. Our agents provide detailed quarterly market reports to help investors capitalize on prevailing trends."
       },
-      { 
-        "question": "How long does a typical property transaction take in this locality", 
-        "answer": "The timeline for a property transaction in Sushant Lok Phase 3 depends significantly on whether financing is involved. A cash transaction with clear titles can sometimes be completed within 30 to 45 days. However, transactions involving home loans, detailed legal due diligence, and registration formalities typically range from 60 to 90 days. Our Real Estate Agents in Sushant Lok Phase 3 focus on proactive document preparation to expedite the closing process effectively." 
+      {
+        "question": "How long does a typical property transaction take in this locality",
+        "answer": "The timeline for a property transaction in Sushant Lok Phase 3 depends significantly on whether financing is involved. A cash transaction with clear titles can sometimes be completed within 30 to 45 days. However, transactions involving home loans, detailed legal due diligence, and registration formalities typically range from 60 to 90 days. Our Real Estate Agents in Sushant Lok Phase 3 focus on proactive document preparation to expedite the closing process effectively."
       },
-      { 
-        "question": "Do your agents handle rental and leasing services as well", 
-        "answer": "Yes, our network includes specialized agents who focus exclusively on rental and leasing services within Sushant Lok Phase 3 Gurugram. This is a high-demand rental market, particularly among expatriates and senior corporate executives. We assist property owners in finding high-quality tenants quickly and help tenants secure the perfect rental home, managing all lease agreements, background checks, and periodic renewals with full legal compliance." 
+      {
+        "question": "Do your agents handle rental and leasing services as well",
+        "answer": "Yes, our network includes specialized agents who focus exclusively on rental and leasing services within Sushant Lok Phase 3 Gurugram. This is a high-demand rental market, particularly among expatriates and senior corporate executives. We assist property owners in finding high-quality tenants quickly and help tenants secure the perfect rental home, managing all lease agreements, background checks, and periodic renewals with full legal compliance."
       },
-      { 
-        "question": "What makes Sushant Lok Phase 3 a better investment than nearby sectors", 
-        "answer": "Sushant Lok Phase 3 offers a unique blend of established, high-quality infrastructure and strategic connectivity to major employment hubs and the Delhi-Gurugram Expressway. Unlike some newer sectors, it possesses fully developed civic amenities, security systems, and a mature community environment. This stability and proven track record of value retention make it a preferred and less risky investment compared to developing peripheral sectors, a fact our Real Estate Agents consistently emphasize." 
+      {
+        "question": "What makes Sushant Lok Phase 3 a better investment than nearby sectors",
+        "answer": "Sushant Lok Phase 3 offers a unique blend of established, high-quality infrastructure and strategic connectivity to major employment hubs and the Delhi-Gurugram Expressway. Unlike some newer sectors, it possesses fully developed civic amenities, security systems, and a mature community environment. This stability and proven track record of value retention make it a preferred and less risky investment compared to developing peripheral sectors, a fact our Real Estate Agents consistently emphasize."
       },
-      { 
-        "question": "How do your agents ensure discretion during high-value property sales", 
-        "answer": "Discretion is paramount for high-value transactions. Our agents employ targeted, private marketing techniques instead of broad public listings. This often involves leveraging our exclusive network of pre-verified high-net-worth buyers and investors who are actively seeking properties in Sushant Lok Phase 3. We ensure minimal market exposure while maximizing the final sale price, maintaining strict client confidentiality throughout the entire process." 
+      {
+        "question": "How do your agents ensure discretion during high-value property sales",
+        "answer": "Discretion is paramount for high-value transactions. Our agents employ targeted, private marketing techniques instead of broad public listings. This often involves leveraging our exclusive network of pre-verified high-net-worth buyers and investors who are actively seeking properties in Sushant Lok Phase 3. We ensure minimal market exposure while maximizing the final sale price, maintaining strict client confidentiality throughout the entire process."
       }
     ]
   },
@@ -155,6 +206,11 @@
       "Ready to secure your ideal property or list your current asset for the maximum market value? Our team of professional Real Estate Agents in Sushant Lok Phase 3 is standing by to provide expert consultation and personalized service tailored to your specific goals.",
       "Contact us now to schedule a confidential discussion about your real estate needs and take the first step toward a successful transaction in one of Gurugram’s most esteemed residential localities."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

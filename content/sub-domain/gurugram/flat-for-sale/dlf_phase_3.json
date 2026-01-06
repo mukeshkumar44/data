@@ -7,10 +7,19 @@
       "Explore an exceptional range of residential options from meticulously designed 2 BHK apartments perfect for young couples to opulent 4 BHK Penthouses offering panoramic city views. Every Flat For Sale in dlf_phase_3 is a testament to superior construction quality modern amenities and architectural brilliance. Start your journey toward owning a distinguished address in one of Gurugram's most vibrant communities by browsing our curated listings now and unlock your dream home."
     ],
     "buttons": [
-      { "label": "Explore Available Flats Now", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Available Flats Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Flat Configurations and Luxury Residential Styles in DLF Phase 3 Gurugram",
@@ -52,14 +61,56 @@
       "Benefit from unparalleled access to key areas including major corporate offices luxury retail destinations and top-tier educational institutions all within a short drive. This prime positioning significantly enhances the value of every Flat For Sale in dlf_phase_3."
     ],
     "locations": [
-      "DLF Phase 2 Gurugram",
-      "DLF Cyber City",
-      "Udyog Vihar Industrial Area",
-      "Sector 24 Gurugram",
-      "MG Road Retail Hub",
-      "Golf Course Road Extension",
-      "NH48 Connectivity",
-      "Indira Gandhi International Airport Delhi"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Our dedicated real estate experts are here to guide you through every step of finding and purchasing the ideal Flat For Sale in dlf_phase_3. Provide your details below and a specialist will reach out shortly to discuss your property needs.",
       "Benefit from personalized consultations market insights and exclusive access to off-market listings ensuring you find your perfect home or investment without delay."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

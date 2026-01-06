@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "2bhk_sector51_exterior.jpg",
-      "flat_interior_sector51.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "The seamless connection to Golf Course Road and Sohna Road significantly enhances the daily commute for residents. Furthermore residents benefit from the robust public transport network including the nearby rapid metro station which connects Sector 51 directly to Cyber City and other major business districts. When you purchase a 2BHK flat for sale in Sector 51 you are definitively investing in convenience security and a superior quality of life. This sector represents the ideal midpoint between luxury living and absolute practicality."
     ],
     "locations": [
-      "Artemis Hospital",
-      "Sector 53-54 Rapid Metro Station",
-      "Hong Kong Bazaar Commercial Complex",
-      "Pathways World School",
-      "Golf Course Extension Road",
-      "HUDA City Centre Metro Station"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

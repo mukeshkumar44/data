@@ -7,10 +7,19 @@
       "Stop searching through outdated listings and partner with a team that understands the local market dynamics deeply. Our expertise covers residential plots commercial spaces and customized investment portfolios ensuring you maximize your returns and minimize risks. Let us simplify your real estate journey in this vibrant locality ensuring a smooth transparent and highly successful transaction from start to finish. We handle all documentation and negotiation so you can focus on moving into your new dream home."
     ],
     "buttons": [
-      { "label": "Consult an Expert Today", "path": "/contact" },
-      { "label": "View Current Listings", "path": "/listings" }
+      {
+        "label": "Consult an Expert Today",
+        "path": "/contact"
+      },
+      {
+        "label": "View Current Listings",
+        "path": "/listings"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Ideal Plot Sizes and Investment Opportunities in Sector 34 Ambala",
@@ -52,14 +61,56 @@
       "We highlight the most attractive aspects of living in or investing around Sector 34 offering expert insights into future development plans that will further enhance local property values. Proximity to vital amenities ensures convenience a crucial factor for modern family living and business growth."
     ],
     "locations": [
-      "Ambala Chandigarh Highway access points",
-      "Proximity to Ambala Cantt Railway Station",
-      "Direct link to NH 44 National Highway",
-      "Leading schools and educational institutions nearby",
-      "Major commercial markets and shopping complexes",
-      "Accessible government and administrative offices",
-      "Dedicated green parks and recreational zones",
-      "Excellent public transportation network"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Reach out to our dedicated team of real estate experts today. We are prepared to assist you with personalized consultations property viewings and detailed market analysis specific to Sector 34.",
       "Let us make your property purchase seamless and enjoyable. Contact the best Property Dealer in Sector 34 now to begin your journey towards a secure and profitable investment."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

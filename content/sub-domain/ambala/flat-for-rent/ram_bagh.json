@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Options for Flat For Rent in Ram Bagh Ambala City Accommodation",
@@ -58,12 +61,56 @@
       "Key nearby areas like Sector 7 Ambala and Police Line Road offer quick access to government offices and major financial institutions. Residents enjoy close proximity to major railway stations and bus terminals, streamlining intercity travel. This neighborhood offers a perfect balance of peaceful residential living combined with the hustle and bustle required for modern urban life. Explore rentals in Ram Bagh to leverage these locational advantages, ensuring your daily commute and access to amenities are effortless and time-saving."
     ],
     "locations": [
-      "Ambala Cantt",
-      "Ambala City Railway Station",
-      "Sector 7 Ambala",
-      "Police Line Road",
-      "Civil Hospital Ambala",
-      "Model Town Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

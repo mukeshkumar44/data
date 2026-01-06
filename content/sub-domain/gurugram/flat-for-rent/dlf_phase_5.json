@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "dlf_phase_5_hero_1.jpg",
-      "dlf_phase_5_hero_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "If you prefer high-rise comfort with immediate access to golf courses buildings like The Park Place and Belaire are excellent choices providing modern infrastructure and vibrant community life. We also list properties in newer developments and select builder floors offering flexibility and often faster occupation times. Our listings cover every corner of this prestigious area ensuring you have access to the full spectrum of rental opportunities available right now. This detailed segmentation helps narrow down your search based on required amenities proximity to the Golf Course Road Extension and specific security or privacy needs. Choose a location within DLF Phase 5 that truly complements your professional requirements and desired lifestyle."
     ],
     "locations": [
-      "The Magnolias",
-      "The Aralias",
-      "The Park Place",
-      "The Crest",
-      "Belaire",
-      "Princeton Estate",
-      "Carlton Estate",
-      "Richmond Park"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,10 +7,19 @@
       "Explore a curated selection of properties ranging from cozy 3 BHK independent houses to luxurious 5 BHK villas. Investing in a house for sale in Sector 9 guarantees robust appreciation and a superior lifestyle characterized by safety and convenience. Our listings are verified and updated ensuring you access the most current and attractive real estate opportunities in this prestigious Karnal neighborhood. Start your journey toward finding your perfect home immediately."
     ],
     "buttons": [
-      { "label": "View All Available Houses", "path": "/listings" },
-      { "label": "Schedule Property Visit", "path": "/contact" }
+      {
+        "label": "View All Available Houses",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule Property Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["house_sector9_1.jpg", "sector9_street.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Popular House Sizes and Configurations Available in Sector 9 Karnal",
@@ -52,12 +61,56 @@
       "The proximity to established and developing zones enhances the resale potential and rental yield of a House For Sale in Sector 9. These nearby areas share similar quality infrastructure and contribute to the overall upscale environment of the locality providing comprehensive civic support to Sector 9 residents."
     ],
     "locations": [
-      "Sector 8 Residential Hub",
-      "Sector 13 Extension",
-      "Model Town Commercial Center",
-      "New Housing Board Colony",
-      "NH 44 Highway Access Point",
-      "Shiv Colony Residential Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to find the perfect House For Sale in Sector 9 Karnal Our dedicated team of property experts possesses unparalleled local knowledge and market insights to guide your search seamlessly.",
       "Get personalized property listings market analyses and scheduled site visits tailored precisely to your family's needs and investment goals. Reach out now to start your home buying journey."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

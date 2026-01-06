@@ -17,7 +17,8 @@
       }
     ],
     "images": [
-      "2bhk-sector-107-hero.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -60,14 +61,56 @@
       "The strategic location near the Sector 101 Metro Station and major arterial roads means travel time is significantly reduced. Whether you need to reach schools hospitals shopping malls or major corporate offices Sector 107 puts you in the center of the action while maintaining a peaceful residential environment."
     ],
     "locations": [
-      "Noida Expressway",
-      "Sector 101 Metro Station",
-      "DLF Mall of India",
-      "Jaypee Hospital",
-      "Amity University",
-      "Sector 18 Market",
-      "FNG Expressway access",
-      "Central Noida Hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

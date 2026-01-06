@@ -16,7 +16,10 @@
         "path": "/listings"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Specialized Property Services Offered by Expert Real Estate Agents in Sector 68 Gurugram",
@@ -58,12 +61,56 @@
       "This area offers a perfect blend of high-end residential complexes and emerging commercial hubs, providing diverse investment avenues for every budget. We provide specific guidance on properties near major highways, ensuring excellent future capital appreciation. Whether you prioritize access to leading schools, major healthcare facilities, or the corporate towers of Cyber City, our agents map out the perfect location to meet your lifestyle and investment criteria across the wider Gurugram landscape."
     ],
     "locations": [
-      "Sector 69 Residential Projects",
-      "Badshahpur Growth Corridor",
-      "Golf Course Extension Road Connectivity",
-      "Southern Peripheral Road SPR Access",
-      "Sohna Road Commercial Hubs",
-      "Sector 70A Housing Societies"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

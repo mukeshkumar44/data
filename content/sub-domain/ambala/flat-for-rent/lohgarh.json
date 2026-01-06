@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Variety of Rental Flat Configurations Available in Lohgarh Ambala",
@@ -58,14 +61,56 @@
       "We prioritize listings close to essential infrastructure, ensuring that your daily needs are met without hassle. Check out the key nearby locations and transit points that make living in a Flat For Rent in Lohgarh Ambala so incredibly convenient for all types of residents."
     ],
     "locations": [
-      "Ambala Cantt Railway Station",
-      "NH44 National Highway Access",
-      "Major Local Market Area",
-      "Ambala Civil Hospital Proximity",
-      "Reputable Schools and Colleges",
-      "Central Bus Stand Ambala",
-      "Industrial Area Access",
-      "Local Parks and Green Spaces"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

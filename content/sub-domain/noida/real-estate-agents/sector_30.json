@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "sector30_hero_noida.jpg",
-      "agent_team_s30_office.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "We maintain live listings for properties near major landmarks like the Sector 30 Market and prominent schools ensuring convenience and high resale value. This sector is renowned for its excellent connectivity and established infrastructure making it a hotspot for both end-users and long-term investors. Let our agents guide you through the intricacies of the local market highlighting properties with the greatest appreciation potential and finding the perfect match for your specific requirements within Sector 30 Noida."
     ],
     "locations": [
-      "High-Rise Apartments near Metro Station",
-      "Independent Builder Floors and Villas",
-      "Commercial Office Spaces for Lease",
-      "Ready-to-Move Residential Units",
-      "Properties near Sector 30 Park",
-      "Retail Shops and Commercial Plots"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

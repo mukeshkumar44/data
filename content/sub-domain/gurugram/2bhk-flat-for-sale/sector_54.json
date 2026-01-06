@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-sector54-1.jpg",
-      "hero-sector54-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "Our portfolio includes options in gated communities by renowned developers offering varying budgets and sizes perfect for first-time homebuyers or seasoned investors looking to expand their real estate holdings in this high-growth corridor."
     ],
     "locations": [
-      "DLF Park Place",
-      "DLF The Crest",
-      "Emaar Emerald Hills",
-      "Tata Primanti",
-      "Suncity Heights",
-      "Golf Course Road Extension Projects"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -107,6 +151,7 @@
       {
         "title": "Affordable Luxury and Spacious Options",
         "description": "While offering luxury amenities 2BHK flats here provide a more accessible entry point into the Gurugram real estate market compared to 3BHK or larger units in the same location. These flats offer maximum value without compromising on space or quality finishes."
+      }
     ]
   },
   "faqSection": {

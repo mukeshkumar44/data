@@ -16,7 +16,10 @@
         "path": "/schedule-visit"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore the Best Types of Flat For Rent in Hira Nagar Ambala to Suit Every Residential Need",
@@ -58,12 +61,56 @@
       "Understanding the proximity to essential services helps you narrow down the best spot for your next Flat For Rent in Hira Nagar. We highlight key accessibility points that make living in this specific area of Ambala so highly convenient for all types of residents and daily commutes."
     ],
     "locations": [
-      "Proximity to Ambala Bus Stand and Local Transport",
-      "Easy Commute to Ambala Cantt Railway Station",
-      "Near Main Market Shopping and Dining Hubs",
-      "Close to Local Schools and Colleges",
-      "Direct Access to Major City Connecting Roads",
-      "Quick Reach of Essential Healthcare Facilities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

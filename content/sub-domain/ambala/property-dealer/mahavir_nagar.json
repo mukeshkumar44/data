@@ -16,7 +16,10 @@
         "path": "/valuation"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Property Options Handled by Your Expert Property Dealer Team in Mahavir Nagar",
@@ -58,14 +61,56 @@
       "Our property dealer network extends across the most lucrative investment zones in the surrounding regions ensuring we can cater to diverse location preferences. Whether you seek immediate occupancy near the bustling city centre or future growth potential in upcoming sectors we provide accurate data-driven insights for every location comparison."
     ],
     "locations": [
-      "Model Town Ambala",
-      "Sector 7 Ambala Cantt",
-      "Baldev Nagar Ambala",
-      "Indira Colony Ambala",
-      "Panchwati Colony",
-      "Civil Lines Ambala City",
-      "Sector 9 HUDA Ambala",
-      "Shastri Colony"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "plot-sector-46-noida-aerial.jpg",
-      "residential-plots-noida-46.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "You will find premier educational institutions top-tier healthcare facilities and luxurious shopping malls within a very short radius. The area is served by robust public transport options further enhancing its appeal to families and working professionals alike. This mature infrastructure not only improves the quality of life but also significantly contributes to the steady appreciation of property values making a Plot For Sale in Sector 46 Noida a financially sound decision."
     ],
     "locations": [
-      "DPS Sector 46",
-      "World Square Mall",
-      "Botanical Garden Metro Station",
-      "Max Multi Speciality Centre",
-      "FNG Expressway Access Point",
-      "Amity University Campus",
-      "Worship Street Market",
-      "Sector 46 Community Centre"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

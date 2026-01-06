@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Real Estate Options and Investment Opportunities Managed by Expert Agents in Sector 95",
@@ -58,14 +61,56 @@
       "Our deep presence allows us to offer comparative market analysis across sectors, highlighting emerging trends in areas benefiting from the infrastructure development around the Dwarka Expressway and NH 48. This wide coverage ensures you do not miss out on strategic investment opportunities just outside Sector 95 Gurugram."
     ],
     "locations": [
-      "Sector 92 Gurugram",
-      "Sector 93 Gurugram",
-      "Sector 94 Gurugram",
-      "Sector 96 Gurugram",
-      "Sector 99A Gurugram",
-      "Pataudi Road Connectivity Zone",
-      "Dwarka Expressway Proximal Areas",
-      "NH 48 Accessibility Zones"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

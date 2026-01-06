@@ -7,10 +7,19 @@
       "Explore spacious 1 BHK, 2 BHK, and luxurious 3 BHK flats available immediately. Our listings provide detailed information on local amenities, lease terms, and connectivity, ensuring a smooth and transparent renting process. Stop searching endlessly and start living comfortably in one of Balana's best rental apartments today. Contact our expert team to schedule a viewing and discover why so many people choose Balana for their next home in Ambala."
     ],
     "buttons": [
-      { "label": "Browse Available Flats", "path": "/search-rentals" },
-      { "label": "Get Rental Alerts", "path": "/rental-alerts" }
+      {
+        "label": "Browse Available Flats",
+        "path": "/search-rentals"
+      },
+      {
+        "label": "Get Rental Alerts",
+        "path": "/rental-alerts"
+      }
     ],
-    "images": ["/images/hero-balana-flat-1.jpg", "/images/hero-balana-flat-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Popular Rental Property Types and Key Living Benefits in Balana Ambala",
@@ -52,11 +61,56 @@
       "We provide targeted listings for these popular areas within Balana, ensuring you find a Flat For Rent that is not just suitable in size but also in its neighborhood feel and access to specific amenities you value the most."
     ],
     "locations": [
-      "Balana Main Road Residential Blocks",
-      "Near Balana Govt School Area",
-      "Housing Board Balana Flats",
-      "Pockets Close to Ambala City Border",
-      "Newer Development Projects in Balana"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -152,6 +206,11 @@
       "Ready to secure your perfect rental home in the vibrant community of Balana Ambala? Our expert team is here to guide you through every step of the process, from initial search to final lease signing.",
       "Reach out now to discuss your specific requirements, inquire about particular properties, or schedule a personalized viewing tour. We make finding a Flat For Rent simple and stress-free."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

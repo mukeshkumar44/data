@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Shop Sizes Available for Lease in Sector 82 Gurugram",
@@ -58,14 +61,56 @@
       "Our featured shops for rent are specifically located near established business drivers ensuring your venture receives immediate exposure and sustained growth. These areas are characterized by excellent urban planning wide roads and dedicated commercial zoning making them the preferred choice for forward-thinking business owners in Gurugram."
     ],
     "locations": [
-      "Near SRS International School Sector 82",
-      "Proximity to Bypass Road Connectivity",
-      "High Street Market within Sector 82",
-      "Adjoining Residential Projects like Omaxe New Heights",
-      "Near Commercial Plazas on the Main Sector Road",
-      "Easy Access to Major Banks and ATMs",
-      "Integrated Commercial Towers in the Vicinity",
-      "Near Public Transport and Metro Feeder Routes"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

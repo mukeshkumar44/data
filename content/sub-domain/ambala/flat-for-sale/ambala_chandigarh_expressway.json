@@ -7,10 +7,19 @@
       "We showcase verified and ready-to-move flats and apartments designed by renowned developers ensuring top-tier construction quality and modern amenities. Whether you seek a compact 1 BHK unit for investment or a spacious 4 BHK penthouse offering skyline views, the Ambala Chandigarh Expressway area delivers exceptional value. Explore our curated listings today and secure your future in this thriving corridor connecting Ambala and Chandigarh."
     ],
     "buttons": [
-      { "label": "Explore Available Flats", "path": "/flats-available" },
-      { "label": "Request a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Available Flats",
+        "path": "/flats-available"
+      },
+      {
+        "label": "Request a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_flat_view_1.jpg", "hero_flat_view_2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Residential Options for Every Family Looking for a Flat in Ambala",
@@ -52,11 +61,56 @@
       "This prime positioning not only makes daily travel easier but significantly boosts the long-term investment value of any flat here. Proximity to international airports, major railway stations, and emerging commercial districts solidifies the appeal of finding a Flat For Sale in Ambala Chandigarh Expressway. Experience suburban tranquility without sacrificing urban accessibility."
     ],
     "locations": [
-      "Direct link to Chandigarh International Airport",
-      "Easy commute to IT and corporate sectors of Mohali and Panchkula",
-      "Proximity to Ambala Cantt Railway Station major junction",
-      "Quick access to renowned hospitals and educational institutions",
-      "Developing commercial centers and shopping malls nearby the expressway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -152,6 +206,11 @@
       "Ready to secure your premium flat in this high-growth corridor connecting Ambala and Chandigarh. Our property specialists are ready to provide personalized listings, virtual tours, and detailed financial consultation.",
       "Submit your details below to receive a comprehensive brochure detailing the best available Flat For Sale in Ambala Chandigarh Expressway and schedule your private site visit."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

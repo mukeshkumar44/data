@@ -7,10 +7,19 @@
       "Discover a diverse portfolio of ready-to-move commercial properties perfectly suited for modern retail demands. Our listings include spaces ranging from compact storefronts ideal for startups to large anchor units suitable for national chains and multi-brand outlets. Leverage the organized infrastructure and dynamic commercial ecosystem of Sector 41 to maximize your operational efficiency and revenue growth. Start your search now and position your business for long-term success in one of Gurugram’s most sought-after commercial zones."
     ],
     "buttons": [
-      { "label": "Browse Premium Rental Shops", "path": "/shops/premium" },
-      { "label": "Contact Rental Experts", "path": "/contact-us" }
+      {
+        "label": "Browse Premium Rental Shops",
+        "path": "/shops/premium"
+      },
+      {
+        "label": "Contact Rental Experts",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Shop Options Available For Rent in Vibrant Sector 41 Gurugram",
@@ -52,14 +61,56 @@
       "Explore commercial property listings that are positioned strategically close to key residential colonies and prominent landmarks, maximizing your visibility and market reach. Investing in a shop for rent in Sector 41 Gurugram means aligning your business with a future growth trajectory fueled by superior urban planning and accessibility."
     ],
     "locations": [
-      "Near Sector 41 Main Market Hub",
-      "Close to Badkhal Metro Station connectivity",
-      "Proximity to Delhi-Mathura Road NH-44",
-      "Access via Sector 41 Residential Colony Entry Points",
-      "Near prominent local schools and institutions",
-      "Adjacent to existing major retail banks and outlets",
-      "Easy access from Sector 42 and Sector 45",
-      "Within walking distance of public parking facilities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

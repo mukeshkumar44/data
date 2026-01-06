@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "sadar_bazar_flat_hero_view.jpg",
-      "sadar_bazar_market_connection.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "We analyze the specific benefits of properties located within walking distance of key infrastructure points. Understanding the localized connectivity is crucial for daily living and for maximizing the investment potential of your Sadar Bazar apartment. Explore listings near the main Sadar Bazaar Road or those tucked away in quieter adjacent lanes that still offer excellent accessibility providing the perfect blend of market convenience and residential calm."
     ],
     "locations": [
-      "Main Sadar Bazaar Road Access",
-      "Connectivity to Major Railway Stations",
-      "Proximity to Key Metro Lines",
-      "Adjacent Residential Pockets",
-      "Commercial Hub Accessibility",
-      "Local Educational Institutions",
-      "Healthcare Facilities Nearby",
-      "Immediate Bus Route Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

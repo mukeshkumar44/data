@@ -7,10 +7,19 @@
       "Investing in a home here means securing a future in a peaceful yet central location close to schools hospitals and major commercial hubs. Every property listing provides detailed floor plans transparent pricing and verified ownership documents ensuring a smooth and confident purchasing experience. Start your search today and explore why Sector 9 Ambala remains the preferred choice for discerning homeowners looking for quality and value."
     ],
     "buttons": [
-      { "label": "Explore Available Listings", "path": "/listings" },
-      { "label": "Schedule a Property Tour", "path": "/contact" }
+      {
+        "label": "Explore Available Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Property Tour",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/sector9-hero-villa.jpg", "/images/sector9-area-view.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Home Sizes and Premium House Listings in Sector 9 Ambala Cantt",
@@ -51,7 +60,58 @@
       "Sector 9 is strategically positioned offering unparalleled access to the best amenities Ambala has to offer making every House For Sale in Sector 9 highly desirable. Located near the bustling Ambala Cantt area residents benefit from immediate proximity to key defense establishments and reliable transport links.",
       "For educational needs leading institutions such as SD Vidya School and others are just a short drive away ensuring quality education is accessible. Healthcare is robust with major hospitals and clinics situated conveniently close minimizing travel time during emergencies. The easy connectivity to the National Highway 44 further enhances its value offering swift travel towards Chandigarh or Delhi. This combination of location advantages infrastructure quality and community environment solidifies Sector 9 as a prime spot for purchasing your next permanent home in Ambala."
     ],
-    "locations": ["Sector 7 Residential Hub", "Ambala Cantt Railway Station", "NH 44 Connectivity", "SD Vidya School Area", "Model Town Commercial Area", "Civil Hospital Ambala"]
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Why Buying a House in Sector 9 Ambala is the Smartest Investment Choice Today",
@@ -146,6 +206,11 @@
       "Ready to move forward with purchasing your dream home in Sector 9 Ambala. Our specialist real estate agents are here to provide tailored assistance market insights and exclusive property tours at your convenience.",
       "Let us simplify your journey to finding the perfect House For Sale in Sector 9 ensuring you secure the best possible value in this sought-after residential area. Contact us now to begin your personalized consultation."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

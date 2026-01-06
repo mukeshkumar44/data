@@ -7,10 +7,19 @@
       "As your dedicated Property Dealer in Jandli, we streamline the entire process, from identifying prime residential plots to handling complex legal documentation. Whether you are searching for a small plot for a new family home or a larger land parcel for commercial development, our extensive portfolio and transparent processes ensure you make an informed decision that meets your long-term goals. Start your profitable real estate journey with local experts today and secure the best deals available in Jandli Ambala."
     ],
     "buttons": [
-      { "label": "Explore Available Plots", "path": "/available-plots" },
-      { "label": "Consult Our Experts Today", "path": "/contact-us" }
+      {
+        "label": "Explore Available Plots",
+        "path": "/available-plots"
+      },
+      {
+        "label": "Consult Our Experts Today",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["jandli_plot_view1.jpg", "jandli_locality_map.png"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover High-Potential Plot Sizes in Jandli Ambala Ideal for Your Next Investment",
@@ -52,14 +61,56 @@
       "Whether you prefer the developed infrastructure of Ambala Cantt or the strategic industrial access of nearby areas, our property experts cover all key regions. We provide detailed market analysis for each location, helping you compare rental yields, infrastructure quality, and future developmental plans before committing to an investment decision."
     ],
     "locations": [
-      "Jandli Residential Plots",
-      "Ambala Cantt Near Railway Station",
-      "Sector 7 Ambala Connectivity",
-      "Dhulkot Road Properties",
-      "Shahbad Markanda Corridor",
-      "Delhi-Amritsar National Highway Access Points",
-      "Model Town Ambala",
-      "Areas Adjacent to New ISBT Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure your high-value plot in the rapidly appreciating Jandli real estate market. Our experienced property advisors are here to provide tailored solutions and transparent guidance for all your buying, selling, or investment needs.",
       "Get in touch with us now to discuss specific plot availability, financing options, or schedule a physical inspection of properties that match your vision in Jandli Ambala. Your successful investment journey starts with a simple conversation."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

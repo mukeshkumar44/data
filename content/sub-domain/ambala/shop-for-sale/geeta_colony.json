@@ -1,4 +1,3 @@
-
 {
   "domain": "realestategeetacolony.com",
   "hero": {
@@ -8,10 +7,19 @@
       "Geeta Colony provides unmatched accessibility to major roads, markets, and residential areas, making it a lucrative investment opportunity for entrepreneurs and investors alike."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/shops" },
-      { "label": "Contact Agent", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/shops"
+      },
+      {
+        "label": "Contact Agent",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Prime Commercial Properties in Geeta Colony",
@@ -20,12 +28,30 @@
       "Our properties feature modern amenities, strategic locations, and flexible layouts to support your business growth."
     ],
     "features": [
-      { "title": "Compact Retail Shop", "description": "Ideal for small businesses and boutiques with 200-300 sq ft area and front-facing display windows." },
-      { "title": "Medium Commercial Space", "description": "Perfect for growing businesses offering 400-600 sq ft with storage area and customer seating space." },
-      { "title": "Large Showroom", "description": "Spacious 800-1200 sq ft units with high ceilings and multiple entry points for heavy customer flow." },
-      { "title": "Corner Shop Property", "description": "Premium visibility locations at street corners with dual access and maximum exposure." },
-      { "title": "Market-Facing Unit", "description": "Shops directly facing main market areas with continuous foot traffic throughout the day." },
-      { "title": "Commercial Complex Space", "description": "Modern shop spaces in newly developed complexes with shared amenities and parking facilities." }
+      {
+        "title": "Compact Retail Shop",
+        "description": "Ideal for small businesses and boutiques with 200-300 sq ft area and front-facing display windows."
+      },
+      {
+        "title": "Medium Commercial Space",
+        "description": "Perfect for growing businesses offering 400-600 sq ft with storage area and customer seating space."
+      },
+      {
+        "title": "Large Showroom",
+        "description": "Spacious 800-1200 sq ft units with high ceilings and multiple entry points for heavy customer flow."
+      },
+      {
+        "title": "Corner Shop Property",
+        "description": "Premium visibility locations at street corners with dual access and maximum exposure."
+      },
+      {
+        "title": "Market-Facing Unit",
+        "description": "Shops directly facing main market areas with continuous foot traffic throughout the day."
+      },
+      {
+        "title": "Commercial Complex Space",
+        "description": "Modern shop spaces in newly developed complexes with shared amenities and parking facilities."
+      }
     ]
   },
   "locationsSection": {
@@ -35,14 +61,56 @@
       "Investors often consider these adjacent markets when looking at Geeta Colony shop spaces due to similar customer demographics and business opportunities."
     ],
     "locations": [
-      "Krishna Nagar Market",
-      "Preet Vihar Commercial Strip",
-      "Shakarpur Main Market",
-      "Vivek Vihar Phase 1",
-      "Laxmi Nagar Central Market",
-      "Nirman Vihar Metro Market",
-      "Patparganj Industrial Area",
-      "Yamuna Vihar Shopping Complex"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -52,29 +120,80 @@
       "Our carefully selected shop properties provide the perfect combination of location advantages and modern facilities to ensure business success."
     ],
     "points": [
-      { "title": "Strategic Location", "description": "Geeta Colony sits at the crossroads of major East Delhi routes with easy access to both residential and commercial areas." },
-      { "title": "High Foot Traffic", "description": "The area attracts shoppers from nearby colonies and transit commuters, ensuring constant customer flow for businesses." },
-      { "title": "Diverse Customer Base", "description": "Serves a mix of middle-class and upper-middle-class residents with strong purchasing power." },
-      { "title": "Infrastructure Growth", "description": "Ongoing road widening projects and metro connectivity improvements enhance the area's commercial potential." },
-      { "title": "Established Market", "description": "Decades-old commercial ecosystem with complementary businesses creates a thriving shopping destination." },
-      { "title": "Flexible Property Options", "description": "Variety of shop sizes and configurations available to suit different business models." },
-      { "title": "Competitive Pricing", "description": "More affordable than premium markets like South Delhi while offering similar business potential." },
-      { "title": "Strong Rental Demand", "description": "Consistent demand from retailers ensures high occupancy rates and stable rental income." }
+      {
+        "title": "Strategic Location",
+        "description": "Geeta Colony sits at the crossroads of major East Delhi routes with easy access to both residential and commercial areas."
+      },
+      {
+        "title": "High Foot Traffic",
+        "description": "The area attracts shoppers from nearby colonies and transit commuters, ensuring constant customer flow for businesses."
+      },
+      {
+        "title": "Diverse Customer Base",
+        "description": "Serves a mix of middle-class and upper-middle-class residents with strong purchasing power."
+      },
+      {
+        "title": "Infrastructure Growth",
+        "description": "Ongoing road widening projects and metro connectivity improvements enhance the area's commercial potential."
+      },
+      {
+        "title": "Established Market",
+        "description": "Decades-old commercial ecosystem with complementary businesses creates a thriving shopping destination."
+      },
+      {
+        "title": "Flexible Property Options",
+        "description": "Variety of shop sizes and configurations available to suit different business models."
+      },
+      {
+        "title": "Competitive Pricing",
+        "description": "More affordable than premium markets like South Delhi while offering similar business potential."
+      },
+      {
+        "title": "Strong Rental Demand",
+        "description": "Consistent demand from retailers ensures high occupancy rates and stable rental income."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shops in Geeta Colony",
     "description": "Get answers to common queries about purchasing commercial property in Geeta Colony's thriving market area.",
     "faqs": [
-      { "question": "What types of businesses thrive in Geeta Colony shops", "answer": "Geeta Colony shops successfully support clothing stores, electronics showrooms, pharmacies, grocery stores, eateries, and service providers like salons and repair shops. The diverse resident population creates demand for various retail and service businesses." },
-      { "question": "What is the average price range for shops in Geeta Colony", "answer": "Shop prices in Geeta Colony typically range from ₹25,000 to ₹80,000 per square foot depending on exact location, size, and property condition. Corner properties and market-facing units command premium prices." },
-      { "question": "Are there any legal restrictions on shop usage in Geeta Colony", "answer": "Most commercial properties in Geeta Colony allow retail and service businesses. Some restrictions may apply to specific industries like manufacturing or hazardous materials. We verify zoning regulations for each property before listing." },
-      { "question": "What are the peak business hours in Geeta Colony markets", "answer": "Geeta Colony shops experience strong foot traffic from 10 AM to 9 PM daily, with peak hours between 6-9 PM when office commuters return home. Sunday evenings are particularly busy for family shopping." },
-      { "question": "How does Geeta Colony compare to nearby commercial areas", "answer": "Geeta Colony offers more affordable prices than premium markets like Laxmi Nagar while maintaining good customer traffic. It provides better infrastructure than developing areas and has more established businesses than newer commercial zones." },
-      { "question": "What financing options are available for shop purchases", "answer": "Most national and private banks offer commercial property loans for Geeta Colony shops at competitive rates. We can connect you with preferred financial partners who understand the local market." },
-      { "question": "Are there redevelopment opportunities in Geeta Colony", "answer": "Several older properties in Geeta Colony are being redeveloped into modern commercial complexes. We identify properties with redevelopment potential for investors interested in long-term value creation." },
-      { "question": "What maintenance charges apply to shop properties", "answer": "Standalone shops typically have minimal maintenance costs. Properties in commercial complexes may have monthly charges covering security, cleaning, and common area maintenance, usually ranging from ₹5-15 per sq ft." },
-      { "question": "How is the parking situation for Geeta Colony shops", "answer": "Parking availability varies by property. Many shops have street parking or shared lots, while newer complexes provide dedicated parking spaces. We assess parking arrangements for each property to match your business needs." }
+      {
+        "question": "What types of businesses thrive in Geeta Colony shops",
+        "answer": "Geeta Colony shops successfully support clothing stores, electronics showrooms, pharmacies, grocery stores, eateries, and service providers like salons and repair shops. The diverse resident population creates demand for various retail and service businesses."
+      },
+      {
+        "question": "What is the average price range for shops in Geeta Colony",
+        "answer": "Shop prices in Geeta Colony typically range from ₹25,000 to ₹80,000 per square foot depending on exact location, size, and property condition. Corner properties and market-facing units command premium prices."
+      },
+      {
+        "question": "Are there any legal restrictions on shop usage in Geeta Colony",
+        "answer": "Most commercial properties in Geeta Colony allow retail and service businesses. Some restrictions may apply to specific industries like manufacturing or hazardous materials. We verify zoning regulations for each property before listing."
+      },
+      {
+        "question": "What are the peak business hours in Geeta Colony markets",
+        "answer": "Geeta Colony shops experience strong foot traffic from 10 AM to 9 PM daily, with peak hours between 6-9 PM when office commuters return home. Sunday evenings are particularly busy for family shopping."
+      },
+      {
+        "question": "How does Geeta Colony compare to nearby commercial areas",
+        "answer": "Geeta Colony offers more affordable prices than premium markets like Laxmi Nagar while maintaining good customer traffic. It provides better infrastructure than developing areas and has more established businesses than newer commercial zones."
+      },
+      {
+        "question": "What financing options are available for shop purchases",
+        "answer": "Most national and private banks offer commercial property loans for Geeta Colony shops at competitive rates. We can connect you with preferred financial partners who understand the local market."
+      },
+      {
+        "question": "Are there redevelopment opportunities in Geeta Colony",
+        "answer": "Several older properties in Geeta Colony are being redeveloped into modern commercial complexes. We identify properties with redevelopment potential for investors interested in long-term value creation."
+      },
+      {
+        "question": "What maintenance charges apply to shop properties",
+        "answer": "Standalone shops typically have minimal maintenance costs. Properties in commercial complexes may have monthly charges covering security, cleaning, and common area maintenance, usually ranging from ₹5-15 per sq ft."
+      },
+      {
+        "question": "How is the parking situation for Geeta Colony shops",
+        "answer": "Parking availability varies by property. Many shops have street parking or shared lots, while newer complexes provide dedicated parking spaces. We assess parking arrangements for each property to match your business needs."
+      }
     ]
   },
   "contactSection": {
@@ -83,6 +202,11 @@
       "Our local property specialists can guide you through available shop options in Geeta Colony that match your business requirements and investment goals.",
       "Reach out for personalized assistance in finding your ideal commercial space in this thriving market area."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

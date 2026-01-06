@@ -7,10 +7,19 @@
       "Discover the convenience of living close to essential amenities reputable schools and major commercial hubs while enjoying the security and clean environment that Sector 7 is known for. Stop wading through outdated listings and let our expert team guide you to the ideal House For Rent in Sector 7 tailored precisely to your budget and lifestyle needs. Start your search now and secure a premium rental property before it is gone."
     ],
     "buttons": [
-      { "label": "Browse 2 BHK Rentals", "path": "/rentals/sector-7/2bhk" },
-      { "label": "Schedule a Viewing", "path": "/contact-us" }
+      {
+        "label": "Browse 2 BHK Rentals",
+        "path": "/rentals/sector-7/2bhk"
+      },
+      {
+        "label": "Schedule a Viewing",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Rental House Sizes and Configurations Available in Sector 7",
@@ -52,12 +61,56 @@
       "The location’s proximity to key areas like Sector 9 the Railway Station Road and the main highway makes daily commuting straightforward and convenient. This balanced connectivity enhances the appeal of every House For Rent in Sector 7 making it an optimal choice for families working across different parts of Ambala or even commuting towards Chandigarh. Explore the map to see how well-placed your next rental home could be."
     ],
     "locations": [
-      "Proximity to Ambala Cantt Railway Station",
-      "Easy access to Chandigarh-Ambala Highway",
-      "Close to Sector 9 Market Area",
-      "Near prominent educational institutions",
-      "Connected via major Ring Roads",
-      "Immediate access to top hospitals and healthcare centers"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "If you are prepared to move forward with securing the ideal House For Rent in Sector 7 Ambala our team of dedicated rental specialists is here to assist you at every stage. Provide us with your specific requirements move-in date and budget and we will curate a personalized list of verified properties that match your exact needs.",
       "Do not miss out on the best rental opportunities in Sector 7. Reach out now to schedule personalized viewings and start the journey toward moving into your next perfect home in this sought-after locality."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

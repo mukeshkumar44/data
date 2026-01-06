@@ -7,12 +7,18 @@
       "Explore exclusive inventory featuring ready-to-move and under-construction projects built by reputed developers. A 3BHK configuration in Sector 114 is more than just a home it is a strategic investment into Gurugram's fastest-growing residential belt. Secure your viewing today and step into a future of comfort sophistication and high appreciation potential near the capital city."
     ],
     "buttons": [
-      { "label": "View All 3BHK Listings", "path": "/listings/sector-114" },
-      { "label": "Schedule a Site Visit Now", "path": "/contact" }
+      {
+        "label": "View All 3BHK Listings",
+        "path": "/listings/sector-114"
+      },
+      {
+        "label": "Schedule a Site Visit Now",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "3bhk-sector-114-exterior.jpg",
-      "3bhk-sector-114-interior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -22,12 +28,30 @@
       "Our featured listings showcase apartments equipped with modern safety features power backup and advanced home automation capabilities. Whether you prefer mid-rise comfort or a penthouse view Sector 114 offers a diverse range of options tailored to the discerning buyer. Discover the perfect blend of aesthetic appeal and functional design in this coveted location next to Delhi."
     ],
     "features": [
-      { "title": "Spacious Floor Plans 2000+ Sq Ft", "description": "Enjoy expansive living areas typically starting above 2000 square feet ensuring ample room for large families and entertainment. These generous sizes provide excellent separation between private and common spaces for ultimate residential comfort." },
-      { "title": "Premium Amenities Package", "description": "Access world-class amenities including temperature-controlled swimming pools state-of-the-art gymnasiums dedicated sports courts and landscaped gardens. These facilities enhance lifestyle quality within the secure complex." },
-      { "title": "Strategic Connectivity Advantage", "description": "Sector 114 boasts unmatched access to the Delhi border the Indira Gandhi International Airport IGI and major corporate hubs via the Dwarka Expressway. Daily commuting becomes fast and stress-free." },
-      { "title": "High-End Interior Finishes", "description": "The apartments feature luxury specifications such as imported marble flooring branded fittings in bathrooms and high-grade modular kitchen setups. Experience true sophistication in every corner of your new home." },
-      { "title": "Dedicated Servant Room Options", "description": "Many premium 3BHK configurations include a separate utility or servant quarter with an attached bathroom providing enhanced functionality and privacy for residents. This is essential for modern high-end living." },
-      { "title": "Ready-to-Move Possessions", "description": "Find numerous options for flats that are immediately ready for possession allowing you to bypass construction delays and move into your dream home without unnecessary waiting periods or uncertainty." }
+      {
+        "title": "Spacious Floor Plans 2000+ Sq Ft",
+        "description": "Enjoy expansive living areas typically starting above 2000 square feet ensuring ample room for large families and entertainment. These generous sizes provide excellent separation between private and common spaces for ultimate residential comfort."
+      },
+      {
+        "title": "Premium Amenities Package",
+        "description": "Access world-class amenities including temperature-controlled swimming pools state-of-the-art gymnasiums dedicated sports courts and landscaped gardens. These facilities enhance lifestyle quality within the secure complex."
+      },
+      {
+        "title": "Strategic Connectivity Advantage",
+        "description": "Sector 114 boasts unmatched access to the Delhi border the Indira Gandhi International Airport IGI and major corporate hubs via the Dwarka Expressway. Daily commuting becomes fast and stress-free."
+      },
+      {
+        "title": "High-End Interior Finishes",
+        "description": "The apartments feature luxury specifications such as imported marble flooring branded fittings in bathrooms and high-grade modular kitchen setups. Experience true sophistication in every corner of your new home."
+      },
+      {
+        "title": "Dedicated Servant Room Options",
+        "description": "Many premium 3BHK configurations include a separate utility or servant quarter with an attached bathroom providing enhanced functionality and privacy for residents. This is essential for modern high-end living."
+      },
+      {
+        "title": "Ready-to-Move Possessions",
+        "description": "Find numerous options for flats that are immediately ready for possession allowing you to bypass construction delays and move into your dream home without unnecessary waiting periods or uncertainty."
+      }
     ]
   },
   "locationsSection": {
@@ -37,12 +61,56 @@
       "The seamless access to the Dwarka Expressway ensures rapid transit across the NCR making this location perfect for professionals working in Cyber City Manesar or Central Delhi. Investing in a 3BHK flat here means securing proximity to major corporate campuses recreational zones and future commercial development hubs."
     ],
     "locations": [
-      "Dwarka Expressway Access Points",
-      "IGI Airport Terminal 3",
-      "Major Retail Malls and Shopping Centres",
-      "Delhi Border Entry Points",
-      "Diplomatic Enclave II Location",
-      "Reputed Schools and Universities Nearby"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -52,30 +120,84 @@
       "Our expert real estate team specialises in Sector 114 Gurugram and offers tailored advice based on current market trends and future growth projections. We help you navigate the best available inventory ensuring you select a home that meets both your functional requirements and investment goals effectively."
     ],
     "points": [
-      { "title": "Exceptional Connectivity to Delhi", "description": "Sector 114’s prime location right off the Dwarka Expressway provides fastest road connectivity to Dwarka Sector 21 and the core areas of Delhi. This makes it highly advantageous for professionals commuting across the border regularly." },
-      { "title": "Future Appreciation Potential", "description": "Due to massive infrastructure investments like the Global City project and the completion of the Dwarka Expressway residential property values in Sector 114 are forecasted for strong capital appreciation over the next five years." },
-      { "title": "Reputable Builder Presence", "description": "The sector is home to projects by top-tier real estate developers known for timely delivery superior construction quality and innovative architectural design. Invest with confidence in established brands." },
-      { "title": "Superior Lifestyle Amenities", "description": "Residents benefit from fully integrated townships offering essential facilities like 24/7 security dedicated parking complex maintenance staff and sophisticated clubhouse environments." },
-      { "title": "Proximity to IGI Airport", "description": "The international airport is just a short drive away significantly enhancing travel convenience for frequent flyers and adding substantial rental value to the property." },
-      { "title": "Well-Planned Urban Infrastructure", "description": "Unlike older sectors Sector 114 features wide access roads dedicated utilities and planned commercial zones ensuring a systematic and high-quality urban living experience." },
-      { "title": "Diverse Inventory Options", "description": "Whether you seek an expansive corner apartment or a budget-friendly 3BHK unit Sector 114 offers a wide variety of project types layouts and pricing brackets to suit various buyer needs." },
-      { "title": "High Rental Yield Potential", "description": "The demand for modern 3BHK rental units from corporate executives and expatriates is high here guaranteeing competitive rental yields and making it an attractive proposition for investors." }
+      {
+        "title": "Exceptional Connectivity to Delhi",
+        "description": "Sector 114’s prime location right off the Dwarka Expressway provides fastest road connectivity to Dwarka Sector 21 and the core areas of Delhi. This makes it highly advantageous for professionals commuting across the border regularly."
+      },
+      {
+        "title": "Future Appreciation Potential",
+        "description": "Due to massive infrastructure investments like the Global City project and the completion of the Dwarka Expressway residential property values in Sector 114 are forecasted for strong capital appreciation over the next five years."
+      },
+      {
+        "title": "Reputable Builder Presence",
+        "description": "The sector is home to projects by top-tier real estate developers known for timely delivery superior construction quality and innovative architectural design. Invest with confidence in established brands."
+      },
+      {
+        "title": "Superior Lifestyle Amenities",
+        "description": "Residents benefit from fully integrated townships offering essential facilities like 24/7 security dedicated parking complex maintenance staff and sophisticated clubhouse environments."
+      },
+      {
+        "title": "Proximity to IGI Airport",
+        "description": "The international airport is just a short drive away significantly enhancing travel convenience for frequent flyers and adding substantial rental value to the property."
+      },
+      {
+        "title": "Well-Planned Urban Infrastructure",
+        "description": "Unlike older sectors Sector 114 features wide access roads dedicated utilities and planned commercial zones ensuring a systematic and high-quality urban living experience."
+      },
+      {
+        "title": "Diverse Inventory Options",
+        "description": "Whether you seek an expansive corner apartment or a budget-friendly 3BHK unit Sector 114 offers a wide variety of project types layouts and pricing brackets to suit various buyer needs."
+      },
+      {
+        "title": "High Rental Yield Potential",
+        "description": "The demand for modern 3BHK rental units from corporate executives and expatriates is high here guaranteeing competitive rental yields and making it an attractive proposition for investors."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Buying a 3BHK Flat in Sector 114 Gurugram",
     "description": "Get detailed answers regarding pricing legalities amenities and the overall investment climate of residential properties in Sector 114 along the Dwarka Expressway corridor.",
     "faqs": [
-      { "question": "What is the typical price range for a 3BHK Flat For Sale in Sector 114 Gurugram", "answer": "The price of a 3BHK flat in Sector 114 can vary significantly based on the project developer size and stage of construction. Generally prices start from approximately INR 18 Crores for projects with standard amenities and can go up to INR 35 Crores or more for super-luxury or ready-to-move projects offering larger sizes and exceptional features. We recommend consulting our specialists for current unit-specific pricing." },
-      { "question": "Are most 3BHK flats in Sector 114 ready for possession or still under construction", "answer": "Sector 114 features a balanced mix of inventory. Several high-profile projects have achieved completion and offer ready-to-move 3BHK units perfect for immediate occupancy. However new launches and premium towers are also available offering competitive pricing for buyers willing to wait for construction completion. It is advisable to check the RERA status and completion certificate status before making a decision." },
-      { "question": "What kind of amenities can I expect in a typical luxury 3BHK society here", "answer": "Luxury societies in Sector 114 typically offer an extensive list of premium amenities. These include dedicated multi-tier security systems 100 power backup large clubhouses multiple swimming pools jogging tracks indoor sports facilities and extensive green landscape areas. Many projects also feature dedicated co-working spaces and high-speed fibre optic connectivity." },
-      { "question": "Is Sector 114 considered a good long-term investment location", "answer": "Yes Sector 114 is widely regarded as an excellent long-term investment location. Its strategic position near the Dwarka Expressway completion of key infrastructure and proximity to the IGI Airport ensure strong demand both for end-use and rental purposes. Property experts predict significant capital appreciation in this region over the next decade." },
-      { "question": "What is the status of connectivity to central Gurugram from Sector 114", "answer": "Connectivity is highly efficient. While Sector 114 borders Delhi it is seamlessly connected to central Gurugram areas like Cyber City and Golf Course Road via the well-developed network of peripheral roads and the Dwarka Expressway. Travel times are constantly improving with infrastructure upgrades making it a highly accessible location." },
-      { "question": "Are there RERA approved projects available for 3BHK apartments in this area", "answer": "All legally compliant and professionally marketed projects for 3BHK Flat For Sale in Sector 114 Gurugram must possess valid RERA registration. Our listings only include RERA-compliant properties ensuring transparency and protection for the buyer. We always advise checking the RERA number before finalising any transaction." },
-      { "question": "What are the common carpet areas offered in 3BHK layouts in Sector 114", "answer": "The carpet area for 3BHK flats in Sector 114 tends to be generous reflecting the luxury nature of the projects. While exact sizes vary standard carpet areas often range between 1200 sq ft to 1600 sq ft excluding balconies and walls. The overall super area typically exceeds 2000 sq ft." },
-      { "question": "How does Sector 114 compare to other residential sectors along the Dwarka Expressway", "answer": "Sector 114 holds a unique advantage due to its immediate proximity to Delhi and the completed sections of the Dwarka Expressway offering better current connectivity than sectors further down the line like Sector 109 or 106. It often commands a slight premium owing to this superior location and advanced infrastructure development." },
-      { "question": "What property transfer taxes and stamp duty apply when buying here", "answer": "As per Haryana state laws stamp duty is generally 5 for males and 3 for females or joint ownership between genders typically incurs a rate of 4. Additional registration fees and transfer taxes apply. These percentages are subject to government regulation changes and should be verified at the time of purchase." },
-      { "question": "Can foreign nationals or NRIs buy 3BHK flats in Sector 114 Gurugram", "answer": "Yes Non-Resident Indians NRIs and Persons of Indian Origin PIOs are fully permitted to purchase residential property including 3BHK flats in Sector 114 subject to FEMA guidelines and RBI regulations. Our dedicated NRI desk can assist with all necessary legal and financial documentation required for the smooth acquisition process." }
+      {
+        "question": "What is the typical price range for a 3BHK Flat For Sale in Sector 114 Gurugram",
+        "answer": "The price of a 3BHK flat in Sector 114 can vary significantly based on the project developer size and stage of construction. Generally prices start from approximately INR 18 Crores for projects with standard amenities and can go up to INR 35 Crores or more for super-luxury or ready-to-move projects offering larger sizes and exceptional features. We recommend consulting our specialists for current unit-specific pricing."
+      },
+      {
+        "question": "Are most 3BHK flats in Sector 114 ready for possession or still under construction",
+        "answer": "Sector 114 features a balanced mix of inventory. Several high-profile projects have achieved completion and offer ready-to-move 3BHK units perfect for immediate occupancy. However new launches and premium towers are also available offering competitive pricing for buyers willing to wait for construction completion. It is advisable to check the RERA status and completion certificate status before making a decision."
+      },
+      {
+        "question": "What kind of amenities can I expect in a typical luxury 3BHK society here",
+        "answer": "Luxury societies in Sector 114 typically offer an extensive list of premium amenities. These include dedicated multi-tier security systems 100 power backup large clubhouses multiple swimming pools jogging tracks indoor sports facilities and extensive green landscape areas. Many projects also feature dedicated co-working spaces and high-speed fibre optic connectivity."
+      },
+      {
+        "question": "Is Sector 114 considered a good long-term investment location",
+        "answer": "Yes Sector 114 is widely regarded as an excellent long-term investment location. Its strategic position near the Dwarka Expressway completion of key infrastructure and proximity to the IGI Airport ensure strong demand both for end-use and rental purposes. Property experts predict significant capital appreciation in this region over the next decade."
+      },
+      {
+        "question": "What is the status of connectivity to central Gurugram from Sector 114",
+        "answer": "Connectivity is highly efficient. While Sector 114 borders Delhi it is seamlessly connected to central Gurugram areas like Cyber City and Golf Course Road via the well-developed network of peripheral roads and the Dwarka Expressway. Travel times are constantly improving with infrastructure upgrades making it a highly accessible location."
+      },
+      {
+        "question": "Are there RERA approved projects available for 3BHK apartments in this area",
+        "answer": "All legally compliant and professionally marketed projects for 3BHK Flat For Sale in Sector 114 Gurugram must possess valid RERA registration. Our listings only include RERA-compliant properties ensuring transparency and protection for the buyer. We always advise checking the RERA number before finalising any transaction."
+      },
+      {
+        "question": "What are the common carpet areas offered in 3BHK layouts in Sector 114",
+        "answer": "The carpet area for 3BHK flats in Sector 114 tends to be generous reflecting the luxury nature of the projects. While exact sizes vary standard carpet areas often range between 1200 sq ft to 1600 sq ft excluding balconies and walls. The overall super area typically exceeds 2000 sq ft."
+      },
+      {
+        "question": "How does Sector 114 compare to other residential sectors along the Dwarka Expressway",
+        "answer": "Sector 114 holds a unique advantage due to its immediate proximity to Delhi and the completed sections of the Dwarka Expressway offering better current connectivity than sectors further down the line like Sector 109 or 106. It often commands a slight premium owing to this superior location and advanced infrastructure development."
+      },
+      {
+        "question": "What property transfer taxes and stamp duty apply when buying here",
+        "answer": "As per Haryana state laws stamp duty is generally 5 for males and 3 for females or joint ownership between genders typically incurs a rate of 4. Additional registration fees and transfer taxes apply. These percentages are subject to government regulation changes and should be verified at the time of purchase."
+      },
+      {
+        "question": "Can foreign nationals or NRIs buy 3BHK flats in Sector 114 Gurugram",
+        "answer": "Yes Non-Resident Indians NRIs and Persons of Indian Origin PIOs are fully permitted to purchase residential property including 3BHK flats in Sector 114 subject to FEMA guidelines and RBI regulations. Our dedicated NRI desk can assist with all necessary legal and financial documentation required for the smooth acquisition process."
+      }
     ]
   },
   "contactSection": {

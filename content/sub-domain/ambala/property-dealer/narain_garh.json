@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "narain_garh_cityscape.jpg",
-      "residential_plots_narain_garh.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "We focus on locations that offer proximity to major highways essential amenities and proposed governmental development projects ensuring maximum appreciation value for your purchase. These areas benefit from excellent connectivity to Ambala Chandigarh and Panchkula making them ideal for both residential commuting and commercial enterprise. Let our local experts guide you through the best pockets of growth near Narain Garh city center."
     ],
     "locations": [
-      "Narain Garh City Center Prime Commercial Spaces",
-      "Shahzadpur Road Residential Growth Corridor",
-      "Sadhaura Road Industrial and Institutional Land",
-      "Prominent Bypass Area High Appreciation Plots",
-      "Adjoining Villages Investment Land Options",
-      "Ambala Road Connectivity Focused Residential Areas"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Spaces Available for Rent in High-Demand Sushant Lok Phase 1 Gurgaon",
@@ -58,14 +61,56 @@
       "We provide detailed demographic maps highlighting connectivity and commercial synergy between Sushant Lok Phase 1 and adjacent successful hubs. Targeting the right sub-locality can mean the difference between average performance and exponential growth for your retail venture."
     ],
     "locations": [
-      "MG Road Sector 28 Proximity",
-      "HUDA City Centre Connectivity",
-      "Iffco Chowk Business Districts",
-      "DLF Phase 4 Commercial Avenues",
-      "Galleria Market Commercial Hub",
-      "Sector 43 Institutional Area Access",
-      "MGF Metropolitan Mall Catchment",
-      "Sector 56 Commercial Belts"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

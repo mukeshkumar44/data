@@ -7,10 +7,19 @@
       "A 3BHK flat in Sector 78 provides optimum space for modern families including dedicated areas for work leisure and living. Enjoy seamless access to the NH-48 highway major corporate parks and high-end retail establishments all while residing in a tranquil secure environment. Start your search now to find your dream home and capitalize on the growing property appreciation trends in New Gurugram."
     ],
     "buttons": [
-      { "label": "View Available 3BHK Listings", "path": "/listings" },
-      { "label": "Download Project Brochure", "path": "/download" }
+      {
+        "label": "View Available 3BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Download Project Brochure",
+        "path": "/download"
+      }
     ],
-    "images": ["image1.jpg", "image2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exclusive Amenities and Layouts Available in 3BHK Flats in Sector 78 Gurugram",
@@ -52,13 +61,56 @@
       "From major highways facilitating travel to proximity to renowned educational and medical institutions Sector 78 offers an ideal ecosystem for modern family living ensuring every essential amenity is just minutes away from your new home."
     ],
     "locations": [
-      "NH-48 National Highway connectivity ensuring swift travel to Delhi and Jaipur",
-      "Proximity to the upcoming Global City project fueling future economic growth",
-      "Rapid connectivity to IMT Manesar an industrial and employment powerhouse",
-      "Easy access to major business districts including Cyber Hub and Golf Course Road Extension",
-      "Numerous top-tier schools like DPS and Amity International within a short radius",
-      "High-quality healthcare facilities and multi-specialty hospitals nearby",
-      "Malls and retail zones offering premium shopping and entertainment experiences"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -154,6 +206,11 @@
       "Ready to take the next step towards owning your luxury home in Sector 78 Gurugram Our dedicated property consultants are here to guide you through the best available listings and detailed pricing options.",
       "Fill out the form below to book a private viewing or receive a personalized investment report tailored specifically to the 3BHK market in Sector 78."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

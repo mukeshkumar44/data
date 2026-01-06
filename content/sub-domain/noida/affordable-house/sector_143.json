@@ -17,7 +17,8 @@
       }
     ],
     "images": [
-      "sector-143-affordable-housing-hero.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,34 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Noida Expressway",
-        "proximity": "5 Minutes Drive",
-        "detail": "Direct and swift access to Delhi and Greater Noida."
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
       },
       {
-        "title": "Sector 142 Metro Station",
-        "proximity": "Short Walk",
-        "detail": "Seamless connectivity via the Aqua Line metro."
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
       },
       {
-        "title": "Gautam Buddha University",
-        "proximity": "15 Minutes Drive",
-        "detail": "Close proximity to quality higher education institutions."
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
       },
       {
-        "title": "Advant Navis Business Park",
-        "proximity": "10 Minutes Drive",
-        "detail": "Easy commute for professionals working in major commercial hubs."
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
       },
       {
-        "title": "ATS Bouquet Commercial Center",
-        "proximity": "12 Minutes Drive",
-        "detail": "Convenient access to premium retail and dining options."
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
       },
       {
-        "title": "FNG Expressway",
-        "proximity": "15 Minutes Drive",
-        "detail": "Future connectivity enhancing regional accessibility."
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },

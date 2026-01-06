@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Housing Options Available When You Decide to Buy House in Manesar",
@@ -58,14 +61,56 @@
       "Areas closer to Sector 1 and Sector 8 provide a balanced environment with developed social infrastructure and easy access to established lifestyle amenities. Furthermore, the expansion toward the KMP Expressway junction opens up tremendous opportunities for future development and large-scale township projects offering integrated living experiences. When you look to buy house in Manesar, analyzing the specific micro-market is crucial. We guide you through the pros and cons of established sectors versus upcoming government-approved schemes, ensuring your investment is sound and aligned with your long-term goals of owning property in Manesar Gurugram."
     ],
     "locations": [
-      "IMT Manesar Residential Zone",
-      "Sector 1 Manesar Gurugram",
-      "Sector 8 Residential Corridor",
-      "Bilaspur Kherki Daula Bypass",
-      "Naharpur Kasan Village Area",
-      "Pataudi Road Extension",
-      "Panchgaon Residential Hub",
-      "Vatika India Next Manesar"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

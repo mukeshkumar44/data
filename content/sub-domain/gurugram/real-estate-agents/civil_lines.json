@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Premium Residential and Commercial Real Estate Opportunities in Civil Lines Gurugram",
@@ -58,14 +61,56 @@
       "Understanding the interconnectivity of Gurugram's key residential areas is crucial for successful investment. Our agents are proficient in identifying opportunities that leverage the infrastructure of Civil Lines while benefiting from the rapid development of neighboring sectors. Whether you are looking for an established neighborhood or a new development zone, we offer unbiased, fact-based guidance, ensuring that location, connectivity, and future growth align perfectly with your personal or business goals. Explore our extensive network and secure your future property today."
     ],
     "locations": [
-      "Old Delhi Road",
-      "Sector 15 Gurugram",
-      "Sector 14 Gurugram",
-      "DLF Phase 1",
-      "Sushant Lok Phase 1",
-      "Palam Vihar",
-      "M G Road",
-      "Golf Course Road Extension"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

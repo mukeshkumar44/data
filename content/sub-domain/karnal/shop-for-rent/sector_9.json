@@ -7,10 +7,19 @@
       "We specialize in connecting entrepreneurs with premium retail and office spaces throughout Sector 9. Whether you need a small boutique setup, a large showroom, or dedicated office premises, our portfolio features verified listings with excellent infrastructure, strategic locations, and competitive rental terms. Start your successful business journey here by exploring the best commercial shops available for rent in Sector 9 Karnal right now."
     ],
     "buttons": [
-      { "label": "Explore Premium Shop Listings", "path": "/listings" },
-      { "label": "Consult Our Commercial Experts", "path": "/contact" }
+      {
+        "label": "Explore Premium Shop Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Consult Our Commercial Experts",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Commercial Shop Sizes and Layouts Available in Sector 9 Karnal",
@@ -52,14 +61,56 @@
       "We provide comprehensive insights into nearby commercial hotspots, ensuring you find the best shop for rent near Sector 9 Karnal that matches your target demographic and specific industry requirements. Consider the synergy between your business model and these active local marketplaces."
     ],
     "locations": [
-      "Sector 8 Main Market",
-      "Sector 11 Commercial Complex",
-      "Kunjpura Road Retail Hub",
-      "Model Town Commercial Belt",
-      "Dayal Pura Road Shops",
-      "NH 44 Highway Access Points",
-      "Nearby HUDA Market Locations",
-      "Old City Commercial Areas"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -118,8 +169,7 @@
       {
         "question": "What documentation do I need to rent a commercial shop in Sector 9 Karnal",
         "answer": "Required documentation typically includes proof of identity and address (Aadhaar card, PAN card), business registration documents (GST certificate, shop establishment license), bank statements proving financial stability, and security deposit documentation. For corporate tenants, a Certificate of Incorporation and Board Resolution authorizing the lease signatory are also necessary when securing a shop for rent."
-      }
-      ,
+      },
       {
         "question": "Is parking included when I rent a shop in the commercial complexes of Sector 9",
         "answer": "Parking provisions vary significantly across Sector 9 commercial properties. High-end complexes often include dedicated basement or surface parking spots, while standalone shops usually rely on street parking. It is crucial to verify the availability and number of dedicated parking spaces included in your rental agreement, especially if your business anticipates high customer vehicle traffic."
@@ -156,6 +206,11 @@
       "Ready to secure the perfect commercial shop for rent in Sector 9 that aligns with your business vision? Our expert team offers tailored consultation, detailed market analysis, and access to exclusive listings not available publicly.",
       "Let us handle the complexity of commercial leasing. Submit your requirements below and take the next crucial step towards establishing your successful business presence in prime Sector 9 Karnal."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

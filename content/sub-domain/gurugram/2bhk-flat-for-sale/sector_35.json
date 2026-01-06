@@ -7,12 +7,18 @@
       "The properties in Sector 35 boast contemporary designs, robust construction, and access to premium lifestyle amenities ensuring comfort and security. If you are searching for a 2BHK Flat For Sale in Sector 35 Gurugram that promises high returns and immediate comfort, explore our verified listings today. Experience seamless home ownership with transparent dealings and expert guidance from our property specialists."
     ],
     "buttons": [
-      { "label": "Explore Verified Listings", "path": "/listings" },
-      { "label": "Download Price List", "path": "/pricing" }
+      {
+        "label": "Explore Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Download Price List",
+        "path": "/pricing"
+      }
     ],
     "images": [
-      "hero-flat-view.jpg",
-      "sector-35-lifestyle.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "When considering a 2BHK Flat For Sale in Sector 35, understanding the local ecosystem is crucial. This sector is well-served by quality educational institutions, world-class healthcare facilities, and vibrant retail hubs, making daily life incredibly easy and fulfilling for residents."
     ],
     "locations": [
-      "Sector 34",
-      "Sector 36",
-      "NH-48 Delhi-Jaipur Highway",
-      "Rajiv Chowk",
-      "IMT Manesar",
-      "Huda City Centre Metro Station (accessible via main road networks)",
-      "Vatika Business Centre",
-      "Medanta The Medicity Hospital"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -166,4 +214,3 @@
     ]
   }
 }
-.

@@ -7,10 +7,19 @@
       "Browse our exclusive listings for Plot For Sale in Sector 131 Noida, ranging from compact sizes perfect for nuclear families to expansive parcels suitable for luxury villas. This sector is strategically positioned near top-tier schools, world-class hospitals, and vibrant retail destinations, guaranteeing a superior quality of life. Don't miss this window of opportunity to invest in an area poised for exponential infrastructural development and value appreciation over the next decade."
     ],
     "buttons": [
-      { "label": "View Verified Plot Listings", "path": "/listings" },
-      { "label": "Download Location Guide", "path": "/guide" }
+      {
+        "label": "View Verified Plot Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Download Location Guide",
+        "path": "/guide"
+      }
     ],
-    "images": ["hero-plot-131-1.jpg", "hero-plot-131-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Residential Plot Sizes Tailored for Your Family Requirements in Sector 131",
@@ -51,7 +60,58 @@
       "Sector 131 is strategically located along the Noida Expressway, placing it at the epicenter of growth between Delhi and Greater Noida. This location provides smooth, signal-free access to central Noida sectors and direct connection to the Yamuna Expressway, making commutes to both Delhi and Agra exceptionally convenient. This superior connectivity is a major factor driving the appreciation of any Plot For Sale in Sector 131.",
       "The sector benefits immensely from its proximity to major corporate campuses and education hubs like Amity University and several multinational company offices in nearby sectors 132 and 135. Furthermore, upcoming metro extensions and planned infrastructural improvements solidify Sector 131's reputation as a future-ready residential haven, ensuring that your investment is underpinned by robust urban planning and accessibility."
     ],
-    "locations": ["Noida Expressway Access", "Advant Navis Business Park", "Sector 132 Commercial Hub", "Amity University Noida", "FNG Expressway Connectivity", "DND Flyway Access", "Gautam Buddha University", "World-class hospitals nearby"]
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Eight Key Reasons to Secure Your Residential Plot in Sector 131 Noida Now",
@@ -146,6 +206,11 @@
       "Ready to invest in the future of Noida Schedule a consultation with our experienced property advisors. We provide personalized investment strategies and exclusive access to the best Plot For Sale in Sector 131, ensuring you make an informed decision.",
       "Fill out the form below to receive a curated list of verified plots matching your size requirements and budget constraints."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

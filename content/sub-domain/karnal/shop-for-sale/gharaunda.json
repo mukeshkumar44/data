@@ -7,12 +7,18 @@
       "Discover unparalleled opportunities for commercial investment finding the perfect shop for sale in Gharaunda that aligns with your financial goals and operational needs Gharaunda’s proximity to Karnal and strong industrial base makes it an untapped goldmine for retail and service sectors Let us guide you through the seamless process of acquiring your next business asset ensuring clarity and transparency at every step"
     ],
     "buttons": [
-      { "label": "View Latest Shop Listings", "path": "/listings" },
-      { "label": "Request Expert Consultation", "path": "/contact" }
+      {
+        "label": "View Latest Shop Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Expert Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "shop_gharaudna_1.jpg",
-      "shop_gharaudna_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "Explore locations near the Main Bus Stand providing high daily footfall or look towards the rapidly developing sectors close to industrial hubs which cater to specialized B2B service needs Finding the right spot is paramount when investing in a shop for sale in Gharaunda and our experts have analyzed the entire city map to present only the best options for your review."
     ],
     "locations": [
-      "Main Market Gharaunda Commercial Hub",
-      "Railway Road High Footfall Area",
-      "NH 44 Service Lane Retail Zones",
-      "Ghogripur Road Developing Sector",
-      "New Anaaj Mandi Extension",
-      "Old Grain Market Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

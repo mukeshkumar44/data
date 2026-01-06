@@ -7,12 +7,18 @@
       "Investing in a flat here means securing a future in a well-planned locality. Our exclusive listings feature RERA registered properties ensuring transparency and security in your transaction. Explore contemporary designs top-tier amenities like secure parking power backup and recreational spaces. Start your journey today to find the perfect flat that matches your lifestyle and budget in the thriving environment of Sector 37 Rohtak."
     ],
     "buttons": [
-      { "label": "Explore 2 BHK Flats", "path": "/2bhk-flats" },
-      { "label": "Get Price List", "path": "/contact" }
+      {
+        "label": "Explore 2 BHK Flats",
+        "path": "/2bhk-flats"
+      },
+      {
+        "label": "Get Price List",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "flat_exterior_sector37.jpg",
-      "flat_interior_sector37.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,16 +61,56 @@
       "Explore neighboring areas that complement Sector 37's residential appeal. Understanding the surrounding infrastructure and connectivity is vital when purchasing Flats For Sale in Sector 37 to ensure you are well-connected to all necessary civic amenities and community services."
     ],
     "locations": [
-      "Sector 36 Rohtak",
-      "Sector 1 Rohtak",
-      "HUDA City Centre Area",
-      "Delhi Bypass Road",
-      "Gohana Road Connectivity",
-      "Sunaria Kalan",
-      "Rohtak Railway Station Access",
-      "Model Town Rohtak",
-      "Sector 40 Rohtak",
-      "IMT Rohtak Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

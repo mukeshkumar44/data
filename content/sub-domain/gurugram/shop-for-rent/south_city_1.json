@@ -17,9 +17,8 @@
       }
     ],
     "images": [
-      "shop-south-city-1-hero-1.jpg",
-      "shop-south-city-1-hero-2.jpg",
-      "shop-south-city-1-hero-3.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -62,14 +61,56 @@
       "Understanding local demographics is essential for strategic placement. For instance, areas near schools might be perfect for stationary shops, while zones adjacent to corporate offices thrive with cafes and quick-service restaurants. Our location analysis helps you pinpoint the highest return on investment. Explore these highly sought-after commercial sectors where demand for a premium Shop For Rent in South City 1 is currently highest."
     ],
     "locations": [
-      "Main Market Street Cluster",
-      "Near Residential High-Rise Towers",
-      "Sector 5 Commercial Plaza",
-      "National Highway Access Points",
-      "High Street Retail Zone",
-      "Near Public Transport Hubs",
-      "New Development Commercial Hub",
-      "Established Shopping Complex Core"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "sector34_hero1.jpg",
-      "rohtak_skyline.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Our comprehensive approach means we handle property transactions in adjacent sectors that share similar growth potential and infrastructure quality. Leveraging deep local ties we provide accurate valuation and market insight for every locality we serve ensuring you benefit from informed decision-making regardless of where you choose to invest in Rohtak. Partner with us for expertise that spans the entire Rohtak property landscape."
     ],
     "locations": [
-      "Sector 35 Rohtak",
-      "Sector 36 Rohtak",
-      "Delhi Road Rohtak",
-      "HUDA Sector 1 Rohtak",
-      "HUDA Sector 4 Rohtak",
-      "HUDA Sector 14 Rohtak",
-      "Bhiwani Road Area",
-      "Sunaria Chowk Locality"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

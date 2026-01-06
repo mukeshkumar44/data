@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Property Options and Specialized Services in Prime Sector 15 Noida",
@@ -58,14 +61,56 @@
       "This connectivity makes the properties handled by our expert Real Estate Agents in Sector 15 highly desirable for professionals and businesses alike. We also focus on how the proximity to major shopping centers educational institutions and healthcare facilities enhances the livability and investment potential of the area. Understanding the micro-market dynamics between Sector 15 and its neighboring sectors allows us to advise you on arbitrage opportunities and diversification strategies giving you a comprehensive market view."
     ],
     "locations": [
-      "Sector 16 Noida",
-      "Sector 18 Atta Market",
-      "Sector 14 Noida",
-      "Film City Noida",
-      "Sector 17 Commercial Hub",
-      "Sector 19 Residential Pockets",
-      "Sector 20 Residential Blocks",
-      "DND Flyway Access Point"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

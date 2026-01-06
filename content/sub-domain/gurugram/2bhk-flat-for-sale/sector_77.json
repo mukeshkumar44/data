@@ -7,12 +7,18 @@
       "These properties are situated in well-planned residential societies known for their safety and community feel. Enjoy spacious layouts, premium finishes, and access to essential facilities such as clubhouses, swimming pools, and dedicated green spaces. Investing in a 2BHK flat in Sector 77 is a smart decision, promising significant appreciation potential due to the rapid infrastructural development in the New Gurugram area. Explore the best ready-to-move and under-construction options today and take the first step towards owning your perfect home."
     ],
     "buttons": [
-      { "label": "Explore 2BHK Listings", "path": "/listings/sector-77/2bhk" },
-      { "label": "Request a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore 2BHK Listings",
+        "path": "/listings/sector-77/2bhk"
+      },
+      {
+        "label": "Request a Site Visit",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "2bhk_sector77_hero1.jpg",
-      "2bhk_sector77_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "This robust social infrastructure ensures that residents spend less time commuting and more time enjoying their lives. Investing here means choosing a location that is already developed yet still holds immense future growth potential, solidifying your decision to purchase a home in New Gurugram."
     ],
     "locations": [
-      { "name": "NH-48 Connectivity" },
-      { "name": "Dwarka Expressway Access" },
-      { "name": "Top CBSE Schools" },
-      { "name": "Multi-Specialty Hospitals" },
-      { "name": "Shopping Malls and Retail Outlets" },
-      { "name": "Corporate Towers and Offices" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -156,6 +206,11 @@
       "Ready to secure your ideal 2BHK flat for sale in Sector 77 Gurugram We are here to provide personalized guidance, detailed property tours, and transparent transactional support.",
       "Fill out the form below to receive customized listings, floor plans, and the latest pricing details directly from our dedicated real estate advisors. Your dream home awaits."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

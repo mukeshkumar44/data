@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Types of Premium Flats for Rent Available in Sector 7 Karnal",
@@ -58,14 +61,56 @@
       "These neighboring zones benefit immensely from Sector 7’s superior infrastructure including robust security and well-maintained roads. Our expert agents are knowledgeable about the micro-markets within Sector 7 and the surrounding sectors providing deep insights into local rental rates connectivity scores and community profiles. This holistic view ensures you find the optimal balance between location affordability and lifestyle requirements when searching for your next rental home near Sector 7 Karnal."
     ],
     "locations": [
-      "Sector 6 Rental Properties",
-      "Sector 8 Adjacent Apartments",
-      "Model Town Rental Listings",
-      "New Housing Board Colony",
-      "Kunjpura Road Rental Pockets",
-      "Near Mughal Canal Area",
-      "Sector 9 Flats and Apartments",
-      "Prem Nagar Residential Options"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

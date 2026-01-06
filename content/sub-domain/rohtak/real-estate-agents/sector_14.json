@@ -7,10 +7,19 @@
       "Trust our proven track record for transparent dealings and superior negotiation skills. Whether you seek a spacious residential plot near major amenities or a ready-to-move-in builder floor our agents provide personalized service tailored to your specific goals. Start your journey with the leading property experts in Sector 14 Rohtak today and secure your future investment seamlessly."
     ],
     "buttons": [
-      { "label": "Explore Available Properties Now", "path": "/properties" },
-      { "label": "Talk to an Expert Agent Today", "path": "/contact" }
+      {
+        "label": "Explore Available Properties Now",
+        "path": "/properties"
+      },
+      {
+        "label": "Talk to an Expert Agent Today",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover High-Demand Residential Plot Sizes Managed by Top Agents in Sector 14 Rohtak",
@@ -52,14 +61,56 @@
       "We provide expert insights comparing Sector 14’s established market with the growth potential of neighboring HUDA sectors and prominent colonies. Whether you seek immediate rental income stability in Sector 14 or higher capital appreciation potential in emerging zones our Real Estate Agents provide a holistic view of the Rohtak property landscape. Utilize our network to secure the best deals not just in Sector 14 but across the entire growth corridor."
     ],
     "locations": [
-      "Sector 15 Rohtak",
-      "Sector 1 Rohtak",
-      "Sector 2 Rohtak",
-      "DLF Colony",
-      "Jahangirpur Village Area",
-      "HUDA City Centre Rohtak",
-      "Medical Mor Chowk Area",
-      "Sunaria Kalan"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Your ideal property in Sector 14 is just a conversation away. Reach out to our expert team for personalized guidance detailed property lists and a confidential market appraisal. We are ready to help you achieve your property goals efficiently and ethically.",
       "Fill out the quick inquiry form below and one of our dedicated Real Estate Agents will contact you within the hour to discuss your specific requirements."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

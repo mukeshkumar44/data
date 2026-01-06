@@ -7,12 +7,18 @@
       "Investing in a 2BHK flat in this promising corridor of Gurugram ensures high capital appreciation while providing immediate lifestyle benefits. We focus on clear documentation, robust construction quality, and designs that maximize natural light and space utilization. Explore available ready-to-move and under-construction options and step closer to owning your dream home with transparent pricing and comprehensive support."
     ],
     "buttons": [
-      { "label": "View Available 2BHK Listings", "path": "/listings" },
-      { "label": "Request a Site Visit Today", "path": "/contact" }
+      {
+        "label": "View Available 2BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Site Visit Today",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "2bhk_ashok_vihar_hero1.jpg",
-      "2bhk_ashok_vihar_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "You are investing not just in a property, but in a lifestyle characterized by convenience. Everything you need—from top educational institutions and world-class healthcare to vibrant shopping centers and recreational parks—is just minutes away, making daily errands effortless and enjoyable."
     ],
     "locations": [
-      "Direct Access to NH-48 and major roads connecting Delhi and Gurugram",
-      "Proximity to the nearest Delhi Metro station for easy commuting",
-      "Minutes away from major corporate parks like Cyber City and Udyog Vihar",
-      "Close to renowned educational institutions and play schools",
-      "Easy access to leading hospitals and healthcare facilities",
-      "Numerous local markets, supermarkets, and shopping complexes nearby",
-      "Well-maintained public parks and green spaces for recreation",
-      "Quick access to banking and financial services hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

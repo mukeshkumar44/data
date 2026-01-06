@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "flat_sector 67a_1.jpg",
-      "flat_sector 67a_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "Beyond physical connectivity, the location benefits from a robust social infrastructure. Residents enjoy easy access to renowned educational institutions, high-quality healthcare facilities, and bustling retail centres for daily needs and entertainment. When considering a Flat For Sale in sector 67a, you are not just buying an apartment you are investing in a neighbourhood designed for convenience, growth, and a high quality of urban life. This planned development makes it a top choice for families relocating within Gurugram or moving from Delhi."
     ],
     "locations": [
-      "Proximity to Badarpur Border for Delhi Access",
-      "Excellent Road Network connectivity to NH-44",
-      "Upcoming Metro Station access enhancing commuter convenience",
-      "Nearness to major industrial area providing job opportunities",
-      "Easy access to established schools and universities",
-      "Quick drive to large shopping malls and multiplexes"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

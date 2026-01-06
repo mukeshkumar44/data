@@ -17,9 +17,8 @@
       }
     ],
     "images": [
-      "commercial_unit_sector_111_faridabad",
-      "retail_store_front_faridabad",
-      "sector_111_market_view"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -62,14 +61,56 @@
       "The convenience of renting a shop in Sector 111 also significantly extends to logistics and employee commuting. Excellent internal and external road networks coupled with proximity to the Kheri Road arterial route simplify supply chain management for retailers and simultaneously attract quality local talent who highly value job site accessibility. We strategically highlight shops available near key high-density housing projects and commercial clusters ensuring your business maximizes its visibility and immediate footfall upon opening. Investing in a shop for rent in Sector 111 today is making a long-term investment in a location that is guaranteed to witness exponential customer growth over the coming years a crucial strategic factor for any retail or service business aiming for rapid scalability and sustained profitability in Gurugram."
     ],
     "locations": [
-      "Sector 110 Commercial Hub",
-      "Sector 112 Residential Catchment",
-      "Kheri Road Major Connectivity",
-      "BPTP Bridge Access Point",
-      "Neharpar Residential Belt",
-      "New Industrial Zone Extension",
-      "Proximity to Bypass Road",
-      "Developed Housing Society Clusters"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

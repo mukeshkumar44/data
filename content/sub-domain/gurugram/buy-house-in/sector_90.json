@@ -7,12 +7,18 @@
       "We present a curated selection of independent houses, luxury villas, and spacious floor apartments designed for discerning homeowners. Whether you seek a compact 2 BHK independent house perfect for a starter family or a sprawling luxury villa for an extended joint family, finding your ideal property here is simplified and secure. Start your home ownership journey today and secure a magnificent home in the heart of New Gurugram’s rapid growth corridor, ensuring both lifestyle comfort and exceptional investment returns."
     ],
     "buttons": [
-      { "label": "Explore Houses for Sale", "path": "/properties/sector-90" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/properties/sector-90"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "img/hero_sector90_1.jpg",
-      "img/hero_sector90_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The surrounding sectors are already significantly developed, featuring reputed international schools, advanced healthcare facilities, and bustling commercial hubs like Sapphire 90 and Vatika India Next. This established social and retail ecosystem supports a comprehensive, high-quality lifestyle, significantly enhancing the inherent value proposition of houses for sale in Sector 90 Gurugram. The proximity to key employment zones like Manesar further solidifies its residential appeal."
     ],
     "locations": [
-      "Sector 89 Gurugram Residential Hub",
-      "Sector 92 Gurugram Developing Infrastructure",
-      "Direct Dwarka Expressway Access NH 248BB",
-      "KMP Expressway Junction Connectivity",
-      "NH 48 National Highway Proximity",
-      "Manesar Industrial Area Employment Hub",
-      "Pataudi Road Linkage and Transit",
-      "Clover Leaf Interchange Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

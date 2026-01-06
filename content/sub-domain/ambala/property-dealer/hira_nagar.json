@@ -7,10 +7,19 @@
       "We specialize in providing transparent legal advice, verified listings, and personalized service ensuring your property transaction is smooth and rewarding. Whether you are looking for a compact plot to build your first home or a large commercial space, our dedicated team of local experts possesses deep market knowledge specific to Hira Nagar Ambala. Let us unlock the best property options tailored precisely to your budgetary and lifestyle needs. Start your journey towards owning prime real estate with confidence today."
     ],
     "buttons": [
-      { "label": "Explore Verified Plots", "path": "/plots" },
-      { "label": "Contact Our Local Experts", "path": "/contact" }
+      {
+        "label": "Explore Verified Plots",
+        "path": "/plots"
+      },
+      {
+        "label": "Contact Our Local Experts",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Plot Sizes and Prime Residential Investment Opportunities in Hira Nagar Ambala",
@@ -52,14 +61,56 @@
       "The area provides excellent access to Ambala Cantt Railway Station and major national highways making commuting straightforward. We help you evaluate properties based on their proximity to schools hospitals and major market areas maximizing convenience. Whether you are looking for property adjacent to established infrastructure or in emerging development zones around Hira Nagar our network ensures you have access to the best available listings. We are dedicated to providing market intelligence that reflects the dynamic growth of Ambala's residential landscape helping you make an informed decision about your next property purchase or sale in this flourishing region."
     ],
     "locations": [
-      "Ambala Cantt",
-      "Model Town Ambala",
-      "Sector 7 Ambala",
-      "Sector 8 Ambala",
-      "Baldev Nagar Ambala",
-      "Sadar Bazaar Area",
-      "Mahesh Nagar",
-      "Naraingarh Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure your perfect plot or find the right buyer for your Hira Nagar property Contact the area’s most trusted real estate experts now. We provide confidential consultations customized market reports and immediate access to the best listings.",
       "Fill out the quick contact form below and let us demonstrate why we are the top Property Dealer in Hira Nagar Ambala committed to achieving your real estate goals efficiently and securely."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

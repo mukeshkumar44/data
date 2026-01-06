@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "house_front_ambala_cantt.jpg",
-      "living_room_rental.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "We highlight areas known specifically for their safety, cleanliness, reliable environment, and ready availability of essential services like high-rated schools, well-equipped hospitals, and easily accessible grocery stores. Investing a little time into understanding the characteristics of these localities will ensure your new rental home provides long-term satisfaction and minimizes future commuting challenges in Ambala Cantt."
     ],
     "locations": [
-      "Nicholson Road Vicinity",
-      "Sadar Bazar Residential Area",
-      "Civil Line Extension Ambala",
-      "Model Town Housing",
-      "Housing Board Colony Sector",
-      "Prem Nagar Residential Pockets",
-      "Vijay Rattan Chowk Locality",
-      "Near Railway Station Road Houses"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

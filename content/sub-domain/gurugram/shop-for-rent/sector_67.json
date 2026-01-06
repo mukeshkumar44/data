@@ -7,12 +7,18 @@
       "Explore diverse commercial spaces ranging from compact retail units ideal for startups to expansive double-height showrooms suitable for flagship stores. Sector 67 Gurugram is rapidly transforming into a major commercial hub supported by superb infrastructure connectivity and ample parking facilities. Don’t miss this opportunity to place your business in a location designed for growth and maximum return on investment. Contact our commercial property specialists now to review the best available rental options tailored to your specific needs."
     ],
     "buttons": [
-      { "label": "Explore Available Shops", "path": "/search" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Available Shops",
+        "path": "/search"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/hero-shop-67-1.jpg",
-      "/images/hero-shop-67-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,13 +61,56 @@
       "We highlight properties that benefit from proximity to essential infrastructure like the upcoming metro connectivity major highways and well-established feeder roads. When you choose a shop for rent in Sector 67 you are choosing a location that promises sustained economic activity and long-term business viability due to planned urban development and massive investment in regional infrastructure."
     ],
     "locations": [
-      "Proximity to Sector 66 Commercial Hub",
-      "Excellent Access to Badarpur Bypass Road",
-      "Near Developed Residential Colonies of Sector 68",
-      "Easy Commute to Gurugram Industrial Area",
-      "Direct Linkage to Delhi-Agra National Highway NH-44",
-      "Connectivity towards Greater Gurugram Areas",
-      "Close to Major Educational and Healthcare Institutions"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

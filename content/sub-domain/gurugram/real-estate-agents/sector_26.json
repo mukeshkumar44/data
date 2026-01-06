@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "sector-26-hero-building.jpg",
-      "gurugram-agent-consultation.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,15 +61,56 @@
       "Understanding these neighborhood connections is crucial for determining property values and future growth projections. Our Real Estate Agents in Sector 26 have deep insights into how proximity to these locations affects your investment returns and daily convenience, offering advice that goes far beyond the boundary of Sector 26 itself."
     ],
     "locations": [
-      "DLF Phase 1",
-      "MG Road",
-      "Cyber Hub",
-      "IFFCO Chowk",
-      "Sikanderpur",
-      "Sushant Lok Phase 1",
-      "Golf Course Road",
-      "Sector 27",
-      "NH 48"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

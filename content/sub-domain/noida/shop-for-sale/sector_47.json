@@ -7,12 +7,18 @@
       "Investing in a commercial shop in Sector 47 is not merely a purchase it is a definitive step towards securing a prosperous future in one of the most sought-after business districts in the city. Our portfolio includes diverse options from compact retail outlets perfect for boutique stores to expansive showrooms ideal for established brands all fully vetted for clear titles and optimal investment value. Start exploring the best commercial opportunities tailored to your financial goals today."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/shop-sector-47-hero1.jpg",
-      "/images/shop-sector-47-hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "We focus on properties situated strategically near high-density residential sectors major arterial roads and existing commercial developments ensuring that your investment benefits from immediate and long-term economic growth drivers in Gurgaon."
     ],
     "locations": [
-      "Sohna Road Commercial Belt",
-      "Subhash Chowk Business Hub",
-      "Sector 45 Residential Catchment Area",
-      "Huda City Centre Proximity",
-      "Vipul Trade Centre Sector 48",
-      "Major Connectivity to NH 48",
-      "Sector 49 Market Place",
-      "Gated Communities Sector 47 Entrance"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

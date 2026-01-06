@@ -7,12 +7,18 @@
       "Our properties are meticulously verified for legal clearance and offer excellent value appreciation potential. Whether you are looking for a ready-to-move-in apartment or a sound rental investment, a 2 BHK flat in Ashok Vihar Phase 3 meets all criteria for quality and convenience. Explore well-designed spaces, modern amenities, and competitive pricing unique to this sought-after residential zone."
     ],
     "buttons": [
-      { "label": "View All 2BHK Properties", "path": "/properties" },
-      { "label": "Request a Free Site Visit", "path": "/contact" }
+      {
+        "label": "View All 2BHK Properties",
+        "path": "/properties"
+      },
+      {
+        "label": "Request a Free Site Visit",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/ashok-vihar-2bhk-flat.jpg",
-      "/images/ashok-vihar-phase3-exterior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "The area is known for its well-maintained public spaces, local markets, and easy access to entertainment zones. This ensures a balanced and enriching lifestyle for all residents, making it a highly desirable residential choice within the Delhi NCR region."
     ],
     "locations": [
-      "Metro Connectivity Dilli Haat INA and Netaji Subhash Place",
-      "Major Hospitals Fortis Hospital and Max Healthcare",
-      "Educational Hubs Delhi University North Campus proximity",
-      "Shopping and Retail Ashok Vihar Local Markets and Malls",
-      "Parks and Recreation District Park and community gardens",
-      "Airport Access Close travel time to Indira Gandhi International Airport IGI"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -156,6 +206,11 @@
       "Ready to take the next step towards owning your perfect home Schedule a personalized consultation with our property experts today. We provide detailed information on pricing, inventory, and legal compliance.",
       "Fill out the form below or call us directly to get immediate assistance and personalized property recommendations matching your exact search criteria."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

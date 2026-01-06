@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Ideal Plot Size Options for Your Dream Home in Gharaunda Karnal",
@@ -58,14 +61,56 @@
       "We highlight areas known for rapid land value appreciation, excellent access to the National Highway, and proven availability of key utilities such as reliable water supply and electricity connections. Our property experts continuously monitor local development trends to ensure you invest in a location with strong growth potential and immediate livability. Key investment areas often offer plots near upcoming educational institutions and recognized healthcare facilities ensuring maximum convenience for families settling in Gharaunda. Whether you prefer the accessibility of plots closer to the main highway or the quiet tranquility of established inner colonies, our curated list of locations offers the very best of Gharaunda real estate Investment in a plot for sale here means securing a stable future."
     ],
     "locations": [
-      "Near National Highway 44 Bypass",
-      "Areas close to Railway Station",
-      "Model Town Extension Gharaunda",
-      "New Housing Board Colony",
-      "Developing Sectors near Gharaunda",
-      "Villages on the Outskirts of Gharaunda",
-      "Prime Residential Colonies Karnal Road",
-      "Localities with Approved Town Planning"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

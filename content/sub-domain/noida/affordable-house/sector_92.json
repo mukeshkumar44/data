@@ -17,10 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero-flat1.webp",
-      "/images/hero-flat2.webp",
-      "/images/hero-area-view.webp",
-      "/images/hero-family.webp"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -63,14 +61,56 @@
       "We map properties not just within Sector 92 but also in adjacent developing corridors known for lower per-square-foot rates. This ensures our clients have access to the broadest spectrum of quality, budget-friendly homes that capitalize on future infrastructure improvements and connectivity gains in Greater Noida and the surrounding areas."
     ],
     "locations": [
-      "Sector 93 Noida Extension proximity",
-      "Affordable Housing Pockets near Dadri Road",
-      "Connectivity hubs near Sector 137 Metro Station",
-      "Developing corridors along the Yamuna Expressway Link",
-      "Verified properties in Sector 92 sub-localities",
-      "Upcoming RERA projects near Sector 140",
-      "Housing options near major institutional land banks",
-      "Areas with immediate access to Faridabad-Noida-Ghaziabad Expressway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

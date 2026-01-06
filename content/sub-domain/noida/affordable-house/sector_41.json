@@ -7,12 +7,18 @@
       "Explore carefully vetted houses flats and independent floors that offer the lowest entry price points without compromising on quality or accessibility. Whether you are a first-time buyer or looking for a smart investment property Sector 41 delivers exceptional returns and a high quality of life. Start your search for an affordable house in Sector 41 today and step into your dream home sooner than you think."
     ],
     "buttons": [
-      { "label": "Explore Affordable Listings Now", "path": "/listings" },
-      { "label": "Request Free Price Guide", "path": "/contact" }
+      {
+        "label": "Explore Affordable Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Free Price Guide",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "img/hero_sector41_1.jpg",
-      "img/hero_sector41_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,13 +61,56 @@
       "The locality boasts excellent infrastructure including reputed schools healthcare facilities and thriving local markets. Being situated close to major arterial roads means commuting to Delhi Greater Noida or other parts of the NCR is quick and hassle-free ensuring your home investment supports a busy modern lifestyle."
     ],
     "locations": [
-      "Wave City Center Metro Station proximity for seamless travel",
-      "Major educational institutions and universities nearby",
-      "Direct access to DND Flyway and Noida-Greater Noida Expressway",
-      "Convenient access to commercial hubs Sector 18 and Atta Market",
-      "Several multi-specialty hospitals within a five-minute drive",
-      "Well-developed local parks and recreational green spaces",
-      "Easy approach to key retail and entertainment centers"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

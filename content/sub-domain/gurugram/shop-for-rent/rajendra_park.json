@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "shop_rajendrapark_hero1.jpg",
-      "shop_rajendrapark_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Whether you prioritize proximity to major thoroughfares for connectivity or deep market penetration within residential blocks for loyal local clientele, our portfolio covers the best options. We help you choose a spot that minimizes commute time for staff and maximizes accessibility for your target customer base in Rajendra Park Gurugram."
     ],
     "locations": [
-      "Main Market Rajendra Park",
-      "Proximity to Sector 55 Residential Zones",
-      "Near Housing Society Entrances",
-      "Accessible via Gurugram Bypass Road",
-      "Service Lane Access Points",
-      "High-Density Residential Blocks",
-      "Neighborhood Shopping Complexes",
-      "Near Community Centers and Parks"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

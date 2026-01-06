@@ -7,10 +7,19 @@
       "Sector 59 Gurugram offers an unparalleled lifestyle surrounded by major corporate hubs luxury retail centers and world-class educational institutions. We specialize in curating only the best available two-bedroom units providing comprehensive details on floor plans amenities and current market valuations. Start your journey today to own a fantastic 2BHK home in one of Gurugram's fastest-growing residential zones."
     ],
     "buttons": [
-      { "label": "Explore Verified 2BHK Listings", "path": "/listings" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "Explore Verified 2BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Features of Every 2BHK Flat For Sale in Sector 59 Gurugram We List",
@@ -52,14 +61,56 @@
       "The connectivity ensures quick commutes while the presence of reputed schools and hospitals solidifies Sector 59 as a prime residential area for families. This balanced environment is why a 2BHK Flat For Sale in Sector 59 Gurugram is highly sought after by discerning buyers seeking convenience and quality living."
     ],
     "locations": [
-      "Golf Course Extension Road connectivity",
-      "Proximity to Rapid Metro Stations",
-      "Major corporate headquarters nearby",
-      "World-class healthcare institutions",
-      "Top rated international schools",
-      "Access to premium shopping malls",
-      "Seamless road network to Delhi NCR",
-      "Developed social infrastructure"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

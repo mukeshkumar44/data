@@ -7,12 +7,18 @@
       "We provide access to verified listings of independent houses, builder floors, and residential plots designed to meet diverse needs and budgets. Whether you seek a luxurious villa or a modern 3 BHK independent house, Sector 48 offers tailored solutions for your homeownership goals. Explore the best opportunities with our expert guidance and make an informed decision on your next real estate purchase in this rapidly growing micro-market."
     ],
     "buttons": [
-      { "label": "Explore Verified Listings Now", "path": "/listings/sector-48" },
-      { "label": "Schedule a Site Visit", "path": "/contact-us" }
+      {
+        "label": "Explore Verified Listings Now",
+        "path": "/listings/sector-48"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "/images/sector48-hero1.jpg",
-      "/images/sector48-hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The sector is surrounded by established residential areas and commercial complexes, ensuring residents have immediate access to world-class educational institutions, healthcare facilities, and retail destinations. This blend of accessibility and established infrastructure guarantees a comprehensive living experience for all residents."
     ],
     "locations": [
-      "Sohna Road",
-      "Golf Course Extension Road",
-      "Subhash Chowk",
-      "CD Chowk",
-      "Sector 47 Gurugram",
-      "Medanta The Medicity Hospital",
-      "Omaxe Celebration Mall",
-      "Amity International School"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

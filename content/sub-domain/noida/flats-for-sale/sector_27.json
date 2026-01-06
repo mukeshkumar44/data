@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Flat Configurations and Ready-to-Move Options in Sector 27 Noida",
@@ -59,36 +62,54 @@
     ],
     "locations": [
       {
-        "name": "Noida Sector 18 Market",
-        "distance": "5 minutes drive"
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
       },
       {
-        "name": "Sector 18 Metro Station",
-        "distance": "7 minutes drive"
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
       },
       {
-        "name": "DND Flyway Access",
-        "distance": "10 minutes"
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
       },
       {
-        "name": "Max Hospital Noida",
-        "distance": "5 minutes"
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
       },
       {
-        "name": "Major IT Hubs Sector 62",
-        "distance": "15 minutes"
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
       },
       {
-        "name": "Amity University Noida",
-        "distance": "10 minutes"
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
       },
       {
-        "name": "Atta Market Commercial Area",
-        "distance": "5 minutes walk"
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
       },
       {
-        "name": "Malls and Entertainment Hubs",
-        "distance": "5-10 minutes drive"
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },

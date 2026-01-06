@@ -7,10 +7,19 @@
       "Sector 52 represents a sweet spot in the Noida real estate market combining established social infrastructure with strong future appreciation potential. Whether you are looking for a compact space for a small family home or a large parcel for a luxurious independent villa we have options to match every requirement. Start your journey toward owning a bespoke property by exploring the best Plot For Sale in Sector 52 Noida today contact our experts for personalized guidance and verified listings."
     ],
     "buttons": [
-      { "label": "View Available Plots", "path": "/available-plots" },
-      { "label": "Get Price List", "path": "/contact" }
+      {
+        "label": "View Available Plots",
+        "path": "/available-plots"
+      },
+      {
+        "label": "Get Price List",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero-plot-sector52.jpg", "/images/map-sector52.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring the Perfect Plot Sizes for Residential Investment in Sector 52 Noida",
@@ -52,13 +61,56 @@
       "The locality is already matured featuring robust social infrastructure including top-tier schools renowned hospitals vibrant shopping centers and expansive parks. Investing here means securing a lifestyle of convenience where all necessary amenities are within easy reach providing a secure and enriching environment for families to thrive and prosper."
     ],
     "locations": [
-      "Sector 52 Metro Station proximity",
-      "Direct link to Noida Expressway",
-      "Nearby top international schools",
-      "Access to major corporate office sectors",
-      "Proximity to established markets and retail zones",
-      "Quick access to medical facilities and hospitals",
-      "Well-developed internal sector roads"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -154,6 +206,11 @@
       "Ready to take the next step toward building your dream home or making a smart investment Our dedicated real estate advisors specialize in Sector 52 plots and are here to assist you.",
       "Contact us today for verified listings current pricing details comprehensive legal checks and personalized consultation tailored to your specific property goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

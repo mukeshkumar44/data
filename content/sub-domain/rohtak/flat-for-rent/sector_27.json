@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero/sector27_apartment.jpg",
-      "/images/hero/rohtak_skyline.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Residents benefit immensely from the proximity to significant educational institutions and world-class healthcare facilities minimizing travel time for essential services. Moreover Sector 27 is strategically located near emerging commercial centers providing ample employment opportunities and retail therapy spots. Understanding the surrounding infrastructure is crucial when selecting a flat for rent and we highlight how this area simplifies urban living."
     ],
     "locations": [
-      "DPS School Rohtak Proximity",
-      "Easy Access to Rohtak-Jind Highway",
-      "Near HUDA Market Sector 28",
-      "Proximity to Medical College and Hospital",
-      "Connectivity to Rohtak Railway Station",
-      "Near MDU University Campus Rohtak",
-      "Sector 34 Commercial Hub",
-      "Close to Tilyar Lake Complex"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

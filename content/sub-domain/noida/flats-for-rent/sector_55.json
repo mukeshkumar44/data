@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Flat Configurations Available for Rent in Prime Locations of Sector 55",
@@ -58,14 +61,56 @@
       "Understanding the locality means appreciating the quick access to Sector 50, known for its extensive shopping options and metro station connectivity. Furthermore, Sector 55 is very close to Sector 51 and Sector 62, major IT and institutional hubs. This strategic positioning means that a Flat For Rent in Sector 55 is not just a home, it is a smart logistical choice. Our listings are categorized based on their proximity to major schools, hospitals like Fortis, and burgeoning commercial centers, helping you narrow down the best spot. Whether you rely on the Aqua Line Metro or personal transport, Sector 55 offers unparalleled access and convenience."
     ],
     "locations": [
-      "Sector 50 Noida Metro Connectivity",
-      "Sector 51 Residential Hub",
-      "Sector 62 IT and Corporate Offices",
-      "Noida Expressway Access Points",
-      "Sector 71 Metro Interchange",
-      "DND Flyway Access",
-      "Wave City Center",
-      "Atta Market Sector 27"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

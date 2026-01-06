@@ -7,10 +7,19 @@
       "We specialize in matching discerning tenants with the perfect home environment providing detailed listings that include actual photos floor plans and comprehensive neighborhood details Securing a high-quality Flat For Rent in Sector 9 has never been easier Explore spacious 2 BHK and 3 BHK apartments modern studio flats and independent builder floors all situated within secure well-maintained societies Start your search today and step into a life of ease and luxury in the heart of Ambala Cantt"
     ],
     "buttons": [
-      { "label": "Browse Verified Listings Now", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "Browse Verified Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring the Variety of Flats For Rent in Sector 9 Ambala Based on Size and Furnishing",
@@ -52,12 +61,56 @@
       "We provide rentals near all key nodes within Sector 9 Ambala ensuring you select a location that perfectly aligns with your daily commute and lifestyle requirements From properties closer to the main thoroughfare for easy access to public transit to quiet pockets ideal for peaceful family living our listings span the entire Sector 9 landscape Trust us to help you find that perfect Flat For Rent in Sector 9 Ambala that balances convenience and tranquility"
     ],
     "locations": [
-      "Flats Near Main Market Sector 9",
-      "Rental Apartments Close to Ambala Cantt Railway Station",
-      "Homes near Reputable Schools in Sector 9",
-      "Residences near Major Hospitals and Clinics",
-      "Apartments with Easy Access to Highway Connectivity",
-      "Flats Near Local Parks and Green Spaces"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

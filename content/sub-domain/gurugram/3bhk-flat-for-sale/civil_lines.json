@@ -7,12 +7,18 @@
       "Secure your future with an investment in Civil Lines real estate. A 3BHK apartment here provides ample living space, sophisticated finishes, and access to premium community infrastructure like clubhouses, swimming pools, and dedicated green spaces. Explore our verified listings now and let us guide you towards owning a beautiful and valuable home in this highly sought-after neighbourhood."
     ],
     "buttons": [
-      { "label": "Explore 3BHK Listings", "path": "/listings/civil-lines" },
-      { "label": "Get Price Details", "path": "/contact" }
+      {
+        "label": "Explore 3BHK Listings",
+        "path": "/listings/civil-lines"
+      },
+      {
+        "label": "Get Price Details",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "flat_civil_lines_hero1.jpg",
-      "flat_civil_lines_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -22,12 +28,30 @@
       "Our featured properties include advanced smart home technology integration and power backup systems, ensuring a seamless and modern living experience. Furthermore, the commitment to safety is paramount; residents benefit from multi-tiered security protocols and professional management services. Review these core features to understand why a 3BHK apartment in Civil Lines represents a truly aspirational home purchase."
     ],
     "features": [
-      { "title": "Spacious Layouts 1800 Sq Ft Plus", "description": "These large 3BHK flats in Civil Lines offer expansive living and dining areas, making them ideal for entertaining guests or simply enjoying family time. The generous square footage ensures every room feels open and airy providing true comfort." },
-      { "title": "Premium Modular Kitchen Designs", "description": "Each flat features fully fitted modular kitchens equipped with top-tier appliances, granite countertops, and abundant storage solutions. These spaces are designed for efficiency and style, catering to the modern culinary enthusiast." },
-      { "title": "Enhanced Security Infrastructure", "description": "Residents benefit from 24/7 manned surveillance, controlled access points, and advanced CCTV monitoring across the entire complex. Safety and peace of mind are non-negotiable standards here." },
-      { "title": "Excellent Connectivity to MG Road", "description": "The location offers fantastic road networks and close proximity to the MG Road Metro Station, significantly reducing commute times to Delhi and other parts of Gurugram. This is a crucial advantage for working professionals." },
-      { "title": "Dedicated Resident Parking Slots", "description": "Each 3BHK flat is typically allocated two dedicated, covered parking spaces. This eliminates the hassle of finding parking and ensures vehicle security within the premises." },
-      { "title": "Access to World-Class Clubhouse", "description": "Enjoy luxurious community amenities including a large swimming pool, state-of-the-art gymnasium, indoor games room, and beautifully landscaped gardens perfect for relaxation and recreation." }
+      {
+        "title": "Spacious Layouts 1800 Sq Ft Plus",
+        "description": "These large 3BHK flats in Civil Lines offer expansive living and dining areas, making them ideal for entertaining guests or simply enjoying family time. The generous square footage ensures every room feels open and airy providing true comfort."
+      },
+      {
+        "title": "Premium Modular Kitchen Designs",
+        "description": "Each flat features fully fitted modular kitchens equipped with top-tier appliances, granite countertops, and abundant storage solutions. These spaces are designed for efficiency and style, catering to the modern culinary enthusiast."
+      },
+      {
+        "title": "Enhanced Security Infrastructure",
+        "description": "Residents benefit from 24/7 manned surveillance, controlled access points, and advanced CCTV monitoring across the entire complex. Safety and peace of mind are non-negotiable standards here."
+      },
+      {
+        "title": "Excellent Connectivity to MG Road",
+        "description": "The location offers fantastic road networks and close proximity to the MG Road Metro Station, significantly reducing commute times to Delhi and other parts of Gurugram. This is a crucial advantage for working professionals."
+      },
+      {
+        "title": "Dedicated Resident Parking Slots",
+        "description": "Each 3BHK flat is typically allocated two dedicated, covered parking spaces. This eliminates the hassle of finding parking and ensures vehicle security within the premises."
+      },
+      {
+        "title": "Access to World-Class Clubhouse",
+        "description": "Enjoy luxurious community amenities including a large swimming pool, state-of-the-art gymnasium, indoor games room, and beautifully landscaped gardens perfect for relaxation and recreation."
+      }
     ]
   },
   "locationsSection": {
@@ -37,12 +61,56 @@
       "We provide information on nearby sectors like Sector 14 and DLF Phase 1, which share great connectivity and strong civic amenities. Civil Lines consistently stands out due to its mature community setting and often larger property sizes available in the 3BHK segment. Use this overview to compare and confirm Civil Lines as your top choice for investment in Gurugram."
     ],
     "locations": [
-      "Sector 14 Gurugram",
-      "DLF Phase 1 Residential Area",
-      "Sushant Lok Phase 1",
-      "MG Road Residences",
-      "Old Delhi Road Vicinity",
-      "Palam Vihar Extension"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -52,30 +120,84 @@
       "We simplify complex legal processes and documentation involved in property transfer. Our experts ensure every transaction is compliant and secure, protecting your significant investment. We negotiate on your behalf to secure the best possible deal ensuring that your investment in Civil Lines Gurugram property is maximised."
     ],
     "points": [
-      { "title": "Verified and Exclusive Listings Only", "description": "We only showcase 3BHK flats in Civil Lines that have been thoroughly vetted for legal clearances and construction quality. You gain access to exclusive properties that might not be available on public listing portals ensuring prime selection." },
-      { "title": "Expert Negotiation and Pricing Assistance", "description": "Our professionals are skilled negotiators who work tirelessly to secure the best market price for your chosen 3BHK flat. We provide comprehensive valuation reports supporting fair and advantageous deal structuring." },
-      { "title": "Seamless Legal and Documentation Support", "description": "Navigating property paperwork can be overwhelming. We manage the entire legal lifecycle including title verification, stamp duty procedures, and registration ensuring a smooth transfer of ownership." },
-      { "title": "Deep Local Market Insights and Trends", "description": "Benefit from our proprietary data on Civil Lines property appreciation rates, rental yield potential, and upcoming infrastructure projects. This allows you to make a highly informed investment decision." },
-      { "title": "Personalised Property Tour Experiences", "description": "We organise private, scheduled site visits based on your convenience, providing detailed walkthroughs and answering all your specific questions about the 3BHK flat and the surrounding community facilities." },
-      { "title": "Financing and Mortgage Facilitation", "description": "We connect you with leading banks and financial institutions to secure the most competitive home loan rates. Our team assists in documentation submission to expedite the loan approval process effectively." },
-      { "title": "Post-Sale Service and Community Integration", "description": "Our support extends beyond the sale. We assist with utility transfers, society registration, and orientation to the Civil Lines community ensuring you settle into your new 3BHK flat comfortably." },
-      { "title": "Focus on Client Confidentiality and Trust", "description": "We operate with the highest standards of professionalism and discretion ensuring all your personal and financial details are handled with utmost security and confidentiality throughout the transaction." }
+      {
+        "title": "Verified and Exclusive Listings Only",
+        "description": "We only showcase 3BHK flats in Civil Lines that have been thoroughly vetted for legal clearances and construction quality. You gain access to exclusive properties that might not be available on public listing portals ensuring prime selection."
+      },
+      {
+        "title": "Expert Negotiation and Pricing Assistance",
+        "description": "Our professionals are skilled negotiators who work tirelessly to secure the best market price for your chosen 3BHK flat. We provide comprehensive valuation reports supporting fair and advantageous deal structuring."
+      },
+      {
+        "title": "Seamless Legal and Documentation Support",
+        "description": "Navigating property paperwork can be overwhelming. We manage the entire legal lifecycle including title verification, stamp duty procedures, and registration ensuring a smooth transfer of ownership."
+      },
+      {
+        "title": "Deep Local Market Insights and Trends",
+        "description": "Benefit from our proprietary data on Civil Lines property appreciation rates, rental yield potential, and upcoming infrastructure projects. This allows you to make a highly informed investment decision."
+      },
+      {
+        "title": "Personalised Property Tour Experiences",
+        "description": "We organise private, scheduled site visits based on your convenience, providing detailed walkthroughs and answering all your specific questions about the 3BHK flat and the surrounding community facilities."
+      },
+      {
+        "title": "Financing and Mortgage Facilitation",
+        "description": "We connect you with leading banks and financial institutions to secure the most competitive home loan rates. Our team assists in documentation submission to expedite the loan approval process effectively."
+      },
+      {
+        "title": "Post-Sale Service and Community Integration",
+        "description": "Our support extends beyond the sale. We assist with utility transfers, society registration, and orientation to the Civil Lines community ensuring you settle into your new 3BHK flat comfortably."
+      },
+      {
+        "title": "Focus on Client Confidentiality and Trust",
+        "description": "We operate with the highest standards of professionalism and discretion ensuring all your personal and financial details are handled with utmost security and confidentiality throughout the transaction."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Buying a 3BHK Flat in Civil Lines",
     "description": "Find detailed answers to common inquiries regarding the purchase process, investment viability, and maintenance of 3BHK apartments within the Civil Lines neighbourhood of Gurugram.",
     "faqs": [
-      { "question": "What is the typical size range for a 3BHK Flat For Sale in Civil Lines", "answer": "The 3BHK flats in Civil Lines generally range in size from approximately 1650 square feet to over 2200 square feet built-up area. This wide range caters to various family needs and budget points, but most properties feature generous room sizes and integrated storage solutions reflecting the luxury nature of the locality. Specific carpet area details are provided for each verified listing." },
-      { "question": "Is Civil Lines a good location for property investment and appreciation", "answer": "Yes, Civil Lines is consistently regarded as a strong investment location in Gurugram. Its established infrastructure, excellent connectivity, and proximity to administrative and commercial hubs ensure stable demand. Property values here show steady, healthy appreciation rates making it a secure long-term asset particularly for large format homes like 3BHK flats." },
-      { "question": "What kind of amenities can I expect in 3BHK apartment complexes here", "answer": "Premium complexes in Civil Lines offer high-end amenities including temperature-controlled swimming pools, well-equipped fitness centres and gyms, dedicated children’s play areas, multi-purpose sports courts, and extensive manicured green spaces. Many also include concierge services and dedicated maintenance staff ensuring a hassle-free lifestyle for residents." },
-      { "question": "Are ready-to-move 3BHK flats available in Civil Lines Gurugram", "answer": "Absolutely. Civil Lines is a mature residential area and offers a significant inventory of high-quality ready-to-move-in 3BHK flats. These options are perfect for buyers looking to avoid construction delays and wishing to move immediately. We provide detailed inspection reports and occupancy certificates for all ready-to-move properties." },
-      { "question": "What are the common maintenance costs for a 3BHK flat in this locality", "answer": "Maintenance costs in premium Civil Lines societies typically range from 5,000 to 10,000 Indian Rupees per month. This fee generally covers common area electricity, security services, garbage collection, lift maintenance, common amenity upkeep, and partial power backup charges. The exact figure depends on the project’s specific facility offerings." },
-      { "question": "How important is proximity to schools and hospitals in Civil Lines", "answer": "Civil Lines is strategically located near some of Gurugram’s most reputed educational institutions and leading multi-speciality hospitals. This proximity ensures convenience for families with children and immediate access to excellent healthcare facilities which significantly enhances the quality of life and property desirability." },
-      { "question": "Can Non-Resident Indians NRI purchase a 3BHK flat in Civil Lines", "answer": "Yes, Non-Resident Indians are fully permitted to purchase residential property in Civil Lines Gurugram. We offer specialised services to assist NRIs with property selection, documentation, and compliance with the necessary governmental regulations ensuring a smooth and remote purchasing process if required." },
-      { "question": "What is the typical price bracket for a 3BHK Flat For Sale in Civil Lines", "answer": "Pricing varies significantly based on factors like size, age of the building, developer reputation, and specific amenities. Generally, premium 3BHK flats in Civil Lines start from approximately 2.5 Crore Rupees and can go upwards depending on the luxury quotient and specific location within the sector." },
-      { "question": "Is financing readily available for purchasing property here", "answer": "Yes, almost all major public and private sector banks offer excellent home loan products for properties in Civil Lines. Given the established nature and high legality of these projects, obtaining financing is generally straightforward provided the buyer meets the eligibility criteria and we actively assist in securing the best rates." },
-      { "question": "What sets a 3BHK flat in Civil Lines apart from other Gurugram sectors", "answer": "Civil Lines offers a unique combination of spacious, high-quality residential units often found in low-density developments and exceptional central connectivity without the intense traffic of newer sectors. It provides a more mature, peaceful, and traditionally prestigious living environment appealing to established professionals and senior executives seeking quality." }
+      {
+        "question": "What is the typical size range for a 3BHK Flat For Sale in Civil Lines",
+        "answer": "The 3BHK flats in Civil Lines generally range in size from approximately 1650 square feet to over 2200 square feet built-up area. This wide range caters to various family needs and budget points, but most properties feature generous room sizes and integrated storage solutions reflecting the luxury nature of the locality. Specific carpet area details are provided for each verified listing."
+      },
+      {
+        "question": "Is Civil Lines a good location for property investment and appreciation",
+        "answer": "Yes, Civil Lines is consistently regarded as a strong investment location in Gurugram. Its established infrastructure, excellent connectivity, and proximity to administrative and commercial hubs ensure stable demand. Property values here show steady, healthy appreciation rates making it a secure long-term asset particularly for large format homes like 3BHK flats."
+      },
+      {
+        "question": "What kind of amenities can I expect in 3BHK apartment complexes here",
+        "answer": "Premium complexes in Civil Lines offer high-end amenities including temperature-controlled swimming pools, well-equipped fitness centres and gyms, dedicated children’s play areas, multi-purpose sports courts, and extensive manicured green spaces. Many also include concierge services and dedicated maintenance staff ensuring a hassle-free lifestyle for residents."
+      },
+      {
+        "question": "Are ready-to-move 3BHK flats available in Civil Lines Gurugram",
+        "answer": "Absolutely. Civil Lines is a mature residential area and offers a significant inventory of high-quality ready-to-move-in 3BHK flats. These options are perfect for buyers looking to avoid construction delays and wishing to move immediately. We provide detailed inspection reports and occupancy certificates for all ready-to-move properties."
+      },
+      {
+        "question": "What are the common maintenance costs for a 3BHK flat in this locality",
+        "answer": "Maintenance costs in premium Civil Lines societies typically range from 5,000 to 10,000 Indian Rupees per month. This fee generally covers common area electricity, security services, garbage collection, lift maintenance, common amenity upkeep, and partial power backup charges. The exact figure depends on the project’s specific facility offerings."
+      },
+      {
+        "question": "How important is proximity to schools and hospitals in Civil Lines",
+        "answer": "Civil Lines is strategically located near some of Gurugram’s most reputed educational institutions and leading multi-speciality hospitals. This proximity ensures convenience for families with children and immediate access to excellent healthcare facilities which significantly enhances the quality of life and property desirability."
+      },
+      {
+        "question": "Can Non-Resident Indians NRI purchase a 3BHK flat in Civil Lines",
+        "answer": "Yes, Non-Resident Indians are fully permitted to purchase residential property in Civil Lines Gurugram. We offer specialised services to assist NRIs with property selection, documentation, and compliance with the necessary governmental regulations ensuring a smooth and remote purchasing process if required."
+      },
+      {
+        "question": "What is the typical price bracket for a 3BHK Flat For Sale in Civil Lines",
+        "answer": "Pricing varies significantly based on factors like size, age of the building, developer reputation, and specific amenities. Generally, premium 3BHK flats in Civil Lines start from approximately 2.5 Crore Rupees and can go upwards depending on the luxury quotient and specific location within the sector."
+      },
+      {
+        "question": "Is financing readily available for purchasing property here",
+        "answer": "Yes, almost all major public and private sector banks offer excellent home loan products for properties in Civil Lines. Given the established nature and high legality of these projects, obtaining financing is generally straightforward provided the buyer meets the eligibility criteria and we actively assist in securing the best rates."
+      },
+      {
+        "question": "What sets a 3BHK flat in Civil Lines apart from other Gurugram sectors",
+        "answer": "Civil Lines offers a unique combination of spacious, high-quality residential units often found in low-density developments and exceptional central connectivity without the intense traffic of newer sectors. It provides a more mature, peaceful, and traditionally prestigious living environment appealing to established professionals and senior executives seeking quality."
+      }
     ]
   },
   "contactSection": {

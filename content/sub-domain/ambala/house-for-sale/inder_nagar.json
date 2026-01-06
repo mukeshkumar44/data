@@ -7,12 +7,18 @@
       "Searching for a House For Sale in Inder Nagar has never been easier. Our portfolio includes everything from compact, modern homes ideal for small families to large, lavish villas designed for luxury living. Explore properties situated near essential amenities like top schools, healthcare facilities, and bustling markets. Invest wisely in Inder Nagar Ambala, a neighborhood known for its robust infrastructure, safe environment, and strong capital appreciation potential."
     ],
     "buttons": [
-      { "label": "Explore Verified Houses", "path": "/listings" },
-      { "label": "Schedule Property Tour", "path": "/contact" }
+      {
+        "label": "Explore Verified Houses",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule Property Tour",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "inder-nagar-luxury-home.jpg",
-      "inder-nagar-street-view.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "The property market in this cluster remains robust due to consistent demand for high-quality residential houses. Whether you need proximity to the Railway Station, Ambala Cantt, or major highways, choosing a House For Sale in Inder Nagar places you strategically. We offer guidance on local property values and growth forecasts for all neighboring sectors, ensuring an informed purchase decision."
     ],
     "locations": [
-      "Ambala Cantt Railway Station Area",
-      "Housing Board Colony Sector 7",
-      "Model Town Ambala",
-      "Civil Hospital Road Proximity",
-      "Near Ambala-Chandigarh Highway Access",
-      "Baldev Nagar Extension"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,10 +7,19 @@
       "Whether you’re setting up a retail store, boutique, or service center, our listings feature prime locations with flexible rental options to suit your needs. Explore our curated selection of shops and find the ideal space to grow your business in one of Ambala’s most sought-after neighborhoods."
     ],
     "buttons": [
-      { "label": "Explore Shops", "path": "/shop-listings" },
-      { "label": "Contact Us", "path": "/contact" }
+      {
+        "label": "Explore Shops",
+        "path": "/shop-listings"
+      },
+      {
+        "label": "Contact Us",
+        "path": "/contact"
+      }
     ],
-    "images": ["shop1.jpg", "shop2.jpg", "shop3.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Prime Commercial Spaces in Prem Nagar Ambala",
@@ -19,12 +28,30 @@
       "From compact retail spaces to spacious showrooms, we provide options that align with your vision and budget. Discover the perfect shop for rent in Prem Nagar Ambala and take your business to new heights."
     ],
     "features": [
-      { "title": "Compact Retail Shops", "description": "Ideal for small businesses, these shops offer affordable rental options in high-traffic areas, perfect for boutiques, cafes, and convenience stores." },
-      { "title": "Spacious Showrooms", "description": "Designed for larger businesses, these showrooms provide ample space for display and storage, catering to furniture, electronics, and automotive dealers." },
-      { "title": "Prime Location Shops", "description": "Located in the heart of Prem Nagar Ambala, these shops ensure maximum visibility and accessibility, making them perfect for high-demand retail businesses." },
-      { "title": "Flexible Lease Options", "description": "Our rental agreements are designed to accommodate your business needs, offering short-term and long-term lease options with favorable terms." },
-      { "title": "Fully Equipped Spaces", "description": "Move-in-ready shops with essential utilities and amenities, reducing setup time and allowing you to focus on growing your business." },
-      { "title": "Customizable Layouts", "description": "Tailor your shop’s layout to suit your brand and operational requirements, ensuring a seamless customer experience." }
+      {
+        "title": "Compact Retail Shops",
+        "description": "Ideal for small businesses, these shops offer affordable rental options in high-traffic areas, perfect for boutiques, cafes, and convenience stores."
+      },
+      {
+        "title": "Spacious Showrooms",
+        "description": "Designed for larger businesses, these showrooms provide ample space for display and storage, catering to furniture, electronics, and automotive dealers."
+      },
+      {
+        "title": "Prime Location Shops",
+        "description": "Located in the heart of Prem Nagar Ambala, these shops ensure maximum visibility and accessibility, making them perfect for high-demand retail businesses."
+      },
+      {
+        "title": "Flexible Lease Options",
+        "description": "Our rental agreements are designed to accommodate your business needs, offering short-term and long-term lease options with favorable terms."
+      },
+      {
+        "title": "Fully Equipped Spaces",
+        "description": "Move-in-ready shops with essential utilities and amenities, reducing setup time and allowing you to focus on growing your business."
+      },
+      {
+        "title": "Customizable Layouts",
+        "description": "Tailor your shop’s layout to suit your brand and operational requirements, ensuring a seamless customer experience."
+      }
     ]
   },
   "locationsSection": {
@@ -34,16 +61,56 @@
       "Our listings include shops in popular markets and sectors, ensuring convenience and accessibility for your business operations."
     ],
     "locations": [
-      "Ambala Cantt Market",
-      "Ambala City Sector 7",
-      "Naraingarh Road",
-      "Patel Nagar Market",
-      "Sector 6 Ambala",
-      "Railway Road Market",
-      "Sector 5 Ambala",
-      "Jagadhari Road",
-      "Sector 8 Ambala",
-      "Ambala Sadar Bazaar"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -53,30 +120,84 @@
       "From excellent connectivity to a supportive business environment, Prem Nagar Ambala provides everything you need to succeed in your entrepreneurial journey."
     ],
     "points": [
-      { "title": "High Foot Traffic", "description": "Prem Nagar Ambala attracts a steady flow of customers, ensuring consistent visibility and sales opportunities for your business." },
-      { "title": "Excellent Connectivity", "description": "With easy access to major roads and highways, Prem Nagar Ambala offers seamless connectivity for both customers and suppliers." },
-      { "title": "Affordable Rentals", "description": "Our shop rentals are competitively priced, making it easier for startups and small businesses to establish themselves in a prime location." },
-      { "title": "Supportive Business Environment", "description": "Prem Nagar Ambala boasts a thriving commercial ecosystem, providing networking opportunities and resources for business growth." },
-      { "title": "Modern Amenities", "description": "Shops in Prem Nagar Ambala come equipped with essential utilities and modern amenities, ensuring a hassle-free business setup." },
-      { "title": "Strategic Location", "description": "Situated in a central area, Prem Nagar Ambala offers easy access to residential neighborhoods, educational institutions, and healthcare facilities." },
-      { "title": "Flexible Lease Terms", "description": "Our rental agreements are designed to accommodate your business needs, offering favorable terms and conditions." },
-      { "title": "Customizable Spaces", "description": "Tailor your shop’s layout to reflect your brand identity and enhance the customer experience." }
+      {
+        "title": "High Foot Traffic",
+        "description": "Prem Nagar Ambala attracts a steady flow of customers, ensuring consistent visibility and sales opportunities for your business."
+      },
+      {
+        "title": "Excellent Connectivity",
+        "description": "With easy access to major roads and highways, Prem Nagar Ambala offers seamless connectivity for both customers and suppliers."
+      },
+      {
+        "title": "Affordable Rentals",
+        "description": "Our shop rentals are competitively priced, making it easier for startups and small businesses to establish themselves in a prime location."
+      },
+      {
+        "title": "Supportive Business Environment",
+        "description": "Prem Nagar Ambala boasts a thriving commercial ecosystem, providing networking opportunities and resources for business growth."
+      },
+      {
+        "title": "Modern Amenities",
+        "description": "Shops in Prem Nagar Ambala come equipped with essential utilities and modern amenities, ensuring a hassle-free business setup."
+      },
+      {
+        "title": "Strategic Location",
+        "description": "Situated in a central area, Prem Nagar Ambala offers easy access to residential neighborhoods, educational institutions, and healthcare facilities."
+      },
+      {
+        "title": "Flexible Lease Terms",
+        "description": "Our rental agreements are designed to accommodate your business needs, offering favorable terms and conditions."
+      },
+      {
+        "title": "Customizable Spaces",
+        "description": "Tailor your shop’s layout to reflect your brand identity and enhance the customer experience."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shops for Rent in Prem Nagar Ambala",
     "description": "Explore answers to common questions about renting a shop in Prem Nagar Ambala and make informed decisions for your business.",
     "faqs": [
-      { "question": "What types of shops are available for rent in Prem Nagar Ambala", "answer": "We offer a variety of shops, including compact retail spaces, spacious showrooms, and customizable layouts to suit different business needs." },
-      { "question": "Is Prem Nagar Ambala a good location for starting a business", "answer": "Yes, Prem Nagar Ambala is a thriving commercial hub with high foot traffic, excellent connectivity, and a supportive business environment." },
-      { "question": "What is the average rental cost for a shop in Prem Nagar Ambala", "answer": "Rental costs vary based on shop size and location, but we offer competitive pricing to accommodate businesses of all scales." },
-      { "question": "Are there flexible lease options available", "answer": "Yes, we provide both short-term and long-term lease options with favorable terms to suit your business requirements." },
-      { "question": "Can I customize the layout of my rented shop", "answer": "Absolutely! Many of our shops allow for customizable layouts to reflect your brand and enhance customer experience." },
-      { "question": "What amenities are included in the rented shops", "answer": "Our shops come equipped with essential utilities, modern amenities, and move-in-ready features for a hassle-free setup." },
-      { "question": "How do I find the best shop for my business in Prem Nagar Ambala", "answer": "Browse our curated listings or contact our team for personalized assistance in finding the perfect shop for your business." },
-      { "question": "Are there networking opportunities for businesses in Prem Nagar Ambala", "answer": "Yes, Prem Nagar Ambala boasts a vibrant commercial ecosystem with ample networking and collaboration opportunities." },
-      { "question": "What are the peak business hours in Prem Nagar Ambala", "answer": "Peak hours typically range from mid-morning to evening, with weekends being particularly busy for retail businesses." },
-      { "question": "How do I get started with renting a shop in Prem Nagar Ambala", "answer": "Contact us today to explore available listings, discuss your requirements, and secure the perfect shop for your business." }
+      {
+        "question": "What types of shops are available for rent in Prem Nagar Ambala",
+        "answer": "We offer a variety of shops, including compact retail spaces, spacious showrooms, and customizable layouts to suit different business needs."
+      },
+      {
+        "question": "Is Prem Nagar Ambala a good location for starting a business",
+        "answer": "Yes, Prem Nagar Ambala is a thriving commercial hub with high foot traffic, excellent connectivity, and a supportive business environment."
+      },
+      {
+        "question": "What is the average rental cost for a shop in Prem Nagar Ambala",
+        "answer": "Rental costs vary based on shop size and location, but we offer competitive pricing to accommodate businesses of all scales."
+      },
+      {
+        "question": "Are there flexible lease options available",
+        "answer": "Yes, we provide both short-term and long-term lease options with favorable terms to suit your business requirements."
+      },
+      {
+        "question": "Can I customize the layout of my rented shop",
+        "answer": "Absolutely! Many of our shops allow for customizable layouts to reflect your brand and enhance customer experience."
+      },
+      {
+        "question": "What amenities are included in the rented shops",
+        "answer": "Our shops come equipped with essential utilities, modern amenities, and move-in-ready features for a hassle-free setup."
+      },
+      {
+        "question": "How do I find the best shop for my business in Prem Nagar Ambala",
+        "answer": "Browse our curated listings or contact our team for personalized assistance in finding the perfect shop for your business."
+      },
+      {
+        "question": "Are there networking opportunities for businesses in Prem Nagar Ambala",
+        "answer": "Yes, Prem Nagar Ambala boasts a vibrant commercial ecosystem with ample networking and collaboration opportunities."
+      },
+      {
+        "question": "What are the peak business hours in Prem Nagar Ambala",
+        "answer": "Peak hours typically range from mid-morning to evening, with weekends being particularly busy for retail businesses."
+      },
+      {
+        "question": "How do I get started with renting a shop in Prem Nagar Ambala",
+        "answer": "Contact us today to explore available listings, discuss your requirements, and secure the perfect shop for your business."
+      }
     ]
   },
   "contactSection": {
@@ -85,6 +206,11 @@
       "Ready to find the perfect shop for rent in Prem Nagar Ambala? Our team is here to assist you every step of the way.",
       "Fill out the form below, and we’ll get back to you with personalized recommendations and answers to your queries."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

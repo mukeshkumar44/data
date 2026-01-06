@@ -16,7 +16,10 @@
         "path": "/property-listings"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Expert Real Estate Agents in Sector 89 Handle Every Type of Property Transaction",
@@ -58,12 +61,56 @@
       "An agent who understands the differences between the infrastructure of Sector 90 and the upcoming connectivity of Sector 88 can provide superior comparative analysis. We serve clients interested in parallel investment opportunities across nearby sectors offering strategic insights into emerging hotspots along the Dwarka Expressway stretch. This holistic view ensures that whether you are looking specifically within Sector 89 or considering adjacent areas for better budget alignment you receive expert unbiased advice tailored to long-term growth and immediate convenience. We are your reliable gateway to property success across the entire local micro-market."
     ],
     "locations": [
-      "Sector 88 Gurugram",
-      "Sector 90 Gurugram",
-      "Sector 92 Gurugram",
-      "Sector 85 Gurugram",
-      "Sector 95 Gurugram",
-      "Pataudi Road Corridor"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

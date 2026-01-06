@@ -7,12 +7,18 @@
       "Start your seamless rental journey with us. Our expert team provides transparent dealings flexible viewing schedules and guidance through the entire lease process. We focus on finding you a home that perfectly matches your lifestyle requirements proximity needs and budget constraints in this prime Ambala locality. Sector 8 is renowned for its wide roads green parks and excellent municipal infrastructure making it the preferred choice for discerning tenants in Ambala Cantt."
     ],
     "buttons": [
-      { "label": "View Latest Rental Listings", "path": "/listings" },
-      { "label": "Schedule a Property Viewing", "path": "/contact" }
+      {
+        "label": "View Latest Rental Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Property Viewing",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/hero-house-sector8.jpg",
-      "/images/sector8-locality.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,11 +61,56 @@
       "Understanding the surrounding neighborhoods helps tenants evaluate commute times and accessibility to schools hospitals and workplaces. Sector 8’s central position in Ambala Cantt makes it an unbeatable rental choice combining prestige with practicality for daily life."
     ],
     "locations": [
-      "Sector 9 Ambala Residential Listings",
-      "Ambala Cantt Railway Station Area",
-      "Defense Colony Nearby Rentals",
-      "Model Town Ambala Connectivity",
-      "Shopping Centers near Sector 8 Market"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

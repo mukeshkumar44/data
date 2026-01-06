@@ -7,12 +7,18 @@
       "Sector 104 provides immediate access to major expressways and essential city infrastructure, significantly cutting down commute times. Investing in a 2BHK flat here means securing a future in one of Noida's most promising sectors. Whether you are seeking your first home or a strategic investment opportunity, Sector 104 delivers substantial growth potential and superior connectivity. Start exploring highly sought-after properties today and take the first step toward owning a spectacular property."
     ],
     "buttons": [
-      { "label": "Explore 2BHK Listings Now", "path": "/listings" },
-      { "label": "Get Free Property Consultation", "path": "/contact" }
+      {
+        "label": "Explore 2BHK Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Free Property Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "2bhk_sector104_exterior.jpg",
-      "2bhk_sector104_interior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "We provide insights into neighbouring sectors so you can compare infrastructure, pricing, and connectivity before making your final decision. While Sector 104 offers a unique blend of affordability and luxury, these nearby areas are also popular for various reasons."
     ],
     "locations": [
-      "Sector 107 Noida",
-      "Sector 78 Noida",
-      "Sector 110 Noida",
-      "Sector 93 Noida",
-      "Sector 108 Noida",
-      "Sector 137 Noida",
-      "Greater Noida Expressway",
-      "Gautam Buddha University Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to secure your perfect 2BHK flat in the heart of Sector 104 Noida Stop searching and start owning. Our dedicated team of property advisors provides personalized consultations, helping you navigate the market and find the property that perfectly matches your requirements and budget.",
       "Fill out the form below to receive customized property brochures, schedule site visits, and get expert financial advice tailored specifically to the Sector 104 real estate landscape."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

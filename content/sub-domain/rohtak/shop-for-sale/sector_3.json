@@ -7,10 +7,19 @@
       "We offer a curated selection of commercial properties including ready-to-move shops pre-leased units and shell spaces ready for custom fit-outs. Our listings in Sector 3 are verified ensuring clear titles and compliance with all municipal and state regulations giving you peace of mind with every transaction. Whether you are a first-time investor looking for a compact space or an established business seeking a flagship location Sector 3 provides the perfect blend of visibility and accessibility. Start your search today and let us guide you to the commercial property that aligns perfectly with your investment strategy and business goals in Rohtak."
     ],
     "buttons": [
-      { "label": "Explore Premium Shop Listings", "path": "/listings" },
-      { "label": "Calculate Commercial ROI", "path": "/roi-calculator" }
+      {
+        "label": "Explore Premium Shop Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Calculate Commercial ROI",
+        "path": "/roi-calculator"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Investment Opportunities for Shops in Sector 3 Rohtak",
@@ -52,12 +61,56 @@
       "Beyond its immediate borders Sector 3 connects seamlessly to larger Rohtak markets via the Delhi Bypass and other arterial roads enhancing its catchment area significantly. Proximity to institutional areas and major hospitals further guarantees continuous footfall throughout the day seven days a week. Investing in a shop here means leveraging the overall economic growth of Rohtak city while benefiting from the localized commercial clustering that characterizes Sector 3. Analyze the micro-market dynamics and discover why this sector is consistently favored by leading brands and local businesses alike seeking stability and rapid consumer penetration."
     ],
     "locations": [
-      "Sector 4 Residential Zone",
-      "Delhi Bypass Road Access",
-      "Model Town Commercial Area",
-      "Rohtak Railway Station Link",
-      "Gohana Road Intersection",
-      "Proximity to Educational Institutions"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to invest in one of Rohtak’s most promising commercial sectors. Our expert team is here to provide personalized advice market insights and exclusive listings of the best shops for sale in Sector 3. Do not miss the opportunity to secure a high-performing retail asset in this prime location.",
       "Contact us today to schedule a site visit or to receive a comprehensive investment prospectus detailing potential returns rental forecasts and available financing options. Let us help you transform your investment vision into a successful commercial reality."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

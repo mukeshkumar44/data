@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "sarsehri-house-rental-hero-1.jpg",
-      "sarsehri-locality-view-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,11 +61,56 @@
       "Explore rental opportunities not just within Sarsehri but also in neighboring areas like Ambala Cantt and Ambala City, which are easily accessible via well-maintained roads. This expanded search ensures you secure a house that meets all your criteria regarding commute, amenities, and lifestyle preferences in the wider Ambala region."
     ],
     "locations": [
-      "Sarsehri Main Road Rentals",
-      "Houses Near Sarsehri Railway Crossing",
-      "Residential Properties Adjoining Ambala Cantt",
-      "Homes close to local markets in Sarsehri",
-      "New Construction Rentals in Sarsehri Extension"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

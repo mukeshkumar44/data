@@ -7,10 +7,19 @@
       "Investing in a flat here means securing a high-growth asset in one of the region's most reputable addresses. Our listed properties feature high-quality construction contemporary amenities and clear legal titles ensuring a smooth and hassle-free purchase process. Explore various configurations today and take the first step toward owning a premium residential Flat For Sale in palam vihar pocket h. We are dedicated to helping you find the ideal property that matches your vision of perfect metropolitan living and excellent returns."
     ],
     "buttons": [
-      { "label": "Explore Available Flats", "path": "/properties/pocket-h" },
-      { "label": "Request a Callback", "path": "/contact" }
+      {
+        "label": "Explore Available Flats",
+        "path": "/properties/pocket-h"
+      },
+      {
+        "label": "Request a Callback",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Understanding Apartment Sizes and Investment Potential in palam vihar pocket h Residential Flats",
@@ -52,14 +61,56 @@
       "Beyond transport infrastructure the area is surrounded by top-tier educational institutions world-class healthcare facilities and vibrant retail centers. Everything you need from daily groceries to emergency medical care is just minutes away enhancing the convenience and quality of life for those purchasing a Flat For Sale in palam vihar pocket h. The blend of tranquil residential atmosphere and immediate access to urban amenities defines the unique appeal of this pocket."
     ],
     "locations": [
-      "IGI Delhi Airport Terminal 3",
-      "Dwarka Expressway Access Point",
-      "Leading Multi-Specialty Hospitals",
-      "Top Rated International Schools",
-      "Gurgaon Cyber City Business Hub",
-      "Major Retail Malls and Markets",
-      "Palam Vihar Metro Station Access",
-      "NH48 Delhi Jaipur Highway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure your high-value residential property in the prestigious Palam Vihar Pocket H area. Our team of experienced real estate professionals is here to provide personalized advice and curated listings that perfectly match your investment or residency goals. Do not miss out on the best opportunities available in this premium Gurgaon location.",
       "Submit your details below to receive a comprehensive property catalogue virtual tour links and expert consultation on legal and financing aspects. Take the crucial step towards owning your dream Flat For Sale in palam vihar pocket h now."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

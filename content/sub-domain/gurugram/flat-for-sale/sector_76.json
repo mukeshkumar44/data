@@ -7,10 +7,19 @@
       "Whether you are searching for a compact 2 BHK or a luxurious 4 BHK apartment, this locality promises exceptional value for both end-users and long-term investors. Enjoy easy connectivity to major highways, business hubs, and educational institutions, ensuring a balanced lifestyle free from the hustle of central city traffic. Explore our curated listings today and take the first step toward securing your dream residence in Sector 76 Gurugram. These flats are ready to move or available through trusted builder projects, offering flexible payment plans and clear documentation for a smooth buying experience."
     ],
     "buttons": [
-      { "label": "Explore Available Flats", "path": "/listings" },
-      { "label": "Request a Callback", "path": "/contact" }
+      {
+        "label": "Explore Available Flats",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Callback",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Premium Amenities and Diverse Flat Configurations in Sector 76 Residences",
@@ -52,14 +61,56 @@
       "Residents benefit from well-developed social infrastructure, with multiple reputed schools, world-class hospitals, and extensive retail developments situated just minutes away. The area is marked by broad roads, planned utility services, and a commitment by the local authorities to maintain high standards of civic amenities. This combination of location advantage and developmental planning makes purchasing a flat in Sector 76 an exceptionally wise decision for modern families seeking convenience and future growth."
     ],
     "locations": [
-      "NH 44 Highway Access",
-      "Modern Educational Institutions",
-      "Quality Healthcare Facilities",
-      "Upcoming Metro Link Proximity",
-      "Major Commercial Hubs",
-      "Shopping Malls and Retail Parks",
-      "Green Belt Areas and Parks",
-      "Good Public Transportation Links"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

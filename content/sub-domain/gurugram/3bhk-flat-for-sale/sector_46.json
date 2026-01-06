@@ -7,10 +7,19 @@
       "A 3BHK flat for sale in Sector 46 represents more than just a purchase it is an investment in your future well-being. This area benefits from immediate access to major roads esteemed schools and established commercial markets making daily life effortless. Review our curated listings of verified properties which include builder floors and high-rise apartments all featuring spacious layouts and superior construction quality. Start your search today and step into the vibrant community of Sector 46 Gurugram."
     ],
     "buttons": [
-      { "label": "View Verified 3BHK Listings", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View Verified 3BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Premium Features Defining the Best 3BHK Flat For Sale in Sector 46 Gurugram",
@@ -52,13 +61,56 @@
       "The locality is well-served by public transport networks and the HUDA City Centre Metro Station is just a short drive away enhancing regional access. Furthermore Sector 46 is surrounded by mature social infrastructure including reputed hospitals like Medanta The Medicity top schools and abundant shopping destinations ensuring all daily necessities are within easy reach. This balance of infrastructure and accessibility is why the 3BHK flat for sale in Sector 46 Gurugram market remains robust."
     ],
     "locations": [
-      "HUDA City Centre Metro Station",
-      "Medanta The Medicity Hospital",
-      "Sohna Road Commercial Hub",
-      "Golf Course Road Extension",
-      "NH 48 Delhi Jaipur Highway",
-      "Cyber City Gurugram",
-      "Major Retail Malls and Markets"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

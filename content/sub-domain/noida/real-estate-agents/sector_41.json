@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Comprehensive Real Estate Services Offered by Our Agents in Sector 41 Noida",
@@ -58,14 +61,56 @@
       "Beyond Sector 41, our agents seamlessly handle transactions in contiguous areas that offer diverse investment profiles, ranging from high-rise luxury towers to developing investment plots. We help you compare value propositions across different micro-markets like Sector 37, Sector 50, and Sector 39, ensuring your choice aligns perfectly with your budget, lifestyle needs, and long-term financial goals. We provide detailed comparative market analysis for flats for sale in Sector 41 Noida and surrounding areas, empowering you to make informed decisions."
     ],
     "locations": [
-      "Premium Builder Floors in Sector 41",
-      "Independent Houses for Sale Near Dadri Road",
-      "Residential Apartments in Sector 50 Noida",
-      "Commercial Spaces Near Atta Market",
-      "Plots for Custom Building in Adjacent Sectors",
-      "Rental Properties and Lease Management Services",
-      "Ready-to-Move-In Homes in Central Noida",
-      "Investment Opportunities in Affordable Housing"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

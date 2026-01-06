@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero-3bhk-new-gurgaon-1.jpg",
-      "/images/hero-3bhk-new-gurgaon-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Whether you prioritise proximity to the Dwarka Expressway or prefer the established community feel near the National Highway, New Gurgaon provides suitable options. We focus on sectors with proven infrastructure delivery and strong growth forecasts for your 3BHK investment."
     ],
     "locations": [
-      "Sector 81 Gurugram",
-      "Sector 82 Gurugram",
-      "Sector 83 Gurugram",
-      "Sector 84 Gurugram",
-      "Sector 90 Gurugram",
-      "Sector 92 Gurugram",
-      "Sector 95 Gurugram",
-      "Sector 102 Dwarka Expressway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

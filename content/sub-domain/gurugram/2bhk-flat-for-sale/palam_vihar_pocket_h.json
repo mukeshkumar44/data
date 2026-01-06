@@ -7,10 +7,19 @@
       "These apartments offer optimized layouts, excellent natural light, and access to all essential conveniences right outside your doorstep. Begin your property search here and discover why this specific pocket remains highly sought after for its combination of value and lifestyle quality. Secure your future home in a thriving Gurugram location with our expert guidance."
     ],
     "buttons": [
-      { "label": "Explore 2BHK Listings Now", "path": "/listings" },
-      { "label": "Request a Free Consultation", "path": "/contact" }
+      {
+        "label": "Explore 2BHK Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Free Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/2bhk_palamvihar_h1.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Features and Lifestyle Benefits of Buying a 2BHK Flat in Palam Vihar Pocket H",
@@ -52,12 +61,56 @@
       "For daily needs and lifestyle shopping, the sector benefits from numerous local markets and nearby malls like Ansal Plaza. The area’s close proximity to the Dwarka Expressway and NH-48 ensures that traveling to Delhi, major corporate offices, and other parts of Gurugram is quick and efficient. This strong infrastructural backbone makes Palam Vihar Pocket H an ideal spot for those seeking a blend of quiet residential life and urban connectivity. Investing in a 2BHK flat here guarantees that all necessary amenities—from banks and gyms to parks and restaurants—are always within easy reach, enhancing the quality of life significantly for all residents."
     ],
     "locations": [
-      "IGI Airport Delhi",
-      "Dwarka Expressway Access",
-      "Columbia Asia Hospital",
-      "DPS Palam Vihar School",
-      "Ansal Plaza Mall",
-      "Palam Vihar Local Market"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to explore the best available 2BHK flats for sale in Palam Vihar Pocket H Gurugram? Contact our expert real estate advisors today. We provide personalized tours, detailed property briefings, and transparent financial guidance to help you make an informed decision about your next home purchase. Let us know your specific requirements and budget, and we will curate a list of verified properties that perfectly align with your needs.",
       "Do not miss the opportunity to invest in one of Gurugram’s most reliable and growing residential neighborhoods. Fill out the simple contact form below or call us directly to take the next step towards owning your dream 2BHK flat in Palam Vihar Pocket H. Your future home awaits."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

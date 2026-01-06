@@ -7,10 +7,19 @@
       "Sector 112 is strategically located providing seamless access to major business districts educational institutions and robust social infrastructure. We understand that finding the right rental property can be challenging which is why we offer expert guidance tailored search filters and detailed property information to simplify your journey. Start exploring the finest rental apartments today and step into your new home environment with confidence."
     ],
     "buttons": [
-      { "label": "View Verified Rental Listings", "path": "/listings" },
-      { "label": "Contact Rental Specialists", "path": "/contact" }
+      {
+        "label": "View Verified Rental Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Contact Rental Specialists",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_image_flat_112.jpg", "apartment_view_112.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Residential Options and Premium Flat Types Available in Sector 112",
@@ -52,13 +61,56 @@
       "We highlight key location advantages that make Sector 112 not just a place to live but a strategic location for career growth and family well-being ensuring every necessity is within a short driving distance."
     ],
     "locations": [
-      "Major Expressway Access",
-      "IT and Corporate Hubs",
-      "Top Educational Institutions",
-      "Premier Healthcare Facilities",
-      "Retail Malls and Entertainment Centers",
-      "Upcoming Metro Connectivity",
-      "Dedicated Green Spaces and Parks"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -154,6 +206,11 @@
       "Ready to move into your new home Our team of local rental experts is here to guide you through the entire process from initial search to final key handover. We provide personalized property recommendations based on your budget and lifestyle needs.",
       "Fill out the form below or call us directly to schedule a viewing of the best rental properties currently available in Sector 112."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Ready Possession House Options and Property Types in Prem Nagar Ambala",
@@ -58,12 +61,56 @@
       "Furthermore, the area is surrounded by established commercial hubs, providing residents quick access to daily necessities, shopping centers, and entertainment venues. When you purchase a House For Sale in Prem Nagar, you are not just buying property; you are investing in a lifestyle supported by robust infrastructure. We highlight properties that offer the best balance of tranquility and accessibility, ensuring you are never far from what you need. Consider homes close to the main market for convenience or properties located deeper in the residential pockets for maximum peace. Our listings provide detailed local maps and connectivity analysis for every property."
     ],
     "locations": [
-      "Ambala City Railway Station",
-      "Ambala Cantt",
-      "NH 44 Access Points",
-      "Model Town Ambala",
-      "Main Prem Nagar Market",
-      "DAV College Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

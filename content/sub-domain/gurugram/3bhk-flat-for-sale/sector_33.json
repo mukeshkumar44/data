@@ -7,10 +7,19 @@
       "We showcase verified listings of premium 3BHK apartments that combine luxury with practicality. Sector 33 benefits significantly from its proximity to major corporate hubs, excellent road networks, and top educational institutions, making it an excellent investment choice. Secure your family's future in a vibrant community known for its infrastructure and seamless connectivity across the Delhi-NCR region. Explore our curated selection and take the first step toward owning your dream home."
     ],
     "buttons": [
-      { "label": "View Available 3BHK Listings", "path": "/listings" },
-      { "label": "Schedule A Site Visit Now", "path": "/contact" }
+      {
+        "label": "View Available 3BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule A Site Visit Now",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore the Unmatched Lifestyle and Investment Potential of 3BHK Flats in Sector 33",
@@ -52,14 +61,56 @@
       "The connectivity here is truly exceptional, bridging key areas like Golf Course Road, Sohna Road, and the National Highway. Residents enjoy immediate access to premier shopping malls, renowned hospitals, and some of the best international schools, cementing Sector 33 as a preferred residential hotspot for families looking for convenience and quality of life."
     ],
     "locations": [
-      "Subhash Chowk",
-      "Sohna Road Commercial Belt",
-      "Sector 32 Institutional Area",
-      "NH-48 Connectivity",
-      "Medanta The Medicity Hospital",
-      "Rajiv Chowk Interchange",
-      "GD Goenka Public School",
-      "Cyber Hub Business District"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure your premium 3BHK Flat For Sale in Sector 33 Gurugram Stop searching and start owning. Our dedicated team of property specialists is ready to provide personalized consultations, detailed property tours, and tailored investment advice.",
       "Reach out today to discuss your specific requirements, receive the latest price list, and schedule a private viewing of the finest available 3BHK units. We are committed to making your property buying journey effortless and successful."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

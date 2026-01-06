@@ -7,10 +7,19 @@
       "Sector 75 boasts exceptional connectivity and world-class amenities making it a highly desirable location for families and professionals alike. Navigating its complex property landscape requires a guide who can access off-market listings and negotiate effectively. Trust our verified network of agents to handle every detail from property valuation and legal due diligence to finalizing registration. Start your stress-free property transaction today by engaging with the leading experts in Sector 75 real estate."
     ],
     "buttons": [
-      { "label": "Find My Agent Now", "path": "/contact" },
-      { "label": "View Sector 75 Listings", "path": "/listings" }
+      {
+        "label": "Find My Agent Now",
+        "path": "/contact"
+      },
+      {
+        "label": "View Sector 75 Listings",
+        "path": "/listings"
+      }
     ],
-    "images": ["hero-agent-sector75.jpg", "sector75-skyline.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Services Provided by Leading Real Estate Agents in Sector 75 Noida",
@@ -19,12 +28,30 @@
       "Sector 75 is known for its diverse housing inventory ranging from compact 2 BHK units to sprawling luxury penthouses. An agent's core function is to filter this extensive market based strictly on your requirements saving you precious time and effort. Furthermore, they are skilled negotiators capable of achieving favorable terms and protecting your investment. Leverage their network of established legal and financial professionals to streamline paperwork and secure financing swiftly. When you choose a professional agent, you are investing in peace of mind and superior results for your property dealings in Sector 75 Noida."
     ],
     "features": [
-      { "title": "Luxury Apartment Sales", "description": "Specialized representation for high-value properties in Sector 75 including 4 BHK and penthouse units. Our agents discreetly manage the sale process ensuring confidentiality and attracting qualified high-net-worth buyers through exclusive channels and targeted marketing strategies." },
-      { "title": "Resale Property Expertise", "description": "Focused service for navigating the resale market in Sector 75 Noida. Agents provide accurate valuation based on comparable sales data and market trends ensuring you set a realistic price that maximizes return while minimizing time on market. We simplify complex title transfer documentation." },
-      { "title": "Rental Portfolio Management", "description": "Comprehensive services for landlords seeking reliable tenants and consistent rental income in Sector 75. This includes tenant screening, lease agreement drafting, rent collection, and property maintenance coordination ensuring your investment remains profitable and hassle-free." },
-      { "title": "New Project Launch Access", "description": "Gain priority access to upcoming residential and commercial projects within or near Sector 75. Our agents have direct relationships with top developers providing you with early booking advantages, better unit selections, and developer incentives not available to the general public." },
-      { "title": "Legal and Due Diligence", "description": "Thorough examination of property titles, municipal clearances, and RERA compliance. Our agents coordinate with legal counsel to ensure that every transaction in Sector 75 is transparent, legally sound, and free from future disputes protecting your financial security completely." },
-      { "title": "First Time Home Buyer Guidance", "description": "Dedicated support tailored for individuals making their first property purchase in Sector 75 Noida. We demystify the mortgage process, explain all associated costs, and guide you step-by-step from initial search to final key handover making the experience exciting not intimidating." }
+      {
+        "title": "Luxury Apartment Sales",
+        "description": "Specialized representation for high-value properties in Sector 75 including 4 BHK and penthouse units. Our agents discreetly manage the sale process ensuring confidentiality and attracting qualified high-net-worth buyers through exclusive channels and targeted marketing strategies."
+      },
+      {
+        "title": "Resale Property Expertise",
+        "description": "Focused service for navigating the resale market in Sector 75 Noida. Agents provide accurate valuation based on comparable sales data and market trends ensuring you set a realistic price that maximizes return while minimizing time on market. We simplify complex title transfer documentation."
+      },
+      {
+        "title": "Rental Portfolio Management",
+        "description": "Comprehensive services for landlords seeking reliable tenants and consistent rental income in Sector 75. This includes tenant screening, lease agreement drafting, rent collection, and property maintenance coordination ensuring your investment remains profitable and hassle-free."
+      },
+      {
+        "title": "New Project Launch Access",
+        "description": "Gain priority access to upcoming residential and commercial projects within or near Sector 75. Our agents have direct relationships with top developers providing you with early booking advantages, better unit selections, and developer incentives not available to the general public."
+      },
+      {
+        "title": "Legal and Due Diligence",
+        "description": "Thorough examination of property titles, municipal clearances, and RERA compliance. Our agents coordinate with legal counsel to ensure that every transaction in Sector 75 is transparent, legally sound, and free from future disputes protecting your financial security completely."
+      },
+      {
+        "title": "First Time Home Buyer Guidance",
+        "description": "Dedicated support tailored for individuals making their first property purchase in Sector 75 Noida. We demystify the mortgage process, explain all associated costs, and guide you step-by-step from initial search to final key handover making the experience exciting not intimidating."
+      }
     ]
   },
   "locationsSection": {
@@ -34,14 +61,56 @@
       "Exploring nearby areas allows clients to compare price points, amenity availability, and future growth potential seamlessly. We facilitate transactions in these highly sought-after neighboring sectors ensuring a broad spectrum of choices for both residential living and strategic investment purposes."
     ],
     "locations": [
-      "Sector 74 Noida",
-      "Sector 76 Noida",
-      "Sector 77 Noida",
-      "Sector 78 Noida",
-      "Sector 50 Noida",
-      "Sector 49 Noida",
-      "Central Noida Extension",
-      "Greater Noida West"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -51,30 +120,84 @@
       "Our commitment goes beyond merely listing properties or showing homes. We focus on building lasting relationships, offering objective advice, and utilizing cutting-edge technology to provide you with a superior real estate experience that is efficient, confidential, and delivers maximum value."
     ],
     "points": [
-      { "title": "Unmatched Local Market Insight", "description": "Our Real Estate Agents in Sector 75 possess granular, street-level knowledge of the micro-markets, building-specific price movements, and upcoming developments. This deep insight allows for highly precise property valuations and targeted search strategies that save you time and ensure excellent investment potential." },
-      { "title": "Verified Client Testimonials", "description": "We only partner with agents who have demonstrated a strong track record of successful transactions and high client satisfaction verified through independent reviews. You benefit from working with proven professionals who prioritize ethical practices and transparent communication throughout the dealing." },
-      { "title": "Negotiation Mastery and Value Extraction", "description": "Skilled negotiation is crucial whether you are buying or selling. Our agents are trained to advocate fiercely for your interests ensuring the best possible price and favorable terms. We aim to extract maximum value from every transaction minimizing your cost or maximizing your profit margin significantly." },
-      { "title": "Access to Off-Market Listings", "description": "Many prime properties in Sector 75 are sold before they ever hit public listing platforms. Our expansive professional network provides exclusive access to these desirable off-market properties giving you a competitive edge in securing rare and high-demand units immediately." },
-      { "title": "Full Legal and Compliance Support", "description": "Navigating Noida's property laws, RERA regulations, and documentation requirements can be daunting. Our affiliated agents provide robust legal support coordinating documentation and checks to ensure your transaction is fully compliant and legally sound avoiding future complications." },
-      { "title": "Personalized Search Algorithms", "description": "We utilize advanced technology to match your specific needs with available listings in Sector 75 and surrounding areas instantly. This personalized approach filters irrelevant properties allowing your agent to focus only on homes that truly meet your aesthetic, budgetary, and locational criteria." },
-      { "title": "Seamless Transaction Management", "description": "From the initial property viewing to the final registration and key handover, our agents manage all logistical and administrative complexities. This comprehensive approach ensures a smooth, stress-free closing process allowing you to focus on your move or next investment decision easily." },
-      { "title": "Post-Sale Integration Assistance", "description": "Our service does not end at closing. Real Estate Agents in Sector 75 offer valuable post-sale assistance including connecting you with reliable movers, interior designers, and local utility service providers ensuring a seamless transition into your new Sector 75 home or investment property." }
+      {
+        "title": "Unmatched Local Market Insight",
+        "description": "Our Real Estate Agents in Sector 75 possess granular, street-level knowledge of the micro-markets, building-specific price movements, and upcoming developments. This deep insight allows for highly precise property valuations and targeted search strategies that save you time and ensure excellent investment potential."
+      },
+      {
+        "title": "Verified Client Testimonials",
+        "description": "We only partner with agents who have demonstrated a strong track record of successful transactions and high client satisfaction verified through independent reviews. You benefit from working with proven professionals who prioritize ethical practices and transparent communication throughout the dealing."
+      },
+      {
+        "title": "Negotiation Mastery and Value Extraction",
+        "description": "Skilled negotiation is crucial whether you are buying or selling. Our agents are trained to advocate fiercely for your interests ensuring the best possible price and favorable terms. We aim to extract maximum value from every transaction minimizing your cost or maximizing your profit margin significantly."
+      },
+      {
+        "title": "Access to Off-Market Listings",
+        "description": "Many prime properties in Sector 75 are sold before they ever hit public listing platforms. Our expansive professional network provides exclusive access to these desirable off-market properties giving you a competitive edge in securing rare and high-demand units immediately."
+      },
+      {
+        "title": "Full Legal and Compliance Support",
+        "description": "Navigating Noida's property laws, RERA regulations, and documentation requirements can be daunting. Our affiliated agents provide robust legal support coordinating documentation and checks to ensure your transaction is fully compliant and legally sound avoiding future complications."
+      },
+      {
+        "title": "Personalized Search Algorithms",
+        "description": "We utilize advanced technology to match your specific needs with available listings in Sector 75 and surrounding areas instantly. This personalized approach filters irrelevant properties allowing your agent to focus only on homes that truly meet your aesthetic, budgetary, and locational criteria."
+      },
+      {
+        "title": "Seamless Transaction Management",
+        "description": "From the initial property viewing to the final registration and key handover, our agents manage all logistical and administrative complexities. This comprehensive approach ensures a smooth, stress-free closing process allowing you to focus on your move or next investment decision easily."
+      },
+      {
+        "title": "Post-Sale Integration Assistance",
+        "description": "Our service does not end at closing. Real Estate Agents in Sector 75 offer valuable post-sale assistance including connecting you with reliable movers, interior designers, and local utility service providers ensuring a seamless transition into your new Sector 75 home or investment property."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Real Estate Agents in Sector 75 Noida",
     "description": "Get clear, concise answers to the most common inquiries regarding property transactions, agent roles, and market conditions within Sector 75 Noida.",
     "faqs": [
-      { "question": "What core services do Real Estate Agents in Sector 75 offer to home buyers", "answer": "Top agents in Sector 75 offer a comprehensive suite of services including detailed market analysis to determine fair pricing, personalized property shortlisting based on client needs, arranging and conducting site visits efficiently, skilled negotiation on the buyer's behalf, and coordination of legal due diligence and documentation. They act as your single point of contact simplifying the entire acquisition process from initial search through to final property registration." },
-      { "question": "How should I choose the best Real Estate Agent for selling my property in Sector 75", "answer": "Selecting the best agent involves reviewing their recent sales track record specifically within Sector 75, assessing their marketing strategy including digital exposure and networking reach, and evaluating their expertise in property valuation. Choose an agent who can provide evidence of successfully handling comparable properties in your specific society or locality ensuring they understand the local buyer pool and pricing nuances effectively." },
-      { "question": "What are the standard brokerage charges for agents operating in Sector 75 Noida", "answer": "Brokerage charges typically vary based on the nature of the transaction sale purchase or rental and the value of the property. For buying or selling residential property in Sector 75, the standard fee ranges between 1% to 2% of the total transaction value charged to both the buyer and the seller. For rentals, agents generally charge one month's rent. Always confirm the exact fee structure in writing before entering into a representation agreement with your chosen agent." },
-      { "question": "Is Sector 75 a good area for real estate investment right now considering future growth", "answer": "Sector 75 Noida is widely considered a prime location for investment due to its strategic connectivity to the DND flyway and major commercial sectors like Sector 62 and 63. The area benefits from developed social infrastructure including schools, hospitals, and shopping centers ensuring sustained rental demand and steady capital appreciation. Its proximity to the upcoming metro expansion further solidifies its position as a robust long-term investment destination." },
-      { "question": "Can agents help me verify the RERA registration status of a project in Sector 75", "answer": "Absolutely. A crucial role of expert Real Estate Agents in Sector 75 is to conduct thorough verification checks on all aspects of a property, including mandatory RERA registration for all new and ongoing projects. They will ensure that the developer has met all regulatory requirements providing documentation that confirms legal compliance and protects you from potential regulatory risks or delays associated with unauthorized construction." },
-      { "question": "What documentation should I prepare before meeting a real estate agent for selling my flat in Sector 75", "answer": "Before listing your property, you should gather essential documents including the original Sale Deed or Conveyance Deed, latest property tax receipts, electricity and water bills, No Objection Certificates NOCs from the housing society, and approved building plans. Having these documents ready significantly speeds up the verification process and demonstrates serious intent to potential buyers and their agents." },
-      { "question": "How do agents determine the correct listing price for property in Sector 75 Noida", "answer": "Agents use a sophisticated blend of methods including Comparative Market Analysis CMA where they evaluate recent sales prices of similar properties in the immediate vicinity of Sector 75. They also factor in the property’s specific condition, amenities offered by the society, floor level, and current market demand trends. This ensures the listing price is competitive yet maximizes the seller’s return accurately." },
-      { "question": "What is the typical time frame for selling a residential flat in Sector 75 through an experienced agent", "answer": "While market conditions fluctuate, a well-priced, attractive residential property in Sector 75 typically sells within 60 to 120 days when listed through an experienced agent. Properties that require substantial repairs or are incorrectly priced may take longer. An effective agent will work actively to secure an offer quickly by utilizing professional marketing and wide network exposure." },
-      { "question": "Do I need a separate legal representative if I am using a Real Estate Agent in Sector 75", "answer": "While Real Estate Agents in Sector 75 provide robust guidance on standard documentation and processes, it is always highly recommended to engage an independent real estate lawyer. The lawyer’s role is to provide unbiased legal advice, review complex contractual clauses, and ensure your specific interests are fully protected during the negotiation and closing phases of the transaction." },
-      { "question": "What role does the agent play during the final property registration process in Noida", "answer": "The agent coordinates extensively during the registration phase. They liaise between the buyer, seller, financial institutions, and the Sub-Registrar's Office. This involves ensuring all stamp duty payments are correct, documents are executed properly, and all parties are present on the scheduled registration date facilitating a smooth and legally compliant transfer of property title effectively." }
+      {
+        "question": "What core services do Real Estate Agents in Sector 75 offer to home buyers",
+        "answer": "Top agents in Sector 75 offer a comprehensive suite of services including detailed market analysis to determine fair pricing, personalized property shortlisting based on client needs, arranging and conducting site visits efficiently, skilled negotiation on the buyer's behalf, and coordination of legal due diligence and documentation. They act as your single point of contact simplifying the entire acquisition process from initial search through to final property registration."
+      },
+      {
+        "question": "How should I choose the best Real Estate Agent for selling my property in Sector 75",
+        "answer": "Selecting the best agent involves reviewing their recent sales track record specifically within Sector 75, assessing their marketing strategy including digital exposure and networking reach, and evaluating their expertise in property valuation. Choose an agent who can provide evidence of successfully handling comparable properties in your specific society or locality ensuring they understand the local buyer pool and pricing nuances effectively."
+      },
+      {
+        "question": "What are the standard brokerage charges for agents operating in Sector 75 Noida",
+        "answer": "Brokerage charges typically vary based on the nature of the transaction sale purchase or rental and the value of the property. For buying or selling residential property in Sector 75, the standard fee ranges between 1% to 2% of the total transaction value charged to both the buyer and the seller. For rentals, agents generally charge one month's rent. Always confirm the exact fee structure in writing before entering into a representation agreement with your chosen agent."
+      },
+      {
+        "question": "Is Sector 75 a good area for real estate investment right now considering future growth",
+        "answer": "Sector 75 Noida is widely considered a prime location for investment due to its strategic connectivity to the DND flyway and major commercial sectors like Sector 62 and 63. The area benefits from developed social infrastructure including schools, hospitals, and shopping centers ensuring sustained rental demand and steady capital appreciation. Its proximity to the upcoming metro expansion further solidifies its position as a robust long-term investment destination."
+      },
+      {
+        "question": "Can agents help me verify the RERA registration status of a project in Sector 75",
+        "answer": "Absolutely. A crucial role of expert Real Estate Agents in Sector 75 is to conduct thorough verification checks on all aspects of a property, including mandatory RERA registration for all new and ongoing projects. They will ensure that the developer has met all regulatory requirements providing documentation that confirms legal compliance and protects you from potential regulatory risks or delays associated with unauthorized construction."
+      },
+      {
+        "question": "What documentation should I prepare before meeting a real estate agent for selling my flat in Sector 75",
+        "answer": "Before listing your property, you should gather essential documents including the original Sale Deed or Conveyance Deed, latest property tax receipts, electricity and water bills, No Objection Certificates NOCs from the housing society, and approved building plans. Having these documents ready significantly speeds up the verification process and demonstrates serious intent to potential buyers and their agents."
+      },
+      {
+        "question": "How do agents determine the correct listing price for property in Sector 75 Noida",
+        "answer": "Agents use a sophisticated blend of methods including Comparative Market Analysis CMA where they evaluate recent sales prices of similar properties in the immediate vicinity of Sector 75. They also factor in the property’s specific condition, amenities offered by the society, floor level, and current market demand trends. This ensures the listing price is competitive yet maximizes the seller’s return accurately."
+      },
+      {
+        "question": "What is the typical time frame for selling a residential flat in Sector 75 through an experienced agent",
+        "answer": "While market conditions fluctuate, a well-priced, attractive residential property in Sector 75 typically sells within 60 to 120 days when listed through an experienced agent. Properties that require substantial repairs or are incorrectly priced may take longer. An effective agent will work actively to secure an offer quickly by utilizing professional marketing and wide network exposure."
+      },
+      {
+        "question": "Do I need a separate legal representative if I am using a Real Estate Agent in Sector 75",
+        "answer": "While Real Estate Agents in Sector 75 provide robust guidance on standard documentation and processes, it is always highly recommended to engage an independent real estate lawyer. The lawyer’s role is to provide unbiased legal advice, review complex contractual clauses, and ensure your specific interests are fully protected during the negotiation and closing phases of the transaction."
+      },
+      {
+        "question": "What role does the agent play during the final property registration process in Noida",
+        "answer": "The agent coordinates extensively during the registration phase. They liaise between the buyer, seller, financial institutions, and the Sub-Registrar's Office. This involves ensuring all stamp duty payments are correct, documents are executed properly, and all parties are present on the scheduled registration date facilitating a smooth and legally compliant transfer of property title effectively."
+      }
     ]
   },
   "contactSection": {
@@ -83,6 +206,11 @@
       "Take the first step towards a successful property transaction in Sector 75 Noida. Tell us about your buying, selling, or rental requirements and we will match you with a top-rated agent who specializes in your specific needs.",
       "Stop wasting time navigating the overwhelming market alone. Connect with the local experts who have the keys to Sector 75’s finest properties and the proven strategies to achieve your financial objectives rapidly."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

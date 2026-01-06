@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "shop_sector35_hero1.jpg",
-      "shop_sector35_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "This location draws traffic from affluent residential areas nearby guaranteeing a consistent stream of potential customers. Investing in a Shop For Sale here means choosing convenience visibility and an established consumer market guaranteeing your business or rental income thrives."
     ],
     "locations": [
-      "Proximity to NH9 ensuring easy interstate access",
-      "Direct linkage to Rohtak City Centre via main arterial roads",
-      "Surrounded by large residential projects and housing societies",
-      "Close proximity to educational institutions driving student footfall",
-      "Well-connected through dedicated public transport routes",
-      "Easy access to established banking and service hubs nearby"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

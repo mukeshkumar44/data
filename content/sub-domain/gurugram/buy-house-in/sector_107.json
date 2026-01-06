@@ -7,10 +7,19 @@
       "We offer a curated selection of independent houses, builder floors, and residential plots designed to meet diverse needs and budgets. Whether you are searching for a compact 3 BHK unit or a sprawling independent villa, our listings in Sector 107 are verified and vetted for clear titles and optimal compliance. Secure your dream home today and experience the unparalleled convenience of living in one of Gurugram's most promising real estate destinations. Let us help you navigate the process to buy house in Sector 107 seamlessly."
     ],
     "buttons": [
-      { "label": "Explore Houses for Sale", "path": "/houses-for-sale-sector-107" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/houses-for-sale-sector-107"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/sector107_house1.jpg", "/images/sector107_map.png"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore the Diverse Plot Sizes and Housing Configurations Available in Sector 107 Gurugram",
@@ -52,14 +61,56 @@
       "Furthermore, Sector 107 is surrounded by established social infrastructure. Reputable educational institutions like DPS and Euro International School are nearby, alongside world-class healthcare facilities such as Manipal Hospital. Proximity to major commercial hubs and upcoming metro extensions solidifies Sector 107 as a top contender for luxury residential investments. We highlight these crucial landmarks to demonstrate why this sector is the best place to buy house and settle down comfortably."
     ],
     "locations": [
-      "Dwarka Expressway Access",
-      "IGI Airport Connectivity",
-      "Multiplexes and Malls",
-      "Reputable Schools and Colleges",
-      "Major Healthcare Centres",
-      "Proposed Metro Corridor Proximity",
-      "Proximity to Cyber City",
-      "Easy Access to NH 48"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning your dream home in Sector 107 Gurugram The journey to buy house should be exciting and stress-free. Our team of seasoned property consultants possesses deep local market knowledge and can guide you through every phase, from initial selection to final legal documentation.",
       "Do not hesitate to reach out for personalized advice, site visits, and comprehensive market reports specific to Sector 107. Fill out the form below and let us help you find the perfect house that matches your lifestyle and investment goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

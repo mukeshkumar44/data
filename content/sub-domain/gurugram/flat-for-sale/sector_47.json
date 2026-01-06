@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "flat_sector_47_hero.jpg",
-      "sector_47_lifestyle.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "Residents benefit significantly from easy access to the Delhi Metro network ensuring quick and reliable public transport for daily commuters. Key commercial and industrial zones are just a short drive away making it an ideal choice for working professionals. This central location ensures that future appreciation of your investment remains strong."
     ],
     "locations": [
-      "Delhi-Mathura Expressway NH-44 Access",
-      "Huda Market Sector 47 Commercial Hub",
-      "Leading Schools and Educational Institutions",
-      "Nearest Metro Station Access Point",
-      "Major Corporate Office Parks Proximity",
-      "Local Shopping Centers and Retail Outlets"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

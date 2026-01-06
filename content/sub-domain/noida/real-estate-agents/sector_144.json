@@ -7,12 +7,18 @@
       "Working with experienced professionals is crucial in a fast-developing and highly regulated area like Sector 144 Noida. We streamline the entire transaction process, handling due diligence, complex negotiations, and extensive paperwork with utmost efficiency and care. Trust the leading property consultants committed to maximizing your return on investment in one of Noida's most sought-after and strategically located sectors. Connect with us today to start exploring exclusive off-market listings."
     ],
     "buttons": [
-      { "label": "View Residential Properties", "path": "/residential" },
-      { "label": "Consult Our Property Experts", "path": "/contact" }
+      {
+        "label": "View Residential Properties",
+        "path": "/residential"
+      },
+      {
+        "label": "Consult Our Property Experts",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "sector144_skyline.jpg",
-      "real_estate_agent_noida.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "Our specialized knowledge extends beyond Sector 144 itself. We provide comprehensive insights into surrounding sectors, understanding how developments like the upcoming Jewar Airport and various metro extensions impact the property valuations here. Rely on the local expertise of our Real Estate Agents in Sector 144 to guide you through the interconnected real estate landscape of South Noida."
     ],
     "locations": [
-      "Sector 143",
-      "Sector 145",
-      "Sector 150 Noida Sports City",
-      "Sector 137",
-      "Knowledge Park V",
-      "Greater Noida West"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

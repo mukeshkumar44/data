@@ -1,4 +1,3 @@
-
 {
   "domain": "www.exampleproperty.com",
   "hero": {
@@ -8,10 +7,19 @@
       "Whether you're looking to start a retail store, boutique, or any commercial venture, this shop provides the perfect space to grow your brand. Secure your future with a strategic investment in Dhulkot Ambala today."
     ],
     "buttons": [
-      { "label": "View Shop Details", "path": "/shop-details" },
-      { "label": "Contact Agent", "path": "/contact" }
+      {
+        "label": "View Shop Details",
+        "path": "/shop-details"
+      },
+      {
+        "label": "Contact Agent",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Shop Sizes and Features Available in Dhulkot Ambala",
@@ -20,12 +28,30 @@
       "With modern amenities and prime locations, these shops are ideal for entrepreneurs looking to establish a strong presence in Dhulkot Ambala."
     ],
     "features": [
-      { "title": "4 Marla Shop", "description": "Perfect for small retail businesses or boutiques, this 4 Marla shop offers ample space and visibility in a prime location." },
-      { "title": "6 Marla Shop", "description": "Ideal for medium-sized businesses, this 6 Marla shop provides extra space for inventory and customer comfort." },
-      { "title": "8 Marla Shop", "description": "A spacious 8 Marla shop suitable for larger retail stores or showrooms, offering excellent foot traffic and accessibility." },
-      { "title": "10 Marla Shop", "description": "This 10 Marla shop is perfect for businesses requiring significant display and storage space in a high-demand area." },
-      { "title": "12 Marla Shop", "description": "Designed for premium commercial use, this 12 Marla shop offers expansive space and prime location benefits." },
-      { "title": "14 Marla Shop", "description": "The largest option available, this 14 Marla shop is ideal for flagship stores or multi-purpose commercial ventures." }
+      {
+        "title": "4 Marla Shop",
+        "description": "Perfect for small retail businesses or boutiques, this 4 Marla shop offers ample space and visibility in a prime location."
+      },
+      {
+        "title": "6 Marla Shop",
+        "description": "Ideal for medium-sized businesses, this 6 Marla shop provides extra space for inventory and customer comfort."
+      },
+      {
+        "title": "8 Marla Shop",
+        "description": "A spacious 8 Marla shop suitable for larger retail stores or showrooms, offering excellent foot traffic and accessibility."
+      },
+      {
+        "title": "10 Marla Shop",
+        "description": "This 10 Marla shop is perfect for businesses requiring significant display and storage space in a high-demand area."
+      },
+      {
+        "title": "12 Marla Shop",
+        "description": "Designed for premium commercial use, this 12 Marla shop offers expansive space and prime location benefits."
+      },
+      {
+        "title": "14 Marla Shop",
+        "description": "The largest option available, this 14 Marla shop is ideal for flagship stores or multi-purpose commercial ventures."
+      }
     ]
   },
   "locationsSection": {
@@ -35,16 +61,56 @@
       "Each of these areas offers unique advantages, making them ideal for expanding your commercial footprint."
     ],
     "locations": [
-      "Ambala Cantt",
-      "Ambala City",
-      "Sector 7 Ambala",
-      "Sector 8 Ambala",
-      "Sector 9 Ambala",
-      "Sector 10 Ambala",
-      "Sector 11 Ambala",
-      "Sector 12 Ambala",
-      "Sector 13 Ambala",
-      "Sector 14 Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -54,30 +120,84 @@
       "From prime location to modern amenities, we ensure your business thrives in a competitive market."
     ],
     "points": [
-      { "title": "Prime Location", "description": "Dhulkot Ambala is a bustling commercial area with high foot traffic, ensuring maximum visibility and customer reach for your business." },
-      { "title": "Modern Infrastructure", "description": "Our shops are built with contemporary designs and high-quality materials, providing a professional and inviting space for your customers." },
-      { "title": "Excellent Connectivity", "description": "Located near major roads and transport hubs, Dhulkot Ambala offers easy access for both customers and suppliers." },
-      { "title": "High ROI Potential", "description": "Investing in a shop in Dhulkot Ambala promises significant returns due to the area's growing commercial demand and development." },
-      { "title": "Flexible Payment Plans", "description": "We offer customizable payment options to suit your financial needs, making it easier to secure your dream shop." },
-      { "title": "Secure Environment", "description": "Dhulkot Ambala is a safe and well-maintained area, ensuring peace of mind for business owners and customers alike." },
-      { "title": "Proximity to Residential Areas", "description": "Being close to residential colonies means a steady flow of local customers, boosting your business potential." },
-      { "title": "Future Growth Prospects", "description": "With ongoing development projects, Dhulkot Ambala is poised for exponential growth, making it a smart long-term investment." }
+      {
+        "title": "Prime Location",
+        "description": "Dhulkot Ambala is a bustling commercial area with high foot traffic, ensuring maximum visibility and customer reach for your business."
+      },
+      {
+        "title": "Modern Infrastructure",
+        "description": "Our shops are built with contemporary designs and high-quality materials, providing a professional and inviting space for your customers."
+      },
+      {
+        "title": "Excellent Connectivity",
+        "description": "Located near major roads and transport hubs, Dhulkot Ambala offers easy access for both customers and suppliers."
+      },
+      {
+        "title": "High ROI Potential",
+        "description": "Investing in a shop in Dhulkot Ambala promises significant returns due to the area's growing commercial demand and development."
+      },
+      {
+        "title": "Flexible Payment Plans",
+        "description": "We offer customizable payment options to suit your financial needs, making it easier to secure your dream shop."
+      },
+      {
+        "title": "Secure Environment",
+        "description": "Dhulkot Ambala is a safe and well-maintained area, ensuring peace of mind for business owners and customers alike."
+      },
+      {
+        "title": "Proximity to Residential Areas",
+        "description": "Being close to residential colonies means a steady flow of local customers, boosting your business potential."
+      },
+      {
+        "title": "Future Growth Prospects",
+        "description": "With ongoing development projects, Dhulkot Ambala is poised for exponential growth, making it a smart long-term investment."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shop For Sale in Dhulkot Ambala",
     "description": "Get answers to common queries about purchasing a shop in Dhulkot Ambala. Our experts are here to guide you through every step of your investment journey.",
     "faqs": [
-      { "question": "What is the price range for shops in Dhulkot Ambala", "answer": "The price of shops in Dhulkot Ambala varies based on size and location. Contact our agents for detailed pricing information tailored to your needs." },
-      { "question": "Are there any legal formalities involved in buying a shop in Dhulkot Ambala", "answer": "Yes, purchasing a shop involves legal documentation and approvals. Our team assists you with all necessary paperwork to ensure a smooth transaction." },
-      { "question": "Can I get a loan to buy a shop in Dhulkot Ambala", "answer": "Many banks and financial institutions offer loans for commercial properties. We can connect you with trusted partners for favorable loan options." },
-      { "question": "What types of businesses are suitable for shops in Dhulkot Ambala", "answer": "Shops in Dhulkot Ambala are ideal for retail stores, boutiques, electronics, groceries, and other commercial ventures due to high foot traffic." },
-      { "question": "How is the foot traffic in Dhulkot Ambala", "answer": "Dhulkot Ambala experiences consistent foot traffic, making it a lucrative location for businesses targeting local and visiting customers." },
-      { "question": "Are there any maintenance charges for shops in Dhulkot Ambala", "answer": "Maintenance charges depend on the property and its amenities. Our agents provide complete details about any associated costs upfront." },
-      { "question": "What amenities are available near shops in Dhulkot Ambala", "answer": "The area boasts excellent amenities including parking, security, and proximity to markets, schools, and hospitals, enhancing business viability." },
-      { "question": "Is Dhulkot Ambala a good place for long-term investment", "answer": "Absolutely. With ongoing development and increasing commercial activity, Dhulkot Ambala offers strong potential for long-term capital appreciation." },
-      { "question": "Can I visit the shop before making a decision", "answer": "Yes, we encourage site visits. Schedule an appointment with our agents to explore the shop and its surroundings in person." },
-      { "question": "What is the process for booking a shop in Dhulkot Ambala", "answer": "The booking process involves selecting your preferred shop, submitting necessary documents, and making an initial payment. Our team guides you through each step." }
+      {
+        "question": "What is the price range for shops in Dhulkot Ambala",
+        "answer": "The price of shops in Dhulkot Ambala varies based on size and location. Contact our agents for detailed pricing information tailored to your needs."
+      },
+      {
+        "question": "Are there any legal formalities involved in buying a shop in Dhulkot Ambala",
+        "answer": "Yes, purchasing a shop involves legal documentation and approvals. Our team assists you with all necessary paperwork to ensure a smooth transaction."
+      },
+      {
+        "question": "Can I get a loan to buy a shop in Dhulkot Ambala",
+        "answer": "Many banks and financial institutions offer loans for commercial properties. We can connect you with trusted partners for favorable loan options."
+      },
+      {
+        "question": "What types of businesses are suitable for shops in Dhulkot Ambala",
+        "answer": "Shops in Dhulkot Ambala are ideal for retail stores, boutiques, electronics, groceries, and other commercial ventures due to high foot traffic."
+      },
+      {
+        "question": "How is the foot traffic in Dhulkot Ambala",
+        "answer": "Dhulkot Ambala experiences consistent foot traffic, making it a lucrative location for businesses targeting local and visiting customers."
+      },
+      {
+        "question": "Are there any maintenance charges for shops in Dhulkot Ambala",
+        "answer": "Maintenance charges depend on the property and its amenities. Our agents provide complete details about any associated costs upfront."
+      },
+      {
+        "question": "What amenities are available near shops in Dhulkot Ambala",
+        "answer": "The area boasts excellent amenities including parking, security, and proximity to markets, schools, and hospitals, enhancing business viability."
+      },
+      {
+        "question": "Is Dhulkot Ambala a good place for long-term investment",
+        "answer": "Absolutely. With ongoing development and increasing commercial activity, Dhulkot Ambala offers strong potential for long-term capital appreciation."
+      },
+      {
+        "question": "Can I visit the shop before making a decision",
+        "answer": "Yes, we encourage site visits. Schedule an appointment with our agents to explore the shop and its surroundings in person."
+      },
+      {
+        "question": "What is the process for booking a shop in Dhulkot Ambala",
+        "answer": "The booking process involves selecting your preferred shop, submitting necessary documents, and making an initial payment. Our team guides you through each step."
+      }
     ]
   },
   "contactSection": {
@@ -86,6 +206,11 @@
       "Ready to invest in a shop in Dhulkot Ambala? Contact our expert team today for personalized assistance and detailed property information.",
       "Fill out the form below, and we’ll get back to you promptly with the best options tailored to your business needs."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

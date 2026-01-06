@@ -7,10 +7,19 @@
       "We offer a curated portfolio of commercial properties that meet stringent quality and location standards. Investing here means tapping into Noida's future growth corridor. Discover premium ground-floor retail shops, double-height spaces, and commercial units ready for immediate possession. Connect with our expert team today to unlock the best commercial opportunities in Sector 145 Noida before they are gone."
     ],
     "buttons": [
-      { "label": "Explore Available Shops", "path": "/shops-in-sector-145" },
-      { "label": "Get Investment Consultation", "path": "/contact-us" }
+      {
+        "label": "Explore Available Shops",
+        "path": "/shops-in-sector-145"
+      },
+      {
+        "label": "Get Investment Consultation",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Investment Options Exploring the Types of Shop for Sale in Sector 145",
@@ -51,7 +60,58 @@
       "Sector 145's commercial advantage lies primarily in its exceptional connectivity and structured development. Situated right off the Noida-Greater Noida Expressway, it offers effortless access for commuters and customers coming from Delhi, Ghaziabad, and Greater Noida. This sector is designed to be a self-sustained hub, surrounded by upscale residential projects like those in Sectors 144, 146, and 147, providing a ready captive audience for retail businesses.",
       "Furthermore, the forthcoming metro link expansion will drastically enhance foot traffic, guaranteeing long-term rental appreciation and strong capital growth for every shop for sale in Sector 145. Investors are increasingly prioritizing this area due to the clear vision of infrastructure development and the rapid pace of project completion. This blend of connectivity, catchment size, and modern planning secures Sector 145 as a premier commercial investment zone in the region."
     ],
-    "locations": []
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Key Reasons to Buy a Commercial Shop in Sector 145 Noida Now",

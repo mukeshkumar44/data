@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Investment Opportunities Finding the Right Residential Plot Size in Manav Chowk",
@@ -58,14 +61,56 @@
       "The area benefits from excellent road networks linking directly to NH 44 and major arterial routes connecting Ambala City and Ambala Cantt seamlessly. This strategic position ensures minimal commute times to essential destinations such as top schools, major healthcare facilities, and bustling commercial markets. Furthermore, planned infrastructure development in the Manav Chowk vicinity promises significant future growth potential, consistently driving up property values over the next decade. We highlight plots situated in areas with existing utility connections including reliable electricity, piped water supply, and established sewerage systems for ready development. Securing land here is securing a lifestyle defined by convenience and strong capital appreciation in the heart of Ambala's growth corridor."
     ],
     "locations": [
-      "Ambala City Railway Station",
-      "Ambala Cantt Junction",
-      "NH 44 Highway Access",
-      "Major Schools and Educational Institutions",
-      "Leading Healthcare Facilities in Ambala",
-      "Local Market and Shopping Complex Proximity",
-      "Easy Access to Chandigarh Road",
-      "Upcoming Commercial Development Zones"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

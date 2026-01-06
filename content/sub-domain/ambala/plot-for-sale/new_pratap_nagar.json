@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Understanding the Best Plot Sizes Available in New Pratap Nagar Ambala for Buyers",
@@ -58,12 +61,56 @@
       "The area benefits from excellent connectivity to the Ambala Chandigarh Highway and proximity to major railway junctions. Furthermore residents enjoy easy access to top educational institutions healthcare facilities and rapidly emerging commercial zones making day-to-day life exceptionally convenient and adding significant value to any plot purchase."
     ],
     "locations": [
-      "Near Ambala Chandigarh Highway",
-      "Proximity to Ambala Cantt Railway Station",
-      "Close to Major Educational Institutions",
-      "Access to Reputable Hospitals and Clinics",
-      "Developing Commercial and Retail Zones",
-      "Well-Maintained Internal Sector Roads"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

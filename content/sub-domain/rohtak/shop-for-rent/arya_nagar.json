@@ -16,13 +16,16 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Shop Sizes and Layouts for Rent in Prime Arya Nagar Locations",
     "description": [
       "Commercial real estate in Arya Nagar Rohtak is characterized by high demand, driven by its central location and established residential base. The success of your business heavily relies on selecting a shop size and layout that complements your operational requirements and target customer base. A small 4 Marla space might be perfect for a specialized service or boutique, whereas larger 10 to 14 Marla units are essential for major showrooms, banks, or large dining establishments that require extensive customer areas and back-office support. We categorize listings by practical business utility rather than just traditional measurement units, helping you visualize the potential of each space instantly.",
-      "Understanding the configuration\u2014be it road-facing frontage, proximity to parking, or floor height\u2014is paramount when looking for a shop for rent in Arya Nagar. Our listings detail these critical aspects, ensuring you avoid unnecessary site visits for unsuitable properties. We focus on transparent information regarding security deposits, lease durations, and maintenance responsibilities so you can budget accurately and confidently secure the best commercial property available right now."
+      "Understanding the configuration—be it road-facing frontage, proximity to parking, or floor height—is paramount when looking for a shop for rent in Arya Nagar. Our listings detail these critical aspects, ensuring you avoid unnecessary site visits for unsuitable properties. We focus on transparent information regarding security deposits, lease durations, and maintenance responsibilities so you can budget accurately and confidently secure the best commercial property available right now."
     ],
     "features": [
       {
@@ -58,13 +61,56 @@
       "Our network covers shops near essential service hubs and emerging commercial clusters within Arya Nagar and neighboring areas of Rohtak. This localized expertise ensures you avoid hidden pitfalls such as poor accessibility or limited parking, factors that can severely impact retail operations. Utilize our mapping tools to pinpoint the ideal shop for rent in Arya Nagar where your business can truly flourish and achieve long-term sustainability in this competitive market."
     ],
     "locations": [
-      "Main Market Road Arya Nagar",
-      "Near Railway Road Crossing Rohtak",
-      "Shops Facing Maharishi Dayanand University MDUs",
-      "Commercial Hub Near Sector 1 Rohtak",
-      "Pritam Nagar Retail Strip",
-      "Gandhi Nagar Commercial Area",
-      "Near Rohtak Bus Stand Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

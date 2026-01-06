@@ -1,4 +1,3 @@
-```json
 {
   "domain": "www.exampleproperty.com",
   "hero": {
@@ -8,10 +7,19 @@
       "Whether you're looking to start your own business or expand your retail portfolio, this shop in RK Puram provides the ideal space with modern amenities and easy access to major markets and residential areas."
     ],
     "buttons": [
-      { "label": "View Shop Details", "path": "/shop-details" },
-      { "label": "Contact Agent", "path": "/contact" }
+      {
+        "label": "View Shop Details",
+        "path": "/shop-details"
+      },
+      {
+        "label": "Contact Agent",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Features of Our Shop For Sale in RK Puram",
@@ -20,12 +28,30 @@
       "From ample parking space to high visibility, every aspect of this shop has been carefully considered to ensure maximum returns for investors and business owners."
     ],
     "features": [
-      { "title": "Prime Location", "description": "Situated in the heart of RK Puram, this shop enjoys high foot traffic and excellent visibility, making it perfect for retail and service-based businesses." },
-      { "title": "Spacious Layout", "description": "The shop offers a spacious layout with ample room for display and storage, ensuring smooth business operations." },
-      { "title": "Modern Infrastructure", "description": "Built with high-quality materials and modern design, the shop provides a professional and inviting environment for customers." },
-      { "title": "Ample Parking", "description": "Convenient parking facilities are available for both customers and staff, enhancing accessibility and convenience." },
-      { "title": "High Rental Potential", "description": "Due to its prime location and excellent features, this shop has strong rental potential, offering attractive returns on investment." },
-      { "title": "Proximity to Key Areas", "description": "Located close to major markets, residential colonies, and transport hubs, the shop ensures easy access for customers and suppliers." }
+      {
+        "title": "Prime Location",
+        "description": "Situated in the heart of RK Puram, this shop enjoys high foot traffic and excellent visibility, making it perfect for retail and service-based businesses."
+      },
+      {
+        "title": "Spacious Layout",
+        "description": "The shop offers a spacious layout with ample room for display and storage, ensuring smooth business operations."
+      },
+      {
+        "title": "Modern Infrastructure",
+        "description": "Built with high-quality materials and modern design, the shop provides a professional and inviting environment for customers."
+      },
+      {
+        "title": "Ample Parking",
+        "description": "Convenient parking facilities are available for both customers and staff, enhancing accessibility and convenience."
+      },
+      {
+        "title": "High Rental Potential",
+        "description": "Due to its prime location and excellent features, this shop has strong rental potential, offering attractive returns on investment."
+      },
+      {
+        "title": "Proximity to Key Areas",
+        "description": "Located close to major markets, residential colonies, and transport hubs, the shop ensures easy access for customers and suppliers."
+      }
     ]
   },
   "locationsSection": {
@@ -35,16 +61,56 @@
       "These areas are well-connected and offer additional advantages for businesses looking to establish or expand their presence in the region."
     ],
     "locations": [
-      "Munirka",
-      "Vasant Vihar",
-      "Safdarjung Enclave",
-      "Hauz Khas",
-      "Malviya Nagar",
-      "Green Park",
-      "Lajpat Nagar",
-      "Greater Kailash",
-      "Nehru Place",
-      "Defence Colony"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -54,30 +120,84 @@
       "With its prime location, excellent infrastructure, and strong demand, this shop is a lucrative opportunity for both new and experienced investors."
     ],
     "points": [
-      { "title": "High Foot Traffic", "description": "RK Puram is a bustling area with constant foot traffic, ensuring steady customer flow for your business." },
-      { "title": "Strong Rental Demand", "description": "The area’s popularity among businesses means high rental demand, providing consistent income for property owners." },
-      { "title": "Excellent Connectivity", "description": "Well-connected by roads and public transport, RK Puram offers easy access for customers and employees." },
-      { "title": "Diverse Customer Base", "description": "The locality attracts a diverse range of customers, from local residents to office-goers, enhancing business potential." },
-      { "title": "Future Growth Potential", "description": "With ongoing development projects, RK Puram is poised for further growth, increasing the value of your investment." },
-      { "title": "Modern Amenities", "description": "The shop comes with modern amenities, ensuring a comfortable and efficient business environment." },
-      { "title": "Secure Investment", "description": "Commercial properties in RK Puram have a proven track record of appreciation, making them a secure investment." },
-      { "title": "Flexible Usage", "description": "The shop can be used for various business types, from retail stores to service centers, offering flexibility to entrepreneurs." }
+      {
+        "title": "High Foot Traffic",
+        "description": "RK Puram is a bustling area with constant foot traffic, ensuring steady customer flow for your business."
+      },
+      {
+        "title": "Strong Rental Demand",
+        "description": "The area’s popularity among businesses means high rental demand, providing consistent income for property owners."
+      },
+      {
+        "title": "Excellent Connectivity",
+        "description": "Well-connected by roads and public transport, RK Puram offers easy access for customers and employees."
+      },
+      {
+        "title": "Diverse Customer Base",
+        "description": "The locality attracts a diverse range of customers, from local residents to office-goers, enhancing business potential."
+      },
+      {
+        "title": "Future Growth Potential",
+        "description": "With ongoing development projects, RK Puram is poised for further growth, increasing the value of your investment."
+      },
+      {
+        "title": "Modern Amenities",
+        "description": "The shop comes with modern amenities, ensuring a comfortable and efficient business environment."
+      },
+      {
+        "title": "Secure Investment",
+        "description": "Commercial properties in RK Puram have a proven track record of appreciation, making them a secure investment."
+      },
+      {
+        "title": "Flexible Usage",
+        "description": "The shop can be used for various business types, from retail stores to service centers, offering flexibility to entrepreneurs."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shop For Sale in RK Puram",
     "description": "Here are some common questions potential buyers have about investing in a shop in RK Puram. If you have any additional queries, feel free to contact us.",
     "faqs": [
-      { "question": "What is the price range for shops in RK Puram", "answer": "The price of shops in RK Puram varies based on size, location, and amenities. Typically, prices range from INR 1 crore to INR 5 crore, depending on the property’s features and demand." },
-      { "question": "Is RK Puram a good location for commercial investment", "answer": "Yes, RK Puram is a prime commercial location with high foot traffic, excellent connectivity, and strong rental demand, making it an ideal choice for investment." },
-      { "question": "What types of businesses are suitable for this shop", "answer": "The shop is versatile and can accommodate various businesses, including retail stores, boutiques, pharmacies, electronics shops, and service centers." },
-      { "question": "Are there any legal clearances required for purchasing the shop", "answer": "Yes, all necessary legal clearances and documentation are in place. Our team can assist you with verifying the property’s legal status and completing the purchase process." },
-      { "question": "What are the parking facilities available", "answer": "The shop comes with ample parking space for customers and staff, ensuring convenience and accessibility." },
-      { "question": "How is the infrastructure and maintenance of the property", "answer": "The property boasts modern infrastructure with regular maintenance, ensuring a clean and professional environment for your business." },
-      { "question": "What is the rental yield for shops in RK Puram", "answer": "Shops in RK Puram offer attractive rental yields, typically ranging from 5% to 8% annually, depending on the location and property features." },
-      { "question": "Are there any upcoming developments in RK Puram that could affect property value", "answer": "RK Puram is part of ongoing development projects, including road expansions and commercial hubs, which are expected to enhance property values in the near future." },
-      { "question": "Can I get financing options for purchasing the shop", "answer": "Yes, various banks and financial institutions offer loans for commercial property purchases. We can guide you through the financing options available." },
-      { "question": "How can I schedule a visit to the shop", "answer": "You can contact our sales team to schedule a visit at your convenience. We’ll arrange a detailed tour of the property and address any questions you may have." }
+      {
+        "question": "What is the price range for shops in RK Puram",
+        "answer": "The price of shops in RK Puram varies based on size, location, and amenities. Typically, prices range from INR 1 crore to INR 5 crore, depending on the property’s features and demand."
+      },
+      {
+        "question": "Is RK Puram a good location for commercial investment",
+        "answer": "Yes, RK Puram is a prime commercial location with high foot traffic, excellent connectivity, and strong rental demand, making it an ideal choice for investment."
+      },
+      {
+        "question": "What types of businesses are suitable for this shop",
+        "answer": "The shop is versatile and can accommodate various businesses, including retail stores, boutiques, pharmacies, electronics shops, and service centers."
+      },
+      {
+        "question": "Are there any legal clearances required for purchasing the shop",
+        "answer": "Yes, all necessary legal clearances and documentation are in place. Our team can assist you with verifying the property’s legal status and completing the purchase process."
+      },
+      {
+        "question": "What are the parking facilities available",
+        "answer": "The shop comes with ample parking space for customers and staff, ensuring convenience and accessibility."
+      },
+      {
+        "question": "How is the infrastructure and maintenance of the property",
+        "answer": "The property boasts modern infrastructure with regular maintenance, ensuring a clean and professional environment for your business."
+      },
+      {
+        "question": "What is the rental yield for shops in RK Puram",
+        "answer": "Shops in RK Puram offer attractive rental yields, typically ranging from 5% to 8% annually, depending on the location and property features."
+      },
+      {
+        "question": "Are there any upcoming developments in RK Puram that could affect property value",
+        "answer": "RK Puram is part of ongoing development projects, including road expansions and commercial hubs, which are expected to enhance property values in the near future."
+      },
+      {
+        "question": "Can I get financing options for purchasing the shop",
+        "answer": "Yes, various banks and financial institutions offer loans for commercial property purchases. We can guide you through the financing options available."
+      },
+      {
+        "question": "How can I schedule a visit to the shop",
+        "answer": "You can contact our sales team to schedule a visit at your convenience. We’ll arrange a detailed tour of the property and address any questions you may have."
+      }
     ]
   },
   "contactSection": {
@@ -86,7 +206,11 @@
       "Interested in purchasing this shop or want to know more about commercial properties in RK Puram? Fill out the form below, and our team will get back to you promptly.",
       "We’re here to assist you with all your property investment needs and ensure a smooth buying process."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }
-```

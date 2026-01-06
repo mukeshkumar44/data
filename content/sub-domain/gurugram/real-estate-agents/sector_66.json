@@ -16,7 +16,10 @@
         "path": "/listings"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Specialized Property Transaction and Management Services Offered by Our Agents in Sector 66",
@@ -58,16 +61,56 @@
       "These proximate areas benefit from the robust infrastructure and luxury positioning of Sector 66 making them highly desirable locations for both investment and personal habitation in Gurugram."
     ],
     "locations": [
-      "Sector 67 Gurugram",
-      "Sector 50 Gurugram",
-      "Nirvana Country",
-      "Golf Course Extension Road",
-      "Sector 65 Gurugram",
-      "Badshahpur",
-      "Sector 49 Gurugram",
-      "M3M Urbana",
-      "Emerald Hills",
-      "Vipul World"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

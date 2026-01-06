@@ -1,4 +1,3 @@
-```json
 {
   "domain": "sarsehriproperties.com",
   "hero": {
@@ -8,10 +7,19 @@
       "Whether you're launching a new venture or expanding your existing business, our rental shops in Sarsehri offer flexible terms, modern amenities, and excellent connectivity to major roads and markets."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/shop-for-rent" },
-      { "label": "Contact Agent", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/shop-for-rent"
+      },
+      {
+        "label": "Contact Agent",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Shop Rental Options in Sarsehri for Every Business",
@@ -20,29 +28,29 @@
       "Each shop space is designed with business functionality in mind, featuring good ventilation, proper lighting, and convenient access for customers and deliveries."
     ],
     "features": [
-      { 
-        "title": "4 Marla Plot", 
-        "description": "Ideal for small retail shops or service centers, our 4 marla commercial spaces in Sarsehri offer approximately 900 sq ft of business area with front road access and basic amenities for startups and small businesses." 
+      {
+        "title": "4 Marla Plot",
+        "description": "Ideal for small retail shops or service centers, our 4 marla commercial spaces in Sarsehri offer approximately 900 sq ft of business area with front road access and basic amenities for startups and small businesses."
       },
-      { 
-        "title": "6 Marla Plot", 
-        "description": "Perfect for medium-sized retail operations, these 6 marla shop spaces provide about 1,350 sq ft of commercial area with better visibility and parking space for customers visiting your Sarsehri business location." 
+      {
+        "title": "6 Marla Plot",
+        "description": "Perfect for medium-sized retail operations, these 6 marla shop spaces provide about 1,350 sq ft of commercial area with better visibility and parking space for customers visiting your Sarsehri business location."
       },
-      { 
-        "title": "8 Marla Plot", 
-        "description": "Spacious 8 marla commercial properties suitable for showrooms or larger retail stores, offering approximately 1,800 sq ft of business space with multiple entry points and storage areas in prime Sarsehri locations." 
+      {
+        "title": "8 Marla Plot",
+        "description": "Spacious 8 marla commercial properties suitable for showrooms or larger retail stores, offering approximately 1,800 sq ft of business space with multiple entry points and storage areas in prime Sarsehri locations."
       },
-      { 
-        "title": "10 Marla Plot", 
-        "description": "Premium commercial spaces for established businesses needing about 2,250 sq ft, featuring wide frontage, excellent road connectivity, and the potential for signage in high-traffic Sarsehri areas." 
+      {
+        "title": "10 Marla Plot",
+        "description": "Premium commercial spaces for established businesses needing about 2,250 sq ft, featuring wide frontage, excellent road connectivity, and the potential for signage in high-traffic Sarsehri areas."
       },
-      { 
-        "title": "12 Marla Plot", 
-        "description": "Large format retail spaces ideal for supermarkets, furniture showrooms or multi-brand outlets, providing approximately 2,700 sq ft of commercial area with loading/unloading facilities in Sarsehri's growing market." 
+      {
+        "title": "12 Marla Plot",
+        "description": "Large format retail spaces ideal for supermarkets, furniture showrooms or multi-brand outlets, providing approximately 2,700 sq ft of commercial area with loading/unloading facilities in Sarsehri's growing market."
       },
-      { 
-        "title": "14 Marla Plot", 
-        "description": "Our most expansive commercial properties at about 3,150 sq ft, perfect for wholesale businesses, large showrooms or commercial complexes in Sarsehri's developing commercial zones with ample parking space." 
+      {
+        "title": "14 Marla Plot",
+        "description": "Our most expansive commercial properties at about 3,150 sq ft, perfect for wholesale businesses, large showrooms or commercial complexes in Sarsehri's developing commercial zones with ample parking space."
       }
     ]
   },
@@ -53,15 +61,56 @@
       "Whether you're targeting local shoppers or regional customers, our shop rentals position your business for success in these interconnected commercial zones."
     ],
     "locations": [
-      "Ambala Cantt",
-      "Ambala City",
-      "Naraingarh",
-      "Barara",
-      "Shahzadpur",
-      "Mullana",
-      "Saha",
-      "Jandli",
-      "Naggal"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -71,37 +120,37 @@
       "From accessibility to local market potential, discover why entrepreneurs and established businesses are choosing Sarsehri for their commercial operations."
     ],
     "points": [
-      { 
-        "title": "Strategic Location Advantage", 
-        "description": "Sarsehri's position along major transportation routes ensures excellent visibility and accessibility for your customers. The area's growing population creates a built-in customer base for retail and service businesses looking to establish a presence in this developing commercial zone." 
+      {
+        "title": "Strategic Location Advantage",
+        "description": "Sarsehri's position along major transportation routes ensures excellent visibility and accessibility for your customers. The area's growing population creates a built-in customer base for retail and service businesses looking to establish a presence in this developing commercial zone."
       },
-      { 
-        "title": "Competitive Rental Rates", 
-        "description": "Compared to more established commercial areas, Sarsehri offers affordable shop rental rates that help businesses maximize their investment. This cost advantage allows for better profit margins while still accessing a growing consumer market in the region." 
+      {
+        "title": "Competitive Rental Rates",
+        "description": "Compared to more established commercial areas, Sarsehri offers affordable shop rental rates that help businesses maximize their investment. This cost advantage allows for better profit margins while still accessing a growing consumer market in the region."
       },
-      { 
-        "title": "Growing Local Economy", 
-        "description": "With increasing residential development in Sarsehri and surrounding areas, the local economy is expanding rapidly. Renting a shop here positions your business to grow with the community, establishing early brand recognition in a developing commercial landscape." 
+      {
+        "title": "Growing Local Economy",
+        "description": "With increasing residential development in Sarsehri and surrounding areas, the local economy is expanding rapidly. Renting a shop here positions your business to grow with the community, establishing early brand recognition in a developing commercial landscape."
       },
-      { 
-        "title": "Flexible Lease Options", 
-        "description": "Our commercial properties in Sarsehri come with adaptable lease terms to suit different business needs. Whether you require short-term flexibility or long-term stability, we can accommodate your preferred rental arrangement for optimal business operations." 
+      {
+        "title": "Flexible Lease Options",
+        "description": "Our commercial properties in Sarsehri come with adaptable lease terms to suit different business needs. Whether you require short-term flexibility or long-term stability, we can accommodate your preferred rental arrangement for optimal business operations."
       },
-      { 
-        "title": "Modern Commercial Infrastructure", 
-        "description": "The newer commercial developments in Sarsehri feature modern designs with proper electrical wiring, plumbing, and structural elements specifically designed for business use. These functional spaces reduce renovation costs and allow for quicker business setup." 
+      {
+        "title": "Modern Commercial Infrastructure",
+        "description": "The newer commercial developments in Sarsehri feature modern designs with proper electrical wiring, plumbing, and structural elements specifically designed for business use. These functional spaces reduce renovation costs and allow for quicker business setup."
       },
-      { 
-        "title": "Ample Parking Availability", 
-        "description": "Unlike crowded urban markets, Sarsehri's commercial spaces typically include designated parking areas for customers. This convenience enhances the shopping experience and helps attract more customers to your retail or service business." 
+      {
+        "title": "Ample Parking Availability",
+        "description": "Unlike crowded urban markets, Sarsehri's commercial spaces typically include designated parking areas for customers. This convenience enhances the shopping experience and helps attract more customers to your retail or service business."
       },
-      { 
-        "title": "Future Appreciation Potential", 
-        "description": "As Sarsehri continues to develop, commercial property values are expected to rise. Renting now allows your business to establish itself before prices increase, while potentially securing favorable long-term lease terms in an appreciating market." 
+      {
+        "title": "Future Appreciation Potential",
+        "description": "As Sarsehri continues to develop, commercial property values are expected to rise. Renting now allows your business to establish itself before prices increase, while potentially securing favorable long-term lease terms in an appreciating market."
       },
-      { 
-        "title": "Diverse Customer Base", 
-        "description": "Sarsehri's location attracts customers from surrounding villages and urban areas, giving your business access to a varied demographic. This diversity allows retailers and service providers to cater to multiple market segments from a single commercial location." 
+      {
+        "title": "Diverse Customer Base",
+        "description": "Sarsehri's location attracts customers from surrounding villages and urban areas, giving your business access to a varied demographic. This diversity allows retailers and service providers to cater to multiple market segments from a single commercial location."
       }
     ]
   },
@@ -109,45 +158,45 @@
     "title": "Frequently Asked Questions About Renting Shops in Sarsehri",
     "description": "Find answers to common queries about commercial property rentals in Sarsehri to help you make informed decisions for your business venture.",
     "faqs": [
-      { 
-        "question": "What types of businesses are suitable for shops in Sarsehri", 
-        "answer": "Sarsehri's commercial spaces accommodate various businesses including grocery stores, clothing boutiques, electronics shops, pharmacies, hardware stores, beauty salons, and service centers. The area's growing population creates demand for daily necessities, making it ideal for retail businesses catering to household needs. Service-oriented businesses like repair shops, tuition centers, and medical clinics also thrive in this developing community." 
+      {
+        "question": "What types of businesses are suitable for shops in Sarsehri",
+        "answer": "Sarsehri's commercial spaces accommodate various businesses including grocery stores, clothing boutiques, electronics shops, pharmacies, hardware stores, beauty salons, and service centers. The area's growing population creates demand for daily necessities, making it ideal for retail businesses catering to household needs. Service-oriented businesses like repair shops, tuition centers, and medical clinics also thrive in this developing community."
       },
-      { 
-        "question": "What is the average rental price for shops in Sarsehri", 
-        "answer": "Shop rental rates in Sarsehri vary based on size, location, and amenities, but typically range from Rs. 15,000 to Rs. 50,000 per month. Smaller shops (4-6 marla) in developing areas start around Rs. 15,000-25,000, while larger showrooms (10+ marla) in prime locations can go up to Rs. 40,000-50,000. Rates are generally more affordable than in established commercial areas of Ambala, offering good value for growing businesses." 
+      {
+        "question": "What is the average rental price for shops in Sarsehri",
+        "answer": "Shop rental rates in Sarsehri vary based on size, location, and amenities, but typically range from Rs. 15,000 to Rs. 50,000 per month. Smaller shops (4-6 marla) in developing areas start around Rs. 15,000-25,000, while larger showrooms (10+ marla) in prime locations can go up to Rs. 40,000-50,000. Rates are generally more affordable than in established commercial areas of Ambala, offering good value for growing businesses."
       },
-      { 
-        "question": "Are there any hidden costs when renting a shop in Sarsehri", 
-        "answer": "Beyond the base rent, tenants should budget for security deposits (typically 2-3 months rent), maintenance charges if in a commercial complex, municipal taxes, and utilities. Some properties may require minor renovations. We provide complete cost transparency upfront, with all charges clearly outlined in the lease agreement to help you plan your business finances accurately." 
+      {
+        "question": "Are there any hidden costs when renting a shop in Sarsehri",
+        "answer": "Beyond the base rent, tenants should budget for security deposits (typically 2-3 months rent), maintenance charges if in a commercial complex, municipal taxes, and utilities. Some properties may require minor renovations. We provide complete cost transparency upfront, with all charges clearly outlined in the lease agreement to help you plan your business finances accurately."
       },
-      { 
-        "question": "How is the foot traffic for shops in Sarsehri", 
-        "answer": "Foot traffic in Sarsehri is steadily increasing with residential development, particularly in areas near main roads and markets. While not as dense as established commercial zones, the growing local population ensures consistent customer flow. Strategic locations near schools, residential colonies, or transportation hubs typically experience higher footfall, making them ideal for retail businesses." 
+      {
+        "question": "How is the foot traffic for shops in Sarsehri",
+        "answer": "Foot traffic in Sarsehri is steadily increasing with residential development, particularly in areas near main roads and markets. While not as dense as established commercial zones, the growing local population ensures consistent customer flow. Strategic locations near schools, residential colonies, or transportation hubs typically experience higher footfall, making them ideal for retail businesses."
       },
-      { 
-        "question": "What lease terms are available for shop rentals in Sarsehri", 
-        "answer": "We offer flexible lease terms ranging from 11 months to 3-5 years, with options to renew. Short-term agreements (11 months) work well for businesses testing the market, while longer terms (2-3 years) provide stability for established operations. Lease terms can be negotiated based on your business needs, with options for escalation clauses and renewal terms built into the contract." 
+      {
+        "question": "What lease terms are available for shop rentals in Sarsehri",
+        "answer": "We offer flexible lease terms ranging from 11 months to 3-5 years, with options to renew. Short-term agreements (11 months) work well for businesses testing the market, while longer terms (2-3 years) provide stability for established operations. Lease terms can be negotiated based on your business needs, with options for escalation clauses and renewal terms built into the contract."
       },
-      { 
-        "question": "Can I make modifications to the rented shop space", 
-        "answer": "Tenants can typically make non-structural modifications with prior approval from the property owner. This includes interior painting, shelving installation, and minor layout changes. Structural alterations usually require owner consent and must be restored at lease end unless otherwise agreed. We recommend discussing your specific modification needs before signing the lease to ensure clarity on permissible changes." 
+      {
+        "question": "Can I make modifications to the rented shop space",
+        "answer": "Tenants can typically make non-structural modifications with prior approval from the property owner. This includes interior painting, shelving installation, and minor layout changes. Structural alterations usually require owner consent and must be restored at lease end unless otherwise agreed. We recommend discussing your specific modification needs before signing the lease to ensure clarity on permissible changes."
       },
-      { 
-        "question": "What are the peak business hours in Sarsehri", 
-        "answer": "Commercial activity in Sarsehri peaks during morning (9 AM-12 PM) and evening (5 PM-8 PM) hours when residents are most active. Weekends see increased shopping activity, especially in family-oriented retail. The exact peak times may vary by business type - for instance, grocery stores do well in early mornings and late afternoons, while clothing shops see more evening and weekend traffic." 
+      {
+        "question": "What are the peak business hours in Sarsehri",
+        "answer": "Commercial activity in Sarsehri peaks during morning (9 AM-12 PM) and evening (5 PM-8 PM) hours when residents are most active. Weekends see increased shopping activity, especially in family-oriented retail. The exact peak times may vary by business type - for instance, grocery stores do well in early mornings and late afternoons, while clothing shops see more evening and weekend traffic."
       },
-      { 
-        "question": "How does Sarsehri compare to other commercial areas in Ambala", 
-        "answer": "Sarsehri offers more affordable rentals than established markets like Ambala Cantt or City, with lower competition and room for growth. While foot traffic is currently less than prime areas, the trade-off includes better parking, newer infrastructure, and the opportunity to establish your brand in a developing market. The area particularly appeals to businesses targeting local residents rather than regional shoppers." 
+      {
+        "question": "How does Sarsehri compare to other commercial areas in Ambala",
+        "answer": "Sarsehri offers more affordable rentals than established markets like Ambala Cantt or City, with lower competition and room for growth. While foot traffic is currently less than prime areas, the trade-off includes better parking, newer infrastructure, and the opportunity to establish your brand in a developing market. The area particularly appeals to businesses targeting local residents rather than regional shoppers."
       },
-      { 
-        "question": "What documents are required to rent a shop in Sarsehri", 
-        "answer": "Standard requirements include identity proof (Aadhar/PAN), address proof, business registration documents (if applicable), and reference contacts. For company leases, you'll need incorporation documents and authorized signatory details. We guide tenants through the entire documentation process to ensure smooth shop rental agreements while complying with all legal requirements." 
+      {
+        "question": "What documents are required to rent a shop in Sarsehri",
+        "answer": "Standard requirements include identity proof (Aadhar/PAN), address proof, business registration documents (if applicable), and reference contacts. For company leases, you'll need incorporation documents and authorized signatory details. We guide tenants through the entire documentation process to ensure smooth shop rental agreements while complying with all legal requirements."
       },
-      { 
-        "question": "Are there any restrictions on business types in Sarsehri shops", 
-        "answer": "Most retail and service businesses are permitted, though certain activities like manufacturing, hazardous material storage, or adult-oriented businesses may require special approvals or be restricted. We verify zoning regulations for each property and advise tenants on permissible uses before lease signing to prevent any compliance issues with local authorities." 
+      {
+        "question": "Are there any restrictions on business types in Sarsehri shops",
+        "answer": "Most retail and service businesses are permitted, though certain activities like manufacturing, hazardous material storage, or adult-oriented businesses may require special approvals or be restricted. We verify zoning regulations for each property and advise tenants on permissible uses before lease signing to prevent any compliance issues with local authorities."
       }
     ]
   },
@@ -157,7 +206,11 @@
       "Ready to find your ideal commercial space in Sarsehri? Our property experts can help you identify the perfect shop rental for your business requirements and budget.",
       "Complete the form below and we'll contact you with available options matching your criteria, along with current rental rates and property details."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }
-```

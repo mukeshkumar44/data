@@ -7,10 +7,19 @@
       "Whether you are searching for a cozy 2 BHK starter home or a spacious villa designed for joint family living Nilokheri offers diverse housing solutions tailored to every budget and need Explore our exclusive listings of independent houses that promise clear titles superb construction quality and proximity to schools hospitals and major highways Investing in a house here secures your family's future in a peaceful yet rapidly developing locality Begin your home ownership journey in Nilokheri today and discover unparalleled residential bliss."
     ],
     "buttons": [
-      { "label": "Explore Houses Now", "path": "/listings" },
-      { "label": "Request a Call Back", "path": "/contact" }
+      {
+        "label": "Explore Houses Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Call Back",
+        "path": "/contact"
+      }
     ],
-    "images": ["house_nilokheri_hero1.jpg", "house_nilokheri_hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Popular House Configurations and Plot Sizes Available For Sale in Nilokheri Locality",
@@ -52,14 +61,56 @@
       "Key areas feature excellent road networks reliable utility services and safe environments ideal for raising a family From areas close to the National Highway 44 for quick access to Karnal and Delhi to quieter pockets near the local market and educational institutions Nilokheri balances convenience with peaceful living Our local property experts can guide you through the specifics of each colony helping you make an informed decision about where to buy your next home."
     ],
     "locations": [
-      "Nilokheri Main Town Residential Areas",
-      "Areas Near Nilokheri Railway Station",
-      "Colonies Near ITI Nilokheri",
-      "Residential Pockets along NH 44 Service Road",
-      "Model Town Extension Nilokheri",
-      "Urban Estate Nilokheri",
-      "Areas Near Taraori Road Nilokheri",
-      "Developing Sectors on Kaithal Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning your dream house in the fast-developing locality of Nilokheri We offer personalized consultations site visits and detailed financial guidance to ensure your buying experience is smooth and successful.",
       "Connect with our expert property advisors now to discuss your specific requirements including budget plot size and desired amenities We are here to help you find the verified and perfect independent home in Nilokheri that meets your family's needs."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

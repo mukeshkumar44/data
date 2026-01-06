@@ -7,12 +7,18 @@
       "Explore our exclusive collection of verified 2BHK properties ready for immediate possession or investment in the heart of Sector 10A Gurugram. Whether you seek modern amenities proximity to reputed schools or excellent connectivity via the Delhi-Jaipur Highway, Sector 10A delivers exceptional value for money. Start your search now to find a spacious and affordable 2BHK flat for sale in Sector 10A that perfectly matches your budget and lifestyle requirements. Act fast as the demand for well-maintained and centrally located properties in this established area is consistently high ensuring robust capital appreciation."
     ],
     "buttons": [
-      { "label": "View Verified 2BHK Listings", "path": "/listings" },
-      { "label": "Schedule a Site Visit Today", "path": "/contact" }
+      {
+        "label": "View Verified 2BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit Today",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "2bhk-flat-sector-10a-hero-1.jpg",
-      "sector-10a-gurugram-residential.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The proximity to key commercial and residential sectors significantly enhances daily commuting and ensures that all necessary amenities and entertainment options are just a short drive away establishing Sector 10A as a truly convenient and highly sought-after residential hub in Gurugram."
     ],
     "locations": [
-      "Sector 9 Gurugram",
-      "Civil Lines Administrative Area",
-      "Sadar Bazaar Market",
-      "Gurugram Railway Station",
-      "NH 48 Delhi Jaipur Highway Access",
-      "Rajiv Chowk Intersection",
-      "Bus Stand Basai Road",
-      "Mini Secretariat Complex"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to take the next step towards owning your ideal 2BHK flat in the sought-after Sector 10A Gurugram We offer personalized assistance property viewing coordination and detailed market insights tailored to your investment goals.",
       "Reach out to our professional real estate team now to access exclusive listings schedule a private tour or get answers to any complex legal or financial queries. Your hassle-free property journey starts here."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

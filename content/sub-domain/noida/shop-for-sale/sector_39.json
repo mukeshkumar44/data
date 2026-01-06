@@ -7,10 +7,19 @@
       "We offer a curated selection of commercial spaces ranging from compact high-street retail shops to expansive anchor spaces ideal for large format stores. Investing in Sector 39 means leveraging rapid urban growth robust rental yields and long-term capital appreciation. Discover unmatched commercial viability and let us guide you to the best shop purchase tailored precisely to your investment goals."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/shop-sector-39-hero.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Properties and Retail Units Shop For Sale in Sector 39",
@@ -52,14 +61,56 @@
       "The proximity to high-density residential sectors guarantees a steady stream of consumers ensuring optimal footfall for any shop for sale in Sector 39. Explore the neighboring sectors that contribute to the strong commercial ecosystem here."
     ],
     "locations": [
-      "Sector 37 Noida",
-      "Sector 41 Noida",
-      "Sector 46 Noida",
-      "Sector 50 Noida",
-      "Botanical Garden Metro Station Access",
-      "Noida City Centre Area",
-      "Prominent Hospitals and Institutions Nearby",
-      "Main Dadri Road Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure the best shop for sale in Sector 39 Noida Contact our expert commercial real estate team today for personalized assistance. We offer exclusive listings market insights and dedicated support throughout the acquisition process.",
       "Fill out the form below and let us help you find a high-performing commercial property that aligns perfectly with your financial goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

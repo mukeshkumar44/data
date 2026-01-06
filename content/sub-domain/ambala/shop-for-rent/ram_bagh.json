@@ -1,4 +1,3 @@
-```json
 {
   "domain": "example.com",
   "hero": {
@@ -8,10 +7,19 @@
       "With flexible leasing options and competitive rates, Ram Bagh provides an ideal commercial environment for entrepreneurs and established businesses alike. Explore our listings today and find a space that fits your requirements."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/shop-for-rent-ram-bagh" },
-      { "label": "Contact Agent", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/shop-for-rent-ram-bagh"
+      },
+      {
+        "label": "Contact Agent",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Shop Sizes and Features Available in Ram Bagh Ambala",
@@ -20,12 +28,30 @@
       "Below are the available shop sizes and their key features to help you make an informed decision for your business."
     ],
     "features": [
-      { "title": "100 Sq Ft Shop", "description": "Ideal for small retail outlets or service kiosks, this compact shop offers affordability and prime location benefits in Ram Bagh Ambala." },
-      { "title": "200 Sq Ft Shop", "description": "Perfect for boutique stores or small cafes, this medium-sized shop provides ample space and excellent visibility in the bustling Ram Bagh market." },
-      { "title": "300 Sq Ft Shop", "description": "A spacious option for electronics stores or pharmacies, featuring good storage space and high customer footfall in Ram Bagh Ambala." },
-      { "title": "400 Sq Ft Shop", "description": "Great for medium-sized businesses like clothing stores or gift shops, offering room for displays and customer movement in Ram Bagh." },
-      { "title": "500 Sq Ft Shop", "description": "Suitable for larger retail operations or showrooms, this shop provides substantial space and prominent street frontage in Ram Bagh Ambala." },
-      { "title": "600+ Sq Ft Shop", "description": "Perfect for supermarkets or multi-brand outlets, these extra-large shops offer maximum space and customization options in Ram Bagh's commercial area." }
+      {
+        "title": "100 Sq Ft Shop",
+        "description": "Ideal for small retail outlets or service kiosks, this compact shop offers affordability and prime location benefits in Ram Bagh Ambala."
+      },
+      {
+        "title": "200 Sq Ft Shop",
+        "description": "Perfect for boutique stores or small cafes, this medium-sized shop provides ample space and excellent visibility in the bustling Ram Bagh market."
+      },
+      {
+        "title": "300 Sq Ft Shop",
+        "description": "A spacious option for electronics stores or pharmacies, featuring good storage space and high customer footfall in Ram Bagh Ambala."
+      },
+      {
+        "title": "400 Sq Ft Shop",
+        "description": "Great for medium-sized businesses like clothing stores or gift shops, offering room for displays and customer movement in Ram Bagh."
+      },
+      {
+        "title": "500 Sq Ft Shop",
+        "description": "Suitable for larger retail operations or showrooms, this shop provides substantial space and prominent street frontage in Ram Bagh Ambala."
+      },
+      {
+        "title": "600+ Sq Ft Shop",
+        "description": "Perfect for supermarkets or multi-brand outlets, these extra-large shops offer maximum space and customization options in Ram Bagh's commercial area."
+      }
     ]
   },
   "locationsSection": {
@@ -35,16 +61,56 @@
       "Explore these neighboring areas that might also suit your business requirements if you're considering shops for rent near Ram Bagh Ambala."
     ],
     "locations": [
-      "Ambala Cantt",
-      "Model Town Ambala",
-      "Sector 7 Ambala",
-      "Sector 8 Ambala",
-      "Naraingarh Road",
-      "Jagadhari Road",
-      "Railway Road Ambala",
-      "Patel Road Ambala",
-      "Kalka Road",
-      "Saha Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -54,30 +120,84 @@
       "Here are the key benefits of renting a shop in this prime commercial area of Ambala."
     ],
     "points": [
-      { "title": "Prime Location Advantage", "description": "Ram Bagh is centrally located in Ambala with excellent connectivity to major roads and residential areas, ensuring high visibility and customer footfall for your business." },
-      { "title": "Diverse Customer Base", "description": "The area attracts shoppers from across Ambala and neighboring towns, providing access to a wide range of potential customers for various business types." },
-      { "title": "Competitive Rental Rates", "description": "Compared to other commercial hubs in Ambala, Ram Bagh offers reasonable rental prices without compromising on location quality or business potential." },
-      { "title": "Established Market Reputation", "description": "With decades of commercial activity, Ram Bagh has a strong reputation as a reliable shopping destination, giving your business instant credibility." },
-      { "title": "Excellent Infrastructure", "description": "The area boasts good roads, reliable electricity, proper drainage, and other essential infrastructure to support your business operations smoothly." },
-      { "title": "Flexible Lease Options", "description": "Property owners in Ram Bagh offer various lease terms to accommodate different business needs, from short-term pop-ups to long-term establishments." },
-      { "title": "Variety of Shop Sizes", "description": "From compact kiosks to spacious showrooms, Ram Bagh has commercial spaces to suit businesses of all scales and requirements." },
-      { "title": "Growing Commercial Development", "description": "With ongoing urban development, Ram Bagh continues to attract new businesses and customers, ensuring long-term growth potential for your venture." }
+      {
+        "title": "Prime Location Advantage",
+        "description": "Ram Bagh is centrally located in Ambala with excellent connectivity to major roads and residential areas, ensuring high visibility and customer footfall for your business."
+      },
+      {
+        "title": "Diverse Customer Base",
+        "description": "The area attracts shoppers from across Ambala and neighboring towns, providing access to a wide range of potential customers for various business types."
+      },
+      {
+        "title": "Competitive Rental Rates",
+        "description": "Compared to other commercial hubs in Ambala, Ram Bagh offers reasonable rental prices without compromising on location quality or business potential."
+      },
+      {
+        "title": "Established Market Reputation",
+        "description": "With decades of commercial activity, Ram Bagh has a strong reputation as a reliable shopping destination, giving your business instant credibility."
+      },
+      {
+        "title": "Excellent Infrastructure",
+        "description": "The area boasts good roads, reliable electricity, proper drainage, and other essential infrastructure to support your business operations smoothly."
+      },
+      {
+        "title": "Flexible Lease Options",
+        "description": "Property owners in Ram Bagh offer various lease terms to accommodate different business needs, from short-term pop-ups to long-term establishments."
+      },
+      {
+        "title": "Variety of Shop Sizes",
+        "description": "From compact kiosks to spacious showrooms, Ram Bagh has commercial spaces to suit businesses of all scales and requirements."
+      },
+      {
+        "title": "Growing Commercial Development",
+        "description": "With ongoing urban development, Ram Bagh continues to attract new businesses and customers, ensuring long-term growth potential for your venture."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Renting Shops in Ram Bagh Ambala",
     "description": "Find answers to common queries about the shop rental process, legal requirements, and business opportunities in Ram Bagh Ambala.",
     "faqs": [
-      { "question": "What is the average rental price for shops in Ram Bagh Ambala", "answer": "Rental prices in Ram Bagh Ambala vary depending on shop size and exact location, typically ranging from ₹15,000 to ₹50,000 per month. Prime locations with better visibility command higher rents, while smaller or interior shops are more affordable. The price also depends on factors like road frontage, floor level, and existing infrastructure." },
-      { "question": "What types of businesses perform well in Ram Bagh Ambala", "answer": "Ram Bagh Ambala supports diverse businesses including clothing stores, electronics shops, pharmacies, jewelry stores, and eateries. The area is particularly known for its textile and garment shops, footwear stores, and mobile accessory outlets. Service businesses like salons, travel agencies, and repair shops also thrive due to the constant customer flow." },
-      { "question": "Are there any legal requirements for renting a shop in Ram Bagh", "answer": "Yes, standard requirements include valid ID proof, address proof, and business registration documents if applicable. The lease agreement should be registered with the local municipal authority. Some shops may require specific licenses depending on your business type, such as FSSAI for food businesses or drug licenses for pharmacies." },
-      { "question": "How can I verify the ownership of a shop before renting", "answer": "Always ask for the original property documents and verify them at the local municipal office or through a lawyer. Check the latest property tax receipts and ensure the person renting the shop is either the owner or has proper authorization. For added security, consider involving a real estate professional in the verification process." },
-      { "question": "What is the typical lease duration for shops in Ram Bagh", "answer": "Most commercial leases in Ram Bagh Ambala run for 11 months, which is the standard period for rental agreements in India. However, longer terms of 2-3 years are also common, often with predetermined rent escalation clauses. Short-term rentals may be available but typically at higher monthly rates." },
-      { "question": "Are there any restrictions on business timings in Ram Bagh", "answer": "Generally, shops in Ram Bagh can operate from 10 AM to 9 PM, but there are no strict restrictions. Some businesses like pharmacies and eateries may operate longer hours. During festivals or special occasions, shops often extend their timings. Always check local municipal regulations for any specific restrictions." },
-      { "question": "What maintenance costs should I expect as a shop tenant", "answer": "Tenants typically pay for interior maintenance, electricity, water, and any shop-specific repairs. The landlord usually handles structural repairs and common area maintenance. Maintenance charges vary but often include property tax and society charges if the shop is in a commercial complex. Clarify all maintenance responsibilities in your lease agreement." },
-      { "question": "How is the parking situation for customers in Ram Bagh", "answer": "Parking availability varies by exact location in Ram Bagh. Main road shops may have limited street parking, while complexes often have designated parking areas. Many businesses arrange for private parking solutions or valet services during peak hours. Consider your customers' parking needs when selecting a shop location." },
-      { "question": "Can I sublet my rented shop in Ram Bagh to another business", "answer": "Subletting terms depend on your lease agreement. Many landlords prohibit subletting without written permission. If allowed, you'll need to inform the owner and may need to share a portion of the sublet income. Always get any subletting arrangements documented properly to avoid legal issues later." },
-      { "question": "What are the peak business hours in Ram Bagh Ambala", "answer": "Ram Bagh experiences heavy footfall during evenings (5-8 PM) and weekends. The area sees consistent customer flow throughout the day, with slight dips in the early afternoon. Festival seasons and holidays bring significantly more shoppers. Timing your business operations to match these patterns can maximize your revenue potential." }
+      {
+        "question": "What is the average rental price for shops in Ram Bagh Ambala",
+        "answer": "Rental prices in Ram Bagh Ambala vary depending on shop size and exact location, typically ranging from ₹15,000 to ₹50,000 per month. Prime locations with better visibility command higher rents, while smaller or interior shops are more affordable. The price also depends on factors like road frontage, floor level, and existing infrastructure."
+      },
+      {
+        "question": "What types of businesses perform well in Ram Bagh Ambala",
+        "answer": "Ram Bagh Ambala supports diverse businesses including clothing stores, electronics shops, pharmacies, jewelry stores, and eateries. The area is particularly known for its textile and garment shops, footwear stores, and mobile accessory outlets. Service businesses like salons, travel agencies, and repair shops also thrive due to the constant customer flow."
+      },
+      {
+        "question": "Are there any legal requirements for renting a shop in Ram Bagh",
+        "answer": "Yes, standard requirements include valid ID proof, address proof, and business registration documents if applicable. The lease agreement should be registered with the local municipal authority. Some shops may require specific licenses depending on your business type, such as FSSAI for food businesses or drug licenses for pharmacies."
+      },
+      {
+        "question": "How can I verify the ownership of a shop before renting",
+        "answer": "Always ask for the original property documents and verify them at the local municipal office or through a lawyer. Check the latest property tax receipts and ensure the person renting the shop is either the owner or has proper authorization. For added security, consider involving a real estate professional in the verification process."
+      },
+      {
+        "question": "What is the typical lease duration for shops in Ram Bagh",
+        "answer": "Most commercial leases in Ram Bagh Ambala run for 11 months, which is the standard period for rental agreements in India. However, longer terms of 2-3 years are also common, often with predetermined rent escalation clauses. Short-term rentals may be available but typically at higher monthly rates."
+      },
+      {
+        "question": "Are there any restrictions on business timings in Ram Bagh",
+        "answer": "Generally, shops in Ram Bagh can operate from 10 AM to 9 PM, but there are no strict restrictions. Some businesses like pharmacies and eateries may operate longer hours. During festivals or special occasions, shops often extend their timings. Always check local municipal regulations for any specific restrictions."
+      },
+      {
+        "question": "What maintenance costs should I expect as a shop tenant",
+        "answer": "Tenants typically pay for interior maintenance, electricity, water, and any shop-specific repairs. The landlord usually handles structural repairs and common area maintenance. Maintenance charges vary but often include property tax and society charges if the shop is in a commercial complex. Clarify all maintenance responsibilities in your lease agreement."
+      },
+      {
+        "question": "How is the parking situation for customers in Ram Bagh",
+        "answer": "Parking availability varies by exact location in Ram Bagh. Main road shops may have limited street parking, while complexes often have designated parking areas. Many businesses arrange for private parking solutions or valet services during peak hours. Consider your customers' parking needs when selecting a shop location."
+      },
+      {
+        "question": "Can I sublet my rented shop in Ram Bagh to another business",
+        "answer": "Subletting terms depend on your lease agreement. Many landlords prohibit subletting without written permission. If allowed, you'll need to inform the owner and may need to share a portion of the sublet income. Always get any subletting arrangements documented properly to avoid legal issues later."
+      },
+      {
+        "question": "What are the peak business hours in Ram Bagh Ambala",
+        "answer": "Ram Bagh experiences heavy footfall during evenings (5-8 PM) and weekends. The area sees consistent customer flow throughout the day, with slight dips in the early afternoon. Festival seasons and holidays bring significantly more shoppers. Timing your business operations to match these patterns can maximize your revenue potential."
+      }
     ]
   },
   "contactSection": {
@@ -86,7 +206,11 @@
       "Our team of commercial property experts can help you find the perfect shop for your business in Ram Bagh Ambala.",
       "Fill out the form below and we'll contact you with available options that match your requirements and budget."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }
-```

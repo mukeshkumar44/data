@@ -7,10 +7,19 @@
       "Stop wasting time navigating complex property listings and unverified agents. Our expert team specializes exclusively in the Kesari Village Ambala market providing you with personalized service and timely alerts on prime properties before they hit the general market. Trust the leading Property Dealer in Kesari Village to simplify your buying or selling journey guaranteeing the best possible return on your real estate investment in this growing area and securing maximum value."
     ],
     "buttons": [
-      { "label": "Explore Verified Plots for Sale", "path": "/properties" },
-      { "label": "Contact an Expert Property Advisor Now", "path": "/contact" }
+      {
+        "label": "Explore Verified Plots for Sale",
+        "path": "/properties"
+      },
+      {
+        "label": "Contact an Expert Property Advisor Now",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero-kesari-village-1.jpg", "hero-kesari-village-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Secure Your Ideal Plot Size Property Investment in Growing Kesari Village Ambala",
@@ -52,14 +61,56 @@
       "Our reach extends beyond the immediate village boundaries covering all rapidly developing adjacent sectors and established residential colonies guaranteeing you access to the widest selection of properties. Whether you seek a quiet residential area or a bustling commercial street our network of listings covers every opportunity near Kesari Village Ambala ensuring you find the perfect location for your needs."
     ],
     "locations": [
-      "Kesari Mandi Commercial Hub",
-      "Saha Road Residential Developments",
-      "Shanti Nagar Extension Properties",
-      "Ambala Cantt Connectivity Corridors",
-      "Baldev Nagar Adjacent Areas",
-      "Mahesh Nagar Extension Opportunities",
-      "Government College Area Proximity",
-      "Naraingarh Road Junction Properties"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Take the next step towards securing your ideal property in Kesari Village Ambala. Whether you need immediate assistance with documentation advice on market trends or simply want a current valuation our dedicated team is ready to help.",
       "Fill out the contact form below and let us make your real estate journey effortless rewarding and secure. Your dream property in Kesari Village is just a click away trust the experts."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

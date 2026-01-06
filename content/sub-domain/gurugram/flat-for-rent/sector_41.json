@@ -1,6 +1,5 @@
 {
   "domain": "plotforsale.com",
-
   "hero": {
     "title": "Explore Top Rated Flats for Rent in Sector 41 Gurugram Today",
     "description": [
@@ -8,11 +7,20 @@
       "With growing demand for quality rental homes and a variety of flat configurations, Sector 41 ensures something for every lifestyle and budget. Whether you are relocating or finding a longer-term residence, flats in Sector 41 Gurugram offer comfort, community living, and outstanding accessibility."
     ],
     "buttons": [
-      { "label": "Browse Flats for Rent in Sector 41 Gurugram", "path": "/sector-41/rent" },
-      { "label": "Contact Rental Experts for Assistance", "path": "/contact" }
+      {
+        "label": "Browse Flats for Rent in Sector 41 Gurugram",
+        "path": "/sector-41/rent"
+      },
+      {
+        "label": "Contact Rental Experts for Assistance",
+        "path": "/contact"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "Discover Plot Size Based Rental Plot Options in Sector 41 Gurugram",
     "description": [
@@ -46,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Additional Property Options Near Sector 41 Gurugram",
     "description": [
@@ -54,17 +61,58 @@
       "Whether you’re interested in flats for sale, plots, or houses, these links help you discover a broader range of housing opportunities in popular and emerging neighborhoods."
     ],
     "locations": [
-      { "title": "Flat for Rent, Sector 41 Gurugram", "path": "/sector-41/rent" },
-      { "title": "Flat for Sale, Sector 41 Gurugram", "path": "/sector-41/sale" },
-      { "title": "Plot for Sale, Sector 41 Gurugram", "path": "/sector-41/plot" },
-      { "title": "House for Sale, Sector 41 Gurugram", "path": "/sector-41/house" },
-      { "title": "Affordable Homes in Gurugram Nearby", "path": "/nearby/affordable-homes" },
-      { "title": "Luxury Properties in Gurugram", "path": "/nearby/luxury-properties" },
-      { "title": "Ready to Move Flats in Sector 41 Area", "path": "/nearby/ready" },
-      { "title": "Top Rental & Sale Listings in Gurugram", "path": "/nearby/top-listings" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Deal Acres Is Your Trusted Real Estate Partner in Gurugram",
     "description": [
@@ -106,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Flats for Rent in Sector 41 Gurugram",
     "description": "Find detailed answers to common user questions about renting flats in Sector 41 Gurugram — designed to help you make informed property decisions.",
@@ -153,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get in Touch to Find Flats for Rent in Sector 41 Gurugram",
     "description": [
       "Ready to find the perfect rental home in Sector 41 Gurugram? Share your details with us and let our experienced property consultants guide you to the best available options.",
       "Fill in your information below — and we’ll reach out with personalized recommendations tailored to your needs."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

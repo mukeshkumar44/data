@@ -16,7 +16,10 @@
         "path": "/valuation"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Diverse Plot Sizes and Investment Opportunities with Your Babyal Property Dealer",
@@ -58,14 +61,56 @@
       "These neighboring areas benefit from the same robust connectivity and planned development initiatives, making them viable options for homebuyers and investors alike. Working with a dedicated Property Dealer in Babyal ensures you get insider knowledge about upcoming projects, zoning regulations, and future price appreciation potential in these interconnected areas. Explore the map of opportunities surrounding Babyal Ambala today."
     ],
     "locations": [
-      "Babyal Extension",
-      "Ambala Cantonment",
-      "Sector 9 Ambala",
-      "Shivalik City",
-      "Shastri Nagar",
-      "Mahesh Nagar",
-      "Model Town Ambala",
-      "Urban Estate Phase I"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

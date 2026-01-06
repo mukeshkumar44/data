@@ -7,10 +7,19 @@
       "IMT Sector 30 B provides strategic connectivity and a robust consumer base ensuring maximum foot traffic and strong business visibility. Our inventory includes ground-floor rentals first-floor office spaces and specialized units facing the busy industrial area. Don't miss the chance to position your venture in one of Rohtak's fastest-growing commercial zones. Start your search now and find the ideal rental shop that drives success."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/available-shops" },
-      { "label": "Request a Callback", "path": "/contact-us" }
+      {
+        "label": "View Available Shops",
+        "path": "/available-shops"
+      },
+      {
+        "label": "Request a Callback",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["hero_shop_imt30b1.jpg", "hero_shop_imt30b2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Best Shop Rental Categories and Commercial Sizes in IMT Sector 30 B",
@@ -52,14 +61,56 @@
       "We extend our services across the nearby key commercial zones ensuring you have access to the best properties whether you prioritize proximity to the highway established residential areas or purely industrial supply chain hubs. Our team provides comprehensive location analysis to help you weigh the pros and cons of each adjoining sector based on your specific commercial requirements."
     ],
     "locations": [
-      "IMT Sector 31 Commercial Zone Rohtak",
-      "Retail Hubs near Delhi Road Rohtak",
-      "Commercial Units near NH 9",
-      "Shops in Sector 34 Rohtak",
-      "Rental Spaces in Old Rohtak City Market",
-      "Service Centres near Bahadurgarh Road",
-      "New Commercial Developments near Sonipat",
-      "Wholesale Markets in Rohtak Industrial Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Don't let the perfect commercial opportunity pass you by. Contact our expert team today to discuss your specific requirements and explore the best available shop rentals in IMT Sector 30 B Rohtak.",
       "We provide personalized service market insights and seamless negotiation support to help you move into your new commercial space quickly and efficiently. Reach out now to start your journey."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

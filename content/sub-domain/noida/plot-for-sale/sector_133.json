@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "plot-sector-133-hero-1.jpg",
-      "plot-sector-133-hero-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The surrounding areas are rich in established social amenities. Future residents of Sector 133 will benefit from remarkably easy access to world-class educational institutions, state-of-the-art multi-specialty hospitals, and numerous leading retail and entertainment destinations located just a short, comfortable drive away. Investing here means securing a plot that is centrally positioned for convenience yet retains the necessary tranquility and peaceful environment required for high-quality residential living. We highlight key neighboring zones and essential infrastructure landmarks below that collectively contribute to the prime appeal of purchasing land in Sector 133 Noida."
     ],
     "locations": [
-      "Sector 132 Noida",
-      "Sector 134 Jaypee Wish Town",
-      "Noida Expressway Direct Access",
-      "FNG Expressway Intersection",
-      "Sector 131 Commercial Hub",
-      "Advant Navis Business Park",
-      "Amity University Noida",
-      "Gautam Buddha University"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

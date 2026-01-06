@@ -7,12 +7,18 @@
       "We offer a curated selection of genuine residential plots suitable for various budgets and construction needs, ranging from compact family homes to sprawling luxury villas. All listings are verified and come with clear titles, ensuring a smooth and hassle-free transaction. Start your journey towards owning the perfect Plot For Sale in Sector 7 Ambala today. Our expert team is ready to guide you through available sizes, pricing structures, and necessary legal documentation to make your investment successful and stress-free."
     ],
     "buttons": [
-      { "label": "View Available Plots Now", "path": "/listings" },
-      { "label": "Request a Free Consultation", "path": "/contact" }
+      {
+        "label": "View Available Plots Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Free Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "sector-7-map.jpg",
-      "residential-plot-ambala.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The locality offers unparalleled connectivity to major transport hubs including the Ambala Bus Stand and Ambala Cantt Railway Station, making daily commute effortless. Furthermore, residents enjoy close proximity to top-tier educational institutions, leading healthcare facilities, and vibrant commercial markets. Investing in a Plot For Sale in Sector 7 Ambala means choosing convenience, growth, and a high standard of living right from day one."
     ],
     "locations": [
-      "Close Proximity to Ambala Cantt Railway Station",
-      "Near Leading Schools and Educational Institutions",
-      "Immediate Access to Major Hospitals and Healthcare Centers",
-      "Walkable Distance to Essential Marketplaces and Shopping Centers",
-      "Easy Connection to National Highway 44 (NH44)",
-      "Well-Developed Parks and Green Spaces within the Sector",
-      "Adjacent to Key Commercial Zones for Business Needs",
-      "Secure and Family-Friendly Residential Environment"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

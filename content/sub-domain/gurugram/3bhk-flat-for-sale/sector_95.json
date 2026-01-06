@@ -7,10 +7,19 @@
       "We present a curated selection of premium 3BHK residences designed for contemporary family living. These spacious 3BHK apartments boast thoughtful layouts superior finishes and world-class amenities ensuring a lifestyle of comfort and sophistication. Investing in a 3BHK flat in Sector 95 is not just buying a home it is securing a future in one of Gurugram's most promising real estate destinations. Explore our listings today and step into the vibrant life awaiting you in Sector 95."
     ],
     "buttons": [
-      { "label": "Explore 3BHK Listings", "path": "/listings/sector-95" },
-      { "label": "Get Free Consultation", "path": "/contact" }
+      {
+        "label": "Explore 3BHK Listings",
+        "path": "/listings/sector-95"
+      },
+      {
+        "label": "Get Free Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero-image-sector95-3bhk.jpg", "interior-flat-3bhk.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Features of Modern 3BHK Flats Available For Sale in Sector 95 Gurugram",
@@ -19,29 +28,29 @@
       "We highlight the architectural excellence and practical features integrated into these 3BHK properties. From robust structural integrity to intelligent floor planning every detail contributes to a comfortable and efficient living environment. Discover how these modern homes solve common urban dwelling challenges providing peace and convenience right here in Sector 95 Gurugram."
     ],
     "features": [
-      { 
-        "title": "Premium Layouts and Design Philosophy", 
-        "description": "These 3BHK apartments feature optimal spatial planning ensuring zero wasted space and excellent cross-ventilation. The designs incorporate Vastu-compliant layouts where possible promoting positivity and harmony. Expect generous ceiling heights large windows and a clear separation between living dining and private bedroom areas providing both openness and necessary privacy for the family." 
+      {
+        "title": "Premium Layouts and Design Philosophy",
+        "description": "These 3BHK apartments feature optimal spatial planning ensuring zero wasted space and excellent cross-ventilation. The designs incorporate Vastu-compliant layouts where possible promoting positivity and harmony. Expect generous ceiling heights large windows and a clear separation between living dining and private bedroom areas providing both openness and necessary privacy for the family."
       },
-      { 
-        "title": "Spacious Living Areas for Family Gatherings", 
-        "description": "The living and dining rooms in these 3BHK flats are deliberately oversized to accommodate large family gatherings and entertaining guests comfortably. High-quality flooring materials such as vitrified tiles or engineered wood add a touch of luxury. These spaces often connect directly to large balconies offering panoramic views of the Sector 95 skyline or internal green spaces." 
+      {
+        "title": "Spacious Living Areas for Family Gatherings",
+        "description": "The living and dining rooms in these 3BHK flats are deliberately oversized to accommodate large family gatherings and entertaining guests comfortably. High-quality flooring materials such as vitrified tiles or engineered wood add a touch of luxury. These spaces often connect directly to large balconies offering panoramic views of the Sector 95 skyline or internal green spaces."
       },
-      { 
-        "title": "Modular Kitchen Excellence and Functionality", 
-        "description": "Every 3BHK flat for sale in Sector 95 includes a contemporary modular kitchen setup. These kitchens are equipped with necessary fittings ample storage and dedicated utility areas for laundry and dishwashing. The use of durable countertops and splashbacks ensures ease of maintenance and long-term durability making meal preparation a delight for residents." 
+      {
+        "title": "Modular Kitchen Excellence and Functionality",
+        "description": "Every 3BHK flat for sale in Sector 95 includes a contemporary modular kitchen setup. These kitchens are equipped with necessary fittings ample storage and dedicated utility areas for laundry and dishwashing. The use of durable countertops and splashbacks ensures ease of maintenance and long-term durability making meal preparation a delight for residents."
       },
-      { 
-        "title": "Dedicated Utility and Service Balconies", 
-        "description": "Understanding the need for practical spaces modern 3BHK units feature dedicated utility balconies often attached to the kitchen or one of the bedrooms. These spaces are essential for managing household chores without cluttering the main living balconies. They provide convenience for drying clothes housing outdoor AC units and maintaining the overall cleanliness of the apartment." 
+      {
+        "title": "Dedicated Utility and Service Balconies",
+        "description": "Understanding the need for practical spaces modern 3BHK units feature dedicated utility balconies often attached to the kitchen or one of the bedrooms. These spaces are essential for managing household chores without cluttering the main living balconies. They provide convenience for drying clothes housing outdoor AC units and maintaining the overall cleanliness of the apartment."
       },
-      { 
-        "title": "Integrated Security Systems and Safety Features", 
-        "description": "Safety is paramount in Sector 95 projects. These 3BHK flats benefit from integrated multi-tier security systems including 24/7 CCTV surveillance access control at entry points and trained security personnel. Video door phones and intercom facilities are standard providing residents peace of mind and secure living within the perimeter of the complex." 
+      {
+        "title": "Integrated Security Systems and Safety Features",
+        "description": "Safety is paramount in Sector 95 projects. These 3BHK flats benefit from integrated multi-tier security systems including 24/7 CCTV surveillance access control at entry points and trained security personnel. Video door phones and intercom facilities are standard providing residents peace of mind and secure living within the perimeter of the complex."
       },
-      { 
-        "title": "Proximity to Essential Social Infrastructure", 
-        "description": "Sector 95 is rapidly maturing and residents of these 3BHK flats enjoy exceptional proximity to schools hospitals retail complexes and dining options. This crucial access minimizes commute times for daily necessities enhancing the quality of life significantly for all family members living in this thriving part of Gurugram." 
+      {
+        "title": "Proximity to Essential Social Infrastructure",
+        "description": "Sector 95 is rapidly maturing and residents of these 3BHK flats enjoy exceptional proximity to schools hospitals retail complexes and dining options. This crucial access minimizes commute times for daily necessities enhancing the quality of life significantly for all family members living in this thriving part of Gurugram."
       }
     ]
   },
@@ -52,12 +61,56 @@
       "Beyond infrastructure Sector 95 is surrounded by planned social amenities including educational institutions healthcare facilities and major commercial centers. The area promises lower population density compared to central Gurugram while still offering all metropolitan conveniences. The availability of diverse residential projects ensures that you can find the perfect 3BHK flat that matches both your budget and lifestyle requirements within this dynamic locale of Gurugram."
     ],
     "locations": [
-      "Dwarka Expressway connectivity",
-      "Proximity to NH-48 Delhi-Jaipur Highway",
-      "Near IMT Manesar Industrial Area",
-      "Accessibility to SPR Southern Peripheral Road",
-      "Upcoming Metro Corridor benefits",
-      "Close to major retail and multiplex developments"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -67,37 +120,37 @@
       "Our curated selection includes apartments from top-tier developers known for timely delivery and construction quality. These homes promise superior ROI potential and provide immediate lifestyle upgrades. Invest confidently in a 3BHK flat for sale in Sector 95 and secure a high-growth asset in the heart of New Gurugram."
     ],
     "points": [
-      { 
-        "title": "Exceptional Value Proposition", 
-        "description": "A 3BHK Flat For Sale in Sector 95 offers competitive pricing compared to similar units in sectors closer to Cyber City or Golf Course Road. This affordability ensures higher capital appreciation potential as the surrounding infrastructure fully develops. You receive premium features and amenities at a significantly better entry price point securing maximum value for your investment dollar in Gurugram." 
+      {
+        "title": "Exceptional Value Proposition",
+        "description": "A 3BHK Flat For Sale in Sector 95 offers competitive pricing compared to similar units in sectors closer to Cyber City or Golf Course Road. This affordability ensures higher capital appreciation potential as the surrounding infrastructure fully develops. You receive premium features and amenities at a significantly better entry price point securing maximum value for your investment dollar in Gurugram."
       },
-      { 
-        "title": "High Rental Yield Potential", 
-        "description": "Due to its proximity to major industrial hubs like IMT Manesar and upcoming commercial developments Sector 95 attracts a large pool of working professionals. This demand translates into strong rental yield potential for 3BHK investors. Securing a quality 3BHK flat here means predictable passive income and sustained occupancy rates which is crucial for maximizing investment returns." 
+      {
+        "title": "High Rental Yield Potential",
+        "description": "Due to its proximity to major industrial hubs like IMT Manesar and upcoming commercial developments Sector 95 attracts a large pool of working professionals. This demand translates into strong rental yield potential for 3BHK investors. Securing a quality 3BHK flat here means predictable passive income and sustained occupancy rates which is crucial for maximizing investment returns."
       },
-      { 
-        "title": "Advanced Amenities and Lifestyle", 
-        "description": "Modern residential complexes in Sector 95 are equipped with state-of-the-art amenities including clubhouses swimming pools gymnasiums sports facilities and dedicated children's play areas. These features enhance the overall lifestyle of residents transforming apartment living into a community experience. Everything you need for recreation and relaxation is available just steps away from your 3BHK flat." 
+      {
+        "title": "Advanced Amenities and Lifestyle",
+        "description": "Modern residential complexes in Sector 95 are equipped with state-of-the-art amenities including clubhouses swimming pools gymnasiums sports facilities and dedicated children's play areas. These features enhance the overall lifestyle of residents transforming apartment living into a community experience. Everything you need for recreation and relaxation is available just steps away from your 3BHK flat."
       },
-      { 
-        "title": "Future-Ready Infrastructure Development", 
-        "description": "Sector 95 is benefiting from significant government and private investment in physical infrastructure including widened roads improved drainage systems and integrated utilities. These planned improvements guarantee a hassle-free living experience and support long-term property valuation growth. Investing now means capitalizing on future infrastructure benefits." 
+      {
+        "title": "Future-Ready Infrastructure Development",
+        "description": "Sector 95 is benefiting from significant government and private investment in physical infrastructure including widened roads improved drainage systems and integrated utilities. These planned improvements guarantee a hassle-free living experience and support long-term property valuation growth. Investing now means capitalizing on future infrastructure benefits."
       },
-      { 
-        "title": "Access to Quality Educational Institutions", 
-        "description": "Families searching for a 3BHK flat prioritize access to good schools. Sector 95 is near several reputable schools and educational centers making the daily commute for children easy and convenient. This accessibility makes these 3BHK homes highly desirable for families ensuring a balanced and stress-free life." 
+      {
+        "title": "Access to Quality Educational Institutions",
+        "description": "Families searching for a 3BHK flat prioritize access to good schools. Sector 95 is near several reputable schools and educational centers making the daily commute for children easy and convenient. This accessibility makes these 3BHK homes highly desirable for families ensuring a balanced and stress-free life."
       },
-      { 
-        "title": "Diverse Inventory Options Available", 
-        "description": "Whether you prefer a high-rise view a ground-floor garden unit or a specific configuration there is a wide variety of 3BHK flats for sale in Sector 95. Inventory ranges from luxury residences to affordable housing segments allowing buyers to select a property that aligns perfectly with their personal tastes and budget constraints within this Gurugram locale." 
+      {
+        "title": "Diverse Inventory Options Available",
+        "description": "Whether you prefer a high-rise view a ground-floor garden unit or a specific configuration there is a wide variety of 3BHK flats for sale in Sector 95. Inventory ranges from luxury residences to affordable housing segments allowing buyers to select a property that aligns perfectly with their personal tastes and budget constraints within this Gurugram locale."
       },
-      { 
-        "title": "RERA Registered Projects Guarantee", 
-        "description": "All listed properties are from RERA registered projects providing buyers with the assurance of legal compliance construction transparency and timely possession. Buying a 3BHK flat with RERA backing protects your investment and ensures that the developer adheres strictly to the agreed-upon timelines and quality specifications a key confidence booster." 
+      {
+        "title": "RERA Registered Projects Guarantee",
+        "description": "All listed properties are from RERA registered projects providing buyers with the assurance of legal compliance construction transparency and timely possession. Buying a 3BHK flat with RERA backing protects your investment and ensures that the developer adheres strictly to the agreed-upon timelines and quality specifications a key confidence booster."
       },
-      { 
-        "title": "Dedicated Green and Open Spaces", 
-        "description": "Despite being an urban center many residential projects in Sector 95 prioritize environmental sustainability and feature extensive landscaped gardens and open areas. These green spaces offer residents a tranquil environment for jogging walking and relaxation greatly improving air quality and overall well-being right outside your 3BHK home." 
+      {
+        "title": "Dedicated Green and Open Spaces",
+        "description": "Despite being an urban center many residential projects in Sector 95 prioritize environmental sustainability and feature extensive landscaped gardens and open areas. These green spaces offer residents a tranquil environment for jogging walking and relaxation greatly improving air quality and overall well-being right outside your 3BHK home."
       }
     ]
   },
@@ -105,45 +158,45 @@
     "title": "Frequently Asked Questions about 3BHK Flats in Sector 95 Gurugram",
     "description": "Get detailed answers to common inquiries regarding property acquisition pricing connectivity and the future development prospects of buying a 3BHK flat in Sector 95.",
     "faqs": [
-      { 
-        "question": "What are the common sizes for a 3BHK Flat For Sale in Sector 95 Gurugram", 
-        "answer": "The sizes of 3BHK flats in Sector 95 typically vary depending on the developer and the specific project design. Generally you can find 3BHK units ranging from approximately 1400 square feet to over 2200 square feet built-up area. The size variation often correlates with the number of balconies utility rooms and whether the unit includes servant quarters. We recommend reviewing the specific floor plans to understand the carpet area and super area details before finalizing your purchase of a 3BHK unit." 
+      {
+        "question": "What are the common sizes for a 3BHK Flat For Sale in Sector 95 Gurugram",
+        "answer": "The sizes of 3BHK flats in Sector 95 typically vary depending on the developer and the specific project design. Generally you can find 3BHK units ranging from approximately 1400 square feet to over 2200 square feet built-up area. The size variation often correlates with the number of balconies utility rooms and whether the unit includes servant quarters. We recommend reviewing the specific floor plans to understand the carpet area and super area details before finalizing your purchase of a 3BHK unit."
       },
-      { 
-        "question": "Is Sector 95 Gurugram a good long-term investment location for 3BHK properties", 
-        "answer": "Yes Sector 95 is considered a highly promising location for long-term investment. It is part of New Gurugram which is experiencing exponential growth fueled by improved connectivity to the Dwarka Expressway and NH-48. This strategic location ensures sustained demand both from end-users and tenants. Analysts predict significant capital appreciation in Sector 95 over the next five to seven years as infrastructure projects like the upcoming metro lines mature and become operational further boosting the value of 3BHK flats." 
+      {
+        "question": "Is Sector 95 Gurugram a good long-term investment location for 3BHK properties",
+        "answer": "Yes Sector 95 is considered a highly promising location for long-term investment. It is part of New Gurugram which is experiencing exponential growth fueled by improved connectivity to the Dwarka Expressway and NH-48. This strategic location ensures sustained demand both from end-users and tenants. Analysts predict significant capital appreciation in Sector 95 over the next five to seven years as infrastructure projects like the upcoming metro lines mature and become operational further boosting the value of 3BHK flats."
       },
-      { 
-        "question": "What is the typical price range for a quality 3BHK flat in Sector 95", 
-        "answer": "The price range for 3BHK flats in Sector 95 is dynamic and depends on factors like project status ready-to-move versus under-construction the developer’s reputation amenities provided and the size of the unit. Currently prices generally start from 90 Lakhs and can go up to 1.8 Crore for ultra-luxury or larger configurations. We provide up-to-date pricing sheets and transparent cost breakdowns including GST and internal development charges upon request." 
+      {
+        "question": "What is the typical price range for a quality 3BHK flat in Sector 95",
+        "answer": "The price range for 3BHK flats in Sector 95 is dynamic and depends on factors like project status ready-to-move versus under-construction the developer’s reputation amenities provided and the size of the unit. Currently prices generally start from 90 Lakhs and can go up to 1.8 Crore for ultra-luxury or larger configurations. We provide up-to-date pricing sheets and transparent cost breakdowns including GST and internal development charges upon request."
       },
-      { 
-        "question": "Are there ready-to-move 3BHK options available for immediate possession in Sector 95", 
-        "answer": "Absolutely many high-quality residential societies in Sector 95 have recently achieved completion and offer ready-to-move 3BHK flats. Purchasing a ready-to-move unit eliminates construction risk and allows for immediate occupancy or rental income generation. Ready-to-move properties often command a slight premium but offer immediate tangible benefits compared to properties still under development." 
+      {
+        "question": "Are there ready-to-move 3BHK options available for immediate possession in Sector 95",
+        "answer": "Absolutely many high-quality residential societies in Sector 95 have recently achieved completion and offer ready-to-move 3BHK flats. Purchasing a ready-to-move unit eliminates construction risk and allows for immediate occupancy or rental income generation. Ready-to-move properties often command a slight premium but offer immediate tangible benefits compared to properties still under development."
       },
-      { 
-        "question": "How is the connectivity of Sector 95 to major parts of Delhi and Gurugram", 
-        "answer": "Connectivity in Sector 95 is excellent. It is directly connected to the Pataudi Road which links to NH-48 providing smooth access to Central Gurugram and Delhi. Furthermore the vicinity of the Dwarka Expressway ensures fast travel towards Dwarka and IGI Airport. The area benefits from wide sector roads and planned infrastructure minimizing traffic congestion and optimizing commute times for residents of 3BHK flats." 
+      {
+        "question": "How is the connectivity of Sector 95 to major parts of Delhi and Gurugram",
+        "answer": "Connectivity in Sector 95 is excellent. It is directly connected to the Pataudi Road which links to NH-48 providing smooth access to Central Gurugram and Delhi. Furthermore the vicinity of the Dwarka Expressway ensures fast travel towards Dwarka and IGI Airport. The area benefits from wide sector roads and planned infrastructure minimizing traffic congestion and optimizing commute times for residents of 3BHK flats."
       },
-      { 
-        "question": "What amenities should I expect when buying a new 3BHK flat here", 
-        "answer": "Most new 3BHK projects in Sector 95 offer a comprehensive range of modern amenities. You can expect facilities such as a luxurious clubhouse swimming pool modern gym power backup 24/7 water supply ample car parking multi-purpose halls and dedicated sports courts for tennis or basketball. Security features are multi-layered including boundary wall surveillance and controlled access points." 
+      {
+        "question": "What amenities should I expect when buying a new 3BHK flat here",
+        "answer": "Most new 3BHK projects in Sector 95 offer a comprehensive range of modern amenities. You can expect facilities such as a luxurious clubhouse swimming pool modern gym power backup 24/7 water supply ample car parking multi-purpose halls and dedicated sports courts for tennis or basketball. Security features are multi-layered including boundary wall surveillance and controlled access points."
       },
-      { 
-        "question": "Can Non-Resident Indians NRI purchase a 3BHK Flat For Sale in Sector 95 Gurugram", 
-        "answer": "Yes Non-Resident Indians are fully eligible to purchase residential property including 3BHK flats in Sector 95 Gurugram. We provide specialized legal and financial advisory services tailored for NRI buyers ensuring compliance with all FEMA regulations and facilitating smooth transaction processes. We manage everything from property selection to documentation and registration." 
+      {
+        "question": "Can Non-Resident Indians NRI purchase a 3BHK Flat For Sale in Sector 95 Gurugram",
+        "answer": "Yes Non-Resident Indians are fully eligible to purchase residential property including 3BHK flats in Sector 95 Gurugram. We provide specialized legal and financial advisory services tailored for NRI buyers ensuring compliance with all FEMA regulations and facilitating smooth transaction processes. We manage everything from property selection to documentation and registration."
       },
-      { 
-        "question": "Do these 3BHK units come with dedicated parking space", 
-        "answer": "In almost all modern residential projects in Sector 95 every 3BHK flat is allocated at least one dedicated covered car parking slot. Depending on the project and unit size some premium 3BHK configurations may include two dedicated parking spaces. It is essential to confirm the specifics of parking allocation during the booking process as part of the agreement." 
+      {
+        "question": "Do these 3BHK units come with dedicated parking space",
+        "answer": "In almost all modern residential projects in Sector 95 every 3BHK flat is allocated at least one dedicated covered car parking slot. Depending on the project and unit size some premium 3BHK configurations may include two dedicated parking spaces. It is essential to confirm the specifics of parking allocation during the booking process as part of the agreement."
       },
-      { 
-        "question": "What is the typical maintenance cost for a 3BHK apartment in this sector", 
-        "answer": "Maintenance costs generally cover the upkeep of common areas security services electricity backup for common facilities and trash collection. For a 3BHK flat in Sector 95 the monthly maintenance typically ranges between Rs 4500 and Rs 8000 depending on the quality and extent of the amenities provided. This fee ensures high quality maintenance standards throughout the complex." 
+      {
+        "question": "What is the typical maintenance cost for a 3BHK apartment in this sector",
+        "answer": "Maintenance costs generally cover the upkeep of common areas security services electricity backup for common facilities and trash collection. For a 3BHK flat in Sector 95 the monthly maintenance typically ranges between Rs 4500 and Rs 8000 depending on the quality and extent of the amenities provided. This fee ensures high quality maintenance standards throughout the complex."
       },
-      { 
-        "question": "Which specific builders are active in offering 3BHK flats in Sector 95", 
-        "answer": "Sector 95 is a hotspot for reputable developers. Major builders offering high-quality 3BHK flats include DLF Godrej Properties Signature Global ROF Group and Ashiana Housing among others. We maintain strong partnerships with all leading developers in the region ensuring you get the best deals and access to the latest launch information for 3BHK units." 
+      {
+        "question": "Which specific builders are active in offering 3BHK flats in Sector 95",
+        "answer": "Sector 95 is a hotspot for reputable developers. Major builders offering high-quality 3BHK flats include DLF Godrej Properties Signature Global ROF Group and Ashiana Housing among others. We maintain strong partnerships with all leading developers in the region ensuring you get the best deals and access to the latest launch information for 3BHK units."
       }
     ]
   },
@@ -153,6 +206,11 @@
       "Ready to take the next step towards owning your perfect 3BHK flat in Sector 95 Gurugram Contact our specialized property advisors today. We offer personalized tours detailed financial analysis and transparent transaction support.",
       "Fill out the form below to receive immediate access to exclusive floor plans project brochures and competitive price lists for the best 3BHK flats for sale in this prime location."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

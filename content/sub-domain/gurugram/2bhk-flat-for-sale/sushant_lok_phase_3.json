@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Features to Look For When Buying a 2BHK Flat in Sushant Lok Phase 3 Gurugram",
@@ -58,12 +61,56 @@
       "Key amenities are merely minutes away including prestigious schools, world-class hospitals like Medanta and Artemis, and sprawling retail centers like South Point Mall and Galleria Market. Buying a 2BHK Flat For Sale in Sushant Lok Phase 3 places you right in the heart of the action while providing a quiet residential retreat. This exceptional blend of accessibility and tranquility makes it a top choice for discerning homebuyers and smart investors."
     ],
     "locations": [
-      "HUDA City Centre Metro",
-      "Sector 57 Commercial Hub",
-      "Medanta The Medicity Hospital",
-      "Golf Course Extension Road",
-      "DPS International School",
-      "Omaxe Celebration Mall"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -122,8 +169,7 @@
       {
         "question": "What documentation is required to purchase a resale 2BHK flat in this locality",
         "answer": "To purchase a resale 2BHK flat key documents typically include the original Sale Deed Chain of documents showing previous ownership No Objection Certificates NOCs from the housing society or RWA if applicable approved building plans and up-to-date tax receipts. For bank loan processing you will also require your identity and address proofs as well as income documentation. Our legal team assists buyers through the entire documentation and verification process."
-      }
-      ,
+      },
       {
         "question": "Is Sushant Lok Phase 3 a good area for young families and children",
         "answer": "Absolutely Sushant Lok Phase 3 is highly regarded as a family-friendly locality. It boasts proximity to some of Gurugram's best schools like DPS and Amity International hospitals parks and community spaces. The structured nature of the neighborhood coupled with strong security measures makes it an excellent and safe place for raising young families."

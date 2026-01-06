@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero_house_1.jpg",
-      "hero_house_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "These nearby neighborhoods maintain high safety standards and benefit from Karnal’s excellent urban planning ensuring a smooth transition regardless of the final rental location. We maintain comprehensive listings across these strategic areas allowing us to offer clients a broad view of the rental landscape. Our goal is always to secure you a high-quality rental property whether it is right within Sector 4 or just a short drive away. Expanding your search slightly can often unlock hidden gems especially houses offering extra space or unique features not commonly found in the immediate vicinity of Sector 4. Let us guide you through the best rental opportunities in these complementary locations guaranteeing you find a place you love."
     ],
     "locations": [
-      "Sector 3 Karnal",
-      "Sector 6 Karnal",
-      "Sector 7 Karnal",
-      "Model Town Karnal",
-      "Civil Lines Karnal",
-      "Near NH 44 Bypass"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

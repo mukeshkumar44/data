@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero/shop-front-sector-87.jpg",
-      "/images/hero/commercial-complex-faridabad.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Establishing your shop here places you at the epicenter of rapid socio-economic growth a critical factor for any thriving business seeking maximum returns on investment. The presence of reputable developers and established residential complexes nearby ensures a captive audience ready to engage with local businesses."
     ],
     "locations": [
-      "Sector 86 Commercial Market",
-      "Omaxe World Street",
-      "BPTP Parklands Residential Area",
-      "Greater Gurugram Expressway Access",
-      "Eros Efiniti Towers",
-      "Puri Pratham Residential Society",
-      "Sector 88 Retail Hub",
-      "Amrita Hospital Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

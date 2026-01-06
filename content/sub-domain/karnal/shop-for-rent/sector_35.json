@@ -7,10 +7,19 @@
       "We provide meticulously curated listings of commercial properties ranging from high-visibility ground floor retail units to strategically located office-cum-shop spaces. Stop searching endlessly and leverage our local expertise to secure a shop that aligns perfectly with your business requirements and growth projections. Start your success story here in Sector 35 Karnal's thriving market."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/listings" },
-      { "label": "Request A Commercial Consultation", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Request A Commercial Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Options for Shops For Rent in Sector 35 Tailored for Success",
@@ -52,14 +61,56 @@
       "Explore how renting a Shop For Rent in Sector 35 places you within easy reach of transport links established markets and burgeoning residential colonies guaranteeing a steady flow of potential customers and reliable business operations throughout the year."
     ],
     "locations": [
-      "NH 44 Connectivity",
-      "Sector 33 Commercial Market",
-      "Karnal Bus Stand Access",
-      "Close Proximity to Residential Sectors 32 and 36",
-      "Medical Facilities Hubs nearby",
-      "Easy Access to the City Center",
-      "Upcoming Retail Development Zones",
-      "Industrial Area Road Linkages"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure a commercial space that drives success We specialize in connecting ambitious entrepreneurs with premium retail and office properties in Sector 35.",
       "Fill out the form below detailing your specific requirements including size budget and intended business type and one of our dedicated commercial property consultants will reach out promptly with tailored listings."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

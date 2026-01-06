@@ -7,12 +7,18 @@
       "Investing in a residential apartment here means securing a future in a rapidly appreciating locale adjacent to major corporate hubs and essential social infrastructure. Our listings feature RERA registered projects known for their quality construction and timely delivery. Start your property journey today and find the ideal residential Flat in Sector 63 that meets all your criteria for location value and modern amenity access."
     ],
     "buttons": [
-      { "label": "View All Flats Listings", "path": "/properties/sector-63" },
-      { "label": "Schedule a Site Visit", "path": "/contact-us" }
+      {
+        "label": "View All Flats Listings",
+        "path": "/properties/sector-63"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "/images/hero-flat-sector63-1.jpg",
-      "/images/hero-flat-sector63-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Furthermore, the proximity to the Eastern Peripheral Expressway and NH-24 ensures quick road access. Living in a Flat For Sale in Sector 63 means you are minutes away from major IT/ITES corporate campuses BPO firms and commercial complexes like Logix Infotech Park and Stellar IT Park. This robust connectivity profile significantly boosts the demand and long-term appreciation value of residential property in Sector 63 making it a cornerstone for secure investment."
     ],
     "locations": [
-      "Noida Electronic City Metro Station proximity",
-      "Direct access to NH-24 and major highways",
-      "Proximity to Sector 62 corporate offices",
-      "Easy commute to Ghaziabad and Indirapuram",
-      "Nearby top-tier educational institutions and universities",
-      "Malls and entertainment zones just 15 minutes away",
-      "Hospitals and critical healthcare facilities access",
-      "Adjacent to bustling local markets and dining options"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

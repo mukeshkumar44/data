@@ -7,10 +7,19 @@
       "We curate the best verified listings featuring spacious layouts top-tier construction quality and access to world-class amenities. Explore our exclusive collection of 2BHK apartments ensuring you find a home that matches both your lifestyle requirements and your budget expectations. Securing a 2BHK flat in Sector 51 Noida guarantees superior urban accessibility combined with tranquil community living."
     ],
     "buttons": [
-      { "label": "View Verified 2BHK Listings", "path": "/listings/2bhk" },
-      { "label": "Schedule a Site Visit Today", "path": "/contact" }
+      {
+        "label": "View Verified 2BHK Listings",
+        "path": "/listings/2bhk"
+      },
+      {
+        "label": "Schedule a Site Visit Today",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Features of Every 2BHK Flat For Sale in Sector 51 Noida",
@@ -52,14 +61,56 @@
       "The location provides superb linkages to major expressways and neighboring sectors ensuring smooth travel whether you are commuting to Delhi or working in Greater Noida or the nearby corporate hubs of Sector 62 and Sector 18. This robust connectivity profile solidifies Sector 51 as a premier residential address for property seekers."
     ],
     "locations": [
-      "Sector 50 Residential Hub",
-      "Sector 71 Interchange Metro Station",
-      "Sai Mandir Noida",
-      "Fortis Hospital Noida",
-      "Wave City Center",
-      "Mahamaya Flyover Access",
-      "FNG Expressway Link",
-      "HCL Corporate Campus"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

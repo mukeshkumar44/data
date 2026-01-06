@@ -7,10 +7,19 @@
       "Explore our curated listings featuring verified flats ranging from cozy 1 BHK units perfect for young professionals to expansive 4 BHK luxury apartments ideal for large families. Sector 30 provides residents with access to top-tier schools, advanced healthcare facilities, and vibrant local markets, ensuring all your daily needs are met within minutes. Invest wisely in a property that promises steady appreciation and unmatched quality of life."
     ],
     "buttons": [
-      { "label": "Explore Available Flats Now", "path": "/listings" },
-      { "label": "Schedule a Site Visit Today", "path": "/contact" }
+      {
+        "label": "Explore Available Flats Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit Today",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Diverse Range of Flat Options and Sizes Available in Sector 30",
@@ -52,14 +61,56 @@
       "The sector benefits from excellent public transport infrastructure including proximity to the nearest Metro Station which offers fast and reliable commutation services. Furthermore, key educational institutions like DPS and prominent hospitals are just a short drive away. This perfect blend of convenience, connectivity, and quality social infrastructure solidifies Sector 30 as a premier residential address for your next home purchase."
     ],
     "locations": [
-      "Proximity to Delhi-Gurugram Skyway",
-      "Near major corporate offices and business parks",
-      "Close access to Badarpur Border for easy Delhi travel",
-      "Excellent connectivity via local buses and auto services",
-      "Short drive to prominent shopping malls and entertainment centers",
-      "Well-developed internal road network within the sector",
-      "Access to reputable schools and universities nearby",
-      "Efficient transport links to other sectors of Gurugram"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning a high-quality Flat For Sale in sector_30. Our experienced real estate advisors are standing by to offer personalized listings, detailed market insights, and schedule site visits at your convenience. Don't miss out on securing your dream home in this prestigious locality.",
       "Fill out the contact form below and let us help you navigate the Sector 30 real estate market with professionalism and expertise. Your future home in Gurugram awaits."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

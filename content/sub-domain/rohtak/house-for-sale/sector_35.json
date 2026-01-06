@@ -7,12 +7,18 @@
       "Discover exclusive listings of quality constructed homes that meet stringent structural standards and feature high-end finishes. We specialise in helping you navigate the complexities of buying a house ensuring clear titles transparency and seamless transactions. Start your search today and step into a lifestyle defined by convenience security and superior quality of life in one of Rohtak's most prestigious sectors. Explore the best House For Sale in Sector 35 options tailored to your family's needs."
     ],
     "buttons": [
-      { "label": "View All House Listings", "path": "/listings" },
-      { "label": "Schedule A Site Visit", "path": "/contact" }
+      {
+        "label": "View All House Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule A Site Visit",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "house_sector35_1.jpg",
-      "house_sector35_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -54,7 +60,58 @@
       "Sector 35 is lauded for its strategic position providing residents with unparalleled access to Rohtak's essential services and neighboring cities. Located close to the National Highway 9 (NH9) connectivity to Delhi and other NCR regions is swift and efficient making daily commutes significantly easier. This sector benefits from wide internal roads dedicated green belts and robust infrastructure planning ensuring a smooth living environment.",
       "The proximity to major educational institutions like Maharshi Dayanand University (MDU) and premier schools ensures convenience for families with children. Healthcare facilities shopping centers and recreational parks are all within a short drive. This prime location combined with the ready availability of a high-quality House For Sale in Sector 35 confirms its status as the perfect place to establish roots and enjoy premium urban living in Rohtak."
     ],
-    "locations": []
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Eight Compelling Reasons to Choose a House For Sale in Sector 35 Rohtak",
@@ -149,6 +206,11 @@
       "Contact our expert property consultants today to discuss your specific requirements arrange exclusive site visits and receive personalized advice on the best listings in Sector 35. We are committed to finding you the perfect home that meets all your criteria.",
       "Fill out the form below and a member of our dedicated team will reach out within 24 hours to begin your seamless home buying journey."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

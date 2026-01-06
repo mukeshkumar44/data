@@ -17,9 +17,8 @@
       }
     ],
     "images": [
-      "flat-145-exterior.jpg",
-      "flat-145-interior.jpg",
-      "flat-145-amenity.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -62,13 +61,56 @@
       "Moreover, the immediate presence of the Aqua Line Metro Station and nearby corporate parks significantly enhances the value proposition of every Flat For Rent in Sector 145 Noida. Residents enjoy immediate access to essential services, educational institutions, and healthcare facilities, positioning Sector 145 as a premier residential destination."
     ],
     "locations": [
-      "Sector 145 Metro Station",
-      "Noida-Greater Noida Expressway",
-      "Sector 146 Development Hub",
-      "Sector 137 Retail Centers",
-      "Stellar Business Park",
-      "Shiv Nadar School Noida",
-      "Jaypee Hospital Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Rental Housing Options Available in Tagore Garden Ambala for Every Need",
@@ -58,14 +61,56 @@
       "We help you accurately assess the commute times to important economic and transit areas like the Ambala Cantt Railway Station, key local schools, and major marketplaces. This ensures your chosen rental property in Tagore Garden enhances your daily routine and overall quality of life rather than complicating essential travel."
     ],
     "locations": [
-      "Model Town Extension nearby",
-      "Prem Nagar residential sector",
-      "Mahesh Nagar prime locality",
-      "Sector 9 Ambala housing areas",
-      "Ambala Cantt Station Road connectivity",
-      "Indira Colony adjoining area",
-      "Sadar Bazaar Ambala market hub",
-      "Baldev Nagar access route"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

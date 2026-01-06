@@ -7,10 +7,19 @@
       "Searching for a house for rent in Mithapur can be overwhelming but our platform simplifies the process significantly. We feature detailed listings including high-resolution images floor plans and proximity mapping to essential services like schools hospitals and markets. Whether you need a compact 1 BHK for a professional or a spacious independent house for your large family your search for premium rental property starts and ends right here with confidence and ease."
     ],
     "buttons": [
-      { "label": "Browse Verified Listings", "path": "/listings" },
-      { "label": "Request Personalized Search", "path": "/contact" }
+      {
+        "label": "Browse Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Personalized Search",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring the Best Types of House For Rent in Mithapur Based on Your Needs",
@@ -52,14 +61,56 @@
       "Whether you prefer the bustle of areas closer to the industrial zones or the quieter more serene environment of established colonies our detailed location guides help you make an informed choice. Our listings are geo-tagged making it easy to see exactly what amenities schools and transport hubs are nearby ensuring your next house for rent in Mithapur is perfectly situated for your life."
     ],
     "locations": [
-      "Mithapur Main Market Area",
-      "IOCL Residential Colony",
-      "New Housing Board Flats",
-      "Railway Station Residential Sector",
-      "Old Town Heritage Houses",
-      "Shanti Nagar Residential Zone",
-      "Coastal View Apartments",
-      "Industrial Area Backstreet Rentals"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

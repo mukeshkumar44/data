@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Diverse Property Types and Investment Opportunities in Ashok Vihar Phase 2",
@@ -58,13 +61,56 @@
       "Location within Ashok Vihar Phase 2 significantly impacts factors like parking availability, noise levels, and proximity to the metro station. When you work with us, you gain access to insider information about upcoming sales, distressed properties, and listings that are not yet publicly advertised. We guarantee that the agent assigned to you is an expert in your exact area of interest, maximizing your chances of securing the best possible price whether buying or selling."
     ],
     "locations": [
-      "Block A Ashok Vihar Phase 2",
-      "Block B Residential Pockets",
-      "Near Deep Cinema Market",
-      "Ashok Vihar Main Market Area",
-      "Properties Near Wazirpur Depot",
-      "DDA Flats Pocket",
-      "Commercial Complex Listings"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,10 +7,19 @@
       "Sector 7 offers a diverse mix of independent houses plots and builder floors making transactions complex without professional assistance. Avoid market pitfalls and secure the best possible deal with agents who know the micro-markets street by street. Our featured Real Estate Agents prioritize transparency swift communication and client satisfaction guaranteeing a stress-free property journey from listing to closing. Start your intelligent property search right here and find your perfect agent immediately."
     ],
     "buttons": [
-      { "label": "Find Your Sector 7 Property", "path": "/properties" },
-      { "label": "Request a Free Valuation Report", "path": "/valuation" }
+      {
+        "label": "Find Your Sector 7 Property",
+        "path": "/properties"
+      },
+      {
+        "label": "Request a Free Valuation Report",
+        "path": "/valuation"
+      }
     ],
-    "images": ["/images/hero/sector7_agency.jpg", "/images/hero/gurugram_skyline.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Plot and Property Options Managed by Top Real Estate Agents in Sector 7",
@@ -52,14 +61,56 @@
       "Beyond the primary residential market our agents also facilitate transactions in nearby interconnected sectors and specific property types that hold high liquidity. Whether you are looking for a ready-to-move-in apartment a high-yield rental unit or a space for your new business venture we leverage our extensive network to present you with curated options that align perfectly with your investment goals and budget parameters in Gurugram."
     ],
     "locations": [
-      "Independent Houses in Sector 7",
-      "Builder Floors Sector 7",
-      "Ready to Move Apartments near Sector 7",
-      "Rental Properties in Sector 7",
-      "Commercial Shops nearby",
-      "Plots for Sale in Old Gurugram",
-      "Residential Properties Near Delhi-Jaipur Expressway",
-      "Investment Opportunities Sector 7 Extension"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step in your property journey in Sector 7 Gurugram? Fill out the brief form below to be instantly connected with a vetted professional agent who specializes in your specific needs whether buying selling or investing. Our service ensures a prompt and expert response.",
       "Do not leave your critical property decisions to chance. Leverage the expertise of the best Real Estate Agents in Sector 7 and ensure your transaction is handled with precision confidentiality and market insight from start to successful finish."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

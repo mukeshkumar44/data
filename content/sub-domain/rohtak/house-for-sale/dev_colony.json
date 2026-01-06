@@ -7,10 +7,19 @@
       "Dev Colony boasts robust infrastructure including wide roads, reliable water supply, and proximity to top educational institutions and healthcare facilities. Investing in a house here ensures long-term value appreciation and a comfortable lifestyle. Explore our verified listings today and take the first step toward owning your perfect home in the heart of Rohtak. We provide detailed property information, transparent pricing, and professional assistance to make your home-buying journey seamless and rewarding."
     ],
     "buttons": [
-      { "label": "Explore Houses Now", "path": "/listings/dev-colony" },
-      { "label": "Book A Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Houses Now",
+        "path": "/listings/dev-colony"
+      },
+      {
+        "label": "Book A Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/dev-colony-house-1.jpg", "/images/dev-colony-house-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Property Types When Searching for a House For Sale in Dev Colony Rohtak",
@@ -52,13 +61,56 @@
       "We provide expert insights into neighbouring areas that maintain strong civic infrastructure and robust real estate appreciation trends. Whether you need proximity to the Delhi Road or want quieter residential pockets, our localized knowledge covers all your needs, ensuring you find the best value for your investment."
     ],
     "locations": [
-      "Sector 14 Rohtak",
-      "Sector 3 Rohtak",
-      "Model Town Rohtak",
-      "Shivaji Colony Rohtak",
-      "Ganga Vihar Colony",
-      "Maharaja Agarsen Colony",
-      "Delhi Bypass Road Residential Pockets"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -154,6 +206,11 @@
       "Ready to secure your ideal house in Dev Colony? Our team of professional real estate consultants specializes in this locality and can provide tailored advice, detailed market insights, and exclusive property viewings.",
       "Fill out the form below to receive immediate assistance, schedule a visit to your preferred property, or get answers to any complex legal or financial questions regarding your home purchase in Rohtak."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

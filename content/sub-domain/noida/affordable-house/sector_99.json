@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "affordable_house_sector_99_main.jpg",
-      "sector_99_noida_skyline.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "The rapid development along the Noida Expressway corridor ensures that residents of an affordable house in Sector 99 benefit from future infrastructure improvements including upcoming metro links and enhanced road networks. This superior connectivity makes Sector 99 a pragmatic and strategic choice for modern living."
     ],
     "locations": [
-      "Sector 100 Residential Hub",
-      "Proximity to Noida Expressway",
-      "Direct Access to Delhi and Greater Noida",
-      "Near Sector 137 Metro Station",
-      "Key Educational Institutions nearby",
-      "Close to major IT Parks and Business Centers"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,12 +7,18 @@
       "Explore a wide range of verified listings for a 2BHK flat for sale in Sector 22 Noida featuring top-tier amenities, secure gated communities, and proximity to major IT hubs and educational institutions. We prioritize transparency and ensure every property meets rigorous quality standards. Begin your property search today and step closer to owning your dream home in one of Noida's most sought-after sectors."
     ],
     "buttons": [
-      { "label": "Explore All 2BHK Listings", "path": "/listings/sector22/2bhk" },
-      { "label": "Schedule a Site Visit Now", "path": "/contact" }
+      {
+        "label": "Explore All 2BHK Listings",
+        "path": "/listings/sector22/2bhk"
+      },
+      {
+        "label": "Schedule a Site Visit Now",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "2bhk_sector22_hero1.jpg",
-      "2bhk_sector22_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Living here means less time commuting and more time enjoying life. The area boasts proximity to world-class hospitals, reputable schools, and buzzing retail centers, making it ideal for families. When searching for a 2BHK flat for sale in Sector 22, the inherent value of the location itself must be factored in as it directly contributes to lifestyle quality and property valuation over time. Discover why connectivity is the biggest advantage of choosing Sector 22."
     ],
     "locations": [
-      "DND Flyway Access",
-      "Sector 15 Metro Station",
-      "Major Educational Institutions",
-      "GIP Mall and Atta Market",
-      "Film City Noida",
-      "Noida Expressway Link",
-      "Nearby Hospitals and Clinics",
-      "Commercial Hubs of Sector 62 and 63"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to take the next step towards owning your perfect 2BHK flat for sale in Sector 22 Noida Our team of localized experts is here to guide you through every stage, from shortlisting properties to final registration.",
       "Submit your details below or call us today to receive personalized listings, arrange site visits, and get expert advice on market pricing and documentation requirements. Your ideal home awaits."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

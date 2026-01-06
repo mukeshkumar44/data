@@ -7,10 +7,19 @@
       "Whether you are looking for a small retail unit, a large anchor space, or a dedicated food court presence, finding the perfect Shop For Sale in Sector 82 has never been easier. Our expert team provides end-to-end guidance, helping you navigate legal clearances, pricing negotiations, and due diligence, ensuring a smooth and profitable acquisition process. Invest in Sector 82 Noida now to capitalize on its burgeoning infrastructure and connectivity advantages."
     ],
     "buttons": [
-      { "label": "Explore Verified Listings", "path": "/listings" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "Explore Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Property Options When Looking For a Shop For Sale in Sector 82 Noida",
@@ -52,12 +61,56 @@
       "We provide targeted information on emerging commercial clusters, proximity to major residential catchments, and future infrastructure plans impacting specific retail corridors. When you seek a Shop For Sale in Sector 82, consider factors like connectivity to the Noida Expressway, proximity to the nearest metro station, and the density of neighboring residential societies to optimize your investment for maximum yield."
     ],
     "locations": [
-      "High Street Retail Facing Main Roads",
-      "Ground Floor Shops in Premium Commercial Malls",
-      "Dedicated F&B Zones and Food Courts",
-      "Shop Spaces Near Metro Connectivity Points",
-      "Commercial Hubs Adjacent to Residential Societies",
-      "Service Shops and Utility Centers in Sector 82"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to capitalize on the lucrative commercial real estate market in Sector 82 We offer personalized consultations and curated tours of verified commercial spaces that match your investment budget and return expectations.",
       "Fill out the form below or contact us directly to discuss pricing, availability, and strategic investment planning in Sector 82 Noida."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

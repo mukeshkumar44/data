@@ -1,4 +1,3 @@
-```json
 {
   "domain": "www.exampleproperty.com",
   "hero": {
@@ -8,10 +7,19 @@
       "Whether you're starting a retail store, boutique, or service center, our rental shops in Jasmeet Nagar provide the ideal foundation for your entrepreneurial journey. Flexible lease terms and competitive pricing make these spaces accessible for all business types."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/shop-for-rent" },
-      { "label": "Contact Agent", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/shop-for-rent"
+      },
+      {
+        "label": "Contact Agent",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Shop Sizes Available in Jasmeet Nagar Ambala",
@@ -20,12 +28,30 @@
       "Each shop is designed with business functionality in mind, featuring proper ventilation, electricity connections, and customer-friendly layouts."
     ],
     "features": [
-      { "title": "100 Sq Ft Shop", "description": "Ideal for small retail outlets, mobile stores, or service kiosks. These compact spaces offer affordability without compromising on location quality in Jasmeet Nagar." },
-      { "title": "200 Sq Ft Shop", "description": "Perfect for boutique stores, small electronics shops, or beauty parlors. These mid-sized shops balance space and cost-effectiveness in prime Jasmeet Nagar locations." },
-      { "title": "300 Sq Ft Shop", "description": "Great for medium-sized retail businesses, pharmacies, or stationery shops. These spaces allow for proper product display and customer movement." },
-      { "title": "400 Sq Ft Shop", "description": "Suitable for larger retail operations, small supermarkets, or appliance showrooms. These shops offer ample space for inventory and customer service areas." },
-      { "title": "500 Sq Ft Shop", "description": "Excellent for fashion outlets, furniture showrooms, or electronic stores. These spacious shops can accommodate extensive product ranges." },
-      { "title": "600+ Sq Ft Shop", "description": "Ideal for wholesale businesses, large showrooms, or multi-product retail stores. These premium spaces cater to established businesses looking for prominent locations." }
+      {
+        "title": "100 Sq Ft Shop",
+        "description": "Ideal for small retail outlets, mobile stores, or service kiosks. These compact spaces offer affordability without compromising on location quality in Jasmeet Nagar."
+      },
+      {
+        "title": "200 Sq Ft Shop",
+        "description": "Perfect for boutique stores, small electronics shops, or beauty parlors. These mid-sized shops balance space and cost-effectiveness in prime Jasmeet Nagar locations."
+      },
+      {
+        "title": "300 Sq Ft Shop",
+        "description": "Great for medium-sized retail businesses, pharmacies, or stationery shops. These spaces allow for proper product display and customer movement."
+      },
+      {
+        "title": "400 Sq Ft Shop",
+        "description": "Suitable for larger retail operations, small supermarkets, or appliance showrooms. These shops offer ample space for inventory and customer service areas."
+      },
+      {
+        "title": "500 Sq Ft Shop",
+        "description": "Excellent for fashion outlets, furniture showrooms, or electronic stores. These spacious shops can accommodate extensive product ranges."
+      },
+      {
+        "title": "600+ Sq Ft Shop",
+        "description": "Ideal for wholesale businesses, large showrooms, or multi-product retail stores. These premium spaces cater to established businesses looking for prominent locations."
+      }
     ]
   },
   "locationsSection": {
@@ -35,16 +61,56 @@
       "Business owners looking at Jasmeet Nagar will find these adjacent areas equally attractive for their commercial potential and accessibility."
     ],
     "locations": [
-      "Model Town Ambala",
-      "Railway Road Ambala",
-      "Naraingarh Road",
-      "Ambala Cantt Market",
-      "Sector 7 Ambala",
-      "Patel Nagar Ambala",
-      "Jagadhri Road",
-      "Shivaji Colony",
-      "Dayal Bagh",
-      "Kalka Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -54,30 +120,84 @@
       "From strategic positioning to growing customer bases, discover why entrepreneurs are choosing Jasmeet Nagar for their business ventures."
     ],
     "points": [
-      { "title": "Strategic Location", "description": "Jasmeet Nagar enjoys prime positioning with excellent connectivity to major roads and residential areas, ensuring consistent footfall and visibility for your business." },
-      { "title": "Growing Commercial Hub", "description": "The area is rapidly developing as a commercial center, attracting diverse businesses and creating a synergistic environment that benefits all establishments." },
-      { "title": "Affordable Rental Rates", "description": "Compared to more established commercial areas, Jasmeet Nagar offers competitive rental prices, allowing businesses to save on overhead costs." },
-      { "title": "Mixed Customer Base", "description": "The location attracts customers from various socioeconomic backgrounds, making it ideal for businesses targeting different market segments." },
-      { "title": "Modern Infrastructure", "description": "Shops in Jasmeet Nagar feature contemporary designs with proper utilities, parking facilities, and commercial-grade construction standards." },
-      { "title": "Future Appreciation Potential", "description": "As the area continues to develop, property values and commercial viability are expected to increase, making it a smart long-term investment." },
-      { "title": "Business-Friendly Environment", "description": "Local authorities support commercial growth with proper zoning, security, and infrastructure maintenance in Jasmeet Nagar." },
-      { "title": "Flexible Lease Options", "description": "Property owners in the area offer various lease terms to accommodate different business models and financial situations." }
+      {
+        "title": "Strategic Location",
+        "description": "Jasmeet Nagar enjoys prime positioning with excellent connectivity to major roads and residential areas, ensuring consistent footfall and visibility for your business."
+      },
+      {
+        "title": "Growing Commercial Hub",
+        "description": "The area is rapidly developing as a commercial center, attracting diverse businesses and creating a synergistic environment that benefits all establishments."
+      },
+      {
+        "title": "Affordable Rental Rates",
+        "description": "Compared to more established commercial areas, Jasmeet Nagar offers competitive rental prices, allowing businesses to save on overhead costs."
+      },
+      {
+        "title": "Mixed Customer Base",
+        "description": "The location attracts customers from various socioeconomic backgrounds, making it ideal for businesses targeting different market segments."
+      },
+      {
+        "title": "Modern Infrastructure",
+        "description": "Shops in Jasmeet Nagar feature contemporary designs with proper utilities, parking facilities, and commercial-grade construction standards."
+      },
+      {
+        "title": "Future Appreciation Potential",
+        "description": "As the area continues to develop, property values and commercial viability are expected to increase, making it a smart long-term investment."
+      },
+      {
+        "title": "Business-Friendly Environment",
+        "description": "Local authorities support commercial growth with proper zoning, security, and infrastructure maintenance in Jasmeet Nagar."
+      },
+      {
+        "title": "Flexible Lease Options",
+        "description": "Property owners in the area offer various lease terms to accommodate different business models and financial situations."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Renting Shops in Jasmeet Nagar",
     "description": "Find answers to common queries about commercial property rentals in Jasmeet Nagar Ambala. Our comprehensive FAQ section addresses all aspects of shop leasing in this growing business district.",
     "faqs": [
-      { "question": "What is the average rental price for shops in Jasmeet Nagar Ambala", "answer": "Rental rates in Jasmeet Nagar vary based on shop size, location within the area, and property condition. Generally, prices range from ₹5,000 to ₹25,000 per month. Smaller shops (100-200 sq ft) typically start around ₹5,000-₹10,000, while larger spaces (500+ sq ft) can go up to ₹20,000-₹25,000. Prime corner locations may command higher rents. We recommend contacting our agents for current market rates and available properties." },
-      { "question": "What types of businesses perform well in Jasmeet Nagar", "answer": "Jasmeet Nagar supports diverse commercial activities successfully. Retail stores (clothing, electronics, groceries), food businesses (restaurants, bakeries), service providers (salons, repair shops), and educational centers all thrive here. The area's mixed residential-commercial character creates demand for daily-need products and services. Businesses catering to families, students, and working professionals particularly benefit from Jasmeet Nagar's demographic profile." },
-      { "question": "Are there any legal restrictions on businesses in Jasmeet Nagar", "answer": "Jasmeet Nagar follows standard Ambala municipal commercial regulations. Most retail and service businesses are permitted, though certain industries may require specific licenses. Food establishments need FSSAI approval, while educational centers require proper certifications. We advise verifying your particular business type with local authorities. Our team can assist with understanding zoning laws and necessary paperwork for smooth business operations." },
-      { "question": "How is the parking situation for shops in Jasmeet Nagar", "answer": "Parking availability varies by property. Many shops include dedicated parking spaces for owners and staff, while street parking serves customers. Newer developments typically offer better parking provisions. For businesses expecting high customer vehicle traffic, we recommend prioritizing properties with ample parking or nearby public parking options. Our agents can identify shops with parking solutions matching your business needs." },
-      { "question": "What is the typical lease duration for commercial properties in Jasmeet Nagar", "answer": "Standard commercial leases in Jasmeet Nagar usually run for 11 months (renewable), though longer terms of 2-3 years are also common. Short-term rentals (3-6 months) may be available but often at premium rates. Lease terms are negotiable based on tenant requirements and owner preferences. We facilitate discussions to establish mutually beneficial agreements between landlords and business owners." },
-      { "question": "Are there hidden costs when renting a shop in Jasmeet Nagar", "answer": "Beyond monthly rent, tenants should budget for security deposits (typically 2-3 months' rent), maintenance charges (if in a complex), and utility connections. Property tax is usually the owner's responsibility. Some leases include maintenance in the rent, while others charge separately. We ensure full transparency about all financial obligations before lease signing, preventing unexpected costs for our clients." },
-      { "question": "How can I evaluate foot traffic potential for a specific shop location", "answer": "Assessing foot traffic involves multiple factors - proximity to residential areas, visibility from main roads, nearby landmarks, and competing/complementary businesses. Morning and evening walk-throughs help gauge daily patterns. We provide historical data and demographic analysis for properties, plus arrange site visits during peak hours. This comprehensive evaluation ensures you select a location matching your customer volume expectations." },
-      { "question": "What amenities are typically included with shop rentals in Jasmeet Nagar", "answer": "Standard amenities include electricity connections, water supply, and basic sanitation facilities. Higher-end properties may offer air conditioning, fire safety systems, and security features. Many shops have storage areas and staff washrooms. Newer constructions often include broadband readiness and modern lighting. We carefully match your business requirements with properties offering appropriate amenities for optimal operations." },
-      { "question": "How quickly can I occupy a shop after signing the lease in Jasmeet Nagar", "answer": "Occupancy timelines depend on the property's current condition and any customization needs. For ready-to-use shops, possession typically occurs within 3-7 days after completing paperwork and payment. Spaces requiring modifications may take 2-4 weeks. We coordinate all processes efficiently, from documentation to utility transfers, ensuring you can commence business operations at the earliest possible date." },
-      { "question": "Can I sublease my rented shop in Jasmeet Nagar if needed", "answer": "Subleasing policies vary by property owner. Some leases explicitly permit subletting with prior approval, while others prohibit it entirely. We recommend discussing this requirement upfront during lease negotiations. Our team can identify properties with flexible sublease clauses if this is important for your business model. Clear communication prevents future complications regarding space usage rights." }
+      {
+        "question": "What is the average rental price for shops in Jasmeet Nagar Ambala",
+        "answer": "Rental rates in Jasmeet Nagar vary based on shop size, location within the area, and property condition. Generally, prices range from ₹5,000 to ₹25,000 per month. Smaller shops (100-200 sq ft) typically start around ₹5,000-₹10,000, while larger spaces (500+ sq ft) can go up to ₹20,000-₹25,000. Prime corner locations may command higher rents. We recommend contacting our agents for current market rates and available properties."
+      },
+      {
+        "question": "What types of businesses perform well in Jasmeet Nagar",
+        "answer": "Jasmeet Nagar supports diverse commercial activities successfully. Retail stores (clothing, electronics, groceries), food businesses (restaurants, bakeries), service providers (salons, repair shops), and educational centers all thrive here. The area's mixed residential-commercial character creates demand for daily-need products and services. Businesses catering to families, students, and working professionals particularly benefit from Jasmeet Nagar's demographic profile."
+      },
+      {
+        "question": "Are there any legal restrictions on businesses in Jasmeet Nagar",
+        "answer": "Jasmeet Nagar follows standard Ambala municipal commercial regulations. Most retail and service businesses are permitted, though certain industries may require specific licenses. Food establishments need FSSAI approval, while educational centers require proper certifications. We advise verifying your particular business type with local authorities. Our team can assist with understanding zoning laws and necessary paperwork for smooth business operations."
+      },
+      {
+        "question": "How is the parking situation for shops in Jasmeet Nagar",
+        "answer": "Parking availability varies by property. Many shops include dedicated parking spaces for owners and staff, while street parking serves customers. Newer developments typically offer better parking provisions. For businesses expecting high customer vehicle traffic, we recommend prioritizing properties with ample parking or nearby public parking options. Our agents can identify shops with parking solutions matching your business needs."
+      },
+      {
+        "question": "What is the typical lease duration for commercial properties in Jasmeet Nagar",
+        "answer": "Standard commercial leases in Jasmeet Nagar usually run for 11 months (renewable), though longer terms of 2-3 years are also common. Short-term rentals (3-6 months) may be available but often at premium rates. Lease terms are negotiable based on tenant requirements and owner preferences. We facilitate discussions to establish mutually beneficial agreements between landlords and business owners."
+      },
+      {
+        "question": "Are there hidden costs when renting a shop in Jasmeet Nagar",
+        "answer": "Beyond monthly rent, tenants should budget for security deposits (typically 2-3 months' rent), maintenance charges (if in a complex), and utility connections. Property tax is usually the owner's responsibility. Some leases include maintenance in the rent, while others charge separately. We ensure full transparency about all financial obligations before lease signing, preventing unexpected costs for our clients."
+      },
+      {
+        "question": "How can I evaluate foot traffic potential for a specific shop location",
+        "answer": "Assessing foot traffic involves multiple factors - proximity to residential areas, visibility from main roads, nearby landmarks, and competing/complementary businesses. Morning and evening walk-throughs help gauge daily patterns. We provide historical data and demographic analysis for properties, plus arrange site visits during peak hours. This comprehensive evaluation ensures you select a location matching your customer volume expectations."
+      },
+      {
+        "question": "What amenities are typically included with shop rentals in Jasmeet Nagar",
+        "answer": "Standard amenities include electricity connections, water supply, and basic sanitation facilities. Higher-end properties may offer air conditioning, fire safety systems, and security features. Many shops have storage areas and staff washrooms. Newer constructions often include broadband readiness and modern lighting. We carefully match your business requirements with properties offering appropriate amenities for optimal operations."
+      },
+      {
+        "question": "How quickly can I occupy a shop after signing the lease in Jasmeet Nagar",
+        "answer": "Occupancy timelines depend on the property's current condition and any customization needs. For ready-to-use shops, possession typically occurs within 3-7 days after completing paperwork and payment. Spaces requiring modifications may take 2-4 weeks. We coordinate all processes efficiently, from documentation to utility transfers, ensuring you can commence business operations at the earliest possible date."
+      },
+      {
+        "question": "Can I sublease my rented shop in Jasmeet Nagar if needed",
+        "answer": "Subleasing policies vary by property owner. Some leases explicitly permit subletting with prior approval, while others prohibit it entirely. We recommend discussing this requirement upfront during lease negotiations. Our team can identify properties with flexible sublease clauses if this is important for your business model. Clear communication prevents future complications regarding space usage rights."
+      }
     ]
   },
   "contactSection": {
@@ -86,7 +206,11 @@
       "Ready to find your ideal shop for rent in Jasmeet Nagar Ambala? Our specialized agents understand the local market intricacies and can guide you to the perfect commercial space.",
       "Complete the form below for personalized assistance, property viewings, or any queries regarding commercial rentals in Jasmeet Nagar and surrounding areas."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }
-```

@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "3bhk_sector106_hero1.jpg",
-      "3bhk_sector106_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,11 +61,56 @@
       "We highlight the key distance markers that confirm Sector 106 as a central location for modern urban living. From top-tier educational institutions and healthcare facilities to sprawling retail centers everything you need is just a short drive away. This perfect balance between accessibility and residential tranquility defines the appeal of a 3BHK flat in this burgeoning sector."
     ],
     "locations": [
-      "Dwarka Expressway Access",
-      "Indira Gandhi International Airport IGI",
-      "Gurugram Cyber Hub and Sector 29",
-      "Major Retail and Shopping Malls",
-      "Leading Educational Institutions"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

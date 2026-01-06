@@ -7,12 +7,18 @@
       "Choosing the right agent is the crucial first step to a successful deal. Forget endless searching and frustrating negotiations. Our top-tier professionals provide end-to-end support, covering property valuation, legal due diligence, effective marketing, and smooth paperwork handling. Let the leading real estate agents in Sector 76 handle the complexities while you focus on your future investment goals. Start your profitable property journey today with trusted local experts."
     ],
     "buttons": [
-      { "label": "Find Your Dream Property Now", "path": "/properties/sector-76" },
-      { "label": "Consult a Local Agent Free", "path": "/contact-us" }
+      {
+        "label": "Find Your Dream Property Now",
+        "path": "/properties/sector-76"
+      },
+      {
+        "label": "Consult a Local Agent Free",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "/images/hero-sector-76-agents-1.jpg",
-      "/images/hero-sector-76-agents-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Our familiarity extends to assessing infrastructural developments, future growth corridors, and comparative property values across neighboring areas. This holistic approach provides our clients with the broadest selection of profitable investment and living solutions near Sector 76 Noida."
     ],
     "locations": [
-      "Sector 75 Residential Projects",
-      "Sector 77 Commercial Hubs",
-      "Sector 78 High-Rise Apartments",
-      "Dadri Main Road Connectivity",
-      "Noida Expressway Corridor",
-      "Gautam Buddh Nagar Developments",
-      "Close Proximity to Metro Stations",
-      "Sector 104 Upscale Living"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to move forward with your property goals in Sector 76 Noida Let our team of seasoned professionals guide you toward success. Whether buying, selling, or seeking expert advice, we are here to provide tailored solutions.",
       "Fill out the form below and one of our expert real estate agents in Sector 76 will contact you promptly to discuss your specific requirements in detail and confidentiality."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

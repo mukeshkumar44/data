@@ -7,12 +7,18 @@
       "We understand the nuances of pricing, future infrastructure developments, and legal documentation specific to this booming locality. Whether you are a first-time buyer seeking clarity or an experienced investor looking for high-yield opportunities, we provide transparent and strategic advice. Trust us to simplify your journey in the dynamic Sector 87 property landscape and secure your ideal investment."
     ],
     "buttons": [
-      { "label": "Contact Our Top Agents", "path": "/contact" },
-      { "label": "Explore Available Listings", "path": "/listings" }
+      {
+        "label": "Contact Our Top Agents",
+        "path": "/contact"
+      },
+      {
+        "label": "Explore Available Listings",
+        "path": "/listings"
+      }
     ],
     "images": [
-      "sector-87-skyline.jpg",
-      "agent-consultation.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "This holistic approach ensures that your decision to invest in Sector 87 is well-grounded within the broader Gurugram real estate ecosystem. Our agents often deal with cross-sector comparisons, helping clients who might be deciding between Sector 87's infrastructure and the established amenities of areas closer to National Highway 48. We highlight the rapid development pace and the planned metro extension which solidify Sector 87's position as a future investment hotspot. We are your comprehensive guide to the entire growth corridor."
     ],
     "locations": [
-      "Sector 86 Gurugram",
-      "Sector 88 Gurugram",
-      "Sector 89 Gurugram",
-      "Dwarka Expressway",
-      "Pataudi Road",
-      "Kherki Daula Toll Plaza",
-      "IMT Manesar",
-      "Sector 84 Gurugram"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

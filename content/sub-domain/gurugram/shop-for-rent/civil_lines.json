@@ -7,10 +7,19 @@
       "Secure your next commercial address in an area renowned for affluent foot traffic and excellent connectivity across the city. Start browsing verified listings for a shop for rent in Civil Lines now and take the crucial step towards guaranteed business success. We prioritize transparent dealings and ready-to-move-in properties so you can focus entirely on what matters most—your customers and operational growth."
     ],
     "buttons": [
-      { "label": "View Prime Shop Listings", "path": "/listings/shops-for-rent" },
-      { "label": "Schedule a Site Visit", "path": "/contact-us" }
+      {
+        "label": "View Prime Shop Listings",
+        "path": "/listings/shops-for-rent"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Various Shop Sizes and Configurations Available for Rent in Civil Lines",
@@ -19,12 +28,30 @@
       "Whether you urgently need ground-floor access on a busy main road or a quieter upper-level space perfect for administrative tasks, we offer flexible solutions tailored to your unique specifications. Review the typical shop categories below to help define your precise requirements for securing the perfect shop for rent in Civil Lines. We meticulously ensure all listed commercial units comply fully with local zoning regulations, offering complete peace of mind to our esteemed clients."
     ],
     "features": [
-      { "title": "High Street Frontage Shops", "description": "These commercial units are ideal for brands requiring maximum visibility and direct access to heavy vehicular and pedestrian traffic along the main commercial arteries of Civil Lines. They offer superior branding opportunities and immediate consumer exposure essential for retail success." },
-      { "title": "Ground Floor Retail Units", "description": "Perfectly positioned for ease of customer accessibility, these units often feature expansive large display windows that are crucial for capturing the attention of passersby and generating impulse purchases. Immediate entry levels are highly sought after by almost all retail businesses." },
-      { "title": "Small Boutique Store Spaces", "description": "Excellent options for specialized services, charming cafes, or exclusive, high-end retail items. These units are typically situated in slightly quieter yet still high-density residential and commercial intersection areas where specific clientele gather." },
-      { "title": "Anchor Showroom Spaces", "description": "These are large, expansive units absolutely necessary for major business operations like furniture stores, large format electronics retailers, or major national clothing outlets, demanding significant, continuous floor area for comprehensive display." },
-      { "title": "Office-Cum-Retail Hybrid Space", "description": "These versatile hybrid units are specifically designed for professional businesses that need both a prominent front-end customer interaction area and a fully dedicated, private back-end office setup for operations and administration." },
-      { "title": "Mezzanine or Upper Floor Units", "description": "Provides cost-effective additional square footage for stock management, specialized services like salons, or administrative offices. These units often benefit from lower rents while still maintaining connectivity to the main commercial district of Civil Lines." }
+      {
+        "title": "High Street Frontage Shops",
+        "description": "These commercial units are ideal for brands requiring maximum visibility and direct access to heavy vehicular and pedestrian traffic along the main commercial arteries of Civil Lines. They offer superior branding opportunities and immediate consumer exposure essential for retail success."
+      },
+      {
+        "title": "Ground Floor Retail Units",
+        "description": "Perfectly positioned for ease of customer accessibility, these units often feature expansive large display windows that are crucial for capturing the attention of passersby and generating impulse purchases. Immediate entry levels are highly sought after by almost all retail businesses."
+      },
+      {
+        "title": "Small Boutique Store Spaces",
+        "description": "Excellent options for specialized services, charming cafes, or exclusive, high-end retail items. These units are typically situated in slightly quieter yet still high-density residential and commercial intersection areas where specific clientele gather."
+      },
+      {
+        "title": "Anchor Showroom Spaces",
+        "description": "These are large, expansive units absolutely necessary for major business operations like furniture stores, large format electronics retailers, or major national clothing outlets, demanding significant, continuous floor area for comprehensive display."
+      },
+      {
+        "title": "Office-Cum-Retail Hybrid Space",
+        "description": "These versatile hybrid units are specifically designed for professional businesses that need both a prominent front-end customer interaction area and a fully dedicated, private back-end office setup for operations and administration."
+      },
+      {
+        "title": "Mezzanine or Upper Floor Units",
+        "description": "Provides cost-effective additional square footage for stock management, specialized services like salons, or administrative offices. These units often benefit from lower rents while still maintaining connectivity to the main commercial district of Civil Lines."
+      }
     ]
   },
   "locationsSection": {
@@ -34,14 +61,56 @@
       "Key commercial locations often feature strategic proximity to governmental offices, major educational institutions, or established affluent residential colonies, ensuring a consistently steady stream of potential, high-value customers. We expertly help you evaluate the trade area potential of each sub-location, meticulously optimizing your critical commercial move and ensuring long-term profitability."
     ],
     "locations": [
-      "Main Road Retail Civil Lines Hub",
-      "Near Judicial and Government Quarters",
-      "High Court Road Commercial Zone",
-      "Clock Tower Central Market Area",
-      "Bypass Road Junction Prime Spots",
-      "Residential Colony Main Entrances",
-      "Educational Institute Proximity Locations",
-      "Affluent Housing Area Commercial Strips"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -51,30 +120,84 @@
       "We streamline the complex rental process entirely, offering detailed market analysis reports and diligently ensuring absolutely transparent lease agreements that fully protect your vital business interests throughout the tenancy period. Choosing our professional services means partnering exclusively with dedicated commercial real estate experts committed completely to finding you the optimal property for rent in Civil Lines."
     ],
     "points": [
-      { "title": "Unmatched Commercial Reputation", "description": "Civil Lines is historically known as a premium, established locality, which instantly elevates your brand image and builds immediate trust with potential high-net-worth clients. Establishing a shop here signifies stability and quality." },
-      { "title": "Superior Connectivity and Access", "description": "The area boasts excellent road networks and proximity to major public transportation hubs, ensuring your customers can reach your shop easily regardless of their location in the wider city. Accessibility drives foot traffic." },
-      { "title": "High Consumer Spending Power", "description": "The residential demographics surrounding Civil Lines are generally affluent, meaning higher average transaction values and a more reliable consumer base for both luxury goods and specialized services. Target the right clientele." },
-      { "title": "Verified Legal Compliance Listings", "description": "Every shop for rent listed on our platform is fully verified for commercial zoning compliance and legal documentation, eliminating unnecessary risks and delays in starting your business operations." },
-      { "title": "Abundant Parking and Amenities", "description": "Unlike congested markets, many commercial properties in Civil Lines offer better infrastructure including dedicated parking facilities, modern security systems, and robust utility services essential for smooth operation." },
-      { "title": "Flexible Lease Terms Offered", "description": "We negotiate favorable and flexible lease agreements on your behalf, often including reasonable lock-in periods and transparent escalation clauses that support sustainable long-term business growth." },
-      { "title": "Guaranteed Business Visibility", "description": "Renting a shop in a main commercial artery within Civil Lines guarantees maximum exposure for your brand. High visibility is the cornerstone of successful retail and service-based businesses in a competitive market." },
-      { "title": "Expert Market Insights and Support", "description": "Our team provides deep, localized market intelligence regarding rental rates, optimal shop configuration, and future area development plans, ensuring your rental decision is strategically sound and well-informed." }
+      {
+        "title": "Unmatched Commercial Reputation",
+        "description": "Civil Lines is historically known as a premium, established locality, which instantly elevates your brand image and builds immediate trust with potential high-net-worth clients. Establishing a shop here signifies stability and quality."
+      },
+      {
+        "title": "Superior Connectivity and Access",
+        "description": "The area boasts excellent road networks and proximity to major public transportation hubs, ensuring your customers can reach your shop easily regardless of their location in the wider city. Accessibility drives foot traffic."
+      },
+      {
+        "title": "High Consumer Spending Power",
+        "description": "The residential demographics surrounding Civil Lines are generally affluent, meaning higher average transaction values and a more reliable consumer base for both luxury goods and specialized services. Target the right clientele."
+      },
+      {
+        "title": "Verified Legal Compliance Listings",
+        "description": "Every shop for rent listed on our platform is fully verified for commercial zoning compliance and legal documentation, eliminating unnecessary risks and delays in starting your business operations."
+      },
+      {
+        "title": "Abundant Parking and Amenities",
+        "description": "Unlike congested markets, many commercial properties in Civil Lines offer better infrastructure including dedicated parking facilities, modern security systems, and robust utility services essential for smooth operation."
+      },
+      {
+        "title": "Flexible Lease Terms Offered",
+        "description": "We negotiate favorable and flexible lease agreements on your behalf, often including reasonable lock-in periods and transparent escalation clauses that support sustainable long-term business growth."
+      },
+      {
+        "title": "Guaranteed Business Visibility",
+        "description": "Renting a shop in a main commercial artery within Civil Lines guarantees maximum exposure for your brand. High visibility is the cornerstone of successful retail and service-based businesses in a competitive market."
+      },
+      {
+        "title": "Expert Market Insights and Support",
+        "description": "Our team provides deep, localized market intelligence regarding rental rates, optimal shop configuration, and future area development plans, ensuring your rental decision is strategically sound and well-informed."
+      }
     ]
   },
   "faqSection": {
     "title": "Common Questions About Securing a Shop for Rent in Civil Lines Commercial Market",
     "description": "We address the most frequent and critical concerns raised by prospective commercial tenants regarding standard lease terms, rental pricing expectations, legal verification processes, and specific space customization rules within the Civil Lines area.",
     "faqs": [
-      { "question": "What is the typical lock-in period when renting a commercial shop in Civil Lines", "answer": "The standard commercial lock-in period in prime locations like Civil Lines generally ranges between 18 to 36 months, depending heavily on the size of the shop and the overall nature of the tenant’s business. Landlords impose lock-in periods to ensure stability and recoup initial fit-out costs. We work diligently to negotiate terms that offer maximum security and minimum risk for your operational planning. Always review the specific termination and exit clauses before signing the final agreement." },
-      { "question": "Are the rental rates for shops in Civil Lines negotiable or fixed", "answer": "While listed rental rates serve as a strong base, almost all commercial rents in Civil Lines are subject to negotiation, especially for longer lease tenures or tenants with a strong, reputable business profile. Factors influencing negotiation include the shop’s exact location, the floor level, available frontage, and the tenant’s capacity to commit to annual escalation. Our agents provide expert negotiation support to secure the most favorable pricing." },
-      { "question": "What documentation is required to finalize a commercial lease agreement in Civil Lines", "answer": "To finalize the commercial lease for a shop for rent in Civil Lines, tenants typically require a copy of their business registration certificate, GST registration documents, financial statements demonstrating stability, and personal KYC documents of the signing authority. Landlords require proof of financial capability and business legitimacy to approve the tenancy. A detailed list of requirements is provided upon expressing interest in a property." },
-      { "question": "Can I renovate or customize the interior space of a rented shop", "answer": "Major structural renovations usually require explicit written consent from the landlord and must adhere strictly to local building and safety codes. Minor, cosmetic customization like painting or installation of temporary fixtures is often permitted. It is crucial that the scope of work and the agreement regarding reinstatement of the property upon lease expiry are clearly outlined in the commercial lease deed to avoid future disputes." },
-      { "question": "What are the common extra charges besides the monthly rent for a commercial space", "answer": "Beyond the basic monthly rent, commercial tenants typically need to budget for monthly maintenance charges which cover common area upkeep and security, property tax contributions, utility consumption including electricity and water, and sometimes charges for dedicated parking spaces. Ensure you receive a clear breakdown of all recurring operating costs before finalizing the shop rental agreement." },
-      { "question": "How important is foot traffic when choosing a shop for rent in Civil Lines", "answer": "Foot traffic is critically important for businesses relying on direct retail sales or immediate visibility, such as restaurants, clothing stores, and cafes. Shops located directly on the main arterial roads of Civil Lines command higher rents precisely because of this guaranteed high footfall, directly correlating to better sales opportunities and brand exposure compared to side street locations." },
-      { "question": "What security deposit is usually required for commercial properties here", "answer": "The standard security deposit for a shop for rent in Civil Lines generally equates to 4 to 6 months’ worth of the agreed-upon rent. This deposit is held by the landlord throughout the tenancy period and is refunded at the end of the lease, assuming the tenant has fulfilled all terms and returned the property without significant damage beyond normal wear and tear." },
-      { "question": "Are there specialized shops available for food and beverage businesses in Civil Lines", "answer": "Yes, we maintain a dedicated list of commercial shops that are specifically compliant or pre-fitted for food and beverage operations. These units often feature necessary utility connections, ventilation systems, and suitable kitchen layouts, reducing your initial setup costs and speeding up the operational timeline significantly." },
-      { "question": "How long does it take to secure and move into a shop in Civil Lines after selection", "answer": "If the selected shop is ready-to-move and all documentation is promptly provided by the tenant, the process from agreement to keys handover typically takes between two to four weeks. The timeline depends heavily on the speed of legal vetting and final stamp duty payment processing for the lease deed registration." },
-      { "question": "Is Civil Lines a good long-term investment location for commercial renting", "answer": "Civil Lines is consistently recognized as one of the most stable and high-value commercial zones. Its historical prestige, central location, and steady demand ensure that a commercial shop for rent here offers exceptional stability and strong potential for business growth and market longevity, making it an excellent strategic choice." }
+      {
+        "question": "What is the typical lock-in period when renting a commercial shop in Civil Lines",
+        "answer": "The standard commercial lock-in period in prime locations like Civil Lines generally ranges between 18 to 36 months, depending heavily on the size of the shop and the overall nature of the tenant’s business. Landlords impose lock-in periods to ensure stability and recoup initial fit-out costs. We work diligently to negotiate terms that offer maximum security and minimum risk for your operational planning. Always review the specific termination and exit clauses before signing the final agreement."
+      },
+      {
+        "question": "Are the rental rates for shops in Civil Lines negotiable or fixed",
+        "answer": "While listed rental rates serve as a strong base, almost all commercial rents in Civil Lines are subject to negotiation, especially for longer lease tenures or tenants with a strong, reputable business profile. Factors influencing negotiation include the shop’s exact location, the floor level, available frontage, and the tenant’s capacity to commit to annual escalation. Our agents provide expert negotiation support to secure the most favorable pricing."
+      },
+      {
+        "question": "What documentation is required to finalize a commercial lease agreement in Civil Lines",
+        "answer": "To finalize the commercial lease for a shop for rent in Civil Lines, tenants typically require a copy of their business registration certificate, GST registration documents, financial statements demonstrating stability, and personal KYC documents of the signing authority. Landlords require proof of financial capability and business legitimacy to approve the tenancy. A detailed list of requirements is provided upon expressing interest in a property."
+      },
+      {
+        "question": "Can I renovate or customize the interior space of a rented shop",
+        "answer": "Major structural renovations usually require explicit written consent from the landlord and must adhere strictly to local building and safety codes. Minor, cosmetic customization like painting or installation of temporary fixtures is often permitted. It is crucial that the scope of work and the agreement regarding reinstatement of the property upon lease expiry are clearly outlined in the commercial lease deed to avoid future disputes."
+      },
+      {
+        "question": "What are the common extra charges besides the monthly rent for a commercial space",
+        "answer": "Beyond the basic monthly rent, commercial tenants typically need to budget for monthly maintenance charges which cover common area upkeep and security, property tax contributions, utility consumption including electricity and water, and sometimes charges for dedicated parking spaces. Ensure you receive a clear breakdown of all recurring operating costs before finalizing the shop rental agreement."
+      },
+      {
+        "question": "How important is foot traffic when choosing a shop for rent in Civil Lines",
+        "answer": "Foot traffic is critically important for businesses relying on direct retail sales or immediate visibility, such as restaurants, clothing stores, and cafes. Shops located directly on the main arterial roads of Civil Lines command higher rents precisely because of this guaranteed high footfall, directly correlating to better sales opportunities and brand exposure compared to side street locations."
+      },
+      {
+        "question": "What security deposit is usually required for commercial properties here",
+        "answer": "The standard security deposit for a shop for rent in Civil Lines generally equates to 4 to 6 months’ worth of the agreed-upon rent. This deposit is held by the landlord throughout the tenancy period and is refunded at the end of the lease, assuming the tenant has fulfilled all terms and returned the property without significant damage beyond normal wear and tear."
+      },
+      {
+        "question": "Are there specialized shops available for food and beverage businesses in Civil Lines",
+        "answer": "Yes, we maintain a dedicated list of commercial shops that are specifically compliant or pre-fitted for food and beverage operations. These units often feature necessary utility connections, ventilation systems, and suitable kitchen layouts, reducing your initial setup costs and speeding up the operational timeline significantly."
+      },
+      {
+        "question": "How long does it take to secure and move into a shop in Civil Lines after selection",
+        "answer": "If the selected shop is ready-to-move and all documentation is promptly provided by the tenant, the process from agreement to keys handover typically takes between two to four weeks. The timeline depends heavily on the speed of legal vetting and final stamp duty payment processing for the lease deed registration."
+      },
+      {
+        "question": "Is Civil Lines a good long-term investment location for commercial renting",
+        "answer": "Civil Lines is consistently recognized as one of the most stable and high-value commercial zones. Its historical prestige, central location, and steady demand ensure that a commercial shop for rent here offers exceptional stability and strong potential for business growth and market longevity, making it an excellent strategic choice."
+      }
     ]
   },
   "contactSection": {
@@ -83,6 +206,11 @@
       "Ready to secure your high-profile shop for rent in the prestigious Civil Lines area We offer personalized consultations and immediate access to off-market premium listings that perfectly match your specific business requirements and budget.",
       "Get in touch with our commercial real estate specialists today to discuss lease terms, arrange site inspections, and finalize the agreement for your new business location quickly and efficiently."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

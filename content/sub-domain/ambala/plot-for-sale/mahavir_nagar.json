@@ -7,10 +7,19 @@
       "Stop searching and start planning your perfect home today. We streamline the process of acquiring land in Mahavir Nagar, ensuring transparency and legal compliance from the initial site visit to final registration. Explore plots ranging from compact sizes perfect for small independent villas to expansive parcels suitable for luxurious bungalows, all within the secure and thriving community of Mahavir Nagar Ambala. Invest wisely in a location where quality of life meets real estate growth potential, guaranteeing a strong return on your investment over time."
     ],
     "buttons": [
-      { "label": "Explore Available Plots Now", "path": "/listings" },
-      { "label": "Request Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Available Plots Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Finding the Right Plot Size Choose from Diverse Residential Land Options in Mahavir Nagar",
@@ -52,14 +61,56 @@
       "Investing in a Plot For Sale in Mahavir Nagar means securing a position in a rapidly developing yet established community. The locality benefits from robust civic infrastructure, including reliable water supply, electricity, and well-maintained roads. Below are key nearby areas and connectivity advantages that cement Mahavir Nagar as the premier residential destination in Ambala."
     ],
     "locations": [
-      "Proximity to Ambala Cantonment Railway Station",
-      "Easy access to National Highway 44",
-      "Connectivity to Sector 7 and Sector 9 Ambala",
-      "Nearness to major educational institutions and universities",
-      "Short distance to Ambala City Centre and commercial markets",
-      "Well-connected to major healthcare facilities and specialty hospitals",
-      "Quick access to local government offices",
-      "Developed internal road network facilitating easy commuting"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning your dream land in Mahavir Nagar Ambala Contact our experienced real estate professionals today for personalized assistance. We provide up-to-date market insights, legal guidance, and exclusive access to unlisted properties.",
       "Fill out the form below to receive a curated list of available plots that match your size requirements, budget, and location preferences within the desirable Mahavir Nagar community."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

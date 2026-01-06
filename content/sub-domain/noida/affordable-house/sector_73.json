@@ -7,10 +7,19 @@
       "Finding a low-cost house does not mean sacrificing security or convenience. Our listings include apartments and independent floors that are strategically located near top schools, healthcare facilities, and major commercial hubs. Start your journey toward homeownership with transparent pricing and expert guidance tailored specifically for securing an affordable house in Sector 73 Noida. We eliminate the guesswork so you can invest confidently in your future today."
     ],
     "buttons": [
-      { "label": "View Budget Listings", "path": "/listings" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "View Budget Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Finding the Perfect Plot Size for Your New Affordable House in Sector 73 Noida",
@@ -52,14 +61,56 @@
       "The unparalleled connectivity via the Delhi-Meerut Expressway and close proximity to the Noida Metro network ensures seamless commuting across the NCR. Investing in an affordable property here is a decision supported by robust regional growth and forthcoming infrastructural developments that will continue to boost property values over the next decade."
     ],
     "locations": [
-      "Sector 72 Noida Metro Station",
-      "FNG Expressway Connectivity",
-      "Sector 52 Central Market",
-      "Hospitals and Healthcare Facilities",
-      "Major IT and Corporate Parks",
-      "Upcoming Shopping Malls",
-      "Educational Institutions and Schools",
-      "Seamless connectivity to Greater Noida"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Our team is ready to provide personalized guidance based on your financial needs and location preferences. Take the first step toward securing your dream home in Sector 73 today.",
       "Fill out the form below to receive customized listings and a comprehensive market report on affordable housing opportunities in Noida."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

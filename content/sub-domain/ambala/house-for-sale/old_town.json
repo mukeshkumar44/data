@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Diverse Residential Options When Looking for a House For Sale in Old Town",
@@ -58,14 +61,56 @@
       "Understanding these specific sub-localities is essential for making an informed investment decision particularly regarding future appreciation potential and local amenities access. Some sections are known for their colonial-era architecture offering properties that are structurally unique and aesthetically rich. Others have seen recent infrastructural improvements providing modern convenience within a traditional framework. We provide expert insights into the pros and cons of each zone ensuring that the House For Sale in Old Town you select aligns perfectly with your logistical needs including proximity to highly reputed schools hospitals and primary transport hubs."
     ],
     "locations": [
-      "Near Old Clock Tower Residential Area",
-      "Arya Samaj Road Properties",
-      "Patel Nagar Extension Old Town",
-      "Adjacent to Ambala City Railway Station Homes",
-      "Residential Lanes Off Nicholson Road",
-      "Close to Sadar Bazaar Old Town",
-      "Model Town Old Town Connectivity",
-      "Areas Surrounding Rani Bagh Park"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,10 +7,19 @@
       "Investing in Sector 45 means securing a strategic location characterized by excellent infrastructure, superior road connectivity, and a rapidly developing civic environment. This area promises substantial appreciation potential and robust rental yields, making it the ideal choice for both established business owners and first-time commercial real estate investors. Discover the best commercial opportunities that define future success right here in Karnal."
     ],
     "buttons": [
-      { "label": "View Available Commercial Plots", "path": "/listings" },
-      { "label": "Schedule a Site Visit Now", "path": "/contact" }
+      {
+        "label": "View Available Commercial Plots",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit Now",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Diverse Commercial Plot Sizes and Investment Potential in Sector 45 Karnal",
@@ -52,14 +61,56 @@
       "Connectivity via the NH-44 and easy access to other sectors of Karnal make this location unparalleled for logistics and consumer reach. Our properties benefit from being close to key governmental and private establishments, further solidifying the commercial appeal and long-term investment security."
     ],
     "locations": [
-      "NH-44 National Highway Connectivity",
-      "Proximity to Sector 32 Residential Zone",
-      "Karnal Industrial Area Access",
-      "Near Major Educational Institutions",
-      "Established Retail Markets of Sector 6",
-      "Easy Access to Karnal City Center",
-      "Nearby Healthcare Facilities and Hospitals",
-      "Developing Residential Clusters of Sector 46"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure your high-growth investment in one of Karnal’s most promising commercial zones Contact us today to discuss your specific requirements, view detailed plot maps, and schedule a private consultation with our commercial real estate specialists.",
       "We provide personalized investment advice and comprehensive market insights to help you make the best decision when buying Commercial Property For Sale in Sector 45 Karnal. Fill out the form below and start your journey toward commercial success."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

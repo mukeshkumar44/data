@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero_image_flat_sector_91_01.webp",
-      "hero_image_flat_sector_91_02.webp"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "The area is well-supported by robust social infrastructure including world-class schools healthcare facilities and retail complexes nearby. Proximity to established sectors like Sector 90 and Sector 89 adds to its appeal creating a vibrant and mature neighborhood. Investing here is not just buying a home it is investing in a location poised for rapid future growth and sustained infrastructure improvement. Our expert team can provide a detailed analysis of the locale's future growth trajectory."
     ],
     "locations": [
-      "Proximity to NH-19 for quick travel to Delhi",
-      "Short distance from major healthcare facilities and specialty hospitals",
-      "Easy access to established educational institutions and universities",
-      "Well-connected to upcoming commercial and IT hubs of Gurugram",
-      "Near major retail centers and daily convenience stores",
-      "Excellent road network connecting to surrounding sectors like Sector 90"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -87,8 +131,7 @@
       {
         "title": "RERA Compliance and Trust",
         "description": "All residential projects and flats we list are fully RERA compliant providing you with the highest level of consumer protection. This ensures timely delivery adherence to committed specifications and complete transparency regarding the project status and developer credibility."
-      }
-      ,
+      },
       {
         "title": "World-Class Residential Amenities",
         "description": "Residents enjoy access to premium amenities including state-of-the-art gymnasiums dedicated walking tracks multi-purpose courts and community halls. These features enhance the quality of life offering opportunities for recreation fitness and social interaction within the complex."

@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero_63a_residential.jpg",
-      "/images/noida_affordable_home.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "The sector benefits from excellent road networks including direct links to the Delhi-Meerut Expressway and the FNG Corridor, coupled with proximity to established Metro stations. These infrastructural developments guarantee smooth commuting and ensure rapid appreciation of property values over the next few years making your affordable house a smart asset."
     ],
     "locations": [
-      "Major IT Hubs of Sector 62 and Sector 65 Noida",
-      "Noida Electronic City Metro Station nearby Access",
-      "Fortis Hospital and Apollo Clinic Healthcare Facilities",
-      "Gaur City Mall and Galaxy Blue Sapphire Shopping Centers",
-      "Proximity to Crossings Republik and Greater Noida West Residential Areas",
-      "Direct Access to FNG Expressway and NH-24 Traffic Arteries"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

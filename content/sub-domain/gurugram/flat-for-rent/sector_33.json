@@ -1,6 +1,5 @@
 {
   "domain": "plotforsale.com",
-
   "hero": {
     "title": "Well Planned and Peaceful Flats for Rent in Sector 33 Gurugram",
     "description": [
@@ -8,12 +7,20 @@
       "Flats for rent in Sector 33 Gurugram are mostly available in builder floors and low-rise residential buildings that focus on practical layouts, proper ventilation, and comfortable living spaces. The area is ideal for families, working professionals, and long-term tenants who prefer a settled neighborhood with essential amenities close by. With steady rental demand, reliable infrastructure, and a peaceful residential environment, Sector 33 continues to be a preferred choice for comfortable and value-driven rental living in Gurugram."
     ],
     "buttons": [
-      { "label": "Browse Rental Flats", "path": "/" },
-      { "label": "Get Rental Assistance", "path": "/" }
+      {
+        "label": "Browse Rental Flats",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
-
   "featuresSection": {
     "heading": "Plot Size Based Residential Flat Options in Sector 33 Gurugram",
     "description": [
@@ -47,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Property Options in and Around Sector 33 Gurugram",
     "description": [
@@ -55,17 +61,58 @@
       "These tiles help visitors easily navigate various property categories in Sector 33 and nearby Gurugram areas."
     ],
     "locations": [
-      { "title": "Flat for Rent in Sector 33 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "Flat for Sale in Sector 33 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Rent in Sector 33 Gurugram", "path": "/", "icon": "Key" },
-      { "title": "House for Sale in Sector 33 Gurugram", "path": "/", "icon": "Home" },
-      { "title": "Builder Floors in Sector 33 Gurugram", "path": "/", "icon": "Layers" },
-      { "title": "Rental Homes Near Sohna Road", "path": "/", "icon": "Map" },
-      { "title": "Ready to Move Flats in Sector 33", "path": "/", "icon": "CheckCircle" },
-      { "title": "Affordable Flats for Rent in Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Deal Acres Is the Preferred Choice for Rental Homes",
     "description": [
@@ -107,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Flats for Rent in Sector 33 Gurugram",
     "description": "Clear and detailed answers to help tenants make informed rental decisions.",
@@ -154,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get in Touch for Flats for Rent in Sector 33 Gurugram",
     "description": [
       "Finding the right flat for rent in Sector 33 Gurugram becomes easy with verified listings and expert guidance.",
       "Share your details to receive customized rental options and professional support from trusted property consultants."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

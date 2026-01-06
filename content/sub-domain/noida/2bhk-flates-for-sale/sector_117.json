@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "2bhk-sector117-exterior.jpg",
-      "2bhk-sector117-interior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "This specific sector is meticulously planned to offer peaceful, secure residential settings while keeping the commercial buzz of city life within comfortable reach. The strategic location ensures that all necessities, from top-tier international schools and advanced specialty hospitals to vibrant shopping complexes and movie theaters, are just a short drive away, significantly enhancing the overall quality of life for 2BHK residents and maximizing convenience."
     ],
     "locations": [
-      "Sector 119 Noida Residential Hub",
-      "Sector 78 IT and Corporate Centers",
-      "FNG Expressway Entry Point",
-      "Gaur City Mall Commercial Zone",
-      "City Center Metro Station Connectivity",
-      "Sector 120 Retail and Dining",
-      "Noida Expressway Access Route",
-      "Amity University Campus"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

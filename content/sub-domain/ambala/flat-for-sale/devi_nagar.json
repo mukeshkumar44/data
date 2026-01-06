@@ -7,10 +7,19 @@
       "Start your property search with confidence. Our listings are verified and include detailed information about floor plans, society amenities, pricing, and legal documentation transparency. Whether you prioritize proximity to the Ambala Cantonment railway station or desire access to top schools and healthcare facilities, our comprehensive portfolio ensures you find a flat that perfectly matches your requirements and budget. Secure the best value on your new home in Devi Nagar Ambala today by connecting with our expert property consultants for personalized guidance and timely assistance."
     ],
     "buttons": [
-      { "label": "Explore Available Flats Now", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Available Flats Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/devi_nagar_flat_hero_1.webp", "/images/devi_nagar_flat_hero_2.webp"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Options for Flats For Sale in Devi Nagar Ambala According to Your Family Needs",
@@ -52,14 +61,56 @@
       "Furthermore, the area is surrounded by reputed educational institutions and leading healthcare centers ensuring that all family needs are catered to effectively. Investing in a Flat For Sale in Devi Nagar means choosing a locality poised for continuous growth and excellent future returns. The proximity to key transport nodes like the Ambala railway network further enhances the overall appeal and accessibility for frequent travelers and commuters."
     ],
     "locations": [
-      "Ambala Cantt Railway Station Accessibility",
-      "Sadar Bazaar Shopping Area",
-      "National Highway 44 Proximity",
-      "Reputed Schools and Colleges Nearby",
-      "Major Healthcare Facilities",
-      "Ambala City Link Road Access",
-      "Local Parks and Green Spaces",
-      "Upcoming Commercial Developments"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning the perfect Flat For Sale in Devi Nagar Ambala. Our dedicated team is here to provide personalized tours, detailed financial analysis, and comprehensive guidance on the buying process.",
       "Do not miss out on the best residential opportunities in this rapidly developing neighborhood. Submit your details below and a property consultant specializing in Devi Nagar will contact you within the hour."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

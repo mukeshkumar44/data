@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "house-rental-sector9-karnal.jpg",
-      "luxury-kothi-rent-karnal.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Renting a House For Rent in Sector 9 means being close to the main Sector 8 market, offering high-end retail and dining experiences. Furthermore, the accessibility to NH-44 ensures quick travel both within and outside the city limits. Our local knowledge allows us to pinpoint properties that benefit from quiet internal streets while still maintaining easy access to the main Sector 9 thoroughfares."
     ],
     "locations": [
-      "Sector 8 Retail Market Access",
-      "NH-44 National Highway Connectivity",
-      "Proximity to DPS School Karnal",
-      "Karnal Club and Recreational Areas",
-      "Easy Commute to Sector 7 Commercial Hub",
-      "Civil Hospital and Major Healthcare Facilities",
-      "ITI Chowk Main Intersection",
-      "Green Belt Park Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Shop For Rent Options in Sector 106 Suitable For Every Business Need",
@@ -58,13 +61,56 @@
       "This area is seeing rapid development of high-rise apartments and integrated townships, guaranteeing a robust and continually growing consumer base right on your doorstep. Unlike older commercial areas, Sector 106 offers modern infrastructure, ample planned parking, and wide roads, enhancing the overall customer experience and operational logistics for your business. We focus on listing commercial properties located near key transit points and established residential gate communities, ensuring maximum catchment area coverage. Investing in a rental shop here means securing a future-proof location primed for long-term commercial success and high return on investment. Let us guide you to the perfect spot that capitalizes on Sector 106’s prime location advantage in Gurugram."
     ],
     "locations": [
-      "Adjacent to Major Residential Townships",
-      "Close Proximity to KMP Expressway",
-      "Easy Access to NH-44",
-      "Near Developed Sector 105 Residential Areas",
-      "Upcoming Metro Corridor Feasibility",
-      "Prime High-Street Frontage Road",
-      "Quick Access to Industrial Belt"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

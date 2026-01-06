@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "2bhk_sector_103_hero_1.jpg",
-      "2bhk_sector_103_interior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The infrastructure development in this area is proceeding rapidly promising excellent road networks seamless connectivity and significantly reduced commuting times. This sector is strategically poised for substantial capital appreciation making it an extremely smart move for both end-users and long-term investors seeking high returns."
     ],
     "locations": [
-      "Direct Access to Dwarka Expressway",
-      "IGI Airport Terminal 3 Delhi within 20 Minutes",
-      "Proximity to Cyber City Gurugram",
-      "Easy Reach of NH-48",
-      "Nearness to Top International Schools",
-      "Close to Major Hospitals and Healthcare Centers",
-      "Upcoming Metro Station Points",
-      "Nearby Retail Hubs and Malls"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

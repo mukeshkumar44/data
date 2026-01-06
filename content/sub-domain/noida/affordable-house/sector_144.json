@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero-144-1.jpg",
-      "/images/hero-144-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "Furthermore, the sector boasts excellent connectivity via the operational Aqua Line Metro station enhancing its attractiveness for daily commuters. Essential social infrastructure including world-class schools, multi-specialty hospitals like Jaypee Hospital, and prominent shopping centers are all located within a short drive. Investing here means investing in a future where convenience and low cost of living coexist harmoniously making your affordable house in Sector 144 Noida a truly future-proof asset."
     ],
     "locations": [
-      "Direct access to Noida-Greater Noida Expressway",
-      "Proximity to Sector 144 Metro Station (Aqua Line)",
-      "Close to major IT and corporate parks (Advant Navis Business Park)",
-      "Easy link to Pari Chowk and Knowledge Park",
-      "Nearby world-class educational institutions and universities",
-      "Excellent access to hospitals and emergency care facilities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

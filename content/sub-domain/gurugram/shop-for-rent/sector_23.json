@@ -7,10 +7,19 @@
       "Our curated listings feature diverse commercial properties ranging from small lock-up shops perfect for specialized services to large showroom spaces ideal for retail giants. Every property is vetted for location quality, rental transparency, and necessary infrastructure, ensuring you find a space that aligns perfectly with your brand identity and operational requirements. Start your search today and position your business for success in one of Gurugram’s most sought-after commercial zones."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/listings" },
-      { "label": "Consult Commercial Experts", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Consult Commercial Experts",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/sector23_shop_exterior.jpg", "/images/sector23_market_view.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Shop Sizes and Layouts Available for Rent in Sector 23",
@@ -52,14 +61,56 @@
       "We provide in-depth analysis of rental market trends across key sub-locations, helping you decide whether a main market space, a neighborhood convenience store location, or a high-street frontage property best suits your commercial goals. Sector 23 promises robust infrastructure and a stable market environment for all types of enterprises."
     ],
     "locations": [
-      "Main Market Sector 23",
-      "HUDA Market Sector 23",
-      "Near Bata Chowk Extension",
-      "Commercial Complex near Omaxe World Street",
-      "Shops adjacent to major Residential Societies",
-      "High Street Properties on Sector 23 main road",
-      "Retail units near Sector 23 Metro Station",
-      "Commercial Pockets near Sector 23 Industrial Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to find the ideal shop for rent in Sector 23 Gurugram? Our dedicated team of commercial property consultants possesses deep local market knowledge to guide you through the selection and leasing process.",
       "Fill out the form below or call us directly. Let us help you secure a profitable commercial address that perfectly matches your business vision and budget requirements."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

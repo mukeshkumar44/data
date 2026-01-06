@@ -7,10 +7,19 @@
       "Browse our curated listings of verified 2BHK flats for sale in Manesar encompassing everything from independent builder floors to units within large integrated townships. We provide detailed insights into pricing location advantages and project amenities ensuring you make an informed decision on your new home or investment property in this dynamic part of Gurugram."
     ],
     "buttons": [
-      { "label": "Explore 2BHK Listings", "path": "/listings/2bhk" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "Explore 2BHK Listings",
+        "path": "/listings/2bhk"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero/2bhk-manesar-main.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Features of 2BHK Flats Available For Sale in Manesar and Nearby Areas",
@@ -52,12 +61,56 @@
       "We focus on the areas surrounding Manesar that show high demand and excellent infrastructure development making them ideal spots to look for your next 2BHK flat for sale."
     ],
     "locations": [
-      "Sector M1 Manesar Industrial Model Township",
-      "Sector M6 Residential Developments",
-      "Pataudi Road Connectivity Zone",
-      "Near IMT Manesar Main Gate",
-      "National Highway 48 Proximity Areas",
-      "Near Industrial Sectors 7 and 8"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to secure your perfect 2BHK flat in the rapidly developing Manesar market We provide personalized property tours negotiation support and legal assistance.",
       "Reach out today to connect with local property specialists who can guide you through the entire purchase process from selection to handover."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

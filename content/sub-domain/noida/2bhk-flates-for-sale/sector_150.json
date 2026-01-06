@@ -7,10 +7,19 @@
       "Start your journey toward owning a spectacular 2BHK apartment right here in the heart of Sector 150. Our listings include RERA-approved projects from reputed builders ensuring complete transparency, quality construction, and timely possession. Whether you seek immediate move-in options or new launch opportunities offering attractive payment plans, we have the comprehensive inventory to match your specific requirements and financial goals. Investing in a 2BHK flat in Sector 150 is not just purchasing a home; it is securing an entry point into Noida’s most coveted neighborhood offering excellent access to major expressways, world-class sports facilities, and essential social infrastructure like schools and hospitals."
     ],
     "buttons": [
-      { "label": "Browse 2BHK Listings Now", "path": "/2bhk-listings" },
-      { "label": "Request Pricing Details", "path": "/contact-us" }
+      {
+        "label": "Browse 2BHK Listings Now",
+        "path": "/2bhk-listings"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore the Diverse Range of 2BHK Flats Available for Sale in Prime Sector 150 Noida",
@@ -52,14 +61,56 @@
       "Furthermore, the proximity to upcoming infrastructure projects and existing metro connectivity solidifies Sector 150’s status as a premium residential hub. Whether you work in Central Noida, want to access major universities, or frequently travel via the nearby international airport, your 2BHK home in Sector 150 Noida ensures you are always strategically placed. Review the key nearby locations benefiting the residents below."
     ],
     "locations": [
-      "Pari Chowk Greater Noida",
-      "Yamuna Expressway",
-      "Noida Expressway",
-      "Upcoming Jewar International Airport",
-      "Aqua Line Metro Stations",
-      "Knowledge Park V",
-      "Greater Noida Extension",
-      "Film City Project"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to find the perfect 2BHK flat for sale in Sector 150 Noida We offer personalized consultation, property site visits, and comprehensive financial guidance to make your home buying experience seamless. Contact us now to discuss your requirements and access exclusive off-market listings.",
       "Fill out the quick form below to receive a call back within one hour. Let our expertise in the Sector 150 real estate market guide your decision for the best possible investment."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

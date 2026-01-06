@@ -7,12 +7,18 @@
       "Whether you are looking for a sprawling independent builder floor, a ready-to-move apartment, or a prime commercial space, our Real Estate Agents offer personalized support throughout the entire process. We manage everything from initial property viewing and legal due diligence to finalizing registration. Stop wasting time with generic listings and start working with Palam Vihar specialists who prioritize your investment returns and satisfaction. Discover why we are the trusted choice for buyers, sellers, and investors across Gurugram."
     ],
     "buttons": [
-      { "label": "Find Your Dream Home Today", "path": "/property-listings" },
-      { "label": "List Your Property with Experts", "path": "/sell-property" }
+      {
+        "label": "Find Your Dream Home Today",
+        "path": "/property-listings"
+      },
+      {
+        "label": "List Your Property with Experts",
+        "path": "/sell-property"
+      }
     ],
     "images": [
-      "hero-palam-vihar-agents-1.webp",
-      "hero-palam-vihar-gurugram-skyline.webp"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,16 +61,56 @@
       "Our knowledge of localized infrastructure development, school zones, traffic patterns, and future municipal plans provides you with an undeniable advantage. We help clients understand the subtle differences in pricing and amenities between Sector 1 Palam Vihar and nearby residential pockets. Partner with local experts who know every street and block to secure the best property deal in this competitive market."
     ],
     "locations": [
-      "Palam Vihar Sector 1",
-      "Palam Vihar Sector 2",
-      "Palam Vihar Extension",
-      "Ansal Palam Vihar",
-      "Ashok Vihar Phase 3",
-      "Sector 23 Gurugram",
-      "Carterpuri Village",
-      "Columbia Asia Road",
-      "Bijwasan connectivity belt",
-      "Near Dwarka Expressway Palam Vihar"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

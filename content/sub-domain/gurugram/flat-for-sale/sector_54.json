@@ -7,10 +7,19 @@
       "Explore exclusive listings of ready to move in flats and under construction projects that promise modern amenities and excellent connectivity. Securing a Flat For Sale in sector_54 today means investing in a future of appreciation stability and high quality community life. We provide verified properties transparent transactions and expert guidance to help you find the perfect home without hassle."
     ],
     "buttons": [
-      { "label": "Explore Available Flats Now", "path": "/listings" },
-      { "label": "Book a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Available Flats Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Book a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_flat_sector54_1.jpg", "hero_flat_sector54_2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore the Wide Range of Premium Residential Flat Configurations in Sector 54 Gurugram",
@@ -52,12 +61,56 @@
       "The infrastructure surrounding Sector 54 is robust including well maintained roads reliable power supply and excellent water management systems. Proximity to major educational institutions healthcare centers shopping malls and commercial hubs ensures that all necessary amenities are just a short drive away establishing Sector 54 as a truly self sufficient residential destination."
     ],
     "locations": [
-      "Proximity to NH-44 Delhi Agra Highway",
-      "Easy Access to Gurugram Metro Stations",
-      "Nearness to Leading Schools and Colleges",
-      "Short Drive to Major Corporate Hubs",
-      "Well Connected to Ballabgarh Industrial Area",
-      "Close to Local Markets and Retail Outlets"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to take the next step towards owning your perfect home in Gurugram We offer personalized consulting services to match you with verified flats that meet your budget and lifestyle requirements.",
       "Contact our dedicated real estate advisors today for exclusive listings virtual tours and comprehensive market analysis. Let us simplify your property buying journey in Sector 54 Gurugram."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

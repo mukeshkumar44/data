@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero_image_142_1.jpg",
-      "hero_image_142_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Residents benefit from being minutes away from major expressways, corporate hubs, and world-class educational institutions. This sector is not just a place to live it is a strategic investment in convenience and future growth. This connectivity guarantees high occupancy rates and steady property appreciation over time, making your affordable home choice incredibly smart."
     ],
     "locations": [
-      "Sector 142 Metro Station Direct Connectivity",
-      "Noida Expressway Immediate Access",
-      "FNG Expressway Future Linkage",
-      "Sector 137 Residential Hub",
-      "Advant Navis Business Park Commercial Center",
-      "Felix Hospital and Healthcare Facilities",
-      "Genesis Global School Reputable Education",
-      "Upcoming Shopping Malls and Retail Spaces"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

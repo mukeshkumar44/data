@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/karan-vihar-hero1.jpg",
-      "/images/karan-vihar-hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,13 +61,56 @@
       "This strategic positioning ensures that property values in Karan Vihar remain robust and attractive to long-term investors. We provide listings that highlight the specific distances to schools hospitals and major commercial areas so you can gauge the convenience level before making your final decision about your new home."
     ],
     "locations": [
-      "National Highway 44 Access Points",
-      "Karnal Bus Stand and Railway Station",
-      "Sector 6 Market Complex",
-      "Hospitals and Medical Centers",
-      "Reputed Schools and Colleges",
-      "Karnal City Center Hubs",
-      "Parks and Recreational Zones"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,10 +7,19 @@
       "Our curated selection ensures that every listing meets stringent quality standards, focusing on safety, prime locality, and excellent amenities. Forget the endless searching and confusing negotiations. We streamline the entire process, making it easy to secure the perfect residential flat rental in Jandli Ambala that aligns perfectly with your lifestyle and budget. Start exploring premium rental options available for immediate occupancy and take the first step toward settling into your new home today."
     ],
     "buttons": [
-      { "label": "Browse Jandli Rental Listings", "path": "/search" },
-      { "label": "Request a Personal Tour", "path": "/contact" }
+      {
+        "label": "Browse Jandli Rental Listings",
+        "path": "/search"
+      },
+      {
+        "label": "Request a Personal Tour",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore the Best Selection of Quality Flats For Rent in Jandli Ambala Area Near Major Facilities",
@@ -52,14 +61,56 @@
       "We help you compare rental flats across key pockets, detailing the unique lifestyle offerings of each locality. Whether you seek the bustle of a newly developed sector or the tranquility of an older established colony, our map-based search tool makes locating the perfect Flat For Rent in Jandli and its periphery simple and intuitive. Trust us to guide you through the best rental neighborhoods in the wider Ambala region."
     ],
     "locations": [
-      "Near Ambala-Chandigarh Highway Access Points",
-      "Karnal Road Jandli Extension",
-      "Proximity to Jandli Railway Underpass",
-      "Residential Colonies near Ambala Airport Road",
-      "Areas connecting to Ambala Cantt",
-      "Flats near local Jandli Market",
-      "Housing Societies along Ambala Bypass",
-      "Developed pockets of Housing Board Colony"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure the best Flat For Rent in Jandli Ambala? Our team of professional rental experts is here to provide personalized advice, arrange property viewings, and guide you through the entire leasing process effortlessly. Do not miss out on premium rental opportunities in this desirable Ambala locality.",
       "Submit your requirements now, and let us match you with a verified, high-quality residential flat that meets all your expectations for comfort, location, and affordability. Your new home in Jandli is just a consultation away."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

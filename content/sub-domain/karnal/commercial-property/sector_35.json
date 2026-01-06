@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Plot Sizes and Spaces Available in Sector 35 Karnal Today",
@@ -58,14 +61,56 @@
       "Crucially its proximity to the National Highway 44 NH-44 provides seamless connectivity for logistics operations and client travel positioning it as a key entry point for regional business operations across North India. Furthermore Sector 35 benefits profoundly from superior planned infrastructure development including wide sector roads dedicated commercial parking areas and effective drainage systems supporting long-term commercial sustainability. When you choose commercial property for sale in Sector 35 you are acquiring an asset supported by a large catchment population and excellent infrastructural support vital for high-volume retail and office space requirements. Explore the key proximate locations that significantly amplify the value of your strategic investment here in Karnal."
     ],
     "locations": [
-      "Sector 34 Karnal Commercial Zone",
-      "Proximity to NH-44 Delhi-Chandigarh Highway",
-      "Posh Residential Sectors of Karnal",
-      "Model Town Extension Connectivity",
-      "Key Educational Institutions nearby",
-      "Direct Road Access to City Center",
-      "Sector 36 Residential Area",
-      "Major Transportation Hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

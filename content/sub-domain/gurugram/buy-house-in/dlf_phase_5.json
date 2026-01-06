@@ -7,10 +7,19 @@
       "We specialize in curating the finest residential listings within this premier locality, ensuring your search for the perfect family home is seamless and rewarding. Start exploring premium ready-to-move-in properties today including state-of-the-art apartments and bespoke development opportunities on prime plots. Our expert team provides end-to-end guidance to facilitate your successful transition into one of India’s most coveted residential neighborhoods."
     ],
     "buttons": [
-      { "label": "Explore Available Listings Now", "path": "/listings" },
-      { "label": "Request Custom Property Tour", "path": "/contact" }
+      {
+        "label": "Explore Available Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Custom Property Tour",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exclusive Residential Configurations Available When You Decide to Buy House in DLF Phase 5 Gurugram",
@@ -52,14 +61,56 @@
       "Key investment destinations include the Super Luxury segment towers which provide world-class amenities, private elevators, and irreplaceable golf course views. Furthermore, areas within Phase 5 bordering the Golf Course Extension Road offer newer inventory with ultra-modern specifications and superior construction quality. We help you navigate these sophisticated choices, detailing the specific value proposition of each sub-location, analyzing traffic flow, proximity to DLF’s signature shopping complexes, and access to top international schools. Understanding the micro-market dynamics of these highly sought-after localities is absolutely crucial when you plan to buy house in DLF Phase 5, ensuring your investment perfectly matches your lifestyle goals and long-term appreciation expectations."
     ],
     "locations": [
-      "DLF The Aralias Gurugram",
-      "DLF The Magnolias Gurugram",
-      "DLF The Camellias Gurugram",
-      "DLF Park Place",
-      "DLF Belvedere Park",
-      "DLF Princeton Estate",
-      "DLF Carlton Estate",
-      "Suncity Township Sector 54"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards acquiring your dream house in Gurugram's most prestigious address",
       "Connect with our specialist team for personalized property viewing, detailed market reports, and expert guidance on investment strategies in DLF Phase 5"
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

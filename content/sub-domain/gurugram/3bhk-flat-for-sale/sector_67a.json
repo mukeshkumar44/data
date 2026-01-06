@@ -7,10 +7,19 @@
       "Investing in a 3BHK flat in Sector 67A is a smart decision guaranteed to significantly upgrade your lifestyle and offer excellent future appreciation potential. This emerging micro-market guarantees strong returns and seamless access to robust social infrastructure including world-class schools, cutting-edge hospitals, and high-street retail zones. Our carefully selected listings feature apartments built by renowned developers known for their commitment to quality construction and delivering world-class amenities. Explore intelligent layouts that maximize natural light, ventilation, and privacy, providing the perfect foundation for a comfortable family life. Start your secure and informed property search here and secure your perfect home in one of Gurugram’s most sought-after sectors."
     ],
     "buttons": [
-      { "label": "View All 3BHK Listings", "path": "/listings" },
-      { "label": "Request a Callback", "path": "/contact" }
+      {
+        "label": "View All 3BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Callback",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero-image-1.jpg", "hero-image-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Advantages of Choosing a 3BHK Flat For Sale in Sector 67A Gurugram Today",
@@ -52,14 +61,56 @@
       "The connectivity matrix includes immediate access to the Southern Peripheral Road SPR which acts as a crucial link bypassing city traffic. The proximity to Sector 65 and Sector 66 which host major corporate hubs ensures a short drive to work. Furthermore the area benefits immensely from ongoing infrastructural upgrades including widened roads and enhanced public transport options promising future-proof investment growth. Explore the key access points that define life in Sector 67A Gurugram."
     ],
     "locations": [
-      "Golf Course Extension Road Access",
-      "Southern Peripheral Road SPR Link",
-      "Proximity to NH-48",
-      "Major Corporate Hubs Sector 65",
-      "Upcoming Metro Corridor",
-      "Sohna Road Commercial Zone",
-      "DLF Cyber City via Rapid Metro",
-      "Iffco Chowk Transit Point"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning a premium 3BHK flat in the highly desirable Sector 67A Gurugram market. Our team of seasoned real estate professionals is standing by to provide personalized advice schedule property viewings and answer any specialized questions you may have about specific listings or investment returns.",
       "Do not miss out on the best properties available in this high-growth corridor. Contact us now by filling out the brief form below and one of our dedicated property advisors will reach out to you within the hour to assist with your requirements and ensure a seamless buying experience."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

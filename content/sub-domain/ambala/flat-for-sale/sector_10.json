@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "flat_exterior_sector10.jpg",
-      "living_room_interior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "These adjacent locations maintain excellent infrastructure and benefit from the general development momentum of Ambala city. We provide comprehensive listings that encompass flats, independent floors, and even builder floors in these nearby sectors. Expanding your search radius slightly can sometimes uncover hidden gems or unique property configurations not found exclusively within Sector 10. Let us guide you through the best connecting routes and neighborhood features of these promising residential pockets near your preferred Flat For Sale in Sector 10 Ambala."
     ],
     "locations": [
-      "Sector 7 Ambala",
-      "Sector 8 Ambala",
-      "Ambala Cantt Residential",
-      "Chandigarh Road Extension",
-      "NH 44 Proximity",
-      "Defence Colony Ambala",
-      "Industrial Area Sector 1",
-      "Model Town Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "karan-vihar-flat-exterior.jpg",
-      "karnal-residential-interior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "Proximity to educational hubs is a significant draw. Several reputed schools and colleges are located within a short driving distance. Similarly, top-tier medical facilities and multi-specialty hospitals are readily accessible ensuring healthcare needs are met promptly. Living here means you are never far from convenience stores, supermarkets, entertainment zones, and popular eateries. These locational benefits solidify Flats For Sale in Karan Vihar as a highly sought-after investment and living choice in Karnal, offering balanced urban convenience without the central city congestion. We highlight key amenities and travel times below."
     ],
     "locations": [
-      "Proximity to NH 44 Highway",
-      "Access to Reputed Schools and Colleges",
-      "Nearby Multispecialty Healthcare Centers",
-      "Shopping Complexes and Local Markets",
-      "Public Transport Hubs and Bus Stops",
-      "Peaceful Residential Parks and Green Zones"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

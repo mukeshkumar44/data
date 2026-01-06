@@ -7,10 +7,19 @@
       "Our curated listings showcase the best residential flats available right now, ranging from compact 2 BHK units perfect for young professionals to sprawling 4 BHK apartments designed for large families. We provide detailed insights into pricing, floor plans, society amenities, and future growth prospects, making your property search seamless. Start your journey to find the ideal Flat For Sale in Sector 93 today and secure a valuable asset in the heart of Noida's thriving real estate market."
     ],
     "buttons": [
-      { "label": "Explore Available Flats", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact-us" }
+      {
+        "label": "Explore Available Flats",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["flat_93_hero1.jpg", "flat_93_hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Popular Flat Configurations Available When You Buy a Flat For Sale in Sector 93 Noida",
@@ -52,14 +61,56 @@
       "Furthermore, excellent road networks connect Sector 93 to major retail destinations, esteemed educational institutions, and world-class healthcare facilities, making it a highly self-sufficient residential zone. The robust infrastructure surrounding every flat for sale in Sector 93 ensures that essential services and leisure activities are always within easy reach, cementing its status as a premium residential address in Noida."
     ],
     "locations": [
-      "Sector 132 Noida IT Hub",
-      "Sector 137 Noida Metro Station",
-      "Noida-Greater Noida Expressway Access",
-      "Gautam Buddha University",
-      "Widespread Retail Shopping Malls",
-      "Proximity to Delhi via Expressway",
-      "Jaypee Hospital and Medical Facilities",
-      "Future Link Road Connectivity Projects"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to move forward with purchasing your ideal flat for sale in Sector 93 Noida We are here to provide tailored assistance, answer complex queries, and arrange private viewings of the finest properties available. Leverage our local expertise and market knowledge to secure the best deal.",
       "Submit your details below and one of our dedicated property advisors will reach out immediately to discuss your specific residential requirements and investment goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "ranabagh_hero_house_front.jpg",
-      "ranabagh_hero_street_view.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The area also boasts excellent infrastructure and robust public transport links connecting residents quickly to the main city areas and industrial zones. Nearby areas like Ambala Cantt Railway Station and major national highways further enhance the connectivity profile of Rana Bagh properties. This established locality ensures residents enjoy quiet residential streets while remaining just minutes away from busy commercial hubs and necessary civic services. Investing here means capitalizing on a location that promises continued appreciation due to planned urban development and strong community integration. We provide insights into local market trends helping you understand property values and future growth projections for houses purchased in Rana Bagh and its adjacent sectors."
     ],
     "locations": [
-      "Ambala Cantt Railway Station",
-      "Shastri Colony Ambala",
-      "Police Line Area Ambala",
-      "Sadar Bazaar Ambala Cantt",
-      "Model Town Ambala",
-      "NH 44 Connectivity",
-      "Civil Hospital Ambala",
-      "Air Force Station Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

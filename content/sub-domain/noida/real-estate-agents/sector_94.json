@@ -7,10 +7,19 @@
       "Whether you are looking to acquire a penthouse with skyline views, lease prime corporate space, or divest an existing asset, we provide the strategic support necessary to achieve optimal results. We specialize in simplifying the complex processes of high-end real estate, ensuring smooth, confidential, and highly effective deals for discerning clients who value discretion and expertise."
     ],
     "buttons": [
-      { "label": "Find Your Dream Home", "path": "/properties/sale" },
-      { "label": "Schedule a Consultation", "path": "/contact" }
+      {
+        "label": "Find Your Dream Home",
+        "path": "/properties/sale"
+      },
+      {
+        "label": "Schedule a Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Services Provided by Expert Real Estate Agents in Sector 94 for Seamless Transactions",
@@ -52,14 +61,56 @@
       "We provide detailed neighborhood insights on everything from local amenities and connectivity infrastructure to future development plans that impact property values. Whether your interest lies in luxury serviced apartments, expansive builder floors, or Grade A office spaces, partnering with our expert Real Estate Agents in Sector 94 ensures you have the local knowledge required to make a truly informed decision. We are your dedicated source for insider information on upcoming inventory and market trends influencing Sector 94's elite property landscape."
     ],
     "locations": [
-      "Luxury High-Rise Apartments",
-      "Grade A Commercial Office Spaces",
-      "Premium Serviced Residences",
-      "Ready-to-Move Penthouse Units",
-      "Exclusive Builder Floor Options",
-      "Retail and Anchor Store Spaces",
-      "Properties Near Okhla Bird Sanctuary",
-      "High-Visibility Corporate Suites"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to make your move in one of Noida's most affluent sectors. Whether you are buying, selling, or seeking expert advice on property valuation in Sector 94, our specialist team is prepared to offer customized, confidential consultation.",
       "Do not navigate the high-stakes property market alone. Leverage our local expertise, extensive network, and commitment to achieving premium results. Fill out the form below to schedule a private meeting with one of the most respected Real Estate Agents in Sector 94 Noida."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

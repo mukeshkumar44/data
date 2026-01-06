@@ -7,10 +7,19 @@
       "Explore our exclusive listings featuring versatile shop spaces from compact retail units to expansive double-story commercial buildings. Investing in commercial property here means securing a strategic asset in a peaceful yet highly connected area of Karnal. Whether you plan to launch a new venture or seek rental income our expertly curated selection of shops guarantees value. Let us help you find the optimal location to elevate your business presence in Shiv Colony Karnal."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/listings" },
-      { "label": "Consult Our Property Experts", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Consult Our Property Experts",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Plot Sizes Ideal for Shop Construction in Shiv Colony",
@@ -52,14 +61,56 @@
       "We highlight key nearby commercial areas and infrastructure that drive up the value and footfall of your property. Proximity to established markets hospitals and educational institutions guarantees a constant stream of potential customers reinforcing the strong commercial viability of this location."
     ],
     "locations": [
-      "Main Assandh Road Karnal",
-      "Sector 6 Commercial Market",
-      "Karnal Bypass NH 44",
-      "Model Town Commercial Area",
-      "Railway Station Accessibility",
-      "Nearby Residential Colonies",
-      "Easy access to hospitals and banks",
-      "Proximity to major educational institutions"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Our property experts are ready to provide personalized consultations and exclusive listings of the best commercial shops available right now in Shiv Colony Karnal. Do not miss out on securing a prime location for your business or investment portfolio.",
       "Get in touch today to schedule a site visit or receive a comprehensive valuation report tailored to the commercial real estate market trends in Shiv Colony."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

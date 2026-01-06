@@ -7,10 +7,19 @@
       "Whether you are searching for a ready-to-move-in independent house a reliable commercial space or a perfectly sized residential plot we are your dedicated partners. As the leading Property Dealer in Durga Nagar Ambala we simplify complex transactions ensuring complete transparency and legal security from the initial consultation to the final registration. Let us help you unlock the true value of Durga Nagar real estate and secure your financial future through smart property decisions today."
     ],
     "buttons": [
-      { "label": "Explore Plots for Sale", "path": "/plots-for-sale" },
-      { "label": "Request a Free Consultation", "path": "/contact" }
+      {
+        "label": "Explore Plots for Sale",
+        "path": "/plots-for-sale"
+      },
+      {
+        "label": "Request a Free Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/durga-nagar-hero.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Residential Plot Sizes Available Through Our Property Dealer in Durga Nagar Ambala",
@@ -52,14 +61,56 @@
       "We provide expert guidance on comparative pricing and future growth forecasts for neighboring localities helping you make an informed decision regardless of where you choose to invest in the Ambala region. Consult with us today to see how nearby areas might complement your property search criteria."
     ],
     "locations": [
-      "Ambala Cantt Railway Station Road",
-      "Model Town Ambala City",
-      "Sector 7 Ambala",
-      "Defence Colony Ambala Cantt",
-      "Patel Road Ambala City",
-      "Manav Chowk Area",
-      "Adarsh Nagar Ambala",
-      "Baldev Nagar Housing Board Colony"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to discuss your property goals whether buying selling or investing in Durga Nagar Ambala. Our expert team is here to provide tailored solutions and actionable market insights.",
       "Fill out the form below or call us directly to schedule a confidential discussion about your real estate needs and secure your future in this prime Ambala locality."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

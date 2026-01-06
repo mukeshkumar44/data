@@ -7,10 +7,19 @@
       "Investing in a 3BHK flat in Sector 105 is not just purchasing property it is securing a future in one of Gurugram’s fastest-growing residential corridors. Enjoy meticulously planned layouts world-class security features and proximity to leading schools hospitals and commercial centres. Explore our exclusive inventory of ready-to-move and under-construction 3BHK flats in Sector 105 Gurugram and take the first step towards owning your ideal home. Contact our property experts now for personalized site visits and detailed financial consultations."
     ],
     "buttons": [
-      { "label": "Explore 3BHK Listings", "path": "/listings" },
-      { "label": "Download Price Sheet", "path": "/pricing" }
+      {
+        "label": "Explore 3BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Download Price Sheet",
+        "path": "/pricing"
+      }
     ],
-    "images": ["image1.jpg", "image2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exclusive Features Defining the Premium 3BHK Flats For Sale in Sector 105 Gurugram",
@@ -52,14 +61,56 @@
       "The real estate market in Sector 105 is robust driven by its seamless connectivity to the central business districts and its proximity to the upcoming metro corridor. This makes securing a 3BHK flat here a smart long-term financial decision. Below are some crucial nearby areas demonstrating the exceptional connectivity of this sector."
     ],
     "locations": [
-      "Dwarka Expressway Access Points",
-      "Sector 106 Residential Hub",
-      "NH 48 Delhi Jaipur Highway",
-      "Sultanpur National Park",
-      "IMT Manesar Industrial Area",
-      "Rajiv Chowk Gurugram",
-      "Pataudi Road Connectivity",
-      "Upcoming Global City Site"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to find the perfect 3BHK Flat For Sale in Sector 105 Get in touch with our certified property consultants who possess deep market knowledge of this exclusive area. We offer personalized property tours tailored investment advice and comprehensive documentation support.",
       "Fill out the form below to schedule a consultation or request exclusive project brochures and the latest price lists. Your dream home in Sector 105 awaits."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

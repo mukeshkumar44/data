@@ -7,12 +7,18 @@
       "Whether you are launching a new retail venture, setting up a professional services office, or seeking a high-visibility showroom space, our portfolio in Sector 33 provides diverse options tailored to your specific operational needs. Benefit from strategic locations near dense residential pockets and excellent arterial road connectivity ensuring your business thrives from day one. Explore highly demanded properties and take the first step toward securing a profitable future in one of Gurugram’s most sought-after commercial zones."
     ],
     "buttons": [
-      { "label": "Browse Available Shops", "path": "/listings" },
-      { "label": "Consult Our Commercial Experts", "path": "/contact" }
+      {
+        "label": "Browse Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Consult Our Commercial Experts",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "shop-sector33-hero1.jpg",
-      "shop-sector33-hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The location benefits from seamless access to major transport corridors including the main Mathura Road and the Delhi-Agra National Highway offering crucial logistical advantages. When you secure a shop for rent in Sector 33 you are not just targeting local residents but also benefiting from the overflow traffic and supply chain efficiency provided by adjacent commercial hubs. Explore how these geographical advantages translate into higher customer acquisition and sustained business growth for your operation in Gurugram."
     ],
     "locations": [
-      "Commercial Hubs in Sector 32 Gurugram",
-      "Retail Opportunities near Sector 34 Main Market",
-      "Business Centers adjoining Sector 35",
-      "Easy Access to Old Gurugram Town Center",
-      "Properties with Direct Mathura Road Connectivity",
-      "Shops near NH-44 Access Points",
-      "Proximity to Residential Colonies of Sector 37",
-      "High Visibility Spots near Metro Stations"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to establish or expand your business presence in one of Gurugram’s most profitable commercial locations Sector 33 is waiting. Our expert commercial real estate advisors are standing by to offer personalized assistance matching you with the ideal rental space that meets all your budget and operational criteria.",
       "Do not miss out on prime opportunities in this rapidly developing sector. Contact us now to schedule a site visit receive curated listings and gain detailed market insights that only local experts can provide."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

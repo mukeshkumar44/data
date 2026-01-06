@@ -7,10 +7,19 @@
       "Whether you are seeking a spacious builder floor apartment with independent access or a modern high-rise residence complete with state-of-the-art amenities Ashok Vihar provides excellent investment potential. Start your search today for an exceptional 3BHK flat in Ashok Vihar and secure a luxurious lifestyle in one of Delhi's most prestigious neighbourhoods. Connect with our expert real estate advisors for personalized viewings and seamless transaction support."
     ],
     "buttons": [
-      { "label": "View Available 3BHK Listings", "path": "/listings" },
-      { "label": "Schedule a Site Visit Today", "path": "/contact" }
+      {
+        "label": "View Available 3BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit Today",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Features of Every 3BHK Flat For Sale in Ashok Vihar Delhi",
@@ -52,12 +61,56 @@
       "Our property experts have detailed knowledge of Ashok Vihar Phase I Phase II Phase III and various blocks like Block A B C and D. Whether you prioritize proximity to the main market green spaces or metro access we guide you to the exact spot that matches your residential goals ensuring your investment is sound and your lifestyle needs are met."
     ],
     "locations": [
-      "Ashok Vihar Phase I Premium Residences",
-      "Ashok Vihar Phase II Builder Floors",
-      "Ashok Vihar Phase III Affordable Luxury",
-      "Ashok Vihar Block B Close to Local Markets",
-      "Ashok Vihar Block C Near Metro Station",
-      "Model Town Connectivity Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

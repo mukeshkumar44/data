@@ -7,10 +7,19 @@
       "Unlock unparalleled growth potential by securing a prominent commercial space in one of Rohtak’s most vibrant localities. Our portfolio features diverse options, from compact retail units perfect for startups to expansive showrooms suitable for established brands. Begin your search today to explore verified commercial rentals and take the decisive step toward expanding your business footprint in Dev Colony Rohtak. We simplify the leasing process so you can focus entirely on your business success."
     ],
     "buttons": [
-      { "label": "Explore Available Shops", "path": "/search-shops" },
-      { "label": "Request a Callback", "path": "/contact-us" }
+      {
+        "label": "Explore Available Shops",
+        "path": "/search-shops"
+      },
+      {
+        "label": "Request a Callback",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["/images/dev-colony-shop-front.jpg", "/images/rohtak-commercial-area.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Premium Commercial Spaces and Essential Features Available in Dev Colony Rohtak",
@@ -52,13 +61,56 @@
       "Our platform provides insight into how commercial activity in Dev Colony complements nearby areas, helping you select the perfect spot based on your specific target demographic whether you serve the local residents or require easy access to city-wide transportation networks. Reviewing these surrounding commercial hubs aids in long-term expansion forecasting and resource allocation."
     ],
     "locations": [
-      "Civil Lines Commercial Market",
-      "Sector 14 Rohtak Business Hub",
-      "Sheela Bypass Road Retail Corridor",
-      "Delhi Bypass Commercial Zone",
-      "Rohtak City Centre Commercial Outlets",
-      "Vikas Nagar Local Shops",
-      "Jind Road Main Market Areas"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -154,6 +206,11 @@
       "Ready to secure the perfect commercial space that aligns with your business goals in Dev Colony Rohtak Get in touch with our expert team immediately to discuss your specific requirements and gain access to our exclusive, off-market listings.",
       "Fill out the contact form below and a dedicated commercial leasing specialist will contact you within 24 hours to schedule personalized viewings and provide tailored market insights."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

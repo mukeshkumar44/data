@@ -7,10 +7,19 @@
       "Trust the local specialists who understand the micro-market trends governing property valuations and future growth potential in Sector 39. Sector 39 offers excellent connectivity and established social infrastructure making it a highly desirable residential hub. Avoid common transactional pitfalls and streamline your entire property journey from initial search to final registration with our proven professional support. Start your secure and successful real estate transaction today by partnering with the leading real estate agents in Sector 39 Gurugram who prioritize your goals."
     ],
     "buttons": [
-      { "label": "Find Your Dream Property", "path": "/listings" },
-      { "label": "Schedule a Consultation Now", "path": "/contact" }
+      {
+        "label": "Find Your Dream Property",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Consultation Now",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Diverse Residential and Commercial Property Options in Sector 39 Gurugram",
@@ -52,14 +61,56 @@
       "This broad perspective allows us to offer comparative market analysis guiding you to make the most informed decision whether you are buying selling or leasing in Sector 39 or its immediate vicinity."
     ],
     "locations": [
-      "Sector 38 Gurugram",
-      "Sector 40 Gurugram",
-      "Sector 31 Gurugram",
-      "Sector 44 HUDA City Centre",
-      "Medanta The Medicity Area",
-      "NH-48 Connectivity Zone",
-      "Sohna Road Investment Corridor",
-      "DLF Phase 4 Residences"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to start your property journey in Sector 39 Whether buying selling or leasing our expert real estate agents are here to provide tailored solutions and unparalleled market access.",
       "Reach out now for a confidential consultation and take the first step toward achieving your real estate goals with confidence and professional support."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

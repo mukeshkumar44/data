@@ -7,12 +7,18 @@
       "Our curated listings feature verified properties from reputable landlords and developers, ensuring transparency and ease in your search process. Sector 46 offers immediate access to major highways, top educational institutions, healthcare facilities, and bustling commercial hubs. Start exploring available flats for rent today and step closer to experiencing convenient, high-quality living in a well-established sector of Gurugram. We make renting simple, secure, and stress-free."
     ],
     "buttons": [
-      { "label": "Explore Rental Listings Now", "path": "/listings/sector-46/flats" },
-      { "label": "Calculate Your Budget", "path": "/tools/rental-calculator" }
+      {
+        "label": "Explore Rental Listings Now",
+        "path": "/listings/sector-46/flats"
+      },
+      {
+        "label": "Calculate Your Budget",
+        "path": "/tools/rental-calculator"
+      }
     ],
     "images": [
-      "hero-flat-sector-46-1.jpg",
-      "hero-flat-sector-46-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -22,12 +28,30 @@
       "From compact studio apartments perfect for singles to expansive three-bedroom homes designed for family comfort, our listings cover the full spectrum of rental properties in this desirable area. We categorize properties not just by size but also by amenities, proximity to key landmarks, and overall community feel, ensuring you find a flat that truly suits your needs in Sector 46 Gurugram."
     ],
     "features": [
-      { "title": "1 BHK Flat Rental Options", "description": "Ideal for single professionals, students, or couples looking for an affordable, compact living space with essential amenities. These flats typically offer a bedroom, a living room, a functional kitchen, and a bathroom. They are highly sought after in Sector 46 due to their lower maintenance costs and excellent connectivity to corporate areas in Gurugram." },
-      { "title": "2 BHK Flats for Families", "description": "The most common and popular configuration, 2 BHK flats provide comfortable space for small families or two individuals sharing accommodation. Listings often feature two spacious bedrooms, a drawing-dining area, and two bathrooms. Many 2 BHK units in Sector 46 are semi-furnished, reducing the initial burden of setting up a new home." },
-      { "title": "3 BHK Premium Rental Homes", "description": "Designed for larger families requiring more space, privacy, and luxury. These premium units usually include three bedrooms, dedicated servant quarters in some complexes, and expansive balconies with better views. Renting a 3 BHK Flat in Sector 46 ensures you benefit from superior society amenities like gyms, swimming pools, and extensive security features." },
-      { "title": "Studio Apartments and Serviced Units", "description": "Less common but available in select modern developments, studio apartments combine living, sleeping, and kitchen areas into one integrated space, ideal for busy corporate executives. Serviced apartments, often rented short-term, offer hotel-like amenities and daily maintenance, appealing to those needing temporary, hassle-free accommodation near the Mathura Road corridor." },
-      { "title": "Semi-Furnished Properties Advantage", "description": "Most available rental properties in Sector 46 are semi-furnished, typically including essential fixtures like modular kitchens, wardrobes, light fittings, and air conditioners. This greatly streamlines the moving process compared to completely unfurnished or fully furnished alternatives, balancing convenience and personalization for the tenant." },
-      { "title": "Gated Community Apartment Rentals", "description": "Living in a gated community in Sector 46 offers superior security, power backup, dedicated parking, and access to communal lifestyle facilities. These communities are highly valued by families prioritizing safety and a structured, clean environment. The rental prices reflect the added value and peace of mind provided by these modern complexes." }
+      {
+        "title": "1 BHK Flat Rental Options",
+        "description": "Ideal for single professionals, students, or couples looking for an affordable, compact living space with essential amenities. These flats typically offer a bedroom, a living room, a functional kitchen, and a bathroom. They are highly sought after in Sector 46 due to their lower maintenance costs and excellent connectivity to corporate areas in Gurugram."
+      },
+      {
+        "title": "2 BHK Flats for Families",
+        "description": "The most common and popular configuration, 2 BHK flats provide comfortable space for small families or two individuals sharing accommodation. Listings often feature two spacious bedrooms, a drawing-dining area, and two bathrooms. Many 2 BHK units in Sector 46 are semi-furnished, reducing the initial burden of setting up a new home."
+      },
+      {
+        "title": "3 BHK Premium Rental Homes",
+        "description": "Designed for larger families requiring more space, privacy, and luxury. These premium units usually include three bedrooms, dedicated servant quarters in some complexes, and expansive balconies with better views. Renting a 3 BHK Flat in Sector 46 ensures you benefit from superior society amenities like gyms, swimming pools, and extensive security features."
+      },
+      {
+        "title": "Studio Apartments and Serviced Units",
+        "description": "Less common but available in select modern developments, studio apartments combine living, sleeping, and kitchen areas into one integrated space, ideal for busy corporate executives. Serviced apartments, often rented short-term, offer hotel-like amenities and daily maintenance, appealing to those needing temporary, hassle-free accommodation near the Mathura Road corridor."
+      },
+      {
+        "title": "Semi-Furnished Properties Advantage",
+        "description": "Most available rental properties in Sector 46 are semi-furnished, typically including essential fixtures like modular kitchens, wardrobes, light fittings, and air conditioners. This greatly streamlines the moving process compared to completely unfurnished or fully furnished alternatives, balancing convenience and personalization for the tenant."
+      },
+      {
+        "title": "Gated Community Apartment Rentals",
+        "description": "Living in a gated community in Sector 46 offers superior security, power backup, dedicated parking, and access to communal lifestyle facilities. These communities are highly valued by families prioritizing safety and a structured, clean environment. The rental prices reflect the added value and peace of mind provided by these modern complexes."
+      }
     ]
   },
   "locationsSection": {
@@ -37,14 +61,56 @@
       "The sector benefits greatly from its adjacency to major commercial zones and connectivity to both Delhi and Gurgaon. This superior location makes Sector 46 a highly functional and convenient place to rent a flat, blending residential calm with urban accessibility."
     ],
     "locations": [
-      "Proximity to National Highway 19 (NH-19) for seamless inter-city travel",
-      "Close access to Sector 45 and Sector 47 residential areas",
-      "Easy commute to the bustling commercial hub of Sector 37 Gurugram",
-      "Several high-quality schools and colleges are located within a 3 km radius",
-      "Nearby healthcare facilities include leading hospitals and clinics",
-      "Convenient access to shopping malls and local markets for daily needs",
-      "Well-connected by public transport including shared autos and bus services",
-      "Short drive to the Badarpur border leading into South Delhi"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -54,30 +120,84 @@
       "We highlight the key factors that draw renters to seek a Flat For Rent in Sector 46, ensuring you invest your time in a location that promises quality living and convenience."
     ],
     "points": [
-      { "title": "Exceptional Safety and Security Measures", "description": "Sector 46 is known for its low crime rate and strong community vigilance. Many residential complexes feature 24/7 guarded security, CCTV surveillance, and secure entry/exit points. Renting here means prioritizing the safety of your family and possessions, a primary concern for tenants moving to a new area of Gurugram." },
-      { "title": "Mature and Robust Social Infrastructure", "description": "The sector boasts established schools, high-quality hospitals, banks, and grocery stores all within easy reach. This maturity means residents do not have to travel far for essential services, saving significant time and improving the overall quality of daily life in Sector 46 Gurugram." },
-      { "title": "Excellent Connectivity and Commute Ease", "description": "Situated strategically with swift access to the main Mathura Road, Sector 46 provides easy commuting options to Delhi, Noida, and Gurgaon. Its well-planned internal roads and proximity to the nearest metro stations (currently under development or slightly further afield) ensure smooth movement across the NCR region." },
-      { "title": "Variety of Flat Configurations and Budgets", "description": "The housing stock in Sector 46 is incredibly diverse, ranging from budget-friendly independent builder floors to luxurious society apartments. This variety ensures that tenants across different income groups can find a suitable Flat For Rent that aligns perfectly with their financial planning and spatial requirements." },
-      { "title": "Green Spaces and Well-Maintained Environment", "description": "Unlike many congested parts of the city, Sector 46 maintains several well-kept parks and green belts. These areas provide residents with opportunities for recreation, exercise, and enjoying the outdoors, contributing to a healthier and more pleasant living atmosphere." },
-      { "title": "Professional and Family-Oriented Community", "description": "The community in Sector 46 largely comprises established professionals, government employees, and educated families. This demographic creates a stable, respectful, and friendly neighborhood environment, which is highly desirable for tenants looking for long-term stability." },
-      { "title": "Transparent Rental Agreements and Processes", "description": "We partner only with verified landlords who adhere to clear, documented rental agreements. This transparency minimizes potential disputes and ensures that tenants understand all terms related to deposits, lock-in periods, and maintenance charges when securing a Flat For Rent in Sector 46." },
-      { "title": "Competitive Rental Rates and Value", "description": "While offering premium amenities and connectivity, rental rates in Sector 46 often provide better value compared to similarly equipped sectors closer to Delhi. Tenants receive high quality of life, superior infrastructure, and modern housing without excessively high monthly rental expenditure." }
+      {
+        "title": "Exceptional Safety and Security Measures",
+        "description": "Sector 46 is known for its low crime rate and strong community vigilance. Many residential complexes feature 24/7 guarded security, CCTV surveillance, and secure entry/exit points. Renting here means prioritizing the safety of your family and possessions, a primary concern for tenants moving to a new area of Gurugram."
+      },
+      {
+        "title": "Mature and Robust Social Infrastructure",
+        "description": "The sector boasts established schools, high-quality hospitals, banks, and grocery stores all within easy reach. This maturity means residents do not have to travel far for essential services, saving significant time and improving the overall quality of daily life in Sector 46 Gurugram."
+      },
+      {
+        "title": "Excellent Connectivity and Commute Ease",
+        "description": "Situated strategically with swift access to the main Mathura Road, Sector 46 provides easy commuting options to Delhi, Noida, and Gurgaon. Its well-planned internal roads and proximity to the nearest metro stations (currently under development or slightly further afield) ensure smooth movement across the NCR region."
+      },
+      {
+        "title": "Variety of Flat Configurations and Budgets",
+        "description": "The housing stock in Sector 46 is incredibly diverse, ranging from budget-friendly independent builder floors to luxurious society apartments. This variety ensures that tenants across different income groups can find a suitable Flat For Rent that aligns perfectly with their financial planning and spatial requirements."
+      },
+      {
+        "title": "Green Spaces and Well-Maintained Environment",
+        "description": "Unlike many congested parts of the city, Sector 46 maintains several well-kept parks and green belts. These areas provide residents with opportunities for recreation, exercise, and enjoying the outdoors, contributing to a healthier and more pleasant living atmosphere."
+      },
+      {
+        "title": "Professional and Family-Oriented Community",
+        "description": "The community in Sector 46 largely comprises established professionals, government employees, and educated families. This demographic creates a stable, respectful, and friendly neighborhood environment, which is highly desirable for tenants looking for long-term stability."
+      },
+      {
+        "title": "Transparent Rental Agreements and Processes",
+        "description": "We partner only with verified landlords who adhere to clear, documented rental agreements. This transparency minimizes potential disputes and ensures that tenants understand all terms related to deposits, lock-in periods, and maintenance charges when securing a Flat For Rent in Sector 46."
+      },
+      {
+        "title": "Competitive Rental Rates and Value",
+        "description": "While offering premium amenities and connectivity, rental rates in Sector 46 often provide better value compared to similarly equipped sectors closer to Delhi. Tenants receive high quality of life, superior infrastructure, and modern housing without excessively high monthly rental expenditure."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Renting a Flat in Sector 46 Gurugram",
     "description": "Get detailed answers to common inquiries regarding rental procedures, costs, and living conditions in Sector 46.",
     "faqs": [
-      { "question": "What is the typical security deposit required for a Flat For Rent in Sector 46", "answer": "The standard security deposit in Sector 46, like most of Gurugram, is typically equivalent to two to three months' rent. This amount is refundable upon the termination of the lease, provided the property is returned in good condition and there are no outstanding utility bills or damage beyond normal wear and tear. Always ensure this is clearly documented in your rental agreement." },
-      { "question": "Are maintenance charges included in the rent for flats in gated societies", "answer": "In most gated societies in Sector 46, the policy on maintenance charges varies. For some listings, the monthly society maintenance fee (covering common area electricity, security, and facility upkeep) might be included in the advertised rent. However, often, the tenant is responsible for paying this charge separately to the Resident Welfare Association (RWA). Always clarify this point before signing the lease agreement." },
-      { "question": "What documents are generally needed to rent an apartment in Sector 46 Gurugram", "answer": "Landlords typically require comprehensive documentation for tenant verification. This includes Aadhar Card and PAN Card copies for identity and address proof, recent salary slips or bank statements (for employed individuals), and proof of current residence. A police verification form must also be completed as per local regulations for all new tenants." },
-      { "question": "Is Sector 46 well-connected to public transportation options like Metro or Bus services", "answer": "Yes, Sector 46 enjoys good connectivity. While the nearest operational Metro Station (Badarpur or Old Gurugram) requires a short commute, the sector is very well served by local auto-rickshaws and the city bus network. Its location near NH-19 also ensures swift access for those commuting using private vehicles or company transport services across the NCR." },
-      { "question": "What is the average rental price range for a 2 BHK Flat in Sector 46", "answer": "The average rental price for a well-maintained 2 BHK Flat in Sector 46 typically ranges between ₹15,000 and ₹25,000 per month, depending heavily on the building type (builder floor versus society apartment), age of construction, and the level of furnishing and amenities provided. Premium society flats with power backup and advanced security will naturally command the higher end of this range." },
-      { "question": "Are pet owners allowed to rent flats in Sector 46 apartment complexes", "answer": "Pet policies are strictly determined by the individual building management or RWA rules. While some independent builder floors might be pet-friendly, many large society complexes in Sector 46 have restrictions on large pets or may require prior written permission and an additional pet deposit. Prospective tenants with pets should specifically inquire about the pet policy before committing to a Flat For Rent." },
-      { "question": "How long is the typical lock-in period for rental agreements in Sector 46 Gurugram", "answer": "The standard lock-in period for a 12-month rental agreement is usually six months. During this time, neither the landlord nor the tenant can terminate the lease without facing financial penalties, usually the forfeiture of the security deposit or equivalent rental payment. This duration is negotiated to provide stability for both parties." },
-      { "question": "What utility bills (electricity, water, gas) are the responsibility of the tenant", "answer": "In almost all rental agreements in Sector 46, the tenant is directly responsible for paying their consumption charges for electricity, water, and piped natural gas (PNG), if applicable. The landlord typically ensures the meters are in working order, but the monthly usage bill is the tenant's obligation and is not included in the monthly rent payment." },
-      { "question": "Do I need a broker to find a quality Flat For Rent in Sector 46", "answer": "While it is possible to find direct listings, engaging a professional real estate broker specializing in Sector 46 can significantly speed up your search. A good broker provides access to exclusive listings, handles negotiation, assists with documentation, and ensures proper police verification, making the entire process more efficient and secure for the tenant." },
-      { "question": "What are the common facilities available in high-rise apartments in this area", "answer": "High-rise apartments rented out in Sector 46 typically offer a comprehensive list of modern amenities. These often include 100% power backup, high-speed elevators, designated covered parking, landscaped gardens, a community hall, 24/7 security with intercom, and recreational facilities like a gymnasium, swimming pool, and children's play area." }
+      {
+        "question": "What is the typical security deposit required for a Flat For Rent in Sector 46",
+        "answer": "The standard security deposit in Sector 46, like most of Gurugram, is typically equivalent to two to three months' rent. This amount is refundable upon the termination of the lease, provided the property is returned in good condition and there are no outstanding utility bills or damage beyond normal wear and tear. Always ensure this is clearly documented in your rental agreement."
+      },
+      {
+        "question": "Are maintenance charges included in the rent for flats in gated societies",
+        "answer": "In most gated societies in Sector 46, the policy on maintenance charges varies. For some listings, the monthly society maintenance fee (covering common area electricity, security, and facility upkeep) might be included in the advertised rent. However, often, the tenant is responsible for paying this charge separately to the Resident Welfare Association (RWA). Always clarify this point before signing the lease agreement."
+      },
+      {
+        "question": "What documents are generally needed to rent an apartment in Sector 46 Gurugram",
+        "answer": "Landlords typically require comprehensive documentation for tenant verification. This includes Aadhar Card and PAN Card copies for identity and address proof, recent salary slips or bank statements (for employed individuals), and proof of current residence. A police verification form must also be completed as per local regulations for all new tenants."
+      },
+      {
+        "question": "Is Sector 46 well-connected to public transportation options like Metro or Bus services",
+        "answer": "Yes, Sector 46 enjoys good connectivity. While the nearest operational Metro Station (Badarpur or Old Gurugram) requires a short commute, the sector is very well served by local auto-rickshaws and the city bus network. Its location near NH-19 also ensures swift access for those commuting using private vehicles or company transport services across the NCR."
+      },
+      {
+        "question": "What is the average rental price range for a 2 BHK Flat in Sector 46",
+        "answer": "The average rental price for a well-maintained 2 BHK Flat in Sector 46 typically ranges between ₹15,000 and ₹25,000 per month, depending heavily on the building type (builder floor versus society apartment), age of construction, and the level of furnishing and amenities provided. Premium society flats with power backup and advanced security will naturally command the higher end of this range."
+      },
+      {
+        "question": "Are pet owners allowed to rent flats in Sector 46 apartment complexes",
+        "answer": "Pet policies are strictly determined by the individual building management or RWA rules. While some independent builder floors might be pet-friendly, many large society complexes in Sector 46 have restrictions on large pets or may require prior written permission and an additional pet deposit. Prospective tenants with pets should specifically inquire about the pet policy before committing to a Flat For Rent."
+      },
+      {
+        "question": "How long is the typical lock-in period for rental agreements in Sector 46 Gurugram",
+        "answer": "The standard lock-in period for a 12-month rental agreement is usually six months. During this time, neither the landlord nor the tenant can terminate the lease without facing financial penalties, usually the forfeiture of the security deposit or equivalent rental payment. This duration is negotiated to provide stability for both parties."
+      },
+      {
+        "question": "What utility bills (electricity, water, gas) are the responsibility of the tenant",
+        "answer": "In almost all rental agreements in Sector 46, the tenant is directly responsible for paying their consumption charges for electricity, water, and piped natural gas (PNG), if applicable. The landlord typically ensures the meters are in working order, but the monthly usage bill is the tenant's obligation and is not included in the monthly rent payment."
+      },
+      {
+        "question": "Do I need a broker to find a quality Flat For Rent in Sector 46",
+        "answer": "While it is possible to find direct listings, engaging a professional real estate broker specializing in Sector 46 can significantly speed up your search. A good broker provides access to exclusive listings, handles negotiation, assists with documentation, and ensures proper police verification, making the entire process more efficient and secure for the tenant."
+      },
+      {
+        "question": "What are the common facilities available in high-rise apartments in this area",
+        "answer": "High-rise apartments rented out in Sector 46 typically offer a comprehensive list of modern amenities. These often include 100% power backup, high-speed elevators, designated covered parking, landscaped gardens, a community hall, 24/7 security with intercom, and recreational facilities like a gymnasium, swimming pool, and children's play area."
+      }
     ]
   },
   "contactSection": {
@@ -86,6 +206,11 @@
       "Ready to move into a high-quality rental flat in Sector 46 Gurugram? Contact our experienced rental specialists now. We provide personalized assistance to match you with properties that meet your exact specifications, budget, and location preferences.",
       "Fill out the form below or call us directly. Let us help you navigate the rental market effortlessly and secure your ideal home quickly."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

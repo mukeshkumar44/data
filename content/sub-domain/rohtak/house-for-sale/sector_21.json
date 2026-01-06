@@ -7,10 +7,19 @@
       "Whether you are searching for a compact 3 BHK unit built on a 6 Marla plot or a sprawling luxury home on a 14 Marla configuration, our portfolio in Sector 21 has options tailored for every discerning buyer. These properties often boast modern architecture, robust construction quality, and legal clarity ensuring a smooth ownership transition. Start your journey with us and explore homes that promise comfort appreciation and prestige in the heart of Rohtak."
     ],
     "buttons": [
-      { "label": "View Verified House Listings", "path": "/listings" },
-      { "label": "Schedule Property Visit", "path": "/contact" }
+      {
+        "label": "View Verified House Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule Property Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse House For Sale Options in Sector 21 Rohtak Based on Plot Configuration",
@@ -52,14 +61,56 @@
       "Furthermore the sector is surrounded by necessary civic amenities enhancing the quality of life for all inhabitants. From top-rated schools to specialty hospitals and popular retail destinations everything needed for comfortable modern living is just a short drive away. Investing in a house here is not just buying property it is buying convenience and a superior lifestyle package in Rohtak."
     ],
     "locations": [
-      "Proximity to Delhi-Rohtak Highway",
-      "Nearby Premier Educational Institutions",
-      "Access to Major Healthcare Facilities",
-      "Developed Commercial Markets",
-      "Easy Access to Sector 14 Rohtak",
-      "Central Parks and Green Spaces",
-      "Upcoming Metro Link Potential",
-      "Reliable Power and Water Infrastructure"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

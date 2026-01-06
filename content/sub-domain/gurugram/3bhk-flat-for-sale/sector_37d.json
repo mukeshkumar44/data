@@ -7,12 +7,18 @@
       "Discover properties developed by top-tier builders featuring world-class amenities including modern clubhouses swimming pools and robust security systems. Investing in a 3BHK flat in this sector guarantees easy access to major commercial hubs schools and hospitals positioning you perfectly within the National Capital Region. Explore exclusive listings tailored to meet your family’s needs for space luxury and convenience today and step into the future of urban living."
     ],
     "buttons": [
-      { "label": "Explore Ready-to-Move 3BHK Options", "path": "/ready-to-move" },
-      { "label": "Download Price List & Floor Plans", "path": "/download-guide" }
+      {
+        "label": "Explore Ready-to-Move 3BHK Options",
+        "path": "/ready-to-move"
+      },
+      {
+        "label": "Download Price List & Floor Plans",
+        "path": "/download-guide"
+      }
     ],
     "images": [
-      "hero-3bhk-sector-37d-1.webp",
-      "hero-3bhk-sector-37d-2.webp"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The seamless access to major highways NH-48 and the upcoming Global City project significantly boosts the investment potential of all properties in this locale. We highlight nearby connectivity points that underscore why Sector 37D is the optimal choice for your next home purchase."
     ],
     "locations": [
-      "Dwarka Expressway access 5 minutes",
-      "NH-48 Delhi-Jaipur Highway 10 minutes",
-      "Indira Gandhi International Airport IGI 30 minutes",
-      "Hero Honda Chowk 15 minutes",
-      "Clover Leaf Interchange 10 minutes",
-      "Palam Vihar Extension 20 minutes",
-      "Major Commercial Hubs Sector 88/89 15 minutes",
-      "Cyber City Gurugram 35 minutes"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to find the perfect 3BHK flat for sale in Sector 37D Gurugram We provide personalized consultations and exclusive site visits tailored to your schedule. Our team offers transparent advice on pricing legal due diligence and investment returns.",
       "Fill out the form below to receive detailed floor plans updated pricing information and virtual tours of the best projects in Sector 37D. Take the first step towards securing your premium home."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

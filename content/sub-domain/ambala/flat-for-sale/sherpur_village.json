@@ -7,10 +7,19 @@
       "Investing in a flat in Sherpur Village Ambala now secures your future in a developing area promising high appreciation rates. Explore properties with amenities like secure parking, 24/7 security, lush green surroundings, and close proximity to renowned educational institutions and healthcare facilities. Stop searching endlessly and let us guide you to the perfect home that meets both your budget and lifestyle requirements. Contact our expert team today to schedule an exclusive viewing of the best flats available for purchase."
     ],
     "buttons": [
-      { "label": "Explore Available Flats", "path": "/listings" },
-      { "label": "Get Free Consultation", "path": "/contact" }
+      {
+        "label": "Explore Available Flats",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Free Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero-sherpur-flat1.jpg", "hero-sherpur-flat2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Flat Configurations and Premium Residential Options in Sherpur Village Ambala",
@@ -19,12 +28,30 @@
       "This section highlights the most popular types of flats currently available for sale in Sherpur Village. Each option represents exceptional value, superior build quality, and access to community amenities that enrich daily life. Review the options below to pinpoint the exact configuration that aligns with your family size and financial planning. Secure the best Flat For Sale in Sherpur Village before these prime units are sold."
     ],
     "features": [
-      { "title": "1 BHK Flat Options", "description": "Perfectly sized 1 BHK flats in Sherpur Village are highly sought after by single professionals, students, or couples starting their journey. These units offer smart layouts maximizing utility in a smaller footprint. They are often the most affordable entry point into the Sherpur Village real estate market while still providing access to communal facilities and secure premises. Enjoy low maintenance costs and high rental yield potential if you are purchasing as an investment opportunity near Ambala." },
-      { "title": "2 BHK Flat Configurations", "description": "The 2 BHK flat remains the perennial favorite for small families looking for balanced space and affordability in Sherpur Village Ambala. These homes usually feature two bedrooms, two bathrooms, a living area, and a functional kitchen. They provide ample space for comfortable family living and hosting guests without the premium price tag associated with larger units. Discover 2 BHK Flats for Sale equipped with modern fittings and quality finishing." },
-      { "title": "3 BHK Flat Options", "description": "For larger families or those who require additional space for a home office or guest room, our 3 BHK flats in Sherpur Village Ambala offer expansive living areas. These premium units are characterized by larger balconies, superior construction materials, and often dedicated amenities within the complex. Owning a 3 BHK Flat in Sherpur Village means enjoying spaciousness, privacy, and an elevated standard of residential comfort within a desirable locale." },
-      { "title": "Studio Apartment Units", "description": "Studio apartments are an excellent choice for minimalist living or savvy investors in Sherpur Village. These efficiently designed units integrate living, sleeping, and cooking spaces into one cohesive area, prioritizing functionality and ease of maintenance. They represent superb value for those who travel frequently or prefer a compact, modern lifestyle. Due to their location and price point, they often provide highly competitive rental returns near Ambala Cantt." },
-      { "title": "Luxury Penthouse Units", "description": "Experience the pinnacle of luxury residential living with our exclusive penthouse listings in select complexes across Sherpur Village Ambala. These properties offer breathtaking views, massive private terraces, high-end customized interiors, and top-tier amenities. Purchasing a penthouse is not just acquiring a home; it is securing a lifestyle defined by exclusivity, prestige, and unparalleled comfort in the growing Ambala region." },
-      { "title": "Ready-to-Move Options", "description": "Skip the waiting period with our extensive selection of ready-to-move flats in Sherpur Village Ambala. These units allow you immediate possession eliminating construction delays and providing instant relief from rental expenses. Ready-to-move flats are fully inspected and certified, offering transparent pricing and immediate occupancy, which is perfect for urgent relocation needs or quick investment finalization." }
+      {
+        "title": "1 BHK Flat Options",
+        "description": "Perfectly sized 1 BHK flats in Sherpur Village are highly sought after by single professionals, students, or couples starting their journey. These units offer smart layouts maximizing utility in a smaller footprint. They are often the most affordable entry point into the Sherpur Village real estate market while still providing access to communal facilities and secure premises. Enjoy low maintenance costs and high rental yield potential if you are purchasing as an investment opportunity near Ambala."
+      },
+      {
+        "title": "2 BHK Flat Configurations",
+        "description": "The 2 BHK flat remains the perennial favorite for small families looking for balanced space and affordability in Sherpur Village Ambala. These homes usually feature two bedrooms, two bathrooms, a living area, and a functional kitchen. They provide ample space for comfortable family living and hosting guests without the premium price tag associated with larger units. Discover 2 BHK Flats for Sale equipped with modern fittings and quality finishing."
+      },
+      {
+        "title": "3 BHK Flat Options",
+        "description": "For larger families or those who require additional space for a home office or guest room, our 3 BHK flats in Sherpur Village Ambala offer expansive living areas. These premium units are characterized by larger balconies, superior construction materials, and often dedicated amenities within the complex. Owning a 3 BHK Flat in Sherpur Village means enjoying spaciousness, privacy, and an elevated standard of residential comfort within a desirable locale."
+      },
+      {
+        "title": "Studio Apartment Units",
+        "description": "Studio apartments are an excellent choice for minimalist living or savvy investors in Sherpur Village. These efficiently designed units integrate living, sleeping, and cooking spaces into one cohesive area, prioritizing functionality and ease of maintenance. They represent superb value for those who travel frequently or prefer a compact, modern lifestyle. Due to their location and price point, they often provide highly competitive rental returns near Ambala Cantt."
+      },
+      {
+        "title": "Luxury Penthouse Units",
+        "description": "Experience the pinnacle of luxury residential living with our exclusive penthouse listings in select complexes across Sherpur Village Ambala. These properties offer breathtaking views, massive private terraces, high-end customized interiors, and top-tier amenities. Purchasing a penthouse is not just acquiring a home; it is securing a lifestyle defined by exclusivity, prestige, and unparalleled comfort in the growing Ambala region."
+      },
+      {
+        "title": "Ready-to-Move Options",
+        "description": "Skip the waiting period with our extensive selection of ready-to-move flats in Sherpur Village Ambala. These units allow you immediate possession eliminating construction delays and providing instant relief from rental expenses. Ready-to-move flats are fully inspected and certified, offering transparent pricing and immediate occupancy, which is perfect for urgent relocation needs or quick investment finalization."
+      }
     ]
   },
   "locationsSection": {
@@ -34,14 +61,56 @@
       "The areas adjacent to Sherpur Village benefit from excellent road networks, easy access to the Ambala-Chandigarh highway, and proximity to essential services like schools, markets, and railway connectivity. These neighboring zones often provide similar amenities but might offer varying price points or specific community vibes. We help you compare and contrast all viable options near Sherpur Village Ambala."
     ],
     "locations": [
-      "Ambala City",
-      "Ambala Cantt",
-      "Sector 8 Ambala",
-      "Sector 9 Ambala",
-      "Model Town Ambala",
-      "Baldev Nagar",
-      "Prem Nagar",
-      "Railway Road Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -51,30 +120,84 @@
       "Our focus is not just on selling a property but ensuring that your investment in a Flat For Sale in Sherpur Village is sustainable, enjoyable, and strategically sound. Here are compelling reasons why you should prioritize this location for your next residential move."
     ],
     "points": [
-      { "title": "Excellent Connectivity to Ambala City", "description": "Sherpur Village enjoys seamless connectivity to the main urban hubs of Ambala City and Ambala Cantt. Residents benefit from well-maintained roads and efficient public transport links, ensuring that daily commutes to work or school are hassle-free. This proximity allows residents to enjoy the tranquility of village life without sacrificing access to urban facilities and essential services." },
-      { "title": "Rapid Infrastructure Development", "description": "The area surrounding Sherpur Village is experiencing significant infrastructure upgrades including road widening projects, improved utilities, and the establishment of new commercial centers. This developmental momentum ensures that the value of your flat investment appreciates consistently over time making it a financially smart long-term decision in Ambala." },
-      { "title": "Peaceful and Green Environment", "description": "Unlike the dense, often polluted central city areas, Sherpur Village offers a refreshing break with its abundance of green spaces and less congested atmosphere. This cleaner, quieter environment is perfect for raising families and offers a higher quality of life, promoting health and well-being for all residents of the residential complexes." },
-      { "title": "Proximity to Top Educational Institutions", "description": "Families searching for a Flat For Sale in Sherpur Village often prioritize access to quality education. The location is conveniently situated near several reputable schools and colleges in Ambala ensuring that your children receive the best academic opportunities without extensive daily travel commitments." },
-      { "title": "Secure and Gated Residential Complexes", "description": "Safety is paramount. Most of the new flat complexes in Sherpur Village Ambala feature comprehensive security systems including 24/7 surveillance, gated entries, and professional security staff. Residents can enjoy peace of mind knowing their families and assets are protected within a secure environment." },
-      { "title": "Affordable Price Points Compared to Metro Cities", "description": "One of the greatest advantages of purchasing a flat here is the affordability factor. Sherpur Village offers substantially lower acquisition costs compared to equivalent properties in Chandigarh or Delhi NCR while still providing high-quality construction and amenities. Get premium living standards without the massive price tag." },
-      { "title": "Growing Community and Social Life", "description": "The community in Sherpur Village is rapidly expanding attracting modern, like-minded residents. Residential complexes frequently organize community events and activities fostering a strong sense of belonging and enhanced social interaction for families, retirees, and new neighbors alike." },
-      { "title": "Trusted Developers and Clear Titles", "description": "We only partner with reputed developers known for their commitment to quality construction and timely delivery. Every Flat For Sale in Sherpur Village listed on our platform comes with verified legal documentation and clear ownership titles ensuring a smooth, transparent, and risk-free purchasing experience for our clients." }
+      {
+        "title": "Excellent Connectivity to Ambala City",
+        "description": "Sherpur Village enjoys seamless connectivity to the main urban hubs of Ambala City and Ambala Cantt. Residents benefit from well-maintained roads and efficient public transport links, ensuring that daily commutes to work or school are hassle-free. This proximity allows residents to enjoy the tranquility of village life without sacrificing access to urban facilities and essential services."
+      },
+      {
+        "title": "Rapid Infrastructure Development",
+        "description": "The area surrounding Sherpur Village is experiencing significant infrastructure upgrades including road widening projects, improved utilities, and the establishment of new commercial centers. This developmental momentum ensures that the value of your flat investment appreciates consistently over time making it a financially smart long-term decision in Ambala."
+      },
+      {
+        "title": "Peaceful and Green Environment",
+        "description": "Unlike the dense, often polluted central city areas, Sherpur Village offers a refreshing break with its abundance of green spaces and less congested atmosphere. This cleaner, quieter environment is perfect for raising families and offers a higher quality of life, promoting health and well-being for all residents of the residential complexes."
+      },
+      {
+        "title": "Proximity to Top Educational Institutions",
+        "description": "Families searching for a Flat For Sale in Sherpur Village often prioritize access to quality education. The location is conveniently situated near several reputable schools and colleges in Ambala ensuring that your children receive the best academic opportunities without extensive daily travel commitments."
+      },
+      {
+        "title": "Secure and Gated Residential Complexes",
+        "description": "Safety is paramount. Most of the new flat complexes in Sherpur Village Ambala feature comprehensive security systems including 24/7 surveillance, gated entries, and professional security staff. Residents can enjoy peace of mind knowing their families and assets are protected within a secure environment."
+      },
+      {
+        "title": "Affordable Price Points Compared to Metro Cities",
+        "description": "One of the greatest advantages of purchasing a flat here is the affordability factor. Sherpur Village offers substantially lower acquisition costs compared to equivalent properties in Chandigarh or Delhi NCR while still providing high-quality construction and amenities. Get premium living standards without the massive price tag."
+      },
+      {
+        "title": "Growing Community and Social Life",
+        "description": "The community in Sherpur Village is rapidly expanding attracting modern, like-minded residents. Residential complexes frequently organize community events and activities fostering a strong sense of belonging and enhanced social interaction for families, retirees, and new neighbors alike."
+      },
+      {
+        "title": "Trusted Developers and Clear Titles",
+        "description": "We only partner with reputed developers known for their commitment to quality construction and timely delivery. Every Flat For Sale in Sherpur Village listed on our platform comes with verified legal documentation and clear ownership titles ensuring a smooth, transparent, and risk-free purchasing experience for our clients."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Purchasing a Flat in Sherpur Village Ambala",
     "description": "Get detailed answers to common inquiries regarding the purchase process, investment potential, and residential life in Sherpur Village.",
     "faqs": [
-      { "question": "What is the typical price range for a 2 BHK Flat For Sale in Sherpur Village Ambala", "answer": "The pricing for a 2 BHK flat in Sherpur Village varies significantly depending on the complex, specific amenities offered, the age of the building, and the exact square footage. Generally, you can expect prices to start from around 30 Lakhs and go up to 55 Lakhs for premium, newly constructed properties near key access roads. We strongly recommend contacting our property experts who can provide the latest real-time pricing and availability based on your specific requirements and budget constraints." },
-      { "question": "Are flats in Sherpur Village RERA registered and legally verified", "answer": "We prioritize transparency and legal compliance. All newly launched residential projects and established complexes offering a Flat For Sale in Sherpur Village are thoroughly vetted. We ensure that developers comply with Haryana RERA guidelines and that all documentation including land titles, occupancy certificates, and building plans are clean and approved. Our legal team assists buyers in verifying all documents before the final transaction." },
-      { "question": "How is the water and electricity supply infrastructure in Sherpur Village", "answer": "Sherpur Village boasts stable and reliable utility infrastructure, benefiting from recent government investments in the Ambala region. Residential flat complexes are equipped with 24/7 water supply from municipal sources or borewells depending on the society. Electricity supply is generally uninterrupted, and most modern complexes feature full power backup generators to handle any unforeseen outages ensuring continuous comfort." },
-      { "question": "What amenities can I expect when buying a flat in a Sherpur Village complex", "answer": "Modern flat complexes in Sherpur Village Ambala offer a wide range of lifestyle amenities. Standard offerings include secure parking, landscaped gardens, children's play areas, and 24/7 security. Higher-end projects might also feature clubhouses, gymnasiums, swimming pools, jogging tracks, indoor games facilities, and multi-purpose community halls to enhance residents' quality of life." },
-      { "question": "What is the average time needed for the legal process of purchasing a flat here", "answer": "The duration of the legal purchase process depends heavily on whether the flat is ready-to-move or under construction, and if financing is required. For a ready-to-move Flat For Sale with clear documents and bank approval, the process can often be completed within 45 to 60 days. We streamline the process by coordinating with banks and registry offices to ensure minimal delays for our clients." },
-      { "question": "Is Sherpur Village considered a good investment location for future returns", "answer": "Absolutely. Sherpur Village Ambala is strategically located near key industrial and commercial zones, positioned for high growth. The affordability compared to neighboring cities combined with ongoing infrastructure development means property values are forecasted to appreciate significantly over the next five to ten years. Investing here now offers strong potential for capital gain and competitive rental yields." },
-      { "question": "Are there financing options available for flats in Sherpur Village", "answer": "Yes, extensive financing options are available. Most major nationalized and private banks readily provide home loans for RERA-approved properties in Sherpur Village Ambala. Our team assists you in connecting with reputable lenders, comparing interest rates, and navigating the application process to secure the best possible loan terms for your new flat purchase." },
-      { "question": "What are the common maintenance charges for a flat in this area", "answer": "Maintenance charges vary by society and the level of amenities provided. Typically, monthly maintenance fees cover costs related to security, common area electricity, lift maintenance, gardening, and general upkeep of the complex. Buyers should budget between Rs 1,500 to Rs 3,500 per month depending on the size of the flat and the services included in the specific residential community." },
-      { "question": "What types of 3 BHK Flats For Sale are commonly available in Sherpur Village", "answer": "The 3 BHK offerings typically fall into two categories standard floor layouts and premium apartments. Standard units focus on efficient use of space, while premium options often feature servant quarters, larger balconies, dedicated study areas, and superior fixture quality. We can help you identify properties that meet your specific needs regarding size, view, and internal specification." },
-      { "question": "Can NRIs purchase residential flats in Sherpur Village Ambala and what is the process", "answer": "Yes, Non-Resident Indians (NRIs) are legally permitted to purchase residential property including flats in Sherpur Village Ambala. The process involves specific compliance requirements such as sourcing funds through NRE/NRO accounts and adherence to FEMA guidelines. We provide specialized consultation services to guide NRI clients through the necessary paperwork ensuring a compliant and smooth acquisition." }
+      {
+        "question": "What is the typical price range for a 2 BHK Flat For Sale in Sherpur Village Ambala",
+        "answer": "The pricing for a 2 BHK flat in Sherpur Village varies significantly depending on the complex, specific amenities offered, the age of the building, and the exact square footage. Generally, you can expect prices to start from around 30 Lakhs and go up to 55 Lakhs for premium, newly constructed properties near key access roads. We strongly recommend contacting our property experts who can provide the latest real-time pricing and availability based on your specific requirements and budget constraints."
+      },
+      {
+        "question": "Are flats in Sherpur Village RERA registered and legally verified",
+        "answer": "We prioritize transparency and legal compliance. All newly launched residential projects and established complexes offering a Flat For Sale in Sherpur Village are thoroughly vetted. We ensure that developers comply with Haryana RERA guidelines and that all documentation including land titles, occupancy certificates, and building plans are clean and approved. Our legal team assists buyers in verifying all documents before the final transaction."
+      },
+      {
+        "question": "How is the water and electricity supply infrastructure in Sherpur Village",
+        "answer": "Sherpur Village boasts stable and reliable utility infrastructure, benefiting from recent government investments in the Ambala region. Residential flat complexes are equipped with 24/7 water supply from municipal sources or borewells depending on the society. Electricity supply is generally uninterrupted, and most modern complexes feature full power backup generators to handle any unforeseen outages ensuring continuous comfort."
+      },
+      {
+        "question": "What amenities can I expect when buying a flat in a Sherpur Village complex",
+        "answer": "Modern flat complexes in Sherpur Village Ambala offer a wide range of lifestyle amenities. Standard offerings include secure parking, landscaped gardens, children's play areas, and 24/7 security. Higher-end projects might also feature clubhouses, gymnasiums, swimming pools, jogging tracks, indoor games facilities, and multi-purpose community halls to enhance residents' quality of life."
+      },
+      {
+        "question": "What is the average time needed for the legal process of purchasing a flat here",
+        "answer": "The duration of the legal purchase process depends heavily on whether the flat is ready-to-move or under construction, and if financing is required. For a ready-to-move Flat For Sale with clear documents and bank approval, the process can often be completed within 45 to 60 days. We streamline the process by coordinating with banks and registry offices to ensure minimal delays for our clients."
+      },
+      {
+        "question": "Is Sherpur Village considered a good investment location for future returns",
+        "answer": "Absolutely. Sherpur Village Ambala is strategically located near key industrial and commercial zones, positioned for high growth. The affordability compared to neighboring cities combined with ongoing infrastructure development means property values are forecasted to appreciate significantly over the next five to ten years. Investing here now offers strong potential for capital gain and competitive rental yields."
+      },
+      {
+        "question": "Are there financing options available for flats in Sherpur Village",
+        "answer": "Yes, extensive financing options are available. Most major nationalized and private banks readily provide home loans for RERA-approved properties in Sherpur Village Ambala. Our team assists you in connecting with reputable lenders, comparing interest rates, and navigating the application process to secure the best possible loan terms for your new flat purchase."
+      },
+      {
+        "question": "What are the common maintenance charges for a flat in this area",
+        "answer": "Maintenance charges vary by society and the level of amenities provided. Typically, monthly maintenance fees cover costs related to security, common area electricity, lift maintenance, gardening, and general upkeep of the complex. Buyers should budget between Rs 1,500 to Rs 3,500 per month depending on the size of the flat and the services included in the specific residential community."
+      },
+      {
+        "question": "What types of 3 BHK Flats For Sale are commonly available in Sherpur Village",
+        "answer": "The 3 BHK offerings typically fall into two categories standard floor layouts and premium apartments. Standard units focus on efficient use of space, while premium options often feature servant quarters, larger balconies, dedicated study areas, and superior fixture quality. We can help you identify properties that meet your specific needs regarding size, view, and internal specification."
+      },
+      {
+        "question": "Can NRIs purchase residential flats in Sherpur Village Ambala and what is the process",
+        "answer": "Yes, Non-Resident Indians (NRIs) are legally permitted to purchase residential property including flats in Sherpur Village Ambala. The process involves specific compliance requirements such as sourcing funds through NRE/NRO accounts and adherence to FEMA guidelines. We provide specialized consultation services to guide NRI clients through the necessary paperwork ensuring a compliant and smooth acquisition."
+      }
     ]
   },
   "contactSection": {
@@ -83,6 +206,11 @@
       "Ready to take the next step towards owning your ideal home in Sherpur Village Ambala The market is dynamic, and premium flats are selling quickly. Do not miss out on the opportunity to secure a prime residential property.",
       "Fill out the form below with your requirements and contact information. Our dedicated real estate advisors specializing in Sherpur Village flats will reach out promptly with tailored listings, personalized guidance, and assistance with site visits and legal documentation."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

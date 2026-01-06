@@ -7,10 +7,19 @@
       "Stop scrolling endlessly and start making informed decisions guided by trusted professionals. We offer transparent dealings and comprehensive market analysis ensuring you achieve maximum returns on your real estate investment in Sector 45. Trust the experienced real estate agents who prioritize your goals, deliver results fast, and simplify the entire transaction process. Let us unlock the best property opportunities for you."
     ],
     "buttons": [
-      { "label": "Search Available Properties Now", "path": "/listings" },
-      { "label": "Consult an Expert Agent", "path": "/contact" }
+      {
+        "label": "Search Available Properties Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Consult an Expert Agent",
+        "path": "/contact"
+      }
     ],
-    "images": ["sector45_hero_image1.jpg", "sector45_agent_team.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Specialized Property Expertise Handled by Our Real Estate Agents in Sector 45 Gurugram",
@@ -51,7 +60,58 @@
       "While primarily focused on properties in Sector 45, our extensive agent network extends across neighbouring premium sectors enhancing your search scope and investment versatility in Gurugram. These adjacent areas offer diverse property types from established communities to brand new luxury developments suitable for various budget ranges and lifestyle needs.",
       "Our real estate agents provide comparative market analysis across these key locations helping you understand the value proposition of Sector 45 versus adjacent sectors. We ensure you make a decision based on comprehensive local intelligence and future infrastructural projections maximizing your investment returns."
     ],
-    "locations": ["Sector 46 Gurugram", "Sector 44 Huda City Centre Area", "Sushant Lok Phase 1", "Cyber City Connectivity Zone", "Golf Course Road Extension", "Nirvana Country", "Sector 50 Residential Hub", "South City 1"]
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Why Partner with the Leading Property Real Estate Agents in Sector 45 Gurugram",
@@ -146,6 +206,11 @@
       "Take the first vital step towards securing your perfect property or maximizing your sale value in Sector 45. Our expert team is ready to provide tailored advice and execute your complex real estate strategy with professionalism and discretion.",
       "Fill out the simple form below or call us directly during business hours. Let the top real estate agents in Gurugram handle the market complexities and negotiations while you focus entirely on your future planning."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

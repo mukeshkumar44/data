@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Spaces and Shop Configurations Available in Sector 56 Gurugram",
@@ -58,12 +61,56 @@
       "Key commercial micro-markets include the main sector road, spaces near essential services, and clusters adjacent to Sector 55 and Sector 57, offering diversified customer demographics. We guide you through the local zoning and traffic patterns specific to these areas, helping you select a shop for rent that guarantees maximum visibility and long-term customer loyalty."
     ],
     "locations": [
-      "Main Sector Road Frontage Shops",
-      "Retail Spaces Near Sector 56 Residential Towers",
-      "Commercial Clusters Adjoining Sector 55",
-      "Shops Near Essential Service Centers",
-      "Neighborhood Shopping Centers in Sector 56",
-      "High Street Retail Locations towards Sector 57"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -1,4 +1,3 @@
-
 {
   "domain": "www.exampleproperty.com",
   "hero": {
@@ -8,10 +7,19 @@
       "Our available shops come in various sizes to suit your business needs, with flexible payment options and attractive ROI potential. Located near major landmarks, these properties offer visibility and convenience."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/shops" },
-      { "label": "Contact Agent", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/shops"
+      },
+      {
+        "label": "Contact Agent",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Available Shop Sizes in Durga Nagar",
@@ -20,12 +28,30 @@
       "Each shop is strategically located to maximize customer reach and business growth potential."
     ],
     "features": [
-      { "title": "100 Sq Ft Shop", "description": "Compact and cost-effective, perfect for small retail outlets or service providers." },
-      { "title": "200 Sq Ft Shop", "description": "Ideal for medium-sized businesses with moderate inventory and customer space needs." },
-      { "title": "300 Sq Ft Shop", "description": "Spacious enough for showrooms or larger retail setups with ample display area." },
-      { "title": "400 Sq Ft Shop", "description": "Suitable for supermarkets, eateries, or businesses requiring storage and customer space." },
-      { "title": "500 Sq Ft Shop", "description": "Large commercial space for established brands or multi-purpose business setups." },
-      { "title": "Custom Size Shops", "description": "Tailored solutions available for unique business requirements and layouts." }
+      {
+        "title": "100 Sq Ft Shop",
+        "description": "Compact and cost-effective, perfect for small retail outlets or service providers."
+      },
+      {
+        "title": "200 Sq Ft Shop",
+        "description": "Ideal for medium-sized businesses with moderate inventory and customer space needs."
+      },
+      {
+        "title": "300 Sq Ft Shop",
+        "description": "Spacious enough for showrooms or larger retail setups with ample display area."
+      },
+      {
+        "title": "400 Sq Ft Shop",
+        "description": "Suitable for supermarkets, eateries, or businesses requiring storage and customer space."
+      },
+      {
+        "title": "500 Sq Ft Shop",
+        "description": "Large commercial space for established brands or multi-purpose business setups."
+      },
+      {
+        "title": "Custom Size Shops",
+        "description": "Tailored solutions available for unique business requirements and layouts."
+      }
     ]
   },
   "locationsSection": {
@@ -35,12 +61,56 @@
       "Investing here means tapping into multiple customer streams and benefiting from the area's growing commercial appeal."
     ],
     "locations": [
-      "Gandhi Market",
-      "Nehru Road",
-      "Central Business District",
-      "Mall Road",
-      "Industrial Area",
-      "Wholesale Market"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -50,29 +120,80 @@
       "From high visibility to excellent returns, discover why this area stands out for shop investments."
     ],
     "points": [
-      { "title": "High Footfall Area", "description": "Located near residential colonies and transit points ensuring consistent customer flow." },
-      { "title": "Excellent Connectivity", "description": "Well-connected to major roads and public transport for easy customer access." },
-      { "title": "Growing Commercial Hub", "description": "Witnessing rapid development with increasing business establishments and infrastructure." },
-      { "title": "Flexible Payment Options", "description": "Attractive financing plans and ownership models to suit different budgets." },
-      { "title": "Strong ROI Potential", "description": "Proven appreciation trends and rental yields make it a lucrative investment." },
-      { "title": "Diverse Business Opportunities", "description": "Suitable for retail, food, services, and more with varied customer demographics." },
-      { "title": "Modern Infrastructure", "description": "Shops designed with contemporary layouts and necessary utilities for businesses." },
-      { "title": "Secure Environment", "description": "Safe locality with proper security measures for business operations." }
+      {
+        "title": "High Footfall Area",
+        "description": "Located near residential colonies and transit points ensuring consistent customer flow."
+      },
+      {
+        "title": "Excellent Connectivity",
+        "description": "Well-connected to major roads and public transport for easy customer access."
+      },
+      {
+        "title": "Growing Commercial Hub",
+        "description": "Witnessing rapid development with increasing business establishments and infrastructure."
+      },
+      {
+        "title": "Flexible Payment Options",
+        "description": "Attractive financing plans and ownership models to suit different budgets."
+      },
+      {
+        "title": "Strong ROI Potential",
+        "description": "Proven appreciation trends and rental yields make it a lucrative investment."
+      },
+      {
+        "title": "Diverse Business Opportunities",
+        "description": "Suitable for retail, food, services, and more with varied customer demographics."
+      },
+      {
+        "title": "Modern Infrastructure",
+        "description": "Shops designed with contemporary layouts and necessary utilities for businesses."
+      },
+      {
+        "title": "Secure Environment",
+        "description": "Safe locality with proper security measures for business operations."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shops in Durga Nagar",
     "description": "Get answers to common queries about purchasing or renting shops in Durga Nagar's commercial market.",
     "faqs": [
-      { "question": "What types of businesses thrive in Durga Nagar", "answer": "Retail stores, eateries, pharmacies, and service providers like salons or repair shops perform exceptionally well due to the area's mixed residential and commercial nature." },
-      { "question": "Are there any legal restrictions for shop usage", "answer": "Most shops are approved for general commercial use, but specific businesses may require additional licenses which our team can help you obtain." },
-      { "question": "What is the average price per square foot for shops", "answer": "Prices vary based on size and exact location, ranging from Rs. X to Rs. Y per sq ft, with premium spaces commanding higher values." },
-      { "question": "How is the parking situation for customers", "answer": "The market has designated parking areas and many shops include dedicated parking spaces based on their size and location." },
-      { "question": "What are the peak business hours in this area", "answer": "Morning and evening see maximum footfall, with weekends being particularly busy for retail and food businesses." },
-      { "question": "Can the shop interior be modified", "answer": "Most properties allow reasonable modifications with prior approval, while maintaining structural integrity and compliance with local regulations." },
-      { "question": "Are there any upcoming infrastructure projects nearby", "answer": "Several road widening and metro connectivity projects are planned that will further enhance the area's commercial potential." },
-      { "question": "What maintenance charges apply", "answer": "Common area maintenance charges typically range from Rs. A to Rs. B per month depending on facilities and services provided." },
-      { "question": "How is the power and water supply situation", "answer": "The area has reliable municipal supply with most shops having additional inverter and water storage provisions for uninterrupted operations." }
+      {
+        "question": "What types of businesses thrive in Durga Nagar",
+        "answer": "Retail stores, eateries, pharmacies, and service providers like salons or repair shops perform exceptionally well due to the area's mixed residential and commercial nature."
+      },
+      {
+        "question": "Are there any legal restrictions for shop usage",
+        "answer": "Most shops are approved for general commercial use, but specific businesses may require additional licenses which our team can help you obtain."
+      },
+      {
+        "question": "What is the average price per square foot for shops",
+        "answer": "Prices vary based on size and exact location, ranging from Rs. X to Rs. Y per sq ft, with premium spaces commanding higher values."
+      },
+      {
+        "question": "How is the parking situation for customers",
+        "answer": "The market has designated parking areas and many shops include dedicated parking spaces based on their size and location."
+      },
+      {
+        "question": "What are the peak business hours in this area",
+        "answer": "Morning and evening see maximum footfall, with weekends being particularly busy for retail and food businesses."
+      },
+      {
+        "question": "Can the shop interior be modified",
+        "answer": "Most properties allow reasonable modifications with prior approval, while maintaining structural integrity and compliance with local regulations."
+      },
+      {
+        "question": "Are there any upcoming infrastructure projects nearby",
+        "answer": "Several road widening and metro connectivity projects are planned that will further enhance the area's commercial potential."
+      },
+      {
+        "question": "What maintenance charges apply",
+        "answer": "Common area maintenance charges typically range from Rs. A to Rs. B per month depending on facilities and services provided."
+      },
+      {
+        "question": "How is the power and water supply situation",
+        "answer": "The area has reliable municipal supply with most shops having additional inverter and water storage provisions for uninterrupted operations."
+      }
     ]
   },
   "contactSection": {
@@ -81,6 +202,11 @@
       "Our expert team can help you find the perfect commercial space matching your business needs and budget.",
       "Get personalized recommendations and complete transaction support for a hassle-free experience."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

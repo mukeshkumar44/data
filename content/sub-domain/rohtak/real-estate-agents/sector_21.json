@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Ideal Plot Sizes and Residential Investment Opportunities in Sector 21 Rohtak",
@@ -58,14 +61,56 @@
       "Whether you are concerned about your daily commute or accessing top-tier education for your children, Sector 21 is positioned advantageously. We list the most relevant nearby locations and infrastructure points that make this sector a top residential choice for families and investors across Rohtak."
     ],
     "locations": [
-      "Delhi-Rohtak Highway Connectivity",
-      "Model Town Rohtak",
-      "TDI City Kundli",
-      "Doon International School Rohtak",
-      "PGI Rohtak Medical Facilities",
-      "Rohtak Railway Station Access",
-      "Maharishi Dayanand University MDU",
-      "Local Shopping Complexes and Markets"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

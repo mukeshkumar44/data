@@ -7,10 +7,19 @@
       "Whether you are launching a new retail venture, expanding an existing wholesale operation, or seeking a boutique showroom space, our listings cover diverse needs and budgets. Explore ground-floor units, spacious multi-level shops, and highly sought-after corner properties that maximize customer exposure. Start searching for your next profitable address in Sadar Bazar now and elevate your market presence immediately."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/listings/sadar-bazar-shops" },
-      { "label": "Schedule a Site Visit", "path": "/contact-us" }
+      {
+        "label": "View Available Shops",
+        "path": "/listings/sadar-bazar-shops"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["/images/sadar-bazar-market.jpg", "/images/shop-interior-sadar-bazar.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Shop Options Available For Rent in Sadar Bazar Market",
@@ -52,12 +61,56 @@
       "Explore the connected commercial arteries that feed into the main Sadar Bazar trading area. These locations provide crucial support services and alternative shop rental options that maintain essential connectivity to the core market while offering slightly lower overheads and better access for goods transportation."
     ],
     "locations": [
-      "Paharganj Commercial Area",
-      "Kashmere Gate Wholesale Market Access",
-      "Chandni Chowk Link Road Shops",
-      "Mori Gate Logistics Zone",
-      "Ajmeri Gate Connectivity",
-      "Karol Bagh Extension Retail"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Don't miss the opportunity to place your business in one of the most commercially active locations. Our dedicated Sadar Bazar specialists are ready to match your specific needs with the best available properties.",
       "Submit your requirements today for a personalized consultation and receive exclusive access to off-market rental listings not advertised publicly."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

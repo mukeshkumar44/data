@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-plot-sector99.jpg",
-      "sector99-noida-map.png"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,13 +61,56 @@
       "Beyond major roadways, the area is planned to integrate smoothly with upcoming infrastructure projects, including planned Metro connectivity which will further boost accessibility for commuters. Additionally, residents benefit from proximity to major educational institutions, world-class healthcare facilities, and bustling commercial and retail hubs, ensuring that all necessities and luxuries are just a short drive away. This integrated ecosystem solidifies Sector 99’s reputation as a future-ready residential destination."
     ],
     "locations": [
-      "Noida-Greater Noida Expressway Access",
-      "Upcoming Metro Station Linkages",
-      "Proximity to Key Commercial Centers",
-      "Reputable Schools and University Campuses",
-      "Major Healthcare Facilities and Hospitals",
-      "Ample Green Spaces and Community Parks",
-      "Easy Access to Retail and Dining Hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

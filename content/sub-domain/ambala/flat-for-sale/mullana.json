@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "flat_exterior_mullana.jpg",
-      "flat_interior_mullana.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "We focus on premier gated communities that offer 24/7 security, power backup, and dedicated parking, ensuring peace of mind for residents. Review the key micro-locations in Mullana Ambala where the best new flat opportunities are currently available for immediate purchase or investment."
     ],
     "locations": [
-      "MMU Road Mullana Residential Complex",
-      "Near Ambala Chandigarh Expressway Flats",
-      "Mullana Mandi Area Affordable Apartments",
-      "Residential Sectors near Saha Connectivity",
-      "Modern Complexes on NH 44 Access",
-      "Central Mullana Town Ready-to-Move Flats",
-      "Housing Projects near Ambala Cantt",
-      "Gated Communities near MMU Hospital"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

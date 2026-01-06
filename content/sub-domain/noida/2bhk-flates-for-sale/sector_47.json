@@ -7,12 +7,18 @@
       "Explore exclusive listings that boast excellent connectivity to major business districts, educational institutions, and healthcare facilities. We curate only verified properties ensuring clear titles and hassle-free transactions. Start your journey to owning a sought-after 2BHK Flat in Sector 47 today and step into a life defined by convenience and quality. Our portfolio includes options across various budgets and specifications to match your precise requirements."
     ],
     "buttons": [
-      { "label": "View Verified 2BHK Listings", "path": "/listings" },
-      { "label": "Schedule A Site Visit Now", "path": "/contact" }
+      {
+        "label": "View Verified 2BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule A Site Visit Now",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "img/hero-47-1.jpg",
-      "img/hero-47-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "This interconnectedness ensures access to a wider range of schools, commercial centers, and recreational facilities, solidifying Sector 47 as a highly desirable central residential zone in Noida. If Sector 47 meets your price point, these nearby areas offer great alternatives worth considering."
     ],
     "locations": [
-      "Sector 46 Noida",
-      "Sector 44 Noida",
-      "Sector 41 Noida",
-      "Sector 49 Noida",
-      "Sector 50 Noida",
-      "Sector 51 Noida",
-      "Sector 75 Noida",
-      "Sector 76 Noida"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -165,7 +213,4 @@
       "message"
     ]
   }
-}
-"
-}
 }

@@ -7,10 +7,19 @@
       "Browse available options for a shop for rent in Sampla with full confidence knowing that all properties are vetted for legal compliance and infrastructure quality. Sampla is a rapidly growing hub on the Rohtak-Delhi corridor offering immense potential for new businesses and established brands looking to expand their footprint. Start your journey with us today to secure a space that aligns perfectly with your budget and commercial aspirations in this thriving region."
     ],
     "buttons": [
-      { "label": "View All Available Shops", "path": "/listings" },
-      { "label": "Contact Rental Experts", "path": "/contact" }
+      {
+        "label": "View All Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Contact Rental Experts",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/sampla_shop_front.jpg", "/images/sampla_market_view.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Options for a Shop For Rent in Sampla Catering to Every Business Model",
@@ -52,14 +61,56 @@
       "Our expertise covers all developing and established market areas in Sampla. Whether you are targeting daily commuters near the Railway Station, local residents around the Sampla Bus Stand, or businesses requiring connectivity close to the NH-9 we have the perfect shop for rent location listed for you. Utilizing our knowledge of local zoning and future development plans ensures your chosen location remains profitable for years to come."
     ],
     "locations": [
-      "Sampla Main Market Area",
-      "Near Sampla Bus Stand",
-      "Gohana Road Commercial Stretch",
-      "Rohtak-Sampla Highway Frontage",
-      "Residential Sector 3 Development",
-      "Sampla Railway Station Road",
-      "Old Sampla Market Area",
-      "Industrial Estate Proximity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step and secure a prime commercial location in Sampla Rohtak We are here to provide tailored assistance and answer all your specific rental queries.",
       "Submit your requirements below and our commercial leasing specialists will reach out promptly with personalized listings that perfectly match your business needs and budget."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

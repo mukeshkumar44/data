@@ -7,12 +7,18 @@
       "Sector 15 Noida stands out due to its incredible connectivity to key commercial hubs and the Delhi border. Whether you are looking for a compact, efficient apartment near the Metro station or a spacious 2BHK unit in a well-maintained society, our portfolio provides diverse options tailored to your budget and lifestyle needs. Start your search now to unlock exclusive deals on the most sought-after two-bedroom homes in this thriving location."
     ],
     "buttons": [
-      { "label": "Explore Verified 2BHK Listings", "path": "/search/2bhk-sector-15" },
-      { "label": "Schedule a Site Visit Today", "path": "/contact" }
+      {
+        "label": "Explore Verified 2BHK Listings",
+        "path": "/search/2bhk-sector-15"
+      },
+      {
+        "label": "Schedule a Site Visit Today",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/hero-2bhk-sector-15-noida.jpg",
-      "/images/2bhk-interior-design.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The planned infrastructure and proximity to essential services like hospitals, schools, and entertainment zones solidify Sector 15’s reputation as a premium residential destination. Exploring the surrounding infrastructure highlights why this area is consistently recommended by property experts."
     ],
     "locations": [
-      "Sector 15 Metro Station",
-      "Sector 16 Metro Station",
-      "DND Flyway Access Point",
-      "Atta Market Sector 18",
-      "Noida Golf Course Road",
-      "Maharaja Agrasen Hospital",
-      "Mayur Vihar Delhi Border",
-      "Key Schools and Educational Hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to secure your dream home in one of Noida’s most sought-after locations? Contact our Sector 15 property specialists today. We provide personalized property tours, detailed market analysis, and comprehensive legal support to make your buying journey effortless.",
       "Fill out the short form below and an expert will reach out within the hour to discuss exclusive listings that match your criteria for a perfect two-bedroom apartment."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

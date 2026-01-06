@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "karan-vihar-shop-exterior.jpg",
-      "commercial-street-view.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "We provide detailed analysis comparing the rental yields and capital appreciation rates of shops in Karan Vihar versus neighboring commercial sectors like Mughal Canal and Railway Road. These adjacent markets provide supplementary services and large format retail options creating a strong commercial triangle. Whether you require a high visibility location near the national highway or a quieter service-oriented hub near residential colonies we have the perfect listing. Our goal is to ensure your investment in a shop for sale in Karan Vihar is both profitable and sustainable maximizing your return on asset ownership in the Karnal region."
     ],
     "locations": [
-      "Sector 6 Residential Market",
-      "Sector 7 Retail Hub",
-      "Mughal Canal Commercial Zone",
-      "Railway Road Local Market",
-      "Jundla Gate Area",
-      "Model Town Extension",
-      "National Highway Access Points",
-      "Bus Stand Proximity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

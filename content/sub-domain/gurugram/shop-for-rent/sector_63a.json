@@ -7,12 +7,18 @@
       "This sector boasts excellent road networks linking it directly to major highways and established residential sectors of Gurugram, guaranteeing robust footfall and accessibility for both customers and employees. Our curated selection of rental shops in Sector 63A simplifies your search process. Whether you need a small high-street outlet or a large space suitable for a restaurant or service center, we have the ideal property solution. Leverage the emerging market potential of this strategically located sector and establish a dominant presence before the competition catches up and rental prices escalate."
     ],
     "buttons": [
-      { "label": "View All Available Shops", "path": "/listings/sector-63a" },
-      { "label": "Contact Commercial Experts", "path": "/contact-us" }
+      {
+        "label": "View All Available Shops",
+        "path": "/listings/sector-63a"
+      },
+      {
+        "label": "Contact Commercial Experts",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "/images/sector63a_shop_front.jpg",
-      "/images/commercial_highstreet_faridabad.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "The sector benefits significantly from its proximity to the FNG Expressway link and established communities like Sector 62 and Sector 64, providing a built-in customer base ready to utilize new services and retail offerings. Investing in a shop for rent in Sector 63A now offers first-mover advantage in an area set for exponential infrastructural value appreciation, ensuring long-term stability and high return potential on your commercial lease agreement."
     ],
     "locations": [
-      "Near FNG Expressway Entry Point",
-      "Proximity to Developed Residential Sectors 62 & 64",
-      "Adjacent to Upcoming Corporate Parks",
-      "Prime Road Facing Commercial Blocks",
-      "High Street Retail Complexes",
-      "Ease of Access to Major Gurugram Highways"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -156,6 +206,11 @@
       "Ready to secure a prime commercial location that guarantees visibility and growth potential in Gurugram We offer comprehensive assistance from property selection and site visits to detailed lease negotiations and final documentation.",
       "Reach out to our specialized commercial real estate team now. Let us help you navigate the best rental opportunities available in Sector 63A based on your budget, size requirements, and business goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,10 +7,19 @@
       "We act as your dedicated partners, utilizing advanced market analytics and an expansive network to ensure you achieve the best possible valuation and close deals efficiently. Trust the premier Real Estate Agents in Sector 116 to navigate legal complexities and unlock hidden investment opportunities specific to this well-connected locality. Start your successful property journey with us today and experience transparency and commitment firsthand."
     ],
     "buttons": [
-      { "label": "Find Your Property Now", "path": "/search" },
-      { "label": "Talk to an Agent", "path": "/contact" }
+      {
+        "label": "Find Your Property Now",
+        "path": "/search"
+      },
+      {
+        "label": "Talk to an Agent",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Strategic Investment Opportunities Guided by Top Real Estate Agents in Sector 116",
@@ -52,14 +61,56 @@
       "Our specialized Real Estate Agents in Sector 116 possess comprehensive knowledge of adjoining sectors, ensuring you evaluate the best location for your commuting needs, lifestyle preferences, and capital growth objectives across the region."
     ],
     "locations": [
-      "Sector 78 Noida High Rise Apartments",
-      "Sector 115 Residential Hubs",
-      "Sector 77 Family Oriented Living",
-      "FNG Expressway Access Points",
-      "Near IT Hub Sector 62",
-      "Proposed Metro Stations Connectivity",
-      "Main Dadri Road Commercial Zones",
-      "Greater Noida Link Road Proximity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step in your Sector 116 property journey We provide confidential, obligation-free consultations to discuss your specific buying, selling, or renting requirements.",
       "Fill out the form below and one of our top Real Estate Agents in Sector 116 Noida will contact you within 24 hours to begin crafting your personalized real estate strategy."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

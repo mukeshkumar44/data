@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Premium Apartment Configurations and Key Amenities in new palam vihar Properties",
@@ -58,12 +61,56 @@
       "Nearby sectors are developing rapidly, adding significant commercial value and robust supporting infrastructure, which consistently boosts property appreciation rates in new palam vihar. Residents enjoy quick access to major retail malls, specialized hospitals, and several prestigious educational institutions, making daily errands effortless. This superior positioning makes new palam vihar an ideal choice for professionals and families prioritizing both convenience and future growth potential in their real estate decisions. Explore the surrounding areas that complement the residential experience here."
     ],
     "locations": [
-      "Palam Vihar Extension",
-      "Sector 23 Gurugram",
-      "Dwarka Expressway Access Points",
-      "Rajiv Chowk Gurgaon Connectivity",
-      "IMT Manesar Industrial Area",
-      "Sectors 1 to 5 Gurugram"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

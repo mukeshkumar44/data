@@ -7,10 +7,19 @@
       "We provide listings for vetted 2BHK apartments that offer superior infrastructure, robust safety features, and proximity to major commercial hubs and educational institutions. The strategic location near the Dwarka Expressway ensures seamless connectivity to Delhi and other parts of Gurugram. Explore our curated selection and take the first step toward owning a premium 2BHK flat in this booming sector."
     ],
     "buttons": [
-      { "label": "Explore Available 2BHK Listings", "path": "/listings" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "Explore Available 2BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Advantages of Investing in a 2BHK Flat in Sector 89 Gurugram",
@@ -19,12 +28,30 @@
       "From efficient floor plans that eliminate dead space to state-of-the-art community facilities, every aspect of these 2BHK flats is designed with the modern homeowner in mind. Whether you are buying your first home or seeking a high-yield rental property, Sector 89 presents an unmissable opportunity. Let us guide you through the features that make these flats a superior choice compared to other property types."
     ],
     "features": [
-      { "title": "Strategic Location Access", "description": "Sector 89 boasts unparalleled connectivity, primarily via the newly operational Dwarka Expressway and NH 48. This ensures that residents in a 2BHK flat in Sector 89 Gurugram can commute easily to Central Delhi, IGI Airport, and major corporate sectors like Cyber City 2.0. The proximity to key transport corridors significantly enhances the daily lives of residents and increases long-term property valuation." },
-      { "title": "Optimal Space Utilization", "description": "A well-designed 2BHK flat maximizes every square foot. Developers in Sector 89 focus on providing highly efficient layouts that include modular kitchens, spacious bedrooms, and well-placed balconies. This smart design means you get functional, comfortable living spaces without the excessive maintenance costs associated with larger units. These flats feel spacious and uncluttered." },
-      { "title": "Modern Residential Amenities", "description": "Residents enjoy access to a full suite of modern amenities essential for contemporary urban living. These often include dedicated clubhouses, swimming pools, well-equipped gyms, and extensive green parks. Buying a 2BHK flat here means securing a lifestyle that prioritizes health, relaxation, and community engagement, all within the safety of a gated complex." },
-      { "title": "Attractive Price Points", "description": "The pricing structure for a 2BHK flat For Sale in Sector 89 is highly competitive compared to established sectors of Gurugram. This makes it an accessible option for first-time buyers and investors looking for strong capital appreciation potential. Early investment in this developing area promises significant returns as infrastructure projects like the Metro extension progress." },
-      { "title": "Enhanced Security Systems", "description": "Safety is paramount in all residential projects we list in Sector 89. Complexes feature multi-tiered security protocols including 24/7 CCTV surveillance, controlled access points, and dedicated security personnel. Owning a 2BHK flat here offers peace of mind, knowing that your family and assets are protected by cutting-edge security technology and vigilant community management." },
-      { "title": "High Rental Yield Potential", "description": "Due to the increasing corporate migration and excellent connectivity, 2BHK flats in Sector 89 are highly sought after by renters. This size unit typically offers the best rental returns in Gurugram, attracting young IT professionals and small expat families. Investing in a 2BHK ensures a steady income stream and makes loan repayments significantly easier." }
+      {
+        "title": "Strategic Location Access",
+        "description": "Sector 89 boasts unparalleled connectivity, primarily via the newly operational Dwarka Expressway and NH 48. This ensures that residents in a 2BHK flat in Sector 89 Gurugram can commute easily to Central Delhi, IGI Airport, and major corporate sectors like Cyber City 2.0. The proximity to key transport corridors significantly enhances the daily lives of residents and increases long-term property valuation."
+      },
+      {
+        "title": "Optimal Space Utilization",
+        "description": "A well-designed 2BHK flat maximizes every square foot. Developers in Sector 89 focus on providing highly efficient layouts that include modular kitchens, spacious bedrooms, and well-placed balconies. This smart design means you get functional, comfortable living spaces without the excessive maintenance costs associated with larger units. These flats feel spacious and uncluttered."
+      },
+      {
+        "title": "Modern Residential Amenities",
+        "description": "Residents enjoy access to a full suite of modern amenities essential for contemporary urban living. These often include dedicated clubhouses, swimming pools, well-equipped gyms, and extensive green parks. Buying a 2BHK flat here means securing a lifestyle that prioritizes health, relaxation, and community engagement, all within the safety of a gated complex."
+      },
+      {
+        "title": "Attractive Price Points",
+        "description": "The pricing structure for a 2BHK flat For Sale in Sector 89 is highly competitive compared to established sectors of Gurugram. This makes it an accessible option for first-time buyers and investors looking for strong capital appreciation potential. Early investment in this developing area promises significant returns as infrastructure projects like the Metro extension progress."
+      },
+      {
+        "title": "Enhanced Security Systems",
+        "description": "Safety is paramount in all residential projects we list in Sector 89. Complexes feature multi-tiered security protocols including 24/7 CCTV surveillance, controlled access points, and dedicated security personnel. Owning a 2BHK flat here offers peace of mind, knowing that your family and assets are protected by cutting-edge security technology and vigilant community management."
+      },
+      {
+        "title": "High Rental Yield Potential",
+        "description": "Due to the increasing corporate migration and excellent connectivity, 2BHK flats in Sector 89 are highly sought after by renters. This size unit typically offers the best rental returns in Gurugram, attracting young IT professionals and small expat families. Investing in a 2BHK ensures a steady income stream and makes loan repayments significantly easier."
+      }
     ]
   },
   "locationsSection": {
@@ -34,14 +61,56 @@
       "The proximity to major highways and upcoming metro corridors solidifies Sector 89’s position as a premium residential hub. Residents can easily access major business districts without facing the heavy congestion of Central Gurugram. Explore the major points of interest that enhance the value and convenience of living in a 2BHK Flat For Sale in Sector 89 Gurugram."
     ],
     "locations": [
-      "Dwarka Expressway Access Points",
-      "NH 48 National Highway",
-      "Manesar Industrial Area",
-      "IMT Manesar",
-      "Upcoming Metro Corridor",
-      "Cyber Hub 2.0 Planned",
-      "Pataudi Road Connectivity",
-      "Top Schools and Hospitals"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -51,30 +120,84 @@
       "We understand that purchasing a 2BHK flat is a major life decision. Our professional advisors provide unbiased comparisons of different projects, detailed financial modeling, and complete legal verification to ensure you make an informed choice that aligns perfectly with your investment goals and lifestyle needs."
     ],
     "points": [
-      { "title": "Expert Local Market Insight", "description": "Our team possesses deep, localized knowledge specifically about property trends and pricing dynamics for 2BHK Flat For Sale in Sector 89 Gurugram. We provide accurate projections on capital appreciation and the best entry points, ensuring you invest at the most opportune time. We identify hidden gems and value buys." },
-      { "title": "Vetted and RERA Approved Listings", "description": "We only feature 2BHK flats and projects that are fully compliant with RERA regulations and have clear, marketable titles. This eliminates any risk associated with non-compliant builders or delayed possession issues, providing you with complete security and transparency throughout the transaction." },
-      { "title": "Transparent Dealings and Pricing", "description": "There are never any hidden costs or surprise fees when you work with us. We ensure absolute transparency in the pricing, negotiation, and documentation process. Our goal is to secure the best possible price for your 2BHK flat while maintaining ethical and honest business practices at all times." },
-      { "title": "Dedicated Financial Consultation", "description": "We offer personalized advice on home loan options, tax benefits, and payment plans available for buying a 2BHK flat in Sector 89. We connect you with top banking institutions and help structure a financing plan that fits your budget comfortably and efficiently." },
-      { "title": "End-to-End Legal Support", "description": "Navigating property documentation can be complex. Our legal experts handle all paperwork, including agreement to sale, registration deeds, and mutation processes, ensuring a smooth and hassle-free transfer of ownership for your new 2BHK residence." },
-      { "title": "Exclusive Inventory Access", "description": "Through our strong developer relationships in Sector 89, we often gain early access to premium 2BHK units, including corner flats, high-floor units, or units with specific views. This exclusive access gives you a competitive advantage in securing the best available options." },
-      { "title": "Focus on Future Infrastructure", "description": "We advise based on future growth potential. Sector 89 is poised for massive infrastructural upgrades. We highlight how these planned developments—like road widening and metro expansions—will positively impact the value of your chosen 2BHK flat." },
-      { "title": "Post-Sale Service Commitment", "description": "Our relationship does not end after the purchase. We assist with possession formalities, help with initial furnishing contacts, and provide support for any queries you may have regarding community management or handover procedures for your 2BHK flat." }
+      {
+        "title": "Expert Local Market Insight",
+        "description": "Our team possesses deep, localized knowledge specifically about property trends and pricing dynamics for 2BHK Flat For Sale in Sector 89 Gurugram. We provide accurate projections on capital appreciation and the best entry points, ensuring you invest at the most opportune time. We identify hidden gems and value buys."
+      },
+      {
+        "title": "Vetted and RERA Approved Listings",
+        "description": "We only feature 2BHK flats and projects that are fully compliant with RERA regulations and have clear, marketable titles. This eliminates any risk associated with non-compliant builders or delayed possession issues, providing you with complete security and transparency throughout the transaction."
+      },
+      {
+        "title": "Transparent Dealings and Pricing",
+        "description": "There are never any hidden costs or surprise fees when you work with us. We ensure absolute transparency in the pricing, negotiation, and documentation process. Our goal is to secure the best possible price for your 2BHK flat while maintaining ethical and honest business practices at all times."
+      },
+      {
+        "title": "Dedicated Financial Consultation",
+        "description": "We offer personalized advice on home loan options, tax benefits, and payment plans available for buying a 2BHK flat in Sector 89. We connect you with top banking institutions and help structure a financing plan that fits your budget comfortably and efficiently."
+      },
+      {
+        "title": "End-to-End Legal Support",
+        "description": "Navigating property documentation can be complex. Our legal experts handle all paperwork, including agreement to sale, registration deeds, and mutation processes, ensuring a smooth and hassle-free transfer of ownership for your new 2BHK residence."
+      },
+      {
+        "title": "Exclusive Inventory Access",
+        "description": "Through our strong developer relationships in Sector 89, we often gain early access to premium 2BHK units, including corner flats, high-floor units, or units with specific views. This exclusive access gives you a competitive advantage in securing the best available options."
+      },
+      {
+        "title": "Focus on Future Infrastructure",
+        "description": "We advise based on future growth potential. Sector 89 is poised for massive infrastructural upgrades. We highlight how these planned developments—like road widening and metro expansions—will positively impact the value of your chosen 2BHK flat."
+      },
+      {
+        "title": "Post-Sale Service Commitment",
+        "description": "Our relationship does not end after the purchase. We assist with possession formalities, help with initial furnishing contacts, and provide support for any queries you may have regarding community management or handover procedures for your 2BHK flat."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About 2BHK Flats For Sale in Sector 89",
     "description": "Get detailed, problem-solving answers to the most common queries buyers have about investing in residential property and 2BHK apartments in the rapidly developing Sector 89 of Gurugram.",
     "faqs": [
-      { "question": "What is the typical price range for a 2BHK flat in Sector 89 Gurugram", "answer": "The price range for a 2BHK flat in Sector 89 can vary significantly based on the specific project, the builder’s reputation, the size (super area), and the stage of construction. Generally, prices start from around INR 70 Lacs and can go up to INR 1.1 Crore for premium, ready-to-move-in or higher-specification units. We recommend checking specific project price lists and factoring in additional costs such as GST, stamp duty, and registration charges for a complete estimate. Contact our team for the most current price comparison." },
-      { "question": "Is Sector 89 a good area for long-term real estate investment", "answer": "Yes, Sector 89 is considered an excellent long-term investment destination. Its strategic position along the upcoming Dwarka Expressway corridor and its proximity to major industrial and commercial zones like Manesar and the new Cyber Hub extensions ensure consistent demand. Investing in a 2BHK flat here now allows buyers to capitalize on the early growth phase, projecting strong capital appreciation within the next three to five years as infrastructure fully matures." },
-      { "question": "What kind of amenities can I expect in a modern 2BHK project in this sector", "answer": "Modern residential projects offering 2BHK flats in Sector 89 come equipped with high-end amenities. These typically include 100% power backup, piped gas supply, dedicated car parking spaces, professional facility management, state-of-the-art security systems, and lifestyle amenities such as a clubhouse, swimming pool, gymnasium, and dedicated sports courts for tennis or badminton. Look for projects that also offer ample green spaces and jogging tracks." },
-      { "question": "How is the connectivity of Sector 89 to major Gurugram employment hubs", "answer": "Connectivity is a major strength of Sector 89. It provides quick access to NH 48 and, critically, the Dwarka Expressway, which greatly reduces travel time to Delhi and IGI Airport. Employment hubs such as IMT Manesar and Sector 88 (a planned commercial zone) are minutes away. While Cyber City 1.0 is farther, the improved road network makes the commute manageable, and upcoming commercial developments nearby will provide closer employment opportunities." },
-      { "question": "Are there ready-to-move-in 2BHK options available or only under-construction projects", "answer": "Sector 89 offers a healthy mix of both ready-to-move-in (RTM) and under-construction 2BHK flats. RTM flats provide immediate possession but often command a premium price. Under-construction projects typically offer more attractive payment plans and potentially higher appreciation upon completion. We maintain a live database of both categories, helping you choose based on your urgency and financial strategy." },
-      { "question": "What are the typical carpet area dimensions for a 2BHK flat in Sector 89", "answer": "While the super area of a 2BHK flat often ranges between 900 sq ft and 1300 sq ft, the usable carpet area generally falls between 600 sq ft and 850 sq ft, depending on the builder’s efficiency standards. Modern designs prioritize minimizing common areas to maximize the carpet area, ensuring better utilization of space within the flat itself. Always verify the RERA defined carpet area before finalizing the purchase." },
-      { "question": "What is the importance of RERA approval when buying a 2BHK flat here", "answer": "RERA (Real Estate Regulatory Authority) approval is absolutely vital. It ensures that the project adheres to strict timelines, quality standards, and transparent dealings. A RERA-registered 2BHK flat offers legal protection to the buyer against delays and discrepancies in promised specifications. We strictly deal only in RERA-approved projects in Sector 89 to safeguard your investment." },
-      { "question": "Can NRIs purchase 2BHK flats in Sector 89 and what documentation is needed", "answer": "Yes, Non-Resident Indians (NRIs) are legally allowed to purchase residential property like a 2BHK flat in Sector 89 Gurugram. The documentation required typically includes a valid Indian passport, residency proof, PAN card, and bank statements. Payments must be made through NRE or NRO accounts. We provide specialized legal assistance tailored for NRI transactions to ensure full compliance with FEMA regulations." },
-      { "question": "What is the average maintenance cost for a 2BHK apartment in this area", "answer": "The monthly maintenance cost usually covers common area upkeep, security, power backup usage, and facility management. For a standard 2BHK flat in Sector 89, this cost typically ranges from INR 2.50 to INR 4.00 per square foot of the super area. This translates to a monthly fee between INR 2500 and INR 5000, depending on the level of luxury and the included services of the society." },
-      { "question": "How can I schedule a site visit for available 2BHK flats in Sector 89", "answer": "Scheduling a site visit is simple. You can use the contact form provided on this page, call our dedicated helpline number, or send us an email specifying your preferred projects and availability. We arrange personalized site tours, complete with transportation from a designated point, allowing you to view multiple 2BHK options in Sector 89 in a single day, ensuring you get a comprehensive view of the community and the flat layouts." }
+      {
+        "question": "What is the typical price range for a 2BHK flat in Sector 89 Gurugram",
+        "answer": "The price range for a 2BHK flat in Sector 89 can vary significantly based on the specific project, the builder’s reputation, the size (super area), and the stage of construction. Generally, prices start from around INR 70 Lacs and can go up to INR 1.1 Crore for premium, ready-to-move-in or higher-specification units. We recommend checking specific project price lists and factoring in additional costs such as GST, stamp duty, and registration charges for a complete estimate. Contact our team for the most current price comparison."
+      },
+      {
+        "question": "Is Sector 89 a good area for long-term real estate investment",
+        "answer": "Yes, Sector 89 is considered an excellent long-term investment destination. Its strategic position along the upcoming Dwarka Expressway corridor and its proximity to major industrial and commercial zones like Manesar and the new Cyber Hub extensions ensure consistent demand. Investing in a 2BHK flat here now allows buyers to capitalize on the early growth phase, projecting strong capital appreciation within the next three to five years as infrastructure fully matures."
+      },
+      {
+        "question": "What kind of amenities can I expect in a modern 2BHK project in this sector",
+        "answer": "Modern residential projects offering 2BHK flats in Sector 89 come equipped with high-end amenities. These typically include 100% power backup, piped gas supply, dedicated car parking spaces, professional facility management, state-of-the-art security systems, and lifestyle amenities such as a clubhouse, swimming pool, gymnasium, and dedicated sports courts for tennis or badminton. Look for projects that also offer ample green spaces and jogging tracks."
+      },
+      {
+        "question": "How is the connectivity of Sector 89 to major Gurugram employment hubs",
+        "answer": "Connectivity is a major strength of Sector 89. It provides quick access to NH 48 and, critically, the Dwarka Expressway, which greatly reduces travel time to Delhi and IGI Airport. Employment hubs such as IMT Manesar and Sector 88 (a planned commercial zone) are minutes away. While Cyber City 1.0 is farther, the improved road network makes the commute manageable, and upcoming commercial developments nearby will provide closer employment opportunities."
+      },
+      {
+        "question": "Are there ready-to-move-in 2BHK options available or only under-construction projects",
+        "answer": "Sector 89 offers a healthy mix of both ready-to-move-in (RTM) and under-construction 2BHK flats. RTM flats provide immediate possession but often command a premium price. Under-construction projects typically offer more attractive payment plans and potentially higher appreciation upon completion. We maintain a live database of both categories, helping you choose based on your urgency and financial strategy."
+      },
+      {
+        "question": "What are the typical carpet area dimensions for a 2BHK flat in Sector 89",
+        "answer": "While the super area of a 2BHK flat often ranges between 900 sq ft and 1300 sq ft, the usable carpet area generally falls between 600 sq ft and 850 sq ft, depending on the builder’s efficiency standards. Modern designs prioritize minimizing common areas to maximize the carpet area, ensuring better utilization of space within the flat itself. Always verify the RERA defined carpet area before finalizing the purchase."
+      },
+      {
+        "question": "What is the importance of RERA approval when buying a 2BHK flat here",
+        "answer": "RERA (Real Estate Regulatory Authority) approval is absolutely vital. It ensures that the project adheres to strict timelines, quality standards, and transparent dealings. A RERA-registered 2BHK flat offers legal protection to the buyer against delays and discrepancies in promised specifications. We strictly deal only in RERA-approved projects in Sector 89 to safeguard your investment."
+      },
+      {
+        "question": "Can NRIs purchase 2BHK flats in Sector 89 and what documentation is needed",
+        "answer": "Yes, Non-Resident Indians (NRIs) are legally allowed to purchase residential property like a 2BHK flat in Sector 89 Gurugram. The documentation required typically includes a valid Indian passport, residency proof, PAN card, and bank statements. Payments must be made through NRE or NRO accounts. We provide specialized legal assistance tailored for NRI transactions to ensure full compliance with FEMA regulations."
+      },
+      {
+        "question": "What is the average maintenance cost for a 2BHK apartment in this area",
+        "answer": "The monthly maintenance cost usually covers common area upkeep, security, power backup usage, and facility management. For a standard 2BHK flat in Sector 89, this cost typically ranges from INR 2.50 to INR 4.00 per square foot of the super area. This translates to a monthly fee between INR 2500 and INR 5000, depending on the level of luxury and the included services of the society."
+      },
+      {
+        "question": "How can I schedule a site visit for available 2BHK flats in Sector 89",
+        "answer": "Scheduling a site visit is simple. You can use the contact form provided on this page, call our dedicated helpline number, or send us an email specifying your preferred projects and availability. We arrange personalized site tours, complete with transportation from a designated point, allowing you to view multiple 2BHK options in Sector 89 in a single day, ensuring you get a comprehensive view of the community and the flat layouts."
+      }
     ]
   },
   "contactSection": {
@@ -83,6 +206,11 @@
       "Ready to find your perfect home or investment property in New Gurugram? Contact our dedicated property specialists today. We provide personalized consultations to understand your specific needs, budget constraints, and long-term goals.",
       "Fill out the form below to receive a customized portfolio of the best 2BHK Flat For Sale in Sector 89, exclusive pricing details, and arrange a private site visit."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

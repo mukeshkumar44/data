@@ -7,10 +7,19 @@
       "Sampla is rapidly developing into a key residential hub, offering excellent connectivity to Rohtak and Delhi. Navigating this dynamic market requires local knowledge and trustworthiness. Our dedicated real estate agents understand the specific zonal regulations, pricing trends, and emerging infrastructure projects in Sampla, ensuring you make an informed and profitable decision. Stop searching and start succeeding with the top Sampla property specialists today."
     ],
     "buttons": [
-      { "label": "List Your Sampla Property Now", "path": "/list-property" },
-      { "label": "Explore Available Plots and Homes", "path": "/search-property" }
+      {
+        "label": "List Your Sampla Property Now",
+        "path": "/list-property"
+      },
+      {
+        "label": "Explore Available Plots and Homes",
+        "path": "/search-property"
+      }
     ],
-    "images": ["sampla-map.jpg", "sampla-residential.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Popular Property Sizes and Investment Opportunities Recommended by Sampla Agents",
@@ -52,14 +61,56 @@
       "We provide expert services across areas benefiting from enhanced connectivity via the National Highway and those close to essential civic amenities, educational institutes, and healthcare facilities. Explore the burgeoning Sampla property market with confidence, knowing you have local experts guiding every step."
     ],
     "locations": [
-      "Sampla Town Center",
-      "Areas near NH 9",
-      "Residential colonies near Railway Station Sampla",
-      "Developing Sectors near Rohtak Road",
-      "Commercial Hubs on Jhajjar Road",
-      "Villages around Sampla offering agricultural land",
-      "Industrial Estate proximity areas",
-      "Upcoming gated communities in Sampla Rohtak"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure your perfect property or achieve the highest value for your current land in Sampla? Connect directly with our team of certified property experts. We are here to answer all your questions, provide localized market data, and arrange site visits at your convenience.",
       "Fill out the short form below and a dedicated Real Estate Agent in Sampla will contact you within the hour to discuss your specific buying, selling, or investment goals without any obligation."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,12 +7,18 @@
       "Investing in a residential property here means securing a future in one of Ambala's most stable and thriving real estate markets. We provide verified property documentation, transparent pricing, and expert guidance to ensure your home buying journey is smooth and stress-free. Start exploring the best houses available right now and take the first step toward owning your dream home in the heart of Ambala Sadar Ambala."
     ],
     "buttons": [
-      { "label": "Explore Verified Listings", "path": "/listings/ambala-sadar" },
-      { "label": "Schedule a Site Visit", "path": "/contact-us" }
+      {
+        "label": "Explore Verified Listings",
+        "path": "/listings/ambala-sadar"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "hero-image-ambala-sadar-house-1.jpg",
-      "hero-image-ambala-sadar-house-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "We recommend exploring areas like Civil Lines for established prestige, Urban Estate for planned development, and areas closer to Nicholson Road for excellent commercial access. Each locality provides different school access, market proximity, and transport links. We help you evaluate the pros and cons of these key Ambala Sadar locations to ensure your final selection perfectly aligns with your family's needs and future growth plans."
     ],
     "locations": [
-      "Civil Lines Ambala Sadar",
-      "Urban Estate Phase I & II",
-      "Nicholson Road Area",
-      "Model Town Extension",
-      "Housing Board Colony Sadar",
-      "Staff Road Residential Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -156,6 +206,11 @@
       "Ready to secure the best House For Sale in Ambala Sadar? Contact our specialized real estate advisors today for personalized advice, market reports, and exclusive property viewings. We are committed to finding the perfect home that meets your financial and lifestyle criteria.",
       "Fill out the form below or call us directly to discuss your requirements and schedule a guided tour of the available properties in prime Ambala Sadar locations."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

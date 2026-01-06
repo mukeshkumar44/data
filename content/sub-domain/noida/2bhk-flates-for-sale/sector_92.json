@@ -7,10 +7,19 @@
       "Sector 92 Noida is rapidly emerging as a top residential destination known for its well-planned infrastructure and secure environment. Finding the right apartment means securing a lifestyle upgrade. Our curated listings feature ready-to-move-in and under-construction 2BHK units ensuring you find a home that fits your immediate needs and long-term aspirations. Explore spacious layouts premium finishes and exclusive society amenities that elevate everyday living."
     ],
     "buttons": [
-      { "label": "Explore 2BHK Listings", "path": "/listings/2bhk" },
-      { "label": "Request a Site Visit Now", "path": "/contact" }
+      {
+        "label": "Explore 2BHK Listings",
+        "path": "/listings/2bhk"
+      },
+      {
+        "label": "Request a Site Visit Now",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Advantages of Investing in a 2BHK Flat in Sector 92 Noida",
@@ -52,12 +61,56 @@
       "Explore neighboring sectors that complement the lifestyle offered by Sector 92 providing extended choices for shopping dining and entertainment. Our expert team specializes in providing comprehensive market insights helping you compare the finest properties and secure the best possible value for your investment in this flourishing Noida corridor."
     ],
     "locations": [
-      "Sector 93 Noida",
-      "Sector 137 Noida",
-      "Sector 142 Noida",
-      "Sector 82 Noida",
-      "Sector 100 Noida",
-      "Sector 96 Noida"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

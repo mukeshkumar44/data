@@ -7,12 +7,18 @@
       "These properties offer robust construction quality, strategic locations near essential services, and exceptional connectivity to the wider Ambala region. Secure a spacious 2 BHK or a luxurious 3 BHK unit today and step into a community that prioritizes safety, convenience, and quality of life. Explore the best real estate opportunities in Kallerheri Ambala that promise significant appreciation in the coming years and offer unparalleled modern facilities."
     ],
     "buttons": [
-      { "label": "Explore Available Flats", "path": "/available-flats" },
-      { "label": "Request a Free Consultation", "path": "/contact" }
+      {
+        "label": "Explore Available Flats",
+        "path": "/available-flats"
+      },
+      {
+        "label": "Request a Free Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/kallerheri-flat-hero-1.webp",
-      "/images/kallerheri-flat-hero-2.webp"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "Investing in a Flat For Sale in Kallerheri means securing a home in a locale that promises infrastructure growth and high livability scores. The proximity to major national highways further enhances its appeal for residents who frequently travel to Chandigarh or Delhi. We list properties that are situated near green spaces and well-maintained civic infrastructure ensuring a healthy and convenient lifestyle for all residents. This area is designated for future development making it a prime spot for long-term real estate investment appreciation compared to older sectors."
     ],
     "locations": [
-      "Kallerheri Main Road Connectivity",
-      "Near Ambala City Railway Station",
-      "Proximity to Educational Hubs",
-      "Easy Access to National Highway 44",
-      "Developing Commercial Zones",
-      "Close to Healthcare Facilities in Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -156,6 +206,11 @@
       "Ready to find your ideal Flat For Sale in Kallerheri Ambala We provide personalized assistance, detailed site visits, and comprehensive financial guidance to ensure a seamless buying experience. Our specialists are local market experts.",
       "Reach out today to discuss your requirements, explore exclusive property listings, and secure the best price for your new home or investment property in this prime location."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

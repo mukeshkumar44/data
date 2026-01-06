@@ -7,10 +7,19 @@
       "Explore exclusive listings of high-quality 2BHK apartments available for sale right now. We showcase properties from reputed builders that feature excellent construction, modern amenities like swimming pools and clubhouses, and robust security systems. Take the first step towards owning a premium home in one of Noida’s most prestigious sectors. Our experts are ready to guide you through competitive pricing and seamless transaction processes."
     ],
     "buttons": [
-      { "label": "View Available 2BHK Listings", "path": "/listings" },
-      { "label": "Schedule a Site Visit Today", "path": "/contact" }
+      {
+        "label": "View Available 2BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit Today",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero-2bhk-sector-50-noida.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Features of Buying a 2BHK Flat in Elite Sector 50 Noida",
@@ -52,14 +61,56 @@
       "Each society offers a unique set of amenities, varying in size, age, and luxury quotient. We help you compare prices and facilities across these top residential enclaves to ensure your investment aligns perfectly with your lifestyle expectations and budget. Contact us for a detailed comparative analysis."
     ],
     "locations": [
-      "Antriksh Apartments",
-      "Mahagun Maestro",
-      "ATS Green II",
-      "Eldeco Utopia",
-      "The Manav Apartment CGHS",
-      "Omaxe The Forest Spa",
-      "Vardhaman Apartments",
-      "Samriddhi Apartments"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to view the finest 2BHK apartments available in Sector 50 Noida? Our dedicated real estate advisors possess deep market knowledge of this sector and are ready to provide personalized guidance.",
       "Fill out the form below to receive customized property recommendations, detailed price comparisons, and schedule private viewings at your convenience. Let us help you secure your perfect home investment."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/sector36_flat1.jpg",
-      "/images/sector36_flat2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,13 +61,56 @@
       "Our focus extends beyond just the physical flat to the convenience of the entire neighborhood. These proximate areas offer backup retail options, alternative dining experiences, and broader professional networking opportunities. By choosing a flat for sale in Sector 36, you are positioning yourself at the center of Noida's most desirable residential cluster ensuring maximum convenience and potential capital growth."
     ],
     "locations": [
-      "Sector 37 Noida",
-      "Sector 29 Noida",
-      "Sector 28 Noida",
-      "Golf Course Road",
-      "Botanical Garden Metro Station",
-      "Noida Expressway Hubs",
-      "DLF Mall of India Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

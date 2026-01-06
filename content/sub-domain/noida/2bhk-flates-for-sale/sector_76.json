@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Why Investing in a 2BHK Flat For Sale in Sector 76 Noida is a Smart Decision for the Future",
@@ -57,7 +60,58 @@
       "Sector 76 Noida enjoys a truly privileged geographical location that drastically reduces commuting time to major business districts across the NCR. Positioned close to the critically important Noida-Greater Noida Expressway, residents have swift and reliable access to Delhi, Greater Noida, and other essential areas of the National Capital Region. The sector is conveniently well-served by the Noida Metro Aqua Line, with the Sector 76 Metro Station providing seamless and efficient public transport options literally right at your doorstep. This incredible accessibility is a key factor driving the tremendous popularity and high demand for 2BHK flats for sale in Sector 76.",
       "Furthermore, key social infrastructure is readily available and highly developed. Esteemed educational institutions, world-class multi-specialty hospitals like Fortis and Kailash, and vibrant major shopping complexes are all comfortably accessible within a short 15-minute travel radius. This mature and stable locality ensures that all your daily needs, ranging from routine grocery shopping to necessary leisure activities, are met quickly without the requirement of extensive travel. Choosing a home here means prioritizing immediate convenience, long-term stability, and an overall superior quality of life. The thoughtfully planned green belts and designated open spaces also significantly contribute to a healthier and more enjoyable urban living environment not often easily found in other densely populated metropolitan areas."
     ],
-    "locations": []
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Why Choose Us for Buying Your Ideal 2BHK Flat in Sector 76 Noida",

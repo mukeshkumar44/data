@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "rkpuram_map.jpg",
-      "rkpuram_plots.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,18 +61,56 @@
       "If you are looking for plots near major educational institutions connectivity hubs or commercial markets our team has exclusive listings ready for viewing. Trust our dedicated Property Dealer in RK Puram and surrounding Ambala areas to unlock opportunities others miss."
     ],
     "locations": [
-      "RK Puram Phase I",
-      "RK Puram Extension",
-      "Model Town Ambala",
-      "Sector 7 Ambala",
-      "Sector 8 Ambala",
-      "Adarsh Nagar",
-      "Urban Estate",
-      "Ambala Cantt",
-      "Preet Nagar",
-      "Civil Lines Ambala",
-      "Housing Board Colony",
-      "Defence Colony"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "image-hero-sector60-1.jpg",
-      "image-hero-sector60-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Accessibility is deemed paramount with seamless connections provided to NH 48 and the rapidly developing rapid transit infrastructure planned for the future. Furthermore, the area is deliberately surrounded by established, high-end residential sectors, ensuring a vibrant social life and immediate access to sophisticated retail, entertainment options, and community parks. Major reputable developers have invested heavily in creating benchmark projects here, firmly affirming Sector 60's status as a premium and highly sought-after residential corridor. Choosing a property here guarantees high potential for sustained appreciation due to the continuous infrastructural investment and planned future growth within this specific micro-market."
     ],
     "locations": [
-      "Golf Course Extension Road",
-      "Sector 61 Residential Area",
-      "Sohna Road Commercial Hub",
-      "M3M Cosmopolitan",
-      "Educational Institutions Cluster",
-      "AIPL Business Park",
-      "Sector 57 Residential Area",
-      "The Grand Hyatt Gurugram"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,12 +7,18 @@
       "Finding the perfect Flat For Sale in sector 59 means investing in quality infrastructure peace of mind and superior location advantage These properties are built by reputable developers ensuring robust construction RERA compliance and world-class communal facilities Secure your future in a neighborhood known for its green spaces excellent schools and seamless access to major commercial centers Start your property search here and find your dream home today"
     ],
     "buttons": [
-      { "label": "Explore Available Flats Now", "path": "/listings" },
-      { "label": "Request Sector 59 Price Guide", "path": "/pricing" }
+      {
+        "label": "Explore Available Flats Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Sector 59 Price Guide",
+        "path": "/pricing"
+      }
     ],
     "images": [
-      "flat_sector59_hero1.jpg",
-      "flat_sector59_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "When considering a Flat For Sale in sector 59 connectivity to social infrastructure is paramount The area is surrounded by renowned educational institutions top-tier healthcare facilities and vibrant retail and entertainment zones This strategic location not only enhances the daily life of residents but also significantly boosts the long-term investment potential of property here making it a smart choice for discerning buyers"
     ],
     "locations": [
-      "Delhi-Mumbai Expressway Access Points",
-      "Proximity to Badarpur Border",
-      "Major Malls and Multiplexes Nearby",
-      "Renowned Schools and Universities",
-      "Advanced Multi-Specialty Hospitals",
-      "Upcoming Metro Link Extensions",
-      "Easy Access to Sector 58 and 60",
-      "Commercial Hubs of Gurugram"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

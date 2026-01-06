@@ -7,12 +7,18 @@
       "Explore a diverse range of houses including independent floors and low-rise apartments that meet strict affordability criteria. This sector is strategically positioned offering excellent access to major expressways schools hospitals and commercial hubs making it an ideal location for long-term growth. Start your journey toward owning an Affordable House in Sector 121 and secure a brighter future for your family in a rapidly developing neighborhood."
     ],
     "buttons": [
-      { "label": "Explore Affordable Listings", "path": "/listings" },
-      { "label": "Get Free Consultation", "path": "/contact" }
+      {
+        "label": "Explore Affordable Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Free Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "house_exterior_sector121_1.jpg",
-      "sector121_map_noida.png"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The sector boasts well-maintained roads green spaces and immediate access to top-tier educational institutions and healthcare facilities. Proximity to the FNG Expressway and connectivity to the Delhi Metro network make it highly desirable for working professionals in Delhi NCR. Discover how living here combines urban convenience with peaceful community living."
     ],
     "locations": [
-      "FNG Expressway connectivity",
-      "Proximity to Sector 50 Metro Station",
-      "Near major corporate offices Sector 62",
-      "Access to highly-rated schools and universities",
-      "Close to major shopping malls and entertainment zones",
-      "Easy travel access to Delhi and Ghaziabad",
-      "Well-developed internal infrastructure and roads",
-      "Neighbourhood green parks and community centres"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to find your perfect Affordable House in Sector 121 Noida Let our specialized real estate advisors guide you through the best listings that match your budget and requirements. We offer personalized property tours and detailed financial planning advice.",
       "Fill out the form below and a member of our team will contact you within 24 hours to begin your successful home-buying journey in Sector 121."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

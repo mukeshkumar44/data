@@ -7,10 +7,19 @@
       "We offer an exclusive selection of properties, ranging from compact retail units ideal for startups and essential services, to large format spaces perfect for anchor stores and flagship brands. Finding the right Shop For Rent in Sector 108 has never been easier. Leverage our expertise to quickly identify a high-visibility, high-footfall location that aligns perfectly with your budget and business plan. Start your search now and unlock the commercial potential of this sought-after locality."
     ],
     "buttons": [
-      { "label": "Explore Available Shops Now", "path": "/listings" },
-      { "label": "Book a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Available Shops Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Book a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Property Options for Rent in Sector 108 Gurugram Suiting Every Business Need",
@@ -52,13 +61,56 @@
       "The locality benefits from excellent connectivity to the main bypass road, linking it swiftly to neighboring sectors and broader Gurugram regions. This seamless connectivity ensures ease of access for customers coming from far and wide, making your rented shop a convenient destination. Furthermore, proximity to large planned residential societies guarantees a captive audience for daily necessities and lifestyle purchases."
     ],
     "locations": [
-      "Proximity to the Gurugram-Noida-Ghaziabad Expressway FNG",
-      "Direct access to residential sectors like Sector 107 and Sector 109",
-      "Upcoming Metro Link connectivity plans",
-      "Near major institutional and educational facilities",
-      "Well-developed internal sector road networks",
-      "Easy access to public transportation terminals",
-      "Located in a pollution-controlled, planned urban environment"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

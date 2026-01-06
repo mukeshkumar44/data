@@ -7,12 +7,18 @@
       "If you seek stability, capital appreciation, and easy access to major corporate offices on NH-48, your search ends here. We offer expertly curated listings to help you buy house in Sector 39 Gurugram without stress, ensuring transparent dealings and properties that match your specific lifestyle requirements. Explore luxurious and comfortable living options that promise excellent long-term value in the heart of the city's established residential zone."
     ],
     "buttons": [
-      { "label": "Explore Houses for Sale", "path": "/listings" },
-      { "label": "Get Pricing Details", "path": "/contact" }
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Pricing Details",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "house_sector39_1.jpg",
-      "house_sector39_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,13 +61,56 @@
       "Exploring nearby sectors allows buyers to gauge property values, assess comparative infrastructure, and understand the breadth of available amenities before finalizing their decision to buy house in Sector 39 Gurugram. We present the immediate neighboring sectors that share similar advantages and strong connectivity."
     ],
     "locations": [
-      "Sector 38 Gurugram",
-      "Sector 40 Residential Hubs",
-      "Sector 41 Prime Living Spaces",
-      "Sector 44 Institutional Area",
-      "HUDA City Centre Connectivity",
-      "Sushant Lok Phase 1 Access",
-      "Civil Lines Established Neighborhood"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

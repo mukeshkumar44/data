@@ -7,12 +7,18 @@
       "Finding the perfect commercial space requires market insight and expert guidance. Our portfolio includes diverse shop sizes ideal for various business types from small startups and retail outlets to large-scale showrooms and anchor tenants. Explore our validated and verified listings to locate a competitively priced shop for rent New Palam Vihar that aligns perfectly with your growth strategy and budget constraints."
     ],
     "buttons": [
-      { "label": "View Available Shops Now", "path": "/listings/shops-for-rent" },
-      { "label": "Request Commercial Consultation", "path": "/contact" }
+      {
+        "label": "View Available Shops Now",
+        "path": "/listings/shops-for-rent"
+      },
+      {
+        "label": "Request Commercial Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "commercial-shop-new-palam-vihar-exterior.jpg",
-      "palam-vihar-market-street.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "We focus on properties that benefit from strategic placement near major road networks easy public transport access and established residential colonies ensuring a constant influx of potential customers throughout the day and evening. This strategic advantage maximizes the return on your rental investment."
     ],
     "locations": [
-      "Near Palam Vihar Extension Main Road",
-      "Proximity to Dwarka Expressway Sector 109",
-      "Adjoining Commercial Hubs Sector 110",
-      "Established Residential Blocks Phase 1 & 2",
-      "Areas near Palam Vihar Community Center",
-      "Access points near Bajghera Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Apartment Configurations and Premium Flat Sizes Available in Sector 93",
@@ -58,14 +61,56 @@
       "Sector 93 is perfectly positioned near the major arterial road network connecting Gurugram seamlessly to the wider NCR region including Delhi, Noida, and Gurugram via the FNG Expressway and the Agra Canal Road. We ensure that our featured properties are situated near essential services and recreational hubs offering residents a balanced urban lifestyle with ample opportunities for leisure and daily convenience."
     ],
     "locations": [
-      "DPS Greater Gurugram and other Leading Schools",
-      "Omaxe World Street Commercial Hub",
-      "Amrita Hospital Gurugram World-Class Healthcare",
-      "FNG Expressway and Bypass Road Access",
-      "Retail and Daily Needs Shopping Centers",
-      "Upcoming Metro Extension Line Connectivity",
-      "Hospitals and Medical Centers Nearby",
-      "Parks and Green Belts for Recreation"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

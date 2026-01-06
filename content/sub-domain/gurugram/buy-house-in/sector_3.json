@@ -7,10 +7,19 @@
       "Searching to buy house in Sector 3 means choosing stability, high capital appreciation, and excellent infrastructure. Our expert team simplifies the complex buying process, providing vetted listings, transparent documentation, and comprehensive legal support. Whether you seek a compact 2 BHK house or a sprawling luxury villa, Sector 3 delivers superior value and quality living for discerning families looking for prime real estate."
     ],
     "buttons": [
-      { "label": "View Sector 3 Listings", "path": "/listings/sector-3" },
-      { "label": "Schedule a Site Visit", "path": "/contact-us" }
+      {
+        "label": "View Sector 3 Listings",
+        "path": "/listings/sector-3"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["sector3_hero1.jpg", "sector3_hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse House Sizes and Property Configurations Available in Sector 3 Gurugram",
@@ -52,14 +61,56 @@
       "The proximity to major corporate offices, world-class hospitals, and leading educational institutions minimizes commute times, giving residents more time to enjoy their lives. When you choose to buy house in Sector 3, you are investing in a location that prioritizes accessibility and future development, securing your investment for years to come."
     ],
     "locations": [
-      "Sector 4 Residential Area",
-      "M.G. Road Metro Station",
-      "DLF Cyber City",
-      "Old Delhi Road Access",
-      "Palam Vihar Extension",
-      "Udyog Vihar Industrial Area",
-      "Major Retail Malls on MG Road",
-      "Gurugram Railway Station"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Secure your dream house in Sector 3 with our dedicated expert assistance. We offer personalized property tours, detailed financial guidance, and complete legal support from initial viewing to final registration. Let us help you navigate the Sector 3 real estate market with confidence and ease.",
       "Reach out to our specialized Gurugram team now to receive a curated list of properties matching your exact specifications. Your ideal home in this coveted sector awaits."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

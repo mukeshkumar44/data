@@ -7,10 +7,19 @@
       "Our dedicated team understands the nuances of local property regulations, pricing trends, and future development potential in Aliyaspur Ambala. We are committed to providing transparent service, accurate property listings, and personalized support from initial search to final registration. Trust our Property Dealer in Aliyaspur to transform your real estate goals into reality with professionalism and ease. Start your property search with us and experience the difference true expertise makes."
     ],
     "buttons": [
-      { "label": "View Residential Listings", "path": "/listings/residential" },
-      { "label": "Consult Our Aliyaspur Experts", "path": "/contact" }
+      {
+        "label": "View Residential Listings",
+        "path": "/listings/residential"
+      },
+      {
+        "label": "Consult Our Aliyaspur Experts",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Popular Residential Plot Sizes Available Through Your Property Dealer in Aliyaspur Ambala",
@@ -52,14 +61,56 @@
       "Explore the investment potential in adjacent sectors and burgeoning townships. Our localized knowledge gives you an edge in discovering undervalued properties and emerging real estate hotspots around Aliyaspur Ambala, guaranteeing robust future returns on your investment."
     ],
     "locations": [
-      "Aliyaspur Central Residential Blocks",
-      "Model Town Ambala Cantonment",
-      "Sector 7 Urban Estate",
-      "Baldev Nagar Extension",
-      "Ambala City Main Highways",
-      "Shahpur Development Area",
-      "Industrial Plots near NH44",
-      "Areas Surrounding Ambala Cantt Railway Station"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards your real estate goals in Aliyaspur Ambala? Contact our expert team now for personalized consultations, property viewing arrangements, or market analysis reports. We are here to answer all your questions.",
       "Fill out the form below and let the leading Property Dealer in Aliyaspur guide your success in the Ambala property market."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

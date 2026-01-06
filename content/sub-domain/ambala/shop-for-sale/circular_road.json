@@ -7,10 +7,19 @@
       "Explore a range of shops for sale in Circular Road Ambala, tailored to meet diverse business needs. From compact retail spaces to larger commercial units, find the perfect property to grow your venture."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/shops" },
-      { "label": "Contact Us Today", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/shops"
+      },
+      {
+        "label": "Contact Us Today",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Shops For Sale in Circular Road Ambala",
@@ -19,12 +28,30 @@
       "Our listings include shops with modern amenities, competitive pricing, and excellent connectivity. Discover the perfect space to establish or expand your business in one of Ambala's most sought-after locations."
     ],
     "features": [
-      { "title": "Compact Retail Shop", "description": "Ideal for small businesses or boutiques, these shops offer affordability and convenience in a prime location." },
-      { "title": "Medium-Sized Commercial Unit", "description": "Perfect for mid-sized businesses, these shops provide ample space and high visibility on Circular Road." },
-      { "title": "Spacious Showroom", "description": "Designed for large-scale businesses, these units offer expansive interiors and excellent accessibility." },
-      { "title": "Prime Location Shop", "description": "Situated in the heart of Circular Road, these shops guarantee maximum foot traffic and business potential." },
-      { "title": "Modern Amenities", "description": "Our listings include shops equipped with contemporary facilities for a seamless business experience." },
-      { "title": "Competitive Pricing", "description": "Find shops for sale in Circular Road Ambala at prices that fit your budget and investment goals." }
+      {
+        "title": "Compact Retail Shop",
+        "description": "Ideal for small businesses or boutiques, these shops offer affordability and convenience in a prime location."
+      },
+      {
+        "title": "Medium-Sized Commercial Unit",
+        "description": "Perfect for mid-sized businesses, these shops provide ample space and high visibility on Circular Road."
+      },
+      {
+        "title": "Spacious Showroom",
+        "description": "Designed for large-scale businesses, these units offer expansive interiors and excellent accessibility."
+      },
+      {
+        "title": "Prime Location Shop",
+        "description": "Situated in the heart of Circular Road, these shops guarantee maximum foot traffic and business potential."
+      },
+      {
+        "title": "Modern Amenities",
+        "description": "Our listings include shops equipped with contemporary facilities for a seamless business experience."
+      },
+      {
+        "title": "Competitive Pricing",
+        "description": "Find shops for sale in Circular Road Ambala at prices that fit your budget and investment goals."
+      }
     ]
   },
   "locationsSection": {
@@ -34,14 +61,56 @@
       "Whether you're looking for residential proximity or additional commercial opportunities, these nearby locations offer excellent connectivity and growth potential."
     ],
     "locations": [
-      "Ambala Cantt",
-      "Model Town Ambala",
-      "Naraingarh Road",
-      "Railway Road Ambala",
-      "Jagadhri Road",
-      "Dhulkot Road",
-      "NIT Ambala",
-      "Sadar Bazar Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -51,30 +120,84 @@
       "From strategic connectivity to thriving business opportunities, Circular Road Ambala provides the perfect environment for your commercial ventures to flourish."
     ],
     "points": [
-      { "title": "High Foot Traffic", "description": "Circular Road Ambala attracts a steady flow of customers, ensuring maximum visibility and business growth." },
-      { "title": "Strategic Location", "description": "Located in the heart of Ambala, Circular Road offers excellent connectivity to major residential and commercial areas." },
-      { "title": "Diverse Business Opportunities", "description": "From retail stores to showrooms, Circular Road caters to a wide range of business needs." },
-      { "title": "Modern Infrastructure", "description": "Shops in Circular Road Ambala are equipped with contemporary facilities for a seamless business experience." },
-      { "title": "Competitive Pricing", "description": "Our listings offer affordable options for businesses of all sizes, ensuring value for your investment." },
-      { "title": "Thriving Business Community", "description": "Join a vibrant network of entrepreneurs and businesses in Circular Road Ambala." },
-      { "title": "Future Growth Potential", "description": "Investing in Circular Road Ambala ensures long-term returns as the area continues to develop." },
-      { "title": "Expert Guidance", "description": "Our team provides personalized assistance to help you find the perfect shop for your business." }
+      {
+        "title": "High Foot Traffic",
+        "description": "Circular Road Ambala attracts a steady flow of customers, ensuring maximum visibility and business growth."
+      },
+      {
+        "title": "Strategic Location",
+        "description": "Located in the heart of Ambala, Circular Road offers excellent connectivity to major residential and commercial areas."
+      },
+      {
+        "title": "Diverse Business Opportunities",
+        "description": "From retail stores to showrooms, Circular Road caters to a wide range of business needs."
+      },
+      {
+        "title": "Modern Infrastructure",
+        "description": "Shops in Circular Road Ambala are equipped with contemporary facilities for a seamless business experience."
+      },
+      {
+        "title": "Competitive Pricing",
+        "description": "Our listings offer affordable options for businesses of all sizes, ensuring value for your investment."
+      },
+      {
+        "title": "Thriving Business Community",
+        "description": "Join a vibrant network of entrepreneurs and businesses in Circular Road Ambala."
+      },
+      {
+        "title": "Future Growth Potential",
+        "description": "Investing in Circular Road Ambala ensures long-term returns as the area continues to develop."
+      },
+      {
+        "title": "Expert Guidance",
+        "description": "Our team provides personalized assistance to help you find the perfect shop for your business."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shops For Sale in Circular Road Ambala",
     "description": "Get answers to common questions about buying a shop in Circular Road Ambala. Our FAQs cover everything from pricing to location benefits.",
     "faqs": [
-      { "question": "What types of shops are available for sale in Circular Road Ambala", "answer": "Circular Road Ambala offers a variety of shops, including compact retail spaces, medium-sized commercial units, and spacious showrooms to suit different business needs." },
-      { "question": "Why is Circular Road Ambala a good location for commercial investments", "answer": "Circular Road Ambala is known for its high foot traffic, strategic location, and thriving business community, making it an ideal choice for commercial investments." },
-      { "question": "Are there shops for sale in Circular Road Ambala with modern amenities", "answer": "Yes, many shops in Circular Road Ambala come equipped with contemporary facilities to enhance your business operations." },
-      { "question": "What is the price range for shops in Circular Road Ambala", "answer": "Prices vary based on size and location, but Circular Road Ambala offers competitive pricing to fit diverse budgets." },
-      { "question": "How can I find the best shop for my business in Circular Road Ambala", "answer": "Our team provides personalized assistance to help you identify the perfect shop based on your business requirements and budget." },
-      { "question": "Is Circular Road Ambala well-connected to other parts of the city", "answer": "Yes, Circular Road Ambala offers excellent connectivity to major residential and commercial areas, ensuring easy accessibility for customers." },
-      { "question": "What are the future growth prospects for businesses in Circular Road Ambala", "answer": "Circular Road Ambala is a rapidly developing area with high growth potential, ensuring long-term benefits for investors." },
-      { "question": "Can I visit the available shops in Circular Road Ambala before purchasing", "answer": "Absolutely, we encourage prospective buyers to visit and evaluate the shops to make an informed decision." },
-      { "question": "Are there financing options available for purchasing a shop in Circular Road Ambala", "answer": "Yes, we offer guidance on various financing options to help you secure your investment." },
-      { "question": "What support services are available for new business owners in Circular Road Ambala", "answer": "Our team provides comprehensive support, from property selection to legal assistance, ensuring a smooth buying experience." }
+      {
+        "question": "What types of shops are available for sale in Circular Road Ambala",
+        "answer": "Circular Road Ambala offers a variety of shops, including compact retail spaces, medium-sized commercial units, and spacious showrooms to suit different business needs."
+      },
+      {
+        "question": "Why is Circular Road Ambala a good location for commercial investments",
+        "answer": "Circular Road Ambala is known for its high foot traffic, strategic location, and thriving business community, making it an ideal choice for commercial investments."
+      },
+      {
+        "question": "Are there shops for sale in Circular Road Ambala with modern amenities",
+        "answer": "Yes, many shops in Circular Road Ambala come equipped with contemporary facilities to enhance your business operations."
+      },
+      {
+        "question": "What is the price range for shops in Circular Road Ambala",
+        "answer": "Prices vary based on size and location, but Circular Road Ambala offers competitive pricing to fit diverse budgets."
+      },
+      {
+        "question": "How can I find the best shop for my business in Circular Road Ambala",
+        "answer": "Our team provides personalized assistance to help you identify the perfect shop based on your business requirements and budget."
+      },
+      {
+        "question": "Is Circular Road Ambala well-connected to other parts of the city",
+        "answer": "Yes, Circular Road Ambala offers excellent connectivity to major residential and commercial areas, ensuring easy accessibility for customers."
+      },
+      {
+        "question": "What are the future growth prospects for businesses in Circular Road Ambala",
+        "answer": "Circular Road Ambala is a rapidly developing area with high growth potential, ensuring long-term benefits for investors."
+      },
+      {
+        "question": "Can I visit the available shops in Circular Road Ambala before purchasing",
+        "answer": "Absolutely, we encourage prospective buyers to visit and evaluate the shops to make an informed decision."
+      },
+      {
+        "question": "Are there financing options available for purchasing a shop in Circular Road Ambala",
+        "answer": "Yes, we offer guidance on various financing options to help you secure your investment."
+      },
+      {
+        "question": "What support services are available for new business owners in Circular Road Ambala",
+        "answer": "Our team provides comprehensive support, from property selection to legal assistance, ensuring a smooth buying experience."
+      }
     ]
   },
   "contactSection": {
@@ -83,6 +206,11 @@
       "Ready to invest in a shop in Circular Road Ambala? Contact our expert team today for personalized assistance and detailed property information.",
       "Fill out the form below, and we'll get back to you promptly with the best options tailored to your business needs."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

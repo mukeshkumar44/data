@@ -7,10 +7,19 @@
       "Renting a flat in Sector 39 provides access to top-tier amenities including reputable schools, world-class hospitals like the prominent District Hospital, and well-maintained parks. Our listings are updated daily ensuring you get access to the freshest inventory available in this sought-after locality. Start your journey toward finding your dream rental flat in Sector 39 Noida with ease and professional guidance."
     ],
     "buttons": [
-      { "label": "Browse All Rental Listings", "path": "/listings/sector-39" },
-      { "label": "Schedule a Site Visit", "path": "/contact-us" }
+      {
+        "label": "Browse All Rental Listings",
+        "path": "/listings/sector-39"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["/images/sector-39-rental-hero-1.jpg", "/images/sector-39-rental-hero-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Rental Apartment Options and Premium Living Spaces in Sector 39 Noida",
@@ -19,29 +28,29 @@
       "Our property advisors specialize in the Sector 39 rental market providing expert advice on fair rental prices, lease agreements, and maintenance services. Explore the popular flat configurations below and click through to see current availability and detailed property specifications. Finding the ideal Flat For Rent in Sector 39 Noida has never been more straightforward."
     ],
     "features": [
-      { 
-        "title": "Studio Apartments for Professionals", 
-        "description": "Ideal for single professionals or students, studio apartments in Sector 39 offer optimal utilization of space and cost-effectiveness. These units are typically furnished or semi-furnished providing immediate move-in convenience. Look for properties near the Sector 39 metro station for effortless daily commuting across Noida and Delhi NCR. We ensure all studio rentals meet high standards of safety and maintenance." 
+      {
+        "title": "Studio Apartments for Professionals",
+        "description": "Ideal for single professionals or students, studio apartments in Sector 39 offer optimal utilization of space and cost-effectiveness. These units are typically furnished or semi-furnished providing immediate move-in convenience. Look for properties near the Sector 39 metro station for effortless daily commuting across Noida and Delhi NCR. We ensure all studio rentals meet high standards of safety and maintenance."
       },
-      { 
-        "title": "1 BHK Flats for Young Couples", 
-        "description": "A popular choice among young couples and nuclear families, 1 BHK flats provide adequate space separation between the living area and the bedroom. Many units feature balconies offering pleasant views of the green surroundings Sector 39 is known for. These rental flats balance affordability with accessibility making them highly desirable properties." 
+      {
+        "title": "1 BHK Flats for Young Couples",
+        "description": "A popular choice among young couples and nuclear families, 1 BHK flats provide adequate space separation between the living area and the bedroom. Many units feature balconies offering pleasant views of the green surroundings Sector 39 is known for. These rental flats balance affordability with accessibility making them highly desirable properties."
       },
-      { 
-        "title": "2 BHK Family Rental Units", 
-        "description": "The quintessential family choice, 2 BHK flats in Sector 39 offer two bedrooms often accompanied by two bathrooms and a functional kitchen. These apartments are perfect for small families seeking proximity to reputable schools and healthcare facilities. Our listings include units in gated societies providing additional security and community amenities like parks and gyms." 
+      {
+        "title": "2 BHK Family Rental Units",
+        "description": "The quintessential family choice, 2 BHK flats in Sector 39 offer two bedrooms often accompanied by two bathrooms and a functional kitchen. These apartments are perfect for small families seeking proximity to reputable schools and healthcare facilities. Our listings include units in gated societies providing additional security and community amenities like parks and gyms."
       },
-      { 
-        "title": "3 BHK Spacious Apartments", 
-        "description": "For larger families or those requiring a dedicated home office, 3 BHK flats offer expansive living areas and superior privacy. Located primarily in high-rise complexes, these units often come with reserved parking and access to exclusive club facilities. Experience luxurious living standards while enjoying the convenience of Sector 39’s central location in Noida." 
+      {
+        "title": "3 BHK Spacious Apartments",
+        "description": "For larger families or those requiring a dedicated home office, 3 BHK flats offer expansive living areas and superior privacy. Located primarily in high-rise complexes, these units often come with reserved parking and access to exclusive club facilities. Experience luxurious living standards while enjoying the convenience of Sector 39’s central location in Noida."
       },
-      { 
-        "title": "Luxury Service Apartments", 
-        "description": "Perfect for expatriates or short-term corporate stays, luxury service apartments offer hotel-like amenities combined with the comfort of a home environment. These units are fully serviced, inclusive of housekeeping and utilities, simplifying your stay significantly. Sector 39 is favored for service apartments due to its closeness to major business centers in Noida." 
+      {
+        "title": "Luxury Service Apartments",
+        "description": "Perfect for expatriates or short-term corporate stays, luxury service apartments offer hotel-like amenities combined with the comfort of a home environment. These units are fully serviced, inclusive of housekeeping and utilities, simplifying your stay significantly. Sector 39 is favored for service apartments due to its closeness to major business centers in Noida."
       },
-      { 
-        "title": "Independent Floors for Privacy", 
-        "description": "If you prioritize privacy and independent living over high-rise society life, consider renting an independent floor in Sector 39 Noida. These units often offer private terraces or dedicated parking spaces. They provide a residential, neighborhood feel allowing tenants greater flexibility and control over their living space environment." 
+      {
+        "title": "Independent Floors for Privacy",
+        "description": "If you prioritize privacy and independent living over high-rise society life, consider renting an independent floor in Sector 39 Noida. These units often offer private terraces or dedicated parking spaces. They provide a residential, neighborhood feel allowing tenants greater flexibility and control over their living space environment."
       }
     ]
   },
@@ -52,14 +61,56 @@
       "The availability of reputed hospitals, educational institutions, and shopping complexes within a short radius significantly enhances the rental experience here. Review the major accessibility points below that make Sector 39 a superior residential choice for all prospective tenants."
     ],
     "locations": [
-      "Sector 39 Metro Station (Aqua Line)",
-      "District Hospital Noida",
-      "GIP Mall and DLF Mall of India proximity",
-      "Atta Market and Sector 18 Commercial Hub",
-      "Noida Golf Course nearby access",
-      "Direct connectivity to Dadri-Surajpur-Chhalera Road (DSC Road)",
-      "Proximity to major institutions in Sector 62",
-      "Easy access to Yamuna Expressway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -69,37 +120,37 @@
       "Explore the compelling reasons why tenants prefer Sector 39 over other localities in the region and how our dedicated service simplifies the entire rental process for you."
     ],
     "points": [
-      { 
-        "title": "Exceptional Infrastructure and Planning", 
-        "description": "Sector 39 is known for its wide roads, systematic urban planning, and abundant green spaces unlike many older parts of Noida. This structure ensures minimal traffic congestion and a clean, serene living atmosphere. This robust planning adds significant value to every rental property located here providing a superior daily experience." 
+      {
+        "title": "Exceptional Infrastructure and Planning",
+        "description": "Sector 39 is known for its wide roads, systematic urban planning, and abundant green spaces unlike many older parts of Noida. This structure ensures minimal traffic congestion and a clean, serene living atmosphere. This robust planning adds significant value to every rental property located here providing a superior daily experience."
       },
-      { 
-        "title": "Unbeatable Metro Connectivity", 
-        "description": "The presence of the Sector 39 Metro Station on the Aqua Line offers residents a powerful transit advantage. Commuting to corporate offices, universities, or central market areas becomes incredibly fast and predictable. This connectivity makes flats highly attractive to working professionals across various sectors." 
+      {
+        "title": "Unbeatable Metro Connectivity",
+        "description": "The presence of the Sector 39 Metro Station on the Aqua Line offers residents a powerful transit advantage. Commuting to corporate offices, universities, or central market areas becomes incredibly fast and predictable. This connectivity makes flats highly attractive to working professionals across various sectors."
       },
-      { 
-        "title": "Proximity to Essential Healthcare Facilities", 
-        "description": "Access to high-quality healthcare is a major benefit. Sector 39 hosts the expansive District Hospital which ensures immediate access to medical services and specialized care. Renting here provides immense peace of mind especially for families with children or elderly members." 
+      {
+        "title": "Proximity to Essential Healthcare Facilities",
+        "description": "Access to high-quality healthcare is a major benefit. Sector 39 hosts the expansive District Hospital which ensures immediate access to medical services and specialized care. Renting here provides immense peace of mind especially for families with children or elderly members."
       },
-      { 
-        "title": "Robust Safety and Security Measures", 
-        "description": "Most residential societies and blocks in Sector 39 implement strong security protocols including 24/7 guarded entries, CCTV surveillance, and secure boundary walls. This focus on safety is paramount for tenants seeking a worry-free environment for themselves and their assets." 
+      {
+        "title": "Robust Safety and Security Measures",
+        "description": "Most residential societies and blocks in Sector 39 implement strong security protocols including 24/7 guarded entries, CCTV surveillance, and secure boundary walls. This focus on safety is paramount for tenants seeking a worry-free environment for themselves and their assets."
       },
-      { 
-        "title": "Diverse Rental Inventory Options", 
-        "description": "We offer the largest selection of rental flats encompassing independent houses, society apartments, and builder floors, ensuring we meet all budget requirements. From affordable 1 BHK units to luxury penthouses, the variety guarantees you find the exact fit for your lifestyle requirements in Sector 39." 
+      {
+        "title": "Diverse Rental Inventory Options",
+        "description": "We offer the largest selection of rental flats encompassing independent houses, society apartments, and builder floors, ensuring we meet all budget requirements. From affordable 1 BHK units to luxury penthouses, the variety guarantees you find the exact fit for your lifestyle requirements in Sector 39."
       },
-      { 
-        "title": "Vibrant Social and Retail Scene", 
-        "description": "The sector benefits from quick access to popular malls like GIP and Sector 18 Noida providing premium shopping, dining, and entertainment options. Residents enjoy a balanced life where convenience is just a short drive or ride away complementing their comfortable rental home." 
+      {
+        "title": "Vibrant Social and Retail Scene",
+        "description": "The sector benefits from quick access to popular malls like GIP and Sector 18 Noida providing premium shopping, dining, and entertainment options. Residents enjoy a balanced life where convenience is just a short drive or ride away complementing their comfortable rental home."
       },
-      { 
-        "title": "Clear and Transparent Documentation", 
-        "description": "We ensure that all rental agreements and lease documentation are fully transparent, legally compliant, and easy to understand. Our professional service eliminates bureaucratic hurdles, safeguarding both the tenant’s and landlord’s interests throughout the lease period." 
+      {
+        "title": "Clear and Transparent Documentation",
+        "description": "We ensure that all rental agreements and lease documentation are fully transparent, legally compliant, and easy to understand. Our professional service eliminates bureaucratic hurdles, safeguarding both the tenant’s and landlord’s interests throughout the lease period."
       },
-      { 
-        "title": "Experienced Local Property Guidance", 
-        "description": "Our team possesses deep, specialized knowledge of the Sector 39 rental market dynamics. We guide you through price negotiation, maintenance expectations, and society rules, ensuring you secure the best possible Flat For Rent in Sector 39 Noida at competitive market rates." 
+      {
+        "title": "Experienced Local Property Guidance",
+        "description": "Our team possesses deep, specialized knowledge of the Sector 39 rental market dynamics. We guide you through price negotiation, maintenance expectations, and society rules, ensuring you secure the best possible Flat For Rent in Sector 39 Noida at competitive market rates."
       }
     ]
   },
@@ -107,45 +158,45 @@
     "title": "Important Questions About Renting a Flat in Sector 39 Noida Answered",
     "description": "Get detailed answers to the most common queries potential tenants have regarding lease terms, security deposits, and the overall rental environment in Sector 39, Noida.",
     "faqs": [
-      { 
-        "question": "What is the typical range for the security deposit when renting a flat in Sector 39", 
-        "answer": "The standard practice in Sector 39 Noida, similar to most prime localities, requires tenants to pay a security deposit equivalent to two or three months’ rent. This amount is held by the landlord throughout the tenancy period and is fully refundable upon vacating the premises, provided there is no damage to the property beyond normal wear and tear and all dues are cleared. Always ensure the amount and refund conditions are clearly stated in the rental agreement before signing." 
+      {
+        "question": "What is the typical range for the security deposit when renting a flat in Sector 39",
+        "answer": "The standard practice in Sector 39 Noida, similar to most prime localities, requires tenants to pay a security deposit equivalent to two or three months’ rent. This amount is held by the landlord throughout the tenancy period and is fully refundable upon vacating the premises, provided there is no damage to the property beyond normal wear and tear and all dues are cleared. Always ensure the amount and refund conditions are clearly stated in the rental agreement before signing."
       },
-      { 
-        "question": "Are 2 BHK Flats For Rent in Sector 39 usually furnished or semi-furnished", 
-        "answer": "The availability varies significantly across Sector 39. While independent builder floors might often be unfurnished, flats within gated societies, especially new constructions, are commonly semi-furnished. Semi-furnished typically includes modular kitchen fittings, wardrobes, light fixtures, and fans. Fully furnished options are generally available in service apartments or luxury listings, catering specifically to corporate tenants or expatriates seeking immediate occupancy convenience." 
+      {
+        "question": "Are 2 BHK Flats For Rent in Sector 39 usually furnished or semi-furnished",
+        "answer": "The availability varies significantly across Sector 39. While independent builder floors might often be unfurnished, flats within gated societies, especially new constructions, are commonly semi-furnished. Semi-furnished typically includes modular kitchen fittings, wardrobes, light fixtures, and fans. Fully furnished options are generally available in service apartments or luxury listings, catering specifically to corporate tenants or expatriates seeking immediate occupancy convenience."
       },
-      { 
-        "question": "How close is Sector 39 to major corporate hubs in Noida like Sector 62", 
-        "answer": "Sector 39 enjoys excellent central positioning. It is relatively quick to reach Sector 62 and other major IT and commercial centers via the Noida Metro Aqua Line or well-maintained roads. Travel time typically ranges from 20 to 30 minutes depending on peak traffic conditions. This proximity is a significant factor driving demand for a Flat For Rent in Sector 39 among working professionals." 
+      {
+        "question": "How close is Sector 39 to major corporate hubs in Noida like Sector 62",
+        "answer": "Sector 39 enjoys excellent central positioning. It is relatively quick to reach Sector 62 and other major IT and commercial centers via the Noida Metro Aqua Line or well-maintained roads. Travel time typically ranges from 20 to 30 minutes depending on peak traffic conditions. This proximity is a significant factor driving demand for a Flat For Rent in Sector 39 among working professionals."
       },
-      { 
-        "question": "What are the average monthly maintenance charges in Sector 39 apartment complexes", 
-        "answer": "Maintenance charges vary based on the society’s amenities, the size of the flat, and the services included. For a standard 2 BHK or 3 BHK flat in a reputed complex, the charges can range between INR 2500 and INR 5000 per month. These fees usually cover common area electricity, lift maintenance, security services, garbage disposal, and upkeep of parks and club facilities." 
+      {
+        "question": "What are the average monthly maintenance charges in Sector 39 apartment complexes",
+        "answer": "Maintenance charges vary based on the society’s amenities, the size of the flat, and the services included. For a standard 2 BHK or 3 BHK flat in a reputed complex, the charges can range between INR 2500 and INR 5000 per month. These fees usually cover common area electricity, lift maintenance, security services, garbage disposal, and upkeep of parks and club facilities."
       },
-      { 
-        "question": "Is it difficult to find pet-friendly Flat For Rent in Sector 39 Noida", 
-        "answer": "Finding a pet-friendly rental flat can sometimes be challenging, but it is certainly possible in Sector 39. Owners of independent floors or builder floors are often more flexible. Within large gated communities, pet policies are dictated by the Residents Welfare Association (RWA) and may involve restrictions on pet size or breed. It is crucial to disclose pet ownership upfront and get written consent from the landlord to avoid future disputes." 
+      {
+        "question": "Is it difficult to find pet-friendly Flat For Rent in Sector 39 Noida",
+        "answer": "Finding a pet-friendly rental flat can sometimes be challenging, but it is certainly possible in Sector 39. Owners of independent floors or builder floors are often more flexible. Within large gated communities, pet policies are dictated by the Residents Welfare Association (RWA) and may involve restrictions on pet size or breed. It is crucial to disclose pet ownership upfront and get written consent from the landlord to avoid future disputes."
       },
-      { 
-        "question": "What lease duration is standard for residential flats in Sector 39", 
-        "answer": "The most common lease duration for residential properties, including a Flat For Rent in Sector 39, is 11 months, renewable thereafter. This 11-month agreement avoids certain complexities under rent control laws. However, landlords sometimes agree to a 12-month lease or even longer tenure, especially for reliable corporate tenants. Ensure the renewal clause and rent escalation rate are clearly defined." 
+      {
+        "question": "What lease duration is standard for residential flats in Sector 39",
+        "answer": "The most common lease duration for residential properties, including a Flat For Rent in Sector 39, is 11 months, renewable thereafter. This 11-month agreement avoids certain complexities under rent control laws. However, landlords sometimes agree to a 12-month lease or even longer tenure, especially for reliable corporate tenants. Ensure the renewal clause and rent escalation rate are clearly defined."
       },
-      { 
-        "question": "Are there good markets and shopping areas accessible from Sector 39", 
-        "answer": "Yes, Sector 39 is highly convenient for shopping. Local sector markets provide daily essentials, groceries, and services. Furthermore, major retail hubs like Atta Market and the prominent Sector 18 commercial hub and mall district are just a short drive away, offering everything from luxury brands to entertainment options." 
+      {
+        "question": "Are there good markets and shopping areas accessible from Sector 39",
+        "answer": "Yes, Sector 39 is highly convenient for shopping. Local sector markets provide daily essentials, groceries, and services. Furthermore, major retail hubs like Atta Market and the prominent Sector 18 commercial hub and mall district are just a short drive away, offering everything from luxury brands to entertainment options."
       },
-      { 
-        "question": "What documentation is required to finalize a rental agreement in Sector 39", 
-        "answer": "Typically, tenants need to provide government-issued identity proof such as Aadhar Card or Passport, address proof, and PAN Card. If employed, employment verification or salary slips may also be required. Additionally, police verification of the tenant is mandatory in Noida and is usually coordinated by the landlord or property manager after the agreement signing." 
+      {
+        "question": "What documentation is required to finalize a rental agreement in Sector 39",
+        "answer": "Typically, tenants need to provide government-issued identity proof such as Aadhar Card or Passport, address proof, and PAN Card. If employed, employment verification or salary slips may also be required. Additionally, police verification of the tenant is mandatory in Noida and is usually coordinated by the landlord or property manager after the agreement signing."
       },
-      { 
-        "question": "How often is the rent typically increased upon lease renewal in Sector 39 Noida", 
-        "answer": "Rental increase policies are subject to negotiation but generally follow market standards. The typical annual rent escalation rate upon renewal is between 5% and 10%. This rate should be mutually agreed upon and explicitly mentioned within the initial lease agreement to prevent any misunderstandings or unexpected hikes when seeking renewal for your Flat For Rent in Sector 39." 
+      {
+        "question": "How often is the rent typically increased upon lease renewal in Sector 39 Noida",
+        "answer": "Rental increase policies are subject to negotiation but generally follow market standards. The typical annual rent escalation rate upon renewal is between 5% and 10%. This rate should be mutually agreed upon and explicitly mentioned within the initial lease agreement to prevent any misunderstandings or unexpected hikes when seeking renewal for your Flat For Rent in Sector 39."
       },
-      { 
-        "question": "Can I find independent houses for rent in Sector 39 or only society apartments", 
-        "answer": "Sector 39 offers a mix of residential options. While modern high-rise societies are abundant, the sector also features older, established residential blocks and colonies where independent houses or builder floors are available for rent. These independent options often appeal to tenants seeking more space, greater privacy, and control over property modifications, subject to landlord approval." 
+      {
+        "question": "Can I find independent houses for rent in Sector 39 or only society apartments",
+        "answer": "Sector 39 offers a mix of residential options. While modern high-rise societies are abundant, the sector also features older, established residential blocks and colonies where independent houses or builder floors are available for rent. These independent options often appeal to tenants seeking more space, greater privacy, and control over property modifications, subject to landlord approval."
       }
     ]
   },
@@ -155,6 +206,11 @@
       "Ready to secure your ideal rental home in one of Noida’s most esteemed sectors Get in touch with our specialized property advisors today. We simplify the complex process of finding, verifying, and leasing the perfect property.",
       "Submit your requirements below and let us deliver personalized property recommendations that match your exact budget, size needs, and preferred amenities in Sector 39 Noida."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

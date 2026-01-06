@@ -7,12 +7,18 @@
       "Explore exclusive listings from top-tier developers ensuring quality construction world-class amenities and unparalleled security. Investing in a flat here means securing a future in a vibrant community with excellent connectivity to major business hubs schools and hospitals. Start your journey today and let us guide you to the perfect residential sanctuary in Sector 83 Gurugram."
     ],
     "buttons": [
-      { "label": "Browse Verified Listings Now", "path": "/listings" },
-      { "label": "Request a Free Consultation", "path": "/contact" }
+      {
+        "label": "Browse Verified Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Free Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "flat-for-sale-sector-83-faridabad-hero.jpg",
-      "luxury-apartment-sector-83-view.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "The connectivity benefits not only travel but also lifestyle with major shopping malls educational institutions and healthcare facilities located within a short drive. Understanding the surrounding landscape helps buyers appreciate the full value proposition of securing a Flat For Sale in Sector 83 Gurugram ensuring you are always close to everything you need."
     ],
     "locations": [
-      "Sector 82 Gurugram",
-      "Sector 84 Gurugram",
-      "Sector 85 Gurugram",
-      "Sector 75 Gurugram",
-      "BPTP Parklands",
-      "NHPC Chowk Metro Station Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

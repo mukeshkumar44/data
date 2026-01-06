@@ -7,10 +7,19 @@
       "Searching for a house for rent in Sherpur Village should be simple and stress-free. Our listings are verified, ensuring transparency and reliability for every prospective tenant. Explore properties near major schools, healthcare facilities, and local markets, guaranteeing convenience right outside your doorstep. Start your search now and secure a high-quality, affordable home in this rapidly developing neighborhood."
     ],
     "buttons": [
-      { "label": "Explore Available Rental Houses", "path": "/available-rentals" },
-      { "label": "Contact Us for Personalized Search", "path": "/contact-us" }
+      {
+        "label": "Explore Available Rental Houses",
+        "path": "/available-rentals"
+      },
+      {
+        "label": "Contact Us for Personalized Search",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["/images/sherpur-village-house-exterior.jpg", "/images/sherpur-rentals-map.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Selection of Quality Houses Available For Rent in Sherpur Village Ambala",
@@ -19,12 +28,30 @@
       "Our inventory constantly updates with new and attractive houses for rent across different segments of Sherpur Village Ambala. Each listing includes detailed photographs, virtual tours where available, and clear rental terms. We are dedicated to helping you move into a safe and comfortable home without unnecessary delays or hidden costs. Review the popular rental categories below to begin your tailored search."
     ],
     "features": [
-      { "title": "1 BHK Compact Homes", "description": "Ideal for single professionals, students, or small couples looking for an affordable House For Rent in Sherpur Village. These units offer essential living space, a separate kitchen, and often include basic utilities access. Perfect for budget-conscious tenants who prioritize location and security over excessive space." },
-      { "title": "2 BHK Family Apartments", "description": "The most sought-after rental type, 2 BHK houses provide optimal space for nuclear families. Enjoy two bedrooms, a common hall, and dedicated storage areas. Many 2 BHK units in Sherpur Village Ambala are semi-furnished, reducing your initial move-in costs and effort." },
-      { "title": "3 BHK Spacious Houses", "description": "If you require extra room for a home office, a guest room, or a growing family, our 3 BHK houses are the answer. These independent homes or larger floor apartments offer maximum privacy and ample area for comfortable living. Look for listings that include dedicated parking and small backyard access." },
-      { "title": "Independent Kothi Rentals", "description": "Experience superior privacy and luxury with an Independent Kothi for rent. These properties often feature multiple floors, expansive living rooms, and private outdoor space. This option is best suited for large extended families or tenants who prefer complete autonomy and residential exclusivity in Sherpur Village." },
-      { "title": "Fully Furnished Options", "description": "Save time and money by selecting a fully furnished house for rent. These properties come equipped with necessary furniture, appliances, and sometimes even kitchenware. Perfect for corporate transfers or individuals seeking a hassle-free, move-in ready solution in Sherpur Village Ambala." },
-      { "title": "Budget Friendly Studio Rentals", "description": "Studio apartments or small independent rooms offer the lowest entry point for renting in this area. While compact, these rentals provide self-contained living units, making them highly economical for students or individuals prioritizing low monthly expenditure and proximity to key transit points." }
+      {
+        "title": "1 BHK Compact Homes",
+        "description": "Ideal for single professionals, students, or small couples looking for an affordable House For Rent in Sherpur Village. These units offer essential living space, a separate kitchen, and often include basic utilities access. Perfect for budget-conscious tenants who prioritize location and security over excessive space."
+      },
+      {
+        "title": "2 BHK Family Apartments",
+        "description": "The most sought-after rental type, 2 BHK houses provide optimal space for nuclear families. Enjoy two bedrooms, a common hall, and dedicated storage areas. Many 2 BHK units in Sherpur Village Ambala are semi-furnished, reducing your initial move-in costs and effort."
+      },
+      {
+        "title": "3 BHK Spacious Houses",
+        "description": "If you require extra room for a home office, a guest room, or a growing family, our 3 BHK houses are the answer. These independent homes or larger floor apartments offer maximum privacy and ample area for comfortable living. Look for listings that include dedicated parking and small backyard access."
+      },
+      {
+        "title": "Independent Kothi Rentals",
+        "description": "Experience superior privacy and luxury with an Independent Kothi for rent. These properties often feature multiple floors, expansive living rooms, and private outdoor space. This option is best suited for large extended families or tenants who prefer complete autonomy and residential exclusivity in Sherpur Village."
+      },
+      {
+        "title": "Fully Furnished Options",
+        "description": "Save time and money by selecting a fully furnished house for rent. These properties come equipped with necessary furniture, appliances, and sometimes even kitchenware. Perfect for corporate transfers or individuals seeking a hassle-free, move-in ready solution in Sherpur Village Ambala."
+      },
+      {
+        "title": "Budget Friendly Studio Rentals",
+        "description": "Studio apartments or small independent rooms offer the lowest entry point for renting in this area. While compact, these rentals provide self-contained living units, making them highly economical for students or individuals prioritizing low monthly expenditure and proximity to key transit points."
+      }
     ]
   },
   "locationsSection": {
@@ -34,12 +61,56 @@
       "We provide rentals near the main road for excellent connectivity, closer to local schools for family convenience, and quieter inner lanes for a more peaceful residential experience. Our map tools allow you to visualize property distance from key points of interest, ensuring you make an informed decision about the exact spot you choose to live in within the village."
     ],
     "locations": [
-      "Rentals Near Sherpur Village Main Road",
-      "Homes close to Government Senior Secondary School Sherpur",
-      "Affordable Houses near Sherpur Local Market",
-      "Properties with Easy Access to Ambala City",
-      "Residential Pockets in Old Sherpur Village",
-      "New Construction Houses for Rent near Village Outskirts"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -49,30 +120,84 @@
       "Our commitment goes beyond just listing properties we ensure high standards of tenant-landlord interactions, clear documentation, and ongoing support. Choose us for a seamless, secure, and satisfactory rental experience finding your ideal House For Rent in Sherpur Village Ambala."
     ],
     "points": [
-      { "title": "Superior Affordability", "description": "Rental rates in Sherpur Village are significantly more competitive than centralized sectors of Ambala City, allowing you to save substantially on monthly expenditure. This affordability does not compromise quality, providing excellent value for spacious and well-maintained properties suitable for long-term residency." },
-      { "title": "Excellent Connectivity to Ambala City", "description": "Sherpur Village enjoys robust connectivity via well-maintained roads and public transport options. Commuting to key business hubs, educational institutions, or Ambala Cantt is quick and efficient, making it a practical choice for daily travel needs across the wider Ambala region." },
-      { "title": "Peaceful Community Environment", "description": "Unlike the hustle and bustle of major city centers, Sherpur Village retains a calm and family-friendly atmosphere. Renters here benefit from a safer, more communal living experience with friendly neighbors and less noise pollution, enhancing overall quality of life." },
-      { "title": "Proximity to Essential Services", "description": "All necessary amenities are close by including grocery stores, pharmacies, local medical clinics, and quality educational institutes like local schools. You rarely need to travel far for daily errands or emergency services when you choose a House For Rent in Sherpur Village Ambala." },
-      { "title": "Verified and Transparent Listings", "description": "We ensure every House For Rent in Sherpur Village listed on our platform is physically verified and accurately represented. Our process guarantees clear rental agreements, transparent deposit rules, and fair tenant-landlord negotiations, removing uncertainty from the leasing process." },
-      { "title": "Variety of Housing Options", "description": "From newly constructed flats to traditional independent houses, the village offers a wide range of property styles and sizes. Whether you need a simple studio or a multi-story Kothi, you will find options that match both your budget and your specific residential requirements." },
-      { "title": "Dedicated Tenant Support", "description": "Our team provides dedicated support throughout your tenancy period. We assist with maintenance requests, lease renewals, and dispute resolution, ensuring a smooth and uninterrupted stay in your chosen Sherpur Village rental home." },
-      { "title": "Growing Infrastructure Investment", "description": "Sherpur Village is experiencing continuous infrastructure development, including improved roads and utilities. Renting here means moving into an area that is progressively enhancing its civic amenities, promising better convenience in the years to come." }
+      {
+        "title": "Superior Affordability",
+        "description": "Rental rates in Sherpur Village are significantly more competitive than centralized sectors of Ambala City, allowing you to save substantially on monthly expenditure. This affordability does not compromise quality, providing excellent value for spacious and well-maintained properties suitable for long-term residency."
+      },
+      {
+        "title": "Excellent Connectivity to Ambala City",
+        "description": "Sherpur Village enjoys robust connectivity via well-maintained roads and public transport options. Commuting to key business hubs, educational institutions, or Ambala Cantt is quick and efficient, making it a practical choice for daily travel needs across the wider Ambala region."
+      },
+      {
+        "title": "Peaceful Community Environment",
+        "description": "Unlike the hustle and bustle of major city centers, Sherpur Village retains a calm and family-friendly atmosphere. Renters here benefit from a safer, more communal living experience with friendly neighbors and less noise pollution, enhancing overall quality of life."
+      },
+      {
+        "title": "Proximity to Essential Services",
+        "description": "All necessary amenities are close by including grocery stores, pharmacies, local medical clinics, and quality educational institutes like local schools. You rarely need to travel far for daily errands or emergency services when you choose a House For Rent in Sherpur Village Ambala."
+      },
+      {
+        "title": "Verified and Transparent Listings",
+        "description": "We ensure every House For Rent in Sherpur Village listed on our platform is physically verified and accurately represented. Our process guarantees clear rental agreements, transparent deposit rules, and fair tenant-landlord negotiations, removing uncertainty from the leasing process."
+      },
+      {
+        "title": "Variety of Housing Options",
+        "description": "From newly constructed flats to traditional independent houses, the village offers a wide range of property styles and sizes. Whether you need a simple studio or a multi-story Kothi, you will find options that match both your budget and your specific residential requirements."
+      },
+      {
+        "title": "Dedicated Tenant Support",
+        "description": "Our team provides dedicated support throughout your tenancy period. We assist with maintenance requests, lease renewals, and dispute resolution, ensuring a smooth and uninterrupted stay in your chosen Sherpur Village rental home."
+      },
+      {
+        "title": "Growing Infrastructure Investment",
+        "description": "Sherpur Village is experiencing continuous infrastructure development, including improved roads and utilities. Renting here means moving into an area that is progressively enhancing its civic amenities, promising better convenience in the years to come."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Finding a House For Rent in Sherpur Village",
     "description": "Get detailed answers to common inquiries regarding lease terms, security deposits, property types, and legal considerations when renting residential property in Sherpur Village Ambala.",
     "faqs": [
-      { "question": "What is the typical rental agreement duration in Sherpur Village Ambala", "answer": "Most rental agreements for residential houses in Sherpur Village are signed for an initial period of 11 months. This is the standard practice for rental leases in Ambala to avoid extensive stamp duty requirements associated with full one-year leases. However, long-term tenants often have the option to renew the lease for consecutive 11-month periods or negotiate a longer 12-month lease with necessary legal registrations, depending on the landlord's preference and your commitment." },
-      { "question": "How much security deposit is usually required for a rental house here", "answer": "The standard security deposit for a House For Rent in Sherpur Village typically ranges from one to two months worth of rent. This amount is refundable upon vacating the premises, provided the tenant adheres to all terms of the rental agreement, including clearing utility bills and returning the property without significant damage beyond normal wear and tear. Always clarify the exact refund timeline and conditions before signing the agreement." },
-      { "question": "Are utility charges included in the monthly rent in Sherpur Village", "answer": "In almost all cases, utility charges like electricity, water, and gas are separate from the quoted monthly rent. The rent generally covers only the cost of using the physical space. Tenants are responsible for paying their own utility bills based on consumption. Some shared rental accommodations might include water charges, but electricity meters are typically separate or read monthly to determine individual tenant contribution." },
-      { "question": "What documentation is needed to secure a rental property in Sherpur Village", "answer": "To successfully lease a House For Rent in Sherpur Village Ambala, you will typically need to provide valid photo identification such as an Aadhaar Card or Passport, proof of current employment or student enrollment, and references if required by the landlord. Both the tenant and the landlord must provide recent passport-sized photographs for the preparation of the formal rental agreement document." },
-      { "question": "Are pet-friendly rental houses easily available in Sherpur Village", "answer": "Pet-friendly rental houses are available but they are less common and often require explicit prior approval from the property owner. If you have pets, it is crucial to state this requirement upfront during your search. Landlords who accept pets may ask for a slightly higher security deposit or an additional non-refundable pet fee to cover potential wear and tear caused by animals." },
-      { "question": "Can I negotiate the monthly rent for houses in Sherpur Village Ambala", "answer": "Yes, rent negotiation is often possible, especially if you commit to a longer lease term or if the property has been vacant for some time. We encourage potential tenants to make a reasonable offer. Our agents are skilled negotiators who can help facilitate a mutually agreeable price between you and the property owner for the House For Rent in Sherpur Village." },
-      { "question": "What is the notice period required before vacating a rental home", "answer": "The standard notice period specified in rental agreements across Ambala, including Sherpur Village, is one month. This means the tenant must inform the landlord or property manager in writing at least 30 days before the intended date of moving out. Failure to provide adequate notice might result in the forfeiture of a portion of your security deposit." },
-      { "question": "Are there furnished and unfurnished options in Sherpur Village rentals", "answer": "Sherpur Village offers a healthy mix of both furnished and unfurnished rental properties. Unfurnished houses are generally cheaper and allow tenants to customize the space. Semi-furnished options are common, often including essential fixtures like fans, lighting, and basic kitchen cabinets. Fully furnished units are convenient but command a higher rental price." },
-      { "question": "Is Sherpur Village safe for families and late-night commuting", "answer": "Sherpur Village is widely considered a safe and peaceful residential area in Ambala. The community environment is supportive, and the general crime rate is low. The proximity to the main road and improved street lighting ensures safe late-night commuting, providing peace of mind for families and working individuals renting here." },
-      { "question": "Do I need to pay a brokerage fee to rent a house through your service", "answer": "Yes, standard brokerage charges apply for facilitating the rental transaction. Typically, this fee is equivalent to half a month's rent or one full month's rent, payable once the rental agreement is successfully executed. Our fee covers professional property inspection, legal documentation preparation, and successful negotiation on your behalf for the House For Rent in Sherpur Village Ambala." }
+      {
+        "question": "What is the typical rental agreement duration in Sherpur Village Ambala",
+        "answer": "Most rental agreements for residential houses in Sherpur Village are signed for an initial period of 11 months. This is the standard practice for rental leases in Ambala to avoid extensive stamp duty requirements associated with full one-year leases. However, long-term tenants often have the option to renew the lease for consecutive 11-month periods or negotiate a longer 12-month lease with necessary legal registrations, depending on the landlord's preference and your commitment."
+      },
+      {
+        "question": "How much security deposit is usually required for a rental house here",
+        "answer": "The standard security deposit for a House For Rent in Sherpur Village typically ranges from one to two months worth of rent. This amount is refundable upon vacating the premises, provided the tenant adheres to all terms of the rental agreement, including clearing utility bills and returning the property without significant damage beyond normal wear and tear. Always clarify the exact refund timeline and conditions before signing the agreement."
+      },
+      {
+        "question": "Are utility charges included in the monthly rent in Sherpur Village",
+        "answer": "In almost all cases, utility charges like electricity, water, and gas are separate from the quoted monthly rent. The rent generally covers only the cost of using the physical space. Tenants are responsible for paying their own utility bills based on consumption. Some shared rental accommodations might include water charges, but electricity meters are typically separate or read monthly to determine individual tenant contribution."
+      },
+      {
+        "question": "What documentation is needed to secure a rental property in Sherpur Village",
+        "answer": "To successfully lease a House For Rent in Sherpur Village Ambala, you will typically need to provide valid photo identification such as an Aadhaar Card or Passport, proof of current employment or student enrollment, and references if required by the landlord. Both the tenant and the landlord must provide recent passport-sized photographs for the preparation of the formal rental agreement document."
+      },
+      {
+        "question": "Are pet-friendly rental houses easily available in Sherpur Village",
+        "answer": "Pet-friendly rental houses are available but they are less common and often require explicit prior approval from the property owner. If you have pets, it is crucial to state this requirement upfront during your search. Landlords who accept pets may ask for a slightly higher security deposit or an additional non-refundable pet fee to cover potential wear and tear caused by animals."
+      },
+      {
+        "question": "Can I negotiate the monthly rent for houses in Sherpur Village Ambala",
+        "answer": "Yes, rent negotiation is often possible, especially if you commit to a longer lease term or if the property has been vacant for some time. We encourage potential tenants to make a reasonable offer. Our agents are skilled negotiators who can help facilitate a mutually agreeable price between you and the property owner for the House For Rent in Sherpur Village."
+      },
+      {
+        "question": "What is the notice period required before vacating a rental home",
+        "answer": "The standard notice period specified in rental agreements across Ambala, including Sherpur Village, is one month. This means the tenant must inform the landlord or property manager in writing at least 30 days before the intended date of moving out. Failure to provide adequate notice might result in the forfeiture of a portion of your security deposit."
+      },
+      {
+        "question": "Are there furnished and unfurnished options in Sherpur Village rentals",
+        "answer": "Sherpur Village offers a healthy mix of both furnished and unfurnished rental properties. Unfurnished houses are generally cheaper and allow tenants to customize the space. Semi-furnished options are common, often including essential fixtures like fans, lighting, and basic kitchen cabinets. Fully furnished units are convenient but command a higher rental price."
+      },
+      {
+        "question": "Is Sherpur Village safe for families and late-night commuting",
+        "answer": "Sherpur Village is widely considered a safe and peaceful residential area in Ambala. The community environment is supportive, and the general crime rate is low. The proximity to the main road and improved street lighting ensures safe late-night commuting, providing peace of mind for families and working individuals renting here."
+      },
+      {
+        "question": "Do I need to pay a brokerage fee to rent a house through your service",
+        "answer": "Yes, standard brokerage charges apply for facilitating the rental transaction. Typically, this fee is equivalent to half a month's rent or one full month's rent, payable once the rental agreement is successfully executed. Our fee covers professional property inspection, legal documentation preparation, and successful negotiation on your behalf for the House For Rent in Sherpur Village Ambala."
+      }
     ]
   },
   "contactSection": {
@@ -81,6 +206,11 @@
       "Ready to move into your new home in Sherpur Village Ambala We are here to simplify the entire rental process for you. Our property specialists possess deep local market knowledge and can provide real-time updates on the best available houses for rent that match your specific criteria.",
       "Use the form below to share your requirements including budget, required size, and preferred move-in date. We guarantee a prompt response and personalized assistance to ensure you find the perfect House For Rent in Sherpur Village quickly and efficiently."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

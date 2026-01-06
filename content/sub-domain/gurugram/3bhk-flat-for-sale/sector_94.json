@@ -7,10 +7,19 @@
       "We specialize in bringing you vetted listings of 3BHK apartments that meet high standards of construction quality and architectural finesse. Explore residences that boast modern interiors, ample natural light, and access to world-class facilities right within the complex. This is your definitive opportunity to invest in a location known for rapid appreciation and unparalleled convenience in the New Gurugram area. Let us help you unlock the door to sophisticated urban living today."
     ],
     "buttons": [
-      { "label": "Get Exclusive Price List", "path": "/price-list" },
-      { "label": "Schedule Site Visit", "path": "/schedule-visit" }
+      {
+        "label": "Get Exclusive Price List",
+        "path": "/price-list"
+      },
+      {
+        "label": "Schedule Site Visit",
+        "path": "/schedule-visit"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse 3BHK Apartment Configurations and Exclusive Layout Features in Gurugram",
@@ -52,14 +61,56 @@
       "This exceptional placement significantly eases the daily commute for professionals working in major employment centers like Cyber City or IMT Manesar. Furthermore, residents of 3BHK flats here enjoy easy and rapid access to world-class educational institutions, advanced multispecialty hospitals, and premium retail destinations located just minutes away. This vibrant, well-connected ecosystem contributes substantially to the high demand and strong future prospects for 3BHK flats for sale in Sector 94."
     ],
     "locations": [
-      "Dwarka Expressway Access",
-      "NH-48 proximity",
-      "Sector 93 Residential Hub",
-      "Manesar Industrial Area",
-      "Pataudi Road Intersection",
-      "Commercial Malls near Sector 95",
-      "IGI Airport Link Road",
-      "IMT Manesar Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Securing a premium 3BHK flat for sale in Sector 94 Gurugram requires unparalleled expertise and timely, insider insights into the best currently available inventory. Our dedicated real estate advisors possess deep, localized market knowledge of Gurugram and are ready to guide you through every critical step of the selection, negotiation, and purchase process.",
       "Contact us now to receive personalized, high-resolution project brochures, detailed unit floor plans, and exclusive, non-public pricing information meticulously tailored to your family's specific lifestyle and investment needs. Start your journey towards owning a luxury apartment today."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

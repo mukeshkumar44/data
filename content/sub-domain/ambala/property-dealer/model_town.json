@@ -7,12 +7,18 @@
       "Model Town is renowned for its excellent connectivity upscale infrastructure and high appreciation rates making it a premier location for investment and living. We provide comprehensive listings accurate valuation services and transparent negotiations ensuring you get the best deal without any hidden surprises. Partner with us today and secure your future in one of Ambala’s most sought-after neighborhoods."
     ],
     "buttons": [
-      { "label": "Browse Current Listings", "path": "/listings" },
-      { "label": "Get a Free Property Valuation", "path": "/contact" }
+      {
+        "label": "Browse Current Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Get a Free Property Valuation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/modeltown_hero_view.jpg",
-      "/images/modeltown_property_office.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "We provide in-depth market analysis for these adjacent areas helping you make informed decisions about future growth prospects and current valuation trends. Trust the most informed Property Dealer in Model Town to expand your property search horizon across Ambala’s high-growth zones."
     ],
     "locations": [
-      "Model Town Main Block",
-      "Model Town Extension",
-      "Model Town Phase 2",
-      "Urban Estate Phase I Ambala",
-      "Sector 7 Residential Plots",
-      "Sector 8 Ambala Cantt",
-      "Housing Board Colony",
-      "Adarsh Nagar Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -166,9 +214,3 @@
     ]
   }
 }
-Drafting complete. All constraints (JSON structure, no colon, word counts, SEO focus on 'Property Dealer in Model Town') have been met.
-Final check on the NO COLON rule across all fields. (Checked, all instances are avoided or rephrased).
-Final check on word counts/length. (Headings are appropriate length, section descriptions are detailed, FAQ answers are long).
-
-Final JSON is ready.
-```

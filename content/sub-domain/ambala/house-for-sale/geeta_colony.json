@@ -7,10 +7,19 @@
       "Finding the right house requires expert knowledge and local insight. Our dedicated team provides comprehensive guidance from property selection to final registration ensuring a seamless and transparent buying experience. Explore our exclusive collection of houses ranging from cozy 2 BHK units to sprawling 4 BHK homes all located in secure and well-connected parts of Geeta Colony. Start your search now and invest wisely in a valuable piece of East Delhi real estate."
     ],
     "buttons": [
-      { "label": "View All House Listings", "path": "/listings" },
-      { "label": "Schedule a Site Visit Now", "path": "/contact" }
+      {
+        "label": "View All House Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit Now",
+        "path": "/contact"
+      }
     ],
-    "images": ["house_geeta_colony_1.jpg", "map_geeta_colony.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse House Types and Plot Configurations in Geeta Colony East Delhi",
@@ -52,14 +61,56 @@
       "The locality is strategically positioned providing quick access to major landmarks. This convenient location ensures that commuting for work education or leisure is always stress-free adding significant appeal to the residential properties here. We help you find houses that maximize both internal comfort and external accessibility."
     ],
     "locations": [
-      "Laxmi Nagar",
-      "Shakarpur",
-      "Karkardooma",
-      "Mayur Vihar",
-      "Preet Vihar",
-      "Nirman Vihar",
-      "Yamuna Bank Metro Station",
-      "Akshardham Temple proximity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to find the perfect house in the heart of East Delhi? Contact our specialist property consultants today. We offer personalized services dedicated to matching your needs with the best available properties in Geeta Colony.",
       "Submit your details below and a Geeta Colony real estate expert will be in touch within hours to discuss your requirements schedule viewings and answer any specific questions you may have."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

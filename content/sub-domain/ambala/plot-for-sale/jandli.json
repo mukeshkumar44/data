@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "jandli-plot-view-1.jpg",
-      "jandli-neighborhood.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "Residents of Jandli benefit from rapid access to top-rated educational institutions world-class healthcare facilities and major shopping complexes all reachable within a short and easy drive. Investing in property here means enjoying the serenity of suburban peace without sacrificing access to crucial urban amenities. We only highlight plots that offer the best balance between quiet residential streetscapes and immediate proximity to primary commercial routes guaranteeing long-term satisfaction and convenience for all homeowners."
     ],
     "locations": [
-      "Ambala Cantt Railway Station Proximity",
-      "Direct NH 44 National Highway Access",
-      "Reputed Schools and Colleges nearby",
-      "Well-developed Local Market Hubs",
-      "Rapid connectivity to Ambala City Center",
-      "Easy access to Health and Wellness Centers"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

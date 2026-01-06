@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "house_exterior_sector41.jpg",
-      "sector41_streetview.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The area is self-sufficient with excellent social infrastructure including premium shopping destinations, international standard schools like Amity International School, and top healthcare facilities like Max Hospital and Artemis. Investing in a house here ensures you are never far from convenience, maximizing both quality of life and future property appreciation. This balance of peace and urban accessibility makes buying a house in Sector 41 an intelligent long-term investment."
     ],
     "locations": [
-      "HUDA City Centre Metro Station",
-      "M G Road Shopping Hub",
-      "Golf Course Road Business District",
-      "Sector 40 Residential Colony",
-      "Artemis Hospital",
-      "NH-48 Connectivity",
-      "Amity International School",
-      "Galleria Market"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

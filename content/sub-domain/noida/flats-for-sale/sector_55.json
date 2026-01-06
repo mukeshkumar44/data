@@ -7,12 +7,18 @@
       "Explore our exclusive listings of verified properties including luxurious 2BHK and 3BHK flats designed for modern urban living. Each flat for sale in Sector 55 guarantees superior construction ample natural light and access to world-class amenities like swimming pools fitness centres and secure parking. Secure your dream home in this thriving locality with excellent future growth prospects and established social infrastructure."
     ],
     "buttons": [
-      { "label": "View Available Flats", "path": "/listings" },
-      { "label": "Get Free Consultation", "path": "/contact" }
+      {
+        "label": "View Available Flats",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Free Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "flat_sector55_hero1.jpg",
-      "flat_sector55_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,13 +61,56 @@
       "The location’s strength lies in its excellent road network and easy accessibility to the DND Flyway and major arterial roads making commuting straightforward regardless of your destination within Noida or Delhi NCR."
     ],
     "locations": [
-      "Sector 56 Noida",
-      "Sector 57 Noida",
-      "Sector 62 Noida",
-      "Sector 51 Noida",
-      "Indirapuram Ghaziabad",
-      "Vaishali Ghaziabad",
-      "Shipra Sun City"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -157,6 +206,11 @@
       "Ready to move into your ideal apartment in one of Noida’s most sought-after sectors. Contact our expert real estate advisors today for personalized property recommendations transparent pricing details and site visit arrangements.",
       "We simplify the buying process providing you with verified listings and professional negotiation support ensuring you get the best value for your investment in Sector 55 Noida."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

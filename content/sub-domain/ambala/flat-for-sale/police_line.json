@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-image-police-line-1.jpg",
-      "hero-image-police-line-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The strategic location near key government institutions and administrative centers adds to the prestige and inherent security of the area Whether you require immediate access to quality schools healthcare or retail centers everything you need is just a short drive away from your new Flat For Sale in Police Line"
     ],
     "locations": [
-      "Ambala Cantt Railway Station Road",
-      "Civil Lines Residential Area",
-      "Proximity to Major Hospitals and Clinics",
-      "Easy Access to National Highway 44",
-      "Shopping Malls and Entertainment Zones",
-      "Central Ambala Bus Stand Connectivity",
-      "Educational Institutions and Reputable Schools",
-      "Government Administrative Offices"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

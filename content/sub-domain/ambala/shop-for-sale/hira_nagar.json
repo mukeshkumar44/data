@@ -1,4 +1,3 @@
-
 {
   "domain": "",
   "hero": {
@@ -8,10 +7,19 @@
       "Located in the heart of Hira Nagar, this property is surrounded by residential colonies, markets, and essential amenities. Whether you're an entrepreneur or an investor, this shop promises great returns and a thriving business environment."
     ],
     "buttons": [
-      { "label": "Book a Site Visit", "path": "/" },
-      { "label": "Contact Us Now", "path": "/" }
+      {
+        "label": "Book a Site Visit",
+        "path": "/"
+      },
+      {
+        "label": "Contact Us Now",
+        "path": "/"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Our Shop For Sale in Hira Nagar Ambala",
@@ -20,12 +28,30 @@
       "Whether you’re planning to start a retail store, a café, or a professional office, this shop offers the flexibility and convenience you need to succeed."
     ],
     "features": [
-      { "title": "Prime Location", "description": "Situated in the heart of Hira Nagar Ambala, this shop ensures high visibility and easy accessibility for customers and clients." },
-      { "title": "Spacious Interiors", "description": "The shop offers ample space to accommodate your business needs, ensuring comfort and functionality." },
-      { "title": "Modern Amenities", "description": "Equipped with modern facilities, this shop provides a seamless experience for both business owners and customers." },
-      { "title": "High Footfall Area", "description": "Located in a bustling commercial zone, this shop guarantees a steady flow of customers, boosting your business potential." },
-      { "title": "Flexible Layout", "description": "The shop’s versatile design allows you to customize the space according to your business requirements." },
-      { "title": "Secure Environment", "description": "The property is located in a secure neighborhood, ensuring safety for your business and customers." }
+      {
+        "title": "Prime Location",
+        "description": "Situated in the heart of Hira Nagar Ambala, this shop ensures high visibility and easy accessibility for customers and clients."
+      },
+      {
+        "title": "Spacious Interiors",
+        "description": "The shop offers ample space to accommodate your business needs, ensuring comfort and functionality."
+      },
+      {
+        "title": "Modern Amenities",
+        "description": "Equipped with modern facilities, this shop provides a seamless experience for both business owners and customers."
+      },
+      {
+        "title": "High Footfall Area",
+        "description": "Located in a bustling commercial zone, this shop guarantees a steady flow of customers, boosting your business potential."
+      },
+      {
+        "title": "Flexible Layout",
+        "description": "The shop’s versatile design allows you to customize the space according to your business requirements."
+      },
+      {
+        "title": "Secure Environment",
+        "description": "The property is located in a secure neighborhood, ensuring safety for your business and customers."
+      }
     ]
   },
   "locationsSection": {
@@ -35,14 +61,56 @@
       "These areas are well-connected and offer easy access to markets, schools, hospitals, and other essential amenities."
     ],
     "locations": [
-      "Ambala Cantt",
-      "Sector 7 Ambala",
-      "Sector 8 Ambala",
-      "Sector 9 Ambala",
-      "Model Town Ambala",
-      "Rajendra Nagar Ambala",
-      "Rattan Nagar Ambala",
-      "Shastri Nagar Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -52,30 +120,84 @@
       "Our team is dedicated to helping you find the ideal commercial space to meet your needs and achieve your business goals."
     ],
     "points": [
-      { "title": "Strategic Location", "description": "The shop is located in a high-demand area, ensuring maximum visibility and customer reach." },
-      { "title": "Excellent ROI", "description": "With its prime location and high footfall, this shop promises excellent returns on your investment." },
-      { "title": "Customizable Space", "description": "The shop’s flexible layout allows you to design the space to suit your business needs." },
-      { "title": "Modern Infrastructure", "description": "The property is equipped with modern facilities, ensuring a comfortable and efficient business environment." },
-      { "title": "Secure Neighborhood", "description": "Located in a safe and well-maintained area, this shop ensures peace of mind for business owners and customers." },
-      { "title": "Proximity to Amenities", "description": "The shop is close to markets, schools, hospitals, and other essential services, adding to its convenience." },
-      { "title": "Expert Support", "description": "Our team provides end-to-end assistance, from property selection to legal formalities." },
-      { "title": "Competitive Pricing", "description": "Our shop for sale is priced competitively, offering great value for your investment." }
+      {
+        "title": "Strategic Location",
+        "description": "The shop is located in a high-demand area, ensuring maximum visibility and customer reach."
+      },
+      {
+        "title": "Excellent ROI",
+        "description": "With its prime location and high footfall, this shop promises excellent returns on your investment."
+      },
+      {
+        "title": "Customizable Space",
+        "description": "The shop’s flexible layout allows you to design the space to suit your business needs."
+      },
+      {
+        "title": "Modern Infrastructure",
+        "description": "The property is equipped with modern facilities, ensuring a comfortable and efficient business environment."
+      },
+      {
+        "title": "Secure Neighborhood",
+        "description": "Located in a safe and well-maintained area, this shop ensures peace of mind for business owners and customers."
+      },
+      {
+        "title": "Proximity to Amenities",
+        "description": "The shop is close to markets, schools, hospitals, and other essential services, adding to its convenience."
+      },
+      {
+        "title": "Expert Support",
+        "description": "Our team provides end-to-end assistance, from property selection to legal formalities."
+      },
+      {
+        "title": "Competitive Pricing",
+        "description": "Our shop for sale is priced competitively, offering great value for your investment."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shop For Sale in Hira Nagar Ambala",
     "description": "Here are some common questions and answers to help you understand more about our shop for sale in Hira Nagar Ambala.",
     "faqs": [
-      { "question": "What is the size of the shop for sale in Hira Nagar Ambala", "answer": "The shop is available in various sizes to meet your business needs. Contact us for detailed specifications." },
-      { "question": "Is the shop located in a commercial zone", "answer": "Yes, the shop is situated in a prime commercial area, ensuring high visibility and footfall." },
-      { "question": "What amenities are provided with the shop", "answer": "The shop comes with modern amenities, including electricity, water supply, and parking facilities." },
-      { "question": "Can I customize the shop’s layout", "answer": "Yes, the shop’s flexible design allows you to customize the space according to your business requirements." },
-      { "question": "Is the area secure for business operations", "answer": "Absolutely. The shop is located in a secure neighborhood, ensuring safety for your business and customers." },
-      { "question": "What are the nearby facilities", "answer": "The shop is close to markets, schools, hospitals, and other essential amenities, adding to its convenience." },
-      { "question": "How can I schedule a site visit", "answer": "You can book a site visit by contacting our team. We’ll arrange a convenient time for you." },
-      { "question": "What is the pricing of the shop", "answer": "The shop is competitively priced. Contact us for detailed pricing information." },
-      { "question": "Is financing available for the purchase", "answer": "Yes, we offer flexible financing options to make your purchase easier." },
-      { "question": "What is the process for purchasing the shop", "answer": "Our team will guide you through the entire process, from property selection to legal formalities." }
+      {
+        "question": "What is the size of the shop for sale in Hira Nagar Ambala",
+        "answer": "The shop is available in various sizes to meet your business needs. Contact us for detailed specifications."
+      },
+      {
+        "question": "Is the shop located in a commercial zone",
+        "answer": "Yes, the shop is situated in a prime commercial area, ensuring high visibility and footfall."
+      },
+      {
+        "question": "What amenities are provided with the shop",
+        "answer": "The shop comes with modern amenities, including electricity, water supply, and parking facilities."
+      },
+      {
+        "question": "Can I customize the shop’s layout",
+        "answer": "Yes, the shop’s flexible design allows you to customize the space according to your business requirements."
+      },
+      {
+        "question": "Is the area secure for business operations",
+        "answer": "Absolutely. The shop is located in a secure neighborhood, ensuring safety for your business and customers."
+      },
+      {
+        "question": "What are the nearby facilities",
+        "answer": "The shop is close to markets, schools, hospitals, and other essential amenities, adding to its convenience."
+      },
+      {
+        "question": "How can I schedule a site visit",
+        "answer": "You can book a site visit by contacting our team. We’ll arrange a convenient time for you."
+      },
+      {
+        "question": "What is the pricing of the shop",
+        "answer": "The shop is competitively priced. Contact us for detailed pricing information."
+      },
+      {
+        "question": "Is financing available for the purchase",
+        "answer": "Yes, we offer flexible financing options to make your purchase easier."
+      },
+      {
+        "question": "What is the process for purchasing the shop",
+        "answer": "Our team will guide you through the entire process, from property selection to legal formalities."
+      }
     ]
   },
   "contactSection": {
@@ -84,6 +206,11 @@
       "Ready to invest in your dream shop? Contact us today to learn more about our shop for sale in Hira Nagar Ambala.",
       "Our team is here to assist you with all your queries and guide you through the purchase process."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

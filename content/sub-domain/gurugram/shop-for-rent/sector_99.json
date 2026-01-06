@@ -7,10 +7,19 @@
       "We offer a curated selection of premium rental properties designed to maximize your visibility and operational efficiency. Explore high-traffic locations, various floor plans, and flexible lease terms tailored to meet diverse business needs. Start your journey toward securing a prime commercial address right now and capitalize on the immense growth potential of Sector 99 and the greater Gurugram region."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/listings" },
-      { "label": "Schedule a Consultation", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/shop-front-sector99.jpg", "/images/commercial-hub-faridabad.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Spaces and Shop Types Available For Lease in Sector 99",
@@ -52,12 +61,56 @@
       "Our listings often include commercial shops situated near key arterial roads, connecting Sector 99 to sectors like 98, 100, and the upcoming transportation hubs, ensuring smooth logistics and ease of access for customers and employees alike. Explore how the connectivity of this location can significantly amplify your business reach."
     ],
     "locations": [
-      "Sector 100 Commercial Strip",
-      "Proximity to Bypass Road",
-      "Sector 98 Residential Blocks",
-      "Nearby Institutional Areas",
-      "Commercial Complex Sector 99",
-      "Future Metro Corridor Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to secure the perfect location for your business? Our expert team is prepared to guide you through the best commercial Shop For Rent in Sector 99.",
       "Fill out the form below to receive a customized portfolio of listings tailored exactly to your size requirements, budget constraints, and business goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

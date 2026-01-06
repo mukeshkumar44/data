@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "house_balana_hero1.jpg",
-      "balana_street_view.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "Whether you frequently commute to Ambala Cantt for official work or need quick access to the markets in Ambala City our insights ensure you rent a house that serves all your logistical requirements. Our goal is to connect you with the best available residential property in and around Balana Ambala providing location-specific information and local expertise."
     ],
     "locations": [
-      "Ambala Cantt Railway Station Road",
-      "Ambala City Main Highways",
-      "Near Sector 8 Residential Area",
-      "Sadar Bazar Commercial Hub",
-      "Mahesh Nagar Colonies",
-      "Panchkula-Ambala Highway Access Points"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

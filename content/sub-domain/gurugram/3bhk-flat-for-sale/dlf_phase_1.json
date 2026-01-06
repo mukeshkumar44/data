@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero_dlf_phase1_3bhk_1.jpg",
-      "hero_dlf_phase1_3bhk_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "This phase acts as a gateway connecting the older residential areas with the ultra-modern business districts. Residents benefit from immediate access to world-class educational institutions specialized healthcare facilities and upscale retail and dining experiences at DLF Mega Mall and Horizon Centre. Investing here means investing in convenience security and a well-established affluent neighborhood fabric that supports a high-quality urban life for all members of the family."
     ],
     "locations": [
-      "DLF Cyber City",
-      "Sikanderpur Metro Station",
-      "MG Road",
-      "Golf Course Road",
-      "Indira Gandhi International Airport IGI",
-      "DLF Phase 4",
-      "Fortis Memorial Research Institute",
-      "American Montessori Public School"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

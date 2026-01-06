@@ -7,10 +7,19 @@
       "Whether you are searching for a compact 1 BHK apartment a spacious 3 BHK luxury residence or a newly built builder floor we have options tailored to meet every requirement and budget. Explore properties that boast modern amenities robust security systems and superior connectivity to major commercial hubs and NH-19. Secure your dream home investment in sector 11 Gurugram today by exploring our handpicked verified properties and scheduling a personalized site visit."
     ],
     "buttons": [
-      { "label": "Explore 2 BHK Flats", "path": "/2bhk-flats" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "Explore 2 BHK Flats",
+        "path": "/2bhk-flats"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Outstanding Residential Flat Configurations Available Now in Sector 11",
@@ -52,14 +61,56 @@
       "The connectivity to the Delhi-Mathura Road NH-19 and the proximity to the Old Gurugram Metro Station make Sector 11 a highly desirable address ensuring seamless travel to Delhi Noida and Gurugram. This strategic advantage significantly enhances the long-term appreciation potential of any flat purchased here."
     ],
     "locations": [
-      "Old Gurugram Metro Station Access",
-      "Proximity to NH-19 Delhi-Mathura Road",
-      "Sector 12 Institutional Area",
-      "Crown Plaza Mall and Entertainment",
-      "Eros EF3 Mall",
-      "St Columbas School and Modern School",
-      "Metro Hospital and Asian Hospital",
-      "Gurugram Railway Station Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure your perfect flat for sale in sector 11 Gurugram Our team of seasoned real estate professionals is here to provide personalized advice market insights and arrange exclusive viewings of verified properties.",
       "Do not miss out on premium opportunities in this highly sought-after sector. Submit your details now and start your hassle-free home-buying journey with us."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

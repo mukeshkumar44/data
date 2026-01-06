@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "arya_nagar_house_exterior.jpg",
-      "rohtak_residential_view.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "Prospective buyers often appreciate how quickly they can access essential services. Key educational institutions, advanced medical facilities, and vibrant local markets are just minutes away. This neighborhood structure supports a secure and convenient lifestyle ideal for modern families. When evaluating a House For Sale in Arya Nagar, understanding its local connections to these neighboring areas helps gauge future growth and rental yield potential. Explore the key nearby locations that enhance the desirability of living here."
     ],
     "locations": [
-      "Sector 1 Rohtak",
-      "Civil Lines Rohtak",
-      "Medical College Road",
-      "Rohtak Railway Station Area",
-      "Sheela Bypass Rohtak",
-      "Sunaria Chowk Market"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

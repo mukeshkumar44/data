@@ -7,12 +7,18 @@
       "Our agents understand the micro-market trends, project specifics, and legal nuances of Sector 74 ensuring you receive accurate pricing and seamless closure. Avoid lengthy searches and potential pitfalls by choosing a professional dedicated to achieving your property goals. Start your journey with the best property consultants Sector 74 has to offer."
     ],
     "buttons": [
-      { "label": "Find Your Expert Agent Now", "path": "/contact-us" },
-      { "label": "View Sector 74 Listings", "path": "/listings" }
+      {
+        "label": "Find Your Expert Agent Now",
+        "path": "/contact-us"
+      },
+      {
+        "label": "View Sector 74 Listings",
+        "path": "/listings"
+      }
     ],
     "images": [
-      "image/sector74_hero1.jpg",
-      "image/sector74_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "This extended coverage ensures that if your ideal property requirements fall just outside Sector 74, our agents can still provide localized expertise and access to exclusive listings quickly and efficiently, maximizing your property search scope."
     ],
     "locations": [
-      "Sector 75 Noida",
-      "Sector 76 Noida",
-      "Sector 78 Noida",
-      "Sector 119 Noida",
-      "Sector 120 Noida",
-      "FNG Expressway Connectivity",
-      "Noida Expressway Investment Zones",
-      "Central Noida Property Market"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

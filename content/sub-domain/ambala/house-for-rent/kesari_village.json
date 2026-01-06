@@ -7,10 +7,19 @@
       "Renting a house in Kesari Village offers unparalleled connectivity to major parts of Ambala while providing a peaceful community atmosphere Forget the stress of endless searching Our dedicated team simplifies the process offering clear terms transparent pricing and personalized viewings Start your journey today and step into your ideal new home located right here in desirable Kesari Village Ambala"
     ],
     "buttons": [
-      { "label": "Explore Available Houses", "path": "/listings" },
-      { "label": "Contact Rental Specialist", "path": "/contact" }
+      {
+        "label": "Explore Available Houses",
+        "path": "/listings"
+      },
+      {
+        "label": "Contact Rental Specialist",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/kesari-house-hero-1.jpg", "/images/kesari-house-hero-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Range of House For Rent Options Tailored to Your Family Needs",
@@ -52,14 +61,56 @@
       "Explore neighboring areas and key landmarks that make living in Kesari Village Ambala exceptionally convenient whether you commute to the city center or require regular access to the Ambala Cantonment area rental living here puts you right where you need to be"
     ],
     "locations": [
-      "Ambala Cantonment (Ambala Cantt)",
-      "Ambala City",
-      "Sector 7 Ambala",
-      "Sadar Bazaar Ambala Cantt",
-      "Patiala Road Ambala",
-      "NH 44 Connectivity",
-      "Baldev Nagar Ambala",
-      "Model Town Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to find the perfect rental home We are here to help you navigate the Kesari Village rental market and secure the ideal property that meets all your needs Contact our expert rental team now to schedule viewings get customized property recommendations or discuss your specific requirements",
       "Send us a message using the form below and a dedicated real estate specialist will reach out promptly We ensure a hassle-free and professional experience in finding your next House For Rent in Ambala"
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

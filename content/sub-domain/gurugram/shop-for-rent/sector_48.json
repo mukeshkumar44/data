@@ -7,10 +7,19 @@
       "Finding the perfect retail location is crucial for success and Sector 48 provides the ideal blend of affluent residential catchment and accessibility via major highways. Explore our comprehensive portfolio of ready-to-move shops available for lease. Our expert team ensures a smooth transaction process providing you with all the legal and locational insights needed to make an informed investment decision in this vibrant area. Start your search today for the best commercial space in Sector 48 Gurugram."
     ],
     "buttons": [
-      { "label": "View Available Retail Shops", "path": "/listings" },
-      { "label": "Schedule a Site Visit Now", "path": "/contact" }
+      {
+        "label": "View Available Retail Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit Now",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero-shop-sector48-1.jpg", "hero-shop-sector48-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Property Types Available for Rent in Sector 48 Gurugram",
@@ -52,12 +61,56 @@
       "We highlight nearby commercial hubs and connectivity advantages that contribute to the robust business environment of Sector 48. Understanding the local economic ecosystem is vital for forecasting footfall and identifying your target audience whether they are residents from adjacent sectors or professionals commuting through the area. This location is a powerful choice for sustained commercial growth."
     ],
     "locations": [
-      "Sector 47 Residential Hub",
-      "Sector 49 Industrial Area",
-      "Badkhal Lake Metro Station Access",
-      "Nahar Singh Stadium Road Connectivity",
-      "Pali-Dabua Road Commercial Corridor",
-      "Proximity to National Highway 19 (NH-19)"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to position your business for success in one of Gurugram’s most promising commercial zones. Contact our specialized leasing team today to discuss your requirements and access exclusive listings that are perfectly tailored to your business needs.",
       "We provide expert guidance valuation analysis and complete transactional support ensuring your journey to renting the ideal commercial space in Sector 48 is seamless and efficient."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

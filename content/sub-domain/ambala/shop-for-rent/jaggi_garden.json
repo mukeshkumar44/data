@@ -7,10 +7,19 @@
       "Our listings include shops of various sizes and layouts, ensuring you find the ideal space for your requirements. With competitive pricing and flexible lease options, securing your shop in Jaggi Garden has never been easier. Explore our curated selection today and take the first step toward growing your business."
     ],
     "buttons": [
-      { "label": "Explore Shops", "path": "/shops" },
-      { "label": "Contact Us", "path": "/contact" }
+      {
+        "label": "Explore Shops",
+        "path": "/shops"
+      },
+      {
+        "label": "Contact Us",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Shops for Rent in Jaggi Garden Ambala",
@@ -19,12 +28,30 @@
       "With modern amenities, easy accessibility, and a thriving market, Jaggi Garden is the ideal place to establish your business. Browse our available shops and find the perfect space to grow your brand."
     ],
     "features": [
-      { "title": "Compact Shops", "description": "Ideal for small businesses, these shops offer efficient use of space with modern amenities." },
-      { "title": "Medium-Sized Shops", "description": "Perfect for growing businesses, these shops provide ample space for retail and storage." },
-      { "title": "Large Retail Spaces", "description": "Designed for established brands, these shops offer expansive layouts and high visibility." },
-      { "title": "Corner Shops", "description": "Located at prime intersections, these shops ensure maximum footfall and exposure." },
-      { "title": "Shops Near Markets", "description": "Close to bustling markets, these spaces offer easy access to a large customer base." },
-      { "title": "Shops with Parking", "description": "Convenient for customers, these shops include dedicated parking facilities." }
+      {
+        "title": "Compact Shops",
+        "description": "Ideal for small businesses, these shops offer efficient use of space with modern amenities."
+      },
+      {
+        "title": "Medium-Sized Shops",
+        "description": "Perfect for growing businesses, these shops provide ample space for retail and storage."
+      },
+      {
+        "title": "Large Retail Spaces",
+        "description": "Designed for established brands, these shops offer expansive layouts and high visibility."
+      },
+      {
+        "title": "Corner Shops",
+        "description": "Located at prime intersections, these shops ensure maximum footfall and exposure."
+      },
+      {
+        "title": "Shops Near Markets",
+        "description": "Close to bustling markets, these spaces offer easy access to a large customer base."
+      },
+      {
+        "title": "Shops with Parking",
+        "description": "Convenient for customers, these shops include dedicated parking facilities."
+      }
     ]
   },
   "locationsSection": {
@@ -34,14 +61,56 @@
       "Explore these areas and find the perfect spot to establish your business. Each location offers unique advantages, ensuring your shop thrives in a competitive market."
     ],
     "locations": [
-      "Ambala Cantt",
-      "Model Town",
-      "Sector 7",
-      "Sector 8",
-      "Sector 9",
-      "Naraingarh Road",
-      "Railway Road",
-      "Old GT Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -51,30 +120,84 @@
       "With a thriving market and excellent infrastructure, Jaggi Garden ensures your business gets the exposure and support it needs to succeed."
     ],
     "points": [
-      { "title": "Prime Location", "description": "Jaggi Garden is strategically located, ensuring high visibility and footfall for your shop." },
-      { "title": "Modern Infrastructure", "description": "Our shops are equipped with modern amenities, providing a comfortable and efficient space for your business." },
-      { "title": "Competitive Pricing", "description": "We offer affordable rental rates, making it easier for businesses to establish themselves in Jaggi Garden." },
-      { "title": "Flexible Lease Options", "description": "Choose from a variety of lease terms to suit your business needs and financial plans." },
-      { "title": "Proximity to Markets", "description": "Close to bustling markets, your shop will benefit from a steady stream of customers." },
-      { "title": "Excellent Connectivity", "description": "Jaggi Garden is well-connected to major roads and transportation hubs, ensuring easy access for customers." },
-      { "title": "Thriving Business Community", "description": "Join a vibrant community of businesses and enjoy mutual growth opportunities." },
-      { "title": "Dedicated Support", "description": "Our team provides end-to-end assistance, from finding the right shop to handling legal formalities." }
+      {
+        "title": "Prime Location",
+        "description": "Jaggi Garden is strategically located, ensuring high visibility and footfall for your shop."
+      },
+      {
+        "title": "Modern Infrastructure",
+        "description": "Our shops are equipped with modern amenities, providing a comfortable and efficient space for your business."
+      },
+      {
+        "title": "Competitive Pricing",
+        "description": "We offer affordable rental rates, making it easier for businesses to establish themselves in Jaggi Garden."
+      },
+      {
+        "title": "Flexible Lease Options",
+        "description": "Choose from a variety of lease terms to suit your business needs and financial plans."
+      },
+      {
+        "title": "Proximity to Markets",
+        "description": "Close to bustling markets, your shop will benefit from a steady stream of customers."
+      },
+      {
+        "title": "Excellent Connectivity",
+        "description": "Jaggi Garden is well-connected to major roads and transportation hubs, ensuring easy access for customers."
+      },
+      {
+        "title": "Thriving Business Community",
+        "description": "Join a vibrant community of businesses and enjoy mutual growth opportunities."
+      },
+      {
+        "title": "Dedicated Support",
+        "description": "Our team provides end-to-end assistance, from finding the right shop to handling legal formalities."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shops For Rent in Jaggi Garden Ambala",
     "description": "Have questions about renting a shop in Jaggi Garden Ambala? We’ve got you covered. Here are some common queries and their answers to help you make an informed decision.",
     "faqs": [
-      { "question": "What types of shops are available for rent in Jaggi Garden", "answer": "We offer a variety of shops, including compact spaces, medium-sized shops, and large retail outlets. Each shop is equipped with modern amenities to suit your business needs." },
-      { "question": "What is the average rental cost for shops in Jaggi Garden", "answer": "Rental costs vary depending on the size and location of the shop. Our team can provide detailed pricing information based on your requirements." },
-      { "question": "Are there shops available near markets in Jaggi Garden", "answer": "Yes, we have shops located close to bustling markets, ensuring high footfall and visibility for your business." },
-      { "question": "Can I negotiate the lease terms for shops in Jaggi Garden", "answer": "Yes, we offer flexible lease options and are open to negotiations to ensure the terms suit your business needs." },
-      { "question": "What amenities are included with the shops for rent", "answer": "Our shops come with modern amenities such as electricity, water supply, parking facilities, and security services." },
-      { "question": "How do I apply for a shop for rent in Jaggi Garden", "answer": "Simply contact our team, and we’ll guide you through the application process, including property visits and lease agreements." },
-      { "question": "Is Jaggi Garden a good location for retail businesses", "answer": "Absolutely. Jaggi Garden is a thriving commercial hub with excellent connectivity, making it an ideal location for retail businesses." },
-      { "question": "Can I visit the shops before finalizing the rent", "answer": "Yes, we encourage property visits to ensure you’re satisfied with the space before making a decision." },
-      { "question": "What support is available for new businesses in Jaggi Garden", "answer": "Our team provides end-to-end support, including assistance with legal formalities and connecting you with local business networks." },
-      { "question": "Are there shops available for short-term leases", "answer": "Yes, we offer flexible lease options, including short-term leases, to accommodate your business needs." }
+      {
+        "question": "What types of shops are available for rent in Jaggi Garden",
+        "answer": "We offer a variety of shops, including compact spaces, medium-sized shops, and large retail outlets. Each shop is equipped with modern amenities to suit your business needs."
+      },
+      {
+        "question": "What is the average rental cost for shops in Jaggi Garden",
+        "answer": "Rental costs vary depending on the size and location of the shop. Our team can provide detailed pricing information based on your requirements."
+      },
+      {
+        "question": "Are there shops available near markets in Jaggi Garden",
+        "answer": "Yes, we have shops located close to bustling markets, ensuring high footfall and visibility for your business."
+      },
+      {
+        "question": "Can I negotiate the lease terms for shops in Jaggi Garden",
+        "answer": "Yes, we offer flexible lease options and are open to negotiations to ensure the terms suit your business needs."
+      },
+      {
+        "question": "What amenities are included with the shops for rent",
+        "answer": "Our shops come with modern amenities such as electricity, water supply, parking facilities, and security services."
+      },
+      {
+        "question": "How do I apply for a shop for rent in Jaggi Garden",
+        "answer": "Simply contact our team, and we’ll guide you through the application process, including property visits and lease agreements."
+      },
+      {
+        "question": "Is Jaggi Garden a good location for retail businesses",
+        "answer": "Absolutely. Jaggi Garden is a thriving commercial hub with excellent connectivity, making it an ideal location for retail businesses."
+      },
+      {
+        "question": "Can I visit the shops before finalizing the rent",
+        "answer": "Yes, we encourage property visits to ensure you’re satisfied with the space before making a decision."
+      },
+      {
+        "question": "What support is available for new businesses in Jaggi Garden",
+        "answer": "Our team provides end-to-end support, including assistance with legal formalities and connecting you with local business networks."
+      },
+      {
+        "question": "Are there shops available for short-term leases",
+        "answer": "Yes, we offer flexible lease options, including short-term leases, to accommodate your business needs."
+      }
     ]
   },
   "contactSection": {
@@ -83,6 +206,11 @@
       "Ready to find your perfect shop in Jaggi Garden Ambala? Contact us today to explore available listings and schedule a visit.",
       "Our team is here to assist you with every step, ensuring a seamless experience as you secure your ideal retail space."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

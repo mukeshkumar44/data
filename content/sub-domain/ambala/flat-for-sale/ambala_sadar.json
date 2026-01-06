@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Features of Apartments and Flats Available in Ambala Sadar Ambala",
@@ -58,14 +61,56 @@
       "Areas near prominent landmarks like the Ambala Central Jail road, key sectors close to the main railway station, and established residential colonies all offer unique advantages. Some neighborhoods boast better, quicker access to the NH 44 corridor, while others are strongly preferred for their serene environment and their closeness to top-tier schools and recreational parks. We provide detailed, up-to-date analysis of property pricing trends and potential rental yields for flats in these specific Ambala Sadar neighborhoods, helping you make a localized and highly informed purchase decision today."
     ],
     "locations": [
-      "Patel Nagar Ambala Sadar",
-      "Near Manav Chowk Ambala",
-      "Baldev Nagar Residential Area",
-      "Model Town Flats Ambala",
-      "Urban Estate Ambala Sadar",
-      "Areas near Ambala Central Jail",
-      "Sector 7 Ambala Residential",
-      "Old Grain Market Road Apartments"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

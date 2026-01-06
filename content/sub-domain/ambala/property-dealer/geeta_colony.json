@@ -7,10 +7,19 @@
       "We streamline the entire process from property valuation and listing to negotiation and final documentation. Trust our seasoned professionals to provide transparent dealings and tailored solutions that meet your unique real estate goals in Geeta Colony. Start your search with the top property expert today."
     ],
     "buttons": [
-      { "label": "Explore Property Listings", "path": "/listings" },
-      { "label": "Request Free Consultation", "path": "/contact" }
+      {
+        "label": "Explore Property Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Free Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["geeta_colony_skyline.jpg", "real_estate_agent_geeta_colony.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Diverse Residential and Commercial Property Investment Options in Geeta Colony",
@@ -51,7 +60,58 @@
       "Our deep geographical focus ensures that whether you are looking specifically within Geeta Colony or exploring adjacent high-demand areas we have the perfect listing for you. Understanding the micro-market differences between blocks and neighboring areas like Laxmi Nagar or Shahdara is essential for accurate valuation and optimal investment. We don't just sell property we sell informed location choices.",
       "Our property dealer services cover all phases and blocks ensuring detailed street-level knowledge. We help you understand local connectivity public transport access and proximity to schools and essential services which dramatically influence property values in East Delhi. Let us unlock the potential of well-placed real estate for you."
     ],
-    "locations": ["Block 1 to Block 20 Geeta Colony", "Laxmi Nagar Residential Areas", "Shahdara Main Market Property", "Shastri Nagar East Delhi", "Krishna Nagar Residential Pockets", "Gandhi Nagar Commercial Hub", "Preet Vihar Investment Plots", "Patparganj Industrial Area Access"]
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Why We Are The Leading Property Dealer in Geeta Colony Expert Local Knowledge Trustworthy Service",
@@ -146,6 +206,11 @@
       "Ready to buy sell or rent property in Geeta Colony We provide immediate consultations and expert guidance tailored to your specific real estate ambitions. Contact our experienced property dealer team today for a confidential discussion about the current market climate and how we can achieve your financial goals.",
       "We look forward to partnering with you to unlock the best property opportunities East Delhi has to offer."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

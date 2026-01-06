@@ -17,7 +17,8 @@
       }
     ],
     "images": [
-      "hero-image-sector-68-commercial.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -60,14 +61,56 @@
       "When securing a shop for rent in Sector 68 consider the proximity to the industrial areas which drives daytime population or major transport links ensuring easy access for both employees and customers. Our listings are categorized by these commercial vectors giving you a clear advantage in site selection and ensuring your business is placed right in the path of rapid growth and high consumer engagement."
     ],
     "locations": [
-      "Sector 67 Commercial Market Hub",
-      "Neharpar Industrial Area Connectivity",
-      "BPTP Bridge Road Retail Strip",
-      "Sainik Colony Market Proximity",
-      "Sector 69 Mixed Use Complex",
-      "Green Field Colony Retail Zone",
-      "Greater Gurugram Commercial Belt Access",
-      "Old Gurugram Connectivity Point"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

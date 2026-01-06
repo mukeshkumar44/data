@@ -7,10 +7,19 @@
       "Discover exclusive ready-to-move houses villas and high-end residential properties tailored to meet diverse lifestyle requirements. Investing here means securing a future in one of Gurugram’s most promising sectors known for its planned infrastructure and upscale community living. Let us guide you through the best available listings and make your home buying journey straightforward and successful."
     ],
     "buttons": [
-      { "label": "Explore Ready-to-Move Properties", "path": "/properties/sector-78/ready-to-move" },
-      { "label": "Download Latest Price List", "path": "/contact" }
+      {
+        "label": "Explore Ready-to-Move Properties",
+        "path": "/properties/sector-78/ready-to-move"
+      },
+      {
+        "label": "Download Latest Price List",
+        "path": "/contact"
+      }
     ],
-    "images": ["/img/hero-sector78-house.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Outstanding Residential Configurations and Property Types in Sector 78 Gurugram",
@@ -19,29 +28,29 @@
       "Whether you are looking for an independent builder floor a spacious villa or an affordable plot for customization our listings in Sector 78 provide comprehensive options. Explore these popular property size categories which reflect different dwelling types suitable for various family sizes and budgetary requirements."
     ],
     "features": [
-      { 
-        "title": "4 Marla Plot Starter Homes", 
-        "description": "Ideal for nuclear families or young professionals looking for their first independent house. These smaller yet efficiently designed homes offer comfortable living spaces and maximize utility. They represent an excellent entry point into the Sector 78 Gurugram real estate market providing affordability without compromising connectivity or essential amenities." 
+      {
+        "title": "4 Marla Plot Starter Homes",
+        "description": "Ideal for nuclear families or young professionals looking for their first independent house. These smaller yet efficiently designed homes offer comfortable living spaces and maximize utility. They represent an excellent entry point into the Sector 78 Gurugram real estate market providing affordability without compromising connectivity or essential amenities."
       },
-      { 
-        "title": "6 Marla Plot Independent Floors", 
-        "description": "A popular choice offering more spacious layouts often featuring 3 BHK or 4 BHK configurations on independent builder floors. This size is perfect for families desiring privacy and a dedicated parking space while still enjoying the benefits of a gated community or a well-developed sector. These houses blend convenience with a sophisticated lifestyle." 
+      {
+        "title": "6 Marla Plot Independent Floors",
+        "description": "A popular choice offering more spacious layouts often featuring 3 BHK or 4 BHK configurations on independent builder floors. This size is perfect for families desiring privacy and a dedicated parking space while still enjoying the benefits of a gated community or a well-developed sector. These houses blend convenience with a sophisticated lifestyle."
       },
-      { 
-        "title": "8 Marla Plot Duplex Houses", 
-        "description": "These properties typically allow for expansive duplex designs providing generous living dining and bedroom areas. Houses built on 8 Marla plots often include servant quarters a dedicated home office space and a small private garden perfect for large joint families. Experience true luxury living near the convenience of NH-48." 
+      {
+        "title": "8 Marla Plot Duplex Houses",
+        "description": "These properties typically allow for expansive duplex designs providing generous living dining and bedroom areas. Houses built on 8 Marla plots often include servant quarters a dedicated home office space and a small private garden perfect for large joint families. Experience true luxury living near the convenience of NH-48."
       },
-      { 
-        "title": "10 Marla Plot Premium Villas", 
-        "description": "For those seeking ultimate luxury and space the 10 Marla category offers premium villas and bespoke customized houses. Expect high-end finishes personalized interior design and world-class amenities within the immediate vicinity. Investing here guarantees prestige and long-term capital appreciation in Sector 78." 
+      {
+        "title": "10 Marla Plot Premium Villas",
+        "description": "For those seeking ultimate luxury and space the 10 Marla category offers premium villas and bespoke customized houses. Expect high-end finishes personalized interior design and world-class amenities within the immediate vicinity. Investing here guarantees prestige and long-term capital appreciation in Sector 78."
       },
-      { 
-        "title": "12 Marla Plot Residential Plots", 
-        "description": "While houses are prominent plots of this size are available for buyers who wish to design and construct their dream residence from scratch. A 12 Marla plot provides substantial room for expansive construction and elaborate landscaping ensuring your home perfectly matches your architectural vision and lifestyle needs." 
+      {
+        "title": "12 Marla Plot Residential Plots",
+        "description": "While houses are prominent plots of this size are available for buyers who wish to design and construct their dream residence from scratch. A 12 Marla plot provides substantial room for expansive construction and elaborate landscaping ensuring your home perfectly matches your architectural vision and lifestyle needs."
       },
-      { 
-        "title": "14 Marla Plot Mansion Style Homes", 
-        "description": "Representing the pinnacle of luxury these large properties are typically located in the most exclusive pockets of Sector 78 Gurugram. They are suitable for building grand mansion-style homes often including private pools specialized entertainment rooms and extensive green spaces ensuring unparalleled exclusivity and opulence." 
+      {
+        "title": "14 Marla Plot Mansion Style Homes",
+        "description": "Representing the pinnacle of luxury these large properties are typically located in the most exclusive pockets of Sector 78 Gurugram. They are suitable for building grand mansion-style homes often including private pools specialized entertainment rooms and extensive green spaces ensuring unparalleled exclusivity and opulence."
       }
     ]
   },
@@ -52,14 +61,56 @@
       "Furthermore Sector 78 is closely linked to the proposed KMP Expressway and the Southern Peripheral Road SPR which are major growth corridors. This excellent infrastructure connectivity not only simplifies daily life but also substantially boosts the investment potential for anyone looking to Buy House in Sector 78. Explore the surrounding areas that contribute to its high residential desirability."
     ],
     "locations": [
-      "NH-48 Access Point",
-      "Sector 77 Residential Hub",
-      "Sector 79 Development Corridor",
-      "Manesar Industrial Area",
-      "KMP Expressway Link",
-      "Vatika India Next Township",
-      "Major Educational Institutions Nearby",
-      "Upcoming Metro Corridor Extensions"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -69,37 +120,37 @@
       "We highlight eight compelling reasons supported by market data and resident feedback that solidify Sector 78 as the premier choice for property buyers in the New Gurugram region. Make an informed decision by understanding the distinct advantages this sector offers over comparable localities."
     ],
     "points": [
-      { 
-        "title": "Outstanding Infrastructure Development", 
-        "description": "Sector 78 features broad roads efficient drainage systems and established utility services minimizing common urban issues. The planned development ensures smooth traffic flow and accessibility making daily commuting a stress-free experience for homeowners and investors alike." 
+      {
+        "title": "Outstanding Infrastructure Development",
+        "description": "Sector 78 features broad roads efficient drainage systems and established utility services minimizing common urban issues. The planned development ensures smooth traffic flow and accessibility making daily commuting a stress-free experience for homeowners and investors alike."
       },
-      { 
-        "title": "Seamless Highway Accessibility", 
-        "description": "Direct and immediate access to NH-48 is a massive advantage connecting Sector 78 to Delhi IGI Airport and major business centers like Cyber Hub and Golf Course Road Extension. This connectivity is paramount for professionals and frequent travelers choosing to reside here." 
+      {
+        "title": "Seamless Highway Accessibility",
+        "description": "Direct and immediate access to NH-48 is a massive advantage connecting Sector 78 to Delhi IGI Airport and major business centers like Cyber Hub and Golf Course Road Extension. This connectivity is paramount for professionals and frequent travelers choosing to reside here."
       },
-      { 
-        "title": "Proximity to Commercial Hubs", 
-        "description": "The sector is strategically close to major corporate offices and the Manesar industrial belt offering reduced travel time for thousands of employees. This proximity drives significant rental demand making investment properties highly attractive." 
+      {
+        "title": "Proximity to Commercial Hubs",
+        "description": "The sector is strategically close to major corporate offices and the Manesar industrial belt offering reduced travel time for thousands of employees. This proximity drives significant rental demand making investment properties highly attractive."
       },
-      { 
-        "title": "Presence of Top Developers", 
-        "description": "Leading real estate builders have established prestigious projects here ensuring high construction quality and timely delivery. Buying from reputable developers guarantees legal compliance superior amenities and better resale value." 
+      {
+        "title": "Presence of Top Developers",
+        "description": "Leading real estate builders have established prestigious projects here ensuring high construction quality and timely delivery. Buying from reputable developers guarantees legal compliance superior amenities and better resale value."
       },
-      { 
-        "title": "Integrated Social Ecosystem", 
-        "description": "Sector 78 is surrounded by reputable schools world-class hospitals and large retail spaces ensuring all daily needs and emergency services are conveniently met. This complete ecosystem supports comfortable family life." 
+      {
+        "title": "Integrated Social Ecosystem",
+        "description": "Sector 78 is surrounded by reputable schools world-class hospitals and large retail spaces ensuring all daily needs and emergency services are conveniently met. This complete ecosystem supports comfortable family life."
       },
-      { 
-        "title": "High Capital Appreciation Potential", 
-        "description": "Due to infrastructural expansion and its location in New Gurugram’s growth corridor the properties here show robust potential for excellent capital value appreciation over the next five to ten years significantly benefiting long-term investors." 
+      {
+        "title": "High Capital Appreciation Potential",
+        "description": "Due to infrastructural expansion and its location in New Gurugram’s growth corridor the properties here show robust potential for excellent capital value appreciation over the next five to ten years significantly benefiting long-term investors."
       },
-      { 
-        "title": "Abundant Green and Open Spaces", 
-        "description": "Despite the rapid development many residential projects prioritize large green areas parks and recreational zones offering residents a refreshing environment away from the city clutter and promoting a healthier lifestyle." 
+      {
+        "title": "Abundant Green and Open Spaces",
+        "description": "Despite the rapid development many residential projects prioritize large green areas parks and recreational zones offering residents a refreshing environment away from the city clutter and promoting a healthier lifestyle."
       },
-      { 
-        "title": "Safe and Secure Gated Communities", 
-        "description": "Many housing options in Sector 78 are within well-managed gated communities featuring 24/7 security surveillance and restricted entry ensuring maximum safety and peace of mind for all residents and their families." 
+      {
+        "title": "Safe and Secure Gated Communities",
+        "description": "Many housing options in Sector 78 are within well-managed gated communities featuring 24/7 security surveillance and restricted entry ensuring maximum safety and peace of mind for all residents and their families."
       }
     ]
   },
@@ -107,45 +158,45 @@
     "title": "Frequently Asked Questions About How to Buy House in Sector 78 Gurugram",
     "description": "Find authoritative answers to the most common queries regarding property buying investment potential legal aspects and residential life in Sector 78 Gurugram. We aim to clarify all doubts before you finalize your purchase.",
     "faqs": [
-      { 
-        "question": "What is the typical price range for houses in Sector 78 Gurugram", 
-        "answer": "The price range varies significantly based on the property type size and the specific developer’s project. Generally starter homes or smaller independent floors can begin around 90 Lakhs while luxury villas and expansive houses on larger plots typically range upwards of 3 Crores. Factors like amenities finishing quality and exact location within the sector influence the final price considerably. It is best to consult with our local experts for real-time pricing data." 
+      {
+        "question": "What is the typical price range for houses in Sector 78 Gurugram",
+        "answer": "The price range varies significantly based on the property type size and the specific developer’s project. Generally starter homes or smaller independent floors can begin around 90 Lakhs while luxury villas and expansive houses on larger plots typically range upwards of 3 Crores. Factors like amenities finishing quality and exact location within the sector influence the final price considerably. It is best to consult with our local experts for real-time pricing data."
       },
-      { 
-        "question": "Are there ready-to-move-in house options available in Sector 78", 
-        "answer": "Yes Sector 78 has a substantial inventory of ready-to-move houses villas and builder floors. Many buyers prefer these options to avoid construction timelines and associated risks allowing for immediate occupancy. We maintain an updated list of all certified RERA-registered ready-to-move properties ensuring a hassle-free handover process and full legal transparency." 
+      {
+        "question": "Are there ready-to-move-in house options available in Sector 78",
+        "answer": "Yes Sector 78 has a substantial inventory of ready-to-move houses villas and builder floors. Many buyers prefer these options to avoid construction timelines and associated risks allowing for immediate occupancy. We maintain an updated list of all certified RERA-registered ready-to-move properties ensuring a hassle-free handover process and full legal transparency."
       },
-      { 
-        "question": "Is Sector 78 a good location for long-term real estate investment", 
-        "answer": "Absolutely Sector 78 is considered one of the prime investment hotspots in the New Gurugram area. Its exceptional connectivity to NH-48 upcoming infrastructure projects and robust demand driven by corporate proximity contribute to strong long-term capital appreciation. Current trends suggest sustained growth making it a favorable choice for sustained wealth creation." 
+      {
+        "question": "Is Sector 78 a good location for long-term real estate investment",
+        "answer": "Absolutely Sector 78 is considered one of the prime investment hotspots in the New Gurugram area. Its exceptional connectivity to NH-48 upcoming infrastructure projects and robust demand driven by corporate proximity contribute to strong long-term capital appreciation. Current trends suggest sustained growth making it a favorable choice for sustained wealth creation."
       },
-      { 
-        "question": "What is the status of social infrastructure like schools and hospitals near Sector 78", 
-        "answer": "The sector benefits from excellent surrounding social infrastructure. Several highly reputed educational institutions and top-tier healthcare facilities are located within a 5 to 15-minute drive. This ensures that families have access to quality education and prompt medical services supporting a complete and convenient urban lifestyle." 
+      {
+        "question": "What is the status of social infrastructure like schools and hospitals near Sector 78",
+        "answer": "The sector benefits from excellent surrounding social infrastructure. Several highly reputed educational institutions and top-tier healthcare facilities are located within a 5 to 15-minute drive. This ensures that families have access to quality education and prompt medical services supporting a complete and convenient urban lifestyle."
       },
-      { 
-        "question": "How is the water and electricity supply managed in houses in this sector", 
-        "answer": "Sector 78 being a planned urban area generally features reliable civic infrastructure. Most residential societies and independent houses benefit from organized supply networks for water and electricity managed either by the HUDA department or through dedicated RWA agreements. Back-up power solutions are common in modern gated communities ensuring minimal disruption." 
+      {
+        "question": "How is the water and electricity supply managed in houses in this sector",
+        "answer": "Sector 78 being a planned urban area generally features reliable civic infrastructure. Most residential societies and independent houses benefit from organized supply networks for water and electricity managed either by the HUDA department or through dedicated RWA agreements. Back-up power solutions are common in modern gated communities ensuring minimal disruption."
       },
-      { 
-        "question": "What are the key documentation requirements for buying property here", 
-        "answer": "Standard documentation includes verification of the Sale Deed Occupancy Certificate Completion Certificate property tax receipts and mutation records. For new projects RERA registration is mandatory. Buyers should also ensure the developer has clear title deeds. Our team assists clients in conducting thorough due diligence to guarantee a smooth and secure transaction." 
+      {
+        "question": "What are the key documentation requirements for buying property here",
+        "answer": "Standard documentation includes verification of the Sale Deed Occupancy Certificate Completion Certificate property tax receipts and mutation records. For new projects RERA registration is mandatory. Buyers should also ensure the developer has clear title deeds. Our team assists clients in conducting thorough due diligence to guarantee a smooth and secure transaction."
       },
-      { 
-        "question": "Can Non-Resident Indians NRI invest in residential property in Sector 78 Gurugram", 
-        "answer": "Yes NRIs are legally permitted to purchase both residential and commercial properties in India including houses in Sector 78 Gurugram. They need to adhere to FEMA regulations regarding property acquisition and repatriating funds. We offer specialized services for NRIs providing end-to-end support for compliance and investment strategy." 
+      {
+        "question": "Can Non-Resident Indians NRI invest in residential property in Sector 78 Gurugram",
+        "answer": "Yes NRIs are legally permitted to purchase both residential and commercial properties in India including houses in Sector 78 Gurugram. They need to adhere to FEMA regulations regarding property acquisition and repatriating funds. We offer specialized services for NRIs providing end-to-end support for compliance and investment strategy."
       },
-      { 
-        "question": "Is bank loan financing easily available for purchasing a house in Sector 78", 
-        "answer": "Since Sector 78 hosts projects by major reputed developers most nationalized and private banks readily offer housing loans for properties here. The availability of financing depends on the property's legal clearance RERA compliance and the buyer’s creditworthiness. We can connect you with leading financial institutions for pre-approved loan options." 
+      {
+        "question": "Is bank loan financing easily available for purchasing a house in Sector 78",
+        "answer": "Since Sector 78 hosts projects by major reputed developers most nationalized and private banks readily offer housing loans for properties here. The availability of financing depends on the property's legal clearance RERA compliance and the buyer’s creditworthiness. We can connect you with leading financial institutions for pre-approved loan options."
       },
-      { 
-        "question": "What types of residential properties are most common in Sector 78", 
-        "answer": "While premium high-rise apartments are prevalent the sector also offers a significant number of independent houses duplex villas and luxury builder floors catering to different preferences. The focus remains on providing low-density living spaces compared to more centrally located sectors of Gurugram." 
+      {
+        "question": "What types of residential properties are most common in Sector 78",
+        "answer": "While premium high-rise apartments are prevalent the sector also offers a significant number of independent houses duplex villas and luxury builder floors catering to different preferences. The focus remains on providing low-density living spaces compared to more centrally located sectors of Gurugram."
       },
-      { 
-        "question": "What is the average rental yield expected from a house in this sector", 
-        "answer": "Given the proximity to major commercial and industrial areas including Manesar the rental demand in Sector 78 is strong particularly for 3 and 4 BHK configurations. Current estimates suggest an average rental yield of 3% to 4% which is competitive for the Gurugram market further cementing its investment appeal." 
+      {
+        "question": "What is the average rental yield expected from a house in this sector",
+        "answer": "Given the proximity to major commercial and industrial areas including Manesar the rental demand in Sector 78 is strong particularly for 3 and 4 BHK configurations. Current estimates suggest an average rental yield of 3% to 4% which is competitive for the Gurugram market further cementing its investment appeal."
       }
     ]
   },
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning your dream house in Sector 78 Gurugram. Our specialized real estate advisors have in-depth local market knowledge and access to exclusive listings not available elsewhere.",
       "Fill out the form below to receive personalized consultation current property valuations and detailed virtual tours. Let us help you navigate the process to Buy House in Sector 78 efficiently and confidently."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,12 +7,18 @@
       "Our team of certified property specialists understands the nuances of local Haryana RERA regulations and property documentation unique to this sector. Whether you are a first-time home buyer looking for a budget-friendly apartment or a serious investor seeking high-yield commercial assets, we provide tailored strategies that align with your financial goals. Partner with us today to secure your future in this highly sought-after area of Gurugram."
     ],
     "buttons": [
-      { "label": "Consult a sector 82 Expert Now", "path": "/contact" },
-      { "label": "View Latest Property Listings", "path": "/listings" }
+      {
+        "label": "Consult a sector 82 Expert Now",
+        "path": "/contact"
+      },
+      {
+        "label": "View Latest Property Listings",
+        "path": "/listings"
+      }
     ],
     "images": [
-      "/images/hero-sector82-agent.webp",
-      "/images/sector82-skyline.webp"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Our Real Estate Agents in sector 82 are highly familiar with all adjacent sectors and major transit points, ensuring we can provide holistic advice on the region. Understanding the local infrastructure plan—including future metro extensions and highway upgrades—is crucial for predicting property trends, and we keep our clients fully informed on all these aspects before they make a commitment."
     ],
     "locations": [
-      "Sector 81",
-      "Sector 83",
-      "BPTP Parklands",
-      "Omaxe New Heights",
-      "Kheri Road",
-      "Neharpar Region",
-      "Delhi-Gurugram Expressway NH-19",
-      "Pali-Bhadkal Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

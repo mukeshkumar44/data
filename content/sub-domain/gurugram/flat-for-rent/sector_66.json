@@ -7,10 +7,19 @@
       "Searching for a rental property can be challenging, but our comprehensive listings simplify the process. We provide verified options ranging from compact 1BHK units perfect for bachelors to spacious 4BHK apartments ideal for large families. Explore verified rental listings in sector 66 ensuring transparency, competitive pricing, and immediate occupancy. Start your rental journey today and discover why sector 66 is the premier residential choice in Gurugram."
     ],
     "buttons": [
-      { "label": "Browse Verified Listings", "path": "/listings" },
-      { "label": "Request a Callback Now", "path": "/contact" }
+      {
+        "label": "Browse Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Callback Now",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "The Best Configuration Options For Flat For Rent in sector 66 Gurugram",
@@ -52,14 +61,56 @@
       "Understanding the micro-localities within sector 66 is crucial for finding a rental flat that matches your commuting needs and lifestyle preferences. We focus on areas known for security, good infrastructure, and proximity to shopping centers, schools, and hospitals, making your transition to sector 66 easy and convenient."
     ],
     "locations": [
-      "Shanti Nagar Rental Zone",
-      "Green View Apartments sector 66",
-      "Omaxe New Heights nearby sector 66",
-      "BPTP Parklands Access Point",
-      "Near Bata Chowk Metro Station Connectivity",
-      "Commercial Hub Proximity Rentals",
-      "sector_67 Residential Extension",
-      "sector_64 Nearby Rental Pockets"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure your ideal rental property in sector 66 Gurugram We offer personalized assistance to match you with flats that meet all your criteria, budget, and timeline.",
       "Fill out the form below to connect with a sector 66 rental specialist. Let us handle the complexities of property negotiation and documentation while you focus on moving into your new home."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

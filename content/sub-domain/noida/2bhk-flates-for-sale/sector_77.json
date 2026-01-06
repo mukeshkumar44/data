@@ -7,10 +7,19 @@
       "A 2BHK flat in Sector 77 represents not just a purchase but a smart investment in a location that guarantees high future growth and steady property appreciation. This sector boasts unparalleled connectivity to major expressways like the FNG and Noida Expressway ensuring quick commutes to Delhi and Greater Noida. Explore our curated listings today featuring verified properties from trusted builders and let our real estate professionals guide you to finding the perfect 2BHK apartment that fits your budget and lifestyle requirements in Sector 77 Noida."
     ],
     "buttons": [
-      { "label": "View All 2BHK Listings", "path": "/listings" },
-      { "label": "Request A Call Back", "path": "/contact" }
+      {
+        "label": "View All 2BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request A Call Back",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Features of 2BHK Flats for Sale in Sector 77 Noida Investment Benefits",
@@ -52,12 +61,56 @@
       "The planned infrastructure surrounding Sector 77 minimizes traffic congestion and enhances overall urban living quality. Explore the key connectivity highlights that make this sector an ideal choice for your next home."
     ],
     "locations": [
-      "FNG Expressway Access",
-      "Sector 50 Metro Station",
-      "Advant Navis Business Park",
-      "Schools and Educational Hubs",
-      "Hospitals and Healthcare Facilities",
-      "Shopping Malls and Entertainment Zones"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -160,8 +213,4 @@
       "message"
     ]
   }
-}
-W
-"
-]
 }

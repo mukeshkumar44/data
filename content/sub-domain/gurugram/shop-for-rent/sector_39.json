@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Shop For Rent Options Tailored to Your Specific Business Needs",
@@ -58,14 +61,56 @@
       "We cover all the best micro-markets, including properties near the main road leading to National Highway 19, commercial zones adjacent to upcoming institutional areas, and established market pockets within the residential sectors themselves, ensuring your investment is placed optimally for growth."
     ],
     "locations": [
-      "Main Sector Market Area Retail Strip",
-      "Commercial Complex Near RPS Savana",
-      "Shops Adjacent to Kheri Road Junction",
-      "Commercial Pockets Facing the Sector Road",
-      "Retail Outlets Near Sector 37 Border",
-      "High Foot Traffic Zones near Prominent Schools",
-      "Properties with Easy Access to NH-19",
-      "Service Shops near Major Healthcare Centers"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

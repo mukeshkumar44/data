@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Rental Flat Options Available Across New Palam Vihar Gurugram",
@@ -58,14 +61,56 @@
       "The internal residential blocks provide quieter, more family-oriented environments, often with better access to local parks and temples. We provide detailed map views for all our rental listings, allowing you to gauge the exact distance to essential services like hospitals, grocery stores, and major intersections. Investing time in knowing the micro-location within New Palam Vihar can significantly improve your daily quality of life and commuting experience, ensuring you select a home that fits your entire lifestyle."
     ],
     "locations": [
-      "Main Market Block New Palam Vihar",
-      "Near Sector 28 Metro Station Access",
-      "Proximity to SRS Chowk Gurugram",
-      "Areas Near New Palam Vihar Public School",
-      "Easy Access to Gurugram-Gurgaon Road",
-      "Residential Zones B and C",
-      "Close to Proposed Commercial Development",
-      "Near Local Parks and Recreational Areas"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

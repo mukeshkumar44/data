@@ -7,10 +7,19 @@
       "Capitalize on the established reputation of this sought-after address. Ranging from integrated complex settings to standalone street-facing units, every shop for rent in Golf Course Road is strategically chosen for its potential to drive business growth. Stop searching through endless listings and connect with our commercial property experts who understand the nuances of this market. Let us help you find a rental property that aligns perfectly with your brand image and operational needs for long-term prosperity."
     ],
     "buttons": [
-      { "label": "View Premium Retail Listings", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View Premium Retail Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Shop Spaces and Rental Options Available on Golf Course Road Gurugram",
@@ -52,14 +61,56 @@
       "Understanding the surrounding ecosystem is vital for any commercial success planning in Gurugram. Our locations are chosen not just for individual visibility but for the synergistic effect of the wider commercial catchment area they serve."
     ],
     "locations": [
-      "Sector 70 Commercial Market",
-      "Neharpar Residential Towers",
-      "SRS Multiplex Area",
-      "Major Corporate Office Parks",
-      "Mathura Road Connectivity",
-      "Surajkund Tourist Zone",
-      "Sector 80 Shopping Complex",
-      "Proximity to Badarpur Border"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -17,7 +17,8 @@
       }
     ],
     "images": [
-      "hero-plot-sector-31-noida.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -60,13 +61,56 @@
       "Furthermore, proximity to the Wave City Center Metro Station enhances public transport reliability and reduces dependency on private vehicles. Being situated near major commercial hubs, renowned educational institutions, and world-class healthcare facilities further cements Sector 31 as a top-tier residential choice for discerning buyers in Noida."
     ],
     "locations": [
-      "Sector 18 Market",
-      "Atta Market Noida",
-      "Wave City Center Metro",
-      "DND Flyway Access",
-      "Botanical Garden Metro Station",
-      "Sector 32 Commercial Hub",
-      "Film City Noida"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

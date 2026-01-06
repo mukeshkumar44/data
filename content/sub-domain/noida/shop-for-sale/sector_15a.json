@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Shop Options Available for Immediate Investment in Sector 15A Noida",
@@ -58,14 +61,56 @@
       "Understanding the immediate environment is crucial when searching for a shop for sale in Sector 15A. Our featured properties are chosen based on their access to key infrastructure elements like Metro stations, large residential complexes, and established institutional areas, guaranteeing long-term viability and robust rental demand for premium commercial spaces."
     ],
     "locations": [
-      "Noida Sector 15 Metro Station",
-      "DND Flyway Access Point",
-      "Atta Market Sector 18 Noida",
-      "Major Residential Colonies",
-      "Film City Sector 16A",
-      "Direct connectivity to Delhi",
-      "Commercial Hub of Sector 18",
-      "Institutional Area Sector 15A"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

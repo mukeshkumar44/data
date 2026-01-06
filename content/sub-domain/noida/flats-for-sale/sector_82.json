@@ -7,10 +7,19 @@
       "Investing in a flat for sale in Sector 82 Noida means securing your future in a rapidly developing hub that promises high appreciation rates and superior infrastructure. Explore world-class amenities lush green spaces and proximity to major commercial centers ensuring a balanced and fulfilling lifestyle for you and your family. Start your property search today and step closer to owning your perfect home."
     ],
     "buttons": [
-      { "label": "Explore All Flats", "path": "/flats-in-sector-82" },
-      { "label": "Request a Callback", "path": "/contact-us" }
+      {
+        "label": "Explore All Flats",
+        "path": "/flats-in-sector-82"
+      },
+      {
+        "label": "Request a Callback",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Residential Flat Configurations for Sale in Prime Sector 82 Noida",
@@ -52,14 +61,56 @@
       "The planned infrastructure development surrounding Sector 82 further solidifies its position as a future real estate hotspot. Residents enjoy easy connectivity to the Noida-Greater Noida Expressway the FNG Expressway and the nearby metro stations making this location highly desirable for professionals working across the NCR region."
     ],
     "locations": [
-      "Sector 78 Residential Hub",
-      "Sector 137 Corporate Park",
-      "Sector 50 Metro Link",
-      "Noida Expressway Access Point",
-      "FNG Corridor",
-      "Widespread Green Belt Areas",
-      "Major Retail and Shopping Malls",
-      "Prominent Educational Institutes"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Our team of dedicated real estate professionals specializes in the Sector 82 market and is ready to assist you at every step of your buying journey. Whether you require property viewing scheduling financing assistance or legal counsel we offer personalized support.",
       "Reach out today to discuss your specific requirements access exclusive inventory lists and receive a customized portfolio matching the best flat for sale in Sector 82 that meets your aspirations."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

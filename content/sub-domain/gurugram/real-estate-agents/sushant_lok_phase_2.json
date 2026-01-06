@@ -17,7 +17,8 @@
       }
     ],
     "images": [
-      "/images/sushant_lok_2_agent_hero.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -60,14 +61,56 @@
       "We cover all adjacent sectors ensuring you have a full spectrum of choices, whether you prioritize proximity to the metro station, major hospitals, or top-tier educational institutions. Our localized expertise ensures we match you not just with a property, but with the perfect neighborhood environment that meets all your family's needs."
     ],
     "locations": [
-      "DLF Phase 1 Gurugram",
-      "Sushant Lok Phase 1",
-      "Sector 43 Gurugram",
-      "Golf Course Road",
-      "Sector 56 Gurugram",
-      "MG Road Residences",
-      "Malibu Town Sector 47",
-      "Nirvana Country"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

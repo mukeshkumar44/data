@@ -7,12 +7,18 @@
       "Enjoy spacious layouts high-end finishes and robust construction quality that define premium living in NCR. Investing in a 3BHK in Sector 57 means securing a home in a strategically located area with seamless access to major business districts schools and hospitals. Explore the best ready-to-move and under-construction opportunities tailored to meet your lifestyle needs and investment goals."
     ],
     "buttons": [
-      { "label": "Explore Premium Listings", "path": "/listings" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "Explore Premium Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "3bhk_sector57_hero1.jpg",
-      "3bhk_sector57_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The location is also perfectly positioned near key social infrastructure. Reputable educational institutions top-tier healthcare facilities and vibrant commercial centers are all just minutes away. This superior infrastructure support enhances the overall value and desirability of buying a 3BHK Flat For Sale in Sector 57. Whether you require quick access to commercial hubs or desire proximity to leisure destinations Sector 57 delivers unmatched locational advantages guaranteeing a balanced and convenient life for every resident."
     ],
     "locations": [
-      "Golf Course Extension Road Access",
-      "Rapid Metro Stations Proximity",
-      "Leading International Schools Nearby",
-      "Top Hospitals and Clinics",
-      "Major Shopping Malls and Retail",
-      "Corporate Business Parks Access",
-      "Easy Access to Sohna Road",
-      "Upcoming Infrastructure Projects"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to explore the finest 3BHK Flat For Sale in Sector 57 Gurugram and find your dream home",
       "Contact our dedicated real estate advisors today to receive personalized listings floor plans and exclusive pricing details without any obligation."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

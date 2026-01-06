@@ -7,10 +7,19 @@
       "Start your journey to home ownership with our expert guidance. Discover new projects resale properties and ready-to-move flats that suit every budget and requirement in Sector 103. This area is rapidly evolving benefiting from superior infrastructure planning green spaces and proximity to essential services like schools hospitals and major highways. Finding the perfect Flat For Sale in sector 103 has never been easier or more reliable."
     ],
     "buttons": [
-      { "label": "View All Listings", "path": "/listings/sector-103" },
-      { "label": "Request Free Consultation", "path": "/contact" }
+      {
+        "label": "View All Listings",
+        "path": "/listings/sector-103"
+      },
+      {
+        "label": "Request Free Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Find the Ideal Size and Layout Among Flats For Sale in sector 103",
@@ -52,16 +61,56 @@
       "This region benefits immensely from its strategic position near major connectivity points ensuring easy access to business districts educational institutions and entertainment zones."
     ],
     "locations": [
-      "Major Expressway Access",
-      "Central Business District Proximity",
-      "Upcoming Metro Corridor",
-      "Sector 102 Residential Hub",
-      "Sector 104 Commercial Zone",
-      "Leading Educational Institutes",
-      "Premium Healthcare Facilities",
-      "Local Shopping Centers",
-      "Green Belt and Parks",
-      "International Airport Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

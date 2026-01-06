@@ -7,10 +7,19 @@
       "Explore the vast inventory of verified Flats For Rent in sector 106 complete with detailed listings high-resolution images and transparent pricing. This locality is known for excellent connectivity to the Delhi-NCR region ensuring your daily commute is smooth and efficient. Whether you need a secure family environment or a comfortable bachelor pad our expert team provides personalized assistance to streamline your rental journey. Start browsing now and secure a dream flat in one of Gurugram’s most sought-after sectors."
     ],
     "buttons": [
-      { "label": "Explore 2 BHK Rentals", "path": "/2bhk-flats" },
-      { "label": "Request a Callback", "path": "/contact" }
+      {
+        "label": "Explore 2 BHK Rentals",
+        "path": "/2bhk-flats"
+      },
+      {
+        "label": "Request a Callback",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Rental Options Available When Searching for a Flat For Rent in sector 106",
@@ -52,12 +61,56 @@
       "We highlight properties that not only offer premium living but also boast excellent linkage to key areas including upcoming metro expansion routes schools hospitals and major shopping destinations. This makes Sector 106 an exceptionally convenient location for families students and working professionals alike. Explore how easily you can reach your workplace or educational institution from our listed rental properties."
     ],
     "locations": [
-      "Proximity to Gurugram-Noida-Ghaziabad FNG Expressway",
-      "Nearness to major corporate business parks in Sector 81 and Sector 85",
-      "Easy access to leading schools and educational institutions",
-      "Quick drive to upcoming metro stations improving Delhi connectivity",
-      "Close to essential retail centers and supermarkets",
-      "Direct linkage to major hospitals and healthcare facilities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

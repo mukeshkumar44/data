@@ -7,10 +7,19 @@
       "We offer a curated selection of commercial properties ranging from small retail kiosks to expansive double-height showrooms suitable for anchor brands. Investing in a commercial shop here provides not just immediate rental income potential but also significant capital appreciation due to the planned infrastructural enhancements. Discover why Sector 131 Noida is the future commercial powerhouse of the city and how you can secure your stake in this growth story."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/listings" },
-      { "label": "Request Commercial Brochure", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Commercial Brochure",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_shop_sector131_1.jpg", "hero_shop_sector131_2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Shop Options Tailored for High Return Investment in Sector 131 Noida",
@@ -19,12 +28,30 @@
       "Understanding the local demographic is crucial Sector 131 attracts high-income families and young professionals guaranteeing robust consumer spending power. This ensures that whichever unit size you choose, your investment benefits from sustained demand and a thriving retail ecosystem. Review the specialized commercial options below and plan your successful foray into the Sector 131 commercial landscape."
     ],
     "features": [
-      { "title": "200 Sq Ft Retail Unit", "description": "Ideal for small businesses or quick-service vendors these compact retail units offer high visibility and low maintenance costs. Perfect for investors seeking stable rental income and rapid occupation. These units often command excellent lease rates due to high demand among local entrepreneurs in Sector 131." },
-      { "title": "350 Sq Ft Boutique Space", "description": "A popular size for specialized services or upscale boutiques requiring more space than a kiosk but maintaining efficiency. Strategically located within commercial complexes to maximize pedestrian traffic flow and consumer engagement. A solid choice for securing a premium Shop For Sale in Sector 131." },
-      { "title": "500 Sq Ft Anchor Shop", "description": "Designed for mid-sized national or regional brands that require substantial floor space and prominent frontage. These units serve as key traffic generators within the complex ensuring high footfall for surrounding businesses. Exceptional opportunity for capital growth." },
-      { "title": "750 Sq Ft Showroom Potential", "description": "Large format units suitable for showrooms furniture stores electronics or banks. These spaces typically feature larger glass facades and higher ceilings enhancing brand presence and customer experience. Represents a significant commercial investment in Sector 131 Noida." },
-      { "title": "1000 Sq Ft Double Height Shop", "description": "The ultimate status symbol in commercial real estate providing unparalleled brand visibility and flexibility. Double height ceilings allow for mezzanine construction and expansive displays appealing to premium retailers. Ensure your business stands out in the competitive Sector 131 market." },
-      { "title": "Food Court Units", "description": "Investment opportunities within dedicated food and beverage zones benefit from constant internal footfall from shoppers and office workers. These units are highly liquid and offer attractive rental yields based on revenue sharing models common in high-traffic food courts." }
+      {
+        "title": "200 Sq Ft Retail Unit",
+        "description": "Ideal for small businesses or quick-service vendors these compact retail units offer high visibility and low maintenance costs. Perfect for investors seeking stable rental income and rapid occupation. These units often command excellent lease rates due to high demand among local entrepreneurs in Sector 131."
+      },
+      {
+        "title": "350 Sq Ft Boutique Space",
+        "description": "A popular size for specialized services or upscale boutiques requiring more space than a kiosk but maintaining efficiency. Strategically located within commercial complexes to maximize pedestrian traffic flow and consumer engagement. A solid choice for securing a premium Shop For Sale in Sector 131."
+      },
+      {
+        "title": "500 Sq Ft Anchor Shop",
+        "description": "Designed for mid-sized national or regional brands that require substantial floor space and prominent frontage. These units serve as key traffic generators within the complex ensuring high footfall for surrounding businesses. Exceptional opportunity for capital growth."
+      },
+      {
+        "title": "750 Sq Ft Showroom Potential",
+        "description": "Large format units suitable for showrooms furniture stores electronics or banks. These spaces typically feature larger glass facades and higher ceilings enhancing brand presence and customer experience. Represents a significant commercial investment in Sector 131 Noida."
+      },
+      {
+        "title": "1000 Sq Ft Double Height Shop",
+        "description": "The ultimate status symbol in commercial real estate providing unparalleled brand visibility and flexibility. Double height ceilings allow for mezzanine construction and expansive displays appealing to premium retailers. Ensure your business stands out in the competitive Sector 131 market."
+      },
+      {
+        "title": "Food Court Units",
+        "description": "Investment opportunities within dedicated food and beverage zones benefit from constant internal footfall from shoppers and office workers. These units are highly liquid and offer attractive rental yields based on revenue sharing models common in high-traffic food courts."
+      }
     ]
   },
   "locationsSection": {
@@ -34,12 +61,56 @@
       "The surrounding sectors are densely populated and continually developing creating a massive captive audience right outside your commercial venture. We focus on shops that benefit from proximity to large residential projects IT parks and educational institutions guaranteeing sustainable long-term footfall. Securing a Shop For Sale in Sector 131 places your business at the center of future economic growth."
     ],
     "locations": [
-      "Sector 135 Noida Expressway",
-      "Sector 128 Commercial Hub",
-      "Jaypee Wish Town Residential Area",
-      "Sector 93 Connectivity Point",
-      "Film City Noida Access Road",
-      "Okhla Barrage Bridge Link"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -49,30 +120,84 @@
       "The commercial viability of Sector 131 is cemented by robust infrastructure planning, including wide access roads ample parking and superior security systems. This commitment to quality infrastructure makes owning a commercial Shop For Sale in Sector 131 a hassle-free and profitable long-term decision. Trust us to guide you through this high-potential market."
     ],
     "points": [
-      { "title": "Exceptional Connectivity via Expressway", "description": "Sector 131 enjoys direct access to the Noida-Greater Noida Expressway ensuring seamless connectivity to Delhi Greater Noida and surrounding NCR areas. This ease of access is crucial for drawing customers from a wide geographical radius and for efficient logistics crucial for retail success. The location significantly enhances the market value of your shop." },
-      { "title": "High Residential Density Guaranteed Footfall", "description": "The surrounding areas feature numerous high-rise residential societies guaranteeing a massive, affluent captive audience for your retail operations. Shops here benefit from inherent local demand minimizing reliance on transient traffic. This residential density makes any Shop For Sale in Sector 131 a high footfall zone." },
-      { "title": "Future Infrastructure Development Potential", "description": "Upcoming projects like the proposed metro connectivity extension and planned civic amenities will further enhance the appeal and accessibility of Sector 131. Investing now allows you to benefit from future capital appreciation resulting directly from these large-scale government and private investments in the region." },
-      { "title": "RERA Registered and Compliant Properties", "description": "We only deal with commercial properties that are fully compliant with RERA regulations offering you complete transparency and legal security on your investment. Buyers can proceed with confidence knowing their purchase of a commercial Shop For Sale in Sector 131 is protected and legitimate." },
-      { "title": "Competitive Entry Price Point", "description": "Compared to established commercial sectors in Central Noida, Sector 131 still offers highly competitive entry prices allowing investors to acquire premium retail space at a lower cost per square foot. This price differential translates directly into higher potential yields and improved ROI metrics." },
-      { "title": "Modern Commercial Complex Design", "description": "The commercial complexes in this sector feature contemporary architecture efficient floor plans and superior common area management. These modern designs attract high-quality tenants and enhance the overall shopping experience benefiting the value of every individual shop." },
-      { "title": "Strong Potential for Rental Yields", "description": "Due to the lack of sufficient organized retail space combined with growing residential density, rental demand is extremely high. Investors can anticipate strong rental yields immediately upon possession making a Shop For Sale in Sector 131 a powerful income-generating asset." },
-      { "title": "Hub for Corporate and IT Offices", "description": "Proximity to the IT and corporate hub along the Expressway ensures a consistent flow of working professionals needing dining, retail, and service options. This daytime population significantly boosts the commercial activity during weekdays complementing the weekend residential traffic." }
+      {
+        "title": "Exceptional Connectivity via Expressway",
+        "description": "Sector 131 enjoys direct access to the Noida-Greater Noida Expressway ensuring seamless connectivity to Delhi Greater Noida and surrounding NCR areas. This ease of access is crucial for drawing customers from a wide geographical radius and for efficient logistics crucial for retail success. The location significantly enhances the market value of your shop."
+      },
+      {
+        "title": "High Residential Density Guaranteed Footfall",
+        "description": "The surrounding areas feature numerous high-rise residential societies guaranteeing a massive, affluent captive audience for your retail operations. Shops here benefit from inherent local demand minimizing reliance on transient traffic. This residential density makes any Shop For Sale in Sector 131 a high footfall zone."
+      },
+      {
+        "title": "Future Infrastructure Development Potential",
+        "description": "Upcoming projects like the proposed metro connectivity extension and planned civic amenities will further enhance the appeal and accessibility of Sector 131. Investing now allows you to benefit from future capital appreciation resulting directly from these large-scale government and private investments in the region."
+      },
+      {
+        "title": "RERA Registered and Compliant Properties",
+        "description": "We only deal with commercial properties that are fully compliant with RERA regulations offering you complete transparency and legal security on your investment. Buyers can proceed with confidence knowing their purchase of a commercial Shop For Sale in Sector 131 is protected and legitimate."
+      },
+      {
+        "title": "Competitive Entry Price Point",
+        "description": "Compared to established commercial sectors in Central Noida, Sector 131 still offers highly competitive entry prices allowing investors to acquire premium retail space at a lower cost per square foot. This price differential translates directly into higher potential yields and improved ROI metrics."
+      },
+      {
+        "title": "Modern Commercial Complex Design",
+        "description": "The commercial complexes in this sector feature contemporary architecture efficient floor plans and superior common area management. These modern designs attract high-quality tenants and enhance the overall shopping experience benefiting the value of every individual shop."
+      },
+      {
+        "title": "Strong Potential for Rental Yields",
+        "description": "Due to the lack of sufficient organized retail space combined with growing residential density, rental demand is extremely high. Investors can anticipate strong rental yields immediately upon possession making a Shop For Sale in Sector 131 a powerful income-generating asset."
+      },
+      {
+        "title": "Hub for Corporate and IT Offices",
+        "description": "Proximity to the IT and corporate hub along the Expressway ensures a consistent flow of working professionals needing dining, retail, and service options. This daytime population significantly boosts the commercial activity during weekdays complementing the weekend residential traffic."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Investing in a Shop For Sale in Sector 131 Noida",
     "description": "Get detailed answers to your most pressing questions regarding commercial property investment opportunities in this high-growth sector.",
     "faqs": [
-      { "question": "What is the typical expected rental yield for a commercial shop in Sector 131 Noida", "answer": "The expected rental yield for a well-located commercial shop in Sector 131 typically ranges between 6% to 8% per annum depending on the size, location within the complex, and the profile of the tenant. Prime ground floor retail units facing the main road generally command the highest rents. Due to the high demand spurred by nearby residential projects and office spaces, investors often find rental agreements signed quickly after possession which contributes positively to the overall returns and viability of the investment." },
-      { "question": "Is Sector 131 a good long-term investment location for commercial real estate", "answer": "Yes Sector 131 is considered an excellent long-term investment location. Its placement on the Noida Expressway corridor ensures continual infrastructure development and improved connectivity. The rapid absorption of residential units in neighboring sectors guarantees sustained consumer traffic and market stability. Future appreciation is highly probable as the sector matures and commercial rental rates align with established hubs like Sector 18." },
-      { "question": "What are the common sizes available when looking for a Shop For Sale in Sector 131", "answer": "Commercial shops in Sector 131 cater to a wide range of needs. The most common sizes for retail units typically start around 200 sq ft and go up to 1000 sq ft or more for anchor stores and large showrooms. Food court units and smaller kiosk spaces are also available usually ranging from 100 sq ft to 150 sq ft. We can help you identify a size that perfectly matches your investment budget and intended use." },
-      { "question": "Are there financing options available for purchasing commercial property in Sector 131 Noida", "answer": "Absolutely Major banks and financial institutions offer commercial property loans specifically tailored for investors looking to acquire a Shop For Sale in Sector 131. Loan-to-Value LTV ratios usually range from 50% to 70% of the property value depending on your financial profile and the specific project. We maintain strong relationships with leading lenders and can facilitate the necessary documentation and approval process for you." },
-      { "question": "How does the connectivity of Sector 131 impact the commercial property value", "answer": "Connectivity is a critical factor Sector 131’s seamless linkage to the Noida Expressway provides exceptional visibility and ease of access which directly drives up commercial property values. Good connectivity ensures that the shopping complex serves not only the local population but also attracts commuters and residents from far-flung areas of NCR leading to higher footfall and premium rental values for the shops." },
-      { "question": "What documentation is required to purchase a commercial shop in Sector 131", "answer": "The essential documentation generally includes identity and address proof PAN Card Aadhaar Card bank statements showing financial stability and the application form for the specific unit. If seeking a loan, additional financial documents like income tax returns or audited balance sheets might be required. Our legal team assists all clients in navigating the paperwork to ensure a smooth and legal transaction process." },
-      { "question": "What is the average price range for a commercial unit in this sector", "answer": "The pricing for a Shop For Sale in Sector 131 is highly variable depending on factors like floor level main road facing status and the specific project’s reputation. Generally, prices per square foot are competitive, often starting lower than established sectors but showing a steep upward trend as possession nears. Contact our sales team for the latest pricing and detailed inventory lists." },
-      { "question": "What kind of businesses are most successful in Sector 131 commercial complexes", "answer": "Businesses catering to the local high-income residential community and the nearby corporate workforce tend to thrive. This includes fine dining restaurants cafes specialized grocery stores pharmacies high-end salons and banking services. Retail outlets selling electronics and branded apparel also perform exceptionally well given the affluent demographic." },
-      { "question": "Is security and maintenance well-managed in the commercial complexes here", "answer": "Yes most major commercial projects in Sector 131 feature advanced security systems including 24/7 CCTV surveillance professional manned security personnel and restricted access points. Maintenance is typically managed by an established facility management team ensuring cleanliness operational elevators and high standards of common area upkeep which is factored into the monthly CAM Common Area Maintenance charges." },
-      { "question": "What role does RERA compliance play in buying a shop here", "answer": "RERA compliance provides critical protection to commercial real estate buyers. It mandates adherence to project timelines strict usage of funds and provides a clear grievance redressal mechanism. We prioritize RERA-registered projects ensuring you receive timely possession and the project specifications meet the promised standards essential when purchasing a Shop For Sale in Sector 131." }
+      {
+        "question": "What is the typical expected rental yield for a commercial shop in Sector 131 Noida",
+        "answer": "The expected rental yield for a well-located commercial shop in Sector 131 typically ranges between 6% to 8% per annum depending on the size, location within the complex, and the profile of the tenant. Prime ground floor retail units facing the main road generally command the highest rents. Due to the high demand spurred by nearby residential projects and office spaces, investors often find rental agreements signed quickly after possession which contributes positively to the overall returns and viability of the investment."
+      },
+      {
+        "question": "Is Sector 131 a good long-term investment location for commercial real estate",
+        "answer": "Yes Sector 131 is considered an excellent long-term investment location. Its placement on the Noida Expressway corridor ensures continual infrastructure development and improved connectivity. The rapid absorption of residential units in neighboring sectors guarantees sustained consumer traffic and market stability. Future appreciation is highly probable as the sector matures and commercial rental rates align with established hubs like Sector 18."
+      },
+      {
+        "question": "What are the common sizes available when looking for a Shop For Sale in Sector 131",
+        "answer": "Commercial shops in Sector 131 cater to a wide range of needs. The most common sizes for retail units typically start around 200 sq ft and go up to 1000 sq ft or more for anchor stores and large showrooms. Food court units and smaller kiosk spaces are also available usually ranging from 100 sq ft to 150 sq ft. We can help you identify a size that perfectly matches your investment budget and intended use."
+      },
+      {
+        "question": "Are there financing options available for purchasing commercial property in Sector 131 Noida",
+        "answer": "Absolutely Major banks and financial institutions offer commercial property loans specifically tailored for investors looking to acquire a Shop For Sale in Sector 131. Loan-to-Value LTV ratios usually range from 50% to 70% of the property value depending on your financial profile and the specific project. We maintain strong relationships with leading lenders and can facilitate the necessary documentation and approval process for you."
+      },
+      {
+        "question": "How does the connectivity of Sector 131 impact the commercial property value",
+        "answer": "Connectivity is a critical factor Sector 131’s seamless linkage to the Noida Expressway provides exceptional visibility and ease of access which directly drives up commercial property values. Good connectivity ensures that the shopping complex serves not only the local population but also attracts commuters and residents from far-flung areas of NCR leading to higher footfall and premium rental values for the shops."
+      },
+      {
+        "question": "What documentation is required to purchase a commercial shop in Sector 131",
+        "answer": "The essential documentation generally includes identity and address proof PAN Card Aadhaar Card bank statements showing financial stability and the application form for the specific unit. If seeking a loan, additional financial documents like income tax returns or audited balance sheets might be required. Our legal team assists all clients in navigating the paperwork to ensure a smooth and legal transaction process."
+      },
+      {
+        "question": "What is the average price range for a commercial unit in this sector",
+        "answer": "The pricing for a Shop For Sale in Sector 131 is highly variable depending on factors like floor level main road facing status and the specific project’s reputation. Generally, prices per square foot are competitive, often starting lower than established sectors but showing a steep upward trend as possession nears. Contact our sales team for the latest pricing and detailed inventory lists."
+      },
+      {
+        "question": "What kind of businesses are most successful in Sector 131 commercial complexes",
+        "answer": "Businesses catering to the local high-income residential community and the nearby corporate workforce tend to thrive. This includes fine dining restaurants cafes specialized grocery stores pharmacies high-end salons and banking services. Retail outlets selling electronics and branded apparel also perform exceptionally well given the affluent demographic."
+      },
+      {
+        "question": "Is security and maintenance well-managed in the commercial complexes here",
+        "answer": "Yes most major commercial projects in Sector 131 feature advanced security systems including 24/7 CCTV surveillance professional manned security personnel and restricted access points. Maintenance is typically managed by an established facility management team ensuring cleanliness operational elevators and high standards of common area upkeep which is factored into the monthly CAM Common Area Maintenance charges."
+      },
+      {
+        "question": "What role does RERA compliance play in buying a shop here",
+        "answer": "RERA compliance provides critical protection to commercial real estate buyers. It mandates adherence to project timelines strict usage of funds and provides a clear grievance redressal mechanism. We prioritize RERA-registered projects ensuring you receive timely possession and the project specifications meet the promised standards essential when purchasing a Shop For Sale in Sector 131."
+      }
     ]
   },
   "contactSection": {
@@ -81,6 +206,11 @@
       "Ready to secure the best Shop For Sale in Sector 131 Noida? Our expert team is here to provide tailored advice and exclusive access to premium listings that are not available publicly. Let us help you maximize your ROI.",
       "Fill out the form below to receive a personalized portfolio breakdown, floor plans, and current pricing information. Take the first step towards owning a successful commercial asset in the heart of Noida's growth corridor."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exclusive Types of Commercial Shops Available for Rent in DLF Phase 2 Gurugram",
@@ -58,12 +61,56 @@
       "Investigate shops near the Metro Station Exit 4 or spaces integrated within established commercial complexes for immediate brand recognition and maximized sales potential. Our location analysis ensures you maximize profitability by securing space in the most high-traffic zones accessible to both corporate employees and residential consumers."
     ],
     "locations": [
-      "DLF Cyber City Entrance Commercial Area",
-      "Near MG Road Metro Station DLF Phase 2",
-      "Phase 2 Main Market Complex Retail Shops",
-      "Sikanderpur Intersection Commercial Buildings",
-      "Residential Tower Integrated Retail Zones",
-      "NH-48 Service Road Facing Outlets"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

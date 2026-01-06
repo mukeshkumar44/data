@@ -7,10 +7,19 @@
       "We simplify the rental process, ensuring you find a comfortable and secure home swiftly. Our listings feature everything from cozy 1 BHK units perfect for professionals to spacious 3 BHK apartments designed for growing families. Stop wasting time navigating endless unverified listings. Trust our expertise to connect you with the ideal rental flat that truly feels like home in Manav Chowk Ambala. Begin your seamless transition to better living today."
     ],
     "buttons": [
-      { "label": "Explore 2 BHK Rentals", "path": "/2bhk-rentals" },
-      { "label": "Contact Rental Experts", "path": "/contact-us" }
+      {
+        "label": "Explore 2 BHK Rentals",
+        "path": "/2bhk-rentals"
+      },
+      {
+        "label": "Contact Rental Experts",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Types of Premium Flats and Essential Amenities Available For Rent in Manav Chowk",
@@ -52,14 +61,56 @@
       "The area boasts excellent civic amenities including top-tier schools, reputable hospitals, and vibrant local markets. When you look for a Flat For Rent in Manav Chowk, you are investing in convenience and a superior urban experience. Explore the key landmarks and neighboring areas that define the exceptional location advantage of living here in Ambala."
     ],
     "locations": [
-      "Bus Stand Ambala City",
-      "Ambala City Railway Station",
-      "Manav Chowk Main Market",
-      "Model Town Ambala Proximity",
-      "Local Schools and Colleges",
-      "Major Commercial Banks",
-      "Hospitals and Medical Facilities",
-      "Highways and Ring Road Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to move into your dream apartment in the best location of Ambala City. Our expert team is prepared to assist you with personalized tours, documentation, and securing the best lease agreement.",
       "Do not miss out on the perfect rental opportunity. Reach out now and take the first step toward hassle-free urban living in Manav Chowk."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

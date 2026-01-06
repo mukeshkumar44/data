@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "flat-for-rent-sector-151-noida-hero.jpg",
-      "sector-151-noida-skyline.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Its proximity to the upcoming Jewar International Airport corridor makes it not only a highly desired residential location but also a future investment landmark. Residents benefit immensely from significantly reduced commute times and excellent connectivity to major IT and commercial hubs like Sector 132 and Sector 142. Living here places you at the confluence of convenience and rapid urban development, making every Flat For Rent in Sector 151 highly desirable."
     ],
     "locations": [
-      "Direct Access to Noida-Greater Noida Expressway",
-      "Proximity to Upcoming Metro Stations",
-      "Short Drive to Sector 142 Commercial Hub",
-      "Easy Access to Yamuna Expressway",
-      "Connectivity to Pari Chowk Greater Noida",
-      "Near Reputed Educational Institutions",
-      "Rapid Access to Jewar Airport Corridor",
-      "Well-Developed Internal Road Network"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -171,8 +213,4 @@
       "message"
     ]
   }
-}
-"
-}
-"
 }

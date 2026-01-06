@@ -7,10 +7,19 @@
       "Explore a wide range of residential options from compact 2 BHK units perfect for young professionals to sprawling 4 BHK apartments designed for large families. Each property here promises world-class construction standards advanced security features and access to exclusive lifestyle facilities like clubhouses swimming pools and sports arenas. Secure your future in one of Noida’s most sought-after localities and elevate your standard of living today. We provide verified listings and transparent dealings helping you find your perfect home without any hassle."
     ],
     "buttons": [
-      { "label": "Explore Ready to Move Flats", "path": "/ready-to-move" },
-      { "label": "Get Price List", "path": "/contact" }
+      {
+        "label": "Explore Ready to Move Flats",
+        "path": "/ready-to-move"
+      },
+      {
+        "label": "Get Price List",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Residential Options When Looking for a Flat For Sale in Sector 79 Noida",
@@ -52,14 +61,56 @@
       "The planned development of this area includes vast community parks high-street retail centres and world-class healthcare facilities all within a short radius. When you buy a Flat For Sale in Sector 79 Noida you are investing in a locale with robust social infrastructure future growth potential and a tranquil environment away from the inner-city congestion yet perfectly connected to everything that matters."
     ],
     "locations": [
-      "Noida Expressway Connectivity",
-      "Aqua Line Metro Stations Nearby",
-      "Access to Major IT Hubs Sector 135",
-      "Proximity to Reputed Schools and Universities",
-      "Integrated Commercial and Retail Centers",
-      "Well-Maintained Road Networks",
-      "Close to Planned Malls and Entertainment Zones",
-      "Easy Drive to Delhi and Greater Noida"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning your dream home in Sector 79 Noida Get in touch with our expert real estate consultants for personalized advice and the latest price lists.",
       "Fill out the form below and let us help you find a flat that perfectly matches your lifestyle needs and investment goals. We offer transparent reliable and commitment-free consultation services."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

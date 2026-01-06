@@ -16,7 +16,10 @@
         "path": "/listings"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Specialized Expertise Our Real Estate Agents Provide Across Key Property Segments in Sector 93",
@@ -58,14 +61,56 @@
       "Understanding the proximity to key hubs like the Dwarka Expressway and NH-48 is vital for accurate pricing and investment decisions. We guide you through the best pockets within Sector 93 and neighboring zones that promise superior future returns and excellent daily convenience."
     ],
     "locations": [
-      "Proximity to Dwarka Expressway",
-      "Direct Access to NH-48",
-      "Connectivity to IMT Manesar",
-      "Investment Hotspots in Sector 92",
-      "Residential Projects in Sector 89",
-      "Retail Centers near Sector 93",
-      "KMP Expressway Linkages",
-      "Malls and Schools in New Gurugram"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

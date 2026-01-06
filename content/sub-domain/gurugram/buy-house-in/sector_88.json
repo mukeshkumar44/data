@@ -7,12 +7,18 @@
       "Our expertly curated listings feature premium independent houses, spacious builder floors, and ready-to-move properties that meet high standards of quality and design. Whether your requirement is a compact 2 BHK house or a luxurious 5 BHK villa, Sector 88 offers diverse options tailored to various family sizes and budgetary needs. Explore the ideal blend of urban convenience and tranquil residential living right here in New Gurugram."
     ],
     "buttons": [
-      { "label": "Explore Premium Houses Now", "path": "/houses-for-sale" },
-      { "label": "Get Free Consultation", "path": "/contact-us" }
+      {
+        "label": "Explore Premium Houses Now",
+        "path": "/houses-for-sale"
+      },
+      {
+        "label": "Get Free Consultation",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "image-house-sector-88-1.jpg",
-      "image-house-sector-88-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "This sector benefits significantly from its proximity to established and rapidly emerging residential sectors. Key hubs like Sector 87, Sector 89, and Sector 83 are easily accessible ensuring residents enjoy immediate access to high-quality schools, specialized medical facilities, and vibrant retail spaces. This interconnected environment guarantees that residents of Sector 88 enjoy a comprehensive, integrated urban lifestyle without sacrificing tranquility and peace."
     ],
     "locations": [
-      "Sector 89 Gurugram",
-      "Sector 87 Gurugram",
-      "Sector 83 Gurugram",
-      "KMP Expressway access",
-      "National Highway 48",
-      "Sohna Road extension",
-      "Manesar Industrial Model Township",
-      "Pataudi Road connection"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

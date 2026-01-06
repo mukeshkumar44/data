@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "laxmi-nagar-rentals.jpg",
-      "east-delhi-flats.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Beyond the metro the area boasts easy access to major roads and local bus routes. Living here means being steps away from the bustling local markets educational coaching centers and healthcare facilities. Our listings focus on areas within a comfortable walking distance of essential services maximizing the convenience of your residential choice in this prime East Delhi location."
     ],
     "locations": [
-      "Laxmi Nagar Metro Area",
-      "V3S Mall Vicinity",
-      "Nirman Vihar Connectivity",
-      "Preet Vihar Access Points",
-      "Shakarpur Rental Zone",
-      "Acharya Niketan Market",
-      "Mandawali Nearby Areas",
-      "Ganesh Nagar Residential Pockets"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

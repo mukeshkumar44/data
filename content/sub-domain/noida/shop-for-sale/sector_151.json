@@ -7,12 +7,18 @@
       "Investing in commercial property here means securing a future asset with excellent appreciation potential. These commercial spaces are part of integrated mixed-use developments ensuring continuous customer engagement and essential amenities. Explore small kiosks large showrooms and specialized food and beverage units today to capitalize on Noida’s fastest-growing corridor. This is more than just a shop it is a gateway to long-term financial success in a vibrant market."
     ],
     "buttons": [
-      { "label": "View All Shop Listings", "path": "/listings" },
-      { "label": "Request Commercial Brochure", "path": "/contact" }
+      {
+        "label": "View All Shop Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Commercial Brochure",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "shop-151-hero-main.jpg",
-      "commercial-noida-view.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "The rapid residential development in Sectors 150 152 and surrounding areas means a massive ready customer base is moving in providing immediate demand for retail services and dining options. This strong demographic shift solidifies Sector 151 as a premier location for securing a Shop For Sale with assured business growth."
     ],
     "locations": [
-      "Adjacent to Sector 150 Noida Sports City",
-      "Direct access via Noida Expressway and FNG corridor",
-      "Proximity to upcoming Metro connectivity routes",
-      "Near major corporate offices and IT parks",
-      "Easily reachable from educational institutions and residential townships",
-      "Swift connection to the Jewar International Airport corridor"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

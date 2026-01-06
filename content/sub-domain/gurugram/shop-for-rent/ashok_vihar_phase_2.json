@@ -7,10 +7,19 @@
       "Explore a curated selection of commercial properties ranging from compact retail outlets perfect for startups to expansive showrooms designed for established brands. We provide detailed listings accurate pricing and expert guidance to help you navigate the commercial leasing market in Ashok Vihar Phase 2 smoothly. Stop searching and start succeeding secure your next profitable business address with us now."
     ],
     "buttons": [
-      { "label": "Explore Available Shops", "path": "/available-shops" },
-      { "label": "Get Commercial Rental Advice", "path": "/contact-us" }
+      {
+        "label": "Explore Available Shops",
+        "path": "/available-shops"
+      },
+      {
+        "label": "Get Commercial Rental Advice",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Commercial Spaces and Ideal Shop Sizes for Rent in Ashok Vihar Phase 2",
@@ -52,12 +61,56 @@
       "Our location specialists provide insights into localized market trends rental appreciation forecasts and future infrastructural developments impacting commercial success. Whether you prioritize proximity to metro stations local government offices or dense residential colonies we guide your property search effectively across all prime commercial zones near Ashok Vihar Phase 2."
     ],
     "locations": [
-      "Ashok Vihar Phase 3 Commercial Centre",
-      "Wazirpur Industrial Area Access Points",
-      "Shalimar Bagh Main Market",
-      "Deep Market Residential Hub",
-      "Near DDA Market Ashok Vihar 1",
-      "Adjoining Pocket B Residential Clusters"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

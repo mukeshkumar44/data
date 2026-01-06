@@ -7,10 +7,19 @@
       "Our curated listings feature verified properties ranging from compact 2 BHK units ideal for professionals to expansive 5 BHK independent villas tailored for large families. Start your search now to explore options that meet your specific needs for space luxury and location in this elite Delhi enclave. We simplify the process of finding the perfect rental house Defence Colony residents love."
     ],
     "buttons": [
-      { "label": "Explore Premium Rental Houses", "path": "/listings" },
-      { "label": "Consult a Defence Colony Rental Expert", "path": "/contact" }
+      {
+        "label": "Explore Premium Rental Houses",
+        "path": "/listings"
+      },
+      {
+        "label": "Consult a Defence Colony Rental Expert",
+        "path": "/contact"
+      }
     ],
-    "images": ["/img/defence_colony_house_rental_hero1.jpg", "/img/defence_colony_house_rental_hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exclusive Rental House Configurations Available in Defence Colony Right Now",
@@ -52,12 +61,56 @@
       "We help tenants understand how property size furnishing level and proximity to landmarks such as the Defence Colony Market or flyovers affect the rental valuation. Our transparency ensures you are making an informed decision when selecting your next house for rent in Defence Colony based on objective market data and local expertise."
     ],
     "locations": [
-      "Block A Defence Colony Rental Prices",
-      "Block B Independent House Rent",
-      "Block C Builder Floor Availability",
-      "Block D Luxury Villa Rentals",
-      "Proximity to Defence Colony Market",
-      "Houses Near Ring Road Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to secure your perfect house for rent in Defence Colony Our team of dedicated rental experts is here to assist you with personalised viewings market insights and seamless leasing support.",
       "Reach out now to discuss your specific requirements or to schedule a private tour of our most exclusive Defence Colony rental listings. Your luxury living experience starts here."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

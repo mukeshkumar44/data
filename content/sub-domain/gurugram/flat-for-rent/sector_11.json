@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "flat-for-rent-sector11-hero1.jpg",
-      "flat-for-rent-sector11-hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "When searching for a Flat For Rent in sector 11, consider its proximity to these crucial landmarks and surrounding areas which enhance daily living and commuting efficiency. The area is perfectly situated to serve residents working locally or traveling frequently across the wider Delhi NCR region."
     ],
     "locations": [
-      "Sector 10 Residential Hub",
-      "Sector 12 Commercial Center",
-      "Sector 13 Residential Area",
-      "NHPC Metro Station Connectivity",
-      "Main Market Sector 11 Shopping",
-      "DAV Public School Sector 14",
-      "Neelam Chowk Access Point",
-      "Old Gurugram Railway Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

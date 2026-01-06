@@ -7,10 +7,19 @@
       "Searching for a House For Rent in Sector 34 Rohtak should be seamless and stress-free. Our platform provides high-resolution photos detailed floor plans and transparent pricing so you can make an informed decision without hidden surprises. Start exploring independent homes villas and luxury rental properties today and secure your perfect address in one of Rohtak’s most sought-after sectors. Let us simplify your rental journey."
     ],
     "buttons": [
-      { "label": "Explore Rental Listings Now", "path": "/listings" },
-      { "label": "Request a Callback", "path": "/contact" }
+      {
+        "label": "Explore Rental Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Callback",
+        "path": "/contact"
+      }
     ],
-    "images": ["/img/hero-house-34-1.jpg", "/img/hero-house-34-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Selection of Houses For Rent in Sector 34 Rohtak Tailored to Every Need",
@@ -52,13 +61,56 @@
       "The connectivity advantages of this area significantly enhance the value of any House For Rent in Sector 34. Residents benefit from quick access to the main highways educational institutions and commercial areas making daily commutes efficient and convenient."
     ],
     "locations": [
-      "Sector 35 Rohtak (Residential Proximity)",
-      "Delhi Bypass (Major Road Access)",
-      "IMT Rohtak (Industrial Hub)",
-      "Sunaria (Educational Institutions)",
-      "Rohtak Railway Station (Transit Access)",
-      "City Centre Rohtak (Shopping & Entertainment)",
-      "Post Graduate Institute of Medical Sciences PGIMS"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -154,6 +206,11 @@
       "Ready to take the next step towards finding your perfect rental home in Sector 34 We simplify the process from viewing to lease signing ensuring a smooth transition.",
       "Fill out the form below with your requirements budget and preferred move-in date and a dedicated rental expert will contact you within hours to schedule viewings of verified properties that match your criteria."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

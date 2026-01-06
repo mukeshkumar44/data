@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore the Best Residential Flat Options in Jal Vayu Vihar Noida For Every Family Size",
@@ -58,12 +61,56 @@
       "This proximity ensures that while the community itself remains serene and insulated the convenience of city life is never far away. The area is surrounded by excellent infrastructure including top-tier schools multispecialty hospitals and bustling retail markets. This society also boasts immediate access to metro connectivity points making public transportation a viable and convenient option. Investing in a Flat For Sale in Jal Vayu Vihar is not just about buying a home it is about securing a centrally located property that ensures long-term appreciation and ease of living for all family members."
     ],
     "locations": [
-      "Noida Expressway Direct Access",
-      "Sector 18 Market Proximity",
-      "Botanical Garden Metro Interchange",
-      "Proximity to Top International Schools",
-      "Access to DND Flyway and Delhi",
-      "Surrounded by Major Hospitals and Clinics"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

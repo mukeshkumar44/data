@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "2bhk_sector116_hero1.jpg",
-      "2bhk_sector116_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The sector enjoys close proximity to the operational Aqua Line Metro stations enhancing public transport options for daily commuters Key commercial and institutional zones like Sector 62 and Sector 18 are just a short drive away minimizing travel time to workplaces entertainment hubs and educational institutions Families appreciate the easy reach to reputable schools and healthcare facilities making Sector 116 a truly self-sufficient residential destination Investing here means securing a home in an area designed for future growth and immediate convenience offering both tranquility and high-speed urban access"
     ],
     "locations": [
-      "Sector 117 Residential Hub",
-      "Sector 120 Retail Centers",
-      "FNG Expressway Access Point",
-      "Noida City Centre Mall",
-      "Gaur City Mall",
-      "Fortis Hospital Noida",
-      "Amity University Noida",
-      "Golf Course Extension Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

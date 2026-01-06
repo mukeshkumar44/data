@@ -16,7 +16,10 @@
         "path": "/roi-calculator"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Commercial Investment Opportunities Geeta Colony Real Estate Metrics Explained",
@@ -58,14 +61,56 @@
       "Areas near Laxmi Nagar and Gandhi Nagar are particularly crucial as they feed significant commercial traffic into Geeta Colony creating a robust ecosystem of trade and commerce. We focus on properties offering seamless connectivity to Metro Stations and major arterial roads optimizing exposure for retail and minimizing commute times for office staff. Understanding these micro-locations allows investors to choose a commercial space that aligns precisely with their business model ensuring maximum commercial success."
     ],
     "locations": [
-      "East Delhi Main Market Area",
-      "Laxmi Nagar Commercial Hub",
-      "Gandhi Nagar Textile Market",
-      "Preet Vihar Business Center",
-      "Kailash Nagar Wholesale Region",
-      "Shakarpur Service Industry Zone",
-      "Yamuna Bank Transport Corridor",
-      "Patparganj Industrial Area Proximity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

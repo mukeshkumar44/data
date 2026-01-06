@@ -16,7 +16,10 @@
         "path": "/list-property"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Premium Rental Listings and Professional Management Services in Sector 13 Karnal",
@@ -58,12 +61,56 @@
       "We understand that location dictates rental demand and property value which is why we focus on areas offering high rental yield and tenant satisfaction. This includes properties close to the main Sector 13 market areas near NH 44 for easy commuting and residential pockets offering quiet family-friendly environments. Whether your focus is on proximity to educational institutions or quick access to business hubs we cover the prime neighborhoods surrounding Sector 13 to ensure maximum choice and visibility for your rental search or listing management strategy."
     ],
     "locations": [
-      "Near DAV School Sector 13",
-      "Karnal Bus Stand Proximity",
-      "NH 44 Access Points",
-      "Sector 14 Residential Zone",
-      "Karnal Lake Nearby",
-      "Model Town Adjacent Areas"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

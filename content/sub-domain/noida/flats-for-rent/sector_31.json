@@ -7,10 +7,19 @@
       "Start your seamless moving journey today. Every Flat For Rent in Sector 31 listed on our platform features high-resolution images detailed floor plans and transparent rental terms. Avoid the middlemen and connect directly with verified owners and professional property managers. Whether you need a fully furnished studio or a large family home Sector 31 provides exceptional value and quality of life. Explore the best rental options right now and secure your next home easily."
     ],
     "buttons": [
-      { "label": "Explore Verified Rental Listings", "path": "/listings/sector-31" },
-      { "label": "Request a Free Call Back", "path": "/contact" }
+      {
+        "label": "Explore Verified Rental Listings",
+        "path": "/listings/sector-31"
+      },
+      {
+        "label": "Request a Free Call Back",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Rental Options and Premium Amenities When Searching for Flats in Sector 31 Noida",
@@ -52,12 +61,56 @@
       "The sector borders some of the most dynamic areas of Noida, making it highly desirable. Whether you commute daily to Delhi or rely on shopping centres for retail therapy the strategic positioning of Sector 31 enhances your daily life and overall convenience."
     ],
     "locations": [
-      "Sector 18 Market and Entertainment Hub",
-      "Botanical Garden Metro Station Interchange",
-      "Film City Noida Sector 16A",
-      "DLF Mall of India and The Great India Place",
-      "Noida Expressway Connectivity",
-      "Atta Market and Local Retail Hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Don't miss out on the best rental properties Sector 31 has to offer. Our team of rental specialists is ready to assist you with personalized viewings negotiations and seamless paperwork.",
       "Submit your requirements now and let us find the perfect Flat For Rent in Sector 31 that aligns perfectly with your budget and lifestyle needs. Your perfect home awaits."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

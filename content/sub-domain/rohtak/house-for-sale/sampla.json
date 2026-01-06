@@ -17,9 +17,8 @@
       }
     ],
     "images": [
-      "house_sampla_1",
-      "modern_house_sampla",
-      "residential_street_sampla"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -62,12 +61,56 @@
       "We provide detailed area profiles covering local amenities such as hospitals, schools, and markets, ensuring you make an informed decision about your future neighborhood. Our expertise extends across the rapidly growing areas towards the Rohtak side, offering brand-new construction opportunities and high-quality independent houses built with modern materials. Explore these top locations to find your ideal family home or profitable investment property today."
     ],
     "locations": [
-      "Sampla Railway Station Area",
-      "Old Town Sampla Residential Zone",
-      "New Housing Colonies near NH-9",
-      "Sampla Industrial Area Proximity",
-      "Villages on Rohtak Road Periphery",
-      "Near Government School Sampla"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,12 +7,18 @@
       "Discover a curated selection of residential and semi-commercial plots tailored to meet various budget requirements and construction plans. Whether you are looking for a compact 4 Marla space or a large 14 Marla property, our listings in Ambala Sadar are fully approved, ensuring a hassle-free and transparent buying experience. Start your journey toward property ownership in one of Ambala's most prestigious areas today and capitalize on rapidly appreciating real estate values."
     ],
     "buttons": [
-      { "label": "View All Available Plots", "path": "/plots" },
-      { "label": "Request a Free Site Visit", "path": "/contact" }
+      {
+        "label": "View All Available Plots",
+        "path": "/plots"
+      },
+      {
+        "label": "Request a Free Site Visit",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/hero-plot-ambala-sadar-1.jpg",
-      "/images/hero-plot-ambala-sadar-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Our featured listings often include plots situated in developing sectors and established colonies surrounding Ambala Sadar, all selected for their high growth potential and robust civic infrastructure. We help you pinpoint the precise location that aligns with your lifestyle needs, ensuring a smooth transition to your new home address in Ambala."
     ],
     "locations": [
-      "Baldev Nagar",
-      "Sector 7 Ambala",
-      "Sector 9 Ambala",
-      "Model Town Ambala",
-      "Civil Lines",
-      "Manav Chowk Area",
-      "Police Line Ambala Sadar",
-      "Near Delhi-Chandigarh Highway Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

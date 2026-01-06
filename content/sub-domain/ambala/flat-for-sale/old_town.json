@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/old-town-hero1.jpg",
-      "/images/old-town-hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "We highlight properties in areas adjacent to the main historical core which benefit from the same infrastructure, transport links, and cultural amenities, yet might offer more square footage or newer construction. Areas bordering the financial district provide excellent rental opportunities, while sections closer to the large central parks appeal strongly to families seeking green space. Our listings are categorized to help you quickly identify flats near public transport hubs, top-rated schools, or specific cultural landmarks. Investing in a flat near Old Town means benefiting from sustained property demand and continuous area revitalization projects, ensuring long-term value retention. Let us help you navigate these vibrant neighboring streets and secure a flat that offers the perfect balance of location, price, and lifestyle."
     ],
     "locations": [
-      "The Historic Quarter",
-      "The Arts Precinct",
-      "The Riverside Walk",
-      "Central Market Area",
-      "University Heights",
-      "The Gallery District",
-      "The Commercial Edge",
-      "The City Gardens Border"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Ideal Plot Sizes for Building Your Custom House in Sector 8 Ambala Cantt",
@@ -58,14 +61,56 @@
       "Its proximity to key urban infrastructure like major multi-specialty hospitals top educational institutions and bustling commercial markets makes it an undeniable real estate hotspot. We help you compare housing options and current price trends across these closely linked sectors ensuring you make the most informed decision when purchasing a valuable property in this highly desirable region of Ambala."
     ],
     "locations": [
-      "Sector 7 Ambala",
-      "Sector 9 Ambala",
-      "Ambala Cantt Railway Station Road",
-      "Ambala City Main Market",
-      "Mahesh Nagar",
-      "Model Town Extension",
-      "Urban Estate Phase 2",
-      "Housing Board Colony"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Residential Options Finding the Perfect Flat Size in Sector 120 Noida",
@@ -58,12 +61,56 @@
       "Access to the Noida-Greater Noida Expressway is also seamless ensuring fast travel towards Delhi and other parts of the NCR. Beyond infrastructure the sector boasts proximity to top educational institutions reputable healthcare facilities and vibrant retail centers including multiple large format malls. When searching for a Flat For Sale in Sector 120 Noida prospective buyers value the mature ecosystem which guarantees both convenience and potential for robust future appreciation making it a prime residential choice."
     ],
     "locations": [
-      "FNG Expressway Connectivity",
-      "Sector 50 Metro Station Access",
-      "Proximity to major Hospitals",
-      "Leading Schools and Universities nearby",
-      "Shopping Malls and Entertainment Centers",
-      "Direct access to Sector 62 and 63 IT Hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

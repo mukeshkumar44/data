@@ -7,12 +7,18 @@
       "Benefit from unparalleled connectivity, proximity to dense high-income residential catchments, and modern infrastructure specifically designed to support flourishing businesses. Stop wasting time searching through outdated listings and partner with local experts who can connect you directly with verified, high-potential commercial shop rentals in Sector 42. Explore the available inventory now and position your business where it belongs at the heart of Gurugram's growth."
     ],
     "buttons": [
-      { "label": "Browse All Shop Listings", "path": "/listings/sector-42" },
-      { "label": "Request a Call Back", "path": "/contact-us" }
+      {
+        "label": "Browse All Shop Listings",
+        "path": "/listings/sector-42"
+      },
+      {
+        "label": "Request a Call Back",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "shop-front-sector-42.jpg",
-      "commercial-street-faridabad.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "The demographic profile surrounding Sector 42 is characterized by high-density residential areas comprising middle to high-income families. This built-in customer base provides a steady stream of potential buyers directly to the commercial center. Investing in a shop for rent here guarantees you are operating within a thriving market ensuring long-term rental stability and business growth unlike less established peripheral sectors."
     ],
     "locations": [
-      "Proximity to Key Residential Colonies",
-      "Direct Access to Main Sector Road",
-      "Excellent Public Transport Linkages",
-      "Ample Dedicated Customer Parking Spaces",
-      "High Visibility Corner Plots Available",
-      "Adjacent to Reputable Schools and Hospitals"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

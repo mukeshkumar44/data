@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Perfect Plot Sizes When Looking for a Residential Plot For Sale in Sarsehri Ambala",
@@ -57,7 +60,58 @@
       "Sarsehri is rapidly emerging as a preferred residential hub due to its unparalleled connectivity to key areas of Ambala and beyond. Situated near major state and national highways, residents enjoy seamless travel whether commuting to Ambala City Ambala Cantt or Chandigarh. This strategic positioning significantly cuts down travel time, a massive benefit for modern professionals and families. The local infrastructure development includes well-maintained roads, dedicated public transport routes, and planned integration with future municipal utilities.",
       "The appeal of a Plot For Sale in Sarsehri extends beyond mere transport links. The area benefits from proximity to established educational institutions, state-of-the-art healthcare facilities, and budding commercial centers, ensuring all daily necessities are easily accessible. This robust social infrastructure enhances the overall quality of life, making Sarsehri a truly self-sufficient locality. We encourage prospective buyers to consider how this strategic location enhances the investment value and desirability of their future plot ownership in Sarsehri Ambala."
     ],
-    "locations": []
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Why Invest in a Residential Plot For Sale in Sarsehri Ambala Now",

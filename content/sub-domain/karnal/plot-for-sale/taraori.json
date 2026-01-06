@@ -7,10 +7,19 @@
       "Investing in a Plot For Sale in Taraori Karnal means securing a future asset in a strategically located area. Our curated listings include fully legal plots close to main highways, educational institutions, and healthcare facilities. Start your journey towards building a customized home tailored exactly to your specifications rather than settling for a pre-built structure. Explore our selection and take the first step toward permanent residency in a thriving community."
     ],
     "buttons": [
-      { "label": "Browse Verified Listings", "path": "/listings" },
-      { "label": "Request a Site Visit", "path": "/contact" }
+      {
+        "label": "Browse Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Various Plot Sizes Available for Residential Construction in Taraori Karnal",
@@ -52,14 +61,56 @@
       "Our focus extends to areas known for their peaceful environment, robust local markets, and proximity to critical civic infrastructure. Discover plots that offer the best of suburban tranquility while maintaining urban access ensuring convenience for your entire family."
     ],
     "locations": [
-      "Taraori Main City Area",
-      "Near Railway Station Taraori",
-      "Gudda Road Plots",
-      "Adjoining NH-44 Highway",
-      "Areas near Gharaunda",
-      "Pundri Road Extension",
-      "Upcoming Residential Sectors of Taraori",
-      "Plots close to local Mandis and Schools"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Take the crucial next step towards building your dream home or securing a valuable asset in one of Karnal's most promising satellite towns. Our dedicated team is ready to provide personalized consultation and verified listings tailored precisely to your investment goals.",
       "Don’t miss out on the best opportunities for residential plots near NH-44. Fill out the form below and let us help you find the perfect Plot For Sale in Taraori today."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

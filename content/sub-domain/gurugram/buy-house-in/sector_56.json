@@ -7,12 +7,18 @@
       "We offer an exclusive selection of independent houses builder floors and residential plots designed to meet diverse requirements and budgets. Whether you seek a compact 2 BHK independent floor for immediate occupation or a sprawling kothi for your extended family Sector 56 Gurugram provides unparalleled investment potential. Explore our curated listings and take the first step toward owning your perfect home in this upscale locality."
     ],
     "buttons": [
-      { "label": "Explore Independent Floors", "path": "/properties/independent-floors" },
-      { "label": "Request Personalized Viewing", "path": "/contact" }
+      {
+        "label": "Explore Independent Floors",
+        "path": "/properties/independent-floors"
+      },
+      {
+        "label": "Request Personalized Viewing",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "img/sector56_house1.jpg",
-      "img/sector56_house2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Understanding the locality’s micro-environment is vital before making a property decision. Our listings span across all prominent blocks and pockets within Sector 56 ensuring you find a home that fits your locational preferences whether you prioritize closeness to the metro station educational institutions or the main Golf Course Road access."
     ],
     "locations": [
-      "Ardee City Gate Access",
-      "Sector 55-56 Rapid Metro Station",
-      "Golf Course Road Proximity",
-      "Nearby Heritage School",
-      "Omaxe Mall and Retail Centres",
-      "Access to Southern Peripheral Road SPR",
-      "Adjacent to Sector 57 Gurugram",
-      "Close to Hong Kong Bazaar Market"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to move forward and buy house in Sector 56 Contact our specialized real estate team today. We provide bespoke property consultations and detailed market insights tailored to your specific requirements.",
       "Fill out the form below and let us help you secure the ideal independent house or builder floor in this prime Gurugram location efficiently and confidently."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

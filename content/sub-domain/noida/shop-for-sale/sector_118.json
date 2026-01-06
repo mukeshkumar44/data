@@ -7,12 +7,18 @@
       "Investing here means securing a future-proof asset where high foot traffic is guaranteed by surrounding ready-to-move housing complexes and robust urban planning. Whether you are a first-time investor or expanding an existing portfolio these commercial units promise excellent rental yields and sustained business growth. Explore our curated selection of properties designed to meet diverse business needs from small boutique spaces to large anchor stores today."
     ],
     "buttons": [
-      { "label": "Explore Available Shops", "path": "/inventory" },
-      { "label": "Get Investment Brochure", "path": "/brochure" }
+      {
+        "label": "Explore Available Shops",
+        "path": "/inventory"
+      },
+      {
+        "label": "Get Investment Brochure",
+        "path": "/brochure"
+      }
     ],
     "images": [
-      "/images/hero-shop-118-main.jpg",
-      "/images/hero-shop-118-interior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "This location is surrounded by prominent residential sectors such as 119 120 and 78 providing a massive captive audience base right at your doorstep. Key locations that contribute to the high footfall for any shop for sale in Sector 118 include large schools hospitals and established corporate offices in the vicinity. This concentrated mix of residential commercial and institutional infrastructure guarantees sustained demand for retail and services making your investment inherently low-risk and high-reward. We help you pinpoint units strategically located near the highest population densities."
     ],
     "locations": [
-      "Gaur City Mall Commercial Hub",
-      "Sector 50 Established Market",
-      "NH-24 and FNG Expressway Connectivity",
-      "Sector 120 Residential Complex Proximity",
-      "Proposed Metro Rail Extension Link",
-      "Amrapali Platinum High-Density Residents",
-      "Noida Extension Link Road Access",
-      "Proximity to Multiple Schools and Hospitals"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

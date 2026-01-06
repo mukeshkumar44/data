@@ -7,10 +7,19 @@
       "Investing in a flat here means securing a high-appreciation asset in one of Noida’s most promising residential zones. Whether you are looking for a compact 2 BHK for a young family or a spacious 4 BHK penthouse with breathtaking skyline views our comprehensive database covers all configurations and price points. Start your search today and experience the seamless process of acquiring your dream flat in Sector 73 Noida. Our dedicated team is here to simplify negotiations paperwork and legal due diligence making your property purchase both stress-free and financially rewarding."
     ],
     "buttons": [
-      { "label": "View All Flats Listings", "path": "/listings" },
-      { "label": "Request a Free Consultation", "path": "/contact-us" }
+      {
+        "label": "View All Flats Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Free Consultation",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["/images/sector-73-flat-hero-1.jpg", "/images/sector-73-flat-hero-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Flat Configurations Available For Sale in Sector 73 Noida Today",
@@ -52,12 +61,56 @@
       "Areas like Sector 74 Sector 75 and Sector 76 are highly developed residential hubs that offer excellent connectivity and modern amenities just like Sector 73. If your search for a Flat For Sale in Sector 73 requires expanding due to specific budget constraints or desired project features exploring these neighboring sectors can unveil additional premium opportunities close to all necessary conveniences and commercial activities."
     ],
     "locations": [
-      "Sector 74 Noida Premium Apartments",
-      "Sector 75 High-Rise Residential Projects",
-      "Sector 76 Ready-to-Move Flats",
-      "Sector 78 Luxury Housing Options",
-      "Sector 120 Budget-Friendly Flats",
-      "Sector 50 Established Society Living"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Our team of Sector 73 property experts is ready to assist you in navigating the market finding the best deals and securing your ideal home. Whether you need pricing details neighborhood insights or legal advice we are here to provide tailored professional support.",
       "Submit your details below to schedule a viewing receive a personalized list of Flat For Sale in Sector 73 listings or discuss your specific investment goals without any obligation."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

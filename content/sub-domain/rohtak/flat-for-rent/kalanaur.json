@@ -7,10 +7,19 @@
       "Explore diverse options ranging from newly constructed buildings with modern amenities to established homes offering excellent community access. We prioritize transparency and ensure all our Flats For Rent in Kalanaur listings come with clear rental terms, maintenance details, and accurate photographs. Start your search now to experience hassle-free renting and move into your dream home quickly and confidently."
     ],
     "buttons": [
-      { "label": "Explore 1 BHK Rentals", "path": "/1bhk-flats-kalanaur" },
-      { "label": "Schedule a Viewing", "path": "/contact" }
+      {
+        "label": "Explore 1 BHK Rentals",
+        "path": "/1bhk-flats-kalanaur"
+      },
+      {
+        "label": "Schedule a Viewing",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Flats For Rent Options Available Across Prime Areas of Kalanaur Rohtak",
@@ -52,12 +61,56 @@
       "Our location expertise helps renters identify the best neighborhood based on their specific needs, whether that is proximity to the Kalanaur Bus Stand, main educational facilities, or quick access to the Rohtak National Highway. Browse our curated location listings to narrow down your rental search effectively and find a flat that places you right where you need to be."
     ],
     "locations": [
-      "Main Kalanaur Bazaar Area Rentals",
-      "Flats near Kalanaur Bus Stand",
-      "Residential Colony near Railway Crossing",
-      "Rental Properties on Rohtak Road Kalanaur",
-      "New Colonies Development Area",
-      "Affordable Flats near Kalanaur Schools"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

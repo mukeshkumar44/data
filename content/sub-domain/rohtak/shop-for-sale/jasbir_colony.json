@@ -7,10 +7,19 @@
       "Secure your financial future by investing in commercial property today. Our dedicated property consultants offer specialized guidance on documentation pricing and locality analysis ensuring you acquire a shop with clear titles and optimal investment potential in Jasbir Colony Rohtak. Whether you seek a stable rental income asset or a location for your flagship store we have the perfect space waiting for you."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/listings" },
-      { "label": "Schedule a Consultation", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Plot and Shop Sizes Suitable for Every Business in Jasbir Colony",
@@ -52,14 +61,56 @@
       "Explore the surrounding areas that benefit from and contribute to the commercial vitality of shops for sale in Jasbir Colony providing a large catchment area for consumer traffic and services."
     ],
     "locations": [
-      "Jind Road Retail Hub",
-      "Sector 14 Rohtak",
-      "Model Town Commercial Area",
-      "DLF Colony",
-      "Sunaria Industrial Area",
-      "Bus Stand Market",
-      "Shivaji Colony",
-      "Sadar Bazaar Rohtak"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Take the crucial next step towards securing your ideal commercial property investment. Our team is ready to provide you with exclusive access to verified shops for sale that match your business requirements and investment budget.",
       "Fill out the form below to receive personalized property briefs market reports and schedule a site visit to the best commercial locations in Jasbir Colony today."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

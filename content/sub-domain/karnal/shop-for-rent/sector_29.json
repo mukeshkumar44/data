@@ -7,10 +7,19 @@
       "Sector 29 offers unparalleled infrastructure connectivity and a thriving residential catchment area ensuring consistent business activity. Whether you need high street ground floor frontage or a specialized space within a commercial complex our listings provide the best opportunities to establish your presence. Explore sophisticated leasing options and start building your successful enterprise in this coveted location."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/listings" },
-      { "label": "Request Rental Consultation", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Rental Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Options for Every Business Seeking Shop For Rent in Sector 29",
@@ -52,13 +61,56 @@
       "Our expertise ensures you are placed in the specific commercial pocket of Sector 29 that delivers the right demographic mix and traffic volume necessary for your business success. We focus on areas that are future-proofed with robust urban planning and excellent connectivity to the wider city of Karnal."
     ],
     "locations": [
-      "Main Entry Point Commercial Strip Sector 29",
-      "Retail Hub Near Sector 29 Community Centre",
-      "Commercial Complex Facing National Highway Access",
-      "Service Lane Shops Near Residential Colonies",
-      "Areas with High Density of Professional Offices",
-      "Markets Adjacent to Sector 28 Sector 32 Connectivity",
-      "Specific Plazas Offering Dedicated Parking Facilities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -154,6 +206,11 @@
       "Ready to position your business in one of Karnal’s most promising commercial zones Contact our Sector 29 experts today for personalized consultations and access to exclusive off-market listings.",
       "Tell us your exact requirements size location preference and budget and let us match you with the perfect commercial shop rental opportunity."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

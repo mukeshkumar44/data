@@ -1,4 +1,3 @@
-```json
 {
   "domain": "realestateexample.com",
   "hero": {
@@ -8,10 +7,19 @@
       "Durga Nagar is known for its vibrant market and growing commercial potential, making it a smart choice for entrepreneurs. Our rental shops come in various sizes to suit different business needs, ensuring you find the right fit for your venture."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/shops-for-rent" },
-      { "label": "Contact Agent", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/shops-for-rent"
+      },
+      {
+        "label": "Contact Agent",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Shop Sizes Available for Rent in Durga Nagar",
@@ -20,12 +28,30 @@
       "Choose from a range of sizes to match your business needs, with flexible lease terms and competitive rental rates. All shops are located in high-demand areas with excellent infrastructure."
     ],
     "features": [
-      { "title": "100 Sq Ft Shop", "description": "Ideal for small retail outlets, kiosks, or service providers. Compact yet efficient space with high visibility." },
-      { "title": "200 Sq Ft Shop", "description": "Perfect for boutique stores, small showrooms, or professional offices. Offers ample space for displays and customer interaction." },
-      { "title": "300 Sq Ft Shop", "description": "Great for medium-sized retail businesses or food outlets. Provides room for inventory and customer seating." },
-      { "title": "500 Sq Ft Shop", "description": "Suited for larger retail stores, clinics, or service centers. Spacious layout with multiple usage options." },
-      { "title": "800 Sq Ft Shop", "description": "Excellent for showrooms, supermarkets, or restaurants. Offers expansive space for diverse business operations." },
-      { "title": "1000+ Sq Ft Shop", "description": "Ideal for wholesale businesses, large retail chains, or commercial offices. Customizable space for specific business needs." }
+      {
+        "title": "100 Sq Ft Shop",
+        "description": "Ideal for small retail outlets, kiosks, or service providers. Compact yet efficient space with high visibility."
+      },
+      {
+        "title": "200 Sq Ft Shop",
+        "description": "Perfect for boutique stores, small showrooms, or professional offices. Offers ample space for displays and customer interaction."
+      },
+      {
+        "title": "300 Sq Ft Shop",
+        "description": "Great for medium-sized retail businesses or food outlets. Provides room for inventory and customer seating."
+      },
+      {
+        "title": "500 Sq Ft Shop",
+        "description": "Suited for larger retail stores, clinics, or service centers. Spacious layout with multiple usage options."
+      },
+      {
+        "title": "800 Sq Ft Shop",
+        "description": "Excellent for showrooms, supermarkets, or restaurants. Offers expansive space for diverse business operations."
+      },
+      {
+        "title": "1000+ Sq Ft Shop",
+        "description": "Ideal for wholesale businesses, large retail chains, or commercial offices. Customizable space for specific business needs."
+      }
     ]
   },
   "locationsSection": {
@@ -35,14 +61,56 @@
       "Explore these adjacent areas to understand the full potential of setting up your business in Durga Nagar Ambala."
     ],
     "locations": [
-      "Model Town Ambala",
-      "Sector 7 Ambala",
-      "Railway Road Ambala",
-      "Ambala Cantt",
-      "Sector 12 Ambala",
-      "Jagadhari Road Ambala",
-      "Sector 8 Ambala",
-      "NH 44 Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -52,30 +120,84 @@
       "Here are the top reasons why renting a shop in Durga Nagar can benefit your business growth."
     ],
     "points": [
-      { "title": "Strategic Location", "description": "Durga Nagar is centrally located with excellent connectivity to major roads and residential areas, ensuring high visibility and footfall for your business." },
-      { "title": "Growing Commercial Hub", "description": "The area is rapidly developing as a commercial center, attracting diverse businesses and creating a vibrant market ecosystem." },
-      { "title": "Affordable Rental Rates", "description": "Compared to other commercial areas in Ambala, Durga Nagar offers competitive rental prices without compromising on location quality." },
-      { "title": "Diverse Customer Base", "description": "Proximity to residential colonies and educational institutions ensures a steady flow of customers from various demographics." },
-      { "title": "Modern Infrastructure", "description": "Well-planned roads, reliable electricity, and proper drainage systems create a conducive environment for business operations." },
-      { "title": "Security and Safety", "description": "The area is well-maintained with adequate security measures, giving peace of mind to shop owners and customers alike." },
-      { "title": "Future Appreciation Potential", "description": "With ongoing development projects, property values in Durga Nagar are expected to rise, making it a smart long-term investment." },
-      { "title": "Flexible Lease Options", "description": "We offer customizable lease terms to accommodate different business needs and growth plans." }
+      {
+        "title": "Strategic Location",
+        "description": "Durga Nagar is centrally located with excellent connectivity to major roads and residential areas, ensuring high visibility and footfall for your business."
+      },
+      {
+        "title": "Growing Commercial Hub",
+        "description": "The area is rapidly developing as a commercial center, attracting diverse businesses and creating a vibrant market ecosystem."
+      },
+      {
+        "title": "Affordable Rental Rates",
+        "description": "Compared to other commercial areas in Ambala, Durga Nagar offers competitive rental prices without compromising on location quality."
+      },
+      {
+        "title": "Diverse Customer Base",
+        "description": "Proximity to residential colonies and educational institutions ensures a steady flow of customers from various demographics."
+      },
+      {
+        "title": "Modern Infrastructure",
+        "description": "Well-planned roads, reliable electricity, and proper drainage systems create a conducive environment for business operations."
+      },
+      {
+        "title": "Security and Safety",
+        "description": "The area is well-maintained with adequate security measures, giving peace of mind to shop owners and customers alike."
+      },
+      {
+        "title": "Future Appreciation Potential",
+        "description": "With ongoing development projects, property values in Durga Nagar are expected to rise, making it a smart long-term investment."
+      },
+      {
+        "title": "Flexible Lease Options",
+        "description": "We offer customizable lease terms to accommodate different business needs and growth plans."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Renting Shops in Durga Nagar",
     "description": "Find answers to common queries about shop rentals in Durga Nagar Ambala. If you have additional questions, our team is always ready to assist you.",
     "faqs": [
-      { "question": "What is the average rental price for shops in Durga Nagar Ambala", "answer": "Rental prices vary based on shop size and exact location, typically ranging from ₹5,000 to ₹25,000 per month. Prime locations with higher footfall may command premium rates." },
-      { "question": "Are there any hidden charges when renting a shop in Durga Nagar", "answer": "We maintain complete transparency in all transactions. The rental agreement clearly outlines all charges including security deposit, maintenance fees if applicable, and utility payments." },
-      { "question": "What types of businesses are most successful in Durga Nagar", "answer": "The area supports diverse businesses including clothing stores, electronics shops, pharmacies, grocery stores, eateries, and service providers like salons or repair shops." },
-      { "question": "How long is the typical lease agreement for shops in this area", "answer": "Standard lease terms are 11 months renewable, though we can negotiate longer durations (2-3 years) for established businesses seeking stability." },
-      { "question": "Is parking available for customers at Durga Nagar shops", "answer": "Most shop complexes have designated parking areas. Some prime locations offer street parking as well, though availability may vary during peak hours." },
-      { "question": "Can I make structural modifications to the rented shop space", "answer": "Minor modifications are usually permitted with owner consent. Major structural changes require prior approval and may need to be restored when vacating." },
-      { "question": "What are the peak business hours in Durga Nagar Ambala", "answer": "The area sees consistent footfall from 10 AM to 9 PM, with peak hours typically between 5 PM to 8 PM when residents return from work." },
-      { "question": "How quickly can I occupy a shop after completing paperwork", "answer": "After agreement signing and deposit payment, shops are typically handed over within 2-3 working days unless specified otherwise." },
-      { "question": "Are there restrictions on business signage for rented shops", "answer": "Signage policies vary by complex. Generally, tasteful signage matching the building aesthetics is permitted within specified dimensions." },
-      { "question": "What happens if I need to terminate my lease early", "answer": "Early termination policies are outlined in your agreement. Typically, advance notice and forfeiture of security deposit apply, though we try to accommodate genuine cases." }
+      {
+        "question": "What is the average rental price for shops in Durga Nagar Ambala",
+        "answer": "Rental prices vary based on shop size and exact location, typically ranging from ₹5,000 to ₹25,000 per month. Prime locations with higher footfall may command premium rates."
+      },
+      {
+        "question": "Are there any hidden charges when renting a shop in Durga Nagar",
+        "answer": "We maintain complete transparency in all transactions. The rental agreement clearly outlines all charges including security deposit, maintenance fees if applicable, and utility payments."
+      },
+      {
+        "question": "What types of businesses are most successful in Durga Nagar",
+        "answer": "The area supports diverse businesses including clothing stores, electronics shops, pharmacies, grocery stores, eateries, and service providers like salons or repair shops."
+      },
+      {
+        "question": "How long is the typical lease agreement for shops in this area",
+        "answer": "Standard lease terms are 11 months renewable, though we can negotiate longer durations (2-3 years) for established businesses seeking stability."
+      },
+      {
+        "question": "Is parking available for customers at Durga Nagar shops",
+        "answer": "Most shop complexes have designated parking areas. Some prime locations offer street parking as well, though availability may vary during peak hours."
+      },
+      {
+        "question": "Can I make structural modifications to the rented shop space",
+        "answer": "Minor modifications are usually permitted with owner consent. Major structural changes require prior approval and may need to be restored when vacating."
+      },
+      {
+        "question": "What are the peak business hours in Durga Nagar Ambala",
+        "answer": "The area sees consistent footfall from 10 AM to 9 PM, with peak hours typically between 5 PM to 8 PM when residents return from work."
+      },
+      {
+        "question": "How quickly can I occupy a shop after completing paperwork",
+        "answer": "After agreement signing and deposit payment, shops are typically handed over within 2-3 working days unless specified otherwise."
+      },
+      {
+        "question": "Are there restrictions on business signage for rented shops",
+        "answer": "Signage policies vary by complex. Generally, tasteful signage matching the building aesthetics is permitted within specified dimensions."
+      },
+      {
+        "question": "What happens if I need to terminate my lease early",
+        "answer": "Early termination policies are outlined in your agreement. Typically, advance notice and forfeiture of security deposit apply, though we try to accommodate genuine cases."
+      }
     ]
   },
   "contactSection": {
@@ -84,7 +206,11 @@
       "Our team of commercial property experts can help you find the perfect shop for your business needs in Durga Nagar Ambala.",
       "Fill out the form below and we'll contact you with available options matching your requirements."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }
-```

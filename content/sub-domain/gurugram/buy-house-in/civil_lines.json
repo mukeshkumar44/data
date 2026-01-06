@@ -7,10 +7,19 @@
       "Explore diverse property options ranging from compact family homes to sprawling luxury estates all situated within secure, well-maintained sectors of Civil Lines Gurugram. This locality provides quick access to major business hubs educational institutions and healthcare facilities ensuring a convenient and upscale existence for your family. Start your journey today to find the ideal residential property that meets your high standards of comfort and strategic location."
     ],
     "buttons": [
-      { "label": "Explore Houses for Sale Now", "path": "/properties/civil-lines" },
-      { "label": "Request a Local Area Tour", "path": "/contact" }
+      {
+        "label": "Explore Houses for Sale Now",
+        "path": "/properties/civil-lines"
+      },
+      {
+        "label": "Request a Local Area Tour",
+        "path": "/contact"
+      }
     ],
-    "images": ["url_hero_image_1", "url_hero_image_2"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Find the Perfect Size House in Civil Lines Suitable for Every Family Requirement",
@@ -52,14 +61,56 @@
       "Our listings are meticulously categorized not just by plot size but also by their immediate vicinity within Civil Lines ensuring you find a house that perfectly matches your lifestyle needs and locational preferences. Explore the benefits of living close to the city center while enjoying the peaceful environment Civil Lines is famous for."
     ],
     "locations": [
-      "DLF Phase 4",
-      "Sadar Bazaar Access",
-      "Sector 14 Residential",
-      "M G Road Proximity",
-      "Railway Road Connectivity",
-      "Old Delhi Road Area",
-      "Gurugram City Center",
-      "Sheetla Mata Road Enclave"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning a prestigious house in Civil Lines Gurugram Get in touch with our dedicated team of local real estate experts who possess intimate knowledge of current market listings and investment opportunities.",
       "Submit your inquiry below detailing your specific requirements whether for a family home or a strategic investment property. We guarantee personalized service and confidential consultation to help you buy the perfect residential asset."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

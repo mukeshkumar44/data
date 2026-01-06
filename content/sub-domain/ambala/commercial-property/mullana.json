@@ -16,7 +16,10 @@
         "path": "/guide"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Ideal Commercial Plot Sizes Available for Investment in Developing Mullana Ambala",
@@ -58,12 +61,56 @@
       "Properties situated along the Ambala-Jagadhri Highway NH-344 are exceptional for logistics large showrooms and businesses requiring high visibility and easy access for trucks and customers traveling between major cities. We curate commercial plots specifically within these high-growth corridors ensuring maximum exposure and tenant demand. Investing in commercial property for sale in Mullana means choosing strategic access proximity to essential services and a rapidly expanding demographic base ready to support new enterprises. Let us guide you to the commercial location that provides the highest return on investment."
     ],
     "locations": [
-      "Near Mullana University Campus",
-      "Ambala-Jagadhri Highway Frontage",
-      "Main Market Area Mullana",
-      "RTA Approved Commercial Hubs",
-      "Plots near Residential Societies",
-      "Industrial Area Adjacent Mullana"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

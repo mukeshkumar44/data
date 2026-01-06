@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Features to Look for When Renting a Commercial Shop in Manesar",
@@ -58,13 +61,56 @@
       "Conversely, sectors closer to the institutional areas provide a stable, educated customer base ideal for specialized services, cafes, and professional practices. We also highlight emerging commercial corridors adjacent to established residential societies where daily needs and convenience shopping thrive. Understanding the demographic profile and existing commercial density of each locality is crucial for maximizing return on investment and ensuring long-term viability. Let our detailed local insights guide you toward the most profitable address for your specific business niche here in Manesar."
     ],
     "locations": [
-      "Sector 1 Manesar Industrial Area",
-      "IMT Manesar Pocket L",
-      "Near National Highway 48 Commercial Belt",
-      "Panchgaon Commercial Center",
-      "Sector 8 Manesar",
-      "Kasan Village Main Market",
-      "Sector M1/M2 High Street"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

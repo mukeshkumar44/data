@@ -7,12 +7,18 @@
       "We simplify the rental process, connecting you directly with the best available properties that meet your specific budget and lifestyle needs. Whether you are a student, a working professional, or a family seeking premium living, discovering your ideal rental apartment in NH 22 has never been easier. Explore modern amenities, secure complexes, and a vibrant community atmosphere right on the National Highway 22 corridor."
     ],
     "buttons": [
-      { "label": "Browse Premium Flats", "path": "/search" },
-      { "label": "Request a Callback Today", "path": "/contact" }
+      {
+        "label": "Browse Premium Flats",
+        "path": "/search"
+      },
+      {
+        "label": "Request a Callback Today",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "nh22_flat_hero1.jpg",
-      "nh22_flat_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Explore these popular areas known for providing high-quality rental accommodation. Each locality near NH 22 offers distinct advantages in terms of environment, community profile, and convenience, making the search for your perfect Flat For Rent in NH 22 more focused and efficient."
     ],
     "locations": [
-      "Ambala Cantt Residential Zones",
-      "Sector 7 Ambala",
-      "Sector 8 Ambala",
-      "Dhulkot Neighbourhood",
-      "Near Ambala City Junction",
-      "Close to Industrial Area NH 22",
-      "Baldev Nagar",
-      "Model Town Extension"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

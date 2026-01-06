@@ -7,10 +7,19 @@
       "Whether you are planning to launch a flagship retail outlet build a modern corporate office complex or establish essential service centers finding the perfect Commercial Property For Sale in Jaggi Garden is your first step towards substantial returns. Our available inventory includes diverse plot sizes and constructed buildings catering to various scales of enterprise ensuring your investment is both secure and tailored to future expansion needs. Connect with our commercial real estate experts to explore listings that align with your financial goals and long-term business strategy."
     ],
     "buttons": [
-      { "label": "View Commercial Listings", "path": "/listings" },
-      { "label": "Request Investment Guide", "path": "/contact" }
+      {
+        "label": "View Commercial Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Investment Guide",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Ideal Commercial Land Sizes for Strategic Investment in Jaggi Garden Ambala",
@@ -52,12 +61,56 @@
       "This central location significantly enhances the value proposition of any Commercial Property For Sale in Jaggi Garden. Investors benefit from the spillover effect of neighboring high-traffic areas and excellent transportation links ensuring that your business premises are never isolated. We highlight some of the key commercial magnets within a short drive of Jaggi Garden Ambala."
     ],
     "locations": [
-      "Ambala Cantt Market area",
-      "Ambala City Business District",
-      "National Highway 44 connectivity corridor",
-      "Mansa Devi Road commercial development",
-      "Model Town Ambala service sector zone",
-      "Railway Station logistics and transport hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to secure your high-return Commercial Property For Sale in Jaggi Garden Ambala",
       "Our expert team is here to provide personalized investment advice detailed site visits and comprehensive market reports tailored to your specific commercial requirements. Contact us now to take the next step towards profitable real estate acquisition."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

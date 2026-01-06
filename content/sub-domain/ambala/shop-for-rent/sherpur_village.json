@@ -7,10 +7,19 @@
       "Our team is dedicated to helping you find the best shop for rent in Sherpur Village that aligns with your business goals. With competitive pricing and transparent processes, renting a shop has never been easier. Explore our curated selection and take the first step toward establishing your business in this vibrant locality."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/shops" },
-      { "label": "Contact Us", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/shops"
+      },
+      {
+        "label": "Contact Us",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Available Shops For Rent in Sherpur Village",
@@ -19,12 +28,30 @@
       "Our team carefully selects shops that meet modern standards, ensuring they are well-maintained and ready for immediate use. Whether you are looking for a shop in a bustling market area or a quieter neighborhood, Sherpur Village has options to suit every preference."
     ],
     "features": [
-      { "title": "Compact Shops", "description": "Perfect for small businesses, these shops offer affordable rental options without compromising on location or accessibility." },
-      { "title": "Medium-Sized Shops", "description": "Ideal for mid-sized businesses, these spaces provide ample room for operations and customer interactions." },
-      { "title": "Spacious Retail Outlets", "description": "Designed for larger businesses, these outlets offer extensive floor space and high visibility for maximum impact." },
-      { "title": "Prime Location Shops", "description": "Located in bustling areas, these shops ensure high foot traffic and increased customer engagement." },
-      { "title": "Affordable Rentals", "description": "Budget-friendly options for startups and small businesses looking to establish themselves in Sherpur Village." },
-      { "title": "Ready-to-Use Spaces", "description": "Fully maintained shops that are ready for immediate occupancy, saving you time and effort." }
+      {
+        "title": "Compact Shops",
+        "description": "Perfect for small businesses, these shops offer affordable rental options without compromising on location or accessibility."
+      },
+      {
+        "title": "Medium-Sized Shops",
+        "description": "Ideal for mid-sized businesses, these spaces provide ample room for operations and customer interactions."
+      },
+      {
+        "title": "Spacious Retail Outlets",
+        "description": "Designed for larger businesses, these outlets offer extensive floor space and high visibility for maximum impact."
+      },
+      {
+        "title": "Prime Location Shops",
+        "description": "Located in bustling areas, these shops ensure high foot traffic and increased customer engagement."
+      },
+      {
+        "title": "Affordable Rentals",
+        "description": "Budget-friendly options for startups and small businesses looking to establish themselves in Sherpur Village."
+      },
+      {
+        "title": "Ready-to-Use Spaces",
+        "description": "Fully maintained shops that are ready for immediate occupancy, saving you time and effort."
+      }
     ]
   },
   "locationsSection": {
@@ -34,14 +61,56 @@
       "Explore these neighboring areas to discover more opportunities for business growth and community engagement."
     ],
     "locations": [
-      "Ambala Cantt",
-      "Sector 7 Ambala",
-      "Sector 8 Ambala",
-      "Sector 9 Ambala",
-      "Naraingarh",
-      "Barara",
-      "Mullanpur",
-      "Shahpur"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -51,30 +120,84 @@
       "From affordable rental options to excellent connectivity, Sherpur Village offers everything you need to establish and grow your business. Join the growing number of successful businesses in this vibrant locality."
     ],
     "points": [
-      { "title": "Strategic Location", "description": "Sherpur Village is well-connected to major roads and highways, ensuring easy access for customers and suppliers." },
-      { "title": "Growing Customer Base", "description": "The area's increasing population provides a steady stream of potential customers for your business." },
-      { "title": "Modern Infrastructure", "description": "Shops in Sherpur Village are equipped with modern amenities, ensuring a comfortable and efficient workspace." },
-      { "title": "Affordable Rentals", "description": "Competitive rental prices make Sherpur Village an attractive option for businesses of all sizes." },
-      { "title": "High Foot Traffic", "description": "Many shops are located in bustling areas, ensuring maximum visibility and customer engagement." },
-      { "title": "Supportive Community", "description": "Sherpur Village boasts a welcoming and supportive community, making it easier for businesses to thrive." },
-      { "title": "Proximity to Amenities", "description": "Essential amenities such as banks, schools, and hospitals are conveniently located nearby." },
-      { "title": "Transparent Processes", "description": "Our team ensures a hassle-free rental process with complete transparency and professionalism." }
+      {
+        "title": "Strategic Location",
+        "description": "Sherpur Village is well-connected to major roads and highways, ensuring easy access for customers and suppliers."
+      },
+      {
+        "title": "Growing Customer Base",
+        "description": "The area's increasing population provides a steady stream of potential customers for your business."
+      },
+      {
+        "title": "Modern Infrastructure",
+        "description": "Shops in Sherpur Village are equipped with modern amenities, ensuring a comfortable and efficient workspace."
+      },
+      {
+        "title": "Affordable Rentals",
+        "description": "Competitive rental prices make Sherpur Village an attractive option for businesses of all sizes."
+      },
+      {
+        "title": "High Foot Traffic",
+        "description": "Many shops are located in bustling areas, ensuring maximum visibility and customer engagement."
+      },
+      {
+        "title": "Supportive Community",
+        "description": "Sherpur Village boasts a welcoming and supportive community, making it easier for businesses to thrive."
+      },
+      {
+        "title": "Proximity to Amenities",
+        "description": "Essential amenities such as banks, schools, and hospitals are conveniently located nearby."
+      },
+      {
+        "title": "Transparent Processes",
+        "description": "Our team ensures a hassle-free rental process with complete transparency and professionalism."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shops For Rent in Sherpur Village",
     "description": "Here are some common questions and answers to help you understand the process of renting a shop in Sherpur Village.",
     "faqs": [
-      { "question": "What types of shops are available for rent in Sherpur Village", "answer": "We offer a variety of shops, including compact spaces for small businesses, medium-sized shops for mid-sized businesses, and spacious retail outlets for larger operations." },
-      { "question": "What is the average rental price for shops in Sherpur Village", "answer": "Rental prices vary depending on the size and location of the shop. We offer affordable options to suit different budgets." },
-      { "question": "Are the shops ready for immediate occupancy", "answer": "Yes, most of our listed shops are fully maintained and ready for immediate use, saving you time and effort." },
-      { "question": "What amenities are available near shops in Sherpur Village", "answer": "Shops in Sherpur Village are located near essential amenities such as banks, schools, hospitals, and public transportation." },
-      { "question": "How do I apply to rent a shop in Sherpur Village", "answer": "You can contact our team through the website or visit our office to discuss your requirements and begin the application process." },
-      { "question": "Is Sherpur Village a good location for business", "answer": "Yes, Sherpur Village is a thriving commercial hub with excellent connectivity and a growing customer base, making it an ideal location for businesses." },
-      { "question": "Can I customize the shop space to suit my business needs", "answer": "Most landlords allow customization of the shop space, but it is best to discuss this during the rental agreement process." },
-      { "question": "What is the lease duration for shops in Sherpur Village", "answer": "Lease durations vary but typically range from one to three years, with options for renewal." },
-      { "question": "Are there any hidden costs involved in renting a shop", "answer": "We ensure complete transparency in our rental process, with all costs clearly outlined before you sign any agreement." },
-      { "question": "How can I find the best shop for my business in Sherpur Village", "answer": "Our team will work with you to understand your business needs and recommend the best available options in Sherpur Village." }
+      {
+        "question": "What types of shops are available for rent in Sherpur Village",
+        "answer": "We offer a variety of shops, including compact spaces for small businesses, medium-sized shops for mid-sized businesses, and spacious retail outlets for larger operations."
+      },
+      {
+        "question": "What is the average rental price for shops in Sherpur Village",
+        "answer": "Rental prices vary depending on the size and location of the shop. We offer affordable options to suit different budgets."
+      },
+      {
+        "question": "Are the shops ready for immediate occupancy",
+        "answer": "Yes, most of our listed shops are fully maintained and ready for immediate use, saving you time and effort."
+      },
+      {
+        "question": "What amenities are available near shops in Sherpur Village",
+        "answer": "Shops in Sherpur Village are located near essential amenities such as banks, schools, hospitals, and public transportation."
+      },
+      {
+        "question": "How do I apply to rent a shop in Sherpur Village",
+        "answer": "You can contact our team through the website or visit our office to discuss your requirements and begin the application process."
+      },
+      {
+        "question": "Is Sherpur Village a good location for business",
+        "answer": "Yes, Sherpur Village is a thriving commercial hub with excellent connectivity and a growing customer base, making it an ideal location for businesses."
+      },
+      {
+        "question": "Can I customize the shop space to suit my business needs",
+        "answer": "Most landlords allow customization of the shop space, but it is best to discuss this during the rental agreement process."
+      },
+      {
+        "question": "What is the lease duration for shops in Sherpur Village",
+        "answer": "Lease durations vary but typically range from one to three years, with options for renewal."
+      },
+      {
+        "question": "Are there any hidden costs involved in renting a shop",
+        "answer": "We ensure complete transparency in our rental process, with all costs clearly outlined before you sign any agreement."
+      },
+      {
+        "question": "How can I find the best shop for my business in Sherpur Village",
+        "answer": "Our team will work with you to understand your business needs and recommend the best available options in Sherpur Village."
+      }
     ]
   },
   "contactSection": {
@@ -83,6 +206,11 @@
       "If you have any questions or would like to explore available shops for rent in Sherpur Village, our team is here to help. Reach out to us today for personalized assistance.",
       "Fill out the form below, and we will get back to you promptly with all the information you need."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

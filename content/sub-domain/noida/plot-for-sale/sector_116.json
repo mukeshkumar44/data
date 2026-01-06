@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-plot-sector116-1.jpg",
-      "hero-map-sector116.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "When you purchase a Plot For Sale in Sector 116, you are not just buying land, you are investing in unmatched convenience. Explore the immediate vicinity which features renowned educational institutions, world-class hospitals, and vibrant retail and shopping spaces, all contributing to a complete and holistic family living experience."
     ],
     "locations": [
-      "Sector 115 Noida",
-      "Sector 117 Noida",
-      "Sector 78 Noida",
-      "FNG Expressway Proximity",
-      "Sector 118 Noida",
-      "Sector 120 Noida",
-      "Gautam Buddha University nearby",
-      "Major Metro Station Linkages"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

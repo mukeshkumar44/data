@@ -17,7 +17,8 @@
       }
     ],
     "images": [
-      "flat_sector_63a_noida_hero_view.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -60,14 +61,56 @@
       "Furthermore, the area benefits from close proximity to existing metro lines and well-established commercial hubs. This ensures that essential services, shopping centers, and top-tier healthcare are always within easy reach. When you buy a Flat For Sale in Sector 63A, you are investing in a future where convenience and connectivity are guaranteed ensuring long-term residential satisfaction and growth."
     ],
     "locations": [
-      "Electronic City Metro Station 5 Mins",
-      "Noida Sector 62 Institutional Area",
-      "Delhi-Meerut Expressway NH-9 Access",
-      "Fortis Hospital & Major Healthcare 10 Mins",
-      "FNG Expressway Connectivity Corridor",
-      "Gautam Buddha University Campus",
-      "Key Shopping Malls & Retail Centers",
-      "Direct Road Access to Ghaziabad"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

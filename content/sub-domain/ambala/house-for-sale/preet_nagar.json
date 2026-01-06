@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Range of Independent House Sizes Available for Sale in Preet Nagar Ambala",
@@ -58,14 +61,56 @@
       "The locality is well-served by public transport, making commutes to employment hubs seamless. Furthermore, its proximity to established educational institutions and top-tier healthcare facilities ensures that residents enjoy a comprehensive urban lifestyle without the congestion of the main city center. We also feature properties in adjacent areas that share similar infrastructure benefits, offering diverse price points. Explore these neighboring residential options if you are broadening your search for independent houses in the region."
     ],
     "locations": [
-      "Houses in Ambala Cantt",
-      "Residential Plots near Sector 9",
-      "Independent Villas in Defence Colony Ambala",
-      "Property Listings in Baldev Nagar Ambala",
-      "Bungalows for Sale near Model Town Ambala",
-      "Homes in Mahesh Nagar Ambala",
-      "Flats near Industrial Area Ambala",
-      "Luxury Homes near Civil Lines"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

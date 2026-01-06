@@ -7,10 +7,19 @@
       "Finding an affordable house in Sector 119 does not mean compromising on essential amenities. This area benefits from proximity to major commercial sectors, top educational institutions, and healthcare facilities, making it ideal for families and working professionals. Our comprehensive listings are curated daily to ensure you see the best value properties available, focusing on transparent pricing and clear documentation. Start your search today and secure your ideal home without straining your finances."
     ],
     "buttons": [
-      { "label": "View Affordable Listings", "path": "/listings" },
-      { "label": "Contact Property Advisor", "path": "/contact" }
+      {
+        "label": "View Affordable Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Contact Property Advisor",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Ideal Plot Sizes for Constructing Your Affordable House in Sector 119 Noida",
@@ -52,13 +61,56 @@
       "Our team provides insight into these adjacent sectors ensuring you make an informed decision by comparing prices, amenities, and future growth prospects across the entire Noida micro-market. These locations offer great alternatives without sacrificing connectivity to major routes."
     ],
     "locations": [
-      "Sector 120 Noida",
-      "Sector 72 Noida",
-      "Sector 73 Noida",
-      "Sector 118 Noida",
-      "Sector 51 Noida",
-      "Chhajarsi Village",
-      "Hoshiarpur Village"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

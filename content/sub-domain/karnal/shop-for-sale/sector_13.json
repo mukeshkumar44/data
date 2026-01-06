@@ -7,12 +7,18 @@
       "Unlock high rental yields and impressive capital appreciation by securing your commercial space today. Whether you are looking for a small retail unit a mid-size store or a large showroom property we connect you with verified listings that meet your exact business needs. Explore the best locations near high-density residential zones and enjoy robust footfall guaranteeing success for your venture."
     ],
     "buttons": [
-      { "label": "View All Shop Listings", "path": "/listings" },
-      { "label": "Request Investment Consultation", "path": "/contact" }
+      {
+        "label": "View All Shop Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Investment Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/shop-sector-13-karnal-hero-1.jpg",
-      "/images/shop-sector-13-karnal-hero-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Explore the synergistic effect of proximity to major consumer bases and easy access to essential amenities. This locational advantage makes any Shop For Sale in Sector 13 a powerful asset in your investment portfolio providing reliable customer traffic throughout the year."
     ],
     "locations": [
-      "Sector 14 Retail Corridor",
-      "Kunjpura Road Access Point",
-      "NH 44 National Highway Connectivity",
-      "High Density Residential Areas of Sector 7 and 8",
-      "Bus Stand and Railway Station Proximity",
-      "Major Educational Institutions Nearby",
-      "City Centre Market Area",
-      "Industrial Area connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to capitalize on the premier commercial market in Sector 13 Karnal Contact our expert property advisors today for personalized listings and detailed financial projections.",
       "Fill out the form below to receive a curated portfolio of the best available shops matching your investment criteria and schedule a site visit instantly."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "img/hero/sector70_view1.jpg",
-      "img/hero/sector70_map.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,13 +61,56 @@
       "The planned infrastructure surrounding Sector 70 includes wide roads proximity to major expressways and robust public transport networks ensuring seamless travel across Noida and even to Delhi NCR. These location advantages solidify Sector 70 as not just an affordable option but a future-proof residential choice."
     ],
     "locations": [
-      "Sector 52 Metro Station",
-      "FNG Expressway Access",
-      "Fortis Hospital Noida",
-      "GIP Mall & Atta Market",
-      "Prominent Schools Nearby",
-      "IT Hub Sector 62",
-      "Sector 50 Residential Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

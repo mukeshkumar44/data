@@ -1,4 +1,3 @@
-```json
 {
   "domain": "ranabaghproperties.com",
   "hero": {
@@ -8,10 +7,19 @@
       "With flexible leasing options and modern amenities, these shops provide the ideal foundation for your entrepreneurial success. Explore our available spaces today and secure your spot in one of Ambala's most vibrant commercial hubs."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/shop-for-rent" },
-      { "label": "Contact Agent", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/shop-for-rent"
+      },
+      {
+        "label": "Contact Agent",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Shop Spaces Available in Rana Bagh Ambala",
@@ -20,12 +28,30 @@
       "Each shop comes with essential amenities and is located in prime commercial zones with excellent connectivity to major roads and residential areas."
     ],
     "features": [
-      { "title": "100 Sq Ft Shop", "description": "Compact retail space perfect for small businesses, kiosks or service providers looking for affordable commercial property in Rana Bagh Ambala with high visibility." },
-      { "title": "200 Sq Ft Shop", "description": "Versatile commercial space suitable for boutique stores, mobile shops or small showrooms in the heart of Rana Bagh's business district." },
-      { "title": "300 Sq Ft Shop", "description": "Spacious retail unit ideal for growing businesses needing display areas and storage space in a prime commercial location." },
-      { "title": "400 Sq Ft Shop", "description": "Large commercial space perfect for established retailers, pharmacies or service centers requiring substantial floor area." },
-      { "title": "500 Sq Ft Shop", "description": "Premium commercial property with excellent frontage, suitable for showrooms or multi-product retail outlets." },
-      { "title": "600+ Sq Ft Shop", "description": "Expansive commercial space for large businesses, supermarkets or multiple product categories with ample customer area." }
+      {
+        "title": "100 Sq Ft Shop",
+        "description": "Compact retail space perfect for small businesses, kiosks or service providers looking for affordable commercial property in Rana Bagh Ambala with high visibility."
+      },
+      {
+        "title": "200 Sq Ft Shop",
+        "description": "Versatile commercial space suitable for boutique stores, mobile shops or small showrooms in the heart of Rana Bagh's business district."
+      },
+      {
+        "title": "300 Sq Ft Shop",
+        "description": "Spacious retail unit ideal for growing businesses needing display areas and storage space in a prime commercial location."
+      },
+      {
+        "title": "400 Sq Ft Shop",
+        "description": "Large commercial space perfect for established retailers, pharmacies or service centers requiring substantial floor area."
+      },
+      {
+        "title": "500 Sq Ft Shop",
+        "description": "Premium commercial property with excellent frontage, suitable for showrooms or multi-product retail outlets."
+      },
+      {
+        "title": "600+ Sq Ft Shop",
+        "description": "Expansive commercial space for large businesses, supermarkets or multiple product categories with ample customer area."
+      }
     ]
   },
   "locationsSection": {
@@ -35,16 +61,56 @@
       "Business owners often consider these adjacent commercial hubs when looking for shop spaces in the Rana Bagh vicinity."
     ],
     "locations": [
-      "Ambala Cantt Market",
-      "Ambala City Main Bazaar",
-      "Railway Road Commercial Area",
-      "Jagadhari Road Business District",
-      "Naraingarh Road Market",
-      "Patel Nagar Commercial Complex",
-      "Model Town Market",
-      "Baldev Nagar Shopping Center",
-      "Kalka Road Business Hub",
-      "Naraingarh Road Market"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -54,30 +120,84 @@
       "From strategic locations to modern facilities, discover why entrepreneurs choose Rana Bagh for their commercial ventures."
     ],
     "points": [
-      { "title": "Prime Location Advantage", "description": "Rana Bagh enjoys central positioning with excellent connectivity to major roads, residential areas and transportation hubs, ensuring high visibility and foot traffic for your business." },
-      { "title": "Diverse Customer Base", "description": "The area attracts shoppers from nearby residential colonies, office complexes and transit points, providing access to a wide range of potential customers." },
-      { "title": "Competitive Rental Rates", "description": "Our shop spaces offer excellent value with reasonable rental prices compared to other commercial areas in Ambala, helping you optimize operational costs." },
-      { "title": "Modern Infrastructure", "description": "Well-designed commercial spaces with proper ventilation, electricity backup and maintenance services to support your business operations smoothly." },
-      { "title": "Flexible Lease Options", "description": "Customizable rental agreements to suit different business needs, including short-term and long-term leasing arrangements with transparent terms." },
-      { "title": "Established Commercial Hub", "description": "Benefit from being part of a recognized business district with complementary shops and services that create a synergistic shopping environment." },
-      { "title": "Ample Parking Facilities", "description": "Dedicated customer parking areas ensure convenience for your clients, a crucial factor for retail success in Ambala." },
-      { "title": "Future Growth Potential", "description": "With ongoing development projects in the area, Rana Bagh is poised for commercial growth, making it a smart long-term investment for your business." }
+      {
+        "title": "Prime Location Advantage",
+        "description": "Rana Bagh enjoys central positioning with excellent connectivity to major roads, residential areas and transportation hubs, ensuring high visibility and foot traffic for your business."
+      },
+      {
+        "title": "Diverse Customer Base",
+        "description": "The area attracts shoppers from nearby residential colonies, office complexes and transit points, providing access to a wide range of potential customers."
+      },
+      {
+        "title": "Competitive Rental Rates",
+        "description": "Our shop spaces offer excellent value with reasonable rental prices compared to other commercial areas in Ambala, helping you optimize operational costs."
+      },
+      {
+        "title": "Modern Infrastructure",
+        "description": "Well-designed commercial spaces with proper ventilation, electricity backup and maintenance services to support your business operations smoothly."
+      },
+      {
+        "title": "Flexible Lease Options",
+        "description": "Customizable rental agreements to suit different business needs, including short-term and long-term leasing arrangements with transparent terms."
+      },
+      {
+        "title": "Established Commercial Hub",
+        "description": "Benefit from being part of a recognized business district with complementary shops and services that create a synergistic shopping environment."
+      },
+      {
+        "title": "Ample Parking Facilities",
+        "description": "Dedicated customer parking areas ensure convenience for your clients, a crucial factor for retail success in Ambala."
+      },
+      {
+        "title": "Future Growth Potential",
+        "description": "With ongoing development projects in the area, Rana Bagh is poised for commercial growth, making it a smart long-term investment for your business."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Renting Shops in Rana Bagh Ambala",
     "description": "Get answers to common queries about commercial property rental in Rana Bagh Ambala to make informed decisions for your business.",
     "faqs": [
-      { "question": "What types of businesses are suitable for Rana Bagh shops", "answer": "Rana Bagh shops are ideal for various businesses including clothing stores, electronics shops, pharmacies, grocery stores, beauty salons, stationery shops, and food outlets. The area's diverse foot traffic supports multiple retail concepts." },
-      { "question": "What is the average rental price for shops in Rana Bagh", "answer": "Rental prices vary based on size and location within Rana Bagh, typically ranging from ₹15,000 to ₹50,000 per month. Ground floor shops with better visibility command higher rents. Contact us for current pricing on available units." },
-      { "question": "Are there any hidden charges in the rental agreement", "answer": "We maintain complete transparency in all transactions. The rental agreement clearly outlines all charges including security deposit, maintenance fees if applicable, and utility payments. Our team will explain all terms before you sign." },
-      { "question": "Can I get a short-term lease for my shop", "answer": "Yes, we offer flexible lease options including short-term agreements (6 months to 1 year) and long-term contracts. The terms can be discussed based on your specific business requirements and growth plans." },
-      { "question": "What amenities are included with the shop spaces", "answer": "Our shops come with basic amenities including electricity supply, water connection, proper ventilation and security. Some units may have additional features like storage space or mezzanine floors. Specific amenities vary by property." },
-      { "question": "How is the foot traffic in Rana Bagh for retail businesses", "answer": "Rana Bagh enjoys consistent foot traffic throughout the week with peak hours during evenings and weekends. The area serves both local residents and visitors from nearby neighborhoods, creating a steady customer flow for retailers." },
-      { "question": "Can I modify or renovate the shop interior", "answer": "Tenants are generally allowed to make interior modifications with prior approval from the property owner. Structural changes may require additional permissions. We recommend discussing your renovation plans before finalizing the lease." },
-      { "question": "What are the operating hours for shops in Rana Bagh", "answer": "Most businesses in Rana Bagh operate from 10 AM to 9 PM, though specific hours may vary by shop type. There are no strict restrictions, allowing flexibility to match your target customers' shopping patterns." },
-      { "question": "Is Rana Bagh suitable for food businesses or restaurants", "answer": "While Rana Bagh has several successful food outlets, specific regulations apply to food businesses. We can guide you regarding necessary licenses and help identify suitable shop spaces that meet food business requirements." },
-      { "question": "How do I secure a shop in Rana Bagh for my business", "answer": "To reserve a shop, you'll typically need to pay a security deposit (usually equivalent to 2-3 months rent) and sign the lease agreement. Our team will guide you through the entire process from property viewing to documentation." }
+      {
+        "question": "What types of businesses are suitable for Rana Bagh shops",
+        "answer": "Rana Bagh shops are ideal for various businesses including clothing stores, electronics shops, pharmacies, grocery stores, beauty salons, stationery shops, and food outlets. The area's diverse foot traffic supports multiple retail concepts."
+      },
+      {
+        "question": "What is the average rental price for shops in Rana Bagh",
+        "answer": "Rental prices vary based on size and location within Rana Bagh, typically ranging from ₹15,000 to ₹50,000 per month. Ground floor shops with better visibility command higher rents. Contact us for current pricing on available units."
+      },
+      {
+        "question": "Are there any hidden charges in the rental agreement",
+        "answer": "We maintain complete transparency in all transactions. The rental agreement clearly outlines all charges including security deposit, maintenance fees if applicable, and utility payments. Our team will explain all terms before you sign."
+      },
+      {
+        "question": "Can I get a short-term lease for my shop",
+        "answer": "Yes, we offer flexible lease options including short-term agreements (6 months to 1 year) and long-term contracts. The terms can be discussed based on your specific business requirements and growth plans."
+      },
+      {
+        "question": "What amenities are included with the shop spaces",
+        "answer": "Our shops come with basic amenities including electricity supply, water connection, proper ventilation and security. Some units may have additional features like storage space or mezzanine floors. Specific amenities vary by property."
+      },
+      {
+        "question": "How is the foot traffic in Rana Bagh for retail businesses",
+        "answer": "Rana Bagh enjoys consistent foot traffic throughout the week with peak hours during evenings and weekends. The area serves both local residents and visitors from nearby neighborhoods, creating a steady customer flow for retailers."
+      },
+      {
+        "question": "Can I modify or renovate the shop interior",
+        "answer": "Tenants are generally allowed to make interior modifications with prior approval from the property owner. Structural changes may require additional permissions. We recommend discussing your renovation plans before finalizing the lease."
+      },
+      {
+        "question": "What are the operating hours for shops in Rana Bagh",
+        "answer": "Most businesses in Rana Bagh operate from 10 AM to 9 PM, though specific hours may vary by shop type. There are no strict restrictions, allowing flexibility to match your target customers' shopping patterns."
+      },
+      {
+        "question": "Is Rana Bagh suitable for food businesses or restaurants",
+        "answer": "While Rana Bagh has several successful food outlets, specific regulations apply to food businesses. We can guide you regarding necessary licenses and help identify suitable shop spaces that meet food business requirements."
+      },
+      {
+        "question": "How do I secure a shop in Rana Bagh for my business",
+        "answer": "To reserve a shop, you'll typically need to pay a security deposit (usually equivalent to 2-3 months rent) and sign the lease agreement. Our team will guide you through the entire process from property viewing to documentation."
+      }
     ]
   },
   "contactSection": {
@@ -86,7 +206,11 @@
       "Our commercial property experts are ready to help you find the perfect shop space for your business in Rana Bagh.",
       "Fill out the form below and we'll contact you with available options matching your requirements."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }
-```

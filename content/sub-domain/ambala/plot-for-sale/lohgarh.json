@@ -7,12 +7,18 @@
       "Whether you are planning to build a spacious independent house or looking for a profitable long-term investment opportunity, our listings in Lohgarh Ambala cater to all requirements. Explore various plot sizes from 4 Marla up to 14 Marla, giving you the flexibility to design your perfect space. Speak to our experts today to understand the current market trends and secure a prime Plot For Sale in Lohgarh before prices appreciate further. This is the optimal time to secure land in a high-growth corridor."
     ],
     "buttons": [
-      { "label": "Explore Available Plots", "path": "/plots" },
-      { "label": "Request a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Available Plots",
+        "path": "/plots"
+      },
+      {
+        "label": "Request a Site Visit",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "lohgarh_plot_view_1.jpg",
-      "lohgarh_master_plan.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "When considering a Plot For Sale in Lohgarh Ambala, connectivity to educational institutions healthcare facilities and commercial centers is paramount. We highlight key areas below that are easily accessible, demonstrating why this location offers superior value compared to other emerging residential areas around Ambala."
     ],
     "locations": [
-      "Ambala Cantt Railway Station",
-      "National Highway 44 proximity",
-      "Ambala City connectivity",
-      "Sadar Bazaar Ambala Cantt",
-      "Mohra Industrial Area",
-      "Panchkula Chandigarh Expressway link"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -156,6 +206,11 @@
       "Ready to secure your Plot For Sale in Lohgarh Ambala Contact our dedicated sales team now for personalized guidance on location pricing and legal formalities. We provide comprehensive support from initial inquiry to final registration.",
       "Fill out the form below to receive a customized portfolio of available plots that match your budget and residential requirements in this high-growth area."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

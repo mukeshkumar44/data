@@ -7,10 +7,19 @@
       "This vibrant locality boasts excellent connectivity to major commercial hubs educational institutions and healthcare facilities ensuring a comfortable and convenient lifestyle for all residents. Discover properties that qualify for attractive financing options and government subsidies further enhancing the affordability factor. Let us guide you through the process of securing your dream affordable house in Sector 51 Noida without the usual stress and complexity. Start your journey towards owning a genuinely affordable house in Sector 51 today."
     ],
     "buttons": [
-      { "label": "Request Call Back", "path": "/contact" },
-      { "label": "View Available Listings", "path": "/listings" }
+      {
+        "label": "Request Call Back",
+        "path": "/contact"
+      },
+      {
+        "label": "View Available Listings",
+        "path": "/listings"
+      }
     ],
-    "images": ["hero_image_sector51.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Affordable Housing Options Available in Sector 51 Noida",
@@ -52,12 +61,56 @@
       "We highlight how this location serves as a self-sufficient ecosystem with immediate access to top schools hospitals bustling markets and recreational parks. Investing here means gaining a central location without paying premium central city prices. Explore properties that leverage these geographical advantages offering maximum convenience for everyday life confirming that an affordable house in Sector 51 truly means a comfortable lifestyle."
     ],
     "locations": [
-      "Sector 50 Noida Residential Hub",
-      "Noida City Centre Metro Station Access",
-      "Proximity to NH-24 and FNG Expressway",
-      "Convenient Drive to Sector 62 IT Hub",
-      "Access to Schools and Healthcare Facilities",
-      "Easy Commute to Delhi via DND Flyway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to secure your affordable dream home in the highly sought-after Sector 51 Noida We offer personalized consultation tailored to your specific budget and requirements. Our experts are here to provide verified listings transparent pricing and comprehensive legal guidance.",
       "Fill out the form below and take the first critical step towards owning a valuable and comfortable affordable house in one of Noida’s most promising residential sectors."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

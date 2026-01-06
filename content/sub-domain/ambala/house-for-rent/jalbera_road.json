@@ -7,10 +7,19 @@
       "We understand that securing the right rental property quickly and efficiently is essential for your relocation plan. Our local market expertise ensures you gain exclusive access to the best available houses for rent in Jalbera Road Ambala often before they are listed on general platforms. Start your stress-free journey with us to secure your dream rental home right here where you can enjoy unmatched local amenities excellent access to top-tier schools markets and vital transportation hubs that make daily life incredibly convenient and enjoyable."
     ],
     "buttons": [
-      { "label": "Explore Available Houses", "path": "/rentals" },
-      { "label": "Request a Callback Now", "path": "/contact" }
+      {
+        "label": "Explore Available Houses",
+        "path": "/rentals"
+      },
+      {
+        "label": "Request a Callback Now",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Rental Options We Offer Across Jalbera Road Ambala for Families and Professionals",
@@ -52,14 +61,56 @@
       "These nearby zones offer supplementary housing options and diverse amenities ranging from high-end retail parks to local markets ensuring residents have everything they need close at hand. We provide comprehensive listings spanning the immediate Jalbera Road area and its highly accessible satellite neighborhoods guaranteeing you find a location that perfectly suits your daily routine and lifestyle demands."
     ],
     "locations": [
-      "Jalbera Main Residential Blocks",
-      "Model Town Ambala",
-      "Urban Estate Phase I",
-      "Near Ambala City Railway Station",
-      "Sector 7 Housing Complex",
-      "Mahavir Nagar Extension",
-      "Aggar Sain Colony",
-      "Ambala Cantt Access Points"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure the perfect House For Rent in Jalbera Road Ambala We are here to simplify your property search and leasing process. Contact our specialized rental team today to discuss your specific requirements arrange property viewings or get personalized advice on market trends.",
       "Fill out the short form below and one of our dedicated local consultants will reach out to you within hours. Let us help you find your ideal rental home swiftly and efficiently with complete confidence."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

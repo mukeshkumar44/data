@@ -7,10 +7,19 @@
       "Whether you are looking for a compact 1 BHK or a sprawling 3 BHK luxury residence, the properties along NH 22 represent a smart investment opportunity with high potential for appreciation. Explore new projects featuring dedicated parking, green spaces, and community facilities, perfectly positioned near essential services and transportation hubs. Finding the perfect flat in this sought-after area has never been easier or more rewarding for future homeowners."
     ],
     "buttons": [
-      { "label": "Explore Available Flats", "path": "/properties" },
-      { "label": "Request a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Available Flats",
+        "path": "/properties"
+      },
+      {
+        "label": "Request a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/nh22_flat_hero.jpg", "/images/nh22_skyline.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exceptional Features and Diverse Configurations of Flats Available on NH 22 Ambala Highway",
@@ -52,13 +61,56 @@
       "The location provides rapid access to the Ambala Cantonment, Chandigarh, and multiple industrial sectors, making the daily commute for working residents significantly streamlined and hassle-free. Review the nearby locations that enhance the value of flats for sale in NH 22."
     ],
     "locations": [
-      "Ambala Cantt Railway Station",
-      "Chandigarh International Airport Access",
-      "Nearby Reputable Schools and Universities",
-      "Major Hospitals and Healthcare Centres",
-      "Shopping Malls and Entertainment Zones",
-      "Industrial Area Sector Connectivity",
-      "Direct Link to Delhi-Chandigarh Expressway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -154,6 +206,11 @@
       "Ready to find your ideal home or investment property along the flourishing NH 22 corridor We are here to provide expert guidance, detailed project insights, and schedule exclusive site visits at your convenience.",
       "Fill out the form below or call us directly to connect with our dedicated property specialists who will help you secure the best flat for sale in NH 22 matching your criteria."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

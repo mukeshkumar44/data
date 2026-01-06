@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/sector14_house1.jpg",
-      "/images/sector14_streetview.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,13 +61,56 @@
       "We recommend extending your property search to adjacent areas like Sector 3 Phase 1 and Sector 4 for high-quality residential houses. These locations maintain strong connectivity to the main Rohtak city centres and essential hubs ensuring your daily commute remains minimal and convenient. Reviewing properties in these connected zones allows you to compare pricing structure plot availability and the age of the construction providing a broader perspective before finalizing your purchase decision. Use our comprehensive location mapping tools to understand how these nearby sectors complement the lifestyle offered by Sector 14 Rohtak."
     ],
     "locations": [
-      "Sector 3 Phase 1 Rohtak",
-      "Sector 4 Rohtak",
-      "DLF Rohtak",
-      "Sunariya Rohtak",
-      "Model Town Rohtak",
-      "Civil Lines Rohtak",
-      "Sector 1 Rohtak"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

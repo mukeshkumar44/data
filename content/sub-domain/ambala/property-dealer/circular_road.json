@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Ideal Residential and Commercial Plot Sizes Available on Circular Road Ambala",
@@ -58,14 +61,56 @@
       "As a proactive Property Dealer in Circular Road, we diligently track price movements and future development plans in these surrounding localities, offering you smart diversification opportunities. This precise localized knowledge ensures that whether you seek immediate proximity to the main hub or prefer a quieter, adjacent neighborhood, we present you with vetted options that promise strong appreciation and an unmatched lifestyle quality in Ambala."
     ],
     "locations": [
-      "Model Town Premium Housing",
-      "Police Line Area Residential Listings",
-      "Sector 7 Adjacent Prime Plots",
-      "Baldev Nagar Extension Growth Opportunities",
-      "Urban Estate Phase I Connectivity",
-      "Ambala Cantt High-Speed Link Road Access",
-      "Industrial Area Close Proximity Investment",
-      "Main City Center Commercial Hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

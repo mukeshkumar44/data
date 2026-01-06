@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "sarsehri_flat_exterior.jpg",
-      "sarsehri_apartment_living.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,13 +61,56 @@
       "We have compiled listings that span the most desirable areas surrounding Sarsehri ensuring you can choose a locality that best suits your lifestyle needs and commuting requirements. Explore apartments near major connectivity points for easier travel and near established markets for everyday convenience and accessibility."
     ],
     "locations": [
-      "Near Sarsehri Railway Station",
-      "Sarsehri Main Market Road",
-      "Areas Adjoining Ambala-Chandigarh Highway",
-      "Residential Pockets near Sarsehri School",
-      "Flats with Easy Access to Ambala Cantt",
-      "Properties near Industrial Area Phase 1",
-      "Neighborhoods bordering Sector 10 Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,10 +7,19 @@
       "Whether you are looking to launch a flagship retail store establish a professional office headquarters or acquire land for large-scale development the commercial opportunities here offer robust return potential. We specialize in curating verified listings that match serious investors with prime commercial real estate in this high-demand area. This strategic position captures local shoppers and regional business partners making any commercial property for sale in Jagadhri Gate an intelligent long-term asset acquisition Start exploring the best shops and office spaces available now."
     ],
     "buttons": [
-      { "label": "View Current Listings", "path": "/listings" },
-      { "label": "Book a Site Visit", "path": "/contact-us" }
+      {
+        "label": "View Current Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Book a Site Visit",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["hero-jagadhri-gate-commercial.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Premium Commercial Property Options for Sale near Jagadhri Gate Ambala",
@@ -52,11 +61,56 @@
       "Businesses here benefit immensely from the established logistic networks and the continuous flow of high-value traffic throughout the day. This area provides immediate access to Ambala City’s main markets and is only a short drive from key government and administrative offices enhancing its appeal for professional services. Investing in commercial property for sale in Jagadhri Gate ensures your enterprise is constantly visible and highly accessible to the broadest possible consumer base in the Ambala region."
     ],
     "locations": [
-      "Ambala City Railway Station proximity",
-      "Direct access to NH 44 and NH 152",
-      "Connectivity to Ambala Cantt commercial zones",
-      "Close to major wholesale markets of Ambala",
-      "Easy link to prominent residential sectors"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -152,6 +206,11 @@
       "Ready to acquire the perfect commercial property for sale in Jagadhri Gate Contact our specialist team today for personalized property recommendations and private site viewing arrangements. We are here to unlock your next high-yield investment opportunity.",
       "Submit your details below and one of our dedicated commercial real estate experts will reach out within 24 hours to discuss your precise requirements."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

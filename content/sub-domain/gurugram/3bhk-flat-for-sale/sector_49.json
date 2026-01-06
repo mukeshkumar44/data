@@ -7,10 +7,19 @@
       "Explore high-quality residential projects developed by trusted builders, offering modern amenities, secure environments, and excellent connectivity. Securing a 3BHK flat in Sector 49 means investing in a future of unparalleled comfort and significant potential for value appreciation. Start your search now and step closer to owning your dream home in one of Gurugram’s most vibrant localities."
     ],
     "buttons": [
-      { "label": "Explore 3BHK Listings", "path": "/listings/sector-49/3bhk" },
-      { "label": "Download Price List", "path": "/contact/price-list" }
+      {
+        "label": "Explore 3BHK Listings",
+        "path": "/listings/sector-49/3bhk"
+      },
+      {
+        "label": "Download Price List",
+        "path": "/contact/price-list"
+      }
     ],
-    "images": ["/images/sector49_3bhk_hero1.jpg", "/images/sector49_3bhk_hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exceptional Features Defining Modern 3BHK Flat Lifestyle Apartments in Sector 49 Gurugram",
@@ -52,14 +61,56 @@
       "The seamless integration with major road networks ensures smooth commuting for residents. This map of micro-localities confirms the convenience and accessibility offered when you choose to buy a 3BHK flat for sale in Sector 49 Gurugram."
     ],
     "locations": [
-      "Golf Course Extension Road",
-      "Sohna Road",
-      "Subhash Chowk",
-      "Huda City Centre Metro Station",
-      "Omaxe City Centre Mall",
-      "Sector 50 Residential Area",
-      "The Heritage School",
-      "Medanta The Medicity Hospital"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to explore the finest 3BHK flat for sale listings in Sector 49 Gurugram We offer personalized consultation services to help you navigate the market, find properties that match your exact criteria, and secure the best deal possible.",
       "Fill out the form below to receive exclusive listings, detailed project reports, and schedule property viewings at your convenience. Let us help you find your dream home."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

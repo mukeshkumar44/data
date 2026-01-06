@@ -7,10 +7,19 @@
       "Forget endless searching and unreliable listings. Our platform provides verified property details transparent pricing and high-quality images so you can confidently secure a Flat For Rent in New Pratap Nagar quickly and efficiently. Start exploring listings that match your lifestyle and budget today and take the first step toward settling into your new neighborhood in Ambala. Access exclusive listings that are often overlooked on generic real estate portals and secure your premium rental property now."
     ],
     "buttons": [
-      { "label": "Browse 2 BHK Rentals Now", "path": "/browse-2bhk" },
-      { "label": "List Your Property For Rent", "path": "/list-property" }
+      {
+        "label": "Browse 2 BHK Rentals Now",
+        "path": "/browse-2bhk"
+      },
+      {
+        "label": "List Your Property For Rent",
+        "path": "/list-property"
+      }
     ],
-    "images": ["/images/hero-flat-new-pratap-nagar.jpg", "/images/living-room-rental.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Rental Options and Premium Amenities in New Pratap Nagar Ambala",
@@ -52,14 +61,56 @@
       "We provide detailed information on flats available not just within the established phases of New Pratap Nagar but also near emerging satellite residential pockets ensuring you find a spot that minimizes commute times and maximizes convenience. Understanding the micro-market details is crucial for securing the best Flat For Rent in New Pratap Nagar at a fair price and maximizing your daily efficiency."
     ],
     "locations": [
-      "Near Ambala Chandigarh Expressway",
-      "Flats close to Ambala Cantt Railway Station",
-      "Residential Pockets near Police Lines Ambala",
-      "Rentals near reputed schools like MM International",
-      "Apartments near HUDA Sectors 7 and 8",
-      "Properties adjacent to major local markets and shopping centers",
-      "Homes near dedicated green parks and recreational zones",
-      "Listings near prominent hospitals and emergency services"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure your next home We offer personalized consultation services to help you navigate the New Pratap Nagar rental market efficiently.",
       "Reach out to our local real estate experts who specialize in rental properties to schedule viewings and receive bespoke property matches based on your exact requirements and budget."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

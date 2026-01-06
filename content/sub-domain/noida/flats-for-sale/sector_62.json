@@ -7,10 +7,19 @@
       "Investing in a flat here means securing a future in a well-planned sector known for its robust infrastructure and green spaces. We offer a comprehensive range of apartments including spacious 2 BHK, luxury 3 BHK, and customized builder floors to match every specific requirement and budget. Start your property search today and discover why Sector 62 represents the ultimate destination for residential excellence in Noida."
     ],
     "buttons": [
-      { "label": "Explore Available Flats", "path": "/available-flats" },
-      { "label": "Request Pricing Details", "path": "/contact-us" }
+      {
+        "label": "Explore Available Flats",
+        "path": "/available-flats"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Residential Flat Options Available in Sector 62 Noida Today",
@@ -52,14 +61,56 @@
       "The infrastructure surrounding Sector 62 is robust, featuring wide roads, efficient public transport, and close proximity to key corporate hubs like Electronic City and Sector 63. Review the vital locations and commuting benefits that make a Flat For Sale in Sector 62 Noida an unmatched investment opportunity."
     ],
     "locations": [
-      "NH-24 and Delhi-Meerut Expressway",
-      "Sector 63 Commercial Hub",
-      "Electronic City Metro Station",
-      "Fortis Hospital Noida",
-      "Gautam Buddha Nagar University",
-      "Indirapuram Ghaziabad Connectivity",
-      "Central Market Sector 18 Noida",
-      "Upcoming FNG Expressway link"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning your dream home in Noida's premier residential area Sector 62 Please fill out the contact form below with your requirements and contact information.",
       "Our property experts will get in touch promptly to discuss available inventory, current pricing, and arrange a personalized site visit at your convenience."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

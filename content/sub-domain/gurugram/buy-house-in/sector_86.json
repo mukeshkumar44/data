@@ -7,12 +7,18 @@
       "Investing here means securing a home in a rapidly appreciating locality known for seamless access to major business hubs and entertainment centers. We guide you through the entire process ensuring you find the perfect house that meets your family needs and financial goals. Explore the vast potential and lifestyle upgrade waiting for you when you decide to buy property in this thriving area of New Gurugram."
     ],
     "buttons": [
-      { "label": "View Available Houses Now", "path": "/listings" },
-      { "label": "Schedule Property Consultation", "path": "/contact" }
+      {
+        "label": "View Available Houses Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule Property Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "sector86_luxury_house.jpg",
-      "dwarka_expressway_view.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "The development of social infrastructure in the surrounding areas ensures residents have easy access to top hospitals educational institutions and expansive retail centers. Understanding the proximity to adjacent areas is vital when you plan to buy house in Sector 86 as it defines the overall convenience and lifestyle quotient of your new home."
     ],
     "locations": [
-      "Sector 85 Proximity to Commercial Hubs",
-      "Sector 87 Established Residential Areas",
-      "Sector 88 Direct access to Dwarka Expressway",
-      "Sector 82 Close to Vatika Business Park",
-      "Manesar Industrial Area Major Employment Zone",
-      "NH 48 National Highway Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

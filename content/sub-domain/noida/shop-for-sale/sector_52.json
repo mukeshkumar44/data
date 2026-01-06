@@ -7,12 +7,18 @@
       "We offer expertly curated listings of premium commercial units ranging from compact retail spaces ideal for startups and specialized services to large anchor units perfect for national or multinational brands. Invest confidently today in one of Noida’s most sought-after commercial addresses and watch your capital appreciate rapidly due to the area’s excellent growth trajectory. Our dedicated property team specializes in finding transparent, RERA-approved commercial properties designed for maximum visibility, operational efficiency, and long-term financial success for all our clients."
     ],
     "buttons": [
-      { "label": "View Latest Shop Listings", "path": "/listings" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "View Latest Shop Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "image-sector52-shop1.jpg",
-      "image-sector52-map.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "This exceptional connectivity not only reliably drives high consumer traffic directly to your shop but also substantially simplifies logistics for business operations, staff commuting, and supply chain management. We provide detailed insights into how these neighboring commercial zones and residential areas contribute dynamically to the overall vibrancy, potential rental yield, and long-term value of properties purchased here in Sector 52."
     ],
     "locations": [
-      "Sector 50 Residential Hub",
-      "Sector 51 Commercial Strip",
-      "Mamura Village Access Point",
-      "Noida City Centre Extension",
-      "Sector 62 Institutional Area",
-      "Vishwakarma Road Connectivity",
-      "Blue Line Metro Corridor",
-      "Electronic City Infrastructure"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

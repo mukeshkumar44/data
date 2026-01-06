@@ -7,12 +7,18 @@
       "Whether you are searching for a premium builder floor, a ready-to-move apartment, or seeking to maximize the sale value of your existing property, our professionals are here to assist. We offer unparalleled expertise in price discovery, negotiation strategies, and complete documentation support ensuring your property journey in Sector 23 Gurugram is efficient, transparent, and highly profitable. Stop searching and start succeeding with the best real estate assistance available today."
     ],
     "buttons": [
-      { "label": "Find Top Sector 23 Agents", "path": "/agents-list" },
-      { "label": "Request a Free Valuation", "path": "/valuation-request" }
+      {
+        "label": "Find Top Sector 23 Agents",
+        "path": "/agents-list"
+      },
+      {
+        "label": "Request a Free Valuation",
+        "path": "/valuation-request"
+      }
     ],
     "images": [
-      "sector-23-agents-hero.jpg",
-      "gurugram-property-consultants.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Our network of seasoned agents holds extensive transactional experience not only within Sector 23 but also in areas that share similar lifestyle and infrastructure advantages. This expanded expertise allows us to guide you seamlessly whether you are buying or selling in Sector 23 or considering immediate relocation options nearby."
     ],
     "locations": [
-      "Sector 22 Gurugram",
-      "Sector 24 DLF Phase 3",
-      "Palam Vihar Extension",
-      "Maruti Kunj",
-      "Udyog Vihar Phase 1",
-      "Cyber City Adjacent Areas",
-      "Old Delhi Road Property Market",
-      "Rajiv Chowk Accessibility Zone"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to take the next step in your property journey in Sector 23 Gurugram? Fill out the form below to be instantly connected with a vetted, top-performing real estate professional who specializes in your specific property requirements.",
       "We respect your privacy and commit to providing confidential, expert consultation without obligation. Let our agents handle the complexity while you focus on your future home or investment success."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

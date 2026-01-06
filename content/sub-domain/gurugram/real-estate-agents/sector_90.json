@@ -16,7 +16,10 @@
         "path": "/valuation"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Specialized Services Offered by Expert Real Estate Agents Serving Sector 90 Gurugram",
@@ -58,14 +61,56 @@
       "Key factors influencing the Sector 90 market include proximity to major business districts, easy access to national highways, and the development status of the wider New Gurugram area. We use this detailed geographical insight to advise clients whether they are buying for self-use or purely for capital appreciation ensuring they make informed decisions aligned with regional growth trajectories."
     ],
     "locations": [
-      "Dwarka Expressway",
-      "Sector 89 Residential Hub",
-      "NH-48 Access Point",
-      "IMT Manesar Industrial Zone",
-      "Sector 92 Development Area",
-      "KMP Expressway Connectivity",
-      "Pataudi Road Corridor",
-      "Upcoming Metro Route Extensions"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

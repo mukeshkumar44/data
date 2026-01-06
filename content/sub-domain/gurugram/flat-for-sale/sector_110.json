@@ -7,10 +7,19 @@
       "Whether you are a first-time homeowner or an experienced investor, this sector offers exceptional value. Discover spacious 2 BHK and 3 BHK apartments, builder floors, and luxury penthouses that promise a secure and elevated lifestyle. Let our experts guide you through the seamless process of acquiring your perfect property in one of Gurugram's rapidly developing sectors."
     ],
     "buttons": [
-      { "label": "Explore 3 BHK Flats Now", "path": "/flats/3bhk" },
-      { "label": "Download Price List", "path": "/contact" }
+      {
+        "label": "Explore 3 BHK Flats Now",
+        "path": "/flats/3bhk"
+      },
+      {
+        "label": "Download Price List",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_flat_110_1.jpg", "hero_flat_110_2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Flat Options and Sizes Available in Sector 110 Gurugram for Every Family",
@@ -52,14 +61,56 @@
       "Understanding the surrounding areas helps potential buyers assess local accessibility and future development prospects. This sector acts as a gateway to several established localities, enhancing the overall lifestyle quality and convenience for residents."
     ],
     "locations": [
-      "Sector 111",
-      "Sector 112",
-      "Sector 113",
-      "Kheri Kalan",
-      "Badarpur Border Connectivity",
-      "Delhi-Gurugram Expressway Access",
-      "Major Industrial Model Town IMT",
-      "Neharpar Residential Zone"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step toward owning your ideal Flat For Sale in sector 110 Gurugram. Our seasoned property consultants are here to provide personalized advice, detailed site tours, and exclusive access to the best listings tailored specifically to your needs and budget.",
       "Fill out the short form below and one of our dedicated team members will contact you shortly to arrange a private consultation or property viewing."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

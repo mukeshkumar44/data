@@ -17,7 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero-sector4-karnal.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -60,12 +61,56 @@
       "The planned layout and mature development of Sector 4, combined with nearby educational institutions and healthcare facilities, solidify its reputation as a superior residential choice. When you partner with our experienced Real Estate Agents in Sector 4, you gain access to a localized understanding of upcoming infrastructural projects and micro-market trends that influence your buying or selling decision."
     ],
     "locations": [
-      "Proximity to NH-44 Bypass",
-      "Walking Distance to Sector 3 Commercial Hub",
-      "Nearby Reputable Schools and Colleges",
-      "Access to Major Healthcare Centers and Hospitals",
-      "Established Parks and Green Spaces",
-      "Easy Commute to Karnal City Center"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

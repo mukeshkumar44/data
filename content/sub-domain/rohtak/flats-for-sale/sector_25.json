@@ -7,10 +7,19 @@
       "Enjoy premium living with excellent connectivity to major academic institutions commercial hubs and healthcare facilities. Our listings are RERA compliant ensuring transparency and security in your property investment journey. Explore the opportunity to own a meticulously crafted flat in one of Rohtak's most sought-after sectors where community spirit meets urban sophistication. Begin your search for the ideal home today."
     ],
     "buttons": [
-      { "label": "View Available Flats", "path": "/flats-available" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View Available Flats",
+        "path": "/flats-available"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Modern Residential Living Solutions Buying Your Ideal Flat in Sector 25 Rohtak",
@@ -52,14 +61,56 @@
       "The proximity to renowned universities like MDU and premier hospitals solidifies its status as a desirable residential area. We help you understand the neighborhood dynamics ensuring the flat you purchase is perfectly situated to meet all your family's educational healthcare and lifestyle needs."
     ],
     "locations": [
-      "Delhi Road Connectivity",
-      "Proximity to MDU University",
-      "Seamless access to Sector 14 Rohtak",
-      "Near major Commercial Markets",
-      "Easy commute to the Industrial Model Township IMT",
-      "Access to NH-9",
-      "Nearby Railway Station",
-      "Bhali Anandpur"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning your dream flat in Sector 25 Rohtak Get personalized advice on the best listings financing options and legal procedures.",
       "Fill out the form below and one of our dedicated real estate consultants will contact you shortly to guide you through a successful and stress-free buying process."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,12 +7,18 @@
       "We specialize in connecting you with verified and strategically located shop spaces available for rent in Sector 114 Gurugram. This rapidly developing area is transitioning into a primary retail and business hub attracting a steady stream of residential customers and professionals. Whether you need a small boutique shop a large showroom or a space suitable for QSR services our comprehensive listings cover every commercial requirement. Start your search today and secure a prime spot that guarantees visibility and profitability in this thriving ecosystem."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/listings/sector-114" },
-      { "label": "Schedule a Site Visit", "path": "/contact-us" }
+      {
+        "label": "View Available Shops",
+        "path": "/listings/sector-114"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "shop_front_sector114_main.jpg",
-      "commercial_area_faridabad.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "The locality benefits from smooth connectivity via major arterial roads linking it quickly to major areas of Gurugram and the Delhi NCR region. This ensures accessibility for both customers and logistics providers. Proximity to existing successful commercial developments increases the likelihood of attracting established consumer bases guaranteeing that renting a shop in Sector 114 places you right where the action is happening. We provide insights into foot traffic patterns demographic profiles and future infrastructure projects that will further elevate the value of this commercial hub."
     ],
     "locations": [
-      "Sector 115 Commercial Belt",
-      "Proximity to Bypass Road Connectivity",
-      "Neharpar Residential Zones",
-      "Existing Retail Complexes in Sector 116",
-      "Access to Major Transportation Corridors",
-      "Proposed Metro Expansion Areas"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

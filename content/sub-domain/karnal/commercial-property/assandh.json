@@ -7,10 +7,19 @@
       "Unlock your next profitable venture by securing real estate in the fastest developing sectors of Assandh Karnal. Whether you are looking for a small shop plot near the main market or a substantial land parcel for large-scale logistics operations our extensive portfolio ensures you find the perfect match for your commercial requirements and budget. Start your high-yield investment journey today with expert guidance and transparent dealings."
     ],
     "buttons": [
-      { "label": "View Available Commercial Plots", "path": "/commercial-plots" },
-      { "label": "Schedule a Consultation Now", "path": "/contact" }
+      {
+        "label": "View Available Commercial Plots",
+        "path": "/commercial-plots"
+      },
+      {
+        "label": "Schedule a Consultation Now",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Property For Sale in Assandh Based on Your Business Need",
@@ -52,14 +61,56 @@
       "We highlight the most sought-after commercial zones known for their infrastructure quality connectivity and sustained rental demand. Whether your focus is on high-street retail or industrial warehousing we guide you to the areas offering the highest probability of success ensuring your commercial investment in Assandh Karnal yields maximum returns."
     ],
     "locations": [
-      "Main Market Area Assandh",
-      "Karnal Road Commercial Strip",
-      "Near Bus Stand Assandh",
-      "Sector 5 Commercial Zone",
-      "New Anaj Mandi Vicinity",
-      "Near Railway Station Road",
-      "Patel Nagar Business Hub",
-      "Gohana Road Industrial Belt"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to capitalize on the incredible potential of Commercial Property For Sale in Assandh Karnal. Contact our expert team now for a personalized portfolio review tailored to your specific investment goals and budget.",
       "We provide unbiased market insights and professional guidance ensuring you secure a high-value asset in this rapidly expanding economic zone. Fill out the form below and start your successful investment journey."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

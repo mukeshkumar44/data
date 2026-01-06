@@ -7,10 +7,19 @@
       "Explore diverse housing solutions from compact apartments perfect for young professionals to spacious builder floors suitable for growing families. Sector 46 presents a unique opportunity for smart homeowners and investors looking for long-term growth potential. Let us guide you through the latest market trends and exclusive listings so you can secure an affordable house in Sector 46 today a decision that promises both peace of mind and financial security."
     ],
     "buttons": [
-      { "label": "Explore Affordable Listings", "path": "/listings" },
-      { "label": "Download Price Guide 2024", "path": "/guide" }
+      {
+        "label": "Explore Affordable Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Download Price Guide 2024",
+        "path": "/guide"
+      }
     ],
-    "images": ["hero_house_46_1.jpg", "hero_house_46_2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover affordable house size options and configurations available right now in Sector 46",
@@ -52,12 +61,56 @@
       "Understanding the neighboring areas helps potential buyers assess the long-term appreciation prospects and daily commute feasibility. We provide insights into locations that complement the affordable living experience offered within Sector 46 strengthening the investment case for your new home."
     ],
     "locations": [
-      "Sector 47 Residential Options",
-      "Sector 48 Commercial Hubs",
-      "HUDA City Centre Metro Access",
-      "Golf Course Extension Road Connectivity",
-      "Major Educational Institutions nearby",
-      "Key Healthcare Centers around Sector 46"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to take the next step towards homeownership in Sector 46 Contact our specialized team to receive personalized property recommendations tailored exactly to your budget and specific needs.",
       "We simplify the buying process making the search for your affordable house in Sector 46 efficient secure and enjoyable Fill out the form below or call us directly."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,10 +7,19 @@
       "We feature everything from small retail outlets suitable for startups to large showroom spaces designed for established brands. Begin your search for a shop for rent in Sector 7 today and partner with us to ensure you secure a lease that aligns perfectly with your business model and future expansion plans. This vibrant locality promises excellent connectivity and a professional environment that attracts discerning customers consistently."
     ],
     "buttons": [
-      { "label": "Find Available Shops", "path": "/listings" },
-      { "label": "Schedule a Viewing", "path": "/contact" }
+      {
+        "label": "Find Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Viewing",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Types of Commercial Shop For Rent Listings in Sector 7 Karnal",
@@ -52,14 +61,56 @@
       "We help you evaluate the micro-market dynamics ensuring your chosen location within or near Sector 7 aligns perfectly with your target demographic and logistical needs. Proximity to major roads like the NH-44 and established residential sectors significantly boosts daily customer traffic for retail businesses. Investing in a shop for rent in Sector 7 means benefiting from excellent urban planning reliable amenities and continuous development ensuring sustained business viability for years to come. Explore nearby sectors and colonies to gauge competitor activity and identify unsaturated market segments where your business can thrive immediately upon opening."
     ],
     "locations": [
-      "Sector 6 Commercial Market",
-      "Sector 8 Main Road",
-      "HUDA Market Sector 7",
-      "Mughal Canal Area",
-      "Kunjpura Road Frontage",
-      "Urban Estate Block B",
-      "National Highway Access Points",
-      "Model Town Proximity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

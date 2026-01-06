@@ -7,10 +7,19 @@
       "We provide comprehensive listings for every Flat For Rent in sector 90, covering everything from compact studio apartments to luxurious three-bedroom family homes. Our curated selection ensures you find properties that meet high standards of safety, amenities, and connectivity. Start exploring now and secure your dream rental home with ease and confidence. We simplify the entire rental process, ensuring a smooth transition into your new life in Sector 90 Gurugram."
     ],
     "buttons": [
-      { "label": "Explore Available Rental Flats", "path": "/listings" },
-      { "label": "Contact Rental Specialists", "path": "/contact" }
+      {
+        "label": "Explore Available Rental Flats",
+        "path": "/listings"
+      },
+      {
+        "label": "Contact Rental Specialists",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Selection of Flats For Rent in Sector 90 Gurugram Tailored to Every Lifestyle Need",
@@ -52,14 +61,56 @@
       "The proximity to major highways, reputable educational institutions, high-quality healthcare facilities, and bustling market complexes makes Sector 90 an extremely desirable rental address. Our listings highlight properties that benefit from exceptional local connectivity, ensuring everything you need is just a short drive or walk away. Choose Sector 90 for convenience that truly complements your busy schedule."
     ],
     "locations": [
-      "Ample Public Transportation Access",
-      "Proximity to Bypass Road Connectivity",
-      "Near Reputable Schools and Colleges",
-      "Close to Major Hospitals and Clinics",
-      "Easy Access to Sector 90 Local Market",
-      "Short Drive to Industrial and Commercial Hubs",
-      "Green Parks and Recreational Zones Nearby",
-      "Connected to Central Gurugram Amenities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

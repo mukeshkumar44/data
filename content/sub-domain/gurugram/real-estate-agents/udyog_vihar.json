@@ -7,12 +7,18 @@
       "Our network of expert agents specializes in securing the best deals, whether you are looking for Grade A office space, a warehouse facility, or a high-return residential plot in surrounding sectors like DLF Phase 3 or Sector 18. We simplify the complex process, offering tailored guidance and ensuring complete legal transparency from the initial viewing right through to final acquisition. Start your successful property journey in Udyog Vihar with a proven professional by your side."
     ],
     "buttons": [
-      { "label": "Find Your Expert Agent Now", "path": "/contact-agents" },
-      { "label": "Explore Udyog Vihar Listings", "path": "/listings" }
+      {
+        "label": "Find Your Expert Agent Now",
+        "path": "/contact-agents"
+      },
+      {
+        "label": "Explore Udyog Vihar Listings",
+        "path": "/listings"
+      }
     ],
     "images": [
-      "image-udyog-vihar-skyline.jpg",
-      "image-agent-meeting.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,15 +61,56 @@
       "Whether you need an office lease in Phase 5 or a luxury apartment in DLF Phase 3, our agents offer targeted expertise based on current market valuations and future infrastructure plans, ensuring your investment is strategically sound and financially rewarding."
     ],
     "locations": [
-      "DLF Phase 3",
-      "Cyber City Gurugram",
-      "Sector 18 Industrial Area",
-      "Palam Vihar Extension",
-      "Sector 19 Gurugram",
-      "NH48 Commercial Corridor",
-      "Sector 22 Gurugram",
-      "Dundahera Village",
-      "Old Delhi Road Property"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

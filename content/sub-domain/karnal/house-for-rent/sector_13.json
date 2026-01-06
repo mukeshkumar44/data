@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "house-rental-sector-13-karnal-hero-1jpg",
-      "independent-house-karnal-rental-2jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "We understand that location is paramount which is why Sector 13 is highly favored. It balances residential tranquility with urban accessibility. From renowned schools ensuring the best education for your children to well-stocked markets for daily needs and emergency medical facilities, everything is within a short radius. This excellent connectivity adds significant value to renting property here."
     ],
     "locations": [
-      "Easy Access to NH-44 Delhi-Chandigarh Highway",
-      "Proximity to Local Bus Stops and Auto Stands",
-      "Walking Distance to Sector 13 Market and Shopping Centers",
-      "Immediate Access to Reputable Schools like St Thera's Convent School",
-      "Close to Major Banks and ATM facilities",
-      "Short Drive to Civil Hospital Karnal and Private Clinics",
-      "Near Public Parks and Jogging Tracks",
-      "Excellent connectivity to Karnal’s main city areas"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

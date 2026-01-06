@@ -7,10 +7,19 @@
       "Explore high-rise apartments and low-density residential units known for their superior construction quality and impressive capital appreciation history. Located just moments away from the Rapid Metro Station and major arterial roads Sector 43 offers unmatched connectivity making daily commuting effortless. If you are searching for a blend of comfort security and elite status your search for a premium 3BHK flat for sale in Sector 43 ends here. Let our experts guide you to your ideal home."
     ],
     "buttons": [
-      { "label": "Explore 3BHK Listings", "path": "/listings" },
-      { "label": "Schedule Property Viewing", "path": "/contact" }
+      {
+        "label": "Explore 3BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule Property Viewing",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Signature Features of Premium 3BHK Flats for Sale in Sector 43 Gurugram",
@@ -52,13 +61,56 @@
       "The rapid growth of the area coupled with excellent road networks makes this sector a premium choice for families and professionals seeking a balanced urban lifestyle with reduced commuting stress."
     ],
     "locations": [
-      "Sector 43 Rapid Metro Station just 5 minutes away",
-      "Huda City Centre Metro Station major interchange",
-      "DLF Cyber City and Golf Course Road corporate hubs",
-      "Easy access to NH-48 Delhi-Jaipur Expressway",
-      "Fortis Memorial Research Institute world-class healthcare",
-      "Major schools and educational institutions nearby",
-      "South Delhi access via MG Road and border crossings"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -154,6 +206,11 @@
       "Ready to explore the finest residential opportunities Sector 43 Gurugram has to offer? Contact our specialized real estate advisors to receive personalized listings and schedule a private viewing of exclusive 3BHK properties.",
       "Fill out the form below and start your journey toward owning a prestigious address in one of Gurugram’s most sought-after sectors."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

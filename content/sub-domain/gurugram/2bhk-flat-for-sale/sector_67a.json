@@ -7,10 +7,19 @@
       "Explore exclusive listings that feature modern architecture, smart home capabilities, and integrated security systems. Whether you are a first-time home buyer or an astute investor, finding a 2BHK Flat For Sale in Sector 67A offers unmatched lifestyle benefits. Our portfolio includes properties from top developers known for timely delivery and sustainable design. Start your journey toward owning a premium flat today and experience the convenience of living in a well-planned, vibrant neighborhood. Get in touch with our Sector 67A specialists to schedule a personalized viewing and understand current pricing trends."
     ],
     "buttons": [
-      { "label": "View All 2BHK Listings", "path": "/listings/2bhk-sector-67a" },
-      { "label": "Download Exclusive Brochure", "path": "/contact" }
+      {
+        "label": "View All 2BHK Listings",
+        "path": "/listings/2bhk-sector-67a"
+      },
+      {
+        "label": "Download Exclusive Brochure",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Features and Layout Options for Your New 2BHK Apartment in Sector 67A",
@@ -52,14 +61,56 @@
       "The location’s strength is further enhanced by its proximity to the Southern Peripheral Road (SPR), which acts as a crucial link connecting NH-48 and Golf Course Extension Road. This ensures swift access to the Indira Gandhi International Airport and the Cyber City area. Families considering a 2BHK Flat For Sale in Sector 67A will benefit immensely from world-class schools, prominent shopping malls, and specialty hospitals that are just a short drive away, cementing this sector as a desirable residential pin code."
     ],
     "locations": [
-      "Golf Course Extension Road Access",
-      "Southern Peripheral Road SPR Link",
-      "AIPL Joy Street",
-      "Worldmark Gurgaon Proximity",
-      "Leading International Schools",
-      "NH-48 Delhi Jaipur Highway",
-      "Rapid Metro Stations Nearby",
-      "Sector 65 Business Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Don't miss the opportunity to invest in one of Gurugram’s most promising residential sectors. Our expert team is ready to provide you with exclusive virtual tours, detailed project reports, and the latest pricing details for the best 2BHK listings.",
       "Fill out the form below to receive a customized portfolio of properties that align perfectly with your budget and lifestyle requirements. Let us help you find your ideal home today."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

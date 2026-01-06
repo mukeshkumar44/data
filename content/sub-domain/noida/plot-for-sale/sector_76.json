@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "plot-sector76-hero1.jpg",
-      "plot-sector76-hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "This sector is strategically positioned along crucial arterial roads providing quick access to other parts of Noida and Greater Noida. Understanding the surrounding landscape and key access points helps in evaluating the true long-term value of any Plot For Sale in Sector 76 and ensures you make an informed decision based on future growth projections and infrastructure expansion plans."
     ],
     "locations": [
-      "Noida Metro Sector 76 Station Accessibility",
-      "Direct Access to FNG Expressway",
-      "Proximity to Reputed Schools and Educational Institutes",
-      "Rapid connectivity to Commercial Hubs in Sectors 75 and 77",
-      "Easy reach of Major Hospitals and Healthcare Facilities",
-      "Well-maintained Green Belt and Community Parks",
-      "Nearby Proposed Malls and Premium Retail Spaces",
-      "Seamless Road Linkages to NH-24 and Delhi"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

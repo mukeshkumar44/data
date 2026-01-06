@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Flat For Rent Options in Sector 77 Catering to Every Lifestyle Need",
@@ -58,14 +61,56 @@
       "Understanding the specific location within Sector 77 is crucial some parts offer quieter, more secluded living, while others are closer to bustling commercial hubs and main roads. When evaluating a flat for rent in Sector 77 Noida, consider the average profile of residents and the society rules regarding pets or tenant documentation. This comprehensive approach ensures you find a rental property that truly feels like home."
     ],
     "locations": [
-      "Antriksh Forest",
-      "Civitech Sampriti",
-      "Express Zenith",
-      "Assotech Windsor Court",
-      "Elite Homz",
-      "Near Sector 50 Metro Station",
-      "Proximity to FNG Expressway",
-      "Gaur Sportswood nearby"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Residential Options When You Buy House in Sector 53 Gurugram",
@@ -58,12 +61,56 @@
       "Essential services like prestigious educational institutions like Pathways School and Lancers International School are minutes away. Healthcare is well covered by nearby state-of-the-art hospitals such as Artemis and Medanta. Furthermore, residents enjoy abundant lifestyle amenities including the renowned South Point Mall and multiple fine dining establishments. This robust ecosystem ensures that when you buy house in Sector 53, you are investing not just in property, but in a life of supreme convenience and quality. The area maintains excellent law and order, combined with well-maintained public spaces and wide roads, solidifying its reputation as a highly desirable residential pin code."
     ],
     "locations": [
-      "Golf Course Road",
-      "Rapid Metro Station Sector 53-54",
-      "South Point Mall",
-      "Artemis Hospital",
-      "Genpact and Business Hubs",
-      "DLF Phase 5 Proximity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,10 +7,19 @@
       "Police Line Ambala is a bustling area with high foot traffic, making it an ideal spot for retail, food, and service-based businesses. Our listings include shops of various sizes to meet your specific needs. With competitive rental rates and flexible lease terms, finding the perfect shop for rent in Police Line Ambala has never been easier."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/shop-listings" },
-      { "label": "Contact Us Today", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/shop-listings"
+      },
+      {
+        "label": "Contact Us Today",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Our Shop Options in Police Line Ambala",
@@ -19,12 +28,30 @@
       "From modern interiors to ample parking facilities, our shops are designed to help your business thrive. Take a look at the available options below and find the perfect space for your business in Police Line Ambala."
     ],
     "features": [
-      { "title": "Compact Shops", "description": "Ideal for small businesses like boutiques, salons, or specialty stores. These shops offer affordable rental rates and a cozy atmosphere." },
-      { "title": "Mid-Sized Shops", "description": "Perfect for medium-sized businesses such as electronics stores or pharmacies. These spaces provide ample room for displays and customer interaction." },
-      { "title": "Large Shops", "description": "Best suited for supermarkets, restaurants, or wholesale businesses. These shops offer expansive areas and high visibility." },
-      { "title": "Corner Shops", "description": "Highly visible and accessible, these shops are perfect for businesses that rely on foot traffic. They offer excellent exposure and convenience." },
-      { "title": "Shops with Parking", "description": "Convenient for businesses that require customer parking. These shops come with dedicated parking spaces for hassle-free visits." },
-      { "title": "Customizable Shops", "description": "Flexible spaces that can be tailored to your specific business needs. Ideal for unique layouts or branding requirements." }
+      {
+        "title": "Compact Shops",
+        "description": "Ideal for small businesses like boutiques, salons, or specialty stores. These shops offer affordable rental rates and a cozy atmosphere."
+      },
+      {
+        "title": "Mid-Sized Shops",
+        "description": "Perfect for medium-sized businesses such as electronics stores or pharmacies. These spaces provide ample room for displays and customer interaction."
+      },
+      {
+        "title": "Large Shops",
+        "description": "Best suited for supermarkets, restaurants, or wholesale businesses. These shops offer expansive areas and high visibility."
+      },
+      {
+        "title": "Corner Shops",
+        "description": "Highly visible and accessible, these shops are perfect for businesses that rely on foot traffic. They offer excellent exposure and convenience."
+      },
+      {
+        "title": "Shops with Parking",
+        "description": "Convenient for businesses that require customer parking. These shops come with dedicated parking spaces for hassle-free visits."
+      },
+      {
+        "title": "Customizable Shops",
+        "description": "Flexible spaces that can be tailored to your specific business needs. Ideal for unique layouts or branding requirements."
+      }
     ]
   },
   "locationsSection": {
@@ -34,16 +61,56 @@
       "Explore these nearby areas to find the perfect spot for your shop. Each location is strategically positioned to maximize your business potential."
     ],
     "locations": [
-      "Ambala Cantt",
-      "Ambala City",
-      "Sector 7 Ambala",
-      "Sector 8 Ambala",
-      "Model Town Ambala",
-      "Krishna Colony Ambala",
-      "Railway Road Ambala",
-      "Jagadhari Road Ambala",
-      "Naraingarh Road Ambala",
-      "Patel Nagar Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -53,30 +120,84 @@
       "Discover the advantages of setting up your business in Police Line Ambala and take your venture to the next level."
     ],
     "points": [
-      { "title": "High Foot Traffic", "description": "Police Line Ambala is a bustling area with constant customer flow, ensuring maximum visibility for your business." },
-      { "title": "Affordable Rentals", "description": "Our shops offer competitive rental rates, making it easier for businesses to manage their budgets effectively." },
-      { "title": "Prime Location", "description": "Situated in a central area, Police Line Ambala provides easy access to residential and commercial hubs." },
-      { "title": "Modern Infrastructure", "description": "Our shops feature modern amenities and designs to enhance your business operations and customer experience." },
-      { "title": "Flexible Lease Terms", "description": "We offer customizable lease agreements to suit your business needs and growth plans." },
-      { "title": "Excellent Connectivity", "description": "With well-connected roads and public transport, Police Line Ambala ensures easy accessibility for customers and employees." },
-      { "title": "Supportive Community", "description": "The local business community in Police Line Ambala is thriving and collaborative, offering networking and growth opportunities." },
-      { "title": "Ample Parking", "description": "Many of our shops come with dedicated parking spaces, ensuring convenience for your customers." }
+      {
+        "title": "High Foot Traffic",
+        "description": "Police Line Ambala is a bustling area with constant customer flow, ensuring maximum visibility for your business."
+      },
+      {
+        "title": "Affordable Rentals",
+        "description": "Our shops offer competitive rental rates, making it easier for businesses to manage their budgets effectively."
+      },
+      {
+        "title": "Prime Location",
+        "description": "Situated in a central area, Police Line Ambala provides easy access to residential and commercial hubs."
+      },
+      {
+        "title": "Modern Infrastructure",
+        "description": "Our shops feature modern amenities and designs to enhance your business operations and customer experience."
+      },
+      {
+        "title": "Flexible Lease Terms",
+        "description": "We offer customizable lease agreements to suit your business needs and growth plans."
+      },
+      {
+        "title": "Excellent Connectivity",
+        "description": "With well-connected roads and public transport, Police Line Ambala ensures easy accessibility for customers and employees."
+      },
+      {
+        "title": "Supportive Community",
+        "description": "The local business community in Police Line Ambala is thriving and collaborative, offering networking and growth opportunities."
+      },
+      {
+        "title": "Ample Parking",
+        "description": "Many of our shops come with dedicated parking spaces, ensuring convenience for your customers."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shops For Rent in Police Line Ambala",
     "description": "Have questions about renting a shop in Police Line Ambala? We’ve got you covered. Here are answers to some of the most common queries.",
     "faqs": [
-      { "question": "What types of shops are available for rent in Police Line Ambala", "answer": "We offer a variety of shops, including compact, mid-sized, and large spaces, as well as customizable options to meet your business needs." },
-      { "question": "How do I find the best shop for my business in Police Line Ambala", "answer": "You can browse our listings online or contact our team for personalized recommendations based on your business requirements." },
-      { "question": "Are there shops with parking facilities in Police Line Ambala", "answer": "Yes, many of our shops come with dedicated parking spaces to ensure convenience for your customers." },
-      { "question": "What is the average rental rate for shops in Police Line Ambala", "answer": "Rental rates vary depending on the size and location of the shop. Contact us for detailed pricing information." },
-      { "question": "Can I customize the shop space to fit my business needs", "answer": "Absolutely. We offer customizable shop spaces that can be tailored to your specific requirements." },
-      { "question": "Is Police Line Ambala a good location for retail businesses", "answer": "Yes, Police Line Ambala is a prime location with high foot traffic, making it ideal for retail businesses." },
-      { "question": "What lease terms are available for shops in Police Line Ambala", "answer": "We offer flexible lease terms to accommodate your business plans and growth objectives." },
-      { "question": "How do I start the rental process for a shop in Police Line Ambala", "answer": "Simply contact our team, and we’ll guide you through the entire process, from viewing the shop to signing the lease." },
-      { "question": "Are there any additional fees for renting a shop in Police Line Ambala", "answer": "We provide transparent pricing with no hidden fees. All costs will be clearly outlined in your lease agreement." },
-      { "question": "Can I visit the shop before making a decision", "answer": "Yes, we encourage you to visit the shop to ensure it meets your expectations. Contact us to schedule a viewing." }
+      {
+        "question": "What types of shops are available for rent in Police Line Ambala",
+        "answer": "We offer a variety of shops, including compact, mid-sized, and large spaces, as well as customizable options to meet your business needs."
+      },
+      {
+        "question": "How do I find the best shop for my business in Police Line Ambala",
+        "answer": "You can browse our listings online or contact our team for personalized recommendations based on your business requirements."
+      },
+      {
+        "question": "Are there shops with parking facilities in Police Line Ambala",
+        "answer": "Yes, many of our shops come with dedicated parking spaces to ensure convenience for your customers."
+      },
+      {
+        "question": "What is the average rental rate for shops in Police Line Ambala",
+        "answer": "Rental rates vary depending on the size and location of the shop. Contact us for detailed pricing information."
+      },
+      {
+        "question": "Can I customize the shop space to fit my business needs",
+        "answer": "Absolutely. We offer customizable shop spaces that can be tailored to your specific requirements."
+      },
+      {
+        "question": "Is Police Line Ambala a good location for retail businesses",
+        "answer": "Yes, Police Line Ambala is a prime location with high foot traffic, making it ideal for retail businesses."
+      },
+      {
+        "question": "What lease terms are available for shops in Police Line Ambala",
+        "answer": "We offer flexible lease terms to accommodate your business plans and growth objectives."
+      },
+      {
+        "question": "How do I start the rental process for a shop in Police Line Ambala",
+        "answer": "Simply contact our team, and we’ll guide you through the entire process, from viewing the shop to signing the lease."
+      },
+      {
+        "question": "Are there any additional fees for renting a shop in Police Line Ambala",
+        "answer": "We provide transparent pricing with no hidden fees. All costs will be clearly outlined in your lease agreement."
+      },
+      {
+        "question": "Can I visit the shop before making a decision",
+        "answer": "Yes, we encourage you to visit the shop to ensure it meets your expectations. Contact us to schedule a viewing."
+      }
     ]
   },
   "contactSection": {
@@ -85,6 +206,11 @@
       "Ready to find the perfect shop for rent in Police Line Ambala? Contact our team today for expert assistance and personalized recommendations.",
       "Fill out the form below, and we’ll get back to you promptly to help you secure the ideal commercial space for your business."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

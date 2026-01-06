@@ -7,10 +7,19 @@
       "These exclusive residential land parcels provide the perfect canvas to design your dream bungalow or luxury villa exactly to your specifications. Our curated listings include fully developed, legally clear plots ready for immediate construction. Investing here means securing a lifestyle defined by seamless connectivity, world-class amenities, and assured long-term capital appreciation in one of Noida's most sought-after sectors."
     ],
     "buttons": [
-      { "label": "Explore Available Plots Now", "path": "/listings" },
-      { "label": "Download Location Map", "path": "/download-map" }
+      {
+        "label": "Explore Available Plots Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Download Location Map",
+        "path": "/download-map"
+      }
     ],
-    "images": ["hero-image-sector-94-plot.jpg", "sector-94-skyline.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Premium Residential Plot Sizes Available in Sector 94 Noida",
@@ -52,13 +61,56 @@
       "The connectivity matrix here is unmatched. Key infrastructural developments like the Noida-Greater Noida Expressway, the DND Flyway, and nearby Metro stations make commuting swift and stress-free. Investing in a plot for sale in Sector 94 means investing in supreme accessibility and a location that will continually appreciate due to its strategic importance."
     ],
     "locations": [
-      "Direct connection to DND Flyway reducing travel time to Delhi",
-      "Proximity to Okhla Barrage and Yamuna River waterfront developments",
-      "Less than 10 minutes drive to Sector 18 GIP Mall and major commercial areas",
-      "Immediate vicinity to high-end residential projects like Supernova and DLF One Midtown",
-      "Excellent access to major hospitals and international schools in Noida and South Delhi",
-      "Close proximity to the Botanical Garden Metro Station offering interchange connectivity",
-      "Seamless drive to the Noida-Greater Noida Expressway facilitating travel across the NCR"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -154,6 +206,11 @@
       "Ready to invest in one of Noida's most prestigious locations? Contact our specialized real estate consultants today to view exclusive plot listings and receive personalized investment advice.",
       "We offer private tours, detailed legal verification reports, and assistance with financing options to ensure your acquisition process is smooth and profitable."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

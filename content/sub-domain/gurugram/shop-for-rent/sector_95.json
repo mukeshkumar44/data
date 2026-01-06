@@ -7,10 +7,19 @@
       "Searching for the perfect commercial address can be challenging, but our expertise simplifies the process. Explore fully furnished, semi-furnished, or shell-and-core units situated in leading commercial complexes and high-street markets. Whether you need a small boutique space or a large anchor showroom, discover the property that aligns perfectly with your brand requirements and secure the most favorable lease terms immediately."
     ],
     "buttons": [
-      { "label": "Explore Premium Rental Shops", "path": "/rental-listings" },
-      { "label": "Contact Rental Experts", "path": "/contact-us" }
+      {
+        "label": "Explore Premium Rental Shops",
+        "path": "/rental-listings"
+      },
+      {
+        "label": "Contact Rental Experts",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Property Options for Rent in Sector 95 Gurugram",
@@ -52,11 +61,56 @@
       "The sector benefits from excellent infrastructure, planned accessibility, and proximity to high-income catchment areas ensuring sustained consumer flow. We provide rental options close to major arterial roads like the Bypass Road and adjacent thriving sectors, guaranteeing that your new commercial venture is easily reachable by your target audience and suppliers alike."
     ],
     "locations": [
-      "Main Road Frontage Commercial Projects",
-      "Proximity to Neharpar Residential Areas",
-      "Near Major Planned Infrastructure Developments",
-      "Easy Access to Sector 94 and 96 Commercial Zones",
-      "Retail Centers near Bypass Road Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -152,6 +206,11 @@
       "Ready to secure the prime commercial location your business deserves in Gurugram Contact our specialized rental team today for personalized property tours and detailed market insights. We are committed to matching you with the ideal shop for rent that drives your business forward in Sector 95.",
       "Submit your requirements now, and let our experts handle the search, negotiation, and paperwork, ensuring a seamless and profitable leasing experience."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

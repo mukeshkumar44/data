@@ -7,10 +7,19 @@
       "Kalanaur is rapidly developing, offering excellent connectivity to Rohtak and surrounding areas, making it a prime location for future growth. Avoid the pitfalls of complex legal documentation and inaccurate pricing. By partnering with our professional real estate agents in Kalanaur, you gain a strategic advantage. We handle all negotiations, paperwork, and due diligence, ensuring a smooth, secure, and highly satisfactory transaction from the initial search to the final registration. Let us unlock the potential of Kalanaur real estate for you today."
     ],
     "buttons": [
-      { "label": "Explore Verified Listings Now", "path": "/listings" },
-      { "label": "Request a Free Property Valuation", "path": "/valuation" }
+      {
+        "label": "Explore Verified Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Free Property Valuation",
+        "path": "/valuation"
+      }
     ],
-    "images": ["/images/kalanaur-hero-1.jpg", "/images/kalanaur-hero-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Understanding Popular Plot Sizes Available with Real Estate Agents in Kalanaur",
@@ -19,12 +28,30 @@
       "Whether you are planning a compact home or a sprawling bungalow, Kalanaur has options. The standard measurement unit used in this region is Marla, and we provide detailed conversion charts and site visits to ensure you visualize your future property accurately. Below are some of the most frequently requested plot sizes handled by our expert Kalanaur agents."
     ],
     "features": [
-      { "title": "4 Marla Plot", "description": "Ideal for small families or those seeking a highly affordable investment in Kalanaur. A 4 Marla plot provides enough space for a cozy 2BHK independent house or a rental unit with limited garden space. These plots are typically situated in well-connected yet older sectors, offering excellent value for money and immediate access to existing infrastructure." },
-      { "title": "6 Marla Plot", "description": "A very popular mid-range option perfect for building a comfortable 3BHK home with sufficient space for parking and a small front yard. 6 Marla plots strike an excellent balance between spacious living and manageable maintenance, making them highly liquid assets favored by both end-users and investors in Kalanaur Rohtak." },
-      { "title": "8 Marla Plot", "description": "This size is frequently sought after by established families looking for larger homes with separate drawing and dining areas and dedicated service quarters. An 8 Marla plot allows for greater architectural flexibility and the construction of multi-story independent villas, maximizing resale potential within the prime areas of Kalanaur." },
-      { "title": "10 Marla Plot", "description": "A premium plot size suitable for constructing a luxury residence or for dual occupancy development, like building two smaller independent units. Our real estate agents in Kalanaur often recommend 10 Marla plots for clients planning substantial long-term investments where future appreciation and rental yields are key considerations." },
-      { "title": "12 Marla Plot", "description": "Offering expansive space, 12 Marla plots are perfect for custom-designed bungalows, large green spaces, and dedicated recreational areas. These plots usually command a higher price but guarantee unmatched privacy and prestige. We verify all clear titles for 12 Marla properties in the rapidly developing outskirts of Kalanaur." },
-      { "title": "14 Marla Plot", "description": "The largest standard residential offering, 14 Marla plots provide maximum space for constructing grand estates, comprehensive landscaping, and private amenities like swimming pools or home theaters. Investing in 14 Marla through reliable real estate agents in Kalanaur ensures you secure a truly premium lifestyle property." }
+      {
+        "title": "4 Marla Plot",
+        "description": "Ideal for small families or those seeking a highly affordable investment in Kalanaur. A 4 Marla plot provides enough space for a cozy 2BHK independent house or a rental unit with limited garden space. These plots are typically situated in well-connected yet older sectors, offering excellent value for money and immediate access to existing infrastructure."
+      },
+      {
+        "title": "6 Marla Plot",
+        "description": "A very popular mid-range option perfect for building a comfortable 3BHK home with sufficient space for parking and a small front yard. 6 Marla plots strike an excellent balance between spacious living and manageable maintenance, making them highly liquid assets favored by both end-users and investors in Kalanaur Rohtak."
+      },
+      {
+        "title": "8 Marla Plot",
+        "description": "This size is frequently sought after by established families looking for larger homes with separate drawing and dining areas and dedicated service quarters. An 8 Marla plot allows for greater architectural flexibility and the construction of multi-story independent villas, maximizing resale potential within the prime areas of Kalanaur."
+      },
+      {
+        "title": "10 Marla Plot",
+        "description": "A premium plot size suitable for constructing a luxury residence or for dual occupancy development, like building two smaller independent units. Our real estate agents in Kalanaur often recommend 10 Marla plots for clients planning substantial long-term investments where future appreciation and rental yields are key considerations."
+      },
+      {
+        "title": "12 Marla Plot",
+        "description": "Offering expansive space, 12 Marla plots are perfect for custom-designed bungalows, large green spaces, and dedicated recreational areas. These plots usually command a higher price but guarantee unmatched privacy and prestige. We verify all clear titles for 12 Marla properties in the rapidly developing outskirts of Kalanaur."
+      },
+      {
+        "title": "14 Marla Plot",
+        "description": "The largest standard residential offering, 14 Marla plots provide maximum space for constructing grand estates, comprehensive landscaping, and private amenities like swimming pools or home theaters. Investing in 14 Marla through reliable real estate agents in Kalanaur ensures you secure a truly premium lifestyle property."
+      }
     ]
   },
   "locationsSection": {
@@ -34,14 +61,56 @@
       "We provide targeted advice based on connectivity, proximity to schools, hospitals, and commercial hubs. Whether you prioritize quiet, family-friendly environments or areas with high commercial visibility, our property experts will guide you to the perfect locale that aligns with your lifestyle and investment strategy within Kalanaur Rohtak. We cover everything from established colonies to newly approved governmental housing schemes."
     ],
     "locations": [
-      "Main Rohtak Road Kalanaur",
-      "Near Kalanaur Bypass",
-      "Model Town Kalanaur",
-      "Sector 1 Kalanaur Residential Scheme",
-      "Old Kalanaur Abadi",
-      "Villages Adjacent to Kalanaur",
-      "Commercial Market Area Kalanaur",
-      "Near Railway Station Kalanaur"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -51,30 +120,84 @@
       "We understand the nuances of the Kalanaur property market, including evolving government policies, infrastructure projects, and actual transactional values. Our comprehensive support system ensures that every step, from initial inquiry to final possession, is executed flawlessly and efficiently, offering you complete peace of mind."
     ],
     "points": [
-      { "title": "Unrivaled Local Market Expertise", "description": "Our team lives and works in Kalanaur, providing us with real-time, ground-level information that national platforms often miss. We know exactly which areas are appreciating, which builders are reliable, and the true value of any plot or structure in the region. This local edge ensures you secure the best deal possible." },
-      { "title": "Exclusive Verified Property Listings", "description": "We maintain an extensive, curated database of properties, including off-market and exclusive listings that you won't find anywhere else. Every listing undergoes rigorous legal verification to ensure clear titles, zero encumbrances, and full adherence to local planning regulations before we present it to you." },
-      { "title": "Transparent and Ethical Dealings", "description": "Trust is paramount in real estate. We uphold the highest standards of integrity, offering transparent fee structures and honest valuations. Our commitment is always to your satisfaction, providing unbiased advice whether you are buying your first home or liquidating a large land asset in Kalanaur." },
-      { "title": "Expert Legal and Documentation Support", "description": "The legal paperwork involved in property transactions in Kalanaur can be complex. We provide end-to-end support, managing due diligence, stamp duty registration, mutation processes, and all requisite approvals, safeguarding you against future legal challenges." },
-      { "title": "Skilled Negotiation for Optimal Results", "description": "Our experienced real estate agents are masters of negotiation. We leverage current market data and competitive analysis to advocate fiercely on your behalf, ensuring you achieve the best possible price, whether purchasing or selling property in Kalanaur Rohtak." },
-      { "title": "Personalized Property Search Strategy", "description": "We listen carefully to your specific requirements, filtering through hundreds of listings to present only the most relevant options. Our tailored approach saves you time and stress, focusing only on properties in Kalanaur that genuinely fit your investment goals and lifestyle needs." },
-      { "title": "Post-Transaction Handholding Services", "description": "Our relationship doesn't end at closing. We offer continued support for services like property management, tenant screening, renovation referrals, and tax consultation related to your newly acquired asset in Kalanaur, ensuring a seamless transition." },
-      { "title": "Access to Trusted Financial and Loan Partners", "description": "Need financing We connect you with trusted banks and financial institutions offering competitive home loan products specifically tailored for properties in the Kalanaur area. We streamline the loan application and approval process for quicker funding." }
+      {
+        "title": "Unrivaled Local Market Expertise",
+        "description": "Our team lives and works in Kalanaur, providing us with real-time, ground-level information that national platforms often miss. We know exactly which areas are appreciating, which builders are reliable, and the true value of any plot or structure in the region. This local edge ensures you secure the best deal possible."
+      },
+      {
+        "title": "Exclusive Verified Property Listings",
+        "description": "We maintain an extensive, curated database of properties, including off-market and exclusive listings that you won't find anywhere else. Every listing undergoes rigorous legal verification to ensure clear titles, zero encumbrances, and full adherence to local planning regulations before we present it to you."
+      },
+      {
+        "title": "Transparent and Ethical Dealings",
+        "description": "Trust is paramount in real estate. We uphold the highest standards of integrity, offering transparent fee structures and honest valuations. Our commitment is always to your satisfaction, providing unbiased advice whether you are buying your first home or liquidating a large land asset in Kalanaur."
+      },
+      {
+        "title": "Expert Legal and Documentation Support",
+        "description": "The legal paperwork involved in property transactions in Kalanaur can be complex. We provide end-to-end support, managing due diligence, stamp duty registration, mutation processes, and all requisite approvals, safeguarding you against future legal challenges."
+      },
+      {
+        "title": "Skilled Negotiation for Optimal Results",
+        "description": "Our experienced real estate agents are masters of negotiation. We leverage current market data and competitive analysis to advocate fiercely on your behalf, ensuring you achieve the best possible price, whether purchasing or selling property in Kalanaur Rohtak."
+      },
+      {
+        "title": "Personalized Property Search Strategy",
+        "description": "We listen carefully to your specific requirements, filtering through hundreds of listings to present only the most relevant options. Our tailored approach saves you time and stress, focusing only on properties in Kalanaur that genuinely fit your investment goals and lifestyle needs."
+      },
+      {
+        "title": "Post-Transaction Handholding Services",
+        "description": "Our relationship doesn't end at closing. We offer continued support for services like property management, tenant screening, renovation referrals, and tax consultation related to your newly acquired asset in Kalanaur, ensuring a seamless transition."
+      },
+      {
+        "title": "Access to Trusted Financial and Loan Partners",
+        "description": "Need financing We connect you with trusted banks and financial institutions offering competitive home loan products specifically tailored for properties in the Kalanaur area. We streamline the loan application and approval process for quicker funding."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions about Working with Real Estate Agents in Kalanaur Rohtak",
     "description": "Get clear, precise answers to the most common queries regarding property transactions, legal processes, and market specifics in the Kalanaur area.",
     "faqs": [
-      { "question": "What is the typical commission fee structure for real estate agents in Kalanaur", "answer": "The commission structure for real estate agents in Kalanaur is generally negotiable but typically adheres to local market standards. For outright sale or purchase of plots and homes, the fee usually ranges from 1% to 2% of the total transaction value, paid by one or both parties depending on the agreement. For rental properties, the standard fee is one month's rent. Transparency is key, and we always outline all costs clearly in our agreement before proceeding with any services." },
-      { "question": "How long does the average property registration process take in Kalanaur Rohtak", "answer": "The duration of the property registration process can vary based on the readiness of documents and the current workload at the Registrar's office in Rohtak. Generally, once the sale deed is prepared and stamp duty is paid, the physical registration process takes a few hours on the appointed day. However, the preparatory stage, including title search and due diligence handled by our agents, can take 10 to 15 working days to ensure all paperwork is legally sound." },
-      { "question": "Are there any specific restrictions on buying agricultural land near Kalanaur for non-agriculturists", "answer": "Yes, Haryana state laws, which apply to Kalanaur, often impose restrictions on the purchase of agricultural land by non-agriculturists, particularly if the land is outside specific urban zones or does not meet certain minimum area requirements. Our real estate agents specialize in verifying the current land-use classification and ensuring compliance with local laws, guiding investors toward legally convertible land or properties within municipal limits if their intention is non-agricultural use." },
-      { "question": "What documentation is crucial before purchasing a residential plot through a Kalanaur agent", "answer": "Before finalizing any purchase, several key documents must be verified. These include the Title Deed proving seller ownership, the Mutation Record (Jamabandi) updated with current details, the No Objection Certificate (NOC) from relevant authorities if required, and a detailed map (Aks Shajra) showing plot boundaries. Our agents meticulously review all previous sale deeds and ensure property tax receipts are up-to-date." },
-      { "question": "How can I verify the current market rate for property in specific sectors of Kalanaur", "answer": "Verifying the current market rate requires analyzing recent comparable sales (comps) in the specific sector of Kalanaur, alongside the official government collector rate (Circle Rate). Our real estate agents provide a detailed market analysis report, factoring in infrastructure quality, proximity to amenities, and future development potential, giving you a precise and justifiable valuation for buying or selling." },
-      { "question": "What is the difference between free hold and lease hold property ownership in Kalanaur", "answer": "In Kalanaur, most residential plots sold are Freehold, meaning the owner has full, perpetual rights over the land and the structure built upon it, and the transfer of ownership is simpler. Leasehold property involves leasing the land for a fixed period (e.g., 99 years), and the rights are subject to lease terms. Our agents primarily deal in verified Freehold properties, ensuring maximum security and control for our clients." },
-      { "question": "Can I invest in commercial property in Kalanaur through your real estate agents", "answer": "Absolutely. Kalanaur's strategic location on the Rohtak road corridor makes it excellent for commercial investment. We handle commercial plots, shops, and office spaces. Our services include finding properties with high foot traffic, checking zoning regulations for commercial use, and projecting potential rental yields for retail or warehouse operations." },
-      { "question": "How do your Kalanaur agents handle property disputes or legal issues during a transaction", "answer": "Our primary goal is to prevent disputes through comprehensive due diligence and clear contractual agreements. If any pre-existing legal issues, such as boundary disputes or heir claims, are identified, we immediately notify the client and engage our legal team to advise on mitigation strategies or suspension of the deal until the matter is definitively resolved by the seller. We protect you from inherited legal complications." },
-      { "question": "What are the hidden costs associated with property buying in Kalanaur apart from the sale price", "answer": "Beyond the basic sale price, buyers in Kalanaur must budget for Stamp Duty and Registration Fees, which are state-mandated taxes typically around 6% to 8% of the transaction value. Other costs may include transfer fees, maintenance charges (if applicable in a colony), and our professional service charges. We provide an exhaustive breakdown of all costs upfront, so there are no surprises." },
-      { "question": "Do you offer property management services for owners living outside Kalanaur Rohtak", "answer": "Yes, we offer comprehensive property management services ideal for Non-Resident Indians (NRIs) or investors residing outside Kalanaur. This includes tenant finding and vetting, rent collection, property maintenance supervision, utility bill payment, and periodic inspections, ensuring your asset is protected and generating steady income without requiring your physical presence." }
+      {
+        "question": "What is the typical commission fee structure for real estate agents in Kalanaur",
+        "answer": "The commission structure for real estate agents in Kalanaur is generally negotiable but typically adheres to local market standards. For outright sale or purchase of plots and homes, the fee usually ranges from 1% to 2% of the total transaction value, paid by one or both parties depending on the agreement. For rental properties, the standard fee is one month's rent. Transparency is key, and we always outline all costs clearly in our agreement before proceeding with any services."
+      },
+      {
+        "question": "How long does the average property registration process take in Kalanaur Rohtak",
+        "answer": "The duration of the property registration process can vary based on the readiness of documents and the current workload at the Registrar's office in Rohtak. Generally, once the sale deed is prepared and stamp duty is paid, the physical registration process takes a few hours on the appointed day. However, the preparatory stage, including title search and due diligence handled by our agents, can take 10 to 15 working days to ensure all paperwork is legally sound."
+      },
+      {
+        "question": "Are there any specific restrictions on buying agricultural land near Kalanaur for non-agriculturists",
+        "answer": "Yes, Haryana state laws, which apply to Kalanaur, often impose restrictions on the purchase of agricultural land by non-agriculturists, particularly if the land is outside specific urban zones or does not meet certain minimum area requirements. Our real estate agents specialize in verifying the current land-use classification and ensuring compliance with local laws, guiding investors toward legally convertible land or properties within municipal limits if their intention is non-agricultural use."
+      },
+      {
+        "question": "What documentation is crucial before purchasing a residential plot through a Kalanaur agent",
+        "answer": "Before finalizing any purchase, several key documents must be verified. These include the Title Deed proving seller ownership, the Mutation Record (Jamabandi) updated with current details, the No Objection Certificate (NOC) from relevant authorities if required, and a detailed map (Aks Shajra) showing plot boundaries. Our agents meticulously review all previous sale deeds and ensure property tax receipts are up-to-date."
+      },
+      {
+        "question": "How can I verify the current market rate for property in specific sectors of Kalanaur",
+        "answer": "Verifying the current market rate requires analyzing recent comparable sales (comps) in the specific sector of Kalanaur, alongside the official government collector rate (Circle Rate). Our real estate agents provide a detailed market analysis report, factoring in infrastructure quality, proximity to amenities, and future development potential, giving you a precise and justifiable valuation for buying or selling."
+      },
+      {
+        "question": "What is the difference between free hold and lease hold property ownership in Kalanaur",
+        "answer": "In Kalanaur, most residential plots sold are Freehold, meaning the owner has full, perpetual rights over the land and the structure built upon it, and the transfer of ownership is simpler. Leasehold property involves leasing the land for a fixed period (e.g., 99 years), and the rights are subject to lease terms. Our agents primarily deal in verified Freehold properties, ensuring maximum security and control for our clients."
+      },
+      {
+        "question": "Can I invest in commercial property in Kalanaur through your real estate agents",
+        "answer": "Absolutely. Kalanaur's strategic location on the Rohtak road corridor makes it excellent for commercial investment. We handle commercial plots, shops, and office spaces. Our services include finding properties with high foot traffic, checking zoning regulations for commercial use, and projecting potential rental yields for retail or warehouse operations."
+      },
+      {
+        "question": "How do your Kalanaur agents handle property disputes or legal issues during a transaction",
+        "answer": "Our primary goal is to prevent disputes through comprehensive due diligence and clear contractual agreements. If any pre-existing legal issues, such as boundary disputes or heir claims, are identified, we immediately notify the client and engage our legal team to advise on mitigation strategies or suspension of the deal until the matter is definitively resolved by the seller. We protect you from inherited legal complications."
+      },
+      {
+        "question": "What are the hidden costs associated with property buying in Kalanaur apart from the sale price",
+        "answer": "Beyond the basic sale price, buyers in Kalanaur must budget for Stamp Duty and Registration Fees, which are state-mandated taxes typically around 6% to 8% of the transaction value. Other costs may include transfer fees, maintenance charges (if applicable in a colony), and our professional service charges. We provide an exhaustive breakdown of all costs upfront, so there are no surprises."
+      },
+      {
+        "question": "Do you offer property management services for owners living outside Kalanaur Rohtak",
+        "answer": "Yes, we offer comprehensive property management services ideal for Non-Resident Indians (NRIs) or investors residing outside Kalanaur. This includes tenant finding and vetting, rent collection, property maintenance supervision, utility bill payment, and periodic inspections, ensuring your asset is protected and generating steady income without requiring your physical presence."
+      }
     ]
   },
   "contactSection": {
@@ -83,6 +206,11 @@
       "Ready to take the next step in your property journey in Kalanaur Rohtak Contact our expert team today for personalized assistance. Whether you are looking to buy, sell, or simply seek professional market advice, we are here to help you achieve your goals.",
       "Fill out the form below, and one of our dedicated real estate specialists will reach out to schedule a consultation tailored to your specific needs and timeline."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

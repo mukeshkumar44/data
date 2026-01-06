@@ -7,10 +7,19 @@
       "Explore our curated selection of verified homes ranging from compact family dwellings to expansive bungalows. Whether you are searching for a quick possession property or planning a long-term investment, our expert team provides transparent guidance and up-to-date market information. Start your search now to secure a beautiful home in one of Ambala's most accessible and respected neighbourhoods. Your dream House For Sale in Jagadhri Gate is waiting."
     ],
     "buttons": [
-      { "label": "View Verified Listings Now", "path": "/listings" },
-      { "label": "Speak to an Expert", "path": "/contact" }
+      {
+        "label": "View Verified Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Speak to an Expert",
+        "path": "/contact"
+      }
     ],
-    "images": ["house_jagadhri_gate_1.jpg", "map_jagadhri_gate.png"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse House Configurations and Property Sizes Available in Jagadhri Gate",
@@ -52,12 +61,56 @@
       "The area is self-sufficient, boasting proximity to established markets, reliable healthcare facilities, and some of the best schools in the region. Living here means benefiting from a well-developed urban environment while maintaining a community feel. We provide localized insights into micro-markets within Jagadhri Gate, ensuring you choose a home not just for its structure, but for its perfect position within this thriving locale. Invest confidently in a location that promises growth and convenience for years to come."
     ],
     "locations": [
-      "Proximity to Ambala City Railway Station",
-      "Direct access to Chandigarh-Ambala National Highway",
-      "Close distance to major Ambala Cantt markets",
-      "Near reputable government and private schools",
-      "Established healthcare and specialty clinics nearby",
-      "Excellent public transport connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Contact our dedicated real estate experts today to begin your personalized search for the perfect home in Jagadhri Gate. Whether you have questions about specific listings or need detailed market insights, we are here to help.",
       "Submit your details below and a specialist will reach out within the hour to discuss your residential property needs in Ambala."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

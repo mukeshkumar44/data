@@ -7,12 +7,18 @@
       "We provide curated listings of the best rental properties, ranging from compact 1 BHK units perfect for young professionals to expansive luxury 4 BHK apartments suitable for large families. Every listing meets high standards of security, maintenance, and amenity provision, ensuring a seamless living experience. Begin your search now and unlock the door to sophisticated urban life within the heart of Noida’s most sought-after sector. Securing your next home is simple and efficient with our expert guidance."
     ],
     "buttons": [
-      { "label": "Browse All Rental Listings", "path": "/listings" },
-      { "label": "Request a Free Consultation", "path": "/contact" }
+      {
+        "label": "Browse All Rental Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Free Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "flat-for-rent-sector-74-hero-1.jpg",
-      "flat-for-rent-sector-74-hero-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "Additionally, the sector benefits from seamless integration with neighboring developed areas, enhancing connectivity and access to essential services like schools, hospitals, and shopping centers. Explore the most popular societies within Sector 74 and the adjacent sectors that significantly influence the local rental ecosystem."
     ],
     "locations": [
-      "Supertech Capetown Sector 74",
-      "Ats One Hamlet Sector 74",
-      "Mahagun Moderne Sector 78",
-      "Sector 75 Residential Complex",
-      "Sector 50 Premium Flats",
-      "Central Noida Connectivity Hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -156,6 +206,11 @@
       "Our dedicated team of Sector 74 rental specialists is ready to assist you in navigating the market and finding a rental property that exceeds your expectations. Stop wasting time browsing endless listings and let us connect you directly with verified, high-quality rental homes.",
       "Contact us today to schedule viewing appointments, discuss specific property requirements, or receive expert advice on current rental market trends in Sector 74 Noida. Your perfect home awaits."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

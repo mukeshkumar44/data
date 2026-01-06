@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "flat_exterior_sector65.jpg",
-      "flat_interior_sector65.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "The rapid development around Sector 65 includes the establishment of world-class healthcare facilities leading schools and vibrant retail centers ensuring that all daily needs are met within a short distance. This robust infrastructure supports the premium pricing and future appreciation potential of every Flat For Sale in sector_65 making it a genuinely sound investment decision."
     ],
     "locations": [
-      "Proximity to KMP Expressway",
-      "Upcoming Metro Station Linkage",
-      "Major Educational Institutions nearby",
-      "Leading Hospitals and Healthcare Centers",
-      "Shopping Malls and Entertainment Zones",
-      "Direct Road Access to Mathura Road NH-44"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,10 +7,19 @@
       "Our comprehensive portfolio includes luxurious villas modern independent houses and newly constructed homes featuring essential amenities like dedicated parking power backup and secure boundaries. Whether you are a first-time homebuyer or an experienced investor looking for high returns Ghel offers diverse housing options to fit every budget and lifestyle need. Explore our exclusive listings now and take the first step toward owning your dream house in Ghel Ambala."
     ],
     "buttons": [
-      { "label": "View Available Houses Now", "path": "/listings/ghel" },
-      { "label": "Schedule a Property Tour", "path": "/contact" }
+      {
+        "label": "View Available Houses Now",
+        "path": "/listings/ghel"
+      },
+      {
+        "label": "Schedule a Property Tour",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/ghel-house-exterior.jpg", "/images/ghel-family-home.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse House Types and Investment Sizes When Buying in Ghel Ambala",
@@ -52,14 +61,56 @@
       "We focus on houses in Ghel and adjacent areas that promise seamless connectivity to major highways schools and medical facilities ensuring a convenient and high-quality lifestyle for all residents."
     ],
     "locations": [
-      "Ambala Cantt Residential Zones",
-      "Sector 7 Housing Ambala",
-      "Model Town Extension",
-      "Panchkula Road Connectivity",
-      "Dhulkot Residential Area",
-      "Sadar Bazaar Vicinity",
-      "Near Ambala City Railway Station",
-      "NH 44 Access Points"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure your perfect home in Ghel Ambala Let our dedicated team of real estate professionals guide you through every step of the purchase process. We offer personalized property tours financing advice and legal assistance.",
       "Fill out the form below or call us directly to discuss your specific requirements and gain access to off-market listings available exclusively through our network in Ghel."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "flat_exterior_sector_29.jpg",
-      "flat_living_room_karnal.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The area is surrounded by established residential colonies parks and rapidly developing commercial zones ensuring all daily needs are met within a short radius. Investment here promises high returns due to continuous infrastructural development and rising demand for quality housing options."
     ],
     "locations": [
-      "Karnal Bus Stand Road Access",
-      "Model Town Extension Proximity",
-      "Urban Estate Sector 7 Connectivity",
-      "Railway Road Access Points",
-      "Proximity to Reputed Schools and Hospitals",
-      "Easy Access to National Highway 44",
-      "Nearby Shopping Centers and Malls",
-      "Well-Maintained Parks and Green Spaces"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

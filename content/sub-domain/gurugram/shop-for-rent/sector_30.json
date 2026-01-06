@@ -7,10 +7,19 @@
       "Our exclusive portfolio of commercial properties lists vetted shops for rent in Sector 30 suitable for diverse business requirements, including modern showrooms, specialized retail outlets, and professional service centers. We provide detailed market analysis and transparent lease terms to simplify your search for the ideal business address in Gurugram. Leverage our local expertise to secure a space that maximizes your investment and supports your business ambition."
     ],
     "buttons": [
-      { "label": "View All Shop Listings", "path": "/listings" },
-      { "label": "Request a Local Market Report", "path": "/contact" }
+      {
+        "label": "View All Shop Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Local Market Report",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Properties and Shop Sizes For Rent in Sector 30 Gurugram",
@@ -52,12 +61,56 @@
       "Understanding these surrounding markets helps you forecast potential customer volume and select a location that aligns with your specific demographic targets. We help evaluate listings based on their immediate commercial ecosystem, ensuring your shop benefits from localized demand and regional connectivity."
     ],
     "locations": [
-      "Sector 31 Residential Market",
-      "Crown Plaza Mall and Retail Zone",
-      "National Highway 19 Access Point",
-      "Old Gurugram Metro Station Link",
-      "Sector 29 Business District",
-      "Surajkund Commercial Corridor"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

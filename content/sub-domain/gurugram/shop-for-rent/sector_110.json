@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "commercial_shop_sector110_frontage.jpg",
-      "sector110_market_view.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,13 +61,56 @@
       "This strategic location means businesses here are not just serving the local population but also attracting patrons from surrounding areas due to ease of access and modern infrastructure. We provide comprehensive market insights detailing the specific advantages of different pockets within Sector 110. Some areas boast high visibility from the main road while others offer specialized environments perfect for service-oriented businesses or niche retail outlets. Understanding these micro-markets is key to making an informed rental decision. Explore the interconnected commercial landscape of Sector 110 and neighboring zones to secure a position that guarantees long-term customer engagement and robust sales figures."
     ],
     "locations": [
-      "Neharpar Commercial Hub",
-      "Ambedkar Chowk Market Area",
-      "Sector 111 Retail Strip",
-      "Omaxe World Street Commercial Access Points",
-      "BPTP Parklands Commercial Area",
-      "Tigaon Road Connectivity Markets",
-      "Proximity to Bypass Road Retail Zones"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

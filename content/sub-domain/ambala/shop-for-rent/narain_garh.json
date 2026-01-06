@@ -7,10 +7,19 @@
       "Our listings feature prime locations with excellent connectivity and modern amenities. Explore our curated selection and find the perfect shop to elevate your business in Narain Garh."
     ],
     "buttons": [
-      { "label": "Browse Listings", "path": "/listings" },
-      { "label": "Contact Us", "path": "/contact" }
+      {
+        "label": "Browse Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Contact Us",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Available Shop Sizes in Narain Garh",
@@ -19,12 +28,30 @@
       "Our properties are strategically located in high-traffic areas, ensuring maximum visibility and customer footfall for your business."
     ],
     "features": [
-      { "title": "4 Marla Plot", "description": "Compact and affordable, perfect for small businesses or startups looking to establish a presence in Narain Garh." },
-      { "title": "6 Marla Plot", "description": "Ideal for medium-sized businesses, offering ample space for retail or office setups in prime locations." },
-      { "title": "8 Marla Plot", "description": "Spacious shops suitable for larger businesses, providing room for expansion and customer comfort." },
-      { "title": "10 Marla Plot", "description": "Premium commercial spaces with excellent visibility, perfect for high-end retail stores or offices." },
-      { "title": "12 Marla Plot", "description": "Luxury shops with modern amenities, located in high-demand areas of Narain Garh." },
-      { "title": "14 Marla Plot", "description": "Exceptional commercial spaces for large-scale businesses, offering unmatched convenience and accessibility." }
+      {
+        "title": "4 Marla Plot",
+        "description": "Compact and affordable, perfect for small businesses or startups looking to establish a presence in Narain Garh."
+      },
+      {
+        "title": "6 Marla Plot",
+        "description": "Ideal for medium-sized businesses, offering ample space for retail or office setups in prime locations."
+      },
+      {
+        "title": "8 Marla Plot",
+        "description": "Spacious shops suitable for larger businesses, providing room for expansion and customer comfort."
+      },
+      {
+        "title": "10 Marla Plot",
+        "description": "Premium commercial spaces with excellent visibility, perfect for high-end retail stores or offices."
+      },
+      {
+        "title": "12 Marla Plot",
+        "description": "Luxury shops with modern amenities, located in high-demand areas of Narain Garh."
+      },
+      {
+        "title": "14 Marla Plot",
+        "description": "Exceptional commercial spaces for large-scale businesses, offering unmatched convenience and accessibility."
+      }
     ]
   },
   "locationsSection": {
@@ -34,15 +61,56 @@
       "Whether you're looking for a shop in a busy market or a quieter area, these locations near Narain Garh have something for everyone."
     ],
     "locations": [
-      "Ambala Cantt",
-      "Sector 7 Ambala",
-      "Sector 8 Ambala",
-      "Sector 9 Ambala",
-      "Sector 10 Ambala",
-      "Sector 11 Ambala",
-      "Ambala City",
-      "Railway Road Ambala",
-      "Jagadhri Road Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -52,30 +120,84 @@
       "With us, you can expect a seamless rental experience, from finding the right shop to finalizing the lease agreement."
     ],
     "points": [
-      { "title": "Prime Locations", "description": "Our shops are located in high-traffic areas, ensuring maximum visibility and customer footfall for your business." },
-      { "title": "Variety of Options", "description": "We offer a wide range of shop sizes and types to suit every business need, from startups to established enterprises." },
-      { "title": "Competitive Pricing", "description": "Our rental rates are competitive, offering great value for money in sought-after locations." },
-      { "title": "Modern Amenities", "description": "Our properties are equipped with modern amenities, ensuring a comfortable and productive environment for your business." },
-      { "title": "Expert Guidance", "description": "Our experienced team provides personalized assistance, helping you find the perfect shop for your business." },
-      { "title": "Flexible Lease Terms", "description": "We offer flexible lease terms to accommodate your business needs and growth plans." },
-      { "title": "Transparent Process", "description": "Our rental process is transparent and hassle-free, ensuring a smooth experience from start to finish." },
-      { "title": "Local Market Insights", "description": "With deep knowledge of the Narain Garh market, we provide valuable insights to help you make informed decisions." }
+      {
+        "title": "Prime Locations",
+        "description": "Our shops are located in high-traffic areas, ensuring maximum visibility and customer footfall for your business."
+      },
+      {
+        "title": "Variety of Options",
+        "description": "We offer a wide range of shop sizes and types to suit every business need, from startups to established enterprises."
+      },
+      {
+        "title": "Competitive Pricing",
+        "description": "Our rental rates are competitive, offering great value for money in sought-after locations."
+      },
+      {
+        "title": "Modern Amenities",
+        "description": "Our properties are equipped with modern amenities, ensuring a comfortable and productive environment for your business."
+      },
+      {
+        "title": "Expert Guidance",
+        "description": "Our experienced team provides personalized assistance, helping you find the perfect shop for your business."
+      },
+      {
+        "title": "Flexible Lease Terms",
+        "description": "We offer flexible lease terms to accommodate your business needs and growth plans."
+      },
+      {
+        "title": "Transparent Process",
+        "description": "Our rental process is transparent and hassle-free, ensuring a smooth experience from start to finish."
+      },
+      {
+        "title": "Local Market Insights",
+        "description": "With deep knowledge of the Narain Garh market, we provide valuable insights to help you make informed decisions."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shops For Rent in Narain Garh",
     "description": "Find answers to common questions about renting commercial spaces in Narain Garh. Our FAQ section covers everything from pricing to lease terms, helping you make an informed decision.",
     "faqs": [
-      { "question": "What types of shops are available for rent in Narain Garh", "answer": "We offer a variety of shops, including retail spaces, offices, and small business setups, in different sizes to suit your needs." },
-      { "question": "How do I find the best location for my shop in Narain Garh", "answer": "Our team can help you identify prime locations based on your business type, customer base, and budget." },
-      { "question": "What are the rental rates for shops in Narain Garh", "answer": "Rental rates vary depending on the size, location, and amenities of the shop. Contact us for detailed pricing information." },
-      { "question": "Can I negotiate the lease terms for a shop in Narain Garh", "answer": "Yes, we offer flexible lease terms and are open to negotiations to accommodate your business needs." },
-      { "question": "Are there any additional costs involved in renting a shop in Narain Garh", "answer": "Additional costs may include maintenance fees, utilities, and security deposits. We provide a detailed breakdown of all costs upfront." },
-      { "question": "How long does it take to finalize a shop rental in Narain Garh", "answer": "The process typically takes a few days to a week, depending on the property and lease agreement details." },
-      { "question": "What amenities are included in the shops for rent in Narain Garh", "answer": "Our shops come with modern amenities such as electricity, water supply, parking, and security." },
-      { "question": "Can I visit the shops before making a decision", "answer": "Yes, we encourage you to visit the properties to ensure they meet your requirements." },
-      { "question": "What if I need help with the legal aspects of renting a shop", "answer": "Our team can assist with legal documentation and ensure a smooth rental process." },
-      { "question": "How can I contact you for more information about shops for rent in Narain Garh", "answer": "You can reach us via phone, email, or by filling out the contact form on our website." }
+      {
+        "question": "What types of shops are available for rent in Narain Garh",
+        "answer": "We offer a variety of shops, including retail spaces, offices, and small business setups, in different sizes to suit your needs."
+      },
+      {
+        "question": "How do I find the best location for my shop in Narain Garh",
+        "answer": "Our team can help you identify prime locations based on your business type, customer base, and budget."
+      },
+      {
+        "question": "What are the rental rates for shops in Narain Garh",
+        "answer": "Rental rates vary depending on the size, location, and amenities of the shop. Contact us for detailed pricing information."
+      },
+      {
+        "question": "Can I negotiate the lease terms for a shop in Narain Garh",
+        "answer": "Yes, we offer flexible lease terms and are open to negotiations to accommodate your business needs."
+      },
+      {
+        "question": "Are there any additional costs involved in renting a shop in Narain Garh",
+        "answer": "Additional costs may include maintenance fees, utilities, and security deposits. We provide a detailed breakdown of all costs upfront."
+      },
+      {
+        "question": "How long does it take to finalize a shop rental in Narain Garh",
+        "answer": "The process typically takes a few days to a week, depending on the property and lease agreement details."
+      },
+      {
+        "question": "What amenities are included in the shops for rent in Narain Garh",
+        "answer": "Our shops come with modern amenities such as electricity, water supply, parking, and security."
+      },
+      {
+        "question": "Can I visit the shops before making a decision",
+        "answer": "Yes, we encourage you to visit the properties to ensure they meet your requirements."
+      },
+      {
+        "question": "What if I need help with the legal aspects of renting a shop",
+        "answer": "Our team can assist with legal documentation and ensure a smooth rental process."
+      },
+      {
+        "question": "How can I contact you for more information about shops for rent in Narain Garh",
+        "answer": "You can reach us via phone, email, or by filling out the contact form on our website."
+      }
     ]
   },
   "contactSection": {
@@ -84,6 +206,11 @@
       "Have questions or need assistance with finding the perfect shop for rent in Narain Garh? Our team is here to help.",
       "Fill out the form below, and we'll get back to you promptly with the information you need."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

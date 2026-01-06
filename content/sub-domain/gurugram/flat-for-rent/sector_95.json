@@ -7,10 +7,19 @@
       "Our curated listings provide verified properties ensuring a hassle-free transition into your new home. Experience the comfort of new construction and the convenience of proximity to major highways and commercial centers. Start exploring quality living spaces in Sector 95 today and secure your dream rental flat before it is gone. We help you navigate the rental market with transparency and expertise ensuring you find the best value for money when you rent a flat here."
     ],
     "buttons": [
-      { "label": "Explore 2 BHK Rentals", "path": "/rentals/sector-95/2bhk" },
-      { "label": "Request a Callback", "path": "/contact-us" }
+      {
+        "label": "Explore 2 BHK Rentals",
+        "path": "/rentals/sector-95/2bhk"
+      },
+      {
+        "label": "Request a Callback",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["/images/sector95_flat_hero1.jpg", "/images/sector95_flat_hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Rental Flats Available in Sector 95 Gurugram Catering to Every Family Size",
@@ -52,14 +61,56 @@
       "The neighborhood is rapidly developing featuring new schools hospitals and local markets within a short drive. Renting a flat in Sector 95 means embracing a convenient lifestyle where everything you need is within easy reach reducing daily travel time and enhancing your overall living experience in Gurugram."
     ],
     "locations": [
-      "Sector 92 Gurugram",
-      "Sector 96 Gurugram",
-      "KMP Expressway Access",
-      "Ballabhgarh Railway Station",
-      "FNG Expressway Connectivity",
-      "Ajronda Metro Station (Accessible)",
-      "Educational Institutions Nearby",
-      "Healthcare Facilities in Proximity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to move into your new home in Sector 95 Send us your requirements and let our dedicated team handle the complexity of the rental market for you. We provide personalized assistance from viewing to lease signing.",
       "Do not miss out on the best Flat For Rent in Sector 95. Contact us now to schedule property tours and take the first step toward hassle-free renting."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

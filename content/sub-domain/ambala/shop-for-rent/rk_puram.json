@@ -1,4 +1,3 @@
-```json
 {
   "domain": "www.exampleproperty.com",
   "hero": {
@@ -8,10 +7,19 @@
       "RK Puram offers a strategic location with easy access to major roads, making it a preferred choice for entrepreneurs. Whether you need a small boutique or a spacious showroom, we have options to suit every business need."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/shops" },
-      { "label": "Contact Agent", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/shops"
+      },
+      {
+        "label": "Contact Agent",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Shop For Rent in RK Puram Flexible Sizes and Affordable Rates",
@@ -20,12 +28,30 @@
       "Our properties come with essential amenities and are located in high-traffic zones to maximize your business potential."
     ],
     "features": [
-      { "title": "100 Sq Ft Shop", "description": "Ideal for small retail outlets or service providers looking for an affordable yet premium location in RK Puram." },
-      { "title": "200 Sq Ft Shop", "description": "Perfect for boutique stores or small businesses needing a bit more space without compromising on location." },
-      { "title": "300 Sq Ft Shop", "description": "Great for medium-sized retail shops or offices with ample space for displays and customer interaction." },
-      { "title": "500 Sq Ft Shop", "description": "Spacious enough for showrooms or larger retail stores requiring significant floor area." },
-      { "title": "1000 Sq Ft Shop", "description": "Best suited for big brands or multi-product stores needing expansive commercial space." },
-      { "title": "Customizable Shop", "description": "Tailor-made solutions available for businesses with unique spatial requirements." }
+      {
+        "title": "100 Sq Ft Shop",
+        "description": "Ideal for small retail outlets or service providers looking for an affordable yet premium location in RK Puram."
+      },
+      {
+        "title": "200 Sq Ft Shop",
+        "description": "Perfect for boutique stores or small businesses needing a bit more space without compromising on location."
+      },
+      {
+        "title": "300 Sq Ft Shop",
+        "description": "Great for medium-sized retail shops or offices with ample space for displays and customer interaction."
+      },
+      {
+        "title": "500 Sq Ft Shop",
+        "description": "Spacious enough for showrooms or larger retail stores requiring significant floor area."
+      },
+      {
+        "title": "1000 Sq Ft Shop",
+        "description": "Best suited for big brands or multi-product stores needing expansive commercial space."
+      },
+      {
+        "title": "Customizable Shop",
+        "description": "Tailor-made solutions available for businesses with unique spatial requirements."
+      }
     ]
   },
   "locationsSection": {
@@ -35,14 +61,56 @@
       "These areas are well-connected and offer similar advantages in terms of visibility and customer reach."
     ],
     "locations": [
-      "Karol Bagh",
-      "Rajendra Place",
-      "Punjabi Bagh",
-      "Patel Nagar",
-      "Shadipur",
-      "Kirti Nagar",
-      "Tagore Garden",
-      "Subhash Nagar"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -52,29 +120,80 @@
       "Here are some compelling reasons why renting a shop here can be a game-changer for your business."
     ],
     "points": [
-      { "title": "High Footfall", "description": "RK Puram attracts a large number of customers daily, ensuring steady business for shop owners." },
-      { "title": "Excellent Connectivity", "description": "Well-connected to major roads and public transport, making it easily accessible for customers and employees." },
-      { "title": "Diverse Customer Base", "description": "The area caters to a wide range of demographics, providing opportunities for various types of businesses." },
-      { "title": "Competitive Rental Rates", "description": "Affordable rental options compared to other prime commercial areas in the city." },
-      { "title": "Modern Infrastructure", "description": "Shops come with modern amenities and facilities to support your business needs." },
-      { "title": "Safe and Secure", "description": "The area is well-maintained and secure, ensuring a safe environment for businesses." },
-      { "title": "Growth Potential", "description": "RK Puram is a rapidly developing area with increasing commercial value." },
-      { "title": "Supportive Business Community", "description": "A vibrant community of entrepreneurs and business owners for networking and collaboration." }
+      {
+        "title": "High Footfall",
+        "description": "RK Puram attracts a large number of customers daily, ensuring steady business for shop owners."
+      },
+      {
+        "title": "Excellent Connectivity",
+        "description": "Well-connected to major roads and public transport, making it easily accessible for customers and employees."
+      },
+      {
+        "title": "Diverse Customer Base",
+        "description": "The area caters to a wide range of demographics, providing opportunities for various types of businesses."
+      },
+      {
+        "title": "Competitive Rental Rates",
+        "description": "Affordable rental options compared to other prime commercial areas in the city."
+      },
+      {
+        "title": "Modern Infrastructure",
+        "description": "Shops come with modern amenities and facilities to support your business needs."
+      },
+      {
+        "title": "Safe and Secure",
+        "description": "The area is well-maintained and secure, ensuring a safe environment for businesses."
+      },
+      {
+        "title": "Growth Potential",
+        "description": "RK Puram is a rapidly developing area with increasing commercial value."
+      },
+      {
+        "title": "Supportive Business Community",
+        "description": "A vibrant community of entrepreneurs and business owners for networking and collaboration."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shops For Rent in RK Puram",
     "description": "Get answers to common queries about renting a commercial space in RK Puram.",
     "faqs": [
-      { "question": "What is the average rental price for a shop in RK Puram", "answer": "Rental prices vary based on size and location, but typically range from INR 20,000 to INR 1,00,000 per month." },
-      { "question": "Are there any hidden charges when renting a shop in RK Puram", "answer": "Most properties list all charges upfront, but it's advisable to confirm maintenance fees and security deposits with the landlord." },
-      { "question": "Can I negotiate the rent for a shop in RK Puram", "answer": "Yes, rental rates are often negotiable, especially for long-term leases or if you're paying a higher security deposit." },
-      { "question": "What types of businesses thrive in RK Puram", "answer": "Retail stores, fashion boutiques, electronics shops, and service providers like salons and clinics do particularly well here." },
-      { "question": "Is RK Puram suitable for a startup business", "answer": "Absolutely, the area's mix of affordability and high visibility makes it ideal for new businesses." },
-      { "question": "How do I find the best shop location within RK Puram", "answer": "Consider foot traffic patterns, nearby competitors, and visibility when selecting your shop location." },
-      { "question": "What are the usual lease terms for shops in RK Puram", "answer": "Standard leases are for 11 months, but longer terms of 2-3 years are also common with periodic rent increases." },
-      { "question": "Are there any restrictions on business timings in RK Puram", "answer": "Most shops operate from 10 AM to 9 PM, but some areas may have specific regulations." },
-      { "question": "How quickly can I move into a rented shop in RK Puram", "answer": "Depending on paperwork and fittings, you can typically occupy within 1-2 weeks of signing the agreement." }
+      {
+        "question": "What is the average rental price for a shop in RK Puram",
+        "answer": "Rental prices vary based on size and location, but typically range from INR 20,000 to INR 1,00,000 per month."
+      },
+      {
+        "question": "Are there any hidden charges when renting a shop in RK Puram",
+        "answer": "Most properties list all charges upfront, but it's advisable to confirm maintenance fees and security deposits with the landlord."
+      },
+      {
+        "question": "Can I negotiate the rent for a shop in RK Puram",
+        "answer": "Yes, rental rates are often negotiable, especially for long-term leases or if you're paying a higher security deposit."
+      },
+      {
+        "question": "What types of businesses thrive in RK Puram",
+        "answer": "Retail stores, fashion boutiques, electronics shops, and service providers like salons and clinics do particularly well here."
+      },
+      {
+        "question": "Is RK Puram suitable for a startup business",
+        "answer": "Absolutely, the area's mix of affordability and high visibility makes it ideal for new businesses."
+      },
+      {
+        "question": "How do I find the best shop location within RK Puram",
+        "answer": "Consider foot traffic patterns, nearby competitors, and visibility when selecting your shop location."
+      },
+      {
+        "question": "What are the usual lease terms for shops in RK Puram",
+        "answer": "Standard leases are for 11 months, but longer terms of 2-3 years are also common with periodic rent increases."
+      },
+      {
+        "question": "Are there any restrictions on business timings in RK Puram",
+        "answer": "Most shops operate from 10 AM to 9 PM, but some areas may have specific regulations."
+      },
+      {
+        "question": "How quickly can I move into a rented shop in RK Puram",
+        "answer": "Depending on paperwork and fittings, you can typically occupy within 1-2 weeks of signing the agreement."
+      }
     ]
   },
   "contactSection": {
@@ -83,7 +202,11 @@
       "Get in touch with our commercial property experts to find your ideal shop space in RK Puram.",
       "We'll help you navigate all options and negotiate the best terms for your business needs."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }
-```

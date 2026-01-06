@@ -17,7 +17,8 @@
       }
     ],
     "images": [
-      "/images/2bhk-sector82-hero.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -60,14 +61,56 @@
       "Buyers looking for a 2BHK flat in Sector 82 will appreciate the easy access to established commercial zones like Sector 137 and Sector 142 which host multiple IT parks and corporate offices. This area is rapidly emerging as a self-sustaining ecosystem where work life and leisure harmoniously intersect. The neighborhood is well-served by high-end shopping malls multiplexes and fine dining options found just a short drive away. We help you compare Sector 82 with adjacent residential hubs to ensure you find the absolute best location for your investment and family needs."
     ],
     "locations": [
-      "Sector 137 Noida",
-      "Sector 142 Commercial Hub",
-      "Noida Expressway Access Points",
-      "Pari Chowk Greater Noida",
-      "Sector 81 Metro Station",
-      "Botanical Garden",
-      "Okhla Bird Sanctuary",
-      "Dadri Main Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

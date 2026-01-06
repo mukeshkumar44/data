@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "flat_exterior_sector63a.webp",
-      "flat_interior_sector63a.webp"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Proximity to major arterial roads and established sectors ensures that residents have quick access to high-quality healthcare, educational institutions, and retail destinations. This interconnected environment significantly enhances the living experience for flat owners in Sector 63A."
     ],
     "locations": [
-      "Sector 62 Gurugram",
-      "Sector 64 Gurugram",
-      "Green Field Colony Gurugram",
-      "Surajkund Road",
-      "Badarpur Border Connectivity",
-      "Tughlakabad Extension Access",
-      "Old Gurugram Link Road",
-      "NH 44 Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

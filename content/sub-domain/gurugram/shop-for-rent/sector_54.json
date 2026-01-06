@@ -7,10 +7,19 @@
       "Whether you are planning to open a flagship boutique a specialized service center or need high-throughput retail space our portfolio provides the perfect Shop For Rent in Sector 54. Benefit from established catchment areas competitive lease terms and professionally managed properties designed for maximum tenant success. Start your search now and position your brand in one of the city’s most sought-after commercial addresses with unmatched potential for growth and customer acquisition."
     ],
     "buttons": [
-      { "label": "Explore Available Shops Now", "path": "/search/shops-sector-54" },
-      { "label": "Consult Rental Experts", "path": "/contact-us" }
+      {
+        "label": "Explore Available Shops Now",
+        "path": "/search/shops-sector-54"
+      },
+      {
+        "label": "Consult Rental Experts",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Rental Spaces Available for Every Business Type in Sector 54",
@@ -52,12 +61,56 @@
       "Our team provides detailed demographic analyses of neighboring zones helping you pinpoint the exact location that matches your target audience profile. Investing in a commercial property here means integrating your business into a thriving ecosystem known for quality consumption and robust economic activity."
     ],
     "locations": [
-      "Golf Course Road Extension Hub",
-      "Sushant Lok 2 and 3 Catchment Area",
-      "DLF Phase 5 Residential Corridor",
-      "Heritage City Commercial Strip",
-      "South City 1 Accessible Markets",
-      "Major Connectivity to Rapid Metro Stations"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

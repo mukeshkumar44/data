@@ -7,12 +7,18 @@
       "Investing in New Gurgaon is not just purchasing a property it is securing a future in one of India's fastest-developing smart cities. We specialize in matching discerning buyers with the finest real estate opportunities available providing expert guidance on location pricing legal due diligence and investment returns. Start your journey to find the perfect residential property in New Gurgaon Gurugram today and experience unparalleled urban convenience."
     ],
     "buttons": [
-      { "label": "Explore Premium Listings", "path": "/listings" },
-      { "label": "Request Free Consultation", "path": "/contact" }
+      {
+        "label": "Explore Premium Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Free Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "new-gurgaon-skyline.jpg",
-      "luxury-villa-new-gurgaon.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,16 +61,56 @@
       "We highlight areas known for strong capital appreciation seamless access to the Dwarka Expressway and NH-48 and proximity to the emerging commercial centres and entertainment zones. These locations define the new standard of urban living in the National Capital Region."
     ],
     "locations": [
-      "Sector 81 New Gurgaon",
-      "Sector 82 Gurugram",
-      "Sector 83 Dwarka Expressway",
-      "Sector 84 Gurugram",
-      "Sector 90 New Gurgaon",
-      "Sector 92 Gurugram",
-      "Sector 93 Dwarka Expressway",
-      "Sector 95 New Gurgaon",
-      "Sector 99 Gurugram",
-      "Pataudi Road Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -160,6 +206,11 @@
       "Our expert real estate team is here to guide you through every step of the purchasing process from initial search to final registration. Leverage our deep market knowledge and extensive portfolio of verified properties.",
       "Contact us today for a private consultation and receive curated property recommendations tailored specifically to your family's needs and investment goals in New Gurgaon."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

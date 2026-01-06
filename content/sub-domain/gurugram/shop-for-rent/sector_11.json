@@ -7,12 +7,18 @@
       "Finding the perfect Shop For Rent in Sector 11 requires local expertise and market knowledge Our listings feature properties in high-demand areas close to residential complexes and main roads ensuring consistent customer flow Start your entrepreneurial journey confidently with a location that guarantees growth and prominence Explore flexible leasing options tailored to suit both startups and established enterprises in one of Gurugram’s most sought-after sectors"
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/available-shops" },
-      { "label": "Contact Rental Experts", "path": "/contact-us" }
+      {
+        "label": "View Available Shops",
+        "path": "/available-shops"
+      },
+      {
+        "label": "Contact Rental Experts",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "/images/sector11-shop-hero1.jpg",
-      "/images/sector11-shop-hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "We provide properties in Sector 11 that benefit directly from nearby established residential communities and major commuting routes ensuring your business is easily reachable by thousands of potential customers daily Explore adjacent growth corridors that enhance the commercial viability of renting in Sector 11 Gurugram"
     ],
     "locations": [
-      "Commercial Market Sector 10",
-      "Retail Hub Sector 9",
-      "Main Bypass Road Connectivity",
-      "Huda Market Sector 15",
-      "Central Gurugram Business District",
-      "Neelam Bata Road Corridor",
-      "Industrial Area Sector 12",
-      "Ajronda Chowk Accessibility"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

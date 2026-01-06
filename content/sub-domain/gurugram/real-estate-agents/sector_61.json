@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Services Provided by Expert Real Estate Agents in Sector 61 Gurugram",
@@ -58,14 +61,56 @@
       "Sector 61 benefits significantly from its proximity to major highways and commercial centers on Golf Course Extension Road. We cover properties adjacent to key educational hubs, healthcare facilities, and retail centers. Whether you seek luxury living in gated communities or high-potential investment plots, our hyper-local knowledge ensures you are always guided toward the most profitable and suitable opportunity. Rely on our detailed understanding of Sector 61 Gurugram's unique character and potential."
     ],
     "locations": [
-      "Emaar Emerald Hills",
-      "Pioneer Park Ph 1",
-      "Ireo Skyon",
-      "BPTP Park Serene",
-      "St Xavier's World School Area",
-      "Trump Tower Proximity",
-      "Golf Course Extension Connectivity",
-      "Commercial Hubs Near Sector 61"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,10 +7,19 @@
       "Choosing the right To let Service in Sector 35 means partnering with professionals who prioritize your asset protection and consistent returns. We offer personalized services whether you own an independent house, a builder floor, or a flat. Let us take the burden of vacancy periods, maintenance issues, and payment collection off your shoulders. Start earning stable rental income today with our transparent and efficient property letting solutions customized for Sector 35 Karnal."
     ],
     "buttons": [
-      { "label": "List Your Property Now", "path": "/list-property" },
-      { "label": "Request a Free Consultation", "path": "/contact-us" }
+      {
+        "label": "List Your Property Now",
+        "path": "/list-property"
+      },
+      {
+        "label": "Request a Free Consultation",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["/images/sector35_rental_service.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Comprehensive To Let Services Maximizing Rental Yields and Minimizing Owner Stress in Sector 35",
@@ -19,12 +28,30 @@
       "Whether you are an NRI investor or a local property owner, our tailored To let solutions in Sector 35 Karnal are built on trust and transparency. Review our core services designed to streamline your rental experience and guarantee superior returns without the day-to-day management headache. We utilize cutting-edge technology and deep local market knowledge to outperform standard brokerage services."
     ],
     "features": [
-      { "title": "Advanced Tenant Screening and Background Checks", "description": "Finding the right tenant is the foundation of a successful rental experience. Our advanced screening process includes detailed background checks, employment verification, financial stability assessment, and previous landlord references. We rigorously assess potential tenants to mitigate risks of damage, late payments, and legal disputes, ensuring only reliable individuals occupy your property in Sector 35 Karnal. This proactive approach ensures long-term tenant stability and security for your valuable asset." },
-      { "title": "Strategic Property Marketing and High Visibility Listing", "description": "To minimize vacancy time, aggressive and strategic marketing is crucial. We use professional photography, virtual tours, and targeted digital advertising across premium real estate portals and social media platforms. Our listings are optimized to attract the ideal tenant demographic looking for properties in Sector 35, ensuring your house or apartment receives maximum visibility and generates high-quality enquiries rapidly, securing a faster turnaround time." },
-      { "title": "Expert Legal Documentation and Lease Drafting", "description": "Protecting your interests starts with a solid, legally sound lease agreement. Our team drafts comprehensive rent agreements that comply with all local tenancy laws and include clear terms regarding rent payment schedules, maintenance responsibilities, security deposits, and early termination clauses. We handle all negotiation and paperwork, providing robust legal protection for property owners utilizing our To let Service in Sector 35." },
-      { "title": "Efficient Rent Collection and Financial Reporting", "description": "Say goodbye to the stress of chasing payments. We ensure timely rent collection through established digital payment gateways and strict enforcement protocols. Property owners receive transparent, detailed monthly financial statements outlining income, expenditures, and any necessary adjustments. This efficient process guarantees a steady cash flow and simplifies your accounting, making ownership passive and profitable." },
-      { "title": "Regular Property Inspection and Maintenance Management", "description": "Maintaining the property's condition is vital for preserving its value. We conduct scheduled internal and external inspections to identify maintenance needs early. We manage all repair requests using vetted, reliable local contractors in Sector 35 Karnal, ensuring repairs are timely and cost-effective. This preventative maintenance approach reduces major future repair costs and keeps tenants satisfied." },
-      { "title": "Seamless Tenant Move-in and Move-out Procedures", "description": "The transition between tenants must be smooth and documented thoroughly. We manage the entire lifecycle including detailed inventory checks, condition reports at both move-in and move-out, and accurate security deposit reconciliation. This professional handover process minimizes disputes over damages and ensures your property is ready for the next tenant with minimal downtime, maximizing your rental revenue." }
+      {
+        "title": "Advanced Tenant Screening and Background Checks",
+        "description": "Finding the right tenant is the foundation of a successful rental experience. Our advanced screening process includes detailed background checks, employment verification, financial stability assessment, and previous landlord references. We rigorously assess potential tenants to mitigate risks of damage, late payments, and legal disputes, ensuring only reliable individuals occupy your property in Sector 35 Karnal. This proactive approach ensures long-term tenant stability and security for your valuable asset."
+      },
+      {
+        "title": "Strategic Property Marketing and High Visibility Listing",
+        "description": "To minimize vacancy time, aggressive and strategic marketing is crucial. We use professional photography, virtual tours, and targeted digital advertising across premium real estate portals and social media platforms. Our listings are optimized to attract the ideal tenant demographic looking for properties in Sector 35, ensuring your house or apartment receives maximum visibility and generates high-quality enquiries rapidly, securing a faster turnaround time."
+      },
+      {
+        "title": "Expert Legal Documentation and Lease Drafting",
+        "description": "Protecting your interests starts with a solid, legally sound lease agreement. Our team drafts comprehensive rent agreements that comply with all local tenancy laws and include clear terms regarding rent payment schedules, maintenance responsibilities, security deposits, and early termination clauses. We handle all negotiation and paperwork, providing robust legal protection for property owners utilizing our To let Service in Sector 35."
+      },
+      {
+        "title": "Efficient Rent Collection and Financial Reporting",
+        "description": "Say goodbye to the stress of chasing payments. We ensure timely rent collection through established digital payment gateways and strict enforcement protocols. Property owners receive transparent, detailed monthly financial statements outlining income, expenditures, and any necessary adjustments. This efficient process guarantees a steady cash flow and simplifies your accounting, making ownership passive and profitable."
+      },
+      {
+        "title": "Regular Property Inspection and Maintenance Management",
+        "description": "Maintaining the property's condition is vital for preserving its value. We conduct scheduled internal and external inspections to identify maintenance needs early. We manage all repair requests using vetted, reliable local contractors in Sector 35 Karnal, ensuring repairs are timely and cost-effective. This preventative maintenance approach reduces major future repair costs and keeps tenants satisfied."
+      },
+      {
+        "title": "Seamless Tenant Move-in and Move-out Procedures",
+        "description": "The transition between tenants must be smooth and documented thoroughly. We manage the entire lifecycle including detailed inventory checks, condition reports at both move-in and move-out, and accurate security deposit reconciliation. This professional handover process minimizes disputes over damages and ensures your property is ready for the next tenant with minimal downtime, maximizing your rental revenue."
+      }
     ]
   },
   "locationsSection": {
@@ -34,14 +61,56 @@
       "Whether your property is located on the main boulevard of Sector 35 or in the quieter, surrounding residential pockets, we leverage our network to provide unparalleled service. Explore the linked areas where we consistently deliver top-tier property letting and management services."
     ],
     "locations": [
-      "Sector 32",
-      "Sector 33",
-      "Sector 34",
-      "Indri Road Karnal",
-      "National Highway 44 proximity",
-      "Kunjpura Road area",
-      "Model Town Extension",
-      "Sadar Bazaar proximity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -51,30 +120,84 @@
       "Our commitment to transparency, ethical practice, and aggressive tenant acquisition strategies ensures your property investment performs optimally in the competitive Karnal rental market. Discover the eight key differentiators that make us the preferred partner for property owners."
     ],
     "points": [
-      { "title": "Unmatched Local Market Expertise in Sector 35", "description": "We specialize exclusively in the Sector 35 and surrounding Karnal areas. This intense local focus means we possess the most accurate, up-to-the-minute data on rental rates, demand fluctuations, and tenant demographics. We can accurately price your property to attract tenants fast while ensuring you receive the highest market rent possible. Leverage our local intelligence for superior pricing strategies and occupancy rates." },
-      { "title": "Guaranteed Quick Tenant Placement", "description": "Vacancy is costly. Our robust marketing campaigns and pre-vetted tenant database allow us to dramatically reduce the time your property sits empty. We aim to place qualified tenants within 30 days or less, leveraging professional photography and premium listing placements to ensure fast turnover. Our commitment is to minimize your income loss and maximize consistent rental flow." },
-      { "title": "100% Transparency and Zero Hidden Fees", "description": "Trust is essential in property management. We operate with complete transparency regarding our service charges, maintenance costs, and financial reporting. Property owners have access to real-time updates and detailed monthly statements showing every income and expenditure item, ensuring you always know exactly where your investment stands without unexpected charges." },
-      { "title": "Dedicated Relationship Manager for Your Asset", "description": "Unlike large agencies where you might get passed around, every property owner working with our To let Service in Sector 35 receives a single dedicated manager. This ensures consistent communication, personalized advice, and a deep understanding of your specific property goals and requirements. This personalized service guarantees prompt and efficient handling of all queries." },
-      { "title": "Comprehensive Risk Mitigation and Legal Support", "description": "The rental market can be complex legally. We provide full legal support, ensuring all procedures, agreements, and notices comply strictly with Haryana tenancy laws. Our proactive risk mitigation includes stringent tenant screening and insurance guidance, protecting you from potential liabilities and costly legal disputes throughout the tenancy duration." },
-      { "title": "24/7 Emergency Support for Tenants and Owners", "description": "Property emergencies do not adhere to business hours. We provide round-the-clock contact for tenants to report urgent issues like major leaks or electrical failures. Our rapid response team ensures these issues are addressed immediately, protecting the physical integrity of your Sector 35 property and maintaining high tenant satisfaction levels." },
-      { "title": "Advanced Digital Management Tools", "description": "We utilize state-of-the-art property management software for efficient communication, digital lease signing, online rent payments, and comprehensive reporting. This technological edge streamlines operations, enhances the tenant experience, and provides property owners with easy, remote access to all relevant documents and financial performance metrics." },
-      { "title": "Focus on Property Value Preservation", "description": "Our management philosophy extends beyond just collecting rent. We focus on preventative maintenance and strategic upgrades that preserve and even enhance the long-term value of your property in Sector 35 Karnal. By prioritizing regular, high-quality maintenance, we ensure your asset remains attractive and competitive in the rental market for years to come." }
+      {
+        "title": "Unmatched Local Market Expertise in Sector 35",
+        "description": "We specialize exclusively in the Sector 35 and surrounding Karnal areas. This intense local focus means we possess the most accurate, up-to-the-minute data on rental rates, demand fluctuations, and tenant demographics. We can accurately price your property to attract tenants fast while ensuring you receive the highest market rent possible. Leverage our local intelligence for superior pricing strategies and occupancy rates."
+      },
+      {
+        "title": "Guaranteed Quick Tenant Placement",
+        "description": "Vacancy is costly. Our robust marketing campaigns and pre-vetted tenant database allow us to dramatically reduce the time your property sits empty. We aim to place qualified tenants within 30 days or less, leveraging professional photography and premium listing placements to ensure fast turnover. Our commitment is to minimize your income loss and maximize consistent rental flow."
+      },
+      {
+        "title": "100% Transparency and Zero Hidden Fees",
+        "description": "Trust is essential in property management. We operate with complete transparency regarding our service charges, maintenance costs, and financial reporting. Property owners have access to real-time updates and detailed monthly statements showing every income and expenditure item, ensuring you always know exactly where your investment stands without unexpected charges."
+      },
+      {
+        "title": "Dedicated Relationship Manager for Your Asset",
+        "description": "Unlike large agencies where you might get passed around, every property owner working with our To let Service in Sector 35 receives a single dedicated manager. This ensures consistent communication, personalized advice, and a deep understanding of your specific property goals and requirements. This personalized service guarantees prompt and efficient handling of all queries."
+      },
+      {
+        "title": "Comprehensive Risk Mitigation and Legal Support",
+        "description": "The rental market can be complex legally. We provide full legal support, ensuring all procedures, agreements, and notices comply strictly with Haryana tenancy laws. Our proactive risk mitigation includes stringent tenant screening and insurance guidance, protecting you from potential liabilities and costly legal disputes throughout the tenancy duration."
+      },
+      {
+        "title": "24/7 Emergency Support for Tenants and Owners",
+        "description": "Property emergencies do not adhere to business hours. We provide round-the-clock contact for tenants to report urgent issues like major leaks or electrical failures. Our rapid response team ensures these issues are addressed immediately, protecting the physical integrity of your Sector 35 property and maintaining high tenant satisfaction levels."
+      },
+      {
+        "title": "Advanced Digital Management Tools",
+        "description": "We utilize state-of-the-art property management software for efficient communication, digital lease signing, online rent payments, and comprehensive reporting. This technological edge streamlines operations, enhances the tenant experience, and provides property owners with easy, remote access to all relevant documents and financial performance metrics."
+      },
+      {
+        "title": "Focus on Property Value Preservation",
+        "description": "Our management philosophy extends beyond just collecting rent. We focus on preventative maintenance and strategic upgrades that preserve and even enhance the long-term value of your property in Sector 35 Karnal. By prioritizing regular, high-quality maintenance, we ensure your asset remains attractive and competitive in the rental market for years to come."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About To let Services and Rental Management in Sector 35 Karnal",
     "description": "Get clarity on our processes, fee structure, and the benefits of using a professional To let Service for your residential or commercial property in Sector 35.",
     "faqs": [
-      { "question": "What is the typical management fee for To let Services in Sector 35 Karnal", "answer": "Our management fee structure is typically a percentage of the gross monthly rent collected. This percentage varies slightly depending on the type of property (residential flat, independent house, or commercial space) and the level of service required. We maintain a clear, competitive fee schedule with absolutely no hidden charges. We also charge a small fee for the initial tenant placement and lease drafting service, which covers extensive marketing and screening costs. We ensure that our fee structure provides exceptional value compared to the increase in rental yield and the time saved on management." },
-      { "question": "How long does it take your service to find a suitable tenant for my Sector 35 property", "answer": "The time required to secure a tenant depends on current market conditions and the property's specific attributes and pricing. However, utilizing our aggressive marketing strategies and pre-vetted database, our average vacancy period in Sector 35 is significantly lower than the market average. We aim to finalize a qualified tenancy within 30 days of listing, assuming the property is priced correctly and is in good rentable condition. We continuously monitor the market to adjust our strategies for the fastest placement possible." },
-      { "question": "What checks are included in your advanced tenant screening process", "answer": "Our advanced tenant screening is extremely thorough to protect your investment. It includes a comprehensive identity verification using government-issued documents, detailed credit history checks to assess financial reliability, employment verification to confirm stable income, and references from previous landlords or housing societies. We also conduct checks for any past eviction history or criminal background, ensuring that only highly qualified and reliable individuals are approved to rent your property through our To let Service in Sector 35." },
-      { "question": "Who handles property maintenance and how are repair costs managed", "answer": "We handle all routine and emergency property maintenance during the tenancy period. Tenants report issues directly to our management team, which then assesses the urgency and necessity of the repair. For small repairs, we utilize our network of trusted, affordable local contractors. For larger repairs, we obtain multiple quotes and seek owner approval above a pre-agreed financial limit. All repair costs are documented and deducted from the rental income, providing owners with full visibility via monthly financial statements." },
-      { "question": "Can you manage my property if I live outside Sector 35 or am an NRI owner", "answer": "Absolutely. Our To let Service is perfectly structured for absentee owners, including those residing internationally (NRIs) or in different cities. Our digital systems provide seamless communication and remote access to all necessary documents, reports, and financial updates. We act as your reliable local representative in Sector 35, handling everything from bill payments and tax compliance to property inspections and maintenance oversight, making ownership completely hands-off." },
-      { "question": "What steps do you take if a tenant defaults on rent payment", "answer": "We have a strict and proactive rent collection policy. If rent is delayed, we initiate immediate contact with the tenant. If payment remains outstanding, we follow up with formal notices as per the lease agreement and local laws. Should the default continue, we manage the entire legal eviction process efficiently, providing all necessary documentation and liaising with legal counsel to resolve the issue quickly and minimize further financial loss for the property owner." },
-      { "question": "How do you determine the optimal rental price for my property in Sector 35 Karnal", "answer": "We conduct a thorough Comparative Market Analysis (CMA) specifically tailored to Sector 35. This involves analyzing recently rented comparable properties, assessing current neighborhood demand, and considering your property’s unique features, size, and amenities. We aim to find the perfect balance between maximizing your rental income and keeping the price attractive enough to ensure quick occupancy, using real-time data to set the most competitive and profitable rate." },
-      { "question": "Do I need to be involved in the daily communication with the tenant", "answer": "No, that is the core benefit of using our professional To let Service in Sector 35. We serve as the sole point of contact for the tenant, managing all communication regarding maintenance requests, lease queries, neighbor issues, and renewals. This removes the burden of daily management from the owner, allowing you to enjoy passive income without the typical hassle associated with direct landlord responsibilities." },
-      { "question": "What types of properties do you manage under your To let Service", "answer": "We offer comprehensive To let Services for a wide range of properties in Sector 35 Karnal. This includes independent residential houses, builder floors, modern apartments and flats, commercial shop spaces, and small office units. Our services are flexible and scalable to meet the specific requirements of residential and commercial property owners alike, ensuring professional management across all asset classes." },
-      { "question": "How are security deposits managed and protected during the tenancy period", "answer": "Security deposits are collected from the tenant prior to move-in and are held securely according to standard real estate practices in Karnal. We utilize these funds only to cover damages beyond normal wear and tear or unpaid rent upon tenant move-out. A detailed move-out inspection is conducted, and a precise reconciliation is performed before the remaining deposit is returned to the tenant, minimizing disputes and protecting your property investment." }
+      {
+        "question": "What is the typical management fee for To let Services in Sector 35 Karnal",
+        "answer": "Our management fee structure is typically a percentage of the gross monthly rent collected. This percentage varies slightly depending on the type of property (residential flat, independent house, or commercial space) and the level of service required. We maintain a clear, competitive fee schedule with absolutely no hidden charges. We also charge a small fee for the initial tenant placement and lease drafting service, which covers extensive marketing and screening costs. We ensure that our fee structure provides exceptional value compared to the increase in rental yield and the time saved on management."
+      },
+      {
+        "question": "How long does it take your service to find a suitable tenant for my Sector 35 property",
+        "answer": "The time required to secure a tenant depends on current market conditions and the property's specific attributes and pricing. However, utilizing our aggressive marketing strategies and pre-vetted database, our average vacancy period in Sector 35 is significantly lower than the market average. We aim to finalize a qualified tenancy within 30 days of listing, assuming the property is priced correctly and is in good rentable condition. We continuously monitor the market to adjust our strategies for the fastest placement possible."
+      },
+      {
+        "question": "What checks are included in your advanced tenant screening process",
+        "answer": "Our advanced tenant screening is extremely thorough to protect your investment. It includes a comprehensive identity verification using government-issued documents, detailed credit history checks to assess financial reliability, employment verification to confirm stable income, and references from previous landlords or housing societies. We also conduct checks for any past eviction history or criminal background, ensuring that only highly qualified and reliable individuals are approved to rent your property through our To let Service in Sector 35."
+      },
+      {
+        "question": "Who handles property maintenance and how are repair costs managed",
+        "answer": "We handle all routine and emergency property maintenance during the tenancy period. Tenants report issues directly to our management team, which then assesses the urgency and necessity of the repair. For small repairs, we utilize our network of trusted, affordable local contractors. For larger repairs, we obtain multiple quotes and seek owner approval above a pre-agreed financial limit. All repair costs are documented and deducted from the rental income, providing owners with full visibility via monthly financial statements."
+      },
+      {
+        "question": "Can you manage my property if I live outside Sector 35 or am an NRI owner",
+        "answer": "Absolutely. Our To let Service is perfectly structured for absentee owners, including those residing internationally (NRIs) or in different cities. Our digital systems provide seamless communication and remote access to all necessary documents, reports, and financial updates. We act as your reliable local representative in Sector 35, handling everything from bill payments and tax compliance to property inspections and maintenance oversight, making ownership completely hands-off."
+      },
+      {
+        "question": "What steps do you take if a tenant defaults on rent payment",
+        "answer": "We have a strict and proactive rent collection policy. If rent is delayed, we initiate immediate contact with the tenant. If payment remains outstanding, we follow up with formal notices as per the lease agreement and local laws. Should the default continue, we manage the entire legal eviction process efficiently, providing all necessary documentation and liaising with legal counsel to resolve the issue quickly and minimize further financial loss for the property owner."
+      },
+      {
+        "question": "How do you determine the optimal rental price for my property in Sector 35 Karnal",
+        "answer": "We conduct a thorough Comparative Market Analysis (CMA) specifically tailored to Sector 35. This involves analyzing recently rented comparable properties, assessing current neighborhood demand, and considering your property’s unique features, size, and amenities. We aim to find the perfect balance between maximizing your rental income and keeping the price attractive enough to ensure quick occupancy, using real-time data to set the most competitive and profitable rate."
+      },
+      {
+        "question": "Do I need to be involved in the daily communication with the tenant",
+        "answer": "No, that is the core benefit of using our professional To let Service in Sector 35. We serve as the sole point of contact for the tenant, managing all communication regarding maintenance requests, lease queries, neighbor issues, and renewals. This removes the burden of daily management from the owner, allowing you to enjoy passive income without the typical hassle associated with direct landlord responsibilities."
+      },
+      {
+        "question": "What types of properties do you manage under your To let Service",
+        "answer": "We offer comprehensive To let Services for a wide range of properties in Sector 35 Karnal. This includes independent residential houses, builder floors, modern apartments and flats, commercial shop spaces, and small office units. Our services are flexible and scalable to meet the specific requirements of residential and commercial property owners alike, ensuring professional management across all asset classes."
+      },
+      {
+        "question": "How are security deposits managed and protected during the tenancy period",
+        "answer": "Security deposits are collected from the tenant prior to move-in and are held securely according to standard real estate practices in Karnal. We utilize these funds only to cover damages beyond normal wear and tear or unpaid rent upon tenant move-out. A detailed move-out inspection is conducted, and a precise reconciliation is performed before the remaining deposit is returned to the tenant, minimizing disputes and protecting your property investment."
+      }
     ]
   },
   "contactSection": {
@@ -83,6 +206,11 @@
       "Ready to transform your property investment into a source of reliable, passive income? Contact our specialized To let team in Sector 35 Karnal. Whether you need initial advice on pricing or comprehensive full-service management, we are here to help.",
       "Submit your details below for a prompt, personalized consultation regarding your residential or commercial property letting needs."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

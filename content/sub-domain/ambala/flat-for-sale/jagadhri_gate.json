@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Finding the Right Size Flat For Sale in Jagadhri Gate Ambala for Your Family Needs",
@@ -58,14 +61,56 @@
       "This locality is highly sought after precisely because of its incredibly well-developed civic infrastructure safe residential environment and proactive community management making every Flat For Sale in Jagadhri Gate a highly dependable and sound long-term investment. We proudly highlight the proximity to key transport infrastructure and essential amenities that collectively make living in a modern flat near Jagadhri Gate Ambala exceptionally convenient highly desirable and future-proof."
     ],
     "locations": [
-      "Ambala City Railway Station Proximity",
-      "Easy Access to Ambala Cantt Bus Stand",
-      "Key Shopping Districts and Local Markets",
-      "Reputed Educational Institutions and Schools",
-      "Major Healthcare Facilities and Multi-Specialty Hospitals",
-      "Swift Connectivity to National Highway NH 44",
-      "Nearby Public Parks and Recreational Areas",
-      "Immediate Access to Local Banking and Financial Services"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

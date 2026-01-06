@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Shop Options Available For Rent in Sector 2 Rohtak",
@@ -58,14 +61,56 @@
       "We help you analyze the demographics, local consumer behavior, and competitive landscape of these adjacent markets before finalizing the agreement for your shop for rent. Understanding the flow of commerce and consumer spending habits around Sector 2 ensures your chosen location is perfectly aligned with your long-term business model, guaranteeing operational stability and commercial success in a robust environment."
     ],
     "locations": [
-      "Easy Access to Model Town Market",
-      "Proximity to Shivaji Colony Commercial Zone",
-      "Direct Main Delhi Road Visibility",
-      "Connectivity to Sector 1 Market Area",
-      "High Visibility Near Maharishi Dayanand University MDU",
-      "Seamless Connectivity to Rohtak Bus Stand",
-      "Access to Civil Lines Area",
-      "Near Prime Residential Colonies"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

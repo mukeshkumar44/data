@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "nh22_highway_view.jpg",
-      "commercial_site_plan.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "We provide detailed location analysis covering connectivity proximity to major railway stations existing industrial zones and future planned government projects. Whether you seek land for light manufacturing retail or hospitality ventures our curated locations along NH 22 ensure maximum footfall and logistical ease helping your business thrive in this high-growth region."
     ],
     "locations": [
-      "Ambala Cantt Bypass Commercial Zone",
-      "Saha Industrial Area Connectivity",
-      "Dera Bassi Junction Investment Corridor",
-      "Zirakpur Retail Hub Linkages",
-      "Chandigarh Road Access Points",
-      "Highway Service Lane Plotting",
-      "Future Development Sectors near NH 22",
-      "High-Traffic Transit Points"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,12 +7,18 @@
       "Investing in residential property here means securing a future in a rapidly developing area. These flats are typically ready-to-move ensuring quick possession and immediate occupancy bypassing the long wait times associated with under-construction projects. Explore contemporary architecture superb amenities like power backup dedicated parking and robust security systems that enhance your living experience significantly. Let our experts guide you through the best deals available on flats ensuring a seamless purchase process and maximizing your investment return in sector 61 Gurugram."
     ],
     "buttons": [
-      { "label": "Explore Available Flats", "path": "/listings" },
-      { "label": "Request a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Available Flats",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Site Visit",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "flat-sector61-exterior.jpg",
-      "flat-sector61-interior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The proximity to established educational institutions top-tier healthcare facilities and burgeoning commercial hubs makes any Flat For Sale in sector 61 a highly valuable asset. Residents benefit from quick access to the Delhi-Mathura Highway and the nearby metro station which simplifies inter-city travel immensely. This well-planned connectivity guarantees that sector 61 is not just a place to live but a central point from which to experience the best of the National Capital Region infrastructure and lifestyle."
     ],
     "locations": [
-      "Badarpur Border",
-      "Sector 60 Residential Area",
-      "Green Field Colony",
-      "Gurugram Metro Station",
-      "NH 44 Highway Access",
-      "Aravalli Hills View",
-      "Major Shopping Malls",
-      "Reputed Schools and Colleges"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to take the next step towards owning a premium Flat For Sale in sector 61 We are here to answer your questions provide exclusive site visits and finalize the best deal for you.",
       "Contact our dedicated sales team now for expert consultation and to receive a detailed portfolio of verified ready-to-move properties."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,10 +7,19 @@
       "We specialize in verified and clear title deeds for every plot, ensuring a transparent and secure transaction. Whether you are looking for a compact 4 Marla plot for a small family home or a spacious 14 Marla plot for a luxury residence, Sector 8 provides diverse sizing options tailored to your needs. Start your property search today and leverage the high growth potential that makes owning a plot in Sector 8 Ambala a truly smart financial decision for long-term wealth creation and comfortable living. Reach out to our experts to explore the latest listings and competitive pricing."
     ],
     "buttons": [
-      { "label": "View Available Plots Now", "path": "/listings" },
-      { "label": "Download Free Investment Guide", "path": "/guide" }
+      {
+        "label": "View Available Plots Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Download Free Investment Guide",
+        "path": "/guide"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Plot Sizes and Investment Options in Sector 8 Ambala Cantt",
@@ -52,14 +61,56 @@
       "The sector benefits from excellent road networks, placing important educational institutions, major healthcare centers, commercial zones, and public transportation hubs just minutes away. This proximity ensures that residents enjoy a high quality of life without compromising on accessibility or city conveniences. Explore the key areas surrounding Sector 8 that enhance its investment value."
     ],
     "locations": [
-      "Sector 7 Ambala",
-      "Sector 9 Ambala",
-      "Ambala Cantt Railway Station",
-      "National Highway NH 44 Access",
-      "Main Ambala City Market",
-      "Shubham Hospitals",
-      "Ambala Cantt Bus Stand",
-      "Army Area Proximity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to invest in the ideal Plot For Sale in Sector 8 Ambala Cantt Get in touch with our dedicated property specialists today. We offer personalized consultation, detailed market analysis, and access to exclusive, off-market listings that perfectly match your investment criteria and development vision.",
       "Fill out the short inquiry form below to schedule a site visit or request detailed information regarding current pricing, legal documentation, and neighborhood amenities. Your future home or investment opportunity in Sector 8 awaits."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

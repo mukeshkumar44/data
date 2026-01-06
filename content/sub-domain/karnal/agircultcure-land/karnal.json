@@ -7,10 +7,19 @@
       "Explore our curated selection of fertile farm plots, ranging from small acreage suitable for specialized crops to large parcels ideal for mechanized farming. Every listing undergoes rigorous due diligence regarding soil health, ownership title, and existing water resources. Investing in agriculture land in Karnal means securing a tangible asset in a rapidly developing region, promising substantial returns as infrastructure and urbanization progress outward from the city center. Start your search for the perfect Kheti Zameen today."
     ],
     "buttons": [
-      { "label": "View Available Farm Plots", "path": "/listings" },
-      { "label": "Contact Investment Experts", "path": "/contact" }
+      {
+        "label": "View Available Farm Plots",
+        "path": "/listings"
+      },
+      {
+        "label": "Contact Investment Experts",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Understanding the Different Agriculture Plot Sizes and Acreages Available for Sale in Karnal",
@@ -52,16 +61,56 @@
       "Key investment zones include Assandh, Gharaunda, Nilokheri, and Indri, each offering unique benefits related to crop suitability, strong irrigation networks, and impressive land appreciation rates. We provide detailed location maps and connectivity reports for every potential farm land purchase in the wider Karnal region."
     ],
     "locations": [
-      "Assandh",
-      "Gharaunda",
-      "Nilokheri",
-      "Indri",
-      "Taraori",
-      "Kunjpura",
-      "Jundla",
-      "Balsam",
-      "Nigdhu",
-      "Samalkha Road Karnal"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

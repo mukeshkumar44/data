@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Apartment Rental Options and Amenities in Sector 168 Noida Properties",
@@ -58,13 +61,56 @@
       "Tenants appreciate the planned infrastructure wide roads and ample green spaces that characterize this sector. Furthermore, Sector 168 is rapidly developing its social infrastructure, providing access to top-tier schools multispecialty hospitals and vibrant commercial centers. This integration of residential comfort and commercial convenience makes every Flat For Rent in Sector 168 a highly desirable asset promising a balanced urban lifestyle away from congestion."
     ],
     "locations": [
-      "Sector 167",
-      "Sector 135",
-      "Sector 142 Metro Station",
-      "Noida Expressway",
-      "Gautam Buddha University",
-      "Advant Navis Business Park",
-      "FNG Expressway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

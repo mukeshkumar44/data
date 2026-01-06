@@ -7,10 +7,19 @@
       "Discover unparalleled value in this rapidly appreciating locality. Residents benefit from wide well-maintained roads reliable utility services and immediate access to major highways including the Dwarka Expressway. We simplify the journey to buy house in Palam Vihar Extension ensuring you find a property that meets every criterion for modern safe and prosperous family living. Explore our curated listings of verified properties today and take the first step toward ownership."
     ],
     "buttons": [
-      { "label": "View Verified Listings Now", "path": "/listings" },
-      { "label": "Schedule a Free Consultation Call", "path": "/contact" }
+      {
+        "label": "View Verified Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Free Consultation Call",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero-palam-vihar-ext.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Finding the Perfect Residential Plot Size to Build Your Ideal House in Palam Vihar Extension",
@@ -52,14 +61,56 @@
       "The area provides immediate access to quality schools top-tier hospitals and bustling commercial markets ensuring that daily necessities and emergency services are always within easy reach. The development of surrounding infrastructure including major expressways has drastically reduced commute times positioning Palam Vihar Extension as a highly convenient and rapidly developing residential hub in the NCR region."
     ],
     "locations": [
-      "Dwarka Expressway Access",
-      "Palam Vihar Sector 23 Commercial Market",
-      "IGI Airport Delhi T3 Access Road",
-      "Ambience Mall Gurugram",
-      "Cyber City Business Hub",
-      "Columbia Asia Hospital",
-      "Gurugram Sector 109",
-      "NH 48 Delhi Jaipur Highway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step and buy house in Palam Vihar Extension Gurugram We offer personalized guidance based on detailed market knowledge and verified listings.",
       "Fill out the form below to connect with a dedicated property specialist who will tailor a selection of the best homes matching your financial goals and lifestyle requirements."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

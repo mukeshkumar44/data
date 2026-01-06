@@ -7,12 +7,18 @@
       "We specialise in connecting entrepreneurs with premium rental properties that promise immediate operational efficiency and substantial growth potential. Whether you need a ground floor unit facing the main road or a quiet space for office operations and storage, the options for a shop for rent in Palam Vihar Pocket H are abundant and strategically placed. Start your search now and leverage the dynamic commercial environment of this sought-after pocket to ensure long-term business success."
     ],
     "buttons": [
-      { "label": "Browse Available Shops Now", "path": "/available-shops" },
-      { "label": "Consult Our Rental Experts", "path": "/contact-us" }
+      {
+        "label": "Browse Available Shops Now",
+        "path": "/available-shops"
+      },
+      {
+        "label": "Consult Our Rental Experts",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "shop-front-palam-vihar-pocket-h.jpg",
-      "commercial-space-interior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "The strategic advantage of this location includes swift access to major arterial roads and connectivity points, facilitating smooth supply chain operations and employee commutes. This consistent accessibility reinforces the viability of any shop for rent here. Businesses thrive where people live and move, and Palam Vihar Pocket H stands out as a superior location for reliable commercial activity and sustained growth in the regional market."
     ],
     "locations": [
-      "Palam Vihar Extension",
-      "Sector 21 Commercial Zone",
-      "Gurugram Dwarka Expressway Connectivity",
-      "Major Residential Colonies Nearby",
-      "NH8 Access Points",
-      "Local Institutional Areas"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

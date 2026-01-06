@@ -7,10 +7,19 @@
       "We provide comprehensive assistance whether you are actively seeking to purchase a luxurious family apartment a high-yield commercial space or aiming to achieve the maximum return on the sale of your existing property. Rely on our profound understanding of current market trends precise property valuations and complex legal documentation. We ensure your entire real estate journey is seamless efficient and entirely successful from initial consultation right through to final handover."
     ],
     "buttons": [
-      { "label": "Find Your Dream Home Today", "path": "/property-listings" },
-      { "label": "Request a Free Valuation", "path": "/valuation-request" }
+      {
+        "label": "Find Your Dream Home Today",
+        "path": "/property-listings"
+      },
+      {
+        "label": "Request a Free Valuation",
+        "path": "/valuation-request"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Specialized Property Investment Opportunities Managed by Expert Sector 82 Agents",
@@ -52,12 +61,56 @@
       "We provide targeted guidance helping you decide between residential clusters known for greenery or commercial zones offering high foot traffic. Trust us to connect you not just with a property but with the specific neighborhood in Sector 82 that truly fits your personal or business requirements perfectly."
     ],
     "locations": [
-      "Residential Hubs near Expressway",
-      "Areas close to Sector 82 Metro Station",
-      "Commercial Plots adjoining major Sector 82 arteries",
-      "Gated Communities with premium amenities",
-      "Plots suitable for custom construction",
-      "Areas focused on rental accommodation demand"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to invest sell or find your perfect home in Sector 82 Noida. Our dedicated property experts are standing by to offer personalized advice and market insights tailored specifically to your objectives.",
       "Get in touch now to experience the difference professional expertise makes. We promise prompt reliable communication and expert guidance throughout your entire real estate transaction."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

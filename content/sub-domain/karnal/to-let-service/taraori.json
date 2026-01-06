@@ -7,12 +7,18 @@
       "Navigating the rental market in Taraori can be challenging, but our expert team provides personalized support from initial search to final agreement signing. We handle property verification, lease documentation, and market-rate analysis, giving you peace of mind. Start your search or list your property with confidence today and experience the difference of professional To let solutions tailored specifically for the Taraori area."
     ],
     "buttons": [
-      { "label": "Browse Rental Listings Now", "path": "/listings" },
-      { "label": "List Your Property with Us", "path": "/list-property" }
+      {
+        "label": "Browse Rental Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "List Your Property with Us",
+        "path": "/list-property"
+      }
     ],
     "images": [
-      "/images/taraori-rental-hero-1.jpg",
-      "/images/taraori-rental-hero-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Whether you prefer the vibrant market areas or quieter residential colonies, our agents have the specific knowledge necessary to guide your search effectively. We help you compare rents, amenities, and connectivity across different zones in Taraori ensuring you get the best value."
     ],
     "locations": [
-      "Taraori Main Market Area",
-      "Near Railway Station Taraori",
-      "Model Town Taraori",
-      "Sadar Bazaar Road Locality",
-      "National Highway 44 Adjacent Areas",
-      "Shiv Colony Extension Taraori",
-      "Rural Periphery Properties",
-      "New Housing Board Colony"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

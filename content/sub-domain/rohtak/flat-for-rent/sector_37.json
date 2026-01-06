@@ -7,10 +7,19 @@
       "Sector 37 provides excellent connectivity to major academic institutions like MD University and key employment hubs, coupled with easy access to essential amenities such as modern shopping centers, healthcare facilities, and vibrant local markets. Whether you need a compact 1 BHK unit or a spacious 3 BHK apartment, our extensive database of flats for rent in Sector 37 Rohtak is curated to meet diverse budgetary requirements and lifestyle needs. Start exploring today and secure your ideal residence in one of Rohtak’s finest neighborhoods."
     ],
     "buttons": [
-      { "label": "Browse 2 BHK Flats Now", "path": "/flats/2bhk" },
-      { "label": "Contact Rental Experts", "path": "/contact" }
+      {
+        "label": "Browse 2 BHK Flats Now",
+        "path": "/flats/2bhk"
+      },
+      {
+        "label": "Contact Rental Experts",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero-flat-sector-37-rohtak.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Flats For Rent Options in Sector 37 Rohtak to Match Every Lifestyle",
@@ -19,12 +28,30 @@
       "We categorize our rental flats based on size and utility, ensuring you don’t waste time looking at properties that don’t fit your criteria. Understanding the local market dynamics allows us to present competitive rental rates and transparent leasing terms. Whether your priority is budget efficiency, proximity to the main highway, or access to premium society amenities like security and parking, use our specialized filtering tools to narrow down the best flats for rent in Sector 37 Rohtak today. We simplify the entire rental journey from initial viewing to final lease signing."
     ],
     "features": [
-      { "title": "1 Room Kitchen Rental Units", "description": "Ideal for single students or young professionals seeking affordability and convenience. These units offer a compact bedroom area combined with a functional kitchenette and attached bathroom. Located strategically near coaching centers and major transport routes, these flats provide maximum independence with minimal maintenance." },
-      { "title": "1 BHK Flats for Rent", "description": "Perfect for couples or individuals desiring more dedicated living space. A 1 BHK flat includes a separate bedroom, living room, and kitchen, providing enhanced privacy. Sector 37 offers various 1 BHK options, often available semi-furnished, providing excellent value within a moderate budget range." },
-      { "title": "Compact 2 BHK Apartments", "description": "Highly popular choice for small families or two working professionals sharing accommodation. These efficiently designed 2 BHK flats balance space and cost, featuring two bedrooms, a hall, and usually two bathrooms. Look for options near the Sector 37 market area for added convenience." },
-      { "title": "Spacious 2 BHK Rental Homes", "description": "When comfort is a priority, our spacious 2 BHK listings provide larger carpet areas and balcony access. These homes are often found in newer builder floors or society complexes, offering amenities like dedicated parking and 24/7 water supply. Enjoy ample space without committing to a 3 BHK budget." },
-      { "title": "3 BHK Family Flats", "description": "The perfect solution for larger families requiring multiple private bedrooms and expansive common areas. These premium flats for rent in Sector 37 Rohtak generally feature attached balconies, utility areas, and high-quality fittings. We list verified 3 BHK properties in the safest and most resident-friendly blocks." },
-      { "title": "Luxury Penthouse Options", "description": "For those seeking the pinnacle of rental living, select properties in Sector 37 offer luxury penthouses or top-floor units. These often come fully furnished with superior interiors, terrace access, and unparalleled views of the surrounding area. Experience upscale living with dedicated concierge or maintenance services." }
+      {
+        "title": "1 Room Kitchen Rental Units",
+        "description": "Ideal for single students or young professionals seeking affordability and convenience. These units offer a compact bedroom area combined with a functional kitchenette and attached bathroom. Located strategically near coaching centers and major transport routes, these flats provide maximum independence with minimal maintenance."
+      },
+      {
+        "title": "1 BHK Flats for Rent",
+        "description": "Perfect for couples or individuals desiring more dedicated living space. A 1 BHK flat includes a separate bedroom, living room, and kitchen, providing enhanced privacy. Sector 37 offers various 1 BHK options, often available semi-furnished, providing excellent value within a moderate budget range."
+      },
+      {
+        "title": "Compact 2 BHK Apartments",
+        "description": "Highly popular choice for small families or two working professionals sharing accommodation. These efficiently designed 2 BHK flats balance space and cost, featuring two bedrooms, a hall, and usually two bathrooms. Look for options near the Sector 37 market area for added convenience."
+      },
+      {
+        "title": "Spacious 2 BHK Rental Homes",
+        "description": "When comfort is a priority, our spacious 2 BHK listings provide larger carpet areas and balcony access. These homes are often found in newer builder floors or society complexes, offering amenities like dedicated parking and 24/7 water supply. Enjoy ample space without committing to a 3 BHK budget."
+      },
+      {
+        "title": "3 BHK Family Flats",
+        "description": "The perfect solution for larger families requiring multiple private bedrooms and expansive common areas. These premium flats for rent in Sector 37 Rohtak generally feature attached balconies, utility areas, and high-quality fittings. We list verified 3 BHK properties in the safest and most resident-friendly blocks."
+      },
+      {
+        "title": "Luxury Penthouse Options",
+        "description": "For those seeking the pinnacle of rental living, select properties in Sector 37 offer luxury penthouses or top-floor units. These often come fully furnished with superior interiors, terrace access, and unparalleled views of the surrounding area. Experience upscale living with dedicated concierge or maintenance services."
+      }
     ]
   },
   "locationsSection": {
@@ -34,11 +61,56 @@
       "If you are targeting flats for rent but find Sector 37 listings slightly above your price range, locations like Sector 36 or areas near the Delhi Bypass offer comparable quality at slightly varied price points. Similarly, those specifically focused on proximity to educational centers might consider areas closer to the MD University main gate. We maintain comprehensive listings across all these strategic neighborhoods, ensuring you never miss a potential rental home. Exploring these complementary locations allows you to weigh factors like commuting time, neighborhood ambiance, and monthly rent, guaranteeing you find the perfect fit within the broader Rohtak real estate landscape. Consult with our local property experts who can provide deep market insights into each adjacent area."
     ],
     "locations": [
-      "Flats For Rent Sector 36 Rohtak",
-      "Rental Properties Near MD University Rohtak",
-      "Apartments for Rent in Sector 40 Rohtak",
-      "Residences For Rent Near Sunaria Chowk",
-      "Affordable Rentals Near Delhi Bypass Rohtak"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -48,30 +120,84 @@
       "Our deep understanding of the Rohtak rental market, especially in rapidly developing sectors like 37, gives us an advantage in sourcing exclusive, high-demand flats that aren’t available elsewhere. Choose us for reliability and guaranteed satisfaction."
     ],
     "points": [
-      { "title": "Verified and Authentic Listings Only", "description": "Every single flat for rent listed in Sector 37 on our platform undergoes a rigorous verification process. We confirm ownership details, physical condition, and legal compliance, protecting you from fraudulent postings and inaccurate descriptions. Trust us to show you only genuine, ready-to-move properties." },
-      { "title": "Specialized Local Sector 37 Knowledge", "description": "Our team lives and breathes Rohtak real estate, focusing heavily on key areas like Sector 37. We can guide you on micro-level details such as water quality, parking availability, electricity backup options, and local resident welfare associations, providing insights generic portals overlook." },
-      { "title": "Transparent Pricing and Zero Hidden Costs", "description": "We ensure that the quoted rental price, security deposit, and maintenance charges are clearly communicated upfront. We advocate for fair market pricing, making sure you understand the total cost of renting your new home without encountering unexpected financial surprises later." },
-      { "title": "Wide Range of Furnishing Options Available", "description": "Whether you require a basic unfurnished shell to customize, a semi-furnished unit with essential fittings, or a luxurious fully-furnished flat ready for immediate occupancy, our Sector 37 inventory covers all bases. Filter based on your specific furnishing needs instantly." },
-      { "title": "Efficient Digital Documentation and Leasing", "description": "Renting a flat should not involve endless paperwork. We utilize modern digital tools to streamline the application process, background checks, and lease agreement drafting, allowing you to secure your preferred flat for rent faster and more efficiently." },
-      { "title": "Proximity Filters for Key Commuting Points", "description": "Need a flat close to MD University, the Delhi Highway, or specific hospitals? Our platform allows you to filter listings based on exact travel proximity, optimizing your daily commute and ensuring your chosen flat for rent in Sector 37 meets all logistical requirements." },
-      { "title": "Dedicated Post-Lease Support Services", "description": "Our relationship doesn't end when the lease is signed. We offer ongoing support for maintenance liaison, conflict resolution with landlords, and assistance during lease renewal or termination, ensuring a comfortable tenancy throughout your stay in Sector 37." },
-      { "title": "Expert Negotiation on Your Behalf", "description": "Leverage our market expertise to negotiate the best possible rental rate and deposit terms. We work diligently to ensure you get the most value for your money, securing favorable terms compared to negotiating directly with property owners." }
+      {
+        "title": "Verified and Authentic Listings Only",
+        "description": "Every single flat for rent listed in Sector 37 on our platform undergoes a rigorous verification process. We confirm ownership details, physical condition, and legal compliance, protecting you from fraudulent postings and inaccurate descriptions. Trust us to show you only genuine, ready-to-move properties."
+      },
+      {
+        "title": "Specialized Local Sector 37 Knowledge",
+        "description": "Our team lives and breathes Rohtak real estate, focusing heavily on key areas like Sector 37. We can guide you on micro-level details such as water quality, parking availability, electricity backup options, and local resident welfare associations, providing insights generic portals overlook."
+      },
+      {
+        "title": "Transparent Pricing and Zero Hidden Costs",
+        "description": "We ensure that the quoted rental price, security deposit, and maintenance charges are clearly communicated upfront. We advocate for fair market pricing, making sure you understand the total cost of renting your new home without encountering unexpected financial surprises later."
+      },
+      {
+        "title": "Wide Range of Furnishing Options Available",
+        "description": "Whether you require a basic unfurnished shell to customize, a semi-furnished unit with essential fittings, or a luxurious fully-furnished flat ready for immediate occupancy, our Sector 37 inventory covers all bases. Filter based on your specific furnishing needs instantly."
+      },
+      {
+        "title": "Efficient Digital Documentation and Leasing",
+        "description": "Renting a flat should not involve endless paperwork. We utilize modern digital tools to streamline the application process, background checks, and lease agreement drafting, allowing you to secure your preferred flat for rent faster and more efficiently."
+      },
+      {
+        "title": "Proximity Filters for Key Commuting Points",
+        "description": "Need a flat close to MD University, the Delhi Highway, or specific hospitals? Our platform allows you to filter listings based on exact travel proximity, optimizing your daily commute and ensuring your chosen flat for rent in Sector 37 meets all logistical requirements."
+      },
+      {
+        "title": "Dedicated Post-Lease Support Services",
+        "description": "Our relationship doesn't end when the lease is signed. We offer ongoing support for maintenance liaison, conflict resolution with landlords, and assistance during lease renewal or termination, ensuring a comfortable tenancy throughout your stay in Sector 37."
+      },
+      {
+        "title": "Expert Negotiation on Your Behalf",
+        "description": "Leverage our market expertise to negotiate the best possible rental rate and deposit terms. We work diligently to ensure you get the most value for your money, securing favorable terms compared to negotiating directly with property owners."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Flats For Rent in Sector 37 Rohtak",
     "description": "Get detailed answers to the most common queries regarding rental properties, lease agreements, and living conditions within Sector 37 Rohtak. Our goal is to provide clarity and confidence before you commit to a rental agreement.",
     "faqs": [
-      { "question": "What are the typical rent ranges for flats in Sector 37 Rohtak", "answer": "The rental price in Sector 37 varies significantly based on the configuration, age of the property, and level of furnishing. Generally, a 1 RK unit starts around INR 4,500 to INR 6,500. A standard 2 BHK flat for rent usually ranges between INR 8,000 and INR 12,000 per month, while premium 3 BHK flats in gated communities can command rents from INR 14,000 up to INR 20,000 or more. Location within the sector and proximity to commercial areas also influences the final monthly rental cost." },
-      { "question": "Is Sector 37 a safe residential area for families and students", "answer": "Yes, Sector 37 is highly regarded as one of the safer and more organized residential sectors in Rohtak. It benefits from planned infrastructure and active Resident Welfare Associations. The area sees regular police patrolling due to its proximity to the main road and commercial activities. Students and families appreciate the well-lit streets and generally peaceful environment. We recommend looking for flats within societies or builder floors with dedicated security personnel for maximum peace of mind." },
-      { "question": "What is the standard security deposit required for renting a flat here", "answer": "In Sector 37 Rohtak, the standard practice is to require a security deposit equivalent to one or two months' rent. This deposit is refundable upon the termination of the lease, provided the property is returned in good condition, allowing for reasonable wear and tear. Some landlords might request an additional utility deposit, though this is less common. Always ensure the deposit amount and refund terms are clearly documented in the rental agreement." },
-      { "question": "How close are flats in Sector 37 to MD University Rohtak", "answer": "Sector 37 offers excellent proximity to Maharshi Dayanand University MDU, making it exceptionally popular among faculty members and students. Depending on the exact location within the sector, the university is typically a 10 to 15 minute drive or a short rickshaw ride. Many residents find this location ideal because it balances quick access to the campus with slightly better and newer residential infrastructure compared to areas immediately adjacent to the university gates." },
-      { "question": "Are water supply and electricity reliable in Sector 37 rental flats", "answer": "Water supply in Sector 37 is generally reliable, managed through a mix of municipal corporation water and private borewells in some independent homes. Most new apartments and complexes offer 24-hour water availability. Electricity supply is standard for Rohtak, but power cuts can occur during peak summer months. Many premium flats for rent in Sector 37 offer inverter backup or generator facilities to ensure continuous power for essential appliances." },
-      { "question": "What documents are required to finalize a rental agreement in Sector 37", "answer": "To finalize a lease agreement, tenants typically need to provide valid photo identification proofs such as Aadhar Card, PAN Card, or Passport. Landlords will also require proof of current employment or student enrollment if applicable. A signed rent agreement is mandatory, along with the payment of the first month’s rent and the security deposit. We assist in verifying and organizing all necessary documentation for a seamless process." },
-      { "question": "Are maintenance charges usually included in the rent in Sector 37", "answer": "Maintenance charges vary depending on the type of property. For flats located within established residential societies, maintenance fees covering common area cleaning, lift upkeep, and security are usually charged separately, monthly, or quarterly. For independent builder floor flats, the tenant may be responsible for minor maintenance, and the overall maintenance is not typically included in the quoted rent amount unless explicitly stated in the lease agreement." },
-      { "question": "Can I find fully furnished flats for rent in Sector 37 Rohtak", "answer": "Yes, there is a good selection of fully furnished flats in Sector 37, though they generally command higher rents. Fully furnished units include essential furniture like beds, wardrobes, dining sets, and often appliances like ACs and geysers. These are highly sought after by professionals or individuals relocating from other cities, as they allow for immediate, hassle-free move-in." },
-      { "question": "What is the typical lease duration for rental flats in this sector", "answer": "The most common lease duration for flats for rent in Sector 37 is 11 months. This structure is often used to avoid complex registration requirements that apply to leases exceeding 12 months. However, leases can be renewed upon mutual agreement between the tenant and the landlord. Longer lease terms, such as 18 or 24 months, are sometimes negotiated, especially for corporate leases or long-term residents." },
-      { "question": "Are pets generally allowed in rental properties in Sector 37", "answer": "Pet policies are strictly determined by individual landlords or the governing Resident Welfare Association RWA of a society. While some independent builder floors may allow small pets with certain conditions and an increased security deposit, many apartment complexes have strict no-pet policies. It is crucial to clarify the pet policy upfront before viewing flats to avoid complications later in the tenancy process." }
+      {
+        "question": "What are the typical rent ranges for flats in Sector 37 Rohtak",
+        "answer": "The rental price in Sector 37 varies significantly based on the configuration, age of the property, and level of furnishing. Generally, a 1 RK unit starts around INR 4,500 to INR 6,500. A standard 2 BHK flat for rent usually ranges between INR 8,000 and INR 12,000 per month, while premium 3 BHK flats in gated communities can command rents from INR 14,000 up to INR 20,000 or more. Location within the sector and proximity to commercial areas also influences the final monthly rental cost."
+      },
+      {
+        "question": "Is Sector 37 a safe residential area for families and students",
+        "answer": "Yes, Sector 37 is highly regarded as one of the safer and more organized residential sectors in Rohtak. It benefits from planned infrastructure and active Resident Welfare Associations. The area sees regular police patrolling due to its proximity to the main road and commercial activities. Students and families appreciate the well-lit streets and generally peaceful environment. We recommend looking for flats within societies or builder floors with dedicated security personnel for maximum peace of mind."
+      },
+      {
+        "question": "What is the standard security deposit required for renting a flat here",
+        "answer": "In Sector 37 Rohtak, the standard practice is to require a security deposit equivalent to one or two months' rent. This deposit is refundable upon the termination of the lease, provided the property is returned in good condition, allowing for reasonable wear and tear. Some landlords might request an additional utility deposit, though this is less common. Always ensure the deposit amount and refund terms are clearly documented in the rental agreement."
+      },
+      {
+        "question": "How close are flats in Sector 37 to MD University Rohtak",
+        "answer": "Sector 37 offers excellent proximity to Maharshi Dayanand University MDU, making it exceptionally popular among faculty members and students. Depending on the exact location within the sector, the university is typically a 10 to 15 minute drive or a short rickshaw ride. Many residents find this location ideal because it balances quick access to the campus with slightly better and newer residential infrastructure compared to areas immediately adjacent to the university gates."
+      },
+      {
+        "question": "Are water supply and electricity reliable in Sector 37 rental flats",
+        "answer": "Water supply in Sector 37 is generally reliable, managed through a mix of municipal corporation water and private borewells in some independent homes. Most new apartments and complexes offer 24-hour water availability. Electricity supply is standard for Rohtak, but power cuts can occur during peak summer months. Many premium flats for rent in Sector 37 offer inverter backup or generator facilities to ensure continuous power for essential appliances."
+      },
+      {
+        "question": "What documents are required to finalize a rental agreement in Sector 37",
+        "answer": "To finalize a lease agreement, tenants typically need to provide valid photo identification proofs such as Aadhar Card, PAN Card, or Passport. Landlords will also require proof of current employment or student enrollment if applicable. A signed rent agreement is mandatory, along with the payment of the first month’s rent and the security deposit. We assist in verifying and organizing all necessary documentation for a seamless process."
+      },
+      {
+        "question": "Are maintenance charges usually included in the rent in Sector 37",
+        "answer": "Maintenance charges vary depending on the type of property. For flats located within established residential societies, maintenance fees covering common area cleaning, lift upkeep, and security are usually charged separately, monthly, or quarterly. For independent builder floor flats, the tenant may be responsible for minor maintenance, and the overall maintenance is not typically included in the quoted rent amount unless explicitly stated in the lease agreement."
+      },
+      {
+        "question": "Can I find fully furnished flats for rent in Sector 37 Rohtak",
+        "answer": "Yes, there is a good selection of fully furnished flats in Sector 37, though they generally command higher rents. Fully furnished units include essential furniture like beds, wardrobes, dining sets, and often appliances like ACs and geysers. These are highly sought after by professionals or individuals relocating from other cities, as they allow for immediate, hassle-free move-in."
+      },
+      {
+        "question": "What is the typical lease duration for rental flats in this sector",
+        "answer": "The most common lease duration for flats for rent in Sector 37 is 11 months. This structure is often used to avoid complex registration requirements that apply to leases exceeding 12 months. However, leases can be renewed upon mutual agreement between the tenant and the landlord. Longer lease terms, such as 18 or 24 months, are sometimes negotiated, especially for corporate leases or long-term residents."
+      },
+      {
+        "question": "Are pets generally allowed in rental properties in Sector 37",
+        "answer": "Pet policies are strictly determined by individual landlords or the governing Resident Welfare Association RWA of a society. While some independent builder floors may allow small pets with certain conditions and an increased security deposit, many apartment complexes have strict no-pet policies. It is crucial to clarify the pet policy upfront before viewing flats to avoid complications later in the tenancy process."
+      }
     ]
   },
   "contactSection": {
@@ -80,6 +206,11 @@
       "Don't miss out on the best rental opportunities in Sector 37. Our dedicated property consultants are ready to answer your questions, schedule viewings, and guide you through the entire leasing process today.",
       "Submit your requirements below and let us help you find a flat that truly feels like home in this thriving Rohtak neighborhood."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

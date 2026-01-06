@@ -7,10 +7,19 @@
       "A 2BHK apartment here represents an ideal investment for young professionals small families and first time homebuyers looking for quality living without compromising on convenience. Explore various floor plans and amenity rich societies right here. Leverage our expertise to navigate the market and finalize your purchase with confidence. Your search for the perfect 2BHK Flat For Sale in Sector 1 ends with our comprehensive listings and professional guidance."
     ],
     "buttons": [
-      { "label": "Explore Verified 2BHK Listings", "path": "/listings/2bhk-sector1" },
-      { "label": "Schedule A Site Visit Today", "path": "/contact" }
+      {
+        "label": "Explore Verified 2BHK Listings",
+        "path": "/listings/2bhk-sector1"
+      },
+      {
+        "label": "Schedule A Site Visit Today",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero-2bhk-sector1.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Advantages of Choosing a 2BHK Apartment For Sale in Sector 1 Gurugram",
@@ -19,12 +28,30 @@
       "We highlight the core features that make 2BHK flats in Sector 1 particularly appealing whether you are planning to reside immediately or utilize the property as a strong rental asset. These features ensure a high quality of life safety and convenience contributing to your long term satisfaction with this crucial real estate investment."
     ],
     "features": [
-      { "title": "Optimally Designed 2BHK Layouts", "description": "Our listed 2BHK flats feature efficient layouts that maximize usable carpet area avoiding wasted space. Enjoy spacious bedrooms a comfortable living area and well defined kitchen spaces perfect for modern family living in Sector 1 Gurugram. Design focus ensures privacy and flow throughout the apartment unit." },
-      { "title": "Premium Internal Specifications and Finishes", "description": "Experience luxury with high quality materials used throughout the apartments including vitrified flooring modular switches branded sanitary fittings and attractive woodwork options. These premium finishes reduce future maintenance costs and enhance the aesthetic appeal of your new 2BHK home." },
-      { "title": "Exceptional Security and Family Safety", "description": "Residents benefit from multi layered security systems including 24x7 manned surveillance CCTV monitoring and secure gated access. Sector 1 communities prioritize resident safety providing peace of mind essential for families and elderly residents living in Gurugram." },
-      { "title": "Dedicated Parking and Storage Solutions", "description": "Many projects offering 2BHK Flat For Sale in Sector 1 include dedicated basement or stilt parking facilities ensuring your vehicle is secure and easily accessible. Adequate storage options within the flat or complex further enhance convenience for homeowners." },
-      { "title": "Robust Social Infrastructure Access", "description": "Sector 1 boasts proximity to essential social amenities like top rated schools major healthcare facilities shopping centers and recreational parks. Everything you need for a comfortable life is just minutes away improving daily quality of life significantly." },
-      { "title": "Investment Potential and Rental Yield", "description": "The strategic location and excellent connectivity of Sector 1 make 2BHK units highly desirable for renters particularly young professionals working in nearby commercial hubs. This translates into strong capital appreciation and attractive rental yields for investors." }
+      {
+        "title": "Optimally Designed 2BHK Layouts",
+        "description": "Our listed 2BHK flats feature efficient layouts that maximize usable carpet area avoiding wasted space. Enjoy spacious bedrooms a comfortable living area and well defined kitchen spaces perfect for modern family living in Sector 1 Gurugram. Design focus ensures privacy and flow throughout the apartment unit."
+      },
+      {
+        "title": "Premium Internal Specifications and Finishes",
+        "description": "Experience luxury with high quality materials used throughout the apartments including vitrified flooring modular switches branded sanitary fittings and attractive woodwork options. These premium finishes reduce future maintenance costs and enhance the aesthetic appeal of your new 2BHK home."
+      },
+      {
+        "title": "Exceptional Security and Family Safety",
+        "description": "Residents benefit from multi layered security systems including 24x7 manned surveillance CCTV monitoring and secure gated access. Sector 1 communities prioritize resident safety providing peace of mind essential for families and elderly residents living in Gurugram."
+      },
+      {
+        "title": "Dedicated Parking and Storage Solutions",
+        "description": "Many projects offering 2BHK Flat For Sale in Sector 1 include dedicated basement or stilt parking facilities ensuring your vehicle is secure and easily accessible. Adequate storage options within the flat or complex further enhance convenience for homeowners."
+      },
+      {
+        "title": "Robust Social Infrastructure Access",
+        "description": "Sector 1 boasts proximity to essential social amenities like top rated schools major healthcare facilities shopping centers and recreational parks. Everything you need for a comfortable life is just minutes away improving daily quality of life significantly."
+      },
+      {
+        "title": "Investment Potential and Rental Yield",
+        "description": "The strategic location and excellent connectivity of Sector 1 make 2BHK units highly desirable for renters particularly young professionals working in nearby commercial hubs. This translates into strong capital appreciation and attractive rental yields for investors."
+      }
     ]
   },
   "locationsSection": {
@@ -34,12 +61,56 @@
       "The location’s strength lies in its balanced environment providing the tranquility of a residential area while keeping the dynamism of city life within easy reach. Invest confidently knowing that Sector 1 is strategically positioned for sustained infrastructure growth and improved urban planning benefiting all owners of a 2BHK Flat For Sale in Sector 1."
     ],
     "locations": [
-      "Major Expressways and Highways Access",
-      "Proximity to Key Business Districts",
-      "Leading Educational Institutions Nearby",
-      "Modern Retail and Shopping Destinations",
-      "Advanced Multi Speciality Hospitals",
-      "Metro Station Connectivity Hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -49,30 +120,84 @@
       "Our commitment is to transparency and value ensuring that every 2BHK Flat For Sale in Sector 1 listed with us represents a sound investment for your future."
     ],
     "points": [
-      { "title": "Unmatched Location Advantage", "description": "Sector 1 enjoys a prime spot with excellent access to both the established residential infrastructure and emerging commercial zones of Gurugram. This central location ensures reduced travel time and increased accessibility to all necessary urban services making daily life highly convenient for residents." },
-      { "title": "Affordable Entry Point Investment", "description": "While offering premium living standards the 2BHK flats in Sector 1 provide a more accessible entry point compared to central Gurugram sectors. This balance of affordability and quality makes it ideal for first time buyers seeking high appreciation potential." },
-      { "title": "Trusted Developer Track Record", "description": "We only feature 2BHK projects in Sector 1 developed by builders with proven track records of timely delivery and commitment to quality assurance. This mitigates risks and ensures you receive the home you were promised on schedule." },
-      { "title": "Excellent Connectivity Gurugram", "description": "The sector benefits from superb road infrastructure and planned public transport linkages including anticipated metro expansion routes. This robust connectivity ensures seamless travel across Gurugram and surrounding areas including Delhi NCR." },
-      { "title": "High Quality Construction Standards", "description": "Every 2BHK Flat For Sale in Sector 1 adheres to stringent quality control standards focusing on earthquake resistant structures durable materials and superior finishes. This dedication to quality ensures longevity and minimal future repair needs." },
-      { "title": "Future Growth and Appreciation", "description": "As Gurugram continues to expand Sector 1 is positioned for significant future capital appreciation driven by planned infrastructure projects and increasing demand for well located residential units like these 2BHK apartments." },
-      { "title": "Family Friendly Environment", "description": "The communities around Sector 1 are designed to be family oriented featuring parks playgrounds and safe common areas. The presence of good schools and hospitals nearby further establishes it as an ideal location for raising a family." },
-      { "title": "Streamlined Buying Process", "description": "Our dedicated real estate experts provide end to end support from property selection documentation legal checks and loan assistance. We ensure a smooth hassle free experience when purchasing your 2BHK Flat For Sale in Sector 1 Gurugram." }
+      {
+        "title": "Unmatched Location Advantage",
+        "description": "Sector 1 enjoys a prime spot with excellent access to both the established residential infrastructure and emerging commercial zones of Gurugram. This central location ensures reduced travel time and increased accessibility to all necessary urban services making daily life highly convenient for residents."
+      },
+      {
+        "title": "Affordable Entry Point Investment",
+        "description": "While offering premium living standards the 2BHK flats in Sector 1 provide a more accessible entry point compared to central Gurugram sectors. This balance of affordability and quality makes it ideal for first time buyers seeking high appreciation potential."
+      },
+      {
+        "title": "Trusted Developer Track Record",
+        "description": "We only feature 2BHK projects in Sector 1 developed by builders with proven track records of timely delivery and commitment to quality assurance. This mitigates risks and ensures you receive the home you were promised on schedule."
+      },
+      {
+        "title": "Excellent Connectivity Gurugram",
+        "description": "The sector benefits from superb road infrastructure and planned public transport linkages including anticipated metro expansion routes. This robust connectivity ensures seamless travel across Gurugram and surrounding areas including Delhi NCR."
+      },
+      {
+        "title": "High Quality Construction Standards",
+        "description": "Every 2BHK Flat For Sale in Sector 1 adheres to stringent quality control standards focusing on earthquake resistant structures durable materials and superior finishes. This dedication to quality ensures longevity and minimal future repair needs."
+      },
+      {
+        "title": "Future Growth and Appreciation",
+        "description": "As Gurugram continues to expand Sector 1 is positioned for significant future capital appreciation driven by planned infrastructure projects and increasing demand for well located residential units like these 2BHK apartments."
+      },
+      {
+        "title": "Family Friendly Environment",
+        "description": "The communities around Sector 1 are designed to be family oriented featuring parks playgrounds and safe common areas. The presence of good schools and hospitals nearby further establishes it as an ideal location for raising a family."
+      },
+      {
+        "title": "Streamlined Buying Process",
+        "description": "Our dedicated real estate experts provide end to end support from property selection documentation legal checks and loan assistance. We ensure a smooth hassle free experience when purchasing your 2BHK Flat For Sale in Sector 1 Gurugram."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About 2BHK Flat For Sale in Sector 1",
     "description": "Get detailed answers to common inquiries regarding property specifics pricing investment viability and the buying process for 2BHK apartments in Sector 1 Gurugram.",
     "faqs": [
-      { "question": "What is the typical size range for a 2BHK Flat For Sale in Sector 1", "answer": "The sizes for a 2BHK Flat For Sale in Sector 1 typically range between 950 square feet and 1350 square feet depending on the specific project and developer. These variations accommodate different layouts such as standard 2BHK units or those with additional utility balconies or study nooks. We recommend reviewing the specific floor plans for each listing to determine the exact carpet area and super built up area which are crucial factors in determining the value and space utilization of your potential home." },
-      { "question": "Are there RERA registered projects available for 2BHK in Sector 1 Gurugram", "answer": "Yes almost all reputable and newly launched projects offering 2BHK flats in Sector 1 Gurugram are RERA registered. RERA compliance ensures transparency adherence to construction schedules and standardized contracts providing significant protection to homebuyers. We prioritize listing properties that are RERA compliant offering peace of mind regarding the legality and delivery timelines of your investment." },
-      { "question": "What are the key connectivity benefits of living in Sector 1", "answer": "Sector 1 boasts exceptional connectivity primarily due to its proximity to major highways and arterial roads linking it swiftly to Delhi and other parts of Gurugram. It offers easy access to the nearest metro station ensuring hassle free commuting to commercial hubs like Cyber City and Golf Course Road. This robust infrastructure is a major draw for professionals and families seeking convenience." },
-      { "question": "What is the expected rental yield on a 2BHK apartment in this area", "answer": "The expected rental yield on a well maintained 2BHK Flat For Sale in Sector 1 is competitive generally ranging between 3 to 4 percent annually. This attractive yield is driven by high demand from corporate tenants and expatriates looking for modern housing close to business centers. Factors like project amenities maintenance standards and furnishings can influence the final rental value achieved." },
-      { "question": "Are bank financing options easily available for 2BHK flats in Sector 1", "answer": "Absolutely leading national and private banks offer extensive home loan products for 2BHK Flat For Sale in Sector 1. Since these projects are generally approved and RERA compliant securing financing is a streamlined process. Our team can connect you with preferred banking partners to ensure you get competitive interest rates and favorable loan terms assisting you throughout the application and disbursement stages." },
-      { "question": "How does the social infrastructure around Sector 1 support daily living", "answer": "Sector 1 is well supported by comprehensive social infrastructure. Residents have easy access to reputed international schools high quality hospitals and multiple retail complexes including supermarkets and entertainment centers. This mature ecosystem ensures that all daily needs from education to healthcare and leisure are catered to efficiently within a short distance of your 2BHK apartment." },
-      { "question": "Is Sector 1 considered a good investment zone for first time buyers", "answer": "Yes Sector 1 is highly recommended for first time buyers due to its balanced pricing structure and high potential for capital appreciation compared to more saturated markets. The availability of compact yet premium 2BHK units makes entry accessible while the projected infrastructure improvements guarantee long term value growth positioning it as a safe and lucrative entry point into the Gurugram real estate market." },
-      { "question": "What is the estimated price bracket for a quality 2BHK flat here", "answer": "Prices for a quality 2BHK Flat For Sale in Sector 1 can vary significantly based on the developer project age amenities offered and specific location within the sector. Generally the price bracket starts from approximately INR 65 Lakhs and can go up to INR 1.1 Crore for premium luxury units. We provide transparent pricing and comparative analysis to help you make an informed decision based on your budget." },
-      { "question": "Do these 2BHK flats come with dedicated power backup facilities", "answer": "Most modern residential societies offering 2BHK flats in Sector 1 Gurugram provide 100% power backup for common areas and a specified capacity for internal usage within the apartment. This ensures uninterrupted living especially during seasonal power fluctuations a crucial amenity that adds to the overall comfort and desirability of the property." },
-      { "question": "What factors should I consider before finalizing a 2BHK purchase", "answer": "Key factors to consider include the reputation of the developer RERA compliance the actual carpet area versus the super built up area the project’s maintenance costs available amenities especially security and parking and importantly the proximity to your workplace or children's schools. We assist clients by providing detailed checklists and site inspections to ensure all these crucial elements are thoroughly vetted." }
+      {
+        "question": "What is the typical size range for a 2BHK Flat For Sale in Sector 1",
+        "answer": "The sizes for a 2BHK Flat For Sale in Sector 1 typically range between 950 square feet and 1350 square feet depending on the specific project and developer. These variations accommodate different layouts such as standard 2BHK units or those with additional utility balconies or study nooks. We recommend reviewing the specific floor plans for each listing to determine the exact carpet area and super built up area which are crucial factors in determining the value and space utilization of your potential home."
+      },
+      {
+        "question": "Are there RERA registered projects available for 2BHK in Sector 1 Gurugram",
+        "answer": "Yes almost all reputable and newly launched projects offering 2BHK flats in Sector 1 Gurugram are RERA registered. RERA compliance ensures transparency adherence to construction schedules and standardized contracts providing significant protection to homebuyers. We prioritize listing properties that are RERA compliant offering peace of mind regarding the legality and delivery timelines of your investment."
+      },
+      {
+        "question": "What are the key connectivity benefits of living in Sector 1",
+        "answer": "Sector 1 boasts exceptional connectivity primarily due to its proximity to major highways and arterial roads linking it swiftly to Delhi and other parts of Gurugram. It offers easy access to the nearest metro station ensuring hassle free commuting to commercial hubs like Cyber City and Golf Course Road. This robust infrastructure is a major draw for professionals and families seeking convenience."
+      },
+      {
+        "question": "What is the expected rental yield on a 2BHK apartment in this area",
+        "answer": "The expected rental yield on a well maintained 2BHK Flat For Sale in Sector 1 is competitive generally ranging between 3 to 4 percent annually. This attractive yield is driven by high demand from corporate tenants and expatriates looking for modern housing close to business centers. Factors like project amenities maintenance standards and furnishings can influence the final rental value achieved."
+      },
+      {
+        "question": "Are bank financing options easily available for 2BHK flats in Sector 1",
+        "answer": "Absolutely leading national and private banks offer extensive home loan products for 2BHK Flat For Sale in Sector 1. Since these projects are generally approved and RERA compliant securing financing is a streamlined process. Our team can connect you with preferred banking partners to ensure you get competitive interest rates and favorable loan terms assisting you throughout the application and disbursement stages."
+      },
+      {
+        "question": "How does the social infrastructure around Sector 1 support daily living",
+        "answer": "Sector 1 is well supported by comprehensive social infrastructure. Residents have easy access to reputed international schools high quality hospitals and multiple retail complexes including supermarkets and entertainment centers. This mature ecosystem ensures that all daily needs from education to healthcare and leisure are catered to efficiently within a short distance of your 2BHK apartment."
+      },
+      {
+        "question": "Is Sector 1 considered a good investment zone for first time buyers",
+        "answer": "Yes Sector 1 is highly recommended for first time buyers due to its balanced pricing structure and high potential for capital appreciation compared to more saturated markets. The availability of compact yet premium 2BHK units makes entry accessible while the projected infrastructure improvements guarantee long term value growth positioning it as a safe and lucrative entry point into the Gurugram real estate market."
+      },
+      {
+        "question": "What is the estimated price bracket for a quality 2BHK flat here",
+        "answer": "Prices for a quality 2BHK Flat For Sale in Sector 1 can vary significantly based on the developer project age amenities offered and specific location within the sector. Generally the price bracket starts from approximately INR 65 Lakhs and can go up to INR 1.1 Crore for premium luxury units. We provide transparent pricing and comparative analysis to help you make an informed decision based on your budget."
+      },
+      {
+        "question": "Do these 2BHK flats come with dedicated power backup facilities",
+        "answer": "Most modern residential societies offering 2BHK flats in Sector 1 Gurugram provide 100% power backup for common areas and a specified capacity for internal usage within the apartment. This ensures uninterrupted living especially during seasonal power fluctuations a crucial amenity that adds to the overall comfort and desirability of the property."
+      },
+      {
+        "question": "What factors should I consider before finalizing a 2BHK purchase",
+        "answer": "Key factors to consider include the reputation of the developer RERA compliance the actual carpet area versus the super built up area the project’s maintenance costs available amenities especially security and parking and importantly the proximity to your workplace or children's schools. We assist clients by providing detailed checklists and site inspections to ensure all these crucial elements are thoroughly vetted."
+      }
     ]
   },
   "contactSection": {
@@ -81,6 +206,11 @@
       "Take the next step towards owning a premium 2BHK apartment in Sector 1. Contact our expert team today for personalized property recommendations exclusive site visits and comprehensive financial guidance.",
       "We are committed to helping you unlock the best real estate opportunities in Gurugram ensuring a seamless and successful buying experience from start to finish."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

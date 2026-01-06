@@ -7,10 +7,19 @@
       "Explore legally cleared and fully serviced plots that promise peace of mind and excellent appreciation potential. Whether you are looking for a compact 4 Marla plot for immediate construction or a larger 14 Marla parcel for a luxurious villa, Sector 36 provides diverse options tailored to meet every budget and aspiration. Start your property journey today and capitalize on the growing demand for quality residential land in this highly sought-after location in Karnal."
     ],
     "buttons": [
-      { "label": "View Available Plots Now", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View Available Plots Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Perfect Plot Sizes and Optimal Investment Opportunities in Sector 36 Karnal",
@@ -52,12 +61,56 @@
       "The proximity to the national highway and neighboring residential hubs further solidifies Sector 36 as a prime choice for buying a residential plot. Understanding the surrounding ecosystem helps confirm the long-term viability and growth potential of your investment here."
     ],
     "locations": [
-      "Sector 37 Karnal Adjacent Residential Hub",
-      "Karnal Bypass NH 44 Connectivity",
-      "Proximity to Educational Institutions in Nearby Sectors",
-      "Easy Access to the Railway Station and City Centre",
-      "Developing Commercial Pockets near Sector 36",
-      "Major Hospitals and Healthcare Centres Nearby"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to secure your Plot For Sale in Sector 36 Karnal? Our expert team offers tailored guidance on plot selection, legal verification, and investment strategies. Fill out the form below to receive detailed listings and personalized consultation at no charge.",
       "Let us help you make a fully informed decision and seamlessly acquire the ideal residential land in this high-growth sector."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

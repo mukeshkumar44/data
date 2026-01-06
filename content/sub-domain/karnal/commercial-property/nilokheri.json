@@ -7,10 +7,19 @@
       "Whether you are launching a new enterprise or expanding an existing portfolio, our listings feature properties strategically located near major transit points and high foot traffic areas. Investing in Nilokheri now means securing prime space before the next major wave of development, guaranteeing significant capital appreciation. Start your search today with trusted real estate experts who understand the Nilokheri commercial market dynamics perfectly."
     ],
     "buttons": [
-      { "label": "View Commercial Listings", "path": "/commercial-listings" },
-      { "label": "Get Expert Investment Advice", "path": "/contact-us" }
+      {
+        "label": "View Commercial Listings",
+        "path": "/commercial-listings"
+      },
+      {
+        "label": "Get Expert Investment Advice",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Asset Classes and Prime Commercial Property Investment Options Available in Nilokheri",
@@ -52,14 +61,56 @@
       "We help investors precisely identify areas with established infrastructure, effortless access to regional transport networks, and close proximity to necessary amenities like banks and administrative centers. Whether you require high visibility for retail operations or secure access for warehousing, understanding these local commercial dynamics ensures maximum operational efficiency and high profitability for your business in Nilokheri."
     ],
     "locations": [
-      "NH-44 Frontage Plots",
-      "Near Bus Stand Complex",
-      "Nilokheri Main Bazaar",
-      "Industrial Area Extension",
-      "Adjoining Railway Station Road",
-      "New Residential Sector Commercial Zones",
-      "Near Grain Market (Anaj Mandi)",
-      "Khera Complex Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to acquire the perfect high-yield Commercial Property For Sale in Nilokheri? Our team of dedicated commercial real estate advisors is standing by to provide personalized consultations based on your specific investment criteria, whether your need is for retail visibility, corporate office efficiency, or large-scale industrial space.",
       "We offer customized market reports, priority site visits, and comprehensive legal support services to ensure a seamless and efficient transaction from your initial inquiry to the final possession of the property. Do not navigate the complexities of commercial acquisition alone. Contact us today to leverage our deep local knowledge and secure a premium, high-yield asset in one of Haryana’s fastest-growing commercial towns."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,12 +7,18 @@
       "We feature verified listings of high-quality apartments from leading developers ensuring transparency and the best value for your investment. Explore diverse configurations from compact 1 BHK units to expansive luxury penthouses all designed for contemporary urban living. Start your journey today to secure a prime Flat For Sale in sector 102 that meets all your lifestyle requirements and financial goals."
     ],
     "buttons": [
-      { "label": "Browse Verified Listings", "path": "/listings" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "Browse Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "hero_image_flat_sector102_1.jpg",
-      "hero_image_flat_sector102_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The location provides quick access to major expressways ensuring rapid transit across the NCR region. Furthermore planned infrastructural developments promise future appreciation making every Flat For Sale in sector 102 a solid, future-oriented investment. Essential services including healthcare education and retail therapy are all just a short drive away ensuring a complete and comfortable lifestyle for all residents."
     ],
     "locations": [
-      "Proximity to National Highway 44 NH44",
-      "Easy access to upcoming Metro connectivity extension",
-      "Short drive to major commercial hubs of Gurugram",
-      "Nearness to renowned educational institutions and universities",
-      "Quick access to leading multi-specialty hospitals",
-      "Well-connected to Sector 81 and Sector 85",
-      "Close to major shopping malls and entertainment centers",
-      "Direct routes toward Delhi border and major corporate offices"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

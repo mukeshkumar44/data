@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero_property_new_pratap_nagar.jpg",
-      "ambala_plots_investment.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Our specialized team handles listings not just within New Pratap Nagar itself but also in the surrounding developed sectors. We understand the micro-market dynamics of these adjacent areas, allowing us to provide superior guidance on price trends and infrastructure development. If you are seeking diversified investment opportunities outside the core neighborhood, we can showcase vetted properties in these neighboring localities ensuring you make an informed decision with a trusted Property Dealer in New Pratap Nagar Ambala."
     ],
     "locations": [
-      "Ambala Cantt",
-      "Ambala City",
-      "Model Town Ambala",
-      "Sector 7 Ambala",
-      "Sector 9 Ambala",
-      "Baldev Nagar",
-      "Babyal Road",
-      "Naraingarh Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

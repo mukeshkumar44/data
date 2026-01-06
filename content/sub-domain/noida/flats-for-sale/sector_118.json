@@ -7,12 +7,18 @@
       "Investing here means securing a home in a rapidly developing area with immediate access to expressways, reputed educational institutions, and sprawling commercial centers. Whether you seek a compact 2 BHK or a spacious 4 BHK luxury dwelling, we provide verified listings that ensure transparency and peace of mind for every buyer looking to make Sector 118 their new address."
     ],
     "buttons": [
-      { "label": "Explore Premium Listings", "path": "/listings" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "Explore Premium Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "img/hero/sector118_flat_view1.jpg",
-      "img/hero/sector118_flat_interior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The sector is bordered by well-established residential areas and is in close proximity to major infrastructure projects ensuring high growth potential and robust social infrastructure. When you buy a flat here you are not just purchasing property you are investing in a future where convenience and growth are guaranteed factors."
     ],
     "locations": [
-      "FNG Expressway Access",
-      "Nearby Metro Stations Sector 51/76",
-      "Proximity to Malls and Entertainment Centers",
-      "Direct Road Access to Greater Noida",
-      "Easy Commute to Corporate Hubs Sector 62/63",
-      "Surrounded by Reputed Schools and Colleges",
-      "Close to Major Hospitals and Healthcare Facilities",
-      "Well-Developed Internal Road Network"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

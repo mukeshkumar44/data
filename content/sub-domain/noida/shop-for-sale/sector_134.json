@@ -7,10 +7,19 @@
       "Investing in commercial property here means capitalizing on robust infrastructure strategic location and guaranteed high footfall. Our exclusive portfolio includes lockable shops pre-leased properties and customizable retail shells suitable for any business model from fine dining to specialty retail. Partner with our experienced team to navigate the market secure favorable terms and acquire the best commercial shop for sale in Sector 134 Noida maximizing your long-term returns and establishing a lucrative asset base."
     ],
     "buttons": [
-      { "label": "View Commercial Listings", "path": "/listings" },
-      { "label": "Get Free Investment Consultation", "path": "/contact" }
+      {
+        "label": "View Commercial Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Free Investment Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Premium Commercial Properties and Shop Investment Options in Sector 134 Noida",
@@ -52,12 +61,56 @@
       "Furthermore the sector’s development is closely linked to several thriving adjacent residential and commercial areas. This proximity guarantees a ready catchment population vital for retail success. We focus our listings on properties that maximize this locational advantage providing investors with the highest probability of sustained commercial growth and rental occupancy."
     ],
     "locations": [
-      "Noida-Greater Noida Expressway Access",
-      "Sector 132 Noida Commercial Hub",
-      "Sector 135 IT and Corporate Parks",
-      "Proximity to Proposed Metro Line Extension",
-      "FNG Expressway Linkage",
-      "Accessibility to prominent schools and hospitals"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Contact our commercial real estate specialists today for personalized guidance on the best investment opportunities available in Sector 134. We simplify the entire acquisition process from initial selection to final registration.",
       "Tell us your investment budget and specific retail requirements and let us match you with the perfect commercial shop designed for high returns and long-term asset growth."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

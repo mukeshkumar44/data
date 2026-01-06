@@ -16,7 +16,10 @@
         "path": "/listings/sector-43"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Specialized Real Estate Services Provided by Expert Agents in Sector 43 Gurugram",
@@ -58,13 +61,56 @@
       "We provide comprehensive guidance on high-growth areas like DLF Phase 1, Sushant Lok Phase 1, and the rapidly developing areas along Golf Course Extension Road. Understanding the price comparison and amenities available in these adjacent sectors allows our agents to create diversified investment portfolios for our clients. Leveraging our expansive network ensures you access off-market listings and premium opportunities across the entire central Gurugram corridor, guaranteeing the best possible return on your investment capital."
     ],
     "locations": [
-      "DLF Phase 1",
-      "Sushant Lok Phase 1",
-      "Golf Course Extension Road",
-      "Sector 53 Gurugram",
-      "Sector 54 Gurugram",
-      "Ardee City",
-      "Nirvana Country"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

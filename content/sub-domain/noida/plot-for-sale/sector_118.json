@@ -7,10 +7,19 @@
       "Our curated selection includes various plot sizes tailored to accommodate everything from luxury villas to efficient duplex constructions. This area benefits significantly from its proximity to major expressways and essential urban amenities, ensuring residents enjoy both connectivity and convenience. Stop searching for generic land and start planning your future with a premium plot that guarantees high appreciation potential and immediate buildability. Contact us to view the best available inventory today and understand why Sector 118 is the premier choice for land investment."
     ],
     "buttons": [
-      { "label": "View Available Plots", "path": "/plots" },
-      { "label": "Request a Callback", "path": "/contact" }
+      {
+        "label": "View Available Plots",
+        "path": "/plots"
+      },
+      {
+        "label": "Request a Callback",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Diverse Plot Sizes and Investment Opportunities in Sector 118 Noida",
@@ -52,14 +61,56 @@
       "Furthermore, Sector 118 is surrounded by established residential colonies, leading educational institutions, world-class healthcare facilities, and thriving retail centers. This ensures that essential services and leisure activities are always within a short drive. Investing in a plot here means securing a location that promises high rental yield potential and guaranteed long-term capital appreciation driven by infrastructural growth and increasing residential demand."
     ],
     "locations": [
-      "Proximity to FNG Expressway",
-      "Easy Access to Sector 121 and Sector 122",
-      "Short Drive to Major Noida Malls and Multiplexes",
-      "Close to Proposed Metro Corridor Extensions",
-      "Immediate access to prominent International Schools",
-      "Well-connected to Ghaziabad and Delhi via expressways",
-      "Access to premium healthcare services and specialized hospitals",
-      "Surrounded by developing commercial and retail markets"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

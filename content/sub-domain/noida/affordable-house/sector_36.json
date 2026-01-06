@@ -7,10 +7,19 @@
       "Explore carefully curated listings of apartments, independent floors, and plots that fit various budget ranges. Investing here means securing a future asset in a location poised for significant appreciation. Start your journey toward owning a beautiful, budget-friendly home and discover why Sector 36 is the smart choice for affordable real estate ownership."
     ],
     "buttons": [
-      { "label": "Browse Affordable Listings", "path": "/listings" },
-      { "label": "Download Price Guide 2024", "path": "/guide" }
+      {
+        "label": "Browse Affordable Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Download Price Guide 2024",
+        "path": "/guide"
+      }
     ],
-    "images": ["hero1.jpg", "hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Finding the Right Size House for Sale in Sector 36 Based on Your Family Needs",
@@ -52,12 +61,56 @@
       "We provide listings that are close to schools, hospitals, and major transit points, maximizing convenience. Understanding the neighborhood is vital for home buying, and Sector 36’s evolving infrastructure guarantees a comfortable and accessible lifestyle for all residents."
     ],
     "locations": [
-      { "name": "Proximity to Expressway", "path": "/location/expressway" },
-      { "name": "Nearby Schools and Colleges", "path": "/location/education" },
-      { "name": "Sector 36 Commercial Market", "path": "/location/commercial" },
-      { "name": "Future Metro Connectivity", "path": "/location/metro" },
-      { "name": "Green Belt Parks and Recreation", "path": "/location/parks" },
-      { "name": "Access to Health Facilities", "path": "/location/hospitals" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Take the crucial next step toward owning your dream affordable house in Sector 36 Noida. Our real estate specialists possess detailed knowledge of the local market and the best value propositions available.",
       "Fill out the inquiry form below to receive a customized property portfolio, discuss financing options, or schedule a site visit at your convenience. We look forward to helping you achieve affordable homeownership."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

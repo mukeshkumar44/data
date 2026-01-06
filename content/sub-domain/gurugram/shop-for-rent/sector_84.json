@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-shop-exterior.jpg",
-      "hero-sector84-commercial.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "The location’s connectivity via major arteries like the Gurugram-Gurgaon Expressway and proximity to the KMP Expressway ensures easy access for suppliers and patrons traveling from across the NCR. This robust infrastructure support maximizes business reach making your shop for rent in Sector 84 an integral part of the regional economic network. Understanding the local consumer catchment area confirms that investing here means accessing a significant and growing target demographic."
     ],
     "locations": [
-      "Sector 83 Residential Catchment",
-      "Sector 85 Integrated Township",
-      "Proximity to Bypass Road",
-      "Easy Access to Sector 81 Commercial Zones",
-      "Connectivity to Neharpar Areas",
-      "Near BPTP Parklands"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

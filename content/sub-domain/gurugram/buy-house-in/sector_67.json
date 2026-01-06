@@ -7,10 +7,19 @@
       "Sector 67 provides residents with exceptional social infrastructure including top-tier international schools specialized healthcare facilities and bustling retail centers The area is seamlessly connected to NH-48 and major business districts making daily commuting effortless Whether you seek a spacious independent villa for your family or a high-end builder floor with modern amenities our portfolio ensures you find a property that perfectly aligns with your needs We guide you through every step of the process ensuring a transparent and smooth transaction when you decide to buy house in Sector 67 Gurugram Start your search today and unlock the door to your dream residence in one of Gurugram’s most sought-after addresses"
     ],
     "buttons": [
-      { "label": "Explore Premium House Listings", "path": "/listings" },
-      { "label": "Request a Callback Today", "path": "/contact" }
+      {
+        "label": "Explore Premium House Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Callback Today",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero-sector67-1.jpg", "/images/hero-sector67-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Residential Configurations When You Buy House in Sector 67 Gurugram",
@@ -52,14 +61,56 @@
       "The proximity to established residential sectors and emerging commercial zones means residents have immediate access to world-class social infrastructure including premium shopping malls like M3M Cosmopolitan and Omaxe Celebration Mall Additionally highly-regarded educational institutions and specialized multi-super specialty hospitals are just a short drive away ensuring convenience and quality of life The seamless infrastructural development surrounding Sector 67 truly solidifies its reputation as a premium residential destination perfect for families seeking convenience and future growth potential"
     ],
     "locations": [
-      "Golf Course Extension Road",
-      "Sector 65 Gurugram",
-      "Sector 66 Gurugram",
-      "Sector 68 Gurugram",
-      "Southern Peripheral Road SPR",
-      "Isko Chowk",
-      "Rajiv Chowk",
-      "NH-48 Delhi-Jaipur Expressway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning a luxury house in Sector 67 Gurugram Our dedicated team of real estate professionals specializes in this premium micro-market and is ready to assist you with personalized advice and exclusive listings.",
       "Fill out the form below to receive a customized consultation schedule a site visit or get detailed financial projections We commit to providing transparent expert service ensuring you make the best investment decision possible"
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

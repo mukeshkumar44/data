@@ -7,10 +7,19 @@
       "This is your opportunity to acquire prime land before prices escalate further due to regional development initiatives. Explore the diverse sizes available including options tailored for small families or large joint setups. Investing in a residential plot here guarantees not only a superb lifestyle but also substantial appreciation potential. Contact our Dhulkot property specialists now to view the best available options and secure your piece of prime real estate in Ambala."
     ],
     "buttons": [
-      { "label": "Explore Available Plots", "path": "/search-plots" },
-      { "label": "Get Price List & Brochure", "path": "/contact" }
+      {
+        "label": "Explore Available Plots",
+        "path": "/search-plots"
+      },
+      {
+        "label": "Get Price List & Brochure",
+        "path": "/contact"
+      }
     ],
-    "images": ["dhulkot_plot_hero_1.jpg", "dhulkot_plot_hero_2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Finding the Perfect Size Residential Plot For Sale in Dhulkot Ambala Tailored Options",
@@ -52,12 +61,56 @@
       "Furthermore Dhulkot benefits from being close to the prestigious Ambala Cantt area which provides access to renowned military hospitals shopping complexes and established schools. This infusion of essential civic infrastructure makes Dhulkot highly attractive for families seeking stability and growth. We monitor development trends closely to ensure our clients receive the best opportunities in areas showing the highest appreciation potential. When you search for a Plot For Sale in Dhulkot Ambala you are not just buying land you are securing a highly connected future in a rapidly appreciating locale with guaranteed growth."
     ],
     "locations": [
-      "Ambala Cantt Railway Station Proximity",
-      "Seamless NH 44 Connectivity to Chandigarh and Delhi",
-      "Close Access to Reputed Schools and Colleges",
-      "Dhulkot Local Market Complex",
-      "Near Proposed Ring Road Access Points",
-      "Easy Drive to Ambala Bus Stand"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to secure your high-return Plot For Sale in Dhulkot Ambala Our expert real estate consultants are here to provide personalized advice property tours and detailed legal documentation checks.",
       "Submit your details below and one of our dedicated Dhulkot property advisors will contact you promptly to discuss your specific requirements and guide you towards your ideal investment opportunity."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

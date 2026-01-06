@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "sector-19-hero.jpg",
-      "real-estate-agent-gurugram.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "We ensure our clients receive a holistic view of the market factoring in connectivity to NH-48 the Delhi-Jaipur Expressway and nearby schools and hospitals. This comprehensive regional knowledge ensures that whether you are investing or settling you make a well-informed decision that supports long-term growth and convenience."
     ],
     "locations": [
-      "Palam Vihar",
-      "Dwarka Expressway",
-      "Old Delhi Road",
-      "Sector 18 Gurugram",
-      "Cyber City Access Routes",
-      "Udyog Vihar Industrial Area",
-      "Basai Road Connectivity",
-      "Sheetla Mata Road Corridor"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

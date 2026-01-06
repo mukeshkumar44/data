@@ -7,10 +7,19 @@
       "Our curated listings showcase only verified properties, ensuring transparency and safety in your investment decision. Whether you are looking for a brand-new, ready-to-move apartment or seeking a smart investment in an under-construction project promising high returns, Patti Mehar delivers unmatched value. Start your search today and step closer to owning a modern home in a peaceful, yet connected locality. We specialize in matching buyers with certified properties that meet modern lifestyle demands and budget constraints seamlessly ensuring a stress-free purchase experience for all our valued clients."
     ],
     "buttons": [
-      { "label": "View Verified Flats", "path": "/listings" },
-      { "label": "Request a Callback", "path": "/contact" }
+      {
+        "label": "View Verified Flats",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Callback",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/patti-mehar-hero-flat.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Modern Residential Flat Configurations and Property Types in Patti Mehar Ambala",
@@ -52,14 +61,56 @@
       "The area is well-connected to Ambala Cantt and major highways, providing seamless travel to Chandigarh and Delhi. We meticulously cover properties across the best-connected sectors and phases within Patti Mehar ensuring you are always close to essential services like quality schools, multispecialty hospitals, and vibrant commercial markets enhancing the overall liveability score of the area significantly."
     ],
     "locations": [
-      "Near Ambala Cantt Railway Station",
-      "Proximity to Chandigarh-Delhi National Highway",
-      "Adjacent to Major Commercial Markets",
-      "Connecting Sectors 7 and 8 Ambala",
-      "Areas near Reputed Educational Institutions",
-      "Green Belt Facing Residences in Phase 2",
-      "Well-developed Infrastructure Zones",
-      "Easy Access to Government Offices"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to explore our exclusive listings and find your ideal home in Patti Mehar? Contact our expert real estate consultants today for personalized advice, detailed property profiles, and scheduled site visits.",
       "We help you unlock the best property opportunities tailored precisely to your requirements and budget, ensuring a seamless journey to home ownership in one of Ambala's fastest-growing residential areas."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,12 +7,18 @@
       "Browse through verified properties featuring 2 BHK, 3 BHK, and expansive 4 BHK rental options in desirable neighborhoods within Sector 45. We simplify the entire rental journey, ensuring clear documentation, fair pricing, and seamless move-in support. Start your search now to find a rental home that perfectly aligns with your lifestyle and budget requirements in this sought-after locality."
     ],
     "buttons": [
-      { "label": "View All Rental Listings", "path": "/listings" },
-      { "label": "Contact Rental Experts", "path": "/contact" }
+      {
+        "label": "View All Rental Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Contact Rental Experts",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "house_45_1.jpg",
-      "sector45_map.png"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "We provide comprehensive rental insights across Sector 45 and its surrounding neighborhoods, ensuring you never miss an opportunity for the perfect rental home. These adjoining areas maintain high standards of living and excellent municipal infrastructure."
     ],
     "locations": [
-      "Sector 44 Residential Plots",
-      "Sector 46 Premium Housing",
-      "Urban Estate Phase 2 Rentals",
-      "Sadar Bazaar Area",
-      "Model Town Rental Homes",
-      "Kunjpura Road Connectivity",
-      "National Highway 44 Access",
-      "Railway Road Properties"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

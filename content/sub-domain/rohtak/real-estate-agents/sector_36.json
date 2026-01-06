@@ -16,7 +16,10 @@
         "path": "/listings"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Premium Residential Plot Sizes Available Through Top Real Estate Agents in Sector 36",
@@ -58,12 +61,56 @@
       "We frequently handle property transactions involving plots in Sector 36 that are positioned close to major arteries and public transport links maximizing convenience for future residents and ensuring high rental yield potential. Our real estate agents in Sector 36 are experts in identifying properties that offer both serene living environments and unparalleled urban access making your home purchase a wisely balanced choice."
     ],
     "locations": [
-      "Proximity to National Highway 9",
-      "Easy access to AIIMS Rohtak",
-      "Nearby top-rated schools and colleges",
-      "Well-maintained local parks and green belts",
-      "Developing commercial centers and markets",
-      "Direct link to city center amenities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

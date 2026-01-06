@@ -7,10 +7,19 @@
       "Our curated listings feature a range of residential properties, from independent builder floors to spacious duplex houses. Each property meets high standards of construction quality and legal compliance. Whether you seek a move-in ready home or a house requiring custom finishes, Sector 25 provides excellent options that ensure long-term value appreciation. Start your search for the perfect family home right here."
     ],
     "buttons": [
-      { "label": "View All House Listings", "path": "/listings" },
-      { "label": "Schedule Property Visit", "path": "/contact" }
+      {
+        "label": "View All House Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule Property Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero-house-sector-25-1.jpg", "/images/hero-house-sector-25-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse House Options and Ready-to-Move Properties in Sector 25 Rohtak Today",
@@ -52,12 +61,56 @@
       "The proximity to key infrastructure components such as reputable schools, advanced medical facilities, and vibrant local markets makes a House For Sale in Sector 25 an exceptionally smart decision. Residents enjoy easy access to Sector 1 and Sector 4 for utilities and daily needs, confirming its status as a fully self-sufficient residential area."
     ],
     "locations": [
-      "Near Delhi-Rohtak Bypass",
-      "Close proximity to MD University Rohtak",
-      "Easy access to major hospitals and clinics",
-      "Well-connected to Sector 4 and Sector 5 commercial zones",
-      "Direct route to Rohtak Railway Station",
-      "Excellent connectivity to local markets and shopping complexes"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to find the perfect House For Sale in Sector 25 Rohtak? Our expert team possesses deep local market knowledge and is committed to helping you navigate the buying process effortlessly. We provide personalized viewings, market insights, and legal assistance.",
       "Reach out today to discuss your requirements, schedule a site visit, or request a customized portfolio of properties that match your criteria."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

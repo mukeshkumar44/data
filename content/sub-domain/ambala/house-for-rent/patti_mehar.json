@@ -7,12 +7,18 @@
       "We understand the challenge of navigating the rental market in Patti Mehar Ambala. Our platform streamlines the entire search and verification process providing detailed property photos, accurate location mapping, and transparent rental terms. Start your journey to secure the perfect residential space in this highly sought-after neighborhood today access exclusive listings and connect directly with trusted property owners."
     ],
     "buttons": [
-      { "label": "View Available Listings Now", "path": "/listings" },
-      { "label": "Request a Callback", "path": "/contact" }
+      {
+        "label": "View Available Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Callback",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "patti_mehar_house_rental_1.jpg",
-      "patti_mehar_house_rental_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Explore areas like Ambala Cantt, Ambala City, Mahesh Nagar, and Baldev Nagar which are all easily accessible and share similar residential characteristics. Whether you prioritize proximity to the railway station in Ambala Cantt or the bustling markets of Ambala City, Patti Mehar serves as a calm residential anchor point providing swift commuting access to all major destinations. We list rental availability across this wider region ensuring you have the maximum number of quality choices available during your property search."
     ],
     "locations": [
-      "Ambala Cantt Residential Areas",
-      "Ambala City Rental Flats",
-      "Mahesh Nagar Apartments",
-      "Baldev Nagar Housing Schemes",
-      "Sector 8 Ambala",
-      "Sector 9 Ambala",
-      "Defence Colony Rentals",
-      "Railway Road Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,12 +7,18 @@
       "Renting a house here means enjoying proximity to the best schools major hospitals and vibrant shopping complexes while residing in a well-maintained secure neighbourhood. Browse our extensive portfolio of houses ranging from compact 1 BHK units suitable for bachelors to expansive 4 BHK independent homes perfect for large families. Start your hassle-free rental journey today and secure a property that truly feels like home in the heart of Ambala."
     ],
     "buttons": [
-      { "label": "Explore Rental Listings", "path": "/search-rentals" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Rental Listings",
+        "path": "/search-rentals"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "sector-9-house-rent-hero-1.jpg",
-      "sector-9-house-rent-hero-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "We highlight properties that benefit most from this excellent location providing detailed maps and local information during your viewing process. Investigate the benefits of renting in a location known for its safe environment and strategic positioning."
     ],
     "locations": [
-      "Top-Rated Educational Institutions Nearby",
-      "Seamless Connectivity to National Highway 44",
-      "Immediate Access to Modern Shopping Complexes",
-      "Proximity to Major Healthcare and Hospitals",
-      "Well-Maintained Parks and Green Spaces",
-      "Easy Commute to Ambala Cantt Railway Station"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

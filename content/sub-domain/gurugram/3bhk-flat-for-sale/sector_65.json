@@ -7,12 +7,18 @@
       "Sector 65 stands out as a prime residential destination, providing seamless connectivity to major business districts, elite educational institutions, and world-class healthcare facilities. Investing in a 3BHK apartment here ensures a high-quality lifestyle coupled with significant appreciation potential. Explore our exclusive listings today and step closer to owning a magnificent home where comfort meets class in the heart of new Gurugram."
     ],
     "buttons": [
-      { "label": "Explore 3BHK Listings", "path": "/listings" },
-      { "label": "Request a Site Visit Now", "path": "/contact" }
+      {
+        "label": "Explore 3BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Site Visit Now",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "img/hero-flat-view.jpg",
-      "img/sector65-skyline.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The locality is self-sufficient with easy access to high-street retail, fine dining options, multiplexes, and essential services. When you buy a 3BHK flat for sale in Sector 65 Gurugram, you are not just buying a home; you are investing in a lifestyle defined by ease and accessibility to every modern amenity."
     ],
     "locations": [
-      "Golf Course Extension Road Access",
-      "Worldmark Gurgaon Commercial Hub",
-      "Southern Peripheral Road SPR Link",
-      "Rapid Metro Station Connectivity",
-      "Sector 57 Gurugram",
-      "Sohna Road Shopping Malls",
-      "NH-48 National Highway Link",
-      "Best Schools and Hospitals Nearby"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

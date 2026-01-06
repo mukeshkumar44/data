@@ -16,7 +16,10 @@
         "path": "/valuation"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Prime Residential and Commercial Property Options in Sector 14 Gurugram",
@@ -58,14 +61,56 @@
       "We provide comparative market analysis across these interconnected zones allowing our clients to make informed decisions based on current market trends infrastructural development and future growth prospects. Leverage our comprehensive network to secure the best property deal across central Gurugram and its highly connected neighboring areas."
     ],
     "locations": [
-      "Civil Lines Residential Area",
-      "Old Gurugram Market Hub",
-      "Maharaja Agarsen Marg Connectivity",
-      "Mianwali Colony Extensions",
-      "Sector 15 Part 1 Residential",
-      "Delhi-Jaipur Expressway Access Points",
-      "MG Road Commercial Corridor",
-      "Shivaji Nagar Prime Locations"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -132,8 +177,7 @@
       {
         "question": "Are there any specific zoning regulations unique to Sector 14 that I should be aware of",
         "answer": "As a well-established residential sector construction and floor area ratios FAR are strictly regulated by the relevant municipal bodies like the HUDA or GMDA. Specific regulations govern the maximum height the number of floors allowed generally up to four floors on a residential plot and set-back requirements. Our expert agents are fully updated on the latest building bylaws to ensure any property you purchase or plan to develop is fully compliant."
-      }
-      ,
+      },
       {
         "question": "Do your agents specialize in commercial property transactions within Sector 14 as well",
         "answer": "While Sector 14 is predominantly residential it does feature highly valuable localized commercial spaces particularly along main arteries and designated market zones. Our team includes specialized commercial real estate agents who handle leasing and sale of commercial plots shops and office spaces. We provide focused analysis on rental yields tenant quality and commercial zoning requirements specific to the sector."

@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Features of 2BHK Flats in Sector 84 Gurugram Defining Your Residential Choice",
@@ -58,14 +61,56 @@
       "The infrastructure development here is robust with wide roads planned metro corridor access points and established public transport routes already operational. Living in a 2BHK flat here means you are minutes away from major corporate offices reputable schools healthcare facilities and high-street retail developments ensuring all your needs are met within a short radius. This excellent location profile is a key reason why property values for a 2BHK Flat For Sale in Sector 84 Gurugram continue to show exceptional resilience and upward growth trajectory attracting both end-users and serious investors looking for premium growth locations."
     ],
     "locations": [
-      "Dwarka Expressway",
-      "NH 48",
-      "IMT Manesar",
-      "KMP Expressway",
-      "Sector 85 Gurugram",
-      "Huda City Centre Metro Route",
-      "AIPL Joy Street",
-      "Vatika India Next"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

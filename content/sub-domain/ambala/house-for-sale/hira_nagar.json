@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hiranagar-house-exterior-view.jpg",
-      "hiranagar-community-street.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Choosing a House For Sale in Hira Nagar means choosing unparalleled access to everyday necessities. The area is characterized by clean infrastructure reliable utility services and a sense of community that is rare in modern urban planning. We help you find properties located near parks secure gated communities and areas with excellent public transport access ensuring that your new home is not just an asset but a central hub for convenient living in Ambala."
     ],
     "locations": [
-      "Proximity to Ambala Cantt Railway Station",
-      "Easy access to National Highway 44 (NH 44)",
-      "Near reputed schools and educational campuses",
-      "Close to leading hospitals and specialty clinics",
-      "Well-connected to Ambala City commercial hubs",
-      "Surrounded by established residential colonies",
-      "Availability of local parks and green spaces",
-      "Quick connectivity to major defense establishments"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

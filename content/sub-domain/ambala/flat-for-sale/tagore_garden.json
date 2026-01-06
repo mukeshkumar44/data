@@ -7,10 +7,19 @@
       "Tagore Garden is celebrated for its strategic location proximity to major commercial hubs and established social infrastructure including renowned schools hospitals and markets. Whether you seek a compact 1 BHK unit a spacious 3 BHK luxury apartment or a penthouse with city views our curated listings represent the best residential inventory available. Let us help you navigate the vibrant real estate market to secure an investment that grows with you."
     ],
     "buttons": [
-      { "label": "Browse Verified Listings Now", "path": "/listings" },
-      { "label": "Schedule a Consultation", "path": "/contact" }
+      {
+        "label": "Browse Verified Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Residential Flat Options in Tagore Garden Suiting Every Family Need",
@@ -52,14 +61,56 @@
       "Our detailed location reports help you compare social infrastructure accessibility and future development plans across different blocks within Tagore Garden and the wider West Delhi region ensuring you find a flat that meets both your current needs and long-term financial goals."
     ],
     "locations": [
-      "Rajouri Garden Extension",
-      "Vishal Enclave",
-      "Subhash Nagar Flats",
-      "Bali Nagar Residential Area",
-      "Moti Nagar Connectivity",
-      "Block A Tagore Garden",
-      "Block B Tagore Garden",
-      "Block C Tagore Garden"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning your perfect flat in Tagore Garden",
       "Contact our seasoned property consultants now to schedule a site visit access exclusive listings and receive personalized financial advice tailored to your investment goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

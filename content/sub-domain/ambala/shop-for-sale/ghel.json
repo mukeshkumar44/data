@@ -1,4 +1,3 @@
-
 {
   "domain": "example.com",
   "hero": {
@@ -8,10 +7,19 @@
       "Our listed shops come in various sizes and configurations to suit different business needs. Located in well-developed markets with ample parking and modern amenities, these properties promise high visibility and customer accessibility."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/shops" },
-      { "label": "Contact Agent", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/shops"
+      },
+      {
+        "label": "Contact Agent",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Available Shop Sizes in Ghel",
@@ -20,12 +28,30 @@
       "Each shop is strategically located in high-traffic areas, ensuring maximum exposure and business growth potential."
     ],
     "features": [
-      { "title": "100 Sq Ft Shop", "description": "Compact and cost-effective, ideal for small retail outlets or service-based businesses." },
-      { "title": "200 Sq Ft Shop", "description": "A balanced space suitable for boutiques, electronics stores, or small eateries." },
-      { "title": "300 Sq Ft Shop", "description": "Spacious enough for medium-sized retail stores or professional offices." },
-      { "title": "500 Sq Ft Shop", "description": "Perfect for showrooms, supermarkets, or larger retail establishments." },
-      { "title": "1000 Sq Ft Shop", "description": "Ample space for wholesale businesses, warehouses, or multi-brand outlets." },
-      { "title": "Custom Size Shops", "description": "Tailor-made commercial spaces to meet specific business requirements." }
+      {
+        "title": "100 Sq Ft Shop",
+        "description": "Compact and cost-effective, ideal for small retail outlets or service-based businesses."
+      },
+      {
+        "title": "200 Sq Ft Shop",
+        "description": "A balanced space suitable for boutiques, electronics stores, or small eateries."
+      },
+      {
+        "title": "300 Sq Ft Shop",
+        "description": "Spacious enough for medium-sized retail stores or professional offices."
+      },
+      {
+        "title": "500 Sq Ft Shop",
+        "description": "Perfect for showrooms, supermarkets, or larger retail establishments."
+      },
+      {
+        "title": "1000 Sq Ft Shop",
+        "description": "Ample space for wholesale businesses, warehouses, or multi-brand outlets."
+      },
+      {
+        "title": "Custom Size Shops",
+        "description": "Tailor-made commercial spaces to meet specific business requirements."
+      }
     ]
   },
   "locationsSection": {
@@ -35,12 +61,56 @@
       "Investing in Ghel means tapping into a network of prosperous business districts with excellent growth prospects."
     ],
     "locations": [
-      "Ghel Market",
-      "Ghel Road Commercial Strip",
-      "Near Ghel Bus Stand",
-      "Ghel Main Chowk",
-      "Adjacent to Ghel Residential Colony",
-      "Ghel Industrial Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -50,29 +120,80 @@
       "Here are compelling reasons why buying a shop in Ghel is a smart business decision."
     ],
     "points": [
-      { "title": "High Footfall Area", "description": "Ghel's commercial zones attract consistent customer traffic throughout the day, ensuring good business visibility." },
-      { "title": "Excellent Connectivity", "description": "Well-connected through major roads and public transport, making it easily accessible for customers and employees." },
-      { "title": "Growing Local Economy", "description": "The area's expanding population and increasing disposable income create a thriving market for businesses." },
-      { "title": "Diverse Business Opportunities", "description": "Suitable for various ventures including retail, services, food outlets, and professional offices." },
-      { "title": "Competitive Property Prices", "description": "Compared to other commercial hubs, Ghel offers relatively affordable shop spaces with good ROI potential." },
-      { "title": "Supportive Business Environment", "description": "Local policies and infrastructure development favor commercial growth and entrepreneurship." },
-      { "title": "Ample Parking Facilities", "description": "Most commercial properties include dedicated parking spaces for customer convenience." },
-      { "title": "Future Appreciation Potential", "description": "With ongoing development projects, property values in Ghel are expected to rise steadily." }
+      {
+        "title": "High Footfall Area",
+        "description": "Ghel's commercial zones attract consistent customer traffic throughout the day, ensuring good business visibility."
+      },
+      {
+        "title": "Excellent Connectivity",
+        "description": "Well-connected through major roads and public transport, making it easily accessible for customers and employees."
+      },
+      {
+        "title": "Growing Local Economy",
+        "description": "The area's expanding population and increasing disposable income create a thriving market for businesses."
+      },
+      {
+        "title": "Diverse Business Opportunities",
+        "description": "Suitable for various ventures including retail, services, food outlets, and professional offices."
+      },
+      {
+        "title": "Competitive Property Prices",
+        "description": "Compared to other commercial hubs, Ghel offers relatively affordable shop spaces with good ROI potential."
+      },
+      {
+        "title": "Supportive Business Environment",
+        "description": "Local policies and infrastructure development favor commercial growth and entrepreneurship."
+      },
+      {
+        "title": "Ample Parking Facilities",
+        "description": "Most commercial properties include dedicated parking spaces for customer convenience."
+      },
+      {
+        "title": "Future Appreciation Potential",
+        "description": "With ongoing development projects, property values in Ghel are expected to rise steadily."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shops in Ghel",
     "description": "Get answers to common queries about purchasing commercial property in Ghel.",
     "faqs": [
-      { "question": "What types of businesses are most successful in Ghel", "answer": "Ghel's commercial landscape supports diverse businesses including clothing stores, electronics shops, grocery stores, pharmacies, and food outlets. The area particularly favors businesses catering to daily needs and lifestyle products." },
-      { "question": "What is the average price range for shops in Ghel", "answer": "Shop prices in Ghel vary based on size and location, typically ranging from ₹20 lakhs for smaller units to ₹1 crore+ for premium commercial spaces in prime locations. Prices are competitive compared to other commercial hubs in the region." },
-      { "question": "Are there any legal considerations when buying a shop in Ghel", "answer": "Yes, it's crucial to verify property documents including title deeds, approved building plans, and NOC from relevant authorities. We recommend consulting with a legal expert or our property advisors to ensure a smooth transaction." },
-      { "question": "What are the peak business hours in Ghel markets", "answer": "Ghel's commercial areas experience high footfall from 10 AM to 8 PM, with peak hours typically between 5 PM to 8 PM when office-goers and families visit markets. Some specialty shops may have different peak times based on their offerings." },
-      { "question": "How is the infrastructure and utilities situation for shops in Ghel", "answer": "Ghel has well-developed infrastructure with reliable electricity, water supply, and broadband connectivity. Most commercial areas have proper roads, drainage systems, and regular municipal services to support business operations." },
-      { "question": "What financing options are available for shop purchases in Ghel", "answer": "Various banks and financial institutions offer commercial property loans with competitive interest rates. We can connect you with preferred banking partners who specialize in commercial real estate financing in the Ghel area." },
-      { "question": "Are there any upcoming developments that might affect shop values in Ghel", "answer": "Several infrastructure projects including road expansions and new commercial complexes are planned for Ghel, which are expected to enhance property values. Our agents can provide detailed insights about specific developments affecting properties you're interested in." },
-      { "question": "What maintenance costs should I anticipate for a shop in Ghel", "answer": "Typical maintenance costs include property taxes, society maintenance charges (if applicable), electricity, and occasional repairs. These usually range from ₹2,000 to ₹10,000 monthly depending on shop size and location." },
-      { "question": "Can I get a shop customized to my business needs in Ghel", "answer": "Many commercial properties in Ghel offer customization options. New constructions often allow layout modifications before completion, while existing shops can be renovated subject to municipal regulations and building guidelines." }
+      {
+        "question": "What types of businesses are most successful in Ghel",
+        "answer": "Ghel's commercial landscape supports diverse businesses including clothing stores, electronics shops, grocery stores, pharmacies, and food outlets. The area particularly favors businesses catering to daily needs and lifestyle products."
+      },
+      {
+        "question": "What is the average price range for shops in Ghel",
+        "answer": "Shop prices in Ghel vary based on size and location, typically ranging from ₹20 lakhs for smaller units to ₹1 crore+ for premium commercial spaces in prime locations. Prices are competitive compared to other commercial hubs in the region."
+      },
+      {
+        "question": "Are there any legal considerations when buying a shop in Ghel",
+        "answer": "Yes, it's crucial to verify property documents including title deeds, approved building plans, and NOC from relevant authorities. We recommend consulting with a legal expert or our property advisors to ensure a smooth transaction."
+      },
+      {
+        "question": "What are the peak business hours in Ghel markets",
+        "answer": "Ghel's commercial areas experience high footfall from 10 AM to 8 PM, with peak hours typically between 5 PM to 8 PM when office-goers and families visit markets. Some specialty shops may have different peak times based on their offerings."
+      },
+      {
+        "question": "How is the infrastructure and utilities situation for shops in Ghel",
+        "answer": "Ghel has well-developed infrastructure with reliable electricity, water supply, and broadband connectivity. Most commercial areas have proper roads, drainage systems, and regular municipal services to support business operations."
+      },
+      {
+        "question": "What financing options are available for shop purchases in Ghel",
+        "answer": "Various banks and financial institutions offer commercial property loans with competitive interest rates. We can connect you with preferred banking partners who specialize in commercial real estate financing in the Ghel area."
+      },
+      {
+        "question": "Are there any upcoming developments that might affect shop values in Ghel",
+        "answer": "Several infrastructure projects including road expansions and new commercial complexes are planned for Ghel, which are expected to enhance property values. Our agents can provide detailed insights about specific developments affecting properties you're interested in."
+      },
+      {
+        "question": "What maintenance costs should I anticipate for a shop in Ghel",
+        "answer": "Typical maintenance costs include property taxes, society maintenance charges (if applicable), electricity, and occasional repairs. These usually range from ₹2,000 to ₹10,000 monthly depending on shop size and location."
+      },
+      {
+        "question": "Can I get a shop customized to my business needs in Ghel",
+        "answer": "Many commercial properties in Ghel offer customization options. New constructions often allow layout modifications before completion, while existing shops can be renovated subject to municipal regulations and building guidelines."
+      }
     ]
   },
   "contactSection": {
@@ -81,6 +202,11 @@
       "Our experienced commercial property specialists can help you find the perfect shop in Ghel.",
       "Fill out the form below and we'll contact you with suitable options matching your requirements."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

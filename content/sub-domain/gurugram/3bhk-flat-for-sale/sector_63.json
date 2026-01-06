@@ -7,10 +7,19 @@
       "Experience sophisticated design high-quality finishes and world-class amenities specifically curated for discerning homeowners. Investing in a 3BHK in Sector 63 Gurugram guarantees not just a beautiful home but also significant appreciation potential due to the area's rapid development and strategic positioning. Explore our exclusive listings today and step into a lifestyle defined by convenience and luxury."
     ],
     "buttons": [
-      { "label": "Explore 3BHK Options", "path": "/listings" },
-      { "label": "Download Brochure", "path": "/download" }
+      {
+        "label": "Explore 3BHK Options",
+        "path": "/listings"
+      },
+      {
+        "label": "Download Brochure",
+        "path": "/download"
+      }
     ],
-    "images": ["hero-3bhk-sector-63-1.jpg", "hero-3bhk-sector-63-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Premium Features of 3BHK Flats Available for Sale in Sector 63 Gurugram",
@@ -19,12 +28,30 @@
       "Beyond the individual unit specifications these developments provide comprehensive lifestyle features including advanced security systems power backup and dedicated multi-level parking. We detail how various factors like floor plans premium fittings and exclusive community amenities combine to create an unbeatable residential experience in Sector 63 making your investment in a 3BHK flat truly worthwhile and future-proofed."
     ],
     "features": [
-      { "title": "4 Marla Plot", "description": "These 3BHK units feature spacious master bedrooms designed for comfort and tranquility including attached luxury washrooms fitted with high-quality sanitaryware and contemporary fittings. The thoughtful design ensures a private retreat after a long day perfect for modern family living." },
-      { "title": "6 Marla Plot", "description": "Benefit from optimized floor plans ensuring maximum utilization of every square foot. The orientation of these 3BHK flats is meticulously planned to capture ample natural light throughout the day and facilitate cross-ventilation promoting a healthier living environment in Sector 63." },
-      { "title": "8 Marla Plot", "description": "Many premium 3BHK flat for sale in Sector 63 Gurugram listings include dedicated servant quarters or utility rooms separate from the main living area. This essential feature offers added convenience and privacy allowing for efficient household management." },
-      { "title": "10 Marla Plot", "description": "Enjoy the spectacular views Gurugram has to offer from your expansive balconies. These outdoor spaces are large enough for patio furniture and entertaining guests adding significant recreational value to your luxurious 3BHK apartment." },
-      { "title": "12 Marla Plot", "description": "Every modern 3BHK flat is equipped with high-end modular kitchens featuring integrated appliances premium finishes and smart storage solutions. These kitchens are built for functionality and aesthetic appeal making cooking a pleasurable experience." },
-      { "title": "14 Marla Plot", "description": "Residents gain exclusive access to world-class community amenities including state-of-the-art clubhouses swimming pools fitness centers and dedicated sports facilities enhancing the overall quality of life within these Sector 63 societies." }
+      {
+        "title": "4 Marla Plot",
+        "description": "These 3BHK units feature spacious master bedrooms designed for comfort and tranquility including attached luxury washrooms fitted with high-quality sanitaryware and contemporary fittings. The thoughtful design ensures a private retreat after a long day perfect for modern family living."
+      },
+      {
+        "title": "6 Marla Plot",
+        "description": "Benefit from optimized floor plans ensuring maximum utilization of every square foot. The orientation of these 3BHK flats is meticulously planned to capture ample natural light throughout the day and facilitate cross-ventilation promoting a healthier living environment in Sector 63."
+      },
+      {
+        "title": "8 Marla Plot",
+        "description": "Many premium 3BHK flat for sale in Sector 63 Gurugram listings include dedicated servant quarters or utility rooms separate from the main living area. This essential feature offers added convenience and privacy allowing for efficient household management."
+      },
+      {
+        "title": "10 Marla Plot",
+        "description": "Enjoy the spectacular views Gurugram has to offer from your expansive balconies. These outdoor spaces are large enough for patio furniture and entertaining guests adding significant recreational value to your luxurious 3BHK apartment."
+      },
+      {
+        "title": "12 Marla Plot",
+        "description": "Every modern 3BHK flat is equipped with high-end modular kitchens featuring integrated appliances premium finishes and smart storage solutions. These kitchens are built for functionality and aesthetic appeal making cooking a pleasurable experience."
+      },
+      {
+        "title": "14 Marla Plot",
+        "description": "Residents gain exclusive access to world-class community amenities including state-of-the-art clubhouses swimming pools fitness centers and dedicated sports facilities enhancing the overall quality of life within these Sector 63 societies."
+      }
     ]
   },
   "locationsSection": {
@@ -33,7 +60,58 @@
       "Sector 63 is strategically positioned along the Gold Course Extension Road making it one of Gurugram's most sought-after residential hubs. This exceptional location ensures swift access to major commercial centers and important educational and healthcare institutions. The seamless road network connects residents directly to NH-48 the Southern Peripheral Road SPR and key business parks like Vatika Business Park and Emaar Business District.",
       "The operational Rapid Metro connectivity near Sector 55/56 enhances daily commuting significantly reducing travel time to Delhi and other parts of Gurugram. When you buy a 3BHK flat for sale in Sector 63 you are investing in a locale defined by superb infrastructure upcoming retail destinations and proximity to world-class golf courses. This area promises high rental yield potential and substantial capital appreciation over the next five years."
     ],
-    "locations": ["Golf Course Extension Road", "Southern Peripheral Road (SPR)", "Rapid Metro Sector 55/56", "Indira Gandhi International Airport (IGI)", "Cyber City Gurugram", "NH-48 Connectivity", "W Pratiksha Hospital", "M3M International School"]
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Why Choosing a 3BHK Flat for Sale in Sector 63 Gurugram is Your Best Decision",
@@ -42,30 +120,84 @@
       "Our curated listings focus only on RERA-approved properties ensuring transparency and safety in your investment. We provide expert advisory services guiding you through legal formalities pricing trends and negotiating the best terms for your 3BHK flat purchase. We are committed to making your home-buying journey in Sector 63 Gurugram seamless rewarding and financially sound."
     ],
     "points": [
-      { "title": "Unmatched Location Advantage on Golf Course Extension Road", "description": "Living on the GCE Road places you at the intersection of business and leisure. This prime positioning minimizes commute times to major offices retail centers and entertainment venues providing maximum convenience for the occupants of your new 3BHK flat in Sector 63." },
-      { "title": "Superior Infrastructure and Seamless Road Connectivity to Key Hubs", "description": "The locality boasts wide sector roads and excellent connectivity via the SPR and NH-48 ensuring quick access to Manesar Delhi and Faridabad. This robust infrastructure supports high-volume traffic and future urban growth making travel effortless for Sector 63 residents." },
-      { "title": "High Rental Yield and Strong Capital Appreciation Potential", "description": "Due to its proximity to corporate hubs and premium residential status 3BHK flats in Sector 63 Gurugram command high rental yields and strong property value growth making it an exceptional investment opportunity for long-term financial stability." },
-      { "title": "Access to World-Class Educational Institutions and Healthcare Facilities", "description": "The area is surrounded by prestigious schools like Scottish High Pathways and renowned hospitals such as Medanta and Artemis ensuring comprehensive quality education and top-tier medical care are just minutes away from your home." },
-      { "title": "Security and Safety Features Within Gated Communities", "description": "All prominent residential projects offering a 3BHK flat for sale in Sector 63 feature multi-tiered security systems including 24x7 surveillance CCTV monitoring and controlled entry and exit points prioritizing the safety of your family." },
-      { "title": "Premium Amenities Including Clubhouses Sports and Wellness Centers", "description": "Societies provide luxurious lifestyle amenities such as large swimming pools state-of-the-art gyms indoor sports courts and jogging tracks ensuring residents have ample opportunities for recreation and fitness within the complex." },
-      { "title": "RERA Registered Projects Ensuring Transparency and Investor Confidence", "description": "We only list properties that are RERA compliant offering you peace of mind regarding project timelines legal clearances and construction quality. This transparency is crucial when finalizing your purchase of a 3BHK flat in Sector 63 Gurugram." },
-      { "title": "Designed for Modern Families Requiring Space and Privacy", "description": "The 3BHK configurations are meticulously designed to offer generous living spaces dedicated study or work-from-home areas and balconies that provide necessary privacy essential for contemporary family dynamics and comfort." }
+      {
+        "title": "Unmatched Location Advantage on Golf Course Extension Road",
+        "description": "Living on the GCE Road places you at the intersection of business and leisure. This prime positioning minimizes commute times to major offices retail centers and entertainment venues providing maximum convenience for the occupants of your new 3BHK flat in Sector 63."
+      },
+      {
+        "title": "Superior Infrastructure and Seamless Road Connectivity to Key Hubs",
+        "description": "The locality boasts wide sector roads and excellent connectivity via the SPR and NH-48 ensuring quick access to Manesar Delhi and Faridabad. This robust infrastructure supports high-volume traffic and future urban growth making travel effortless for Sector 63 residents."
+      },
+      {
+        "title": "High Rental Yield and Strong Capital Appreciation Potential",
+        "description": "Due to its proximity to corporate hubs and premium residential status 3BHK flats in Sector 63 Gurugram command high rental yields and strong property value growth making it an exceptional investment opportunity for long-term financial stability."
+      },
+      {
+        "title": "Access to World-Class Educational Institutions and Healthcare Facilities",
+        "description": "The area is surrounded by prestigious schools like Scottish High Pathways and renowned hospitals such as Medanta and Artemis ensuring comprehensive quality education and top-tier medical care are just minutes away from your home."
+      },
+      {
+        "title": "Security and Safety Features Within Gated Communities",
+        "description": "All prominent residential projects offering a 3BHK flat for sale in Sector 63 feature multi-tiered security systems including 24x7 surveillance CCTV monitoring and controlled entry and exit points prioritizing the safety of your family."
+      },
+      {
+        "title": "Premium Amenities Including Clubhouses Sports and Wellness Centers",
+        "description": "Societies provide luxurious lifestyle amenities such as large swimming pools state-of-the-art gyms indoor sports courts and jogging tracks ensuring residents have ample opportunities for recreation and fitness within the complex."
+      },
+      {
+        "title": "RERA Registered Projects Ensuring Transparency and Investor Confidence",
+        "description": "We only list properties that are RERA compliant offering you peace of mind regarding project timelines legal clearances and construction quality. This transparency is crucial when finalizing your purchase of a 3BHK flat in Sector 63 Gurugram."
+      },
+      {
+        "title": "Designed for Modern Families Requiring Space and Privacy",
+        "description": "The 3BHK configurations are meticulously designed to offer generous living spaces dedicated study or work-from-home areas and balconies that provide necessary privacy essential for contemporary family dynamics and comfort."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Buying a 3BHK Flat in Sector 63 Gurugram",
     "description": "Finding the perfect 3BHK flat for sale in Sector 63 Gurugram involves understanding various factors including pricing legal approvals and future growth prospects. We address the most common concerns potential buyers have to ensure you make an informed investment decision in this prime Gurugram location.",
     "faqs": [
-      { "question": "What is the average price range for a 3BHK flat in Sector 63 Gurugram", "answer": "The price range for a premium 3BHK flat for sale in Sector 63 varies significantly based on the builder project stage size and specific amenities offered. Generally, luxury 3BHK units in this sector start from approximately ₹2.5 Crores and can go upwards of ₹4.5 Crores for ultra-luxury penthouses or larger configurations. We recommend scheduling a consultation to receive the latest price list and availability from top developers like DLF M3M and Adani." },
-      { "question": "Which builders offer the best 3BHK inventory in Sector 63 and what are their project highlights", "answer": "Sector 63 is home to several prestigious projects by renowned developers. Notable builders include M3M with their sophisticated residential complexes DLF offering high-quality construction and Adani Realty known for modern architectural designs. Their 3BHK inventory often features low-density living extensive green areas and bespoke interior finishes catering to the elite segment of the market." },
-      { "question": "Is Sector 63 well-connected to Delhi and the IGI Airport and what are the commuting options", "answer": "Yes Sector 63 Gurugram offers excellent connectivity. It is easily accessible via the Golf Course Extension Road which connects directly to the Delhi-Gurugram Expressway NH-48. The Indira Gandhi International Airport IGI is approximately a 35 to 45-minute drive depending on traffic. Furthermore the upcoming metro expansion plans and the proximity to the Rapid Metro line enhance public transport options significantly." },
-      { "question": "What social infrastructure like schools hospitals and markets is available near Sector 63", "answer": "The social infrastructure around Sector 63 is robust and fully developed. Top schools like Heritage Xperiential Learning School and St Xaviers High School are nearby. For healthcare major multi-specialty hospitals like Artemis and Medanta are easily reachable. The sector also benefits from large commercial hubs and shopping destinations being developed along the GCE Road ensuring all daily needs and luxury retail are catered to." },
-      { "question": "Are the 3BHK flats in Sector 63 Gurugram generally RERA approved and possession ready", "answer": "The majority of new and ongoing residential projects offering a 3BHK flat for sale in Sector 63 Gurugram are mandatorily RERA registered ensuring compliance and transparency for buyers. There is a good mix of both under-construction projects with future possession dates and luxurious ready-to-move-in options providing immediate occupancy. We verify RERA status for all our listings." },
-      { "question": "What kind of amenities can I expect in a typical luxury 3BHK society in this area", "answer": "Luxury societies in Sector 63 set high standards for amenities. Residents can expect temperature-controlled indoor swimming pools fully equipped fitness centers dedicated yoga and meditation zones squash and badminton courts lavish clubhouses and extensive landscaped gardens. Additionally most complexes provide 100% power backup and 24x7 water supply systems." },
-      { "question": "What are the investment prospects and potential capital appreciation for 3BHK flats here", "answer": "Investment prospects in Sector 63 are extremely strong. Its strategic location near the Gurugram business district high demand for premium housing and limited supply of land ensures steady capital appreciation. Property experts predict annual growth rates well above the Gurugram average making a 3BHK flat purchase here a wise long-term financial decision." },
-      { "question": "How does the maintenance charge structure work for residential societies in Sector 63 Gurugram", "answer": "Maintenance charges typically cover common area upkeep security services electricity backup and club facilities. They are usually calculated based on the Super Area of the 3BHK flat and range between ₹5 to ₹8 per square foot per month. Some builders offer an initial maintenance fee waiver for a specific period after possession." },
-      { "question": "Are there financing options available for purchasing a 3BHK flat in Sector 63", "answer": "Absolutely. Major nationalized and private banks including HDFC Bank SBI ICICI Bank and Axis Bank provide attractive home loan schemes for RERA-approved properties in Sector 63 Gurugram. We can connect you with trusted financial advisors to help you secure the best interest rates and loan amounts tailored to your purchase of a 3BHK flat." },
-      { "question": "What is the typical size configuration or super area for a standard 3BHK apartment in Sector 63", "answer": "The standard Super Area for a 3BHK flat in Sector 63 Gurugram starts typically from 1800 sq ft and can extend up to 3500 sq ft for larger layouts and those including servant quarters and larger balconies. The size directly impacts the price and maintenance charges so it is important to confirm the exact carpet area versus super area during negotiations." }
+      {
+        "question": "What is the average price range for a 3BHK flat in Sector 63 Gurugram",
+        "answer": "The price range for a premium 3BHK flat for sale in Sector 63 varies significantly based on the builder project stage size and specific amenities offered. Generally, luxury 3BHK units in this sector start from approximately ₹2.5 Crores and can go upwards of ₹4.5 Crores for ultra-luxury penthouses or larger configurations. We recommend scheduling a consultation to receive the latest price list and availability from top developers like DLF M3M and Adani."
+      },
+      {
+        "question": "Which builders offer the best 3BHK inventory in Sector 63 and what are their project highlights",
+        "answer": "Sector 63 is home to several prestigious projects by renowned developers. Notable builders include M3M with their sophisticated residential complexes DLF offering high-quality construction and Adani Realty known for modern architectural designs. Their 3BHK inventory often features low-density living extensive green areas and bespoke interior finishes catering to the elite segment of the market."
+      },
+      {
+        "question": "Is Sector 63 well-connected to Delhi and the IGI Airport and what are the commuting options",
+        "answer": "Yes Sector 63 Gurugram offers excellent connectivity. It is easily accessible via the Golf Course Extension Road which connects directly to the Delhi-Gurugram Expressway NH-48. The Indira Gandhi International Airport IGI is approximately a 35 to 45-minute drive depending on traffic. Furthermore the upcoming metro expansion plans and the proximity to the Rapid Metro line enhance public transport options significantly."
+      },
+      {
+        "question": "What social infrastructure like schools hospitals and markets is available near Sector 63",
+        "answer": "The social infrastructure around Sector 63 is robust and fully developed. Top schools like Heritage Xperiential Learning School and St Xaviers High School are nearby. For healthcare major multi-specialty hospitals like Artemis and Medanta are easily reachable. The sector also benefits from large commercial hubs and shopping destinations being developed along the GCE Road ensuring all daily needs and luxury retail are catered to."
+      },
+      {
+        "question": "Are the 3BHK flats in Sector 63 Gurugram generally RERA approved and possession ready",
+        "answer": "The majority of new and ongoing residential projects offering a 3BHK flat for sale in Sector 63 Gurugram are mandatorily RERA registered ensuring compliance and transparency for buyers. There is a good mix of both under-construction projects with future possession dates and luxurious ready-to-move-in options providing immediate occupancy. We verify RERA status for all our listings."
+      },
+      {
+        "question": "What kind of amenities can I expect in a typical luxury 3BHK society in this area",
+        "answer": "Luxury societies in Sector 63 set high standards for amenities. Residents can expect temperature-controlled indoor swimming pools fully equipped fitness centers dedicated yoga and meditation zones squash and badminton courts lavish clubhouses and extensive landscaped gardens. Additionally most complexes provide 100% power backup and 24x7 water supply systems."
+      },
+      {
+        "question": "What are the investment prospects and potential capital appreciation for 3BHK flats here",
+        "answer": "Investment prospects in Sector 63 are extremely strong. Its strategic location near the Gurugram business district high demand for premium housing and limited supply of land ensures steady capital appreciation. Property experts predict annual growth rates well above the Gurugram average making a 3BHK flat purchase here a wise long-term financial decision."
+      },
+      {
+        "question": "How does the maintenance charge structure work for residential societies in Sector 63 Gurugram",
+        "answer": "Maintenance charges typically cover common area upkeep security services electricity backup and club facilities. They are usually calculated based on the Super Area of the 3BHK flat and range between ₹5 to ₹8 per square foot per month. Some builders offer an initial maintenance fee waiver for a specific period after possession."
+      },
+      {
+        "question": "Are there financing options available for purchasing a 3BHK flat in Sector 63",
+        "answer": "Absolutely. Major nationalized and private banks including HDFC Bank SBI ICICI Bank and Axis Bank provide attractive home loan schemes for RERA-approved properties in Sector 63 Gurugram. We can connect you with trusted financial advisors to help you secure the best interest rates and loan amounts tailored to your purchase of a 3BHK flat."
+      },
+      {
+        "question": "What is the typical size configuration or super area for a standard 3BHK apartment in Sector 63",
+        "answer": "The standard Super Area for a 3BHK flat in Sector 63 Gurugram starts typically from 1800 sq ft and can extend up to 3500 sq ft for larger layouts and those including servant quarters and larger balconies. The size directly impacts the price and maintenance charges so it is important to confirm the exact carpet area versus super area during negotiations."
+      }
     ]
   },
   "contactSection": {
@@ -74,6 +206,11 @@
       "Ready to explore the finest selection of 3BHK flats for sale in Sector 63 Gurugram We offer personalized site visits detailed floor plans and transparent pricing information for all premium projects in the vicinity. Our dedicated team of real estate professionals is here to assist you from initial inquiry to final possession ensuring a smooth transaction.",
       "Fill out the quick form below to receive a customized property portfolio matching your specific requirements budget and preferred amenities. Start your journey towards owning a luxurious home in one of Gurugram's most coveted residential sectors now."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,10 +7,19 @@
       "Our extensive portfolio includes verified residential plots, meticulously maintained independent houses, and modern builder floors catering to diverse investment scales. Trust our local knowledge to secure the best deal possible. Stop searching endlessly and partner with the leading Property Dealer in Sector 7 Ambala who guarantees legal clarity, transparent transactions, and committed support from the initial consultation until the keys are handed over."
     ],
     "buttons": [
-      { "label": "View Verified Plots", "path": "/plots" },
-      { "label": "Consult Our Experts Today", "path": "/contact" }
+      {
+        "label": "View Verified Plots",
+        "path": "/plots"
+      },
+      {
+        "label": "Consult Our Experts Today",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/sector7-hero1.jpg", "/images/sector7-map.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Verified Residential Plot Sizes Available Through Our Property Dealer Network in Sector 7 Ambala",
@@ -52,12 +61,56 @@
       "As a full-service Property Dealer, we provide up-to-date market intelligence on surrounding localities ensuring you make an informed decision regardless of where you choose to invest within the greater Ambala region."
     ],
     "locations": [
-      "Sector 8 Ambala Cantt",
-      "Sector 9 HUDA Ambala",
-      "Sector 10 Ambala Residential Plots",
-      "Model Town Ambala City",
-      "Baldev Nagar Properties",
-      "Preet Nagar Investment Options"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to invest in Sector 7 or need an expert valuation for your existing property Get in touch with our specialist team now. We provide confidential consultations and market guidance tailored precisely to your specific requirements.",
       "Fill out the form below to initiate your successful real estate journey in Sector 7 Ambala. We look forward to helping you achieve your property goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,10 +7,19 @@
       "Whether you are expanding an existing business or starting a new entrepreneurial journey, Ambala Cantt guarantees high footfall, superior logistics access, and strong long-term rental yields. Our platform simplifies the search for lucrative commercial real estate in Ambala Cantt. We focus on properties with clear titles, strategic location advantages, and competitive pricing, ensuring your investment is secure and positioned for maximum growth. Explore our portfolio of premium commercial properties and take the next step toward securing your financial future in one of North India’s most important transit and trading hubs."
     ],
     "buttons": [
-      { "label": "View Latest Commercial Listings", "path": "/commercial-listings" },
-      { "label": "Request Free Investment Consultation", "path": "/contact" }
+      {
+        "label": "View Latest Commercial Listings",
+        "path": "/commercial-listings"
+      },
+      {
+        "label": "Request Free Investment Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero-commercial-ambala-cantt.jpg", "/images/map-ambala-cantt-commercial.png"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Commercial Property For Sale in Ambala Cantt Investment Opportunities",
@@ -52,14 +61,56 @@
       "Our analysis highlights areas exhibiting strong commercial growth, superior infrastructure support, and clear potential for rental appreciation. Focus on locations that align with the specific needs of your target tenants for optimal performance."
     ],
     "locations": [
-      "Sadar Bazaar Main Market Ambala Cantt",
-      "Near Ambala Cantt Railway Station Road",
-      "NH 44 Highway Frontage",
-      "Ambala-Jagadhri Highway Stretch",
-      "Adjoining Commercial Pockets of Sector 34",
-      "Commercial Areas Near Civil Hospital Ambala",
-      "Mansa Devi Complex Area",
-      "Areas Connecting to Chandigarh Expressway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to explore the best Commercial Property For Sale in Ambala Cantt that meets your investment criteria and growth goals. Our local experts are prepared to provide personalized market insights, verified listings, and complete legal support.",
       "Contact us today to schedule a site visit or receive a curated portfolio of prime commercial assets tailored to your capital and operational needs."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

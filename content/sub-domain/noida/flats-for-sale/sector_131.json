@@ -7,10 +7,19 @@
       "Investing in a Flat For Sale in Sector 131 means securing a future in a high-growth corridor directly connected to the Noida Expressway and key business districts. These properties boast world-class amenities secure environments and proximity to top schools hospitals and shopping centers. Start your search today and find a home that perfectly aligns with your lifestyle ambitions and financial goals in one of Noida’s most sought-after sectors."
     ],
     "buttons": [
-      { "label": "View Luxury Listings", "path": "/luxury-flats" },
-      { "label": "Download Price List", "path": "/contact" }
+      {
+        "label": "View Luxury Listings",
+        "path": "/luxury-flats"
+      },
+      {
+        "label": "Download Price List",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero-flat1.jpg", "hero-flat2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Diverse Flat Configurations and Lifestyle Options in Sector 131 Noida",
@@ -52,16 +61,56 @@
       "The areas surrounding Sector 131 are highly developed ensuring that residents benefit from a mature social infrastructure including reputed educational institutions world-class healthcare and bustling retail centers. This interconnected ecosystem makes owning a flat here a highly desirable and strategic move."
     ],
     "locations": [
-      "Sector 132 Noida",
-      "Sector 135 Noida",
-      "Sector 137 Noida",
-      "Noida Expressway",
-      "Jaypee Wish Town",
-      "Sector 94 Commercial Hub",
-      "Okhla Bird Sanctuary",
-      "Sector 142 Metro Station",
-      "Gautam Buddha University",
-      "Dadri Road Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -157,6 +206,11 @@
       "Ready to take the next step towards owning your ideal home in Sector 131 Noida Contact our expert real estate consultants today. We provide personalized guidance current price lists and detailed project reports to help you finalize the perfect investment.",
       "Fill out the form below and a representative will reach out shortly to discuss available properties floor plans and schedule a convenient site visit to the best flats for sale in Sector 131."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

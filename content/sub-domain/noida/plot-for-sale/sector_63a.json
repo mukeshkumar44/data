@@ -16,7 +16,10 @@
         "path": "/investment-guide"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Find the Perfect Size Residential or Commercial Plot in Sector 63A Noida",
@@ -58,12 +61,56 @@
       "The sector is seamlessly connected to major metro lines, including the convenient Blue Line extension, significantly boosting accessibility for professionals. Furthermore, its location near established IT/ITES hubs and world-class educational centres makes any Plot For Sale in Sector 63A a future-proof investment ready for substantial capital appreciation. We highlight key connectivity points that make this area indispensable for high returns."
     ],
     "locations": [
-      "Proximity to Noida Expressway",
-      "Direct Metro Connectivity Sector 62",
-      "Near Fortis Hospital Noida",
-      "Adjacent to Sector 62 Commercial Hub",
-      "Easy Access to Delhi Via NH-24",
-      "Surrounded by Top Educational Institutes"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

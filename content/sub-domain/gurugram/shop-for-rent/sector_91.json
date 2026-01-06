@@ -7,10 +7,19 @@
       "The infrastructure and careful planning of Sector 91 support robust commercial growth making it an excellent long-term location for any retail or service-based enterprise. We provide detailed listings professional consultation and seamless transaction processes helping you navigate the complexities of commercial leases easily. Explore ground floor shops high visibility corner units and spaces ideally suited for popular food and beverage outlets in the booming market of Gurugram. Let us help you find the optimal location that maximizes your brand visibility operational efficiency and profit margins in this dynamic part of the city."
     ],
     "buttons": [
-      { "label": "View Premium Shop Listings", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View Premium Shop Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Rental Options Providing Perfect Business Foundations in Sector 91",
@@ -52,14 +61,56 @@
       "Investing in a commercial rental here means tapping directly into a rapidly growing affluent customer base minimizing the lead time required to establish profitability. We map out the best zones for services F&B and traditional retail ensuring your business location perfectly aligns with demographic demand."
     ],
     "locations": [
-      "Sector 91 Main Commercial Market Area",
-      "Retail Hub Near Amritpuri Residential Complex",
-      "Shops Adjacent to BPTP Next Door",
-      "High Visibility Units near Sector 91 Entry Point",
-      "Commercial Pockets near Primary School Zone",
-      "Retail Centers Serving Omaxe New Heights Residents",
-      "Shops along the Sector 91 Major Arterial Road",
-      "Service Lane Commercial Spaces"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to find the ideal commercial shop for your thriving business in Sector 91",
       "Reach out to our specialized team now for personalized assistance exclusive listings and expert market insights on securing the perfect rental space in this key location."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

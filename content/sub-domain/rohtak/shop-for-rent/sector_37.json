@@ -7,12 +7,18 @@
       "We provide curated listings of verified commercial properties ensuring you find a space that aligns perfectly with your brand requirements and budget constraints. Stop wasting time sifting through irrelevant listings. Our expert knowledge of the Sector 37 rental market means faster successful transactions and a strong foundation for your business growth. Start your search for the ideal shop today and capitalize on Rohtak's thriving economy."
     ],
     "buttons": [
-      { "label": "View Latest Shop Listings", "path": "/listings" },
-      { "label": "Contact Commercial Experts", "path": "/contact" }
+      {
+        "label": "View Latest Shop Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Contact Commercial Experts",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "shop-front-sector-37.jpg",
-      "commercial-rohtak-exterior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Beyond Sector 37 we also cover immediately adjacent commercial corridors and developing market areas ensuring you have a comprehensive view of all viable rental options in Rohtak. Our location mapping services allow you to analyze proximity to major residential blocks transport links and existing competition making your decision to rent a shop smart and data-driven."
     ],
     "locations": [
-      "Main Sector 37 Market Road",
-      "Commercial Plots near NH9",
-      "Sector 37 Residential Block A",
-      "Retail Outlets near HUDA City Park Rohtak",
-      "Adjoining Commercial Areas near Sector 36",
-      "Service Lane Commercial Units",
-      "Office Spaces near Industrial Area",
-      "Shops for Rent near Major Residential Towers"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

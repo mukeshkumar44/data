@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Benefits of Investing in a Spacious 3BHK Flat in Premium Sector 11 Gurugram",
@@ -58,12 +61,56 @@
       "Furthermore the sector is well-connected to Delhi via NH 48 making cross-city commutes manageable. Families appreciate the proximity to sectors known for premium educational institutions and world-class healthcare facilities such as Medanta The Medicity and Fortis Memorial Research Institute. When you choose a 3BHK flat in Sector 11 you are choosing a location that puts the entire spectrum of urban convenience right at your doorstep minimizing transit time and maximizing living time."
     ],
     "locations": [
-      "Sector 10",
-      "Palam Vihar",
-      "Basai Road",
-      "DLF Cyber City",
-      "Udyog Vihar Phase IV",
-      "NH 48"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

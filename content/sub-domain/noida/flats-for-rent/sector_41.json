@@ -7,10 +7,19 @@
       "We offer verified listings ranging from compact studio apartments perfect for professionals to large 3 BHK and 4 BHK homes ideal for growing families. Every Flat For Rent in Sector 41 listed on our platform ensures quality, proximity to essential services, and transparent rental agreements. Start your search now and secure a home that fits your lifestyle and budget in this prime area of Noida."
     ],
     "buttons": [
-      { "label": "View Available Flats", "path": "/listings" },
-      { "label": "Contact Rental Experts", "path": "/contact" }
+      {
+        "label": "View Available Flats",
+        "path": "/listings"
+      },
+      {
+        "label": "Contact Rental Experts",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore the Best Configurations and Sizes for a Flat For Rent in Sector 41 Noida",
@@ -52,12 +61,56 @@
       "The sector enjoys proximity to major arterial roads like the Noida-Greater Noida Expressway, ensuring swift travel to Delhi, Greater Noida, and Ghaziabad. Furthermore, connectivity via the Delhi Metro is excellent, with multiple stations nearby. This unbeatable location ensures that your daily commute is minimized, maximizing your leisure time when you choose a rental flat here."
     ],
     "locations": [
-      "Proximity to Noida City Centre Metro Station providing quick transit across the region",
-      "Easy access to Sector 18 GIP Mall and major entertainment zones",
-      "Immediate connection to leading educational institutions and reputed hospitals",
-      "Seamless drive to key IT and business parks located in Sector 62 and Sector 132",
-      "Well-developed internal roads and robust public transport infrastructure",
-      "Located near established local markets and daily needs shops within walking distance"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

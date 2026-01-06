@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse House Rental Options in Prem Nagar Ambala Catering to Every Family Size",
@@ -58,13 +61,56 @@
       "We select listings that maximize convenience. Finding a House For Rent in Prem Nagar that offers quick access to the main highways or the railway station means less time commuting and more time enjoying your new home. Explore the key areas near Prem Nagar that add undeniable value to your chosen residential rental property."
     ],
     "locations": [
-      "Ambala Cantt Railway Station Proximity",
-      "Easy Access to Ambala City Markets",
-      "Near Mahesh Nagar Residential Area",
-      "Close to Major Ambala Schools",
-      "Accessibility to National Highway 44",
-      "Proximity to Local Healthcare Centers",
-      "Well-Connected to Public Transport Routes"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -167,7 +213,4 @@
       "message"
     ]
   }
-}
-"
-}
 }

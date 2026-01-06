@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Find the Ideal Size Residential Plot for Your Custom Home Build in Karan Vihar",
@@ -58,12 +61,56 @@
       "Understanding the comparative advantages of each location helps buyers assess future growth potential access to amenities and overall livability scores. We maintain a comprehensive database of plots for sale across all these key Karnal areas. Our expertise extends beyond Karan Vihar providing you with a holistic view of the market dynamics. Whether your priority is proximity to schools markets or the national highway we help pinpoint the perfect land parcel. Investing in land in Karnal requires careful consideration of governmental development plans and infrastructural upgrades ensuring your asset appreciates reliably."
     ],
     "locations": [
-      "Sector 6 Karnal",
-      "Sector 7 Karnal",
-      "Shiv Colony",
-      "Urban Estate Phase 2",
-      "Model Town Karnal",
-      "Jindal Nagar"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

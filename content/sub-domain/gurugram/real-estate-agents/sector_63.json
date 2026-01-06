@@ -7,10 +7,19 @@
       "We connect you instantly with the most experienced and reliable property professionals specializing exclusively in Sector 63. Whether you are looking to purchase a high-end apartment sell an existing builder floor or invest in commercial space our network of top-tier agents provides personalized advice detailed market analysis and end-to-end transaction support ensuring you achieve the best possible outcome quickly and efficiently Trust us to simplify your real estate goals in Sector 63 Gurugram"
     ],
     "buttons": [
-      { "label": "Find Your Expert Agent Now", "path": "/contact" },
-      { "label": "Explore Listings in Sector 63", "path": "/listings" }
+      {
+        "label": "Find Your Expert Agent Now",
+        "path": "/contact"
+      },
+      {
+        "label": "Explore Listings in Sector 63",
+        "path": "/listings"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Leading Property Options Managed by Expert Real Estate Agents in Sector 63 Gurugram",
@@ -52,14 +61,56 @@
       "Whether you are transitioning from a nearby sector or seeking diversified investments our recommended Real Estate Agents in Sector 63 possess the network and insights to deliver results across the entire Golf Course Extension region guaranteeing comprehensive coverage and optimal property matches for every client profile"
     ],
     "locations": [
-      "Sector 62 Gurugram",
-      "Sector 65 Gurugram",
-      "Sector 60 Gurugram",
-      "Sector 57 Gurugram",
-      "Golf Course Extension Road",
-      "AIPL Joy Street Area",
-      "Sohna Road Accessibility",
-      "M3M Urbana Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step in your property investment journey in Sector 63 Gurugram. Fill out the form below detailing your specific requirements whether you are buying selling or looking for leasing services.",
       "Our dedicated team will ensure you are promptly connected with a verified local expert Real Estate Agent in Sector 63 who matches your needs and is ready to deliver exceptional service and market expertise."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

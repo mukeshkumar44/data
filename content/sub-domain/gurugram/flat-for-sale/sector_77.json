@@ -7,12 +7,18 @@
       "Explore contemporary 2 BHK and 3 BHK options designed for discerning homeowners. We provide verified listings and transparent dealings, ensuring your journey to homeownership is seamless and rewarding. Start your search for the perfect apartment in Sector 77 today and experience elevated city life where quality construction meets thoughtful design principles."
     ],
     "buttons": [
-      { "label": "Explore Verified Listings", "path": "/listings" },
-      { "label": "Request Pricing Guide", "path": "/contact" }
+      {
+        "label": "Explore Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Guide",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "flat_sector77_hero1.jpg",
-      "flat_sector77_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "Furthermore, the area is planned to integrate seamlessly with the upcoming infrastructure projects, promising excellent appreciation potential. Key social infrastructure like world-class schools, multispecialty hospitals, and bustling retail centers are just minutes away. This strategic positioning makes Sector 77 a preferred choice for professionals who value both accessibility and a quiet retreat from the city hustle. We list properties that maximize these locational benefits, ensuring you invest in convenience, growth, and long-term capital stability."
     ],
     "locations": [
-      "Sector 75 Gurugram",
-      "Sector 76 Residential Hub",
-      "Neharpar Extension",
-      "Delhi-Mumbai Expressway Access",
-      "Proximity to Bypass Road",
-      "Khedi Road Junction"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,10 +7,19 @@
       "This locality provides seamless access to major commercial hubs, renowned educational institutions, and state-of-the-art healthcare facilities, making daily commutes and errands effortless. Investing in a flat here means securing a future in a rapidly appreciating area known for its excellent infrastructure and peaceful environment. Explore our curated listings and discover why owning a home in Vijay Nagar is a smart financial and lifestyle decision. Start your home search now and take the first step toward premium urban living with guaranteed value and security."
     ],
     "buttons": [
-      { "label": "Explore 2 BHK Flats", "path": "/flats/2bhk" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore 2 BHK Flats",
+        "path": "/flats/2bhk"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero-vijay-nagar-flat.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Options for Every Buyer Available Flats For Sale in Vijay Nagar",
@@ -52,13 +61,56 @@
       "These adjacent neighborhoods often share similar connectivity advantages but might offer different price points or specific amenities, such as larger parks or proximity to specialized markets. Consult our detailed maps and comparative analysis to make an informed decision about the best locality for your new flat investment."
     ],
     "locations": [
-      "Shakti Nagar",
-      "Karanpur",
-      "Rishi Nagar",
-      "Model Town",
-      "Civil Lines Extension",
-      "Housing Board Colony",
-      "Bus Stand Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -154,6 +206,11 @@
       "Ready to take the next step toward owning your dream home in this sought-after locality. Our team of expert real estate advisors is here to provide personalized guidance, detailed market insights, and exclusive access to the best properties that meet your specific requirements and investment criteria.",
       "Do not miss out on securing premium residential space in one of the city’s fastest-growing neighborhoods. Fill out the form below or call us directly to schedule a viewing or discuss your financial needs."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

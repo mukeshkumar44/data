@@ -7,10 +7,19 @@
       "Sherpur Village is a growing hub with a thriving local economy, ensuring high footfall and business potential. Whether you’re starting a new venture or expanding your existing business, these shops provide the perfect opportunity to establish your presence in a flourishing community."
     ],
     "buttons": [
-      { "label": "Explore Shops", "path": "/shops" },
-      { "label": "Contact Us", "path": "/contact" }
+      {
+        "label": "Explore Shops",
+        "path": "/shops"
+      },
+      {
+        "label": "Contact Us",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Shop Sizes Available in Sherpur Village",
@@ -19,12 +28,30 @@
       "Each shop is designed with modern amenities and infrastructure, ensuring a seamless experience for both business owners and customers."
     ],
     "features": [
-      { "title": "4 Marla Shop", "description": "Ideal for small businesses or boutiques, this compact shop offers affordability and convenience in a prime location." },
-      { "title": "6 Marla Shop", "description": "Perfect for retail stores or small offices, this shop provides ample space and excellent visibility." },
-      { "title": "8 Marla Shop", "description": "A versatile option for medium-sized businesses, offering spacious interiors and high footfall potential." },
-      { "title": "10 Marla Shop", "description": "Designed for larger retail or service-based ventures, this shop ensures maximum space and accessibility." },
-      { "title": "12 Marla Shop", "description": "An excellent choice for supermarkets or showrooms, providing expansive space and modern amenities." },
-      { "title": "14 Marla Shop", "description": "The ultimate commercial space for large-scale businesses, offering unmatched visibility and convenience." }
+      {
+        "title": "4 Marla Shop",
+        "description": "Ideal for small businesses or boutiques, this compact shop offers affordability and convenience in a prime location."
+      },
+      {
+        "title": "6 Marla Shop",
+        "description": "Perfect for retail stores or small offices, this shop provides ample space and excellent visibility."
+      },
+      {
+        "title": "8 Marla Shop",
+        "description": "A versatile option for medium-sized businesses, offering spacious interiors and high footfall potential."
+      },
+      {
+        "title": "10 Marla Shop",
+        "description": "Designed for larger retail or service-based ventures, this shop ensures maximum space and accessibility."
+      },
+      {
+        "title": "12 Marla Shop",
+        "description": "An excellent choice for supermarkets or showrooms, providing expansive space and modern amenities."
+      },
+      {
+        "title": "14 Marla Shop",
+        "description": "The ultimate commercial space for large-scale businesses, offering unmatched visibility and convenience."
+      }
     ]
   },
   "locationsSection": {
@@ -34,14 +61,56 @@
       "These areas offer excellent connectivity and accessibility, ensuring your business attracts a wide customer base."
     ],
     "locations": [
-      "Ambala Cantt",
-      "Sector 7 Ambala",
-      "Sector 8 Ambala",
-      "Sector 9 Ambala",
-      "Ambala City",
-      "Naraingarh",
-      "Barara",
-      "Jagadhri"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -51,30 +120,84 @@
       "Here are some compelling reasons why Sherpur Village is the perfect place for your commercial venture."
     ],
     "points": [
-      { "title": "Prime Location", "description": "Sherpur Village is centrally located with easy access to major roads and highways, ensuring high visibility and footfall for your business." },
-      { "title": "Growing Economy", "description": "The area is experiencing rapid economic growth, making it an ideal place to establish or expand your business." },
-      { "title": "Flexible Sizes", "description": "With shops available in various sizes, you can choose the perfect space to meet your business needs." },
-      { "title": "Modern Infrastructure", "description": "Our shops are equipped with modern amenities and infrastructure, ensuring a seamless experience for both owners and customers." },
-      { "title": "Competitive Pricing", "description": "We offer competitive pricing for our shops, making them an affordable investment for entrepreneurs." },
-      { "title": "High Footfall", "description": "Sherpur Village attracts a large number of visitors daily, ensuring a steady flow of potential customers." },
-      { "title": "Safe Environment", "description": "The area is known for its safety and security, providing peace of mind for business owners." },
-      { "title": "Excellent Connectivity", "description": "With excellent connectivity to nearby cities and towns, Sherpur Village ensures your business reaches a wider audience." }
+      {
+        "title": "Prime Location",
+        "description": "Sherpur Village is centrally located with easy access to major roads and highways, ensuring high visibility and footfall for your business."
+      },
+      {
+        "title": "Growing Economy",
+        "description": "The area is experiencing rapid economic growth, making it an ideal place to establish or expand your business."
+      },
+      {
+        "title": "Flexible Sizes",
+        "description": "With shops available in various sizes, you can choose the perfect space to meet your business needs."
+      },
+      {
+        "title": "Modern Infrastructure",
+        "description": "Our shops are equipped with modern amenities and infrastructure, ensuring a seamless experience for both owners and customers."
+      },
+      {
+        "title": "Competitive Pricing",
+        "description": "We offer competitive pricing for our shops, making them an affordable investment for entrepreneurs."
+      },
+      {
+        "title": "High Footfall",
+        "description": "Sherpur Village attracts a large number of visitors daily, ensuring a steady flow of potential customers."
+      },
+      {
+        "title": "Safe Environment",
+        "description": "The area is known for its safety and security, providing peace of mind for business owners."
+      },
+      {
+        "title": "Excellent Connectivity",
+        "description": "With excellent connectivity to nearby cities and towns, Sherpur Village ensures your business reaches a wider audience."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shops in Sherpur Village",
     "description": "Explore answers to common questions about purchasing shops in Sherpur Village. We’re here to help you make an informed decision.",
     "faqs": [
-      { "question": "What sizes are available for shops in Sherpur Village", "answer": "We offer shops in various sizes, ranging from 4 Marla to 14 Marla, to cater to different business needs." },
-      { "question": "What is the pricing for shops in Sherpur Village", "answer": "Pricing varies based on the size and location of the shop. Contact us for detailed pricing information." },
-      { "question": "Are shops in Sherpur Village suitable for retail businesses", "answer": "Yes, our shops are ideal for retail businesses due to their prime location and high footfall." },
-      { "question": "What amenities are included with the shops", "answer": "Our shops come with modern amenities such as electricity, water supply, and parking facilities." },
-      { "question": "Is Sherpur Village a safe area for businesses", "answer": "Yes, Sherpur Village is known for its safety and security, making it a reliable location for businesses." },
-      { "question": "Can I visit the shops before purchasing", "answer": "Absolutely! We encourage you to visit the shops to see their features and location firsthand." },
-      { "question": "What is the payment process for buying a shop", "answer": "We offer flexible payment plans to make the purchasing process convenient for our clients." },
-      { "question": "Is Sherpur Village well-connected to nearby cities", "answer": "Yes, Sherpur Village has excellent connectivity to nearby cities and towns, ensuring easy access for customers." },
-      { "question": "Are there any restrictions on the type of business I can run", "answer": "Our shops are versatile and can accommodate various types of businesses, subject to local regulations." },
-      { "question": "How do I get started with purchasing a shop", "answer": "Simply contact us through our website or visit our office to discuss your requirements and begin the process." }
+      {
+        "question": "What sizes are available for shops in Sherpur Village",
+        "answer": "We offer shops in various sizes, ranging from 4 Marla to 14 Marla, to cater to different business needs."
+      },
+      {
+        "question": "What is the pricing for shops in Sherpur Village",
+        "answer": "Pricing varies based on the size and location of the shop. Contact us for detailed pricing information."
+      },
+      {
+        "question": "Are shops in Sherpur Village suitable for retail businesses",
+        "answer": "Yes, our shops are ideal for retail businesses due to their prime location and high footfall."
+      },
+      {
+        "question": "What amenities are included with the shops",
+        "answer": "Our shops come with modern amenities such as electricity, water supply, and parking facilities."
+      },
+      {
+        "question": "Is Sherpur Village a safe area for businesses",
+        "answer": "Yes, Sherpur Village is known for its safety and security, making it a reliable location for businesses."
+      },
+      {
+        "question": "Can I visit the shops before purchasing",
+        "answer": "Absolutely! We encourage you to visit the shops to see their features and location firsthand."
+      },
+      {
+        "question": "What is the payment process for buying a shop",
+        "answer": "We offer flexible payment plans to make the purchasing process convenient for our clients."
+      },
+      {
+        "question": "Is Sherpur Village well-connected to nearby cities",
+        "answer": "Yes, Sherpur Village has excellent connectivity to nearby cities and towns, ensuring easy access for customers."
+      },
+      {
+        "question": "Are there any restrictions on the type of business I can run",
+        "answer": "Our shops are versatile and can accommodate various types of businesses, subject to local regulations."
+      },
+      {
+        "question": "How do I get started with purchasing a shop",
+        "answer": "Simply contact us through our website or visit our office to discuss your requirements and begin the process."
+      }
     ]
   },
   "contactSection": {
@@ -83,6 +206,11 @@
       "Ready to invest in a shop in Sherpur Village? Our team is here to assist you with all your queries and guide you through the purchasing process.",
       "Fill out the form below, and we’ll get back to you shortly."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

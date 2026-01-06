@@ -7,10 +7,19 @@
       "Investing in a plot here means securing a future in one of Noida's most sought-after addresses. Our expert team ensures complete transparency regarding title deeds, approvals, and legal documentation. Explore various plot sizes, from compact options perfect for builder floors to larger parcels designed for spacious bungalows. Start your journey today toward owning prime residential land in Sector 45 Noida and unlock the potential of bespoke living."
     ],
     "buttons": [
-      { "label": "View Verified Plots Now", "path": "/plots" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "View Verified Plots Now",
+        "path": "/plots"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Ideal Plot Sizes and Investment Options When Buying Land in Sector 45 Noida",
@@ -52,14 +61,56 @@
       "Areas immediately adjacent to Sector 45 often share similar high standards of living and infrastructure, making them viable alternatives or supplementary investment locations. These sectors offer diversified property options and price points while retaining excellent connectivity to the amenities available within Sector 45. Explore neighboring zones known for their structured development and sustained property value."
     ],
     "locations": [
-      "Sector 44 Noida",
-      "Sector 46 Noida",
-      "Sector 47 Noida",
-      "Sector 78 Noida",
-      "Sector 93 Noida",
-      "Gautam Buddha University Area",
-      "Expressway Sectors Access",
-      "Near Botanical Garden Metro Station"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

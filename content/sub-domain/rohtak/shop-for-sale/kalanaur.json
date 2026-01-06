@@ -7,12 +7,18 @@
       "Don't postpone securing your ideal business location in this rapidly developing municipal area near Rohtak. Whether your requirement is a compact retail outlet, a spacious ground-floor showroom, or a stable commercial property for passive investment, we have the perfect shop in Kalanaur tailored precisely to your specific business requirements and budget. Explore the significant competitive edge that comes with owning a strategically located commercial property in a key growth corridor and confidently take the immediate first step towards successfully expanding your business empire today with our expert guidance."
     ],
     "buttons": [
-      { "label": "Explore Premium Shop Listings", "path": "/listings" },
-      { "label": "Consult Commercial Real Estate Expert", "path": "/contact" }
+      {
+        "label": "Explore Premium Shop Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Consult Commercial Real Estate Expert",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "shop_kalanaur_main.jpg",
-      "commercial_area_kalanaur.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "We thoroughly analyze current local demand trends, closely track future crucial infrastructure developments, and assess critical population density metrics to confidently recommend specific micro-locations that robustly guarantee high customer flow and significantly strong capital growth, thereby effectively minimizing investment risk for your essential commercial investment and securing your financial future."
     ],
     "locations": [
-      "Main Market Road Kalanaur Center",
-      "Near Bus Stand Commercial Hub Kalanaur",
-      "Railway Station Road Retail Zones",
-      "Kalanaur-Rohtak Highway Frontage Shops",
-      "Residential Colony Retail Zones",
-      "New Bypass Commercial Developments",
-      "Gohana Road Intersection Market",
-      "Old Grain Market Area Kalanaur"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

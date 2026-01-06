@@ -17,7 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero-sector2-agent.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -60,14 +61,56 @@
       "This broader geographical expertise allows them to provide comparative market analysis helping you decide if the slightly higher price point in a neighboring sector offers superior long-term appreciation or if Sector 2 provides the perfect blend of value and location. They continuously monitor infrastructure developments zoning changes and future growth projects ensuring you are always ahead of the curve. If you are selling your property in Sector 2 this expanded reach ensures maximum buyer visibility across relevant nearby markets."
     ],
     "locations": [
-      "Sector 1",
-      "Palam Vihar Extension",
-      "Sector 3",
-      "Dwarka Expressway Link Roads",
-      "Old Delhi Road Vicinity",
-      "Near By Commercial Hubs",
-      "Sector 23",
-      "Ashok Vihar"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

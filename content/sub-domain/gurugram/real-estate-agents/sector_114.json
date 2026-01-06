@@ -7,10 +7,19 @@
       "Our team provides comprehensive market analysis, access to exclusive off-market listings, and expert negotiation support ensuring you achieve the maximum return on investment. Trust our real estate agents in Sector 114 to manage every detail of your transaction with transparency and professional diligence from initial consultation through final registration. Start your successful property journey here today."
     ],
     "buttons": [
-      { "label": "Explore Premium Listings in Sector 114", "path": "/listings" },
-      { "label": "Connect with an Expert Agent Today", "path": "/contact" }
+      {
+        "label": "Explore Premium Listings in Sector 114",
+        "path": "/listings"
+      },
+      {
+        "label": "Connect with an Expert Agent Today",
+        "path": "/contact"
+      }
     ],
-    "images": ["sector-114-hero.jpg", "agent-consultation.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Wide Range of Residential and Commercial Property Options in Sector 114 Gurugram",
@@ -52,14 +61,56 @@
       "This strategic location, combined with robust planned and ongoing infrastructure development, solidifies Sector 114 as one of the most promising residential and commercial investment zones in the National Capital Region (NCR). Understanding these locational advantages is critical for smart property selection."
     ],
     "locations": [
-      "Dwarka Expressway Connectivity NPR",
-      "Proximity to IGI Airport Delhi",
-      "Proposed Metro Corridor Route",
-      "Connectivity to Central Peripheral Road CPR",
-      "Easy Access to Diplomatic Enclave II",
-      "Nearby Educational Institutions and Hospitals",
-      "Sector 113 and Sector 115 Developments",
-      "Access to Cyber City and Udyog Vihar"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to find your perfect residential or commercial space in Sector 114 Get personalized, data-driven advice from our market experts.",
       "Fill out the form below to schedule a free consultation and gain access to our exclusive property portfolio and localized market reports."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

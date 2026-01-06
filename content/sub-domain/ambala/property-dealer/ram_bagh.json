@@ -7,12 +7,18 @@
       "Ram Bagh offers a fantastic blend of established community living and modern conveniences, making it one of the most sought-after addresses in Ambala. Our extensive portfolio includes verified plots, independent houses, and builder floors that meet strict legal and quality standards. Trust our seasoned professionals to provide precise market valuation, legal due diligence, and tailored advice ensuring your real estate goals are met smoothly and efficiently. Contact us today to start exploring the best property opportunities Ram Bagh Ambala has to offer."
     ],
     "buttons": [
-      { "label": "Explore Verified Plots for Sale", "path": "/plots" },
-      { "label": "Request a Free Property Valuation", "path": "/contact" }
+      {
+        "label": "Explore Verified Plots for Sale",
+        "path": "/plots"
+      },
+      {
+        "label": "Request a Free Property Valuation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "ram-bagh-real-estate-view.jpg",
-      "best-property-dealer-ambala.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,13 +61,56 @@
       "Whether you are targeting proximity to the Ambala Cantonment area, seamless access to the highway, or a quiet residential pocket, we guide your search with updated information on infrastructure projects, school proximity, and future connectivity improvements. Let us help you navigate the specific characteristics of each micro-market to secure a property that truly aligns with your financial and lifestyle objectives."
     ],
     "locations": [
-      "Plots for Sale near Ram Bagh",
-      "Independent Houses in Ram Bagh",
-      "Commercial Shops Ram Bagh Market",
-      "Builder Floors near Ram Bagh Ambala",
-      "Residential Plots Sector 9 Ambala",
-      "Property in Ambala Cantt",
-      "Flats and Apartments Ambala City"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -157,6 +206,11 @@
       "Ready to secure your ideal property in Ram Bagh Ambala or need professional advice on selling your current asset? Our expert team is here to provide personalized consultation and dedicated service.",
       "Fill out the form below to receive a call back within one business hour. Let us put our local knowledge and industry experience to work for you."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

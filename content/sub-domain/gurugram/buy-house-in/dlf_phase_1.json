@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Premium Independent Floors and Ready-to-Move Luxury Homes in DLF Phase 1",
@@ -58,12 +61,56 @@
       "This mature phase is characterized by its organized sectors and proximity to world-class amenities including reputed schools like The Shri Ram School premier hospitals and luxury shopping destinations like DLF City Centre and Mega Mall. Unlike newer developing areas DLF Phase 1 offers immediate access to everything required for an elite urban lifestyle. We understand the micro-locations within the phase and can guide you to properties closest to major parks security checkpoints or the key commercial artery depending on your family needs and investment goals helping you confidently buy house in DLF Phase 1."
     ],
     "locations": [
-      "Sikanderpur Metro Area",
-      "Near Qutub Plaza Market",
-      "A Block Residential Lanes",
-      "E Block Exclusive Homes",
-      "Close to Gurugram-Faridabad Road",
-      "Near The Shri Ram School"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

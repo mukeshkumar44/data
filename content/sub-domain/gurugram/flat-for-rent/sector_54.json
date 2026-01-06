@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Rental Flats and Apartment Options Available in Sector 54 Gurugram",
@@ -58,12 +61,56 @@
       "Localities like Sector 55, Sector 56, and Sector 57 offer diverse housing stock ranging from builder floors to high-rise society apartments, sometimes at varying price points. This neighborhood cluster is highly regarded for its planned development and increasing civic facilities. When searching for a Flat For Rent in sector_54, also consider these nearby zones if your commuting needs extend towards Delhi or key industrial areas in Ballabgarh. Our platform provides integrated listings allowing you to seamlessly compare properties across this entire desirable belt of Gurugram ensuring you make an informed decision based on location advantages and budget constraints."
     ],
     "locations": [
-      "Sector 55 Gurugram",
-      "Sector 56 Gurugram",
-      "Sector 57 Gurugram",
-      "Sainik Colony Gurugram",
-      "Surajkund Gurugram",
-      "Green Field Colony"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

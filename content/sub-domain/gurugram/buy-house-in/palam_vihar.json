@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "palam-vihar-house-exterior.jpg",
-      "palam-vihar-street-view.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Beyond mere connectivity, Palam Vihar is surrounded by essential social infrastructure including some of Gurugram's finest educational institutions healthcare facilities and recreational centers. Living here means having everything you need within a short drive. We provide detailed information on specific sub-sectors and nearby developments ensuring you make an informed decision about the best neighborhood to buy house in Palam Vihar that meets your family’s specific needs."
     ],
     "locations": [
-      "Palam Vihar Extension",
-      "Sector 23 Gurugram",
-      "Columbia Asia Hospital Road",
-      "Dwarka Expressway Access Point",
-      "Sector 1 Gurugram",
-      "Palam Road Connectivity",
-      "Sukhrali Village",
-      "Maruti Kunj Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

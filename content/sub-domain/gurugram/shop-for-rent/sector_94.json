@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero-shop-sector94-1.jpg",
-      "/images/hero-shop-sector94-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Accessibility via the major bypass road and close proximity to key employment hubs mean that your retail or service establishment benefits from both local residential spending and professional commuter traffic. We highlight locations that offer the best blend of affordability and market penetration, ensuring your investment in a rented commercial space yields maximum returns in Sector 94 Gurugram."
     ],
     "locations": [
-      "Sector 95 Residential Hubs",
-      "Near Greater Gurugram Bypass Road",
-      "Adjacent to Proposed Metro Line Extension",
-      "Close Proximity to Developed Sector 93",
-      "Commercial Complexes on Main Sector 94 Road",
-      "Connecting Routes to Sector 88 and 89",
-      "High-Income Residential Catchment Areas",
-      "Central Market Area Sector 94"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

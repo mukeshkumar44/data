@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "flat_modeltown_hero1.jpg",
-      "flat_modeltown_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "The connectivity of Model Town Ambala ensures quick access to both the bustling Ambala City and the crucial Ambala Cantt area, offering the best of both worlds—peaceful residential streets combined with immediate access to commercial hubs. This prime positioning is a key driver for the sustained property value appreciation of every flat for sale in Model Town."
     ],
     "locations": [
-      "Proximity to Ambala Cantt Railway Station",
-      "Easy Access to Ambala City Centre",
-      "Leading Educational Institutes nearby",
-      "Major Private and Government Hospitals",
-      "Shopping Malls and Entertainment Zones",
-      "Direct Road Connectivity to Chandigarh Highway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

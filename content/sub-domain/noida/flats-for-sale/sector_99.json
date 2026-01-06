@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Finding Your Ideal Configuration Flat for Sale in Sector 99 Noida Today",
@@ -58,14 +61,56 @@
       "The connectivity infrastructure is robust offering seamless drives to key parts of Delhi and upcoming developments like the Jewar International Airport. Furthermore residents benefit from proximity to major educational institutions world-class hospitals and sprawling retail destinations. This excellent connectivity guarantees that property values in Sector 99 will continue to appreciate positioning your purchase not just as a home but as a prudent long-term investment. Explore the key areas easily accessible from your new apartment here."
     ],
     "locations": [
-      "Noida Expressway direct access",
-      "Sector 137 Metro Station nearby",
-      "Proximity to Film City Noida",
-      "FNG Expressway connectivity",
-      "Amity University access",
-      "Gautam Buddha University close by",
-      "Jaypee Hospital 15 minutes drive",
-      "Upcoming Jewar International Airport link"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

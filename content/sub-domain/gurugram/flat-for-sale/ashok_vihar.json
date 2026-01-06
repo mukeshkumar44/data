@@ -7,10 +7,19 @@
       "Investing in a flat in Ashok Vihar means securing a future in one of Gurugram's most promising residential hubs. Our listings feature properties that are ready to move in, newly constructed, and under construction, all verified for legal compliance and quality. Start your search now to explore well-designed homes with modern amenities, robust security systems, and close proximity to key facilities like schools, hospitals, and major commercial areas. Let us help you unlock the door to your new life in Ashok Vihar."
     ],
     "buttons": [
-      { "label": "Browse All Flats", "path": "/properties" },
-      { "label": "Get Free Consultation", "path": "/contact" }
+      {
+        "label": "Browse All Flats",
+        "path": "/properties"
+      },
+      {
+        "label": "Get Free Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/ashok_vihar_flat_hero1.jpg", "/images/ashok_vihar_flat_hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Flat Configurations When Searching for Property in Ashok Vihar",
@@ -51,7 +60,58 @@
       "Ashok Vihar stands out as a prime residential area in Gurugram, known for its well-planned layout and strategic connectivity. The locality enjoys easy access to the Delhi-Mathura Road (NH-44), providing swift commutes to Greater Gurugram, Delhi NCR, and various industrial sectors. This seamless transport network enhances both daily life and property valuation.",
       "Furthermore, the area is comprehensively supported by robust social infrastructure. Residents benefit from the proximity to reputed educational institutions like DPS Gurugram and Modern School, leading healthcare facilities, and bustling marketplaces. When searching for a Flat for Sale in Ashok Vihar, you are not just buying a home, you are investing in a lifestyle defined by convenience and growth potential."
     ],
-    "locations": ["Near Sector 31 Market", "Adjacent to Bypass Road", "Proximity to Escorts Mujesar Metro Station", "Easy Access to Industrial Model Township IMT Gurugram", "Close to Major Shopping Malls", "Well Connected to Greater Gurugram", "Within Reach of Reputed Schools and Hospitals", "Near Omaxe World Street Commercial Hub"]
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Why Invest in a Flat for Sale in Ashok Vihar Gurugram Unmatched Quality and Value",
@@ -146,6 +206,11 @@
       "Ready to find the ideal Flat for Sale in Ashok Vihar that matches your lifestyle and investment goals? Our expert team is here to provide personalized property recommendations, conduct virtual or physical site visits, and offer full transaction support.",
       "Reach out to us now for a confidential consultation. Let our deep local market knowledge guide you to a successful and stress-free home buying experience in one of Gurugram’s best residential areas."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

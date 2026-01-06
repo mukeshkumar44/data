@@ -7,10 +7,19 @@
       "Our team possesses an intricate understanding of the Rajendra Park area, including current market trends, property valuation nuances, and legal compliance specific to this locality. Stop navigating complex property deals alone. Partner with us today to leverage our negotiation skills and comprehensive portfolio, ensuring your investment decisions are sound, swift, and highly profitable in the competitive Gurugram market."
     ],
     "buttons": [
-      { "label": "Explore Available Properties", "path": "/properties" },
-      { "label": "Consult Our Property Experts", "path": "/contact" }
+      {
+        "label": "Explore Available Properties",
+        "path": "/properties"
+      },
+      {
+        "label": "Consult Our Property Experts",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Residential Property Options Handled by Expert Rajendra Park Agents",
@@ -52,14 +61,56 @@
       "This localized knowledge base is essential when comparing valuations, assessing infrastructural development, and understanding future growth potential across different micro-markets."
     ],
     "locations": [
-      "Palam Vihar Extension",
-      "Sector 5 Gurugram",
-      "Sheetla Mata Colony",
-      "Jyoti Park",
-      "Sector 4 Gurugram",
-      "New Palam Vihar",
-      "Dharampura",
-      "Khandsa Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

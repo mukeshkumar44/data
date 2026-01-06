@@ -7,10 +7,19 @@
       "We specialize in connecting discerning buyers with verified properties including spacious 2 BHK, luxurious 3 BHK, and customized builder floors. Investing in Sector 7 Karnal not only guarantees a high quality of life but also ensures significant property appreciation due to its strategic location and continuous development. Explore our exclusive listings and take the first step toward owning your ideal home in this prestigious Karnal sector."
     ],
     "buttons": [
-      { "label": "View All Available Flats", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View All Available Flats",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero-flat-sector7.jpg", "/images/hero-flat-interiors.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Luxurious and Affordable Flats for Sale in Sector 7 Karnal Configuration Options",
@@ -52,14 +61,56 @@
       "This well-planned connectivity ensures that Sector 7 remains a highly liquid and desirable residential destination. We understand that proximity to essential services is crucial for modern families, which is why Sector 7 consistently ranks high among property seekers. The area boasts minimal traffic congestion compared to older parts of Karnal, offering a serene yet connected lifestyle. Investing here means investing in convenience and a rapidly appreciating area."
     ],
     "locations": [
-      "DPS Karnal School Proximity",
-      "Karnal Bus Stand Accessibility",
-      "Model Town Shopping Complex",
-      "State Bank of India Branch Offices",
-      "Civil Hospital and Trauma Centre",
-      "NH 44 Highway Connectivity",
-      "Sector 6 Residential Area",
-      "Sector 8 Market Place"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to find the perfect flat for sale in Sector 7 Karnal? Our experienced real estate advisors are here to provide personalized guidance market insights and exclusive property tours. We simplify the entire buying process from property selection to final registration.",
       "Fill out the form below to receive a customized list of flats matching your precise requirements and budget. Take the next step towards securing your future home in this premium residential location."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

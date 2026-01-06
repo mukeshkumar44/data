@@ -7,10 +7,19 @@
       "We showcase exclusive listings from luxurious villas to comfortable starter homes all verified for genuine ownership and clear documentation. Investing in a residential property here is not just buying a home it is securing your future in a rapidly appreciating locale within Karnal. Explore our curated selection today and take the first step toward owning a prestigious address in Sector 45 Karnal."
     ],
     "buttons": [
-      { "label": "View Available Houses", "path": "/listings/sector-45" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View Available Houses",
+        "path": "/listings/sector-45"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["house_sector45_1.jpg", "luxury_villa_karnal.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse House Configurations and Property Sizes Available in Sector 45",
@@ -52,12 +61,56 @@
       "The proximity to reputed educational institutions world-class healthcare facilities and vibrant commercial hubs makes a House For Sale in Sector 45 an incredibly valuable asset. Whether you need quick access to the NH 44 or desire to be near the best schools for your children Sector 45 provides the perfect convergence of convenience and quality living."
     ],
     "locations": [
-      "Easy access to National Highway NH 44",
-      "Close proximity to reputable schools and colleges",
-      "Minutes away from major hospitals and clinics",
-      "Well-connected public transport routes",
-      "Nearby shopping malls and local markets",
-      "Direct routes to Karnal Railway Station"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Our property experts are standing by to offer personalized assistance and exclusive access to the best listings in Sector 45 Karnal. Let us help you navigate the market and find a home that perfectly fits your criteria and budget.",
       "Fill out the form below or reach out directly to schedule a confidential consultation and site visit. Start your journey to owning a prestigious address today."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

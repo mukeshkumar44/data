@@ -7,10 +7,19 @@
       "Finding the perfect 2BHK Flat For Sale in Sector 134 is effortless with our dedicated assistance. Our extensive portfolio includes verified listings from renowned developers ensuring transparency and reliability in every transaction. Enjoy excellent connectivity to the Noida Expressway, major corporate offices, and educational institutions. Explore ready-to-move-in options or upcoming projects at competitive prices. Contact our property experts now to schedule a site visit and unlock the door to your new home in Sector 134 Noida."
     ],
     "buttons": [
-      { "label": "Explore 2BHK Listings", "path": "/listings" },
-      { "label": "Request A Callback", "path": "/contact" }
+      {
+        "label": "Explore 2BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request A Callback",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero-1.jpg", "/images/hero-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Advantages of Buying a 2BHK Flat in Sector 134 Noida Today",
@@ -52,12 +61,56 @@
       "Our property portfolio is not limited to Sector 134. We cover key neighboring areas that offer similar or complimentary living standards and connectivity. Let us guide you through the options in these established and emerging residential hotspots ensuring you find the best property that aligns perfectly with your budget and lifestyle requirements for a 2BHK home."
     ],
     "locations": [
-      "Sector 135 Noida",
-      "Sector 137 Noida",
-      "Sector 128 Noida",
-      "Sector 143 Noida",
-      "Sector 93 Noida",
-      "Sector 150 Noida"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to find your perfect 2BHK Flat For Sale in Sector 134 Noida Don’t hesitate to reach out to our team of experienced real estate professionals. We are here to answer all your questions provide tailored property recommendations and arrange site visits at your convenience.",
       "Fill out the form below and take the first step toward securing a high-value, high-comfort home in this rapidly appreciating locality. Let us make your home-buying experience seamless and rewarding."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

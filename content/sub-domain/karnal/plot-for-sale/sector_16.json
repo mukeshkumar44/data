@@ -7,10 +7,19 @@
       "Investing in land in Sector 16 is not merely a purchase it is securing a piece of Karnal's prime real estate growth trajectory. Demand here is consistently high driven by its organized planning and serene environment. Explore our exclusive inventory and take the first step toward ownership in this esteemed locality."
     ],
     "buttons": [
-      { "label": "Explore Available Plots", "path": "/plots/sector-16" },
-      { "label": "Schedule Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Available Plots",
+        "path": "/plots/sector-16"
+      },
+      {
+        "label": "Schedule Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/sector-16-hero-plot.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Find the Ideal Residential Plot Size When Searching Plot For Sale in Sector 16 Karnal",
@@ -52,12 +61,56 @@
       "We list plots that maximize these locational advantages particularly those close to planned green belts or premium corner spots. The proximity to renowned educational institutions and leading hospitals like Kalpana Chawla Government Medical College makes Sector 16 a preferred choice for families. If long-term value and convenient living are your priorities, a Plot For Sale in Sector 16 Karnal provides an optimal balance of peace and accessibility ensuring your investment grows steadily over time."
     ],
     "locations": [
-      "NH 44 National Highway Access",
-      "Kalpana Chawla Government Medical College",
-      "Major Commercial Markets of Sector 12",
-      "Top-tier Schools and Education Hubs",
-      "Karnal Railway Station Link",
-      "Green Belts and Public Parks"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Connect with our property experts today to discuss your specific requirements investment budget and desired plot size. We are ready to provide tailored listings and arrange personalized site visits at your convenience.",
       "Do not miss out on securing a high-value piece of Sector 16 real estate. Contact us now to begin your profitable property journey."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

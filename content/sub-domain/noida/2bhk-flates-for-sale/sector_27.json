@@ -7,12 +7,18 @@
       "Investing in a 2BHK flat Sector 27 provides unmatched value combining affordability with access to top-tier civic facilities. Whether you are looking for a ready-to-move apartment or a flat in a newly launched project we provide detailed insights transparent pricing and expert guidance every step of the way. Start your search now and unlock the potential of upscale residential living in the heart of Noida’s most promising sector."
     ],
     "buttons": [
-      { "label": "Explore Verified 2BHK Listings", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Verified 2BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "hero-2bhk-sector-27-1.jpg",
-      "hero-2bhk-sector-27-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "The location’s proximity to key commercial zones like Sector 18 Atta Market and major institutional areas ensures that professional opportunities and retail therapy are always within easy reach. Furthermore Sector 27 is home to some of Noida’s finest schools hospitals and recreational centers enhancing the quality of life for families. When you choose a 2BHK Flat For Sale in Sector 27 Noida you are investing in a mature ecosystem that supports modern family requirements seamlessly."
     ],
     "locations": [
-      "Sector 18 Market",
-      "Atta Market Noida",
-      "Botanical Garden Metro Station",
-      "Prominent Educational Institutions",
-      "Major Healthcare Facilities",
-      "DND Flyway Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

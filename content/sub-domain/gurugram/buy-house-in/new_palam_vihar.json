@@ -7,12 +7,18 @@
       "We specialize in curating verified listings of homes that match your lifestyle and budget ensuring a smooth transition into one of Gurugram’s most trusted neighborhoods. Start exploring properties that promise stability strong capital appreciation and immediate access to top schools and markets. Let us guide you to the perfect independent house or builder floor in this thriving residential hub today."
     ],
     "buttons": [
-      { "label": "Explore Verified Listings", "path": "/listings/new-palam-vihar" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Verified Listings",
+        "path": "/listings/new-palam-vihar"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "hero_palam_vihar_house.jpg",
-      "map_new_palam_vihar.png"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Residents enjoy immediate access to high-quality healthcare facilities reputed educational institutions and thriving retail centers ensuring all daily needs are met within a short radius. The area is largely self-sufficient featuring well-maintained parks local markets and community spaces that foster a strong neighborhood spirit. Investing here means choosing unparalleled convenience and strong future development potential driven by infrastructural upgrades happening across Sector 109 and adjacent areas. This established sector provides a reliable foundation for residential life unlike newer, developing localities ensuring immediate usability and comfort for your family."
     ],
     "locations": [
-      "Dwarka Expressway Access Point",
-      "Palam Vihar Extension Residential Area",
-      "Sector 109 Gurugram Commercial Hubs",
-      "Columbia Asia Hospital Palam Vihar",
-      "DPS Palam Vihar",
-      "HUDA Market Palam Vihar Shopping",
-      "Indira Gandhi International Airport Connectivity",
-      "Upcoming Metro Link Stations"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

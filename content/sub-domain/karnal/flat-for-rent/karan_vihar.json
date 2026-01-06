@@ -7,10 +7,19 @@
       "Securing the right flat should be a straightforward process and we are dedicated to making it seamless for you. Our listings feature verified properties competitive rental rates and transparent terms. Explore modern amenities safe neighborhoods and a thriving local community when you choose Karan Vihar as your next address. Start browsing available Flats For Rent in Karan Vihar now and take the first step toward settling into your new comfortable lifestyle."
     ],
     "buttons": [
-      { "label": "Browse Available Flats", "path": "/search" },
-      { "label": "Schedule a Viewing", "path": "/contact" }
+      {
+        "label": "Browse Available Flats",
+        "path": "/search"
+      },
+      {
+        "label": "Schedule a Viewing",
+        "path": "/contact"
+      }
     ],
-    "images": ["flat_exterior_karanvihar.jpg", "kitchen_interior_karnal.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Flat Configurations and Sizes Matching Every Requirement in Karan Vihar",
@@ -52,12 +61,56 @@
       "Karan Vihar is quickly becoming a self-sufficient locality. Residents enjoy easy access to top-rated schools multispeciality hospitals bustling local markets and recreational parks. The availability of reliable public transport further enhances the appeal of Flats For Rent in Karan Vihar making it an ideal choice for every demographic seeking quality living in Karnal. We help you find rentals that maximize your locational benefits."
     ],
     "locations": [
-      "Reputable Educational Institutes Nearby",
-      "Major Hospitals and Healthcare Centres",
-      "Retail Stores and Daily Needs Markets",
-      "Proximity to National Highway 44",
-      "Green Parks and Recreation Grounds",
-      "Banking and ATM Facilities within Walking Distance"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,7 +206,11 @@
       "Ready to secure your next home in Karan Vihar Karnal We are here to assist you with personalized service property viewing and comprehensive market advice. Fill out the form below and let us help you navigate the best rental options available in this sought-after locality.",
       "Our team responds promptly to all inquiries ensuring you receive timely information and dedicated support throughout your entire rental journey."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }
-.

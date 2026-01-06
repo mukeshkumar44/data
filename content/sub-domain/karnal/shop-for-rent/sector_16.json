@@ -7,10 +7,19 @@
       "Sector 16 is strategically positioned near major residential areas and connecting roads, ensuring maximum visibility and constant customer flow. Our curated listings feature verified properties, offering transparency on lease terms, square footage, and necessary amenities like power backup and parking. Stop searching through endless listings and start focusing on your business growth. Let our expert team guide you directly to the ideal commercial space in Sector 16 Karnal that guarantees success from day one."
     ],
     "buttons": [
-      { "label": "Explore Available Shops", "path": "/listings" },
-      { "label": "Contact Rental Specialists", "path": "/contact" }
+      {
+        "label": "Explore Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Contact Rental Specialists",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero-shop1.jpg", "/images/hero-shop2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Premium Shop Rental Features Designed to Maximize Commercial Success in Sector 16 Karnal",
@@ -51,7 +60,58 @@
       "Sector 16 is not just an isolated area it is a pivotal commercial junction that benefits from exceptional connectivity and proximity to key landmarks in Karnal. Understanding the surrounding geography is essential when looking for the perfect Shop For Rent in Sector 16, as neighboring areas contribute significantly to the overall commercial traffic and customer profile.",
       "The sector benefits from seamless links to the main National Highway, ensuring easy logistics and access for suppliers and customers traveling from outside Karnal. Its proximity to established residential sectors, government offices, and educational institutions guarantees a constant influx of potential clientele throughout the day. This strategic location makes Sector 16 a central point for retail, services, and professional enterprises seeking stability and growth in a high-demand urban environment."
     ],
-    "locations": ["NH-44 Bypass Access Points", "Proximity to Sector 17 Commercial Area", "Near Model Town Residential Colony", "Adjacent to Major Banks and ATMs", "Easy Access to local Bus Stops", "Connected to Sector 13 and Sector 14"]
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Why Renting a Shop in Sector 16 Karnal is the Smartest Move for Your Business Expansion",
@@ -146,6 +206,11 @@
       "Ready to secure the perfect commercial address in the heart of Karnal’s thriving Sector 16 We offer personalized service to match your business requirements with the ideal rental property.",
       "Fill out the form below or call us directly to schedule a viewing and discuss flexible lease options tailored for success."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

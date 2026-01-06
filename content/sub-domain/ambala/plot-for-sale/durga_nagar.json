@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Verified Plot Sizes Available For Construction in Durga Nagar Ambala",
@@ -58,11 +61,56 @@
       "The area is particularly well-connected to both Ambala Cantt and Ambala City railway stations, providing easy access for daily commuters and travelers. Nearby necessities include top schools, modern hospitals, and burgeoning market complexes, ensuring a high quality of life for future residents. We also highlight plots that benefit from direct access to the main road network, simplifying daily travel. This strategic positioning guarantees sustained demand for residential properties, promising excellent capital appreciation over the next five to ten years as Ambala expands."
     ],
     "locations": [
-      "Ambala Cantt Railway Station Proximity",
-      "Ambala City Bus Stand Connectivity",
-      "Direct Access to National Highway 44",
-      "Close to Major Educational Institutions",
-      "Near Upcoming Commercial Hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

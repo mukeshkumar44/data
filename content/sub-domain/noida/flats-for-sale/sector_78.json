@@ -7,10 +7,19 @@
       "We offer a curated selection of properties ranging from cozy 1 BHK units perfect for young professionals to expansive luxury penthouses suitable for large families. Every flat listing provides detailed insights into floor plans, amenities, pricing, and surrounding facilities. Explore Sector 78 Noida’s vibrant community and secure a home that promises superior quality of life and significant appreciation potential. Your ideal flat is waiting to be discovered right here in Noida's most desirable sector."
     ],
     "buttons": [
-      { "label": "Explore Ready-to-Move Flats", "path": "/ready-to-move" },
-      { "label": "View Price List and Brochures", "path": "/contact-us" }
+      {
+        "label": "Explore Ready-to-Move Flats",
+        "path": "/ready-to-move"
+      },
+      {
+        "label": "View Price List and Brochures",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Residential Configurations Available in Sector 78 Noida Premium Housing Projects",
@@ -52,14 +61,56 @@
       "Understanding the proximity to neighboring sectors is crucial when choosing a Flat For Sale in Sector 78. Residents enjoy reduced commute times and access to a broader range of facilities including top schools, hospitals, and shopping centers located just a short drive away. This integrated connectivity significantly boosts the property valuation and convenience of living in Sector 78 Noida."
     ],
     "locations": [
-      "Sector 50 Noida",
-      "Sector 77 Noida",
-      "Sector 100 Noida",
-      "Noida Expressway Access",
-      "FNG Expressway Link",
-      "Sector 137 Metro Station",
-      "Gautam Buddha University",
-      "Amity University Noida"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,7 +206,11 @@
       "Ready to move forward with purchasing a Flat For Sale in Sector 78 Request a personalized consultation with our experienced property advisors today. We provide unbiased advice, detailed project comparisons, and assistance with site visits and negotiation.",
       "Fill out the quick inquiry form below and let us help you secure your perfect apartment in the thriving community of Sector 78 Noida."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }
-.

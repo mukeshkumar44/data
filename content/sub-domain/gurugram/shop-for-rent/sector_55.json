@@ -7,10 +7,19 @@
       "Explore a curated selection of verified shops for rent ranging from compact kiosks ideal for quick service businesses to sprawling ground-floor showrooms perfect for high-visibility retail operations. Our listings feature properties with modern amenities secure environments and flexible lease terms tailored to support your immediate and long-term goals. Start searching today and unlock the potential of a premium commercial address in Sector 55 Gurugram ensuring your business makes a powerful impact on the local market."
     ],
     "buttons": [
-      { "label": "Explore Available Shops Now", "path": "/search-shops" },
-      { "label": "Request a Callback", "path": "/contact-us" }
+      {
+        "label": "Explore Available Shops Now",
+        "path": "/search-shops"
+      },
+      {
+        "label": "Request a Callback",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Spaces for Rent Matching Every Business Requirement in Sector 55",
@@ -52,14 +61,56 @@
       "The connectivity via major roads like the Delhi-Mathura Highway and arterial routes linking to Noida and Greater Noida makes Sector 55 an exceptional logistical advantage. Renting a shop here places your business at the nexus of several thriving micro-markets ensuring maximum market reach and operational ease across the entire NCR region. We highlight areas that contribute directly to the commercial success of businesses located within Sector 55 Gurugram."
     ],
     "locations": [
-      "Sector 56 Commercial Market",
-      "Sector 54 Residential Catchment Area",
-      "Delhi-Mathura Highway Access Points",
-      "Green Field Colony Market",
-      "Sainik Colony Business District",
-      "Proximity to Badarpur Metro Station",
-      "Tigaon Road Connectivity",
-      "Okhla Industrial Area Links"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

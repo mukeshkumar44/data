@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-flat-sector-49-1.jpg",
-      "hero-flat-sector-49-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "We help you explore neighboring locations that benefit from the same robust infrastructure and seamless road networks that Sector 49 enjoys. Whether you are looking for more affordable housing or specialized luxury complexes, these adjacent areas should be on your consideration list when searching for a Flat For Sale in Gurugram."
     ],
     "locations": [
-      "Sector 50 Gurugram",
-      "Sector 48 Gurugram",
-      "Sector 46 Gurugram",
-      "Sector 47 Gurugram",
-      "Green Field Colony Gurugram",
-      "Surajkund Road Area",
-      "Neharpar Greater Gurugram",
-      "Charmwood Village"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,11 +7,18 @@
       "Whether you are looking for luxurious apartments builder floors or high-yield investment opportunities our dedicated team of Real Estate Agents in Sector 50 stands ready to simplify your journey. We handle all complexities from initial viewing to final registration focusing on transparency efficiency and achieving optimum value for your assets. Start your successful property search right here today."
     ],
     "buttons": [
-      { "label": "Find Your Expert Agent Now", "path": "/contact" },
-      { "label": "Explore Current Listings", "path": "/listings" }
+      {
+        "label": "Find Your Expert Agent Now",
+        "path": "/contact"
+      },
+      {
+        "label": "Explore Current Listings",
+        "path": "/listings"
+      }
     ],
     "images": [
-      "/images/hero-sector50-agent.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -54,14 +61,56 @@
       "Our Real Estate Agents in Sector 50 provide insights not just into the sector itself but also the neighboring areas that influence property dynamics and pricing. This holistic view ensures comprehensive market advice for all our clients."
     ],
     "locations": [
-      "Sector 51",
-      "Sector 78",
-      "Sector 49",
-      "Sector 76",
-      "Sector 100",
-      "Central Park Sector 50",
-      "Mahagun Moderne",
-      "The Gold Souk"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

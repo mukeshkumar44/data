@@ -7,10 +7,19 @@
       "Explore verified listings of a house for rent in Jagadhri Gate Ambala tailored exactly to your needs whether you require a semi-furnished unit or a fully equipped family home. Our listings provide detailed information on property size amenities rental history and tenant reviews ensuring you make an informed decision without any guesswork. Start your journey today to secure a safe affordable and high-quality rental residence right where you want to be in Ambala."
     ],
     "buttons": [
-      { "label": "Browse Verified Rental Listings", "path": "/listings" },
-      { "label": "Request a Callback Now", "path": "/contact" }
+      {
+        "label": "Browse Verified Rental Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Callback Now",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Options for a House For Rent in Jagadhri Gate Ambala",
@@ -52,14 +61,56 @@
       "Whether you prefer the bustle of the main city or the quieter lanes slightly further afield we provide comprehensive listings across the entire region. Finding a quality house for rent in Jagadhri Gate or its surrounding hubs like Ambala City Cantt or nearby Sector areas is streamlined through our focused location guides and up-to-date market analysis ensuring you find the best value."
     ],
     "locations": [
-      "Ambala City Main",
-      "Ambala Cantt",
-      "Baldev Nagar",
-      "Sector 7 Ambala",
-      "Model Town",
-      "Mansa Devi Nagar",
-      "Vijay Nagar",
-      "Urban Estate Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to move into your ideal house for rent in Jagadhri Gate Ambala We are here to help. Contact our professional property consultants who possess deep local market knowledge and can provide personalized assistance based on your specific requirements and budget.",
       "Don't miss out on the best rental opportunities in this highly desirable area. Submit your details now and let us find the perfect residential solution for you quickly and efficiently."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

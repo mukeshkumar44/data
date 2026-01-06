@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Rental Flat Configurations Available in sector 68 Gurugram Now",
@@ -58,14 +61,56 @@
       "The area is strategically positioned near major highways providing quick access to Delhi and Gurgaon The meticulous urban planning of sector 68 ensures that roads are wide public transport is readily available and the neighborhood maintains a clean and secure environment Investigate our location map to see how a Flat For Rent in sector 68 places you at the center of convenience and growth in Gurugram"
     ],
     "locations": [
-      "Proximity to Badarpur Border",
-      "Easy Access to NH-44 and Delhi-Mumbai Expressway",
-      "Close to major Corporate Offices",
-      "Reputable Schools and Colleges Nearby",
-      "Hospitals and Healthcare Centers within 15 Minutes",
-      "Well-Developed Local Marketplaces",
-      "Parks and Green Spaces for Recreation",
-      "Direct Road Linkage to Sector 69 and Sector 70"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

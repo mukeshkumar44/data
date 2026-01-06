@@ -7,10 +7,19 @@
       "Our curated selection includes homes in established residential complexes offering world-class amenities secure living and thoughtfully designed interiors. Whether you are a growing family seeking space or an investor looking for guaranteed rental yield MG Road provides the perfect blend of high-end living and strategic location advantage. Explore current listings and step closer to owning your perfect 3BHK flat today."
     ],
     "buttons": [
-      { "label": "Explore 3BHK Listings Now", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore 3BHK Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["mg-road-3bhk-hero1.jpg", "mg-road-3bhk-hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Features Defining the Best 3BHK Flats For Sale in MG Road Gurugram Residences",
@@ -19,29 +28,29 @@
       "We focus on properties that deliver a balanced life ensuring residents benefit from structural integrity premium fittings and community engagement. From robust security systems to vibrant common areas every aspect of a 3BHK apartment here is tailored to meet the expectations of discerning homeowners looking for exceptional quality and comfort."
     ],
     "features": [
-      { 
-        "title": "Prime Location and Connectivity Advantages", 
-        "description": "Owning a 3BHK flat in MG Road places you at the heart of Gurugram’s commercial and social epicenter. The location ensures swift access to the MG Road Metro Station making commutes effortless. Residents enjoy rapid connectivity to NH-48 Delhi and major commercial hubs without enduring long travel times. This prime placement significantly enhances the daily convenience and resale potential of your investment property." 
+      {
+        "title": "Prime Location and Connectivity Advantages",
+        "description": "Owning a 3BHK flat in MG Road places you at the heart of Gurugram’s commercial and social epicenter. The location ensures swift access to the MG Road Metro Station making commutes effortless. Residents enjoy rapid connectivity to NH-48 Delhi and major commercial hubs without enduring long travel times. This prime placement significantly enhances the daily convenience and resale potential of your investment property."
       },
-      { 
-        "title": "Spacious Layouts and Intelligent Apartment Design", 
-        "description": "The 3BHK flats for sale are characterized by generous floor plans typically ranging from 1600 sq ft to over 2200 sq ft carpet area. These layouts prioritize natural light ventilation and practical room distribution. Expect large living areas dedicated dining spaces and comfortable bedrooms that offer privacy and utility perfect for families who need substantial room to grow and thrive in Gurugram." 
+      {
+        "title": "Spacious Layouts and Intelligent Apartment Design",
+        "description": "The 3BHK flats for sale are characterized by generous floor plans typically ranging from 1600 sq ft to over 2200 sq ft carpet area. These layouts prioritize natural light ventilation and practical room distribution. Expect large living areas dedicated dining spaces and comfortable bedrooms that offer privacy and utility perfect for families who need substantial room to grow and thrive in Gurugram."
       },
-      { 
-        "title": "Modern Residential and Lifestyle Amenities", 
-        "description": "High-end complexes in MG Road provide an array of luxury amenities specifically designed for residents of 3BHK units. These often include dedicated clubhouses swimming pools state-of-the-art fitness centers and extensive landscaped gardens. These features ensure a fulfilling lifestyle within the community boundaries minimizing the need to travel for recreation or leisure activities enhancing overall quality of life." 
+      {
+        "title": "Modern Residential and Lifestyle Amenities",
+        "description": "High-end complexes in MG Road provide an array of luxury amenities specifically designed for residents of 3BHK units. These often include dedicated clubhouses swimming pools state-of-the-art fitness centers and extensive landscaped gardens. These features ensure a fulfilling lifestyle within the community boundaries minimizing the need to travel for recreation or leisure activities enhancing overall quality of life."
       },
-      { 
-        "title": "Excellent Investment Potential and Rental Yield", 
-        "description": "MG Road remains one of Gurugram’s most sought-after rental destinations particularly among expatriates and high-income professionals working nearby. Investing in a 3BHK flat guarantees high occupancy rates and robust rental returns compared to peripheral locations. The sustained demand ensures that your property not only appreciates steadily but also generates immediate consistent income making it a sound financial choice." 
+      {
+        "title": "Excellent Investment Potential and Rental Yield",
+        "description": "MG Road remains one of Gurugram’s most sought-after rental destinations particularly among expatriates and high-income professionals working nearby. Investing in a 3BHK flat guarantees high occupancy rates and robust rental returns compared to peripheral locations. The sustained demand ensures that your property not only appreciates steadily but also generates immediate consistent income making it a sound financial choice."
       },
-      { 
-        "title": "Proximity to Major Business and Retail Hubs", 
-        "description": "Living on MG Road means being minutes away from major corporate towers shopping malls like MGF Metropolitan and Ambience Mall and prestigious educational institutions. This accessibility is crucial for working professionals and families reducing commute stress and freeing up valuable personal time. The proximity to key facilities solidifies the appeal of these 3BHK apartments for ultimate urban convenience." 
+      {
+        "title": "Proximity to Major Business and Retail Hubs",
+        "description": "Living on MG Road means being minutes away from major corporate towers shopping malls like MGF Metropolitan and Ambience Mall and prestigious educational institutions. This accessibility is crucial for working professionals and families reducing commute stress and freeing up valuable personal time. The proximity to key facilities solidifies the appeal of these 3BHK apartments for ultimate urban convenience."
       },
-      { 
-        "title": "Secure Gated Communities with Enhanced Safety", 
-        "description": "Security is paramount for residents purchasing a 3BHK flat. Complexes in MG Road offer multi-tiered security systems including 24/7 manned surveillance CCTV monitoring and controlled access points. These measures provide peace of mind creating a safe environment for children and ensuring the protection of property assets which is a non-negotiable factor for luxury home buyers." 
+      {
+        "title": "Secure Gated Communities with Enhanced Safety",
+        "description": "Security is paramount for residents purchasing a 3BHK flat. Complexes in MG Road offer multi-tiered security systems including 24/7 manned surveillance CCTV monitoring and controlled access points. These measures provide peace of mind creating a safe environment for children and ensuring the protection of property assets which is a non-negotiable factor for luxury home buyers."
       }
     ]
   },
@@ -52,14 +61,56 @@
       "Exploring neighboring areas allows buyers to compare apartment specifications infrastructure development and available inventory ensuring they find the absolute best 3BHK flat that aligns perfectly with their specific budgetary and lifestyle requirements in the wider Gurugram region."
     ],
     "locations": [
-      "Sikanderpur",
-      "DLF Phase 2",
-      "Sector 27 Gurugram",
-      "Sector 28 Gurugram",
-      "Sushant Lok Phase 1",
-      "Golf Course Road Extension",
-      "Cyber City",
-      "NH-48 Connectivity Zone"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -69,37 +120,37 @@
       "We provide comprehensive guidance ensuring that every step of your journey to own a 3BHK flat is transparent efficient and rewarding. Our expertise in the MG Road market guarantees access to the best properties at the most favorable terms available today."
     ],
     "points": [
-      { 
-        "title": "Unrivaled Metro Connectivity", 
-        "description": "MG Road is served directly by the Yellow Line Metro system offering hassle-free transit to key locations in Delhi and across Gurugram. This excellent connectivity reduces reliance on private vehicles and drastically cuts down commute times making it an ideal spot for professionals seeking efficiency. The easy access to public transport enhances the desirability and capital appreciation of 3BHK flats here." 
+      {
+        "title": "Unrivaled Metro Connectivity",
+        "description": "MG Road is served directly by the Yellow Line Metro system offering hassle-free transit to key locations in Delhi and across Gurugram. This excellent connectivity reduces reliance on private vehicles and drastically cuts down commute times making it an ideal spot for professionals seeking efficiency. The easy access to public transport enhances the desirability and capital appreciation of 3BHK flats here."
       },
-      { 
-        "title": "High Quality Social Infrastructure", 
-        "description": "The locality boasts immediate access to some of the city's best schools hospitals and entertainment centers. Everything you need from high-end dining experiences to critical medical facilities is within a short driving radius. This integrated urban ecosystem ensures that residents of 3BHK flats enjoy complete convenience without compromising on quality or accessibility." 
+      {
+        "title": "High Quality Social Infrastructure",
+        "description": "The locality boasts immediate access to some of the city's best schools hospitals and entertainment centers. Everything you need from high-end dining experiences to critical medical facilities is within a short driving radius. This integrated urban ecosystem ensures that residents of 3BHK flats enjoy complete convenience without compromising on quality or accessibility."
       },
-      { 
-        "title": "Future Growth Potential", 
-        "description": "Despite being an established area MG Road continues to see infrastructural improvements and development guaranteeing sustained property value growth. Ongoing civic projects and commercial expansion solidify its status as a prime real estate investment zone. Your purchase of a 3BHK flat today positions you perfectly to benefit from future market appreciation." 
+      {
+        "title": "Future Growth Potential",
+        "description": "Despite being an established area MG Road continues to see infrastructural improvements and development guaranteeing sustained property value growth. Ongoing civic projects and commercial expansion solidify its status as a prime real estate investment zone. Your purchase of a 3BHK flat today positions you perfectly to benefit from future market appreciation."
       },
-      { 
-        "title": "Exclusivity and Premium Living Standards", 
-        "description": "Many 3BHK residential complexes in this area offer boutique living experiences and maintain very high standards of maintenance and service. Residents often benefit from personalized services concierge desks and meticulously maintained common areas. This level of exclusivity attracts a desirable demographic ensuring a high standard of community living." 
+      {
+        "title": "Exclusivity and Premium Living Standards",
+        "description": "Many 3BHK residential complexes in this area offer boutique living experiences and maintain very high standards of maintenance and service. Residents often benefit from personalized services concierge desks and meticulously maintained common areas. This level of exclusivity attracts a desirable demographic ensuring a high standard of community living."
       },
-      { 
-        "title": "Trusted Developer Presence", 
-        "description": "MG Road hosts projects by some of India's most reputed real estate developers known for their commitment to quality construction timely delivery and transparent dealings. Buying a 3BHK flat from these established builders minimizes risk and assures structural integrity and adherence to promised specifications providing immense confidence in your property purchase." 
+      {
+        "title": "Trusted Developer Presence",
+        "description": "MG Road hosts projects by some of India's most reputed real estate developers known for their commitment to quality construction timely delivery and transparent dealings. Buying a 3BHK flat from these established builders minimizes risk and assures structural integrity and adherence to promised specifications providing immense confidence in your property purchase."
       },
-      { 
-        "title": "Walkability to Retail and Entertainment", 
-        "description": "Unlike peripheral areas MG Road flats are often within walking distance of essential services shopping centers and leisure spots. This pedestrian-friendly environment enhances the urban experience allowing residents to easily access daily needs and entertainment options without the need for vehicular travel promoting a healthier and more connected lifestyle." 
+      {
+        "title": "Walkability to Retail and Entertainment",
+        "description": "Unlike peripheral areas MG Road flats are often within walking distance of essential services shopping centers and leisure spots. This pedestrian-friendly environment enhances the urban experience allowing residents to easily access daily needs and entertainment options without the need for vehicular travel promoting a healthier and more connected lifestyle."
       },
-      { 
-        "title": "Tailored for Family Needs", 
-        "description": "The inherent size and layout of 3BHK flats are perfectly suited for nuclear and joint families needing distinct living zones. The extra bedrooms can be flexibly used as home offices guest rooms or dedicated children's areas providing necessary space for diverse family activities and long-term comfortable habitation in Gurugram." 
+      {
+        "title": "Tailored for Family Needs",
+        "description": "The inherent size and layout of 3BHK flats are perfectly suited for nuclear and joint families needing distinct living zones. The extra bedrooms can be flexibly used as home offices guest rooms or dedicated children's areas providing necessary space for diverse family activities and long-term comfortable habitation in Gurugram."
       },
-      { 
-        "title": "Access to Professional Expertise", 
-        "description": "Our specialized team understands the nuances of the MG Road property market including legalities pricing trends and hidden costs. We provide tailored advice ensuring you secure the best 3BHK flat at the most competitive price facilitating smooth negotiations and transaction closure simplifying the complexities of the real estate buying process." 
+      {
+        "title": "Access to Professional Expertise",
+        "description": "Our specialized team understands the nuances of the MG Road property market including legalities pricing trends and hidden costs. We provide tailored advice ensuring you secure the best 3BHK flat at the most competitive price facilitating smooth negotiations and transaction closure simplifying the complexities of the real estate buying process."
       }
     ]
   },
@@ -107,45 +158,45 @@
     "title": "Frequently Asked Questions About Buying a 3BHK Flat in MG Road",
     "description": "Get detailed answers to common inquiries regarding property investment pricing and living standards in the MG Road residential area of Gurugram.",
     "faqs": [
-      { 
-        "question": "What is the typical price range for a 3BHK flat for sale in MG Road Gurugram", 
-        "answer": "The price range for 3BHK flats in MG Road varies significantly based on factors like the specific complex its age amenities offered and the exact floor area. Generally established societies see prices starting from approximately INR 1.8 Crore and scaling up to INR 4.5 Crore or even higher for ultra-luxury penthouses or newly launched projects. We advise consulting our current listings page and speaking with a property expert to get the most accurate and up-to-date pricing relevant to your search criteria and desired size." 
+      {
+        "question": "What is the typical price range for a 3BHK flat for sale in MG Road Gurugram",
+        "answer": "The price range for 3BHK flats in MG Road varies significantly based on factors like the specific complex its age amenities offered and the exact floor area. Generally established societies see prices starting from approximately INR 1.8 Crore and scaling up to INR 4.5 Crore or even higher for ultra-luxury penthouses or newly launched projects. We advise consulting our current listings page and speaking with a property expert to get the most accurate and up-to-date pricing relevant to your search criteria and desired size."
       },
-      { 
-        "question": "Are 3BHK flats in MG Road considered a good long-term investment opportunity", 
-        "answer": "Yes absolutely MG Road is one of the most stable and high-performing real estate markets in Gurugram due to its central location superior connectivity and strong social infrastructure. Property values here have shown resilient appreciation even during market slowdowns. Furthermore the demand for rental properties especially 3BHK units is extremely high driven by its proximity to major corporate offices ensuring strong potential for both capital gains and consistent rental income over the long term. This stability makes it an excellent investment choice." 
+      {
+        "question": "Are 3BHK flats in MG Road considered a good long-term investment opportunity",
+        "answer": "Yes absolutely MG Road is one of the most stable and high-performing real estate markets in Gurugram due to its central location superior connectivity and strong social infrastructure. Property values here have shown resilient appreciation even during market slowdowns. Furthermore the demand for rental properties especially 3BHK units is extremely high driven by its proximity to major corporate offices ensuring strong potential for both capital gains and consistent rental income over the long term. This stability makes it an excellent investment choice."
       },
-      { 
-        "question": "What are the common amenities offered with 3BHK apartments in this area", 
-        "answer": "Most premium 3BHK apartments in MG Road come fully equipped with high-end lifestyle amenities. Standard offerings usually include 100% power backup 24/7 water supply reserved basement parking spaces and advanced multi-tier security systems. Beyond the basics you can expect recreational facilities like large swimming pools dedicated children's play areas fully equipped gymnasiums clubhouses with party halls and landscaped jogging tracks providing a holistic living environment for all residents." 
+      {
+        "question": "What are the common amenities offered with 3BHK apartments in this area",
+        "answer": "Most premium 3BHK apartments in MG Road come fully equipped with high-end lifestyle amenities. Standard offerings usually include 100% power backup 24/7 water supply reserved basement parking spaces and advanced multi-tier security systems. Beyond the basics you can expect recreational facilities like large swimming pools dedicated children's play areas fully equipped gymnasiums clubhouses with party halls and landscaped jogging tracks providing a holistic living environment for all residents."
       },
-      { 
-        "question": "How is the connectivity from MG Road to major business hubs like Cyber City", 
-        "answer": "Connectivity is one of MG Road’s greatest strengths. Cyber City is only a short drive away typically taking 10 to 15 minutes depending on traffic conditions via internal roads. Crucially the MG Road Metro Station provides a seamless public transit option connecting you directly to the Rapid Metro line which services Cyber City and other key commercial nodes. This dual connectivity option road and metro makes commuting highly efficient and desirable for corporate professionals living in 3BHK flats here." 
+      {
+        "question": "How is the connectivity from MG Road to major business hubs like Cyber City",
+        "answer": "Connectivity is one of MG Road’s greatest strengths. Cyber City is only a short drive away typically taking 10 to 15 minutes depending on traffic conditions via internal roads. Crucially the MG Road Metro Station provides a seamless public transit option connecting you directly to the Rapid Metro line which services Cyber City and other key commercial nodes. This dual connectivity option road and metro makes commuting highly efficient and desirable for corporate professionals living in 3BHK flats here."
       },
-      { 
-        "question": "What is the typical size range of a 3BHK flat on MG Road Gurugram", 
-        "answer": "The typical built-up area for a 3BHK flat in the MG Road vicinity usually falls between 1500 square feet and 2500 square feet. This variation accounts for standard apartments luxury units and specific project layouts designed by different developers. It is important to look at the carpet area which indicates usable space as this is the best measure of the actual room you will get in your purchased 3BHK property." 
+      {
+        "question": "What is the typical size range of a 3BHK flat on MG Road Gurugram",
+        "answer": "The typical built-up area for a 3BHK flat in the MG Road vicinity usually falls between 1500 square feet and 2500 square feet. This variation accounts for standard apartments luxury units and specific project layouts designed by different developers. It is important to look at the carpet area which indicates usable space as this is the best measure of the actual room you will get in your purchased 3BHK property."
       },
-      { 
-        "question": "Are there any specific legal considerations when buying an older 3BHK property here", 
-        "answer": "When purchasing an older 3BHK flat in MG Road it is crucial to conduct thorough due diligence regarding the project's legal status. Key checks include verifying the Occupancy Certificate (OC) Completion Certificate (CC) the land title and ensuring all maintenance dues are cleared by the previous owner. We recommend utilizing the services of a specialized real estate attorney to verify that all documentation is complete and compliant with RERA regulations before finalizing the sale agreement." 
+      {
+        "question": "Are there any specific legal considerations when buying an older 3BHK property here",
+        "answer": "When purchasing an older 3BHK flat in MG Road it is crucial to conduct thorough due diligence regarding the project's legal status. Key checks include verifying the Occupancy Certificate (OC) Completion Certificate (CC) the land title and ensuring all maintenance dues are cleared by the previous owner. We recommend utilizing the services of a specialized real estate attorney to verify that all documentation is complete and compliant with RERA regulations before finalizing the sale agreement."
       },
-      { 
-        "question": "What are the advantages of a newly constructed 3BHK flat versus a resale flat in MG Road", 
-        "answer": "Newly constructed 3BHK flats offer modern designs updated floor plans and usually RERA protection with a construction warranty plus eligibility for new home loan schemes. Resale flats often come at a slightly lower price per square foot may be immediately available for possession and are generally located in fully established societies. Your choice depends on your preference for immediate occupancy budget flexibility and desire for the latest architectural standards." 
+      {
+        "question": "What are the advantages of a newly constructed 3BHK flat versus a resale flat in MG Road",
+        "answer": "Newly constructed 3BHK flats offer modern designs updated floor plans and usually RERA protection with a construction warranty plus eligibility for new home loan schemes. Resale flats often come at a slightly lower price per square foot may be immediately available for possession and are generally located in fully established societies. Your choice depends on your preference for immediate occupancy budget flexibility and desire for the latest architectural standards."
       },
-      { 
-        "question": "Does MG Road face any major traffic or water supply issues that affect residential life", 
-        "answer": "Like any central commercial zone MG Road experiences peak hour traffic congestion particularly near the malls and metro station. However residential complexes are generally situated on quieter side roads offering respite. Water supply is typically managed efficiently by residential societies often supplemented by borewells and robust tanker supply systems ensuring uninterrupted service to 3BHK flat residents throughout the year." 
+      {
+        "question": "Does MG Road face any major traffic or water supply issues that affect residential life",
+        "answer": "Like any central commercial zone MG Road experiences peak hour traffic congestion particularly near the malls and metro station. However residential complexes are generally situated on quieter side roads offering respite. Water supply is typically managed efficiently by residential societies often supplemented by borewells and robust tanker supply systems ensuring uninterrupted service to 3BHK flat residents throughout the year."
       },
-      { 
-        "question": "Can I get home loan financing easily for a 3BHK flat in MG Road", 
-        "answer": "Yes obtaining home loan financing is relatively straightforward for properties in MG Road especially within projects approved by major financial institutions. Since MG Road is a prime location banks view these properties as low-risk investments. Loan eligibility depends primarily on your credit score income stability and the age of the property you intend to purchase. We can connect you with trusted banking partners for favorable rates." 
+      {
+        "question": "Can I get home loan financing easily for a 3BHK flat in MG Road",
+        "answer": "Yes obtaining home loan financing is relatively straightforward for properties in MG Road especially within projects approved by major financial institutions. Since MG Road is a prime location banks view these properties as low-risk investments. Loan eligibility depends primarily on your credit score income stability and the age of the property you intend to purchase. We can connect you with trusted banking partners for favorable rates."
       },
-      { 
-        "question": "Which are some notable residential projects offering 3BHK flats near MG Road", 
-        "answer": "MG Road hosts several prestigious residential projects offering high-quality 3BHK options including names like Essel Towers Beverly Park and various complexes by DLF and Unitech in the adjacent sectors. These complexes are highly regarded for their maintenance location superiority and resident facilities. We maintain an up-to-date catalog of all available 3BHK units across these sought-after addresses." 
+      {
+        "question": "Which are some notable residential projects offering 3BHK flats near MG Road",
+        "answer": "MG Road hosts several prestigious residential projects offering high-quality 3BHK options including names like Essel Towers Beverly Park and various complexes by DLF and Unitech in the adjacent sectors. These complexes are highly regarded for their maintenance location superiority and resident facilities. We maintain an up-to-date catalog of all available 3BHK units across these sought-after addresses."
       }
     ]
   },
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning your perfect 3BHK flat for sale in MG Road Gurugram? Our team of local real estate experts is here to provide personalized advice market insights and exclusive property tours.",
       "Fill out the form below to receive a curated list of properties matching your exact requirements or to schedule a consultation at your earliest convenience. Let us help you unlock the luxury of MG Road living."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

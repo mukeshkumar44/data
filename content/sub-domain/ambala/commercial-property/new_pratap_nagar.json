@@ -16,7 +16,10 @@
         "path": "/investment-guide"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Perfect Size Commercial Plot For Your Business Needs in New Pratap Nagar Ambala",
@@ -58,12 +61,56 @@
       "We highlight areas where commercial properties benefit from immediate access to established markets such as Ambala Cantt and other industrial zones. The commercial ecosystem here is supported by planned urban development, reliable utility services, and a growing consumer base, solidifying New Pratap Nagar as the central commercial growth hub in Ambala. Investing here means tapping into a market that is guaranteed to appreciate due to planned government and private sector infrastructure projects."
     ],
     "locations": [
-      "Ambala Chandigarh Expressway Access Points",
-      "Proximity to Ambala Cantt Business District",
-      "Near Upcoming Residential Colonies and Townships",
-      "Direct Road Link to Ambala City Centre",
-      "Easy Access to Major Logistics and Transport Hubs",
-      "Near Existing Industrial and Manufacturing Units"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

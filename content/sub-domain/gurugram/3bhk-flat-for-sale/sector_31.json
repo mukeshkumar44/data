@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Features that Define Every 3BHK Flat for Sale in Sector 31 Gurugram",
@@ -58,14 +61,56 @@
       "Choosing a 3BHK flat here means placing your family in the center of convenience. This area boasts established social infrastructure including renowned educational institutions like DPS and Amity, world-class medical facilities such as Medanta The Medicity and Artemis, and premium shopping destinations like Omaxe Celebration Mall. This harmonious balance of connectivity and comprehensive amenities solidifies Sector 31 as the perfect setting for your new 3BHK home purchase."
     ],
     "locations": [
-      "HUDA City Centre Metro Station 5 minutes drive",
-      "NH-48 Delhi-Gurugram Expressway access",
-      "Artemis Hospital and Medanta The Medicity proximity",
-      "Signature Towers and Sector 29 Business Hub nearby",
-      "Close to top schools and educational centers",
-      "Easy access to major shopping malls and retail centers",
-      "Established internal road network for smooth commuting",
-      "Direct route to Rajiv Chowk and key Gurugram intersections"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

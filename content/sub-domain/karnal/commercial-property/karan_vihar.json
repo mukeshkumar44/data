@@ -7,10 +7,19 @@
       "Investing in Karan Vihar positions your business at the nexus of connectivity and local community engagement. This locality promises robust infrastructure and immediate appreciation making it the ideal location to launch expand or relocate your operations. Explore our exclusive listings today and take the definitive step toward commercial success with absolute confidence and legal clarity."
     ],
     "buttons": [
-      { "label": "Explore Verified Listings", "path": "/commercial-listings" },
-      { "label": "Request a Callback", "path": "/contact-us" }
+      {
+        "label": "Explore Verified Listings",
+        "path": "/commercial-listings"
+      },
+      {
+        "label": "Request a Callback",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["commercial_karan_vihar_main.jpg", "office_space_karnal.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Property Options for Sale in Karan Vihar Tailored for Your Business Needs",
@@ -52,11 +61,56 @@
       "We monitor investment trends across Karnal to provide a comprehensive view of growth areas adjacent to Commercial Property For Sale in Karan Vihar. This market intelligence ensures you are making a decision based on future infrastructure development and demographic shifts maximizing investment security and capital appreciation."
     ],
     "locations": [
-      "Sector 7 Commercial Area",
-      "Sector 6 Market Hub",
-      "Model Town Retail Corridor",
-      "NH-44 Highway Access Points",
-      "Jain Mohalla Business District"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -152,6 +206,11 @@
       "Ready to explore the best Commercial Property For Sale in Karan Vihar Speak to our dedicated sales experts to receive personalized investment advice tailored to your financial goals and business requirements. We are here to simplify your path to ownership.",
       "Submit your details below and a commercial property specialist will contact you within the hour to discuss exclusive listings site visits and detailed financial projections."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

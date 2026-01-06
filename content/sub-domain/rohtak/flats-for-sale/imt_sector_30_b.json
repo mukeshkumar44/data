@@ -7,10 +7,19 @@
       "We offer a curated selection of 2 BHK and 3 BHK ready-to-move-in apartments that promise comfort, security, and excellent connectivity. This sector is rapidly developing, ensuring high appreciation potential for early investors. Explore contemporary amenities and a vibrant community atmosphere designed for the modern resident looking for the best homes."
     ],
     "buttons": [
-      { "label": "Explore Available Flats", "path": "/flats-available" },
-      { "label": "Schedule a Site Visit", "path": "/contact-us" }
+      {
+        "label": "Explore Available Flats",
+        "path": "/flats-available"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Features and Configurations Available for Flats For Sale in IMT Sector 30 B",
@@ -52,14 +61,56 @@
       "Finding Flats For Sale in IMT Sector 30 B guarantees a location that balances work life and family life perfectly. Key educational institutions, advanced medical facilities, and bustling retail markets are all just a short drive away. This excellent infrastructure supports sustained property value appreciation, making your flat not just a home but a sound long-term investment. Review our location map to see how seamlessly IMT Sector 30 B integrates with the wider urban landscape of Rohtak, promising convenience at every corner."
     ],
     "locations": [
-      "IMT Rohtak Industrial Area Proximity",
-      "Direct Access to NH9 Delhi Highway",
-      "Close to Maharshi Dayanand University MDU",
-      "Easy Commute to Rohtak City Centre",
-      "Surrounded by Developed Sectors",
-      "Access to Top Healthcare Facilities",
-      "Retail and Commercial Market Hubs Nearby",
-      "Well-Developed Internal Road Network"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

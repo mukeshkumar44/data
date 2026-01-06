@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Understanding the Best Plot Sizes for Investment and Construction in Dhulkot Ambala",
@@ -58,16 +61,56 @@
       "We provide detailed market analysis for areas like Ambala Cantt, Sector 9, and key industrial belts, helping clients determine where their investment will yield the best results based on current and projected infrastructure plans. Trust the leading Property Dealer in Dhulkot to navigate the complex geography and secure properties in the fastest-growing locations of Ambala for maximum profit."
     ],
     "locations": [
-      "Ambala Cantt",
-      "Sector 9 Ambala",
-      "Parao Dhulkot Road",
-      "Mahesh Nagar",
-      "Babyal",
-      "Shahpur Dhulkot",
-      "Model Town Ambala",
-      "Railway Station Area",
-      "Sadar Bazaar Ambala Cantt",
-      "Mansa Devi Mandir Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

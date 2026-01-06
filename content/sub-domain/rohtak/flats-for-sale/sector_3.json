@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "flat_exterior_sector3.jpg",
-      "flat_interior_modern.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,11 +61,56 @@
       "We provide expert analysis on connectivity to key areas such as the Medical College Rohtak and the Delhi Bypass Road. This robust infrastructure not only simplifies commuting but also steadily drives up property values, making flats for sale in Sector 3 a secure long-term investment. Explore how close your potential new home is to major shopping centers and recreational parks."
     ],
     "locations": [
-      "Civil Lines Rohtak",
-      "Sector 4 Rohtak",
-      "Delhi Bypass Road",
-      "Vishal Nagar",
-      "Sunaria Kalan"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

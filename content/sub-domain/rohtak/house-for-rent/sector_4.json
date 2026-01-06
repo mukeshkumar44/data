@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Range of High-Quality House For Rent Options Available in Sector 4 Rohtak",
@@ -58,12 +61,56 @@
       "Our property portfolio includes homes that offer easy access to Delhi Road leading to the capital as well as those conveniently located near Maharshi Dayanand University MDU and the Rohtak Railway Station. Finding a home in Sector 4 means balancing tranquil residential life with immediate access to city amenities and excellent commuting routes."
     ],
     "locations": [
-      "Near Delhi Road Rohtak",
-      "Proximity to Sector 3 Rohtak",
-      "Near Maharshi Dayanand University MDU Campus",
-      "Adjacent to Sector 5 Residential Area",
-      "Close to Medical College Rohtak",
-      "Easy Access to Rohtak City Centre"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

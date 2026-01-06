@@ -7,10 +7,19 @@
       "Our curated listings feature the best apartments ranging from compact 1 BHK units to sprawling luxurious 4 BHK flats and penthouses in some of Noida’s most sought-after societies. We provide verified properties with transparent pricing ensuring a smooth and confident buying journey. Explore the opportunity to own a residence in Sector 50 Noida where convenience meets class and your investment is poised for significant future appreciation."
     ],
     "buttons": [
-      { "label": "Explore Premium Listings", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Premium Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Flat Configurations When Looking for a Flat For Sale in Sector 50 Noida",
@@ -52,14 +61,56 @@
       "The robust road network including proximity to the Noida-Greater Noida Expressway and the operational Sector 50 metro station enhances daily commuting drastically. This connectivity factor significantly increases the value proposition of any flat for sale in Sector 50 making it a prime spot for future growth."
     ],
     "locations": [
-      "Sector 51 Noida",
-      "Sector 78 Noida",
-      "Sector 49 Noida",
-      "Sector 104 Noida",
-      "Sector 75 Noida",
-      "Sector 76 Noida",
-      "Atta Market",
-      "Golf Course Noida"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

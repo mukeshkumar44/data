@@ -7,12 +7,18 @@
       "Explore high-rise living with world-class amenities including dedicated parking, 24/7 security, and expansive green spaces. Investing in a Flat For Sale in sector 67 guarantees not only a comfortable lifestyle but also substantial appreciation potential due to the area’s excellent infrastructure development and proximity to major commercial hubs. Start your property search today and step into the future of urban living in Gurugram."
     ],
     "buttons": [
-      { "label": "View All Flats", "path": "/listings/sector-67" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "View All Flats",
+        "path": "/listings/sector-67"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/hero-flat-1.jpg",
-      "/images/hero-flat-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The proximity to the Delhi-Mathura Highway NH-44 and the FNG Expressway further enhances the connectivity matrix, linking residents quickly to Noida, Greater Noida, and South Delhi. Enjoy suburban tranquility without sacrificing urban convenience here in Sector 67."
     ],
     "locations": [
-      "Proximity to Gurugram Bypass Road",
-      "Easy Access to the Delhi-Mathura NH-44",
-      "Close to Major Educational Institutions and Schools",
-      "Well-established Healthcare Facilities nearby",
-      "Rapid connectivity to upcoming Metro expansion lines",
-      "Short drive to major commercial and IT hubs",
-      "Abundance of dedicated green and recreational parks",
-      "Upcoming shopping malls and retail centers"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

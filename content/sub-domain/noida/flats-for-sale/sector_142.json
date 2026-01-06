@@ -7,12 +7,18 @@
       "We specialize in connecting discerning buyers with the finest residential options ranging from compact 1 BHK units perfect for professionals to expansive 4 BHK luxury flats ideal for large families. Each Flat For Sale in Sector 142 has been vetted for RERA compliance and structural integrity, ensuring you make a secure and profitable investment in the heart of the city’s technological corridor. Start your property search today and step into a future of convenience and comfort."
     ],
     "buttons": [
-      { "label": "Explore Available Properties", "path": "/properties" },
-      { "label": "Get Price List Now", "path": "/contact" }
+      {
+        "label": "Explore Available Properties",
+        "path": "/properties"
+      },
+      {
+        "label": "Get Price List Now",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "sector142-noida-skyline.jpg",
-      "flat-interior-142.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "The location’s strength is further enhanced by its proximity to major IT and commercial hubs including Advant Navis Business Park and Oxygen Business Park. This ensures minimal commute times for residents working in these corporate sectors. Additionally world-class schools such as Shiv Nadar School and Jaypee Hospital are easily reachable ensuring all essential services are within a short drive making a Flat For Sale in Sector 142 Noida a truly smart lifestyle decision."
     ],
     "locations": [
-      "Noida Expressway Direct Access",
-      "Sector 142 Metro Station Aqua Line",
-      "Proximity to Advant Navis Business Park",
-      "Easy Drive to Jaypee Hospital",
-      "Near major retail and shopping centers",
-      "Quick access to Sector 18 Atta Market"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

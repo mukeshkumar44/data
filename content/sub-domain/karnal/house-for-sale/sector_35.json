@@ -7,12 +7,18 @@
       "We feature a curated selection of ready-to-move and under-construction houses ranging from compact modern villas to spacious family homes. These properties benefit from superior infrastructure well-maintained roads and reliable civic amenities. Secure your dream home in Sector 35 Karnal and step into a future of convenience growth and comfort. Review our listings today and start your journey towards ownership."
     ],
     "buttons": [
-      { "label": "View Available Houses", "path": "/listings" },
-      { "label": "Book a Site Visit", "path": "/contact" }
+      {
+        "label": "View Available Houses",
+        "path": "/listings"
+      },
+      {
+        "label": "Book a Site Visit",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "house_sector35_1.jpg",
-      "sector35_karnal_map.png"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,13 +61,56 @@
       "This excellent location enhances the value of every House For Sale in Sector 35. Residents benefit from proximity to reputed schools advanced healthcare facilities bustling markets and important transport links including quick access to the National Highway 44. Discover a location where convenience meets luxury living."
     ],
     "locations": [
-      "NH 44 Delhi-Chandigarh Highway access",
-      "Proximity to Sector 33 and Sector 36",
-      "Near major city hospitals and clinics",
-      "Easy reach of reputed educational institutions",
-      "Well-developed internal sector roads",
-      "Close to major local markets and shopping complexes",
-      "Fast access to recreational parks and green spaces"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

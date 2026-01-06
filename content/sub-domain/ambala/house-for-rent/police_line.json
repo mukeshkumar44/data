@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-police-line-home.jpg",
-      "police-line-ambala-security.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The established nature of Police Line means infrastructure is robust, including reliable utility supplies and well-maintained roads. When searching for your next rental house, consider the distance to educational institutions, healthcare facilities, and shopping hubs—all readily available within a short distance from the Police Line residential area. This locality truly simplifies daily logistics for Ambala residents."
     ],
     "locations": [
-      "Ambala Cantt Railway Station Connectivity",
-      "Proximity to Local Schools and Educational Institutes",
-      "Easy Access to Major Hospitals and Clinics",
-      "Nearby Grocery Stores and Local Markets",
-      "Banking and ATM Facilities within Walking Distance",
-      "Direct Road Access to National Highway 44",
-      "Public Transport Stops and Auto Stands",
-      "Parks and Recreational Green Spaces"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

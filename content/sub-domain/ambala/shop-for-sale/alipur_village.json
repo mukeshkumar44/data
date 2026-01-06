@@ -7,10 +7,19 @@
       "Alipur Village is known for its strategic location, excellent connectivity, and growing commercial potential. Our team ensures you find the ideal shop that meets your business needs and budget. Explore our listings today and take the first step towards owning a shop in one of the most promising areas."
     ],
     "buttons": [
-      { "label": "View Listings", "path": "/listings" },
-      { "label": "Contact Us", "path": "/contact" }
+      {
+        "label": "View Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Contact Us",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Available Shops in Alipur Village",
@@ -19,12 +28,30 @@
       "Each shop is strategically located to ensure maximum visibility and footfall. Our team provides detailed information about the property, including size, pricing, and amenities, to help you make an informed decision."
     ],
     "features": [
-      { "title": "Compact Shop", "description": "Perfect for small businesses or startups, these shops offer affordable space in high-traffic areas of Alipur Village." },
-      { "title": "Medium-Sized Shop", "description": "Ideal for retail stores or service providers, these spaces provide ample room for operations and customer interaction." },
-      { "title": "Large Commercial Space", "description": "Suitable for established businesses or franchises, these shops offer expansive areas with premium amenities." },
-      { "title": "Corner Shop", "description": "Located at prime corners, these shops ensure maximum visibility and accessibility for your business." },
-      { "title": "Shop in Market Area", "description": "Positioned in bustling market areas, these spaces guarantee high footfall and business potential." },
-      { "title": "Shop Near Residential Colonies", "description": "Perfect for businesses targeting local residents, these shops are conveniently located near residential hubs." }
+      {
+        "title": "Compact Shop",
+        "description": "Perfect for small businesses or startups, these shops offer affordable space in high-traffic areas of Alipur Village."
+      },
+      {
+        "title": "Medium-Sized Shop",
+        "description": "Ideal for retail stores or service providers, these spaces provide ample room for operations and customer interaction."
+      },
+      {
+        "title": "Large Commercial Space",
+        "description": "Suitable for established businesses or franchises, these shops offer expansive areas with premium amenities."
+      },
+      {
+        "title": "Corner Shop",
+        "description": "Located at prime corners, these shops ensure maximum visibility and accessibility for your business."
+      },
+      {
+        "title": "Shop in Market Area",
+        "description": "Positioned in bustling market areas, these spaces guarantee high footfall and business potential."
+      },
+      {
+        "title": "Shop Near Residential Colonies",
+        "description": "Perfect for businesses targeting local residents, these shops are conveniently located near residential hubs."
+      }
     ]
   },
   "locationsSection": {
@@ -34,16 +61,56 @@
       "Explore the neighboring areas and discover why Alipur Village is a preferred destination for commercial investments."
     ],
     "locations": [
-      "Ambala Cantt",
-      "Sector 7 Ambala",
-      "Sector 8 Ambala",
-      "Ambala City",
-      "Naraingarh",
-      "Barara",
-      "Shahzadpur",
-      "Mullana",
-      "Jagadhri",
-      "Yamunanagar"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -53,30 +120,84 @@
       "Here are some compelling reasons why you should consider buying a shop in Alipur Village."
     ],
     "points": [
-      { "title": "Strategic Location", "description": "Alipur Village is well-connected to major roads and highways, ensuring easy accessibility for customers and suppliers." },
-      { "title": "Growing Commercial Hub", "description": "The area is rapidly developing into a commercial hotspot, attracting businesses from various sectors." },
-      { "title": "Affordable Prices", "description": "Compared to other commercial areas, Alipur Village offers competitive pricing for shops, making it a cost-effective investment." },
-      { "title": "High Footfall", "description": "Prime locations in Alipur Village ensure consistent customer traffic, boosting business potential." },
-      { "title": "Infrastructure Development", "description": "Ongoing infrastructure projects enhance the area's appeal and future growth prospects." },
-      { "title": "Business-Friendly Environment", "description": "Local policies and support systems encourage entrepreneurship and business growth in Alipur Village." },
-      { "title": "Proximity to Residential Areas", "description": "Shops near residential colonies benefit from a steady customer base of local residents." },
-      { "title": "Investment Potential", "description": "With rising demand for commercial spaces, investing in Alipur Village promises significant returns in the future." }
+      {
+        "title": "Strategic Location",
+        "description": "Alipur Village is well-connected to major roads and highways, ensuring easy accessibility for customers and suppliers."
+      },
+      {
+        "title": "Growing Commercial Hub",
+        "description": "The area is rapidly developing into a commercial hotspot, attracting businesses from various sectors."
+      },
+      {
+        "title": "Affordable Prices",
+        "description": "Compared to other commercial areas, Alipur Village offers competitive pricing for shops, making it a cost-effective investment."
+      },
+      {
+        "title": "High Footfall",
+        "description": "Prime locations in Alipur Village ensure consistent customer traffic, boosting business potential."
+      },
+      {
+        "title": "Infrastructure Development",
+        "description": "Ongoing infrastructure projects enhance the area's appeal and future growth prospects."
+      },
+      {
+        "title": "Business-Friendly Environment",
+        "description": "Local policies and support systems encourage entrepreneurship and business growth in Alipur Village."
+      },
+      {
+        "title": "Proximity to Residential Areas",
+        "description": "Shops near residential colonies benefit from a steady customer base of local residents."
+      },
+      {
+        "title": "Investment Potential",
+        "description": "With rising demand for commercial spaces, investing in Alipur Village promises significant returns in the future."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shops in Alipur Village",
     "description": "Here are some common questions and answers to help you understand the process of buying a shop in Alipur Village.",
     "faqs": [
-      { "question": "What types of shops are available in Alipur Village", "answer": "We offer a variety of shops, including compact, medium-sized, and large commercial spaces. Each shop is strategically located to maximize business potential." },
-      { "question": "Is Alipur Village a good location for commercial investments", "answer": "Yes, Alipur Village is a growing commercial hub with excellent connectivity, high footfall, and affordable pricing, making it an ideal choice for investments." },
-      { "question": "How can I view listings of shops for sale in Alipur Village", "answer": "You can explore our listings on our website or contact our team for personalized assistance in finding the perfect shop." },
-      { "question": "What is the average price of a shop in Alipur Village", "answer": "Prices vary depending on the size, location, and amenities of the shop. Our team provides detailed pricing information for each listing." },
-      { "question": "Are there any financing options available for buying a shop", "answer": "Yes, we can guide you through various financing options and help you secure the best deal for your investment." },
-      { "question": "What are the benefits of buying a shop in a market area", "answer": "Shops in market areas ensure high visibility and consistent customer traffic, which are crucial for business success." },
-      { "question": "Can I customize the shop space according to my business needs", "answer": "Yes, many shops offer flexible layouts that can be customized to suit your specific business requirements." },
-      { "question": "What is the process of purchasing a shop in Alipur Village", "answer": "The process involves selecting a shop, negotiating the price, and completing legal formalities. Our team assists you at every step to ensure a smooth transaction." },
-      { "question": "Are there any legal considerations when buying a shop", "answer": "Yes, it is essential to verify property documents and ensure compliance with local regulations. We provide legal support to safeguard your investment." },
-      { "question": "How can I get more information about a specific shop", "answer": "You can contact our team for detailed information about any shop, including its features, pricing, and availability." }
+      {
+        "question": "What types of shops are available in Alipur Village",
+        "answer": "We offer a variety of shops, including compact, medium-sized, and large commercial spaces. Each shop is strategically located to maximize business potential."
+      },
+      {
+        "question": "Is Alipur Village a good location for commercial investments",
+        "answer": "Yes, Alipur Village is a growing commercial hub with excellent connectivity, high footfall, and affordable pricing, making it an ideal choice for investments."
+      },
+      {
+        "question": "How can I view listings of shops for sale in Alipur Village",
+        "answer": "You can explore our listings on our website or contact our team for personalized assistance in finding the perfect shop."
+      },
+      {
+        "question": "What is the average price of a shop in Alipur Village",
+        "answer": "Prices vary depending on the size, location, and amenities of the shop. Our team provides detailed pricing information for each listing."
+      },
+      {
+        "question": "Are there any financing options available for buying a shop",
+        "answer": "Yes, we can guide you through various financing options and help you secure the best deal for your investment."
+      },
+      {
+        "question": "What are the benefits of buying a shop in a market area",
+        "answer": "Shops in market areas ensure high visibility and consistent customer traffic, which are crucial for business success."
+      },
+      {
+        "question": "Can I customize the shop space according to my business needs",
+        "answer": "Yes, many shops offer flexible layouts that can be customized to suit your specific business requirements."
+      },
+      {
+        "question": "What is the process of purchasing a shop in Alipur Village",
+        "answer": "The process involves selecting a shop, negotiating the price, and completing legal formalities. Our team assists you at every step to ensure a smooth transaction."
+      },
+      {
+        "question": "Are there any legal considerations when buying a shop",
+        "answer": "Yes, it is essential to verify property documents and ensure compliance with local regulations. We provide legal support to safeguard your investment."
+      },
+      {
+        "question": "How can I get more information about a specific shop",
+        "answer": "You can contact our team for detailed information about any shop, including its features, pricing, and availability."
+      }
     ]
   },
   "contactSection": {
@@ -85,6 +206,11 @@
       "If you have any questions or need assistance in finding the perfect shop, our team is here to help.",
       "Fill out the form below, and we will get back to you promptly."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

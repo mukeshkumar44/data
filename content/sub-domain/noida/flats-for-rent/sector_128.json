@@ -7,10 +7,19 @@
       "Whether you need a compact 1 BHK for a quick commute or a sprawling 4 BHK residence for your family, Sector 128 offers unparalleled rental diversity. Explore fully furnished, semi-furnished, and unfurnished options tailored to your specific lifestyle and budget. Start your search today and step into the elevated living experience that only Sector 128 Noida can provide."
     ],
     "buttons": [
-      { "label": "Explore Available Flats", "path": "/listings" },
-      { "label": "Contact Rental Experts", "path": "/contact" }
+      {
+        "label": "Explore Available Flats",
+        "path": "/listings"
+      },
+      {
+        "label": "Contact Rental Experts",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Rental Configurations and Premium Living Spaces in Sector 128 Noida",
@@ -52,14 +61,56 @@
       "Explore neighboring sectors that maintain excellent infrastructure and connectivity. Our property portfolio extends across this high-demand zone, ensuring you find the best Flat For Rent in Sector 128 or its immediate vicinity without compromising on quality or convenience."
     ],
     "locations": [
-      "Sector 137 Noida",
-      "Sector 93 Noida",
-      "Sector 150 Noida",
-      "Sector 44 Noida",
-      "Jaypee Wish Town",
-      "Noida Expressway",
-      "Knowledge Park V",
-      "Pari Chowk Greater Noida"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to find your ideal Flat For Rent in Sector 128 Noida Let our dedicated team of property experts guide you through the best listings that match your specific requirements and budget.",
       "We provide personalized assistance, legal vetting of documents, and seamless negotiations to ensure a smooth transition into your new home. Reach out now for exclusive access to verified rental properties."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

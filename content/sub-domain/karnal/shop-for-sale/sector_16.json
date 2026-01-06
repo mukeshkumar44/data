@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "shop_sector16_front.jpg",
-      "karnal_commercial_map.png"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Our experts provide detailed comparative analyses, helping you position your investment advantageously. We list nearby commercial hotspots that contribute to the overall economic dynamism of Sector 16 Karnal, ensuring you are fully informed about the regional growth trends before making a commitment. This holistic view maximizes your return on investment and guarantees long-term stability in the competitive Karnal market."
     ],
     "locations": [
-      "Sector 14 Karnal Commercial Hub",
-      "Sector 13P Institutional Area",
-      "Model Town Main Market",
-      "Nirmal Vihar Retail Outlets",
-      "Kunjpura Road Commercial Zone",
-      "NH 44 Service Lane Commercials",
-      "Sector 7 Main Bazaar",
-      "Jain Colony Shopping Center"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

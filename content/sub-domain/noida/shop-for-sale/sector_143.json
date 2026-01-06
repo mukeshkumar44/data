@@ -7,10 +7,19 @@
       "We present a curated selection of commercial units ranging from high street retail spaces and double-height showrooms to dedicated food court units perfect for entrepreneurs and established brands. Whether you seek immediate rental income or long-term capital appreciation, investing in commercial property here promises significant returns due to the area’s robust infrastructure development and planned future growth. Explore diverse investment sizes and find the ideal commercial shop that aligns perfectly with your financial goals and business vision today."
     ],
     "buttons": [
-      { "label": "Explore Available Shops", "path": "/listings" },
-      { "label": "Get Free Investment Guide", "path": "/contact" }
+      {
+        "label": "Explore Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Free Investment Guide",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Options for Commercial Shop For Sale in Sector 143 Noida",
@@ -52,11 +61,56 @@
       "Furthermore, Sector 143 is close to major institutional areas and IT parks guaranteeing a constant flow of working professionals who drive daytime retail demand. Key infrastructure like the upcoming metro line extension and planned service roads enhance logistical efficiency and significantly boost the commercial value of every Shop For Sale in Sector 143. This combination of residential density, corporate traffic, and world-class infrastructure makes Sector 143 a commercial hotspot."
     ],
     "locations": [
-      "Noida Expressway Direct Access",
-      "Proximity to Key IT Hubs Sector 137",
-      "Upcoming Metro Connectivity",
-      "Nearby Affluent Residential Sectors 142 and 144",
-      "Seamless connectivity to Greater Noida"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

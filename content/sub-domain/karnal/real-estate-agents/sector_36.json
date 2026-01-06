@@ -7,10 +7,19 @@
       "Our team provides unparalleled local market knowledge, ensuring you find the ideal plot, residential home, or commercial space that matches your financial goals and lifestyle requirements. We handle all documentation, negotiations, and legal formalities seamlessly, transforming a complex process into a simple, successful transaction. Whether buying, selling, or investing, start your journey with the leading property dealers in Sector 36 today."
     ],
     "buttons": [
-      { "label": "Get Free Property Valuation", "path": "/valuation" },
-      { "label": "Browse Verified Listings", "path": "/listings" }
+      {
+        "label": "Get Free Property Valuation",
+        "path": "/valuation"
+      },
+      {
+        "label": "Browse Verified Listings",
+        "path": "/listings"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Specialized Real Estate Services for Buying and Selling Property in Sector 36 Karnal",
@@ -52,14 +61,56 @@
       "From high-demand residential sectors to emerging commercial hubs, our deep local network gives us access to exclusive listings often unavailable through public channels. We cover new development launches and established resale markets equally well, providing a holistic view of the Sector 36 property landscape."
     ],
     "locations": [
-      "Residential Plots",
-      "Ready-to-Move Flats",
-      "Commercial Showrooms",
-      "Rental Properties Management",
-      "Resale Independent Homes",
-      "Near NH-44 Connectivity Points",
-      "Areas Adjoining Sector 37",
-      "New Construction Projects"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

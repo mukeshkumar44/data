@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Premium Residential Living Options When You Buy House in Sector 46 Gurugram",
@@ -58,14 +61,56 @@
       "This strategic placement ensures residents enjoy quick access to Cyber City, Golf Course Extension Road, and the thriving commercial zones around Subhash Chowk, while being surrounded by established residential sectors that maintain the area’s premium appeal. The locality boasts excellent shopping complexes, recreational parks, and sports facilities within a short radius, cementing its status as a self-sufficient and fully developed locality in Gurugram."
     ],
     "locations": [
-      "Sector 47 Gurugram",
-      "South City I",
-      "Subhash Chowk",
-      "Malibu Town",
-      "Huda City Centre Metro Station",
-      "NH 48 Delhi Jaipur Highway",
-      "Medanta The Medicity Hospital",
-      "Nirvana Country"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

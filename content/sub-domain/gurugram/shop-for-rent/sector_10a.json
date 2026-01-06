@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Spaces Available Shops For Rent in Sector 10A Gurugram",
@@ -58,14 +61,56 @@
       "We highlight key adjacent areas and internal hubs that complement the business environment of Sector 10A. Renting a shop here gives you access to a large, captive audience and streamlined logistics, positioning your enterprise for long-term growth and stability within the vibrant Gurugram commercial landscape."
     ],
     "locations": [
-      "Main Market Sector 10 Commercial Hub",
-      "HUDA Market Sector 10A Activity Center",
-      "Neelam Bata Road Commercial Belt Connectivity",
-      "Proximity to Sector 11 Residential Catchment",
-      "Easy Access to Old Gurugram Connectivity Points",
-      "Business Traffic near Ajronda Chowk",
-      "Mathura Road NH-44 Access Points",
-      "Neighboring Sector 9 Retail Areas"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse House Configurations and Property Sizes Available in Sector 7 Karnal",
@@ -58,14 +61,56 @@
       "Sector 6 offers immediate access to the main commercial hub, while Sector 8 is known for its newer developments and institutional infrastructure. Sector 9 often features properties close to major highways and bypasses, facilitating easier intercity travel. This connectivity ensures residents of Sector 7 benefit from proximity to diverse schools, shopping complexes, and recreational centers located nearby without compromising the peaceful residential environment that Sector 7 itself provides. We analyze the market trends across these areas to give you a comprehensive overview, ensuring you secure the best investment property in the wider Sector 7 vicinity of Karnal."
     ],
     "locations": [
-      "Sector 6 Karnal",
-      "Sector 8 Karnal",
-      "Sector 9 Karnal",
-      "Sector 13 Karnal",
-      "Model Town Karnal",
-      "Jundla Gate Area",
-      "New Housing Board Colony",
-      "Nirmal Vihar Karnal"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

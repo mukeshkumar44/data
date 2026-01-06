@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero-jalbera-house1.jpg",
-      "/images/hero-jalbera-house2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Investing in a house for sale here means you are centrally located yet benefit from a tranquil environment. Review the nearby key areas that enhance the value proposition and convenience of owning a home on Jalbera Road."
     ],
     "locations": [
-      "Ambala Cantonment Ambala Cantt",
-      "Ambala City Main Hub",
-      "Saha Industrial Area",
-      "NH 44 Connectivity Corridor",
-      "Baldev Nagar Residential Area",
-      "Model Town Ambala",
-      "Sector 7 Housing Society",
-      "Railway Road Commercial Zone"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

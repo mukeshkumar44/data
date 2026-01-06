@@ -7,10 +7,19 @@
       "Our platform ensures you view only genuine listings with transparent pricing and comprehensive property details. Start exploring listings for a Flat For Rent in mg road now and experience effortless home searching facilitated by local experts. We focus on providing detailed virtual tours and accurate locality insights so you can make the best decision swiftly without wasting valuable time on unqualified site visits that do not meet your exact criteria."
     ],
     "buttons": [
-      { "label": "Explore Verified Flats", "path": "/search" },
-      { "label": "Schedule a Call Back", "path": "/contact" }
+      {
+        "label": "Explore Verified Flats",
+        "path": "/search"
+      },
+      {
+        "label": "Schedule a Call Back",
+        "path": "/contact"
+      }
     ],
-    "images": ["mg road_flat_1.jpg", "mg road_lifestyle.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring the Diverse Flat For Rent Options in mg road Available for Immediate Move-In",
@@ -52,14 +61,56 @@
       "Understanding the unique character of each neighborhood surrounding mg road is key to making a truly informed rental decision that benefits your lifestyle. These neighboring locations maintain excellent access to the core mg road infrastructure including the rapid transit metro line, major highways, and essential services, ensuring that you never compromise on urban convenience or quality of life."
     ],
     "locations": [
-      "DLF Phase 1 Residential Area",
-      "Sushant Lok Phase 2 Flats",
-      "Sector 29 Rental Apartments",
-      "Golf Course Road Extension",
-      "South City 1 Luxury Rentals",
-      "Ardee City Flats and Society",
-      "Sector 44 Gated Communities",
-      "Sikanderpur Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Don't miss out on securing the absolute best rental properties in this highly desirable and competitive location. Our specialized team of mg road property experts is ready immediately to provide personalized guidance, arrange timely property viewings tailored to your schedule, and assist you meticulously in drafting the perfect, legally sound lease agreement.",
       "Reach out to our professional team today to discuss your specific residential requirements, whether you urgently need a budget-friendly and compact 1 BHK unit or a sprawling luxury penthouse apartment. We consistently guarantee a smooth, transparent, and highly efficient renting experience for you from the initial search stage right through to the final move-in process."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

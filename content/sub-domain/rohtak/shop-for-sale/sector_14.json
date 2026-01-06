@@ -7,10 +7,19 @@
       "We present a curated selection of commercial properties ranging from small retail outlets ideal for emerging entrepreneurs to large showrooms perfect for established brands. Each listing is verified and strategically positioned to maximize commercial viability. Explore current listings today and take the definitive step toward owning a profitable commercial asset in one of Rohtak’s most sought-after sectors. Sector 14 is not just a location it is a commercial destination."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/listings/sector-14-shops" },
-      { "label": "Request Commercial Valuation Report", "path": "/contact-us" }
+      {
+        "label": "View Available Shops",
+        "path": "/listings/sector-14-shops"
+      },
+      {
+        "label": "Request Commercial Valuation Report",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Property Options Shop Investment Categories in Sector 14 Rohtak",
@@ -52,12 +61,56 @@
       "Strategic placement near educational institutions and major residential sectors like Sector 1 and Sector 2 guarantees a steady influx of potential clientele. This strong demographic backdrop coupled with superior infrastructure planning solidifies Sector 14’s status as a commercial property hotspot offering investors assured long-term stability and growth prospects for any shop venture."
     ],
     "locations": [
-      "Sector 15 Main Market",
-      "HUDA City Centre Rohtak",
-      "Maharshi Dayanand University MDU",
-      "Civil Lines Residential Area",
-      "Rohtak Railway Station Access",
-      "Delhi Bypass Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to explore the best Shop For Sale in Sector 14 Rohtak We offer personalized consultations market reports and property tours tailored to your specific investment criteria. Our local experts provide verified listings and transparent dealings ensuring a confident purchasing experience.",
       "Fill out the form below to receive a call back and gain access to off-market commercial inventory listings and detailed financial projections for your investment."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

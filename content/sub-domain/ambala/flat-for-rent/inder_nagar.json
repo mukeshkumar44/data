@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "inder-nagar-flat-exterior.jpg",
-      "rental-living-room-ambala.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "Key institutions and recreational spots surround the area adding to its residential appeal. For families finding quality education is easy with reputable schools within a short distance. Shopping enthusiasts appreciate the local markets and nearby malls providing all necessary provisions and luxury items. Furthermore the area benefits from excellent civic infrastructure including well-maintained roads and reliable utilities. When you choose a flat for rent in Inder Nagar Ambala you are not just selecting a property you are investing in a lifestyle of convenience and smooth transitions. Review the important access points and nearby facilities below to understand the logistical advantages of living here."
     ],
     "locations": [
-      "Near Ambala City Railway Station",
-      "Close to Civil Hospital Ambala",
-      "Easy Access to Major Banks and ATMs",
-      "Proximity to Sadar Bazar Market",
-      "Well-Connected to NH 44 Highway",
-      "Walking distance to Local Parks"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -169,6 +213,4 @@
       "message"
     ]
   }
-}
-"
 }

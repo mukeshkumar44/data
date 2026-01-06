@@ -7,12 +7,18 @@
       "Discover modern apartments, spacious family flats, and compact studio options designed for comfortable living. Sector 8 provides unparalleled access to essential services, top schools, and vibrant local markets, making it the ideal choice for families and professionals alike. Start exploring the best properties available now and secure your next home with confidence and ease. Let us help you find the ideal flat for rent in Sector 8 Ambala without the usual rental market stress."
     ],
     "buttons": [
-      { "label": "View All Rental Listings", "path": "/listings/sector8" },
-      { "label": "Schedule a Property Tour", "path": "/contact-us" }
+      {
+        "label": "View All Rental Listings",
+        "path": "/listings/sector8"
+      },
+      {
+        "label": "Schedule a Property Tour",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "sector-8-flat-hero-1.jpg",
-      "sector-8-flat-hero-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Whether you work in the commercial areas or need frequent access to the railway station, selecting a Flat For Rent in Sector 8 provides a significant geographical advantage. Explore the important locales and amenities that make this sector a preferred address for renters."
     ],
     "locations": [
-      "Ambala Cantt Railway Station Accessibility",
-      "Proximity to Chandigarh Highway NH 44",
-      "Easy Drive to Ambala Bus Stand",
-      "Nearby Schools and Educational Institutions",
-      "Access to Local Markets Sector 7 Shopping Complex",
-      "Medical Facilities and Hospitals Nearby",
-      "Connectivity to Industrial Area Ambala",
-      "Adjacent to Sector 9 Residential Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

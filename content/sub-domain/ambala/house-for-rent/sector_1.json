@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "house_sector1_hero1.jpg",
-      "house_sector1_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "Specific zones within or immediately adjacent to Sector 1 offer different vibes from quiet tree-lined streets to areas closer to the main thoroughfare. We highlight properties that provide easy commutes to Ambala Cantt and Ambala City making life significantly smoother for professionals. Our location guide helps prospective tenants understand the immediate neighborhood context including park proximity and security levels before committing to a rental agreement ensuring a perfect fit for your lifestyle."
     ],
     "locations": [
-      "Sector 2 Residential Area",
-      "Ambala City Main Market Access",
-      "Proximity to Ambala Cantonment Board",
-      "Educational Hubs near Sector 1",
-      "Connectivity to NH 44 National Highway",
-      "Nearby Commercial Shopping Centers"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

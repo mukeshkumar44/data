@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/sector2-flat-exterior.jpg",
-      "/images/sector2-living-room.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The neighborhood surrounding Sector 2 is well-developed, featuring reputed schools like Scholars Rosary School, high-end medical facilities, and vibrant local markets. Living here means benefiting from established civic infrastructure, including reliable water supply and organized sanitation services. This strong local ecosystem makes flats in Sector 2 highly desirable for families prioritizing stability and convenience in their living arrangements."
     ],
     "locations": [
-      "Sector 1 Residential Area",
-      "Sector 3 Prime Apartments",
-      "Model Town Extension",
-      "Delhi Road Commercial Hub",
-      "D-Park Market Area",
-      "Sunaria Housing Board",
-      "Industrial Area Rohtak",
-      "Shivaji Colony"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

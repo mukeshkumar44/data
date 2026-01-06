@@ -7,10 +7,19 @@
       "Securing a perfect rental property should be stress-free. Our listings provide detailed information high-quality images and transparent pricing ensuring you have all the facts before making a decision. Explore the vibrant neighborhood safe streets and easy access to essential services that make renting a house in Jaggi Garden Ambala an excellent choice for individuals and families alike. Start your search today and step into your new home tomorrow."
     ],
     "buttons": [
-      { "label": "Explore Available Houses", "path": "/rentals" },
-      { "label": "Contact Rental Specialists", "path": "/contact" }
+      {
+        "label": "Explore Available Houses",
+        "path": "/rentals"
+      },
+      {
+        "label": "Contact Rental Specialists",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero1.jpg", "hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Rental Property Options and Configurations Available in Jaggi Garden Ambala",
@@ -52,12 +61,56 @@
       "The area is thoughtfully developed with wide roads and reliable public transportation links including local bus services and auto-rickshaw stands. Residents benefit from being near major highways and the Ambala Cantt Railway Station allowing for easy intercity travel. Choosing to rent a house here means prioritizing accessibility to top educational institutions healthcare facilities and vibrant local markets while enjoying the quieter residential atmosphere that Jaggi Garden is known for throughout Ambala."
     ],
     "locations": [
-      "Ambala Cantt Railway Station Accessibility",
-      "Proximity to Local Mandi and Markets",
-      "Easy Access to National Highway 44",
-      "Near Ambala City Central Hospital",
-      "Close to Major Educational Institutions",
-      "Connectivity to Sector 9 Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Don't miss out on the best rental properties available in Jaggi Garden Ambala. Our expert team is ready to provide personalized recommendations schedule viewings and assist you throughout the leasing process.",
       "Fill out the form below and one of our dedicated rental specialists will contact you shortly to understand your needs and help you find the perfect home quickly and efficiently."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

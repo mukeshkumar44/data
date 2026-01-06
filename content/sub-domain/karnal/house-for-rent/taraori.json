@@ -7,12 +7,18 @@
       "Taraori is rapidly developing, boasting excellent infrastructure, proximity to NH-44, and strong local community structures, making it an ideal location for renters. Explore our exclusive inventory of high-quality houses available for rent right now. Use our advanced search filters to narrow down options by BHK configuration, monthly budget, essential amenities like parking and security, and specific neighborhood preferences. Start your hassle-free search today and step into your perfect Taraori home quickly."
     ],
     "buttons": [
-      { "label": "Search All Rental Houses Now", "path": "/search-rentals" },
-      { "label": "View Independent Houses", "path": "/independent-houses" }
+      {
+        "label": "Search All Rental Houses Now",
+        "path": "/search-rentals"
+      },
+      {
+        "label": "View Independent Houses",
+        "path": "/independent-houses"
+      }
     ],
     "images": [
-      "/images/taraori-house-rental-hero-1.jpg",
-      "/images/taraori-house-rental-hero-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Whether you prefer the bustle of the town center or a quieter residential pocket bordering the agricultural lands, our comprehensive location guide helps you pinpoint the most desirable areas for your family. We highlight neighborhoods that offer verified security, reliable utility connections, and established community networks."
     ],
     "locations": [
-      "Taraori Main Market Area",
-      "Near Railway Station Taraori",
-      "Indri Road Residential Clusters",
-      "Taraori Bypass Road Vicinity",
-      "Gharaunda Housing Options",
-      "Assandh Road Taraori Sector",
-      "Areas with easy access to NH-44",
-      "Pehwa Chowk Residential Colony"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to move into your new home in Taraori Karnal district but need professional assistance? Our real estate rental specialists have deep knowledge of the local market and are prepared to match you with verified, high-quality houses for rent that meet your exact specifications and budget.",
       "Fill out the short inquiry form below, and a dedicated rental consultant will reach out to schedule property viewings or answer any complex questions you may have about leasing terms and local residency requirements in Taraori."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -1,4 +1,3 @@
-```json
 {
   "domain": "www.exampleproperty.com",
   "hero": {
@@ -8,10 +7,19 @@
       "Whether you're launching a new venture or expanding your existing business, our rental shops in Kallerheri offer flexible terms, modern amenities, and prime positioning in one of the area's most sought-after commercial hubs."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/shop-listings" },
-      { "label": "Contact Agent", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/shop-listings"
+      },
+      {
+        "label": "Contact Agent",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Shop Rental Options in Kallerheri for Every Business Type",
@@ -20,12 +28,30 @@
       "Each shop space comes with essential commercial amenities and the potential for customization to create your ideal business environment in this thriving commercial district."
     ],
     "features": [
-      { "title": "4 Marla Plot", "description": "Ideal for boutique stores or small service providers, these compact shops offer affordable entry into Kallerheri's commercial market with smart space utilization and high visibility." },
-      { "title": "6 Marla Plot", "description": "Perfect for growing retailers, these medium-sized shops provide ample display area and storage space while maintaining excellent street frontage in prime locations." },
-      { "title": "8 Marla Plot", "description": "Spacious commercial units suitable for established businesses needing room for inventory, customer service areas, and potential staff facilities in high-traffic zones." },
-      { "title": "10 Marla Plot", "description": "Premium retail spaces designed for brands requiring substantial floor space, multiple display sections, and comfortable customer movement areas in central Kallerheri." },
-      { "title": "12 Marla Plot", "description": "Large format commercial units ideal for showrooms, supermarkets, or multi-service businesses needing extensive space and prominent street presence." },
-      { "title": "14 Marla Plot", "description": "Exceptional commercial properties for flagship stores or businesses planning substantial operations with potential for mezzanine levels or specialized layouts." }
+      {
+        "title": "4 Marla Plot",
+        "description": "Ideal for boutique stores or small service providers, these compact shops offer affordable entry into Kallerheri's commercial market with smart space utilization and high visibility."
+      },
+      {
+        "title": "6 Marla Plot",
+        "description": "Perfect for growing retailers, these medium-sized shops provide ample display area and storage space while maintaining excellent street frontage in prime locations."
+      },
+      {
+        "title": "8 Marla Plot",
+        "description": "Spacious commercial units suitable for established businesses needing room for inventory, customer service areas, and potential staff facilities in high-traffic zones."
+      },
+      {
+        "title": "10 Marla Plot",
+        "description": "Premium retail spaces designed for brands requiring substantial floor space, multiple display sections, and comfortable customer movement areas in central Kallerheri."
+      },
+      {
+        "title": "12 Marla Plot",
+        "description": "Large format commercial units ideal for showrooms, supermarkets, or multi-service businesses needing extensive space and prominent street presence."
+      },
+      {
+        "title": "14 Marla Plot",
+        "description": "Exceptional commercial properties for flagship stores or businesses planning substantial operations with potential for mezzanine levels or specialized layouts."
+      }
     ]
   },
   "locationsSection": {
@@ -35,14 +61,56 @@
       "Business owners considering Kallerheri will appreciate the connectivity to these nearby commercial hubs, expanding their potential customer base while maintaining a presence in this desirable location."
     ],
     "locations": [
-      "Sector 12 Market",
-      "Kallerheri Road Commercial Strip",
-      "Nehru Place",
-      "Gandhi Nagar Market",
-      "City Center Plaza",
-      "Mall Road Business District",
-      "Industrial Area Commercial Zone",
-      "Metro Station Retail Corridor"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -52,30 +120,84 @@
       "Our shop rentals in Kallerheri stand out from competitors through exceptional location advantages, flexible leasing options, and properties designed for commercial success."
     ],
     "points": [
-      { "title": "Strategic Location", "description": "Kallerheri's central positioning ensures excellent connectivity to residential areas, transportation hubs, and major road networks, guaranteeing consistent customer flow throughout the day." },
-      { "title": "Growing Commercial Hub", "description": "The area is experiencing rapid commercial development with increasing foot traffic, making it an ideal time to establish your business presence in this emerging market." },
-      { "title": "Diverse Customer Base", "description": "Shops in Kallerheri benefit from serving both local residents and visitors from surrounding areas, providing access to a wide demographic of potential customers." },
-      { "title": "Modern Infrastructure", "description": "Our commercial properties feature contemporary designs with proper electrical setups, parking facilities, and storefronts that meet modern business requirements." },
-      { "title": "Flexible Rental Terms", "description": "We offer various lease options including short-term and long-term agreements to accommodate different business models and growth stages." },
-      { "title": "Competitive Pricing", "description": "Compared to more established commercial districts, Kallerheri offers excellent value with lower overhead costs while maintaining strong business potential." },
-      { "title": "Future Appreciation", "description": "With planned infrastructure improvements and commercial developments, shop rentals in Kallerheri are positioned for significant value appreciation in coming years." },
-      { "title": "Professional Management", "description": "Our dedicated property team provides responsive maintenance services and support to ensure your business operations run smoothly." }
+      {
+        "title": "Strategic Location",
+        "description": "Kallerheri's central positioning ensures excellent connectivity to residential areas, transportation hubs, and major road networks, guaranteeing consistent customer flow throughout the day."
+      },
+      {
+        "title": "Growing Commercial Hub",
+        "description": "The area is experiencing rapid commercial development with increasing foot traffic, making it an ideal time to establish your business presence in this emerging market."
+      },
+      {
+        "title": "Diverse Customer Base",
+        "description": "Shops in Kallerheri benefit from serving both local residents and visitors from surrounding areas, providing access to a wide demographic of potential customers."
+      },
+      {
+        "title": "Modern Infrastructure",
+        "description": "Our commercial properties feature contemporary designs with proper electrical setups, parking facilities, and storefronts that meet modern business requirements."
+      },
+      {
+        "title": "Flexible Rental Terms",
+        "description": "We offer various lease options including short-term and long-term agreements to accommodate different business models and growth stages."
+      },
+      {
+        "title": "Competitive Pricing",
+        "description": "Compared to more established commercial districts, Kallerheri offers excellent value with lower overhead costs while maintaining strong business potential."
+      },
+      {
+        "title": "Future Appreciation",
+        "description": "With planned infrastructure improvements and commercial developments, shop rentals in Kallerheri are positioned for significant value appreciation in coming years."
+      },
+      {
+        "title": "Professional Management",
+        "description": "Our dedicated property team provides responsive maintenance services and support to ensure your business operations run smoothly."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Renting Shops in Kallerheri",
     "description": "We've compiled answers to the most common queries business owners have when considering shop rentals in Kallerheri. If you don't find what you need here, our commercial property specialists are ready to assist.",
     "faqs": [
-      { "question": "What types of businesses are best suited for Kallerheri shop rentals", "answer": "Kallerheri's commercial spaces accommodate diverse businesses including retail stores, fashion boutiques, electronics shops, pharmacies, service providers like salons or repair centers, and small eateries. The area's mixed residential and commercial character supports various business models." },
-      { "question": "What is the average rental price for shops in Kallerheri", "answer": "Shop rental rates in Kallerheri vary based on size, location within the area, and property features. Current market rates range from [price range] per month for standard units to [price range] for premium corner locations or larger spaces. We provide detailed pricing during property viewings." },
-      { "question": "Are there any restrictions on business operations in Kallerheri shops", "answer": "Most commercial activities are permitted, though certain industries like heavy manufacturing or businesses requiring special licenses may need additional approvals. We verify zoning regulations for each property and help tenants understand any operational limitations before signing agreements." },
-      { "question": "How does foot traffic in Kallerheri compare to other commercial areas", "answer": "Kallerheri offers consistently good foot traffic throughout the week, with peak hours comparable to established commercial districts. The area's growing residential population ensures steady local customers, while its accessibility attracts visitors from neighboring communities." },
-      { "question": "What lease terms are available for Kallerheri shop rentals", "answer": "We offer flexible lease options including annual contracts with renewal options, multi-year agreements for established businesses, and short-term rentals (minimum 6 months) for pop-up stores or seasonal businesses. Security deposits typically equal 1-2 months' rent." },
-      { "question": "Can I modify or renovate a rented shop space in Kallerheri", "answer": "Tenants can usually make non-structural modifications with owner approval. Major renovations require written consent and often need to be restored at lease end. We facilitate these discussions to ensure spaces meet your business needs while protecting property value." },
-      { "question": "What utilities and amenities are included with Kallerheri shop rentals", "answer": "Standard rentals include electrical connections, basic plumbing, and common area maintenance. Some properties offer additional features like dedicated parking, security systems, or back office space. We provide complete amenity lists for each available unit." },
-      { "question": "How quickly can I occupy a shop after signing the rental agreement", "answer": "Occupancy timelines vary based on unit condition and any needed preparations. Many shops are ready for immediate possession, while others may require 1-2 weeks for cleaning or minor upgrades. We coordinate closely to meet your business opening schedule." },
-      { "question": "What security measures are in place for Kallerheri commercial properties", "answer": "Our shop rentals feature robust security including night patrols, CCTV surveillance in common areas, and secure locking systems. Additional security measures can often be implemented based on tenant requirements and property specifications." },
-      { "question": "How do I evaluate the best shop location within Kallerheri for my business", "answer": "Our commercial specialists analyze your business type, target customers, and operational needs to recommend optimal locations. We consider factors like visibility, accessibility, nearby complementary businesses, and future development plans to match you with the ideal shop space." }
+      {
+        "question": "What types of businesses are best suited for Kallerheri shop rentals",
+        "answer": "Kallerheri's commercial spaces accommodate diverse businesses including retail stores, fashion boutiques, electronics shops, pharmacies, service providers like salons or repair centers, and small eateries. The area's mixed residential and commercial character supports various business models."
+      },
+      {
+        "question": "What is the average rental price for shops in Kallerheri",
+        "answer": "Shop rental rates in Kallerheri vary based on size, location within the area, and property features. Current market rates range from [price range] per month for standard units to [price range] for premium corner locations or larger spaces. We provide detailed pricing during property viewings."
+      },
+      {
+        "question": "Are there any restrictions on business operations in Kallerheri shops",
+        "answer": "Most commercial activities are permitted, though certain industries like heavy manufacturing or businesses requiring special licenses may need additional approvals. We verify zoning regulations for each property and help tenants understand any operational limitations before signing agreements."
+      },
+      {
+        "question": "How does foot traffic in Kallerheri compare to other commercial areas",
+        "answer": "Kallerheri offers consistently good foot traffic throughout the week, with peak hours comparable to established commercial districts. The area's growing residential population ensures steady local customers, while its accessibility attracts visitors from neighboring communities."
+      },
+      {
+        "question": "What lease terms are available for Kallerheri shop rentals",
+        "answer": "We offer flexible lease options including annual contracts with renewal options, multi-year agreements for established businesses, and short-term rentals (minimum 6 months) for pop-up stores or seasonal businesses. Security deposits typically equal 1-2 months' rent."
+      },
+      {
+        "question": "Can I modify or renovate a rented shop space in Kallerheri",
+        "answer": "Tenants can usually make non-structural modifications with owner approval. Major renovations require written consent and often need to be restored at lease end. We facilitate these discussions to ensure spaces meet your business needs while protecting property value."
+      },
+      {
+        "question": "What utilities and amenities are included with Kallerheri shop rentals",
+        "answer": "Standard rentals include electrical connections, basic plumbing, and common area maintenance. Some properties offer additional features like dedicated parking, security systems, or back office space. We provide complete amenity lists for each available unit."
+      },
+      {
+        "question": "How quickly can I occupy a shop after signing the rental agreement",
+        "answer": "Occupancy timelines vary based on unit condition and any needed preparations. Many shops are ready for immediate possession, while others may require 1-2 weeks for cleaning or minor upgrades. We coordinate closely to meet your business opening schedule."
+      },
+      {
+        "question": "What security measures are in place for Kallerheri commercial properties",
+        "answer": "Our shop rentals feature robust security including night patrols, CCTV surveillance in common areas, and secure locking systems. Additional security measures can often be implemented based on tenant requirements and property specifications."
+      },
+      {
+        "question": "How do I evaluate the best shop location within Kallerheri for my business",
+        "answer": "Our commercial specialists analyze your business type, target customers, and operational needs to recommend optimal locations. We consider factors like visibility, accessibility, nearby complementary businesses, and future development plans to match you with the ideal shop space."
+      }
     ]
   },
   "contactSection": {
@@ -84,7 +206,11 @@
       "Ready to explore available shop spaces in Kallerheri? Our commercial property experts will guide you through all options and help find the perfect location for your business success.",
       "Complete the form below to schedule viewings, get detailed property information, or discuss your specific commercial rental requirements in Kallerheri."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }
-```

@@ -7,10 +7,19 @@
       "Our team provides comprehensive market analysis and personalized guidance ensuring you achieve the best possible outcomes in the Taraori property market. We handle all documentation and negotiation with professionalism, making your experience smooth and stress-free. Start your search for prime residential and agricultural land options today with the leading property consultants in Taraori, Karnal."
     ],
     "buttons": [
-      { "label": "Find Your Dream Property Now", "path": "/search" },
-      { "label": "Consult Our Expert Agents Today", "path": "/contact" }
+      {
+        "label": "Find Your Dream Property Now",
+        "path": "/search"
+      },
+      {
+        "label": "Consult Our Expert Agents Today",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_taraori_agents.jpg", "taraori_skyline.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Property Investment Opportunities Managed by Top Taraori Real Estate Agents",
@@ -52,14 +61,56 @@
       "Whether you are interested in the bustling commercial activity near the National Highway or a quiet residential zone tucked away from the main traffic, our Real Estate Agents in Taraori Karnal have the listings and insight you need to make an informed decision. We cover new housing schemes and established markets alike."
     ],
     "locations": [
-      "Main Taraori Town Center",
-      "Properties near NH 44 GT Road",
-      "Taraori Railway Station Area",
-      "Kheri Naroo Village Proximity",
-      "New Housing Board Schemes Taraori",
-      "Areas toward the Assandh Road Link",
-      "Commercial Hub near Grain Market",
-      "Agricultural Belt surrounding Taraori"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,7 +206,11 @@
       "Ready to take the next step in your property journey in Taraori Karnal We are here to provide personalized advice and professional service.",
       "Submit your details below or give us a call to schedule a free, non-obligatory consultation regarding buying, selling, or investing in the Taraori property market."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }
-.

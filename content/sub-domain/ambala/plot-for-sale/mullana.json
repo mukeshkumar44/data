@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Plot Sizes Available for Investment and Residential Construction in Mullana Ambala",
@@ -58,12 +61,56 @@
       "We cover plots in established neighborhoods and emerging sectors where the government is investing heavily in new infrastructure like wider roads, improved drainage, and reliable public utility connections. Whether you seek proximity to educational institutions for easy commuting or prefer quieter, well-connected residential pockets, we have options tailored to your needs. This dedication ensures that every Plot For Sale in Mullana listed on our platform meets stringent quality and location criteria. Review the high-demand zones below which currently offer the best investment value in the Mullana region of Ambala."
     ],
     "locations": [
-      "MM University Road",
-      "Near Mullana Bus Stand",
-      "Developing Sectors Phase 1 Mullana",
-      "Adjoining NH 7",
-      "Residential Enclave near Barara Road",
-      "Institutional Area Mullana"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

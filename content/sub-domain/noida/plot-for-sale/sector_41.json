@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero-sector41-1.jpg",
-      "/images/hero-sector41-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "Additionally, Sector 41 is situated close to major commercial hubs, renowned educational institutions, and world-class medical facilities. The area is also well-served by the Delhi Metro’s Blue Line, offering reliable public transportation options. Investing in a Plot For Sale in Sector 41 means placing yourself at the center of convenience, surrounded by lush parks, established markets, and a highly secure environment. We highlight specific local amenities like nearby shopping centers, recreational areas, and the proximity to the bustling markets of Sector 18."
     ],
     "locations": [
-      "Noida-Greater Noida Expressway Access",
-      "Proximity to Botanical Garden Metro Station",
-      "GIP Mall and Sector 18 Commercial Hub",
-      "Reputable Schools DPS and Amity",
-      "Leading Multi-Speciality Hospitals",
-      "Lush Green Central Parks and Recreational Zones"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

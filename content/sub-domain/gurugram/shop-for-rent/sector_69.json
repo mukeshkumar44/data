@@ -7,10 +7,19 @@
       "We provide comprehensive rental solutions spanning various sizes and configurations perfect for retail outlets cafes healthcare services or professional offices. Whether you need a compact retail unit or a sprawling double-height showroom we have the perfect commercial property to match your requirements and budget. Start your search now and position your business for immediate success in this sought-after Gurugram locality."
     ],
     "buttons": [
-      { "label": "Browse Premium Shops", "path": "/listings/commercial/sector69" },
-      { "label": "Schedule a Site Visit Now", "path": "/contact" }
+      {
+        "label": "Browse Premium Shops",
+        "path": "/listings/commercial/sector69"
+      },
+      {
+        "label": "Schedule a Site Visit Now",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero/shop-sector69-main.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Variety of Commercial Shop Rental Options in Sector 69 Gurugram Business District",
@@ -52,14 +61,56 @@
       "We focus on listings that are not just available but are strategically positioned near high-density residential developments commercial towers and proposed infrastructural projects. This forward-looking approach ensures that your chosen shop for rent in Sector 69 benefits from future appreciation and sustained economic growth making it a true future-proof investment for any serious business owner."
     ],
     "locations": [
-      "Near Sector 68 Residential Towers",
-      "Along Main Wide Sector Road 69-70",
-      "Proximity to Major NH-44 Expressway",
-      "Near Proposed Metro Link Station",
-      "Adjacent to Reputable Schools and Hospitals",
-      "Commercial Complexes Sector 69 Centre",
-      "Easy Access to Sector 77 and Sector 78",
-      "High Visibility Shop Fronts on Entry Roads"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure the perfect shop for rent in the thriving commercial landscape of Sector 69. Contact our expert real estate team now to discuss your specific business needs schedule site visits and receive personalized consultation on available premium units.",
       "We simplify the search and leasing process ensuring you find a high-performing location that drives exponential business growth and profitability."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

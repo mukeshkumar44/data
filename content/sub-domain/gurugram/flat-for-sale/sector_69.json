@@ -7,12 +7,18 @@
       "Browse through spacious 2 BHK, 3 BHK, and luxury builder floors designed for contemporary urban life. Every property listed provides detailed information on amenities, surrounding facilities, and transparent pricing. Securing a Flat For Sale in sector 69 means investing in a future of convenience, excellent appreciation potential, and a high quality of life. Start your search now and connect with trusted real estate advisors dedicated to helping you find the perfect home."
     ],
     "buttons": [
-      { "label": "Explore Latest Flats", "path": "/listings/sector-69" },
-      { "label": "Schedule a Site Visit", "path": "/contact-us" }
+      {
+        "label": "Explore Latest Flats",
+        "path": "/listings/sector-69"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "flat_sector69_exterior.jpg",
-      "flat_sector69_interior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "The neighborhood benefits from robust social infrastructure including proximity to reputed schools, world-class hospitals, and extensive shopping complexes. This comprehensive environment makes daily living easy and efficient contributing significantly to the comfort and convenience factor that modern homebuyers prioritize. We also guide you through neighbouring sectors that exhibit similar growth trends ensuring you make the most informed decision about your next home purchase."
     ],
     "locations": [
-      "Sector 68 Gurugram",
-      "Sector 70 Gurugram",
-      "Ballabhgarh Industrial Area",
-      "BPTP Parklands",
-      "Neharpar Region",
-      "Greater Gurugram Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

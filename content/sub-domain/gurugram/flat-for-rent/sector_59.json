@@ -7,12 +7,18 @@
       "Enjoy seamless connectivity to key employment centers reputed schools and excellent shopping options. Start your search today and secure a flat that perfectly matches your lifestyle needs and budget constraints. We simplify the process of finding the perfect Flat For Rent in sector 59 by providing detailed information virtual tours and expert guidance ensuring a smooth transition into your new home."
     ],
     "buttons": [
-      { "label": "Search All Rental Listings", "path": "/listings" },
-      { "label": "Contact Property Advisor", "path": "/contact" }
+      {
+        "label": "Search All Rental Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Contact Property Advisor",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "flat_sector 59_hero_1.jpg",
-      "flat_sector 59_hero_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,11 +61,56 @@
       "Tenants often look at neighboring sectors for comparison but Sector 59 maintains a distinctive appeal due to its balanced mix of established residential complexes and upcoming commercial centers. We provide localized insights into rental price trends average utility costs and community engagement levels for each micro-location ensuring you make an informed decision about where to settle within this dynamic part of Gurugram."
     ],
     "locations": [
-      "Sector 58 Residential Complexes",
-      "Sector 60 Housing Boards",
-      "BPTP Parklands Area",
-      "Omaxe New Heights Vicinity",
-      "Ambedkar Chowk Rental Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "If you need personalized assistance finding the right Flat For Rent in sector 59 or require detailed information on specific society rules our property experts are ready to help.",
       "We simplify the rental journey from initial viewing to final agreement signing providing professional support every step of the way. Contact us now to schedule property tours or discuss your specific requirements."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

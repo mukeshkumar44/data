@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-2bhk-new-palam-vihar-1.jpg",
-      "hero-2bhk-new-palam-vihar-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "The primary advantage of purchasing a 2BHK flat here is the seamless integration with major transportation arteries. Whether you rely on public transport or drive privately the ease of travel enhances your daily life significantly. Below are the key locational benefits that underline why New Palam Vihar remains a prime residential destination in the National Capital Region."
     ],
     "locations": [
-      "Proximity to Dwarka Expressway",
-      "Short drive to IGI Airport Delhi",
-      "Direct access to Palam Vihar Extension",
-      "Nearness to Sector 21 Dwarka Metro Station",
-      "Easy commute to Cyber City and Udyog Vihar",
-      "Established local markets and shopping centers"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

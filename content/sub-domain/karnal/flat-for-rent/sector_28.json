@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Rental Options Availability of Flats For Rent in Sector 28 Karnal",
@@ -58,13 +61,56 @@
       "Furthermore, the sector is well-connected by local transport and is just minutes away from the main highway, facilitating easy travel across Karnal and surrounding cities. Unlike some older parts of the city, Sector 28 boasts planned infrastructure, well-maintained roads, and reliable utility services. We help you find Flats For Rent in Sector 28 that not only offer comfort inside but also exceptional convenience right outside your doorstep, placing shopping centers, parks, and recreational areas within easy reach. This combination of comfort, accessibility, and high quality of life makes Sector 28 a top choice for renters."
     ],
     "locations": [
-      "Proximity to NH 44 National Highway",
-      "Near Reputed Schools and Colleges",
-      "Easy Access to Modern Shopping Centers",
-      "Well-Maintained Local Parks and Green Spaces",
-      "Close to Major Financial and Banking Hubs",
-      "Excellent Public Transport Connectivity",
-      "Quick Reach to Hospital and Medical Facilities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

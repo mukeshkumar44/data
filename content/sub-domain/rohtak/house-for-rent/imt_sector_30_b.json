@@ -7,10 +7,19 @@
       "Navigating the rental market can be challenging, but we simplify the process by offering transparent agreements, verified property ownership, and dedicated support throughout your tenancy. Explore fully furnished, semi-furnished, and unfurnished rental houses tailored to various budgets. Start your search today and secure a high-quality rental property near essential services, making your move to IMT Sector 30 B Rohtak seamless and stress-free. Your dream rental house is just a click away when you partner with local property experts."
     ],
     "buttons": [
-      { "label": "View Rental Listings", "path": "/listings/rent" },
-      { "label": "Request a Callback", "path": "/contact" }
+      {
+        "label": "View Rental Listings",
+        "path": "/listings/rent"
+      },
+      {
+        "label": "Request a Callback",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Range of Rental Houses in IMT Sector 30 B to Match Every Lifestyle Need",
@@ -52,12 +61,56 @@
       "Discover seamless connectivity to the IMT Sector 30 B industrial area from these nearby locations. Each area listed below maintains strong infrastructure links, ensuring your commute remains short and efficient. Whether you prefer the established atmosphere of an older colony or the planned layout of a newer sector, we cover the best residential options neighboring IMT Sector 30 B Rohtak for your convenience."
     ],
     "locations": [
-      "IMT Sector 31 Rohtak",
-      "Sector 36 Rohtak",
-      "Sector 6 Rohtak",
-      "Shivaji Colony Rohtak",
-      "Model Town Rohtak",
-      "Bhiwani Road Rohtak"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Take the first step toward finding your perfect residential rental property in this dynamic Rohtak locality. Our dedicated team is ready to provide personalized assistance filter listings based on your exact needs and arrange property viewings at your convenience while minimizing bureaucratic delays.",
       "Stop searching endlessly and start living. Reach out now for expert guidance on securing the best House For Rent in IMT Sector 30 B Rohtak quickly and efficiently. Let us help you unlock the best rental opportunities available today."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

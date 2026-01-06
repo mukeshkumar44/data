@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "rana-bagh-master-plan-ambala.jpg",
-      "premium-residential-plot-rana-bagh.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Investing in land here means placing yourself within a rapidly appreciating zone bolstered by upcoming civic projects and planned commercial development. Look for plots near established parks or main arterial roads for maximized value and accessibility. Our portfolio ensures proximity to renowned educational institutions and reliable public transport routes making daily commuting effortless and significantly enhancing the quality of life for future residents of Rana Bagh. This location is truly a benchmark for balanced living in Ambala."
     ],
     "locations": [
-      "Near Ambala City Railway Station",
-      "Proximity to Chandigarh-Ambala Highway NH44",
-      "Near Reputable Local Schools and Colleges",
-      "Access to Major Hospitals and Clinics",
-      "Established Local Markets and Shopping Centers",
-      "Close to Industrial and Commercial Hubs",
-      "Planned Green Spaces and Community Parks",
-      "Easy Access to Public Transport Terminals"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

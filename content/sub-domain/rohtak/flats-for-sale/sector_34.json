@@ -7,10 +7,19 @@
       "Our curated listings feature a wide range of modern flats, from spacious 2 BHK options perfect for young professionals to luxurious 3 BHK and 4 BHK residences designed for growing families. Every flat in Sector 34 boasts contemporary architecture, thoughtful layouts, and access to essential community infrastructure, ensuring a high standard of living. Start your search now to secure a premium residential flat in one of Rohtak's most sought-after localities."
     ],
     "buttons": [
-      { "label": "Explore Available Flats", "path": "/search-flats-sector34" },
-      { "label": "Request A Call Back", "path": "/contact" }
+      {
+        "label": "Explore Available Flats",
+        "path": "/search-flats-sector34"
+      },
+      {
+        "label": "Request A Call Back",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/sector34_hero1.jpg", "/images/sector34_hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Apartment Sizes and Configurations When Buying Flats in Sector 34",
@@ -51,7 +60,58 @@
       "While Sector 34 Rohtak stands out for its balanced environment and excellent infrastructure, understanding its competitive advantage against adjacent areas is helpful for potential buyers. Sector 34 offers better connectivity to the Delhi-Rohtak highway and key educational institutions compared to inner-city areas.",
       "Other popular sectors like Sector 14 and Sector 4 Rohtak might offer higher commercial density, but Sector 34 provides superior tranquility, larger green spaces, and newer residential complexes, attracting families looking for a modern and peaceful setting to raise children."
     ],
-    "locations": ["Sector 4 Rohtak", "Sector 14 Rohtak", "Sector 36 Rohtak", "Sunariya Village Extension", "Dabur Colony"]
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Why Investing in Flats For Sale in Sector 34 Rohtak is a Smart Decision",
@@ -146,6 +206,11 @@
       "Ready to explore the finest selection of flats for sale in Sector 34 Rohtak We offer personalized assistance to help you navigate the market and find a property that perfectly matches your lifestyle and investment goals.",
       "Fill out the form below or call us directly. Our dedicated team of Sector 34 specialists will provide you with exclusive virtual tours, detailed property reports, and tailored financial advice at no cost."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

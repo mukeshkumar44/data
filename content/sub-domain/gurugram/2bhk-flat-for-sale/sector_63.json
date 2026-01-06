@@ -7,12 +7,18 @@
       "Sector 63 is quickly emerging as a preferred residential destination for young professionals and small families seeking contemporary living spaces. Our selection of two-bedroom apartments provides efficient layouts, premium amenities, and investment security, ensuring a quality lifestyle without compromise. Secure your future home in one of Gurugram’s most promising sectors today and experience premium urban living firsthand."
     ],
     "buttons": [
-      { "label": "View All 2BHK Listings", "path": "/listings" },
-      { "label": "Request a Callback Now", "path": "/contact" }
+      {
+        "label": "View All 2BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Callback Now",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/hero-2bhk-sector63-1.jpg",
-      "/images/hero-2bhk-sector63-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Understanding the surrounding areas is crucial when buying a 2BHK flat. The seamless connectivity ensures that essential services and high-end lifestyle amenities are always just a short drive away, cementing Sector 63 as a superior residential choice."
     ],
     "locations": [
-      "Golf Course Extension Road connectivity",
-      "Proximity to Sector 62 and Sector 61",
-      "Easy access to Sohna Road and NH-48",
-      "Near major corporate offices and business parks",
-      "Surrounded by reputed international schools",
-      "Short drive to world-class hospitals",
-      "Close to major retail and dining hubs",
-      "Future metro connectivity points nearby"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

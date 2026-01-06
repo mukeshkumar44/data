@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "kala-amb-rental-hero-1.jpg",
-      "kala-amb-rental-hero-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "Our listings include homes near the main industrial sectors ensuring minimal travel for working professionals while also featuring residences in quieter areas known for better air quality and family-friendly environments. Explore these popular zones to find your ideal House For Rent in Kala Amb."
     ],
     "locations": [
-      "Industrial Area Phase 1 Rental Homes",
-      "Sardari Bagh Residential Layouts",
-      "Near Kala Amb Bus Stand Rentals",
-      "Nahan Road Connectivity Houses",
-      "Surrounding Village Rental Clusters",
-      "Residential Colonies near Local Markets"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -87,8 +131,7 @@
       {
         "title": "Legal Lease Documentation",
         "description": "Our team assists in drafting legally sound and balanced lease agreements protecting both the tenant and the landlord. We ensure all clauses regarding renewal eviction and maintenance are clear and compliant with local laws giving you confidence in your tenure."
-      }
-      ,
+      },
       {
         "title": "Extensive Inventory Access",
         "description": "We maintain the largest and most diverse inventory of quality houses for rent in Kala Amb ranging from budget-friendly flats to premium independent villas. This expansive choice significantly increases your chances of finding the perfect match quickly."

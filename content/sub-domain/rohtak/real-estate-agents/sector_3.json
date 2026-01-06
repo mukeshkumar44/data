@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "sector3_rohtak_residential_view.jpg",
-      "agent_consultation_sector3.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "We also actively cover areas like Model Town, known for its established market and diverse housing stock. Understanding the connectivity between Sector 3 and key infrastructure like the Rohtak Railway Station and major arterial roads is essential for daily commuters. Our team provides accurate cross-sector comparisons, helping you decide if an investment just outside Sector 3 might better meet your budgetary or specific lifestyle requirements without compromising access to necessary services like quality schools and healthcare facilities."
     ],
     "locations": [
-      "Sector 2 Rohtak",
-      "Model Town",
-      "Civil Lines",
-      "Railway Station Road",
-      "Sunaria Kalan",
-      "DLF Colony",
-      "Old Housing Board Colony",
-      "HUDA Market Sector 3"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

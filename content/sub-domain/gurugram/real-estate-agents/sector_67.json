@@ -7,11 +7,18 @@
       "These vetted property experts possess deep local knowledge covering pricing trends, RERA compliance, upcoming infrastructure projects, and the best residential and commercial societies like M3M Polo Suites or Emaar Palm Heights. Stop navigating complex listings alone. Let a dedicated Sector 67 real estate agent guide you from the initial search to the final registration, ensuring a secure and profitable transaction every step of the way. Whether you are looking for investment opportunities or your dream home, the best agents make the difference."
     ],
     "buttons": [
-      { "label": "Connect with Top Agents Now", "path": "/contact-agents" },
-      { "label": "Explore Verified Listings", "path": "/listings" }
+      {
+        "label": "Connect with Top Agents Now",
+        "path": "/contact-agents"
+      },
+      {
+        "label": "Explore Verified Listings",
+        "path": "/listings"
+      }
     ],
     "images": [
-      "hero-image-sector-67-gurugram.webp"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -54,14 +61,56 @@
       "Whether you are interested in the established luxury of societies like M3M Merlin or the modern amenities provided by Ireo Victory Valley, our agents have direct access to internal listings and exclusive deals often unavailable on public portals. They cover property requirements extending beyond Sector 67 into adjacent areas for a holistic search experience."
     ],
     "locations": [
-      "M3M Golfestate",
-      "Ireo Victory Valley",
-      "M3M Merlin",
-      "Emaar Palm Gardens",
-      "Sector 66 Gurugram",
-      "Sector 65 Gurugram",
-      "Badshahpur",
-      "Golf Course Extension Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

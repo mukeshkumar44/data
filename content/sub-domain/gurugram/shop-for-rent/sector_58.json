@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero-shop-sector58-1.jpg",
-      "/images/hero-shop-sector58-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "We help you identify how being located in Sector 58 leverages traffic not only from its own residential catchment but also from neighboring areas like Sector 59 and the broader Neharpar Extension. This ensures your Shop For Rent in Sector 58 attracts a wide demographic of customers, enhancing your overall market reach and profitability. Explore these strategic nearby commercial zones for synergistic business opportunities."
     ],
     "locations": [
-      "Sector 59 Commercial Strip",
-      "Proximity to Omaxe World Street",
-      "Tigaon Road Frontage Commercial Pockets",
-      "Neharpar Extension Retail Hub",
-      "Greater Gurugram High Street Access Points",
-      "Amba Public School Vicinity Retail",
-      "Connecting Road to Sector 57 Market",
-      "Industrial Area Sector 58 Adjacent Markets"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "tagore_garden_street_view.jpg",
-      "luxury_apartment_tagore_garden.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Locations such as Rajouri Garden, Subhash Nagar, and Janakpuri offer different infrastructure advantages and varied market values. Whether you seek the bustling commercial appeal of Rajouri Garden or the quieter, planned residential layouts of Janakpuri, our dedicated property dealer team provides comprehensive, side-by-side comparisons. We meticulously analyze connectivity metrics, pending infrastructure projects, and socio-economic factors in each surrounding area. This essential holistic view ensures that all your investment decisions are strategic and fully informed, guaranteeing superior long-term growth and capital appreciation regardless of the specific neighborhood you ultimately choose."
     ],
     "locations": [
-      "Rajouri Garden",
-      "Subhash Nagar",
-      "Janakpuri",
-      "Tilak Nagar",
-      "Kirti Nagar",
-      "Vikas Puri",
-      "Punjabi Bagh",
-      "Raja Garden"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,10 +7,19 @@
       "Finding the perfect home requires expert guidance and a deep understanding of the local market dynamics. Our exclusive listings in sector 78 provide verified ownership clear documentation and competitive pricing ensuring a seamless purchase experience. Whether you are looking for ready-to-move options or flats within prestigious upcoming projects sector 78 offers an excellent blend of affordability and luxury. Start your journey today and invest in a vibrant community that promises high capital appreciation and a superior lifestyle."
     ],
     "buttons": [
-      { "label": "View Available Flats", "path": "/properties" },
-      { "label": "Download Price List", "path": "/contact" }
+      {
+        "label": "View Available Flats",
+        "path": "/properties"
+      },
+      {
+        "label": "Download Price List",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore the Best Configurations and Lifestyle Amenities in Sector 78 Flats",
@@ -52,12 +61,56 @@
       "The social infrastructure surrounding Sector 78 is robust featuring numerous reputed schools multispecialty hospitals and thriving retail markets. Residents enjoy easy access to daily necessities and entertainment options without long commutes. Furthermore the government's focus on developing this belt as a smart city cluster guarantees sustained growth and enhanced civic amenities making any Flat For Sale in sector 78 a future-proof residential choice. This comprehensive environment is perfect for families seeking stability and quality of life in Gurugram."
     ],
     "locations": [
-      "Near NH-19 Connectivity",
-      "Proximity to Badarpur Border",
-      "Upcoming Metro Extensions",
-      "Surrounding Sector 77 & 80",
-      "Malls and Commercial Centers",
-      "Leading Schools and Colleges"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to find your dream Flat For Sale in sector 78 Gurugram Get personalized advice market insights and exclusive property tours tailored to your exact needs. Our team of experienced real estate professionals is here to assist you every step of the way.",
       "Fill out the contact form below and let us help you secure the best investment opportunity in Sector 78 with complete confidence and clarity."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

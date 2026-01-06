@@ -7,10 +7,19 @@
       "Our properties are designed to meet modern business needs, offering spacious interiors, ample parking, and prime visibility. With flexible payment plans and attractive pricing, securing a shop in Inder Nagar has never been easier. Take the first step towards owning a commercial space that guarantees long-term returns and success."
     ],
     "buttons": [
-      { "label": "Explore Shops", "path": "/" },
-      { "label": "Contact Us", "path": "/" }
+      {
+        "label": "Explore Shops",
+        "path": "/"
+      },
+      {
+        "label": "Contact Us",
+        "path": "/"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Shop Sizes Tailored to Your Business Needs",
@@ -19,12 +28,30 @@
       "Explore our range of shop sizes below and find the perfect fit for your venture. Each space is strategically located to maximize visibility and customer accessibility, ensuring your business stands out in Inder Nagar’s bustling commercial landscape."
     ],
     "features": [
-      { "title": "4 Marla Plot", "description": "Ideal for small businesses or boutique stores, this 4 Marla shop offers a compact yet efficient space to establish your brand in Inder Nagar." },
-      { "title": "6 Marla Plot", "description": "Perfect for medium-sized retail outlets, this 6 Marla shop provides ample space to showcase your products and attract customers." },
-      { "title": "8 Marla Plot", "description": "Designed for growing businesses, this 8 Marla shop offers spacious interiors and excellent visibility in a prime location." },
-      { "title": "10 Marla Plot", "description": "Ideal for large retail stores or service-based businesses, this 10 Marla shop combines space and convenience for maximum impact." },
-      { "title": "12 Marla Plot", "description": "Tailored for businesses requiring extensive floor space, this 12 Marla shop ensures flexibility and scalability for your operations." },
-      { "title": "14 Marla Plot", "description": "Perfect for flagship stores or multi-purpose commercial spaces, this 14 Marla shop offers unmatched visibility and accessibility." }
+      {
+        "title": "4 Marla Plot",
+        "description": "Ideal for small businesses or boutique stores, this 4 Marla shop offers a compact yet efficient space to establish your brand in Inder Nagar."
+      },
+      {
+        "title": "6 Marla Plot",
+        "description": "Perfect for medium-sized retail outlets, this 6 Marla shop provides ample space to showcase your products and attract customers."
+      },
+      {
+        "title": "8 Marla Plot",
+        "description": "Designed for growing businesses, this 8 Marla shop offers spacious interiors and excellent visibility in a prime location."
+      },
+      {
+        "title": "10 Marla Plot",
+        "description": "Ideal for large retail stores or service-based businesses, this 10 Marla shop combines space and convenience for maximum impact."
+      },
+      {
+        "title": "12 Marla Plot",
+        "description": "Tailored for businesses requiring extensive floor space, this 12 Marla shop ensures flexibility and scalability for your operations."
+      },
+      {
+        "title": "14 Marla Plot",
+        "description": "Perfect for flagship stores or multi-purpose commercial spaces, this 14 Marla shop offers unmatched visibility and accessibility."
+      }
     ]
   },
   "locationsSection": {
@@ -34,16 +61,56 @@
       "Whether you’re targeting local residents or attracting customers from neighboring areas, these locations ensure your shop remains at the heart of Inder Nagar’s thriving business ecosystem."
     ],
     "locations": [
-      "Model Town",
-      "Rajendra Nagar",
-      "Shanti Nagar",
-      "Vijay Nagar",
-      "Civil Lines",
-      "Subhash Nagar",
-      "Pratap Nagar",
-      "Gandhi Nagar",
-      "Moti Nagar",
-      "Shivaji Nagar"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -53,30 +120,84 @@
       "Here are some compelling reasons why Inder Nagar is the perfect location for your next commercial investment."
     ],
     "points": [
-      { "title": "Prime Location", "description": "Inder Nagar is strategically located with excellent connectivity to major roads, residential areas, and business districts, ensuring high foot traffic and visibility." },
-      { "title": "Modern Infrastructure", "description": "Our shops are equipped with modern amenities and spacious interiors, providing a comfortable and efficient environment for your business." },
-      { "title": "Flexible Payment Plans", "description": "We offer flexible payment options to make owning a shop in Inder Nagar accessible and hassle-free for investors." },
-      { "title": "High ROI Potential", "description": "With rising demand for commercial spaces in Inder Nagar, investing in a shop here guarantees lucrative returns on your investment." },
-      { "title": "Thriving Business Environment", "description": "Inder Nagar is home to a diverse range of businesses, creating a vibrant ecosystem that fosters growth and success." },
-      { "title": "Ample Parking Space", "description": "Our shops come with dedicated parking areas, ensuring convenience for both business owners and customers." },
-      { "title": "Customizable Spaces", "description": "Tailor your shop’s layout to suit your business needs, ensuring maximum efficiency and functionality." },
-      { "title": "Supportive Community", "description": "Join a thriving community of entrepreneurs and business owners who are driving Inder Nagar’s commercial success." }
+      {
+        "title": "Prime Location",
+        "description": "Inder Nagar is strategically located with excellent connectivity to major roads, residential areas, and business districts, ensuring high foot traffic and visibility."
+      },
+      {
+        "title": "Modern Infrastructure",
+        "description": "Our shops are equipped with modern amenities and spacious interiors, providing a comfortable and efficient environment for your business."
+      },
+      {
+        "title": "Flexible Payment Plans",
+        "description": "We offer flexible payment options to make owning a shop in Inder Nagar accessible and hassle-free for investors."
+      },
+      {
+        "title": "High ROI Potential",
+        "description": "With rising demand for commercial spaces in Inder Nagar, investing in a shop here guarantees lucrative returns on your investment."
+      },
+      {
+        "title": "Thriving Business Environment",
+        "description": "Inder Nagar is home to a diverse range of businesses, creating a vibrant ecosystem that fosters growth and success."
+      },
+      {
+        "title": "Ample Parking Space",
+        "description": "Our shops come with dedicated parking areas, ensuring convenience for both business owners and customers."
+      },
+      {
+        "title": "Customizable Spaces",
+        "description": "Tailor your shop’s layout to suit your business needs, ensuring maximum efficiency and functionality."
+      },
+      {
+        "title": "Supportive Community",
+        "description": "Join a thriving community of entrepreneurs and business owners who are driving Inder Nagar’s commercial success."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shop For Sale in Inder Nagar",
     "description": "Explore answers to common questions about investing in Shop For Sale in Inder Nagar. Whether you’re a first-time buyer or an experienced investor, we’re here to guide you through the process.",
     "faqs": [
-      { "question": "What types of businesses are suitable for shops in Inder Nagar", "answer": "Shops in Inder Nagar are ideal for a wide range of businesses, including retail stores, boutiques, service-based businesses, and more. The prime location and high foot traffic make it suitable for both established and new ventures." },
-      { "question": "Are there any financing options available for purchasing a shop", "answer": "Yes, we offer flexible payment plans and financing options to make owning a shop in Inder Nagar accessible for investors. Contact us to learn more about our tailored solutions." },
-      { "question": "What amenities are included with the shops", "answer": "Our shops come with modern amenities such as spacious interiors, ample parking, and excellent visibility. Some properties also offer additional features like air conditioning and security systems." },
-      { "question": "How is the connectivity to Inder Nagar from nearby areas", "answer": "Inder Nagar is well-connected to major roads, residential colonies, and business districts, ensuring easy access for both customers and suppliers." },
-      { "question": "Can I customize the layout of my shop", "answer": "Yes, our shops offer customizable layouts to suit your specific business needs, ensuring maximum efficiency and functionality." },
-      { "question": "What is the average price range for shops in Inder Nagar", "answer": "The price range varies depending on the size and location of the shop. Contact us for detailed pricing information and available offers." },
-      { "question": "Is Inder Nagar a safe location for businesses", "answer": "Absolutely. Inder Nagar is known for its secure and thriving business environment, making it a safe and reliable location for your investment." },
-      { "question": "What is the rental potential for shops in Inder Nagar", "answer": "Shops in Inder Nagar offer high rental potential due to the area’s prime location and growing demand for commercial spaces." },
-      { "question": "How do I schedule a visit to view available shops", "answer": "You can schedule a visit by contacting our team through the website or calling our helpline. We’ll arrange a convenient time for you to explore the properties." },
-      { "question": "What support is available after purchasing a shop", "answer": "Our team provides ongoing support to ensure a smooth transition and successful setup of your business in Inder Nagar. From legal assistance to property management, we’re here to help." }
+      {
+        "question": "What types of businesses are suitable for shops in Inder Nagar",
+        "answer": "Shops in Inder Nagar are ideal for a wide range of businesses, including retail stores, boutiques, service-based businesses, and more. The prime location and high foot traffic make it suitable for both established and new ventures."
+      },
+      {
+        "question": "Are there any financing options available for purchasing a shop",
+        "answer": "Yes, we offer flexible payment plans and financing options to make owning a shop in Inder Nagar accessible for investors. Contact us to learn more about our tailored solutions."
+      },
+      {
+        "question": "What amenities are included with the shops",
+        "answer": "Our shops come with modern amenities such as spacious interiors, ample parking, and excellent visibility. Some properties also offer additional features like air conditioning and security systems."
+      },
+      {
+        "question": "How is the connectivity to Inder Nagar from nearby areas",
+        "answer": "Inder Nagar is well-connected to major roads, residential colonies, and business districts, ensuring easy access for both customers and suppliers."
+      },
+      {
+        "question": "Can I customize the layout of my shop",
+        "answer": "Yes, our shops offer customizable layouts to suit your specific business needs, ensuring maximum efficiency and functionality."
+      },
+      {
+        "question": "What is the average price range for shops in Inder Nagar",
+        "answer": "The price range varies depending on the size and location of the shop. Contact us for detailed pricing information and available offers."
+      },
+      {
+        "question": "Is Inder Nagar a safe location for businesses",
+        "answer": "Absolutely. Inder Nagar is known for its secure and thriving business environment, making it a safe and reliable location for your investment."
+      },
+      {
+        "question": "What is the rental potential for shops in Inder Nagar",
+        "answer": "Shops in Inder Nagar offer high rental potential due to the area’s prime location and growing demand for commercial spaces."
+      },
+      {
+        "question": "How do I schedule a visit to view available shops",
+        "answer": "You can schedule a visit by contacting our team through the website or calling our helpline. We’ll arrange a convenient time for you to explore the properties."
+      },
+      {
+        "question": "What support is available after purchasing a shop",
+        "answer": "Our team provides ongoing support to ensure a smooth transition and successful setup of your business in Inder Nagar. From legal assistance to property management, we’re here to help."
+      }
     ]
   },
   "contactSection": {
@@ -85,6 +206,11 @@
       "Ready to invest in Shop For Sale in Inder Nagar? Our team is here to assist you with every step of the process. Whether you have questions about available properties or need guidance on financing options, we’re just a call away.",
       "Fill out the form below, and we’ll get back to you promptly with all the information you need to make an informed decision."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

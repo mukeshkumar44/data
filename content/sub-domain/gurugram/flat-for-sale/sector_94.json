@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Premium Apartment Configurations and Sizes in Sector 94 to Match Every Lifestyle Need",
@@ -58,14 +61,56 @@
       "The well-planned road network and proximity to major arterial roads significantly boost the investment appeal of this sector. Whether you travel to Delhi Noida or Gurgaon for work Sector 94 provides an ideal starting point. This excellent connectivity coupled with high-quality residential projects guarantees a quality lifestyle and strong future property value growth."
     ],
     "locations": [
-      "Immediate access to NH-19 (Delhi-Mathura Highway)",
-      "Close proximity to the commercial centers of Sector 95",
-      "Easy commuting distance to South Delhi via express routes",
-      "Multiple renowned schools and educational institutions nearby",
-      "Leading healthcare facilities and specialized hospitals within minutes",
-      "Upcoming metro line expansion benefits and enhanced public transport",
-      "Retail high-streets and large format shopping malls in adjacent sectors",
-      "Green spaces and public parks fostering a healthy environment"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

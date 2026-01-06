@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "img/hero_3bhk_sector58_1.jpg",
-      "img/hero_3bhk_sector58_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The location provides immediate access to major highways including the NH-48 and ensures that key destinations like Cyber Hub IGI Airport and Faridabad are easily reachable. Investing here means investing in convenience security and a high-quality urban lifestyle surrounded by the best social infrastructure Gurugram has to offer."
     ],
     "locations": [
-      "Golf Course Extension Road Access",
-      "Rapid Metro Station Connectivity",
-      "Proximity to Malls and Shopping Centres",
-      "Nearness to Leading Hospitals like Medanta",
-      "Quick Drive to Southern Peripheral Road SPR",
-      "Top International Schools within 10 minutes",
-      "Easy Access to Sector 55/56 Metro Station",
-      "Major Corporate Towers Nearby"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

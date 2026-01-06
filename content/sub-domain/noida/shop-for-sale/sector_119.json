@@ -7,12 +7,18 @@
       "Investing in a Shop For Sale in Sector 119 offers unparalleled connectivity to major residential sectors and expressways guaranteeing high visibility and superior rental yields. This locality is known for its affluent surrounding catchment area ensuring a steady stream of potential customers for your business venture. Secure your commercial space in a fast-growing environment known for planned infrastructure development and robust capital appreciation prospects."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/shops/sector-119" },
-      { "label": "Request Commercial Brochure", "path": "/contact-us" }
+      {
+        "label": "View Available Shops",
+        "path": "/shops/sector-119"
+      },
+      {
+        "label": "Request Commercial Brochure",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "shop_sector119_hero1.jpg",
-      "shop_sector119_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,13 +61,56 @@
       "We focus on properties that benefit from dense residential catchment areas providing an immediate consumer base for your retail venture. Explore adjacent areas providing supporting infrastructure ensuring your investment in a Shop For Sale in Sector 119 Noida thrives alongside established local businesses and future developments enhancing overall valuation."
     ],
     "locations": [
-      "Sector 120 Commercial Market Proximity",
-      "Sector 50 Central Shopping Areas Linkage",
-      "FNG Expressway Commercial Corridor Access",
-      "Greater Noida West Connectivity Hub",
-      "Sector 78 Business Park Integration",
-      "Sai Mandir Road Retail Catchment",
-      "Proximity to High Density Housing Societies"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -157,6 +206,11 @@
       "Ready to invest in a prime Shop For Sale in Sector 119 We offer personalized consultation services to guide you through the best commercial opportunities aligning with your investment goals and budget.",
       "Contact our dedicated team today to receive a customized portfolio presentation detailed market analysis and schedule site visits to the most promising commercial projects in Sector 119 Noida."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

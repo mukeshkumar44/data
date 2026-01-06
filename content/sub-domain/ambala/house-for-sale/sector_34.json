@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/sector34-hero1.jpg",
-      "/images/sector34-hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "Living here means balancing peaceful suburban life with urban conveniences. Major shopping centers, expansive grocery stores, and dedicated recreational parks are all well within reach, minimizing daily travel hassles. This sector is particularly valued for its planned development, minimizing congestion and maximizing quality of life compared to older parts of the city. We highlight these locational advantages to show how purchasing a property here is an investment in unparalleled convenience and accessibility within the rapidly developing Ambala region."
     ],
     "locations": [
-      "Ambala City Center 10 minutes drive",
-      "National Highway NH 44 access point",
-      "Proximity to Sector 33 Residential Area",
-      "Major Educational Hubs nearby",
-      "Ambala Cantt Railway Station 20 minutes access",
-      "Quick access to specialized hospitals"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

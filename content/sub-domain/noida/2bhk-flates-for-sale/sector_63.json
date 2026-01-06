@@ -7,10 +7,19 @@
       "A 2BHK configuration is the most sought-after apartment type in this area, balancing spaciousness with economic pricing. Investing in a 2BHK flat in Sector 63 promises high appreciation potential due to its proximity to major IT and business parks, ensuring a vibrant lifestyle and robust rental demand. Explore our verified properties and take the first step towards owning your perfect home in Sector 63 Noida today."
     ],
     "buttons": [
-      { "label": "Explore 2BHK Listings", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore 2BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Features of a 2BHK Flat For Sale in Sector 63 Noida Residential Projects",
@@ -52,14 +61,56 @@
       "The sector benefits immensely from its placement along major expressways, linking it quickly to Central Noida, Ghaziabad, and Delhi via the NH-24. These nearby hubs ensure that residents of 2BHK flats in Sector 63 have quick access to educational institutions, healthcare, and extensive shopping complexes."
     ],
     "locations": [
-      "Sector 62",
-      "Sector 64",
-      "Sector 65",
-      "Sector 66",
-      "Sector 57",
-      "Indirapuram Ghaziabad",
-      "Noida Electronic City Metro Station",
-      "Fortis Hospital Noida"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

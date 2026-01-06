@@ -7,10 +7,19 @@
       "Located in one of Ambala’s most thriving neighborhoods, New Pratap Nagar provides excellent connectivity, a bustling market, and a high footfall, making it an ideal investment opportunity. Explore our listings today and secure your dream shop."
     ],
     "buttons": [
-      { "label": "View Listings", "path": "/listings" },
-      { "label": "Contact Us", "path": "/contact" }
+      {
+        "label": "View Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Contact Us",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Available Shop Sizes in New Pratap Nagar Ambala",
@@ -19,12 +28,30 @@
       "Each property is strategically located in a prime area, ensuring maximum visibility and convenience. Check out the available shop sizes below and find the perfect fit for your business."
     ],
     "features": [
-      { "title": "4 Marla Plot", "description": "Ideal for small retail businesses or startups, this compact shop offers affordability without compromising on location." },
-      { "title": "6 Marla Plot", "description": "Perfect for medium-sized businesses, this shop provides ample space for inventory and customer movement." },
-      { "title": "8 Marla Plot", "description": "A spacious option for growing businesses, offering room for expansion and enhanced visibility." },
-      { "title": "10 Marla Plot", "description": "Designed for large-scale operations, this shop accommodates extensive inventory and workforce." },
-      { "title": "12 Marla Plot", "description": "An excellent choice for showrooms or large retail outlets, providing unmatched space and accessibility." },
-      { "title": "14 Marla Plot", "description": "The ultimate commercial property for businesses seeking premium space and prime location benefits." }
+      {
+        "title": "4 Marla Plot",
+        "description": "Ideal for small retail businesses or startups, this compact shop offers affordability without compromising on location."
+      },
+      {
+        "title": "6 Marla Plot",
+        "description": "Perfect for medium-sized businesses, this shop provides ample space for inventory and customer movement."
+      },
+      {
+        "title": "8 Marla Plot",
+        "description": "A spacious option for growing businesses, offering room for expansion and enhanced visibility."
+      },
+      {
+        "title": "10 Marla Plot",
+        "description": "Designed for large-scale operations, this shop accommodates extensive inventory and workforce."
+      },
+      {
+        "title": "12 Marla Plot",
+        "description": "An excellent choice for showrooms or large retail outlets, providing unmatched space and accessibility."
+      },
+      {
+        "title": "14 Marla Plot",
+        "description": "The ultimate commercial property for businesses seeking premium space and prime location benefits."
+      }
     ]
   },
   "locationsSection": {
@@ -34,14 +61,56 @@
       "Explore these nearby areas to broaden your options and find the perfect property for your needs."
     ],
     "locations": [
-      "Ambala Cantt",
-      "Sector 7 Ambala",
-      "Sector 8 Ambala",
-      "Sector 9 Ambala",
-      "Ambala City",
-      "Naraingarh Road",
-      "Railway Road Ambala",
-      "Jagadhri Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -51,30 +120,84 @@
       "From strategic location to high footfall, discover the advantages that make New Pratap Nagar the ideal choice for your business."
     ],
     "points": [
-      { "title": "Prime Location", "description": "Situated in the heart of Ambala, New Pratap Nagar offers excellent connectivity to major roads and markets, ensuring maximum visibility for your business." },
-      { "title": "High Footfall", "description": "With its bustling market and residential areas, this location attracts a large number of customers daily, boosting your sales potential." },
-      { "title": "Modern Infrastructure", "description": "The area is equipped with modern amenities and well-maintained roads, providing a seamless experience for both businesses and customers." },
-      { "title": "Investment Potential", "description": "The growing demand for commercial spaces in New Pratap Nagar ensures high returns on your investment in the long term." },
-      { "title": "Variety of Options", "description": "From compact shops to spacious showrooms, we offer a wide range of properties to suit every business requirement." },
-      { "title": "Safe and Secure", "description": "The neighborhood is known for its safety and security, making it a reliable choice for entrepreneurs." },
-      { "title": "Proximity to Amenities", "description": "Schools, hospitals, and banks are located nearby, ensuring convenience for both business owners and customers." },
-      { "title": "Thriving Market", "description": "New Pratap Nagar is home to a vibrant market, attracting customers from across Ambala and beyond." }
+      {
+        "title": "Prime Location",
+        "description": "Situated in the heart of Ambala, New Pratap Nagar offers excellent connectivity to major roads and markets, ensuring maximum visibility for your business."
+      },
+      {
+        "title": "High Footfall",
+        "description": "With its bustling market and residential areas, this location attracts a large number of customers daily, boosting your sales potential."
+      },
+      {
+        "title": "Modern Infrastructure",
+        "description": "The area is equipped with modern amenities and well-maintained roads, providing a seamless experience for both businesses and customers."
+      },
+      {
+        "title": "Investment Potential",
+        "description": "The growing demand for commercial spaces in New Pratap Nagar ensures high returns on your investment in the long term."
+      },
+      {
+        "title": "Variety of Options",
+        "description": "From compact shops to spacious showrooms, we offer a wide range of properties to suit every business requirement."
+      },
+      {
+        "title": "Safe and Secure",
+        "description": "The neighborhood is known for its safety and security, making it a reliable choice for entrepreneurs."
+      },
+      {
+        "title": "Proximity to Amenities",
+        "description": "Schools, hospitals, and banks are located nearby, ensuring convenience for both business owners and customers."
+      },
+      {
+        "title": "Thriving Market",
+        "description": "New Pratap Nagar is home to a vibrant market, attracting customers from across Ambala and beyond."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shops in New Pratap Nagar Ambala",
     "description": "Have questions about buying a shop in New Pratap Nagar Ambala? We’ve compiled a list of FAQs to help you make an informed decision.",
     "faqs": [
-      { "question": "What types of shops are available in New Pratap Nagar Ambala", "answer": "We offer a variety of shops, including retail spaces, offices, and showrooms, in different sizes to cater to diverse business needs." },
-      { "question": "Is New Pratap Nagar a good location for commercial investment", "answer": "Yes, New Pratap Nagar is a prime location with high footfall, excellent connectivity, and growing demand for commercial properties." },
-      { "question": "What are the price ranges for shops in New Pratap Nagar", "answer": "Prices vary depending on the size and location of the shop. Contact us for detailed pricing information." },
-      { "question": "Are there any legal formalities involved in buying a shop", "answer": "Yes, legal formalities such as property registration and documentation are required. Our team can guide you through the process." },
-      { "question": "Can I get a loan to purchase a shop in New Pratap Nagar", "answer": "Yes, many financial institutions offer loans for commercial properties. We can help you explore financing options." },
-      { "question": "What amenities are available near New Pratap Nagar", "answer": "The area is equipped with schools, hospitals, banks, and markets, ensuring convenience for business owners and customers." },
-      { "question": "How do I schedule a visit to view available shops", "answer": "You can schedule a visit by contacting us via phone or filling out the enquiry form on our website." },
-      { "question": "What is the future growth potential of New Pratap Nagar", "answer": "New Pratap Nagar is a rapidly developing area with increasing demand for commercial spaces, ensuring strong growth potential." },
-      { "question": "Can I customize the shop according to my business needs", "answer": "Yes, many properties offer customization options. Discuss your requirements with our team for tailored solutions." },
-      { "question": "What is the process for buying a shop in New Pratap Nagar", "answer": "The process involves selecting a property, completing legal formalities, and finalizing the payment. Our team will assist you at every step." }
+      {
+        "question": "What types of shops are available in New Pratap Nagar Ambala",
+        "answer": "We offer a variety of shops, including retail spaces, offices, and showrooms, in different sizes to cater to diverse business needs."
+      },
+      {
+        "question": "Is New Pratap Nagar a good location for commercial investment",
+        "answer": "Yes, New Pratap Nagar is a prime location with high footfall, excellent connectivity, and growing demand for commercial properties."
+      },
+      {
+        "question": "What are the price ranges for shops in New Pratap Nagar",
+        "answer": "Prices vary depending on the size and location of the shop. Contact us for detailed pricing information."
+      },
+      {
+        "question": "Are there any legal formalities involved in buying a shop",
+        "answer": "Yes, legal formalities such as property registration and documentation are required. Our team can guide you through the process."
+      },
+      {
+        "question": "Can I get a loan to purchase a shop in New Pratap Nagar",
+        "answer": "Yes, many financial institutions offer loans for commercial properties. We can help you explore financing options."
+      },
+      {
+        "question": "What amenities are available near New Pratap Nagar",
+        "answer": "The area is equipped with schools, hospitals, banks, and markets, ensuring convenience for business owners and customers."
+      },
+      {
+        "question": "How do I schedule a visit to view available shops",
+        "answer": "You can schedule a visit by contacting us via phone or filling out the enquiry form on our website."
+      },
+      {
+        "question": "What is the future growth potential of New Pratap Nagar",
+        "answer": "New Pratap Nagar is a rapidly developing area with increasing demand for commercial spaces, ensuring strong growth potential."
+      },
+      {
+        "question": "Can I customize the shop according to my business needs",
+        "answer": "Yes, many properties offer customization options. Discuss your requirements with our team for tailored solutions."
+      },
+      {
+        "question": "What is the process for buying a shop in New Pratap Nagar",
+        "answer": "The process involves selecting a property, completing legal formalities, and finalizing the payment. Our team will assist you at every step."
+      }
     ]
   },
   "contactSection": {
@@ -83,6 +206,11 @@
       "Ready to invest in a shop in New Pratap Nagar Ambala? Contact us today for detailed listings and expert guidance.",
       "Our team is here to help you find the perfect commercial property for your business."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

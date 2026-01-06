@@ -7,12 +7,18 @@
       "We offer vetted commercial properties ranging from high-street retail units to professional office spaces situated in strategically advantageous locations. These shops for sale in Sector 27 are ideal for entrepreneurs seeking immediate establishment or investors looking for high rental yield and capital appreciation. Our comprehensive listings ensure transparency and value, simplifying your search for the perfect commercial asset. Explore the best opportunities to capitalize on Rohtak's expanding urban economy and ensure long-term business success right here."
     ],
     "buttons": [
-      { "label": "View Ground Floor Shops", "path": "/shops/ground-floor" },
-      { "label": "Request Commercial Consultation", "path": "/contact" }
+      {
+        "label": "View Ground Floor Shops",
+        "path": "/shops/ground-floor"
+      },
+      {
+        "label": "Request Commercial Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "shop_sector27_main.jpg",
-      "commercial_investment_rohtak.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "Explore neighboring sectors and major connecting roads that boost the commercial viability of buying a shop here. Proximity to major highways ensures logistics are smooth while nearby dense residential areas guarantee sustained local demand for retail and services. These interconnected zones solidify Sector 27’s position as a central commercial powerhouse in the region."
     ],
     "locations": [
-      "Sector 28 Commercial Market",
-      "NH 9 Retail Corridors",
-      "Rohtak City Centre proximity",
-      "Medical College Road accessibility",
-      "Industrial Model Township IMT Rohtak linkage",
-      "Residential colonies surrounding Sector 26 and 27"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -156,6 +206,11 @@
       "Ready to secure your high-performing Shop For Sale in Sector 27 Rohtak Get in touch with our specialized commercial real estate team for personalized advice, market insights, and exclusive inventory access.",
       "We simplify the investment process offering legal checks, financial guidance, and viewing arrangements tailored to your schedule. Start your successful commercial journey with us now."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

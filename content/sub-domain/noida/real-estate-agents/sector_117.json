@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "sector117_hero_banner.jpg",
-      "agent_meeting_noida.png"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Understanding the interconnected growth of Noida’s micro-markets is vital for long-term investment success. We leverage data from these adjacent areas to provide highly competitive pricing strategies and market outlook reports, ensuring our clients are positioned advantageously whether they are buying or selling property near the FNG corridor."
     ],
     "locations": [
-      "Sector 118 Noida",
-      "Sector 116 Noida",
-      "Sector 120 Noida",
-      "Sector 78 Noida",
-      "Sector 50 Noida",
-      "Hindon River Connectivity",
-      "FNG Expressway Access Points",
-      "Noida Extension Markets"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

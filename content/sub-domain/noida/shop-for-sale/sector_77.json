@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-shop-sector77-1.jpg",
-      "hero-shop-sector77-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Strategic investment means looking beyond the immediate boundary. Our listed shops for sale are positioned near major landmarks like the Sector 76 Metro Station and are easily accessible from the Noida-Greater Noida Expressway. These high-density zones guarantee integrated parking, professional property management, and modern architectural standards ensuring your asset remains premium."
     ],
     "locations": [
-      "Sector 77 Central High Street Retail",
-      "Commercial Hub near Sector 76 Metro Station",
-      "Integrated Retail Centres in Adjacent Sector 78",
-      "Premium Showrooms on Expressway Service Lanes",
-      "Neighborhood Commercial Pockets serving residential towers",
-      "Business and Retail Zones near Sector 79",
-      "Upcoming Mixed-Use Developments in Phase 2 Noida",
-      "Established Commercial Complexes within 2 km radius"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

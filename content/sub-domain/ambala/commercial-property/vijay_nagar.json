@@ -17,7 +17,8 @@
       }
     ],
     "images": [
-      "commercial-hero-vijaynagar-skyline.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -60,14 +61,56 @@
       "Our focused listings highlight opportunities in these neighboring zones, ensuring you don't miss out on untapped potential. We analyze factors like planned governmental infrastructure projects, current leasing rates, and future population growth predictions to recommend locations that promise sustained capital appreciation. Whether you are looking for ready tenants or a blank canvas for development, our location intelligence gives you the competitive edge required when purchasing Commercial Property For Sale in Vijay Nagar."
     ],
     "locations": [
-      "Central Business District Vijay Nagar Phase I",
-      "Industrial Corridor Access Road",
-      "High Street Retail Belt Sector A",
-      "Corporate Office Park Zone",
-      "Highway Commercial Frontage Access",
-      "Metro Station Development Area",
-      "Hospitality & Entertainment Enclave",
-      "Local Market Area near Residential Colonies"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

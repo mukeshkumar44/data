@@ -7,12 +7,18 @@
       "We present a curated selection of commercial spaces ranging from small retail units perfect for startups to expansive anchor stores suitable for major brands. These properties are located within prestigious, newly developed commercial complexes that guarantee modern amenities, ample parking, and professional management. Discover the ideal commercial shop in Sector 74 Noida that aligns perfectly with your investment strategy or business expansion plans today. Do not miss this chance to capitalize on Noida’s commercial growth trajectory."
     ],
     "buttons": [
-      { "label": "View Available Shops Now", "path": "/listings" },
-      { "label": "Schedule an Expert Consultation", "path": "/contact" }
+      {
+        "label": "View Available Shops Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule an Expert Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "shop_sector74_hero1.jpg",
-      "shop_sector74_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "Investors should recognize the synergy created by the proximity of Sector 74 to these thriving neighborhoods, which collectively ensure a massive consumer base for retail and service-oriented businesses operating within the sector."
     ],
     "locations": [
-      "Sector 75 Commercial Center",
-      "Sector 76 Residential Clusters",
-      "Sector 50 Main Market",
-      "Sector 120 Retail Belt",
-      "FNG Expressway Retail Frontage",
-      "Noida Sector 74 Metro Connectivity Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

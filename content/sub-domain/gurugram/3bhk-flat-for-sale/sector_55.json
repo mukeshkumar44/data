@@ -7,10 +7,19 @@
       "Browse verified properties, including luxurious builder floors and high-rise apartments, all featuring superior construction quality, ample natural light, and premium fixtures. Sector 55 is renowned for its excellent social infrastructure, including top schools, hospitals, and high-street markets, ensuring every convenience is just minutes away. Start your journey today and secure a sophisticated 3BHK flat that matches your lifestyle and investment goals in one of Gurugram's most sought-after locations."
     ],
     "buttons": [
-      { "label": "Explore 3BHK Listings Now", "path": "/listings/sector-55" },
-      { "label": "Request a Callback", "path": "/contact" }
+      {
+        "label": "Explore 3BHK Listings Now",
+        "path": "/listings/sector-55"
+      },
+      {
+        "label": "Request a Callback",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_3bhk_sector55.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Premium Features Defining 3BHK Residential Excellence in Sector 55 Gurugram",
@@ -53,16 +62,54 @@
     ],
     "locations": [
       {
-        "name": "Ardee City Sector 55",
-        "details": "A large, established township offering excellent standalone builder floors and apartments. Known for its green spaces and comprehensive internal infrastructure."
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
       },
       {
-        "name": "Luxury High-Rise Apartments",
-        "details": "Specific new developments along the main artery providing high-rise 3BHK options with top-tier amenities and panoramic city views."
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
       },
       {
-        "name": "Builder Floor Enclaves",
-        "details": "Independent floors offering privacy and spacious living, popular among buyers looking for lower density living with ownership of a floor."
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },
@@ -159,6 +206,11 @@
       "Ready to take the next step towards owning your ideal 3BHK Flat For Sale in Sector 55 Gurugram Our local experts possess deep market knowledge and can provide personalized guidance, verified listings, and transparent transaction support.",
       "Fill out the form below to receive immediate access to exclusive property brochures, floor plans, and the latest pricing details. Let us help you find the perfect home in this prime Gurugram location."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

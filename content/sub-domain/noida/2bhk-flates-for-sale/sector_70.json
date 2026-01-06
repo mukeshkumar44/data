@@ -7,10 +7,19 @@
       "These meticulously designed apartments maximize space utilization, providing comfortable and contemporary living environments. We offer verified properties from reputable builders, ensuring transparency and peace of mind throughout your purchase journey. Explore properties near the bustling core of Noida yet tucked away in a serene residential pocket. Investing in a 2BHK in this sector guarantees strong appreciation potential and access to world-class amenities right at your doorstep. Begin your property search with us today and secure your future home in Sector 70."
     ],
     "buttons": [
-      { "label": "View All 2BHK Listings", "path": "/listings/2bhk" },
-      { "label": "Schedule a Site Visit", "path": "/contact-us" }
+      {
+        "label": "View All 2BHK Listings",
+        "path": "/listings/2bhk"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["/img/hero-2bhk-sector70-1.jpg", "/img/hero-2bhk-sector70-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Features of a 2BHK Flat For Sale in Sector 70 Noida Connectivity and Comfort",
@@ -19,12 +28,30 @@
       "From efficient layout designs to state-of-the-art community facilities, every detail is considered to enhance your daily life. Our properties provide excellent access to major expressways and the Noida Metro network, dramatically reducing commute times. These features collectively make Sector 70 an unparalleled choice for residential investment in the NCR region."
     ],
     "features": [
-      { "title": "Compact Design Efficiency", "description": "The 2BHK units in Sector 70 are celebrated for their intelligent use of space. Unlike older configurations, these modern layouts ensure every square foot is functional, providing spacious bedrooms, smart storage solutions, and well-placed utility areas. This efficient design maximizes comfort without increasing maintenance costs, making it ideal for nuclear families or dual-income professionals." },
-      { "title": "Premium Community Amenities", "description": "Residents enjoy access to high-end amenities that elevate the living experience. These typically include swimming pools, dedicated children's play zones, fully equipped gymnasiums, and multipurpose community halls. Secure gated communities with 24/7 security personnel and CCTV surveillance ensure a safe and enjoyable environment for all residents." },
-      { "title": "Excellent Connectivity Options", "description": "Sector 70 boasts superior linkage to the rest of Noida and Delhi NCR. It sits close to the Noida Expressway, facilitating quick travel to Greater Noida and Delhi. Furthermore, proximity to major metro stations means public transit is easily accessible, saving residents significant travel time and effort when commuting to business hubs." },
-      { "title": "High Rental Yield Potential", "description": "Given its strategic location near IT parks and educational institutions, a 2BHK Flat For Sale in Sector 70 Noida represents a strong investment opportunity for rental income. Demand for compact, high-quality housing is consistently high here, ensuring attractive rental returns and minimal vacancy periods for property owners." },
-      { "title": "Ready to Move Options", "description": "Many verified listings in Sector 70 are available as ready-to-move-in units. This eliminates the uncertainty and waiting periods associated with under-construction projects. Buyers can transition into their new homes quickly, enjoying immediate occupancy and avoiding the stress of construction delays and escalating project costs." },
-      { "title": "Investor Friendly Pricing", "description": "Sector 70 offers competitive entry prices compared to neighboring established sectors like Sector 50 or 62. This allows first-time homebuyers and savvy investors to capitalize on the growth potential of an emerging high-value area, securing a modern 2BHK Flat For Sale in Sector 70 at an appealing valuation." }
+      {
+        "title": "Compact Design Efficiency",
+        "description": "The 2BHK units in Sector 70 are celebrated for their intelligent use of space. Unlike older configurations, these modern layouts ensure every square foot is functional, providing spacious bedrooms, smart storage solutions, and well-placed utility areas. This efficient design maximizes comfort without increasing maintenance costs, making it ideal for nuclear families or dual-income professionals."
+      },
+      {
+        "title": "Premium Community Amenities",
+        "description": "Residents enjoy access to high-end amenities that elevate the living experience. These typically include swimming pools, dedicated children's play zones, fully equipped gymnasiums, and multipurpose community halls. Secure gated communities with 24/7 security personnel and CCTV surveillance ensure a safe and enjoyable environment for all residents."
+      },
+      {
+        "title": "Excellent Connectivity Options",
+        "description": "Sector 70 boasts superior linkage to the rest of Noida and Delhi NCR. It sits close to the Noida Expressway, facilitating quick travel to Greater Noida and Delhi. Furthermore, proximity to major metro stations means public transit is easily accessible, saving residents significant travel time and effort when commuting to business hubs."
+      },
+      {
+        "title": "High Rental Yield Potential",
+        "description": "Given its strategic location near IT parks and educational institutions, a 2BHK Flat For Sale in Sector 70 Noida represents a strong investment opportunity for rental income. Demand for compact, high-quality housing is consistently high here, ensuring attractive rental returns and minimal vacancy periods for property owners."
+      },
+      {
+        "title": "Ready to Move Options",
+        "description": "Many verified listings in Sector 70 are available as ready-to-move-in units. This eliminates the uncertainty and waiting periods associated with under-construction projects. Buyers can transition into their new homes quickly, enjoying immediate occupancy and avoiding the stress of construction delays and escalating project costs."
+      },
+      {
+        "title": "Investor Friendly Pricing",
+        "description": "Sector 70 offers competitive entry prices compared to neighboring established sectors like Sector 50 or 62. This allows first-time homebuyers and savvy investors to capitalize on the growth potential of an emerging high-value area, securing a modern 2BHK Flat For Sale in Sector 70 at an appealing valuation."
+      }
     ]
   },
   "locationsSection": {
@@ -34,12 +61,56 @@
       "The planned development around Sector 70 ensures smooth traffic flow and accessibility to green parks. Investing here means choosing convenience, growth, and unparalleled infrastructure support, all crucial factors when selecting a 2BHK Flat For Sale in Sector 70 Noida."
     ],
     "locations": [
-      "Close proximity to Sector 62 and Sector 63 major IT hubs",
-      "Easy access to Noida City Centre Metro Station and Sector 71 Metro Station",
-      "Direct link to Noida Expressway for travel towards Greater Noida",
-      "Surrounded by renowned educational institutions and universities",
-      "Quick access to Fortis Hospital and other healthcare facilities",
-      "Nearby commercial markets and shopping complexes"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -49,30 +120,84 @@
       "We provide expert guidance and transparent dealings, ensuring you find a 2BHK Flat For Sale in Sector 70 Noida that perfectly matches your lifestyle and financial goals. Our commitment is to make your property purchase simple, secure, and highly rewarding."
     ],
     "points": [
-      { "title": "Outstanding Appreciation Potential", "description": "As adjacent sectors reach saturation, Sector 70 is poised for significant capital appreciation. Its strategic location and ongoing infrastructure projects ensure that the value of your 2BHK flat will increase steadily over the next five to ten years, making it a powerful wealth creation tool." },
-      { "title": "Exceptional Quality of Life", "description": "The sector offers a vibrant yet peaceful living environment. Developers here focus on creating holistic communities with ample green areas, jogging tracks, and recreational facilities, promoting a healthy and engaged lifestyle for all age groups." },
-      { "title": "Verified RERA Compliant Properties", "description": "We only list properties that are fully compliant with RERA regulations, ensuring legal safety and adherence to construction timelines. This minimizes risk for buyers and provides confidence that your investment in a 2BHK Flat For Sale in Sector 70 Noida is secure and reliable." },
-      { "title": "Proximity to IT and Commercial Hubs", "description": "For professionals working in Noida's bustling IT sectors, Sector 70 drastically cuts down commuting time. Its nearness to major corporate offices makes it highly desirable, boosting both convenience and the overall rental attractiveness of the property." },
-      { "title": "Modern Infrastructure Development", "description": "Sector 70 benefits from new-age infrastructure including reliable power backup, efficient water supply management, and well-maintained internal roads. This commitment to modern civic planning ensures a hassle-free living experience for all residents." },
-      { "title": "Diverse Inventory Options", "description": "Our listings include a wide variety of 2BHK layouts, floor sizes, and builder preferences, ranging from semi-furnished to luxury fully furnished options. You can easily find the perfect 2BHK Flat For Sale in Sector 70 Noida that fits both your aesthetic preferences and budget constraints." },
-      { "title": "Secure Gated Communities", "description": "Safety is paramount in Sector 70 residential complexes. Most properties are situated within gated communities featuring multi-tier security systems, manned entry points, and robust surveillance, offering a protected environment for families." },
-      { "title": "Favorable Home Loan Options", "description": "Due to the established nature and legality of properties in Sector 70, banks readily approve home loans. We assist buyers in connecting with leading financial institutions to secure the best interest rates and simplify the entire documentation process." }
+      {
+        "title": "Outstanding Appreciation Potential",
+        "description": "As adjacent sectors reach saturation, Sector 70 is poised for significant capital appreciation. Its strategic location and ongoing infrastructure projects ensure that the value of your 2BHK flat will increase steadily over the next five to ten years, making it a powerful wealth creation tool."
+      },
+      {
+        "title": "Exceptional Quality of Life",
+        "description": "The sector offers a vibrant yet peaceful living environment. Developers here focus on creating holistic communities with ample green areas, jogging tracks, and recreational facilities, promoting a healthy and engaged lifestyle for all age groups."
+      },
+      {
+        "title": "Verified RERA Compliant Properties",
+        "description": "We only list properties that are fully compliant with RERA regulations, ensuring legal safety and adherence to construction timelines. This minimizes risk for buyers and provides confidence that your investment in a 2BHK Flat For Sale in Sector 70 Noida is secure and reliable."
+      },
+      {
+        "title": "Proximity to IT and Commercial Hubs",
+        "description": "For professionals working in Noida's bustling IT sectors, Sector 70 drastically cuts down commuting time. Its nearness to major corporate offices makes it highly desirable, boosting both convenience and the overall rental attractiveness of the property."
+      },
+      {
+        "title": "Modern Infrastructure Development",
+        "description": "Sector 70 benefits from new-age infrastructure including reliable power backup, efficient water supply management, and well-maintained internal roads. This commitment to modern civic planning ensures a hassle-free living experience for all residents."
+      },
+      {
+        "title": "Diverse Inventory Options",
+        "description": "Our listings include a wide variety of 2BHK layouts, floor sizes, and builder preferences, ranging from semi-furnished to luxury fully furnished options. You can easily find the perfect 2BHK Flat For Sale in Sector 70 Noida that fits both your aesthetic preferences and budget constraints."
+      },
+      {
+        "title": "Secure Gated Communities",
+        "description": "Safety is paramount in Sector 70 residential complexes. Most properties are situated within gated communities featuring multi-tier security systems, manned entry points, and robust surveillance, offering a protected environment for families."
+      },
+      {
+        "title": "Favorable Home Loan Options",
+        "description": "Due to the established nature and legality of properties in Sector 70, banks readily approve home loans. We assist buyers in connecting with leading financial institutions to secure the best interest rates and simplify the entire documentation process."
+      }
     ]
   },
   "faqSection": {
     "title": "Common Questions About Buying a 2BHK Flat in Sector 70 Noida Property Insights",
     "description": "Find detailed, user-focused answers to the most frequently asked questions regarding purchasing a 2BHK Flat For Sale in Sector 70 Noida, covering pricing, legalities, and lifestyle aspects.",
     "faqs": [
-      { "question": "What is the typical price range for a 2BHK Flat For Sale in Sector 70 Noida", "answer": "The pricing for a 2BHK flat in Sector 70 Noida can vary significantly based on the exact location within the sector, the reputation of the builder, the floor level, and the included amenities. Generally, ready-to-move-in 2BHK units start from approximately 65 Lakhs and can go up to 90 Lakhs or more for premium, high-specification apartments in luxury complexes. We recommend contacting our property experts for the most current and accurate pricing based on your specific requirements and preferred inventory." },
-      { "question": "Is Sector 70 Noida considered a good investment location for rental income", "answer": "Absolutely Sector 70 is highly regarded for generating strong rental yields, especially for 2BHK units. Its proximity to major corporate campuses and the strong demand from working professionals and students ensures consistent tenancy. The typical rental yield here is competitive compared to established areas, offering a sustainable source of passive income for investors." },
-      { "question": "What are the common amenities provided in residential societies offering 2BHK flats here", "answer": "Residential societies in Sector 70 are known for modern, comprehensive amenities. These commonly include clubhouse access, swimming pools, state-of-the-art gymnasiums, dedicated car parking, 24/7 power backup, high-speed elevators, landscaped gardens, and extensive security features including intercom facilities and CCTV monitoring throughout the premises." },
-      { "question": "How is the connectivity of Sector 70 Noida to Delhi and other NCR regions", "answer": "Connectivity is one of Sector 70’s major strengths. It is strategically located near the FNG Expressway and the Noida Expressway, ensuring quick road travel to Greater Noida and other parts of Delhi NCR. Furthermore, the sector is well-served by the Noida Metro, with stations like Sector 71 and Sector 52 being easily accessible, providing efficient public transport options." },
-      { "question": "Are there any hidden costs associated with purchasing a 2BHK Flat in Sector 70 Noida", "answer": "While the listed price covers the basic cost of the flat, buyers must account for additional charges. These typically include stamp duty and registration fees, GST applicable on under-construction property, maintenance security deposits, cost of parking space, and internal development charges. Our team provides a transparent breakdown of all costs upfront, ensuring you have no surprises during the final transaction." },
-      { "question": "What is the typical size range of a 2BHK Flat For Sale in Sector 70 Noida", "answer": "The carpet area and super area of 2BHK flats can differ significantly between different builders and projects. Generally, you can expect the super area of a 2BHK unit in Sector 70 to range between 950 square feet and 1250 square feet. We ensure all property listings clearly state the RERA-defined carpet area for precise comparison." },
-      { "question": "What documents are required to finalize the purchase of a residential flat in Sector 70", "answer": "Essential documents include the allotment letter, the sale agreement, conveyance deed, possession certificate if ready to move, sanctioned building plan, and required identification proofs of both buyer and seller. If financing the purchase, detailed loan documents and NOCs will also be required. We assist our clients with thorough document verification and preparation." },
-      { "question": "Is Sector 70 prone to traffic congestion or environmental issues", "answer": "Compared to older, more densely populated areas of Noida, Sector 70 is relatively modern and benefits from better urban planning. While peak hour traffic is inevitable near major connecting roads, the internal sector roads are well-maintained. The area is known for its relatively cleaner environment due to nearby green belts and strict waste management protocols implemented by the societies." },
-      { "question": "Do I need to hire an external legal expert for the transaction process", "answer": "While our firm facilitates the entire process and provides legal guidance, we highly recommend that you retain an independent legal expert specializing in property law for an added layer of security. This ensures that all documentation related to your 2BHK Flat For Sale in Sector 70 Noida is thoroughly vetted from an independent standpoint before final signing." },
-      { "question": "What are the advantages of buying a ready to move 2BHK flat over an under-construction unit in this area", "answer": "Buying a ready-to-move flat provides immediate possession, eliminates the risk of construction delays, and allows you to avoid paying rent while waiting for the property. Furthermore, the GST implications are often lower on ready units that have received the Completion Certificate, making the overall cost more predictable and manageable." }
+      {
+        "question": "What is the typical price range for a 2BHK Flat For Sale in Sector 70 Noida",
+        "answer": "The pricing for a 2BHK flat in Sector 70 Noida can vary significantly based on the exact location within the sector, the reputation of the builder, the floor level, and the included amenities. Generally, ready-to-move-in 2BHK units start from approximately 65 Lakhs and can go up to 90 Lakhs or more for premium, high-specification apartments in luxury complexes. We recommend contacting our property experts for the most current and accurate pricing based on your specific requirements and preferred inventory."
+      },
+      {
+        "question": "Is Sector 70 Noida considered a good investment location for rental income",
+        "answer": "Absolutely Sector 70 is highly regarded for generating strong rental yields, especially for 2BHK units. Its proximity to major corporate campuses and the strong demand from working professionals and students ensures consistent tenancy. The typical rental yield here is competitive compared to established areas, offering a sustainable source of passive income for investors."
+      },
+      {
+        "question": "What are the common amenities provided in residential societies offering 2BHK flats here",
+        "answer": "Residential societies in Sector 70 are known for modern, comprehensive amenities. These commonly include clubhouse access, swimming pools, state-of-the-art gymnasiums, dedicated car parking, 24/7 power backup, high-speed elevators, landscaped gardens, and extensive security features including intercom facilities and CCTV monitoring throughout the premises."
+      },
+      {
+        "question": "How is the connectivity of Sector 70 Noida to Delhi and other NCR regions",
+        "answer": "Connectivity is one of Sector 70’s major strengths. It is strategically located near the FNG Expressway and the Noida Expressway, ensuring quick road travel to Greater Noida and other parts of Delhi NCR. Furthermore, the sector is well-served by the Noida Metro, with stations like Sector 71 and Sector 52 being easily accessible, providing efficient public transport options."
+      },
+      {
+        "question": "Are there any hidden costs associated with purchasing a 2BHK Flat in Sector 70 Noida",
+        "answer": "While the listed price covers the basic cost of the flat, buyers must account for additional charges. These typically include stamp duty and registration fees, GST applicable on under-construction property, maintenance security deposits, cost of parking space, and internal development charges. Our team provides a transparent breakdown of all costs upfront, ensuring you have no surprises during the final transaction."
+      },
+      {
+        "question": "What is the typical size range of a 2BHK Flat For Sale in Sector 70 Noida",
+        "answer": "The carpet area and super area of 2BHK flats can differ significantly between different builders and projects. Generally, you can expect the super area of a 2BHK unit in Sector 70 to range between 950 square feet and 1250 square feet. We ensure all property listings clearly state the RERA-defined carpet area for precise comparison."
+      },
+      {
+        "question": "What documents are required to finalize the purchase of a residential flat in Sector 70",
+        "answer": "Essential documents include the allotment letter, the sale agreement, conveyance deed, possession certificate if ready to move, sanctioned building plan, and required identification proofs of both buyer and seller. If financing the purchase, detailed loan documents and NOCs will also be required. We assist our clients with thorough document verification and preparation."
+      },
+      {
+        "question": "Is Sector 70 prone to traffic congestion or environmental issues",
+        "answer": "Compared to older, more densely populated areas of Noida, Sector 70 is relatively modern and benefits from better urban planning. While peak hour traffic is inevitable near major connecting roads, the internal sector roads are well-maintained. The area is known for its relatively cleaner environment due to nearby green belts and strict waste management protocols implemented by the societies."
+      },
+      {
+        "question": "Do I need to hire an external legal expert for the transaction process",
+        "answer": "While our firm facilitates the entire process and provides legal guidance, we highly recommend that you retain an independent legal expert specializing in property law for an added layer of security. This ensures that all documentation related to your 2BHK Flat For Sale in Sector 70 Noida is thoroughly vetted from an independent standpoint before final signing."
+      },
+      {
+        "question": "What are the advantages of buying a ready to move 2BHK flat over an under-construction unit in this area",
+        "answer": "Buying a ready-to-move flat provides immediate possession, eliminates the risk of construction delays, and allows you to avoid paying rent while waiting for the property. Furthermore, the GST implications are often lower on ready units that have received the Completion Certificate, making the overall cost more predictable and manageable."
+      }
     ]
   },
   "contactSection": {
@@ -81,6 +206,11 @@
       "Ready to secure your perfect 2BHK Flat For Sale in Sector 70 Noida Get in touch with our certified real estate consultants today. We provide personalized property tours, detailed financial planning advice, and complete transaction support from inquiry to handover.",
       "Fill out the form below or call us directly to discuss your requirements and access exclusive off-market listings tailored specifically for the Sector 70 area."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

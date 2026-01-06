@@ -7,12 +7,18 @@
       "Whether you plan to build your dream custom home or seek a strategic long-term investment opportunity Sector 56 provides fully vetted plots with clear titles and immediate possession. We specialize in connecting discerning buyers with verified residential and commercial land options ensuring complete transparency and legal security throughout the purchasing journey. Start exploring available inventory today and take the first step towards realizing your property goals in a premium Noida address."
     ],
     "buttons": [
-      { "label": "Explore Verified Plots Now", "path": "/listings" },
-      { "label": "Download Price Guide", "path": "/contact" }
+      {
+        "label": "Explore Verified Plots Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Download Price Guide",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/hero-plot-sector56-1.jpg",
-      "/images/hero-plot-sector56-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "This well-connected area not only promises ease of travel but also guarantees rapid development ensuring sustained growth in property values. Review the crucial landmarks and neighboring zones that enhance the value proposition of every Plot For Sale in Sector 56."
     ],
     "locations": [
-      "Sector 57 Commercial Hub",
-      "Noida Electronic City Metro Station",
-      "Fortis Hospital Noida",
-      "Atta Market and Sector 18",
-      "FNG Expressway Access Points",
-      "Top-tier International Schools",
-      "Major Banks and Financial Institutions",
-      "Hospitals and Healthcare Facilities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to secure your piece of prime real estate in Sector 56 Noida Our dedicated team of property specialists is ready to provide personalized guidance market insights and access to exclusive off-market listings.",
       "Do not miss the opportunity to invest in one of Noida’s fastest-growing residential sectors. Reach out now to schedule a site visit or receive a comprehensive valuation report tailored to your investment needs."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

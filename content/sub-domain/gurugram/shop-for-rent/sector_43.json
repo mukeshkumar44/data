@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "shop_front_sector43.jpg",
-      "commercial_street_faridabad.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The robust infrastructure including wide roads and excellent public transport links guarantees ease of access for both customers and employees. Renting a shop here places your business at the nexus of residential convenience and commercial activity ensuring sustained growth and market relevance in the competitive Gurugram commercial sector."
     ],
     "locations": [
-      "Mathura Road NH-44 connectivity",
-      "Proximity to Badarpur Border",
-      "Easy access to Sarai Metro Station",
-      "Adjacent to residential Sector 42 and Sector 45",
-      "Near major commercial hubs of Sector 37",
-      "Direct route to Greater Gurugram Expressway",
-      "Close to major residential townships and schools",
-      "Connected via local bus and auto routes"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

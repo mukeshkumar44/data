@@ -7,10 +7,19 @@
       "Explore exclusive inventory featuring houses close to major arterial roads top-tier educational institutions and vibrant local markets. Investing in property here means securing a future in a rapidly appreciating area known for its peaceful environment and superior urban planning. Don’t miss this chance to own quality real estate that truly fits your financial plan. Review our verified listings today and take the first step toward finding your dream home in Sector 47."
     ],
     "buttons": [
-      { "label": "View Affordable Properties", "path": "/listings" },
-      { "label": "Request a Free Callback", "path": "/contact" }
+      {
+        "label": "View Affordable Properties",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Free Callback",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_sector47_house1.jpg", "hero_sector47_map.png"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Housing Options Explore Affordable House Sizes Available in Sector 47 Noida",
@@ -52,14 +61,56 @@
       "The sector is well-served by the Delhi Metro Aqua Line significantly simplifying daily travel. Proximity to sectors like Sector 50 Sector 44 and Sector 49 further enhances its appeal providing immediate access to premium shopping malls hospitals and educational institutions. This location ensures residents enjoy a tranquil community environment without sacrificing urban accessibility making it an unbeatable choice for informed homebuyers."
     ],
     "locations": [
-      "Noida Sector 50 Metro Station",
-      "Wave Mall Noida",
-      "Amity University Noida",
-      "Felix Hospital",
-      "Sector 47 Market Hub",
-      "Noida Expressway Access Point",
-      "Sector 18 Atta Market",
-      "FNG Corridor Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Don’t let the complexity of the market deter you from finding the perfect property. Our experts specialize in Sector 47 real estate and are ready to provide personalized guidance, verified listings, and transparent transactional support.",
       "Contact us today to schedule a site visit, receive tailored property recommendations, and secure your affordable dream home in this highly desirable Noida sector."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

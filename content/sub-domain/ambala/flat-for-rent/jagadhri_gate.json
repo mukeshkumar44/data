@@ -7,10 +7,19 @@
       "Finding the right rental flat can be challenging but our platform streamlines the process providing verified listings and detailed property information. Explore flats featuring modern amenities robust security and excellent access to public transportation and key commercial areas. Start browsing our exclusive listings today and secure the perfect Flat For Rent in Jagadhri Gate before it is gone. We make moving easy and stress-free ensuring you transition seamlessly into your new Jagadhri Gate residence."
     ],
     "buttons": [
-      { "label": "Browse All Rental Flats", "path": "/flats" },
-      { "label": "Contact Rental Experts", "path": "/contact" }
+      {
+        "label": "Browse All Rental Flats",
+        "path": "/flats"
+      },
+      {
+        "label": "Contact Rental Experts",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_flat_jagadhri_gate_1.jpg", "hero_flat_jagadhri_gate_2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "The Best Variety of Rental Flats and Essential Features Available Near Jagadhri Gate Ambala",
@@ -19,12 +28,30 @@
       "Jagadhri Gate offers a unique blend of old-city charm and modern convenience. We have vetted every listing to ensure quality and transparency. Explore the detailed configurations below and click through to find your next rental home in this vibrant locality of Ambala."
     ],
     "features": [
-      { "title": "1 BHK Studio Apartments", "description": "These modern, efficient 1 BHK flats are perfect for single professionals, students, or couples seeking affordability and minimal maintenance. Located close to key transit points in Jagadhri Gate, they offer excellent value. Enjoy private living spaces, essential kitchen setups, and sometimes dedicated parking options for two-wheelers. Ideal for those who value independence and location above all." },
-      { "title": "2 BHK Family Flats", "description": "Our selection of 2 BHK rental flats in Jagadhri Gate provides ample space for small to medium-sized families. These units typically include two spacious bedrooms, a living area, and a functional kitchen. Many properties are semi-furnished, reducing your moving costs and effort. They ensure a comfortable family lifestyle with easy access to nearby parks and schools in Ambala." },
-      { "title": "Prime Location Advantage", "description": "Renting a flat in Jagadhri Gate places you right at the heart of local activity. Benefit from properties situated near major roads, offering quick commutes to Ambala City and Ambala Cantt. This location ensures that essential services, including banks, hospitals, and major markets, are just a short walk or drive away, maximizing convenience for busy residents." },
-      { "title": "Modern Amenities Included", "description": "Many of our premium rental flats come equipped with desirable modern amenities. Look for features such as 24/7 water supply, power backup solutions, high-speed internet connectivity provisions, and dedicated covered parking spaces. These amenities significantly enhance the quality of life, making your rental experience in Jagadhri Gate more comfortable and reliable." },
-      { "title": "Robust Security Systems", "description": "Safety and security are non-negotiable when choosing a Flat For Rent. We list properties that prioritize tenant security, often featuring gated access, installed CCTV surveillance in common areas, and professional security staff during key hours. Rent with peace of mind knowing your family and belongings are protected within the premises." },
-      { "title": "Easy Access to Transport", "description": "Jagadhri Gate boasts exceptional public transport accessibility. Finding a rental flat here means you are never far from bus routes, auto-rickshaw stands, and railway station access points. This connectivity is crucial for daily commuters and makes traveling across Ambala City or beyond highly efficient and inexpensive." }
+      {
+        "title": "1 BHK Studio Apartments",
+        "description": "These modern, efficient 1 BHK flats are perfect for single professionals, students, or couples seeking affordability and minimal maintenance. Located close to key transit points in Jagadhri Gate, they offer excellent value. Enjoy private living spaces, essential kitchen setups, and sometimes dedicated parking options for two-wheelers. Ideal for those who value independence and location above all."
+      },
+      {
+        "title": "2 BHK Family Flats",
+        "description": "Our selection of 2 BHK rental flats in Jagadhri Gate provides ample space for small to medium-sized families. These units typically include two spacious bedrooms, a living area, and a functional kitchen. Many properties are semi-furnished, reducing your moving costs and effort. They ensure a comfortable family lifestyle with easy access to nearby parks and schools in Ambala."
+      },
+      {
+        "title": "Prime Location Advantage",
+        "description": "Renting a flat in Jagadhri Gate places you right at the heart of local activity. Benefit from properties situated near major roads, offering quick commutes to Ambala City and Ambala Cantt. This location ensures that essential services, including banks, hospitals, and major markets, are just a short walk or drive away, maximizing convenience for busy residents."
+      },
+      {
+        "title": "Modern Amenities Included",
+        "description": "Many of our premium rental flats come equipped with desirable modern amenities. Look for features such as 24/7 water supply, power backup solutions, high-speed internet connectivity provisions, and dedicated covered parking spaces. These amenities significantly enhance the quality of life, making your rental experience in Jagadhri Gate more comfortable and reliable."
+      },
+      {
+        "title": "Robust Security Systems",
+        "description": "Safety and security are non-negotiable when choosing a Flat For Rent. We list properties that prioritize tenant security, often featuring gated access, installed CCTV surveillance in common areas, and professional security staff during key hours. Rent with peace of mind knowing your family and belongings are protected within the premises."
+      },
+      {
+        "title": "Easy Access to Transport",
+        "description": "Jagadhri Gate boasts exceptional public transport accessibility. Finding a rental flat here means you are never far from bus routes, auto-rickshaw stands, and railway station access points. This connectivity is crucial for daily commuters and makes traveling across Ambala City or beyond highly efficient and inexpensive."
+      }
     ]
   },
   "locationsSection": {
@@ -34,14 +61,56 @@
       "Whether you need quick access to the main market, educational institutions, or essential healthcare facilities, Jagadhri Gate provides a centralized living solution. Our listings highlight properties that offer the best connection to these important surrounding hubs, ensuring maximum convenience for the residents."
     ],
     "locations": [
-      "Ambala City Railway Station",
-      "Baldev Nagar Residential Area",
-      "Ambala Bus Stand City Side",
-      "Sector 7 Ambala Retail Hub",
-      "Civil Hospital Ambala City",
-      "Aggarwal Market Complex",
-      "Mansa Devi Mandir Area",
-      "Nicholson Road Shopping"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -51,30 +120,84 @@
       "We prioritize clear communication and genuine support from initial viewing through lease signing and beyond. Discover the eight key advantages that set our rental services apart in Ambala City."
     ],
     "points": [
-      { "title": "Transparent Rental Process", "description": "We guarantee full transparency regarding rent, security deposits, maintenance charges, and lease agreements. There are absolutely no hidden fees or surprise costs. Everything is clearly documented before you sign, ensuring trust and peace of mind when securing your Flat For Rent in Jagadhri Gate." },
-      { "title": "Verified Property Listings", "description": "Every flat listed on our platform is physically verified and confirmed by our team. We ensure that the property details, images, and listed amenities are 100% accurate, saving you time and preventing misleading expectations common in the rental market." },
-      { "title": "Affordable Living Solutions", "description": "We maintain a wide range of rental options to fit various budgets. Our selection includes flats known for offering maximum comfort and amenities at highly competitive rental rates, making quality living in Jagadhri Gate accessible to everyone." },
-      { "title": "Proximity to Education Hubs", "description": "Families often prioritize educational access. Many of our Jagadhri Gate rental properties are conveniently located near reputable schools and coaching centers, drastically cutting down on children's commute times and improving their daily routine." },
-      { "title": "Dedicated Maintenance Support", "description": "Once you move in, our support does not stop. We connect tenants directly with responsive property managers or landlords who provide timely maintenance and repair services, ensuring your living condition remains excellent throughout the lease period." },
-      { "title": "Flexible Lease Terms Available", "description": "We understand that needs change. We offer options for various lease durations, including 6-month, 11-month, or longer agreements. Discuss your specific timeline with our agents to find a flexible lease term that truly works for your circumstances." },
-      { "title": "Immediate Possession Options", "description": "Need to move quickly? Many of our rental flats are ready for immediate occupancy. We expedite the paperwork and move-in coordination so you can settle into your new Flat For Rent in Jagadhri Gate without unnecessary delays." },
-      { "title": "Quick Access to Local Markets", "description": "Living near Jagadhri Gate means superb access to fresh produce, daily necessities, clothing stores, and specialized retailers. The proximity to vibrant local markets simplifies grocery shopping and errands, making daily life incredibly convenient." }
+      {
+        "title": "Transparent Rental Process",
+        "description": "We guarantee full transparency regarding rent, security deposits, maintenance charges, and lease agreements. There are absolutely no hidden fees or surprise costs. Everything is clearly documented before you sign, ensuring trust and peace of mind when securing your Flat For Rent in Jagadhri Gate."
+      },
+      {
+        "title": "Verified Property Listings",
+        "description": "Every flat listed on our platform is physically verified and confirmed by our team. We ensure that the property details, images, and listed amenities are 100% accurate, saving you time and preventing misleading expectations common in the rental market."
+      },
+      {
+        "title": "Affordable Living Solutions",
+        "description": "We maintain a wide range of rental options to fit various budgets. Our selection includes flats known for offering maximum comfort and amenities at highly competitive rental rates, making quality living in Jagadhri Gate accessible to everyone."
+      },
+      {
+        "title": "Proximity to Education Hubs",
+        "description": "Families often prioritize educational access. Many of our Jagadhri Gate rental properties are conveniently located near reputable schools and coaching centers, drastically cutting down on children's commute times and improving their daily routine."
+      },
+      {
+        "title": "Dedicated Maintenance Support",
+        "description": "Once you move in, our support does not stop. We connect tenants directly with responsive property managers or landlords who provide timely maintenance and repair services, ensuring your living condition remains excellent throughout the lease period."
+      },
+      {
+        "title": "Flexible Lease Terms Available",
+        "description": "We understand that needs change. We offer options for various lease durations, including 6-month, 11-month, or longer agreements. Discuss your specific timeline with our agents to find a flexible lease term that truly works for your circumstances."
+      },
+      {
+        "title": "Immediate Possession Options",
+        "description": "Need to move quickly? Many of our rental flats are ready for immediate occupancy. We expedite the paperwork and move-in coordination so you can settle into your new Flat For Rent in Jagadhri Gate without unnecessary delays."
+      },
+      {
+        "title": "Quick Access to Local Markets",
+        "description": "Living near Jagadhri Gate means superb access to fresh produce, daily necessities, clothing stores, and specialized retailers. The proximity to vibrant local markets simplifies grocery shopping and errands, making daily life incredibly convenient."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Flats For Rent in Jagadhri Gate Ambala",
     "description": "Get detailed answers to the most common queries regarding lease terms, pricing, and amenities available for rental properties in the Jagadhri Gate locality.",
     "faqs": [
-      { "question": "What is the typical security deposit required for renting a flat in Jagadhri Gate", "answer": "The standard security deposit for a Flat For Rent in Jagadhri Gate usually ranges from one to two months’ rent. This deposit is fully refundable at the end of your tenancy, provided there are no damages to the property beyond normal wear and tear and all utility bills are settled. Specific requirements depend on the landlord and the property value, and this will always be clearly stated in the lease agreement before signing." },
-      { "question": "Are utility bills included in the monthly rent for flats in this area", "answer": "Generally, utility bills such as electricity, water, and gas are not included in the stated monthly rent and are the responsibility of the tenant. However, some specific listings, especially co-living or studio apartments, might offer all-inclusive rental packages. Always confirm with the property agent exactly which, if any, utilities are covered before finalizing your agreement." },
-      { "question": "What types of 2 BHK and 3 BHK rental flats are common near Jagadhri Gate", "answer": "The most common rental types are independent builder floors and units within smaller residential complexes. You can find both unfurnished options, allowing you to bring your own furniture, and semi-furnished units that often include essential fittings like modular kitchens, wardrobes, and fans/lights. Fully furnished options are less common but are available upon specific request." },
-      { "question": "Is Jagadhri Gate considered a safe residential locality for families in Ambala", "answer": "Yes, Jagadhri Gate is widely regarded as a safe and established residential area in Ambala City. It is well-populated, active throughout the day, and features good street lighting. Many rental properties offer additional security features like gated communities and CCTV surveillance, adding an extra layer of protection for residents and their families." },
-      { "question": "What is the standard lease duration when renting a property near Ambala City", "answer": "The most common lease agreement term for residential properties in Ambala is 11 months. This duration is preferred because it avoids certain mandatory long-term registration requirements, simplifying the legal process for both the tenant and the landlord. Longer lease terms are possible but often require mutual agreement and a different registration process." },
-      { "question": "Can I rent a flat if I am a student attending college or a training institute nearby", "answer": "Absolutely. Many landlords in Jagadhri Gate are open to renting to responsible students. You might be asked to provide additional documentation, such as proof of enrollment and potentially a guarantor (usually a parent or guardian). We have specific listings suitable for student occupancy that are close to major educational centers." },
-      { "question": "Are pets generally allowed in rental flats in the Jagadhri Gate area", "answer": "Pet policies vary significantly between individual landlords and specific buildings. While some flats are strictly no-pets, others may allow small pets subject to conditions, such as an increased security deposit or a pet fee. It is crucial to inform us about your pet ownership early in the search process so we can filter listings accordingly." },
-      { "question": "What is the best way to schedule a viewing for a Flat For Rent in Jagadhri Gate", "answer": "The fastest way to schedule a viewing is by contacting our property experts directly via the contact form on this page or calling our dedicated rental line. We typically require 24 hours' notice to coordinate with current tenants or the landlord, ensuring a smooth and productive viewing experience for you." },
-      { "question": "How does the rental agreement process work after selecting a flat", "answer": "Once you select a flat, we facilitate communication between you and the landlord. You will submit necessary documents (ID proof, address proof), pay the security deposit, and the first month's rent. A formal rental agreement will then be drafted, reviewed, and signed by both parties, after which keys will be handed over, usually within 24-48 hours." },
-      { "question": "Are there parking facilities available with most rental flats in Jagadhri Gate", "answer": "Parking availability depends on the specific building type. Newer builder floors and society apartments often include dedicated covered parking for cars or two-wheelers. In older or more independent properties, street parking might be the only option. Always check the parking details on the property listing to confirm the provision." }
+      {
+        "question": "What is the typical security deposit required for renting a flat in Jagadhri Gate",
+        "answer": "The standard security deposit for a Flat For Rent in Jagadhri Gate usually ranges from one to two months’ rent. This deposit is fully refundable at the end of your tenancy, provided there are no damages to the property beyond normal wear and tear and all utility bills are settled. Specific requirements depend on the landlord and the property value, and this will always be clearly stated in the lease agreement before signing."
+      },
+      {
+        "question": "Are utility bills included in the monthly rent for flats in this area",
+        "answer": "Generally, utility bills such as electricity, water, and gas are not included in the stated monthly rent and are the responsibility of the tenant. However, some specific listings, especially co-living or studio apartments, might offer all-inclusive rental packages. Always confirm with the property agent exactly which, if any, utilities are covered before finalizing your agreement."
+      },
+      {
+        "question": "What types of 2 BHK and 3 BHK rental flats are common near Jagadhri Gate",
+        "answer": "The most common rental types are independent builder floors and units within smaller residential complexes. You can find both unfurnished options, allowing you to bring your own furniture, and semi-furnished units that often include essential fittings like modular kitchens, wardrobes, and fans/lights. Fully furnished options are less common but are available upon specific request."
+      },
+      {
+        "question": "Is Jagadhri Gate considered a safe residential locality for families in Ambala",
+        "answer": "Yes, Jagadhri Gate is widely regarded as a safe and established residential area in Ambala City. It is well-populated, active throughout the day, and features good street lighting. Many rental properties offer additional security features like gated communities and CCTV surveillance, adding an extra layer of protection for residents and their families."
+      },
+      {
+        "question": "What is the standard lease duration when renting a property near Ambala City",
+        "answer": "The most common lease agreement term for residential properties in Ambala is 11 months. This duration is preferred because it avoids certain mandatory long-term registration requirements, simplifying the legal process for both the tenant and the landlord. Longer lease terms are possible but often require mutual agreement and a different registration process."
+      },
+      {
+        "question": "Can I rent a flat if I am a student attending college or a training institute nearby",
+        "answer": "Absolutely. Many landlords in Jagadhri Gate are open to renting to responsible students. You might be asked to provide additional documentation, such as proof of enrollment and potentially a guarantor (usually a parent or guardian). We have specific listings suitable for student occupancy that are close to major educational centers."
+      },
+      {
+        "question": "Are pets generally allowed in rental flats in the Jagadhri Gate area",
+        "answer": "Pet policies vary significantly between individual landlords and specific buildings. While some flats are strictly no-pets, others may allow small pets subject to conditions, such as an increased security deposit or a pet fee. It is crucial to inform us about your pet ownership early in the search process so we can filter listings accordingly."
+      },
+      {
+        "question": "What is the best way to schedule a viewing for a Flat For Rent in Jagadhri Gate",
+        "answer": "The fastest way to schedule a viewing is by contacting our property experts directly via the contact form on this page or calling our dedicated rental line. We typically require 24 hours' notice to coordinate with current tenants or the landlord, ensuring a smooth and productive viewing experience for you."
+      },
+      {
+        "question": "How does the rental agreement process work after selecting a flat",
+        "answer": "Once you select a flat, we facilitate communication between you and the landlord. You will submit necessary documents (ID proof, address proof), pay the security deposit, and the first month's rent. A formal rental agreement will then be drafted, reviewed, and signed by both parties, after which keys will be handed over, usually within 24-48 hours."
+      },
+      {
+        "question": "Are there parking facilities available with most rental flats in Jagadhri Gate",
+        "answer": "Parking availability depends on the specific building type. Newer builder floors and society apartments often include dedicated covered parking for cars or two-wheelers. In older or more independent properties, street parking might be the only option. Always check the parking details on the property listing to confirm the provision."
+      }
     ]
   },
   "contactSection": {
@@ -83,6 +206,11 @@
       "Stop searching endlessly and let our experts find the perfect rental flat for you in the bustling Jagadhri Gate locality. Fill out the form below with your requirements, including preferred size, budget, and move-in date.",
       "We promise a prompt and personalized response within hours. Take the first step toward settling into your new, comfortable home in Ambala City today."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

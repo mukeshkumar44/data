@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "sector-15-noida-plot-view-1.jpg",
-      "sector-15-noida-map.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Investors and homeowners prioritize locations that offer convenience and future growth potential. Sector 15 excels in both areas being a fully developed sector with established civic amenities and robust public transport access including the nearby Sector 15 metro station. We highlight key adjacent areas and major landmarks that define the superior connectivity and ease of access characterizing Sector 15 Noida's prime real estate offerings."
     ],
     "locations": [
-      "Sector 16 Noida Film City",
-      "Sector 18 Market",
-      "DND Flyway Access Point",
-      "Noida Golf Course",
-      "Sector 15 Metro Station",
-      "Mayur Vihar Delhi",
-      "Atta Market Commercial Hub",
-      "Wave City Center Mall"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

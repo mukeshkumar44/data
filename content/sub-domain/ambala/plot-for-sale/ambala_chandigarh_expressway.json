@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "expressway_view_1.jpg",
-      "plot_map_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,13 +61,56 @@
       "Our featured locations are chosen based on several critical factors including proximity to the international airport access to the National Highway 44 NH-44 and planned infrastructure expansions. Investing in these sectors today means capitalizing on exponential growth predicted for the next decade. Explore these highly coveted areas for your next Plot For Sale in Ambala Chandigarh Expressway investment."
     ],
     "locations": [
-      "Ambala City Bypass Residential Zones",
-      "Sectors adjacent to the Zirakpur Extension",
-      "Areas near Chandigarh University Campus",
-      "Townships accessing NH-44 directly",
-      "Urban estate sectors bordering Haryana Punjab",
-      "Developed pockets near Ambala Cantt Railway Station",
-      "Future commercial hubs along the Expressway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,12 +7,18 @@
       "new gurugram represents the next evolution of metropolitan living blending green spaces with cutting-edge infrastructure. Investing here means securing a superior lifestyle and ensuring excellent returns on investment. Explore luxury residences contemporary designs and unbeatable locations near major business hubs and expressways. Start your journey to finding your dream home in this promising area today."
     ],
     "buttons": [
-      { "label": "Browse Luxury Flats", "path": "/search/luxury" },
-      { "label": "Get Investment Advice", "path": "/contact/consultation" }
+      {
+        "label": "Browse Luxury Flats",
+        "path": "/search/luxury"
+      },
+      {
+        "label": "Get Investment Advice",
+        "path": "/contact/consultation"
+      }
     ],
     "images": [
-      "flat_newgurugram_hero1.jpg",
-      "flat_newgurugram_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "We monitor all emerging residential hubs including Sector 81 to Sector 95 and the newer developments along the peripheral roads. These areas offer competitive pricing today with guaranteed appreciation potential due to massive infrastructural investments like metro expansions and highway upgrades. Whether you prioritize connectivity community living or future growth potential we have listings across all prime locations in new gurugram to match your requirements."
     ],
     "locations": [
-      "Flats near Dwarka Expressway",
-      "Residential Projects in Sector 83",
-      "Premium Apartments Sector 92",
-      "Affordable Housing Sector 95",
-      "Ready-to-Move Flats Sector 85",
-      "Properties near IMT Manesar",
-      "Flats with Golf Course Views",
-      "Integrated Townships new gurugram"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

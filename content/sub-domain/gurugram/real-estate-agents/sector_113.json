@@ -7,10 +7,19 @@
       "Sector 113 Gurugram presents a vibrant mix of luxury apartments, spacious independent floors, and lucrative commercial spaces. Do not navigate this complex market alone. Partnering with a dedicated local agent means accessing off-market listings, receiving precise property valuations, and enjoying seamless transaction management from initial viewing to final registration. Start your journey toward smart property investment with Sector 113’s finest real estate professionals."
     ],
     "buttons": [
-      { "label": "Find Top Sector 113 Agents", "path": "/agents" },
-      { "label": "Explore Listings Now", "path": "/listings" }
+      {
+        "label": "Find Top Sector 113 Agents",
+        "path": "/agents"
+      },
+      {
+        "label": "Explore Listings Now",
+        "path": "/listings"
+      }
     ],
-    "images": ["/images/sector-113-hero.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Leading Property Opportunities Handled by Expert Real Estate Agents in Sector 113",
@@ -52,14 +61,56 @@
       "Our Real Estate Agents in Sector 113 are not confined solely to the sector boundaries. They possess detailed market intelligence on surrounding localities including Sector 112, 114, and the upcoming commercial zones. This extended reach allows us to offer a broader spectrum of investment possibilities and lifestyle choices that perfectly match your specific requirements and future growth projections."
     ],
     "locations": [
-      "Dwarka Expressway Access",
-      "Proximity to IGI Airport",
-      "Sector 114 Property Market",
-      "Connectivity to Central Dwarka",
-      "Upcoming Diplomatic Enclave",
-      "Palam Vihar Extension",
-      "Adjacent to Sector 112",
-      "Operational Metro Connectivity Routes"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to invest, buy, or sell property in the highly sought-after Sector 113 market. Contact our dedicated team of expert real estate professionals today. We provide personalized consultations tailored to your unique financial and lifestyle objectives.",
       "Submit your inquiry below and one of our top Real Estate Agents in Sector 113 will reach out within 24 hours to begin mapping out your property success strategy. Your future home or investment awaits."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

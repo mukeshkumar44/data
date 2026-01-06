@@ -7,10 +7,19 @@
       "We specialise in connecting entrepreneurs with premium retail units office spaces and showrooms tailored to various business models. Whether you need a small secure kiosk or a large ground-floor showroom our listings for Shop For Rent in Sector 4 are vetted for location quality and value. Start your search now and position your business in one of Rohtak’s most thriving commercial zones achieving immediate operational advantage and long-term growth potential."
     ],
     "buttons": [
-      { "label": "View Ground Floor Shops", "path": "/listings/sector4/groundfloor" },
-      { "label": "Speak to a Commercial Expert", "path": "/contact" }
+      {
+        "label": "View Ground Floor Shops",
+        "path": "/listings/sector4/groundfloor"
+      },
+      {
+        "label": "Speak to a Commercial Expert",
+        "path": "/contact"
+      }
     ],
-    "images": ["/img/sector4_shop_hero1.jpg", "/img/sector4_shop_hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Shop For Rent Options in Sector 4 Rohtak Ideal Spaces for Every Business Need",
@@ -52,12 +61,56 @@
       "We provide comprehensive data on current rental trends demographic profiles and future infrastructure projects across Rohtak’s key sectors. Use this detailed market intelligence to make an informed decision and secure the ideal location for your business whether you need a high-end retail shop or a large distribution centre near major highways."
     ],
     "locations": [
-      "Sector 1 Rohtak Commercial Listings",
-      "Shop For Rent in Sector 3 Rohtak",
-      "Prime Office Space in Sector 5 Rohtak",
-      "Retail Units in Sector 6 Rohtak",
-      "Commercial Property Near Delhi Bypass",
-      "Warehouse Rentals in Industrial Area Rohtak"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Don’t let the perfect commercial opportunity pass you by. Our dedicated team specializes in Sector 4 commercial rentals providing expert guidance from initial search to final lease signing.",
       "Get in touch today to discuss your specific business requirements and schedule property viewings for the best available shops in Rohtak’s thriving Sector 4 market."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,12 +7,18 @@
       "Our curated selection of properties guarantees you find a home that precisely fits your budget and aesthetic preferences. We understand the critical importance of location quality and peace of mind when searching for a 3BHK apartment in this vibrant sector. Explore exclusive projects that boast state-of-the-art amenities including luxurious clubhouses temperature-controlled swimming pools and advanced multi-tier security systems. Start your tailored search for the perfect family home today and unlock the immense residential potential of this thriving Gurugram locale."
     ],
     "buttons": [
-      { "label": "Explore Premium 3BHK Listings", "path": "/listings/3bhk-premium" },
-      { "label": "Request Pricing Details", "path": "/contact/pricing" }
+      {
+        "label": "Explore Premium 3BHK Listings",
+        "path": "/listings/3bhk-premium"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact/pricing"
+      }
     ],
     "images": [
-      "hero-3bhk-exterior.jpg",
-      "hero-sector69-view.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Whether you are prioritizing access to international schools top hospitals or thriving retail and entertainment hubs Sector 69 places you right at the center of convenience. This area is rapidly evolving into a self-sufficient residential paradise making any 3BHK flat for sale here a smart lifestyle and financial investment."
     ],
     "locations": [
-      "Golf Course Extension Road Access",
-      "Sohna Road Commercial Hubs",
-      "Proximity to NH 48 Delhi-Jaipur Highway",
-      "Major Retail and Entertainment Centres",
-      "Reputable Educational Institutions Nearby",
-      "Leading Healthcare Facilities and Hospitals",
-      "Future Metro Corridor Linkage Potential",
-      "Rapid Access to Cyber City 2"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to find the perfect 3BHK flat for sale in Sector 69 Gurugram Get personalized assistance from our dedicated property consultants who possess deep market knowledge of this exclusive area. We simplify the buying process from initial consultation to final paperwork.",
       "Fill out the form below to receive customized listings virtual tours and detailed pricing breakdowns specific to your needs. Take the first step towards securing your premium residential investment."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

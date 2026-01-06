@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-flat-civil-lines-1.jpg",
-      "hero-flat-civil-lines-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Investing in a Flat For Sale in civil_lines means securing a location that promises not only appreciation but also superior quality of life due to its established civic amenities and maintained surroundings. We highlight key connectivity landmarks that enhance the value and livability of flats in this highly desirable area of Gurugram."
     ],
     "locations": [
-      "Gurugram Metro Station proximity",
-      "Easy access to Delhi-Agra National Highway NH 44",
-      "Near major reputed schools and universities",
-      "Walking distance to premier healthcare facilities and hospitals",
-      "Proximity to Civil Court and administrative offices",
-      "Well-developed commercial markets and shopping complexes",
-      "Established green parks and recreational zones",
-      "Quick drive to industrial and corporate zones"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

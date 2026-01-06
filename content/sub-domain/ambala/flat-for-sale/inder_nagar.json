@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "indernagar_flat_exterior.jpg",
-      "inder_nagar_community.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Furthermore the neighborhood is well-serviced by local markets supermarkets and recreational areas creating a self-sufficient and highly convenient living environment. When you purchase a Flat For Sale in Inder Nagar Ambala you are not just buying property you are buying unparalleled access to everything the city has to offer while maintaining a peaceful home base. This locality offers the perfect balance between urban amenities and quiet community life a truly rare find in today's fast-paced world."
     ],
     "locations": [
-      "Ambala Cantt Railway Station",
-      "Model Town Ambala",
-      "Civil Hospital Road",
-      "Ambala Chandigarh Expressway Access",
-      "Sadar Bazar Market Area",
-      "Bus Stand Ambala Cantt",
-      "Air Force Station Ambala",
-      "Key Educational Institutions"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

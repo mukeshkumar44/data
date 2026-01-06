@@ -7,12 +7,18 @@
       "Navigating the property market requires local knowledge and professional guidance. We understand the specific nuances of property rates legal documentation and future development prospects within Jasmeet Nagar Ambala Cantt. Whether you are a first-time home buyer an experienced investor or looking to sell your current property our dedicated team provides personalized service tailored to your precise needs. Contact us today to explore the most exclusive listings available in this thriving locality and let us make your property dreams a reality with expert negotiation and verified paperwork. Trust the local experts for guaranteed satisfaction."
     ],
     "buttons": [
-      { "label": "Explore Available Plots", "path": "/plots" },
-      { "label": "Consult Our Expert Dealer", "path": "/contact" }
+      {
+        "label": "Explore Available Plots",
+        "path": "/plots"
+      },
+      {
+        "label": "Consult Our Expert Dealer",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "jasmeet-nagar-hero1.jpg",
-      "jasmeet-nagar-map.png"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "The connectivity to the National Highway and the proximity to the Ambala Railway Station significantly boost the property values in Jasmeet Nagar and its neighboring sectors. We help you compare investment viability across these areas whether you prioritize ease of commute proximity to educational institutions or potential rental income. Explore our curated listings across the rapidly developing regions of Ambala ensuring you make a well-informed real estate decision supported by reliable market data and legal verification. We are your comprehensive guide to the best property deals in the wider Ambala region."
     ],
     "locations": [
-      "Ambala Cantt",
-      "Model Town Ambala",
-      "Sector 7 Ambala",
-      "Sector 8 Ambala",
-      "Adjoining Residential Societies",
-      "Main Ambala Road Access Points"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

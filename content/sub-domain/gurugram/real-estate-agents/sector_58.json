@@ -7,10 +7,19 @@
       "Whether you are a first-time home buyer, an investor seeking robust returns, or looking to relocate your business, our vetted agents simplify the complex real estate process. They provide personalized consultations, detailed market analysis, and complete legal due diligence, ensuring your transaction is smooth, transparent, and highly successful. Start your journey today by partnering with the best local expertise."
     ],
     "buttons": [
-      { "label": "Find Your Expert Agent Now", "path": "/contact" },
-      { "label": "Browse Sector 58 Listings", "path": "/listings" }
+      {
+        "label": "Find Your Expert Agent Now",
+        "path": "/contact"
+      },
+      {
+        "label": "Browse Sector 58 Listings",
+        "path": "/listings"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Property Opportunities Handled by Real Estate Agents in Sector 58 Gurugram",
@@ -52,12 +61,56 @@
       "We provide targeted guidance in areas like Sector 57, Sector 62, and Golf Course Extension Road, helping clients understand the comparative advantages and investment potential of each neighboring locality. This holistic approach ensures you make a fully informed decision about where to invest or reside in Gurugram."
     ],
     "locations": [
-      "Sector 57 Residential Apartments",
-      "Sector 62 Commercial Hubs",
-      "Golf Course Extension Road Luxury Projects",
-      "Sohna Road Accessibility Points",
-      "Ardee City Proximity",
-      "DLF Summit Residences"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to discuss your property goals in one of Gurugram's most prestigious sectors We connect you with a specialist Real Estate Agent in Sector 58 who understands your unique requirements and is prepared to offer immediate, actionable advice.",
       "Submit your details below and a dedicated property expert will contact you within the hour to start your successful real estate journey."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,10 +7,19 @@
       "We provide a curated listing of available rental properties, ranging from luxurious high-rise apartments to comfortable builder floors. Whether you need a spacious 3 BHK for your family or a compact 1 RK for independent living, our listings feature verified properties that meet stringent quality standards. Start your search now and secure the best Flat For Rent in sushant lok phase 3 before it’s gone. Our simplified process ensures a hassle-free transition into your new home in one of Gurugram’s most vibrant neighborhoods."
     ],
     "buttons": [
-      { "label": "Explore Rental Listings", "path": "/rentals" },
-      { "label": "Request a Callback", "path": "/contact" }
+      {
+        "label": "Explore Rental Listings",
+        "path": "/rentals"
+      },
+      {
+        "label": "Request a Callback",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_flat_1.jpg", "hero_area_2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Residential Options Available for Rent in Sushant Lok Phase 3 Gurugram",
@@ -19,12 +28,30 @@
       "We focus on providing detailed insights into the common types of flats available for rent here, ensuring you make an informed decision. From compact living for singles to expansive homes for large families, Sushant Lok Phase 3 has a rental property waiting for you. Review the features of the most popular flat configurations below."
     ],
     "features": [
-      { "title": "1 BHK Rental Flats", "description": "Ideal for singles, young professionals, or couples, 1 BHK flats offer efficient living spaces combining a bedroom, hall, and kitchen. These units are typically the most budget-friendly option when searching for a Flat For Rent in sushant lok phase 3. Expect modern amenities within gated societies or well-maintained builder floors, providing security and convenience without unnecessary size. This configuration maximizes affordability and location benefits simultaneously." },
-      { "title": "2 BHK Rental Apartments", "description": "The popular choice for small families or individuals who require an extra room for a home office or guest space. 2 BHK flats in Sushant Lok Phase 3 strike an excellent balance between cost and spaciousness. Many of these units are located in high-rise complexes featuring premium facilities like swimming pools, gyms, and designated parking, enhancing the overall quality of rental life substantially. Availability is high, offering plenty of choices regarding orientation and floor level." },
-      { "title": "3 BHK Luxury Homes", "description": "Perfect for established families seeking substantial living areas and multiple bathrooms. Renting a 3 BHK Flat in sushant lok phase 3 often means access to premium fittings, larger balconies, and servant quarters in some cases. These properties are often found in the most exclusive blocks or society towers, emphasizing luxury and privacy. If comfort and space are your top priorities, the 3 BHK segment provides unparalleled options in this micro-market." },
-      { "title": "4 BHK Premium Rentals", "description": "These large format flats are designed for big families or those who frequently host guests. 4 BHK units offer sprawling interiors, multiple utility spaces, and often come fully furnished or semi-furnished with high-end modular kitchens and wardrobes. Securing a 4 BHK Flat For Rent in sushant lok phase 3 places you in the upper tier of residential living, ensuring maximum comfort, prestige, and room for everyone. They are generally situated on higher floors offering superior views." },
-      { "title": "Builder Floor Rentals", "description": "Sushant Lok Phase 3 is renowned for its well-maintained builder floors, offering independent living with more control and less dependency on large society infrastructure. Ranging typically from 2 BHK to 4 BHK, these properties provide larger carpet areas, private parking, and sometimes terrace access. This option is highly favoured by tenants who prefer a quieter environment and direct access to street amenities and local markets." },
-      { "title": "Studio Apartments", "description": "The minimalist and highly functional choice for ultra-modern living. Studio apartments combine the living, sleeping, and kitchen areas into one integrated space, ideal for busy corporate executives or students. While smaller in size, they maximize efficiency and are usually located very close to commercial hubs and metro stations, offering superior connectivity. Finding a dedicated Studio Flat For Rent in sushant lok phase 3 can be an excellent way to secure a competitive rental rate in a premium area." }
+      {
+        "title": "1 BHK Rental Flats",
+        "description": "Ideal for singles, young professionals, or couples, 1 BHK flats offer efficient living spaces combining a bedroom, hall, and kitchen. These units are typically the most budget-friendly option when searching for a Flat For Rent in sushant lok phase 3. Expect modern amenities within gated societies or well-maintained builder floors, providing security and convenience without unnecessary size. This configuration maximizes affordability and location benefits simultaneously."
+      },
+      {
+        "title": "2 BHK Rental Apartments",
+        "description": "The popular choice for small families or individuals who require an extra room for a home office or guest space. 2 BHK flats in Sushant Lok Phase 3 strike an excellent balance between cost and spaciousness. Many of these units are located in high-rise complexes featuring premium facilities like swimming pools, gyms, and designated parking, enhancing the overall quality of rental life substantially. Availability is high, offering plenty of choices regarding orientation and floor level."
+      },
+      {
+        "title": "3 BHK Luxury Homes",
+        "description": "Perfect for established families seeking substantial living areas and multiple bathrooms. Renting a 3 BHK Flat in sushant lok phase 3 often means access to premium fittings, larger balconies, and servant quarters in some cases. These properties are often found in the most exclusive blocks or society towers, emphasizing luxury and privacy. If comfort and space are your top priorities, the 3 BHK segment provides unparalleled options in this micro-market."
+      },
+      {
+        "title": "4 BHK Premium Rentals",
+        "description": "These large format flats are designed for big families or those who frequently host guests. 4 BHK units offer sprawling interiors, multiple utility spaces, and often come fully furnished or semi-furnished with high-end modular kitchens and wardrobes. Securing a 4 BHK Flat For Rent in sushant lok phase 3 places you in the upper tier of residential living, ensuring maximum comfort, prestige, and room for everyone. They are generally situated on higher floors offering superior views."
+      },
+      {
+        "title": "Builder Floor Rentals",
+        "description": "Sushant Lok Phase 3 is renowned for its well-maintained builder floors, offering independent living with more control and less dependency on large society infrastructure. Ranging typically from 2 BHK to 4 BHK, these properties provide larger carpet areas, private parking, and sometimes terrace access. This option is highly favoured by tenants who prefer a quieter environment and direct access to street amenities and local markets."
+      },
+      {
+        "title": "Studio Apartments",
+        "description": "The minimalist and highly functional choice for ultra-modern living. Studio apartments combine the living, sleeping, and kitchen areas into one integrated space, ideal for busy corporate executives or students. While smaller in size, they maximize efficiency and are usually located very close to commercial hubs and metro stations, offering superior connectivity. Finding a dedicated Studio Flat For Rent in sushant lok phase 3 can be an excellent way to secure a competitive rental rate in a premium area."
+      }
     ]
   },
   "locationsSection": {
@@ -34,14 +61,56 @@
       "The locality benefits from superior road networks and is close to major metro routes, making the daily commute highly manageable. When searching for a Flat For Rent in sushant lok phase 3, consider how these surrounding hubs influence your daily life and rental decision. We list adjacent sectors and vital connection points that enhance the value of this location."
     ],
     "locations": [
-      "Sector 57 Gurugram",
-      "Sector 56 Rapid Metro Station",
-      "Golf Course Extension Road",
-      "Artemis Hospital",
-      "Paras Hospital",
-      "Hong Kong Bazaar Market",
-      "Gurugram Public School",
-      "Sohna Road Accessibility"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -51,30 +120,84 @@
       "Making the decision to rent here is a smart move for long-term stability and high quality of life. Discover why so many tenants choose to make this locale their home when searching for the perfect Flat For Rent in sushant lok phase 3."
     ],
     "points": [
-      { "title": "Unmatched Connectivity to Corporate Hubs", "description": "The locality offers direct access to major job markets including Golf Course Road and Sohna Road. Professionals benefit immensely from reduced travel times, allowing for a better work-life balance. Its position near the Rapid Metro ensures swift movement across key Gurugram commercial centers, making your Flat For Rent in sushant lok phase 3 incredibly valuable for career growth and daily commuting efficiency." },
-      { "title": "Exceptional Social Infrastructure", "description": "Sushant Lok Phase 3 is surrounded by reputed educational institutions, world-class hospitals like Artemis and Medanta, and premium retail destinations. Everything a family needs is within a short driving distance. This robust infrastructure minimizes travel for essential services and recreational activities, enhancing the convenience of residential life significantly." },
-      { "title": "High Security and Gated Communities", "description": "Safety is a priority, with many rental options available within well-managed gated societies equipped with 24/7 security, CCTV surveillance, and dedicated entrance guards. Tenants searching for a secure Flat For Rent in sushant lok phase 3 can rest assured knowing their families and possessions are protected within these controlled environments. This peace of mind is invaluable." },
-      { "title": "Variety of Flat Configurations Available", "description": "Whether you are looking for a small, efficient studio or a large, luxurious 4 BHK, the rental market in this area is highly dynamic and diverse. This variety ensures that every budget and space requirement can be met, simplifying the search process significantly. We help you navigate these options to find the rental property that perfectly matches your specific needs." },
-      { "title": "Excellent Property Maintenance Standards", "description": "Flats available for rent here are generally well-maintained due to high standards set by resident welfare associations and property managers. Rental properties are often newly constructed or recently renovated, guaranteeing modern fittings, functional appliances, and aesthetic appeal upon move-in. Lower maintenance issues mean a smoother rental experience overall." },
-      { "title": "Proximity to Leisure and Entertainment", "description": "Residents enjoy easy access to numerous parks, fitness centers, multiplexes, and fine dining restaurants along the nearby Golf Course Extension Road. Weekends are full of options for relaxation and socializing. Renting a Flat For Rent in sushant lok phase 3 means never being far from recreational activities and a vibrant social scene." },
-      { "title": "Greenery and Residential Atmosphere", "description": "Despite its urban location, the area maintains a pleasant, tree-lined residential atmosphere. Many societies feature dedicated green spaces, jogging tracks, and landscaped gardens, offering a respite from the city bustle. This focus on environmental quality enhances the overall well-being of the tenants." },
-      { "title": "Professional and Reliable Rental Management", "description": "Our agency provides transparent and legal rental agreements, professional background verification, and dedicated support throughout the tenancy period. We ensure the process of finding and settling into your Flat For Rent in sushant lok phase 3 is entirely smooth, minimizing landlord-tenant friction and maximizing your satisfaction." }
+      {
+        "title": "Unmatched Connectivity to Corporate Hubs",
+        "description": "The locality offers direct access to major job markets including Golf Course Road and Sohna Road. Professionals benefit immensely from reduced travel times, allowing for a better work-life balance. Its position near the Rapid Metro ensures swift movement across key Gurugram commercial centers, making your Flat For Rent in sushant lok phase 3 incredibly valuable for career growth and daily commuting efficiency."
+      },
+      {
+        "title": "Exceptional Social Infrastructure",
+        "description": "Sushant Lok Phase 3 is surrounded by reputed educational institutions, world-class hospitals like Artemis and Medanta, and premium retail destinations. Everything a family needs is within a short driving distance. This robust infrastructure minimizes travel for essential services and recreational activities, enhancing the convenience of residential life significantly."
+      },
+      {
+        "title": "High Security and Gated Communities",
+        "description": "Safety is a priority, with many rental options available within well-managed gated societies equipped with 24/7 security, CCTV surveillance, and dedicated entrance guards. Tenants searching for a secure Flat For Rent in sushant lok phase 3 can rest assured knowing their families and possessions are protected within these controlled environments. This peace of mind is invaluable."
+      },
+      {
+        "title": "Variety of Flat Configurations Available",
+        "description": "Whether you are looking for a small, efficient studio or a large, luxurious 4 BHK, the rental market in this area is highly dynamic and diverse. This variety ensures that every budget and space requirement can be met, simplifying the search process significantly. We help you navigate these options to find the rental property that perfectly matches your specific needs."
+      },
+      {
+        "title": "Excellent Property Maintenance Standards",
+        "description": "Flats available for rent here are generally well-maintained due to high standards set by resident welfare associations and property managers. Rental properties are often newly constructed or recently renovated, guaranteeing modern fittings, functional appliances, and aesthetic appeal upon move-in. Lower maintenance issues mean a smoother rental experience overall."
+      },
+      {
+        "title": "Proximity to Leisure and Entertainment",
+        "description": "Residents enjoy easy access to numerous parks, fitness centers, multiplexes, and fine dining restaurants along the nearby Golf Course Extension Road. Weekends are full of options for relaxation and socializing. Renting a Flat For Rent in sushant lok phase 3 means never being far from recreational activities and a vibrant social scene."
+      },
+      {
+        "title": "Greenery and Residential Atmosphere",
+        "description": "Despite its urban location, the area maintains a pleasant, tree-lined residential atmosphere. Many societies feature dedicated green spaces, jogging tracks, and landscaped gardens, offering a respite from the city bustle. This focus on environmental quality enhances the overall well-being of the tenants."
+      },
+      {
+        "title": "Professional and Reliable Rental Management",
+        "description": "Our agency provides transparent and legal rental agreements, professional background verification, and dedicated support throughout the tenancy period. We ensure the process of finding and settling into your Flat For Rent in sushant lok phase 3 is entirely smooth, minimizing landlord-tenant friction and maximizing your satisfaction."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Renting a Flat in Sushant Lok Phase 3 Gurugram",
     "description": "Get detailed answers to common inquiries regarding the rental market, lease terms, and local living conditions in Sushant Lok Phase 3.",
     "faqs": [
-      { "question": "What is the typical security deposit required for a Flat For Rent in sushant lok phase 3", "answer": "The standard security deposit across most of Gurugram, including Sushant Lok Phase 3, is equivalent to two months' rent. However, this can sometimes vary based on the specific landlord, the size of the flat, and whether the property is fully furnished. Premium luxury apartments or properties with high-end furnishings might require a deposit equivalent to three months' rent. This deposit is refundable at the end of the lease term, subject to a property inspection for damages beyond normal wear and tear. Always clarify the exact deposit amount and refund conditions before signing the rental agreement to ensure full transparency." },
-      { "question": "Are the rental rates in Sushant Lok Phase 3 higher than neighboring sectors", "answer": "Rental rates in Sushant Lok Phase 3 are generally considered to be in the premium range compared to newly developing sectors, but highly competitive when compared to Phase 1 or Phase 2 of Sushant Lok, or nearby Golf Course Road sectors. The slightly higher rates reflect the established infrastructure, superior location, immediate metro access, and the quality of the builder floor and society apartments available here. Tenants pay a premium for convenience, security, and a well-developed neighborhood. We recommend comparing 2 BHK flats across Sector 57 and Sushant Lok Phase 3 to gauge the optimal value." },
-      { "question": "What is the standard lease period for renting a property here", "answer": "The most common and standard lease agreement duration for a Flat For Rent in sushant lok phase 3 is 11 months, which is renewable upon mutual agreement between the tenant and the landlord. While 11-month leases are prevalent to avoid complex registration processes, longer leases of 12 months, 18 months, or even 24 months are negotiable, especially for corporate leases or highly stable tenants. Landlords often prefer longer commitments, and tenants might benefit from a locked-in rate for an extended period. Ensure the agreement includes a clear exit or lock-in clause." },
-      { "question": "Is parking easily available for tenants in Sushant Lok Phase 3", "answer": "Parking availability depends entirely on the type of flat you rent. Flats within high-rise society complexes typically allocate a designated covered or open parking slot per unit, often included in the monthly rent or association fees. For builder floor properties, street parking is common, though some may offer stilt parking. When searching for your Flat For Rent in sushant lok phase 3, it is crucial to confirm the specific parking arrangements for cars and two-wheelers, particularly if you own multiple vehicles, to avoid future inconvenience." },
-      { "question": "Are pets generally allowed in rented flats in this locality", "answer": "Pet policies are strictly determined by the individual landlord and the Resident Welfare Association (RWA) of the society. In builder floor rentals, policies are usually more flexible and negotiable directly with the owner. However, many high-rise societies in Sushant Lok Phase 3 have specific rules or restrictions regarding pet size, breed, and common area access. If you are a pet owner, you must disclose this upfront so we can filter listings that are explicitly pet-friendly, preventing lease complications later on." },
-      { "question": "How efficient is the public transport access from Sushant Lok Phase 3", "answer": "Public transport is highly efficient. The area is served excellently by the Gurugram Rapid Metro system, with Sector 56 station being in close proximity, offering quick connectivity towards Cyber Hub and Delhi Metro interchange points. Additionally, auto-rickshaws, shared taxis, and popular ride-sharing services are abundant, ensuring seamless last-mile connectivity. Bus services also operate on the main roads surrounding the sector, making access to different parts of Gurugram very convenient for all residents." },
-      { "question": "What documentation is required to finalize a rental agreement", "answer": "To secure a Flat For Rent in sushant lok phase 3, you will typically need to provide several key documents. These include Aadhar Card and PAN Card for identity verification, proof of employment or source of income, passport-sized photographs, and sometimes references from previous landlords or employers. Foreign nationals will require their passport, visa, and proof of local employment. A standard police verification is mandatory for all tenants residing in the area." },
-      { "question": "Are maintenance charges included in the quoted rent price", "answer": "Generally, maintenance charges are not included in the basic quoted rent price, especially in large societies. The quoted rent usually covers only the principal amount paid to the landlord. Tenants are responsible for paying monthly society maintenance fees directly to the RWA, which cover amenities like security, common area lighting, lift operation, and garbage disposal. Always clarify whether the quoted rental price is inclusive or exclusive of these additional recurring charges." },
-      { "question": "Can I find fully furnished Flat For Rent in sushant lok phase 3", "answer": "Yes, fully furnished flats are readily available, especially in the 2 BHK and 3 BHK categories catering to corporate tenants and expatriates. Fully furnished options include essentials such as beds, sofas, dining sets, white goods (AC, fridge, washing machine), and full kitchen setups. While convenient, these properties command a higher rent premium compared to semi-furnished or unfurnished units. We can specifically filter listings based on your furnishing preferences." },
-      { "question": "What local amenities are within walking distance of the residential areas", "answer": "Sushant Lok Phase 3 is highly self-sufficient. Residents have excellent access to local conveniences including chemist shops, neighbourhood parks, small grocery stores, vegetable vendors, and local diners, all usually within a 5 to 10-minute walk. Larger markets and shopping complexes like Hong Kong Bazaar are also easily reachable, ensuring daily necessities and quick shopping trips are always convenient." }
+      {
+        "question": "What is the typical security deposit required for a Flat For Rent in sushant lok phase 3",
+        "answer": "The standard security deposit across most of Gurugram, including Sushant Lok Phase 3, is equivalent to two months' rent. However, this can sometimes vary based on the specific landlord, the size of the flat, and whether the property is fully furnished. Premium luxury apartments or properties with high-end furnishings might require a deposit equivalent to three months' rent. This deposit is refundable at the end of the lease term, subject to a property inspection for damages beyond normal wear and tear. Always clarify the exact deposit amount and refund conditions before signing the rental agreement to ensure full transparency."
+      },
+      {
+        "question": "Are the rental rates in Sushant Lok Phase 3 higher than neighboring sectors",
+        "answer": "Rental rates in Sushant Lok Phase 3 are generally considered to be in the premium range compared to newly developing sectors, but highly competitive when compared to Phase 1 or Phase 2 of Sushant Lok, or nearby Golf Course Road sectors. The slightly higher rates reflect the established infrastructure, superior location, immediate metro access, and the quality of the builder floor and society apartments available here. Tenants pay a premium for convenience, security, and a well-developed neighborhood. We recommend comparing 2 BHK flats across Sector 57 and Sushant Lok Phase 3 to gauge the optimal value."
+      },
+      {
+        "question": "What is the standard lease period for renting a property here",
+        "answer": "The most common and standard lease agreement duration for a Flat For Rent in sushant lok phase 3 is 11 months, which is renewable upon mutual agreement between the tenant and the landlord. While 11-month leases are prevalent to avoid complex registration processes, longer leases of 12 months, 18 months, or even 24 months are negotiable, especially for corporate leases or highly stable tenants. Landlords often prefer longer commitments, and tenants might benefit from a locked-in rate for an extended period. Ensure the agreement includes a clear exit or lock-in clause."
+      },
+      {
+        "question": "Is parking easily available for tenants in Sushant Lok Phase 3",
+        "answer": "Parking availability depends entirely on the type of flat you rent. Flats within high-rise society complexes typically allocate a designated covered or open parking slot per unit, often included in the monthly rent or association fees. For builder floor properties, street parking is common, though some may offer stilt parking. When searching for your Flat For Rent in sushant lok phase 3, it is crucial to confirm the specific parking arrangements for cars and two-wheelers, particularly if you own multiple vehicles, to avoid future inconvenience."
+      },
+      {
+        "question": "Are pets generally allowed in rented flats in this locality",
+        "answer": "Pet policies are strictly determined by the individual landlord and the Resident Welfare Association (RWA) of the society. In builder floor rentals, policies are usually more flexible and negotiable directly with the owner. However, many high-rise societies in Sushant Lok Phase 3 have specific rules or restrictions regarding pet size, breed, and common area access. If you are a pet owner, you must disclose this upfront so we can filter listings that are explicitly pet-friendly, preventing lease complications later on."
+      },
+      {
+        "question": "How efficient is the public transport access from Sushant Lok Phase 3",
+        "answer": "Public transport is highly efficient. The area is served excellently by the Gurugram Rapid Metro system, with Sector 56 station being in close proximity, offering quick connectivity towards Cyber Hub and Delhi Metro interchange points. Additionally, auto-rickshaws, shared taxis, and popular ride-sharing services are abundant, ensuring seamless last-mile connectivity. Bus services also operate on the main roads surrounding the sector, making access to different parts of Gurugram very convenient for all residents."
+      },
+      {
+        "question": "What documentation is required to finalize a rental agreement",
+        "answer": "To secure a Flat For Rent in sushant lok phase 3, you will typically need to provide several key documents. These include Aadhar Card and PAN Card for identity verification, proof of employment or source of income, passport-sized photographs, and sometimes references from previous landlords or employers. Foreign nationals will require their passport, visa, and proof of local employment. A standard police verification is mandatory for all tenants residing in the area."
+      },
+      {
+        "question": "Are maintenance charges included in the quoted rent price",
+        "answer": "Generally, maintenance charges are not included in the basic quoted rent price, especially in large societies. The quoted rent usually covers only the principal amount paid to the landlord. Tenants are responsible for paying monthly society maintenance fees directly to the RWA, which cover amenities like security, common area lighting, lift operation, and garbage disposal. Always clarify whether the quoted rental price is inclusive or exclusive of these additional recurring charges."
+      },
+      {
+        "question": "Can I find fully furnished Flat For Rent in sushant lok phase 3",
+        "answer": "Yes, fully furnished flats are readily available, especially in the 2 BHK and 3 BHK categories catering to corporate tenants and expatriates. Fully furnished options include essentials such as beds, sofas, dining sets, white goods (AC, fridge, washing machine), and full kitchen setups. While convenient, these properties command a higher rent premium compared to semi-furnished or unfurnished units. We can specifically filter listings based on your furnishing preferences."
+      },
+      {
+        "question": "What local amenities are within walking distance of the residential areas",
+        "answer": "Sushant Lok Phase 3 is highly self-sufficient. Residents have excellent access to local conveniences including chemist shops, neighbourhood parks, small grocery stores, vegetable vendors, and local diners, all usually within a 5 to 10-minute walk. Larger markets and shopping complexes like Hong Kong Bazaar are also easily reachable, ensuring daily necessities and quick shopping trips are always convenient."
+      }
     ]
   },
   "contactSection": {
@@ -83,6 +206,11 @@
       "Ready to move into your perfect rental home in one of Gurugram’s most desirable locations? Contact our expert leasing team today. We specialize in the Sushant Lok Phase 3 market and have access to exclusive, verified listings that match your criteria perfectly.",
       "Fill out the form below with your requirements and preferred move-in date, and one of our dedicated rental specialists will get back to you promptly to arrange personalized viewings and secure your ideal flat."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -17,7 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero-sector-36.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -60,14 +61,56 @@
       "Our agents use this local market intelligence to advise you on buying property with superior access to expressways metro lines and developing commercial zones. We provide detailed comparative analyses of adjacent sectors ensuring you understand the complete geographical advantage offered by Sector 36 Noida."
     ],
     "locations": [
-      "Sector 35 Connectivity",
-      "Sector 37 Commercial Hub",
-      "Botanical Garden Metro Station Access",
-      "Nearby Educational Institutes",
-      "Strategic Access to Expressway",
-      "Commercial and Retail Markets",
-      "High-End Residential Societies",
-      "Healthcare Facilities near Sector 36"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

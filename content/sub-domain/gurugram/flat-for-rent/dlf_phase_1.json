@@ -1,6 +1,5 @@
 {
   "domain": "plotforsale.com",
-
   "hero": {
     "title": "Premium and Well Connected Flats for Rent in DLF Phase 1 Gurugram",
     "description": [
@@ -8,12 +7,20 @@
       "Flats for rent in DLF Phase 1 Gurugram are primarily available in high-quality builder floors and select residential societies designed with spacious layouts, proper ventilation, and privacy. The area is surrounded by reputed schools, hospitals, shopping malls, restaurants, cafes, and parks. With strong rental demand, mature infrastructure, and a premium residential environment, DLF Phase 1 continues to be a top choice for professionals, expatriates, and families seeking long-term and upscale rental living in Gurugram."
     ],
     "buttons": [
-      { "label": "Browse Rental Flats", "path": "/" },
-      { "label": "Get Rental Assistance", "path": "/" }
+      {
+        "label": "Browse Rental Flats",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
-
   "featuresSection": {
     "heading": "Plot Size Based Residential Flat Options in DLF Phase 1 Gurugram",
     "description": [
@@ -47,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Property Options in and Around DLF Phase 1 Gurugram",
     "description": [
@@ -55,17 +61,58 @@
       "These tiles help visitors easily navigate different property categories in DLF Phase 1 and nearby Golf Course Road sectors."
     ],
     "locations": [
-      { "title": "Flat for Rent in DLF Phase 1 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "Flat for Sale in DLF Phase 1 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Rent in DLF Phase 1 Gurugram", "path": "/", "icon": "Key" },
-      { "title": "House for Sale in DLF Phase 1 Gurugram", "path": "/", "icon": "Home" },
-      { "title": "Builder Floors in DLF Phase 1 Gurugram", "path": "/", "icon": "Layers" },
-      { "title": "Rental Homes Near Golf Course Road", "path": "/", "icon": "Map" },
-      { "title": "Ready to Move Flats in DLF Phase 1", "path": "/", "icon": "CheckCircle" },
-      { "title": "Premium Flats for Rent in Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Deal Acres Is the Most Trusted Rental Property Platform",
     "description": [
@@ -107,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Flats for Rent in DLF Phase 1 Gurugram",
     "description": "Clear and detailed answers to help tenants make informed rental decisions.",
@@ -154,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get in Touch for Flats for Rent in DLF Phase 1 Gurugram",
     "description": [
       "Finding the right flat for rent in DLF Phase 1 Gurugram becomes easy with verified listings and expert guidance.",
       "Share your details to receive customized rental options and professional support from trusted property advisors."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

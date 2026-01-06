@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "vijay-nagar-house-rental-hero-1.jpg",
-      "independent-house-vijay-nagar-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "We provide rental listings across Vijay Nagar and its proximate desirable residential sectors ensuring you have the widest possible choice for your next home. These areas benefit from the same high standards of infrastructure and accessibility as Vijay Nagar itself."
     ],
     "locations": [
-      "Model Town Extension Rental Houses",
-      "Preet Nagar Housing Rentals",
-      "Sector 7 Ambala Residential Leases",
-      "Sector 9 Ambala Cantt Houses",
-      "Baldev Nagar Rental Properties",
-      "Civil Lines Independent Houses",
-      "Housing Board Colony Rentals",
-      "Shastri Colony House Listings"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Flat Configurations Available for Rent in Sector 31 Gurugram",
@@ -58,14 +61,56 @@
       "Renting a flat here means you gain easy access to major industrial areas, commercial complexes, and entertainment zones. Explore the vibrant surrounding localities and key landmarks that enhance the value and convenience of your new rental home in Sector 31 Gurugram, making daily life easier and more enjoyable."
     ],
     "locations": [
-      "Sector 28 Industrial Area Hub",
-      "Old Gurugram Metro Station Access",
-      "Escorts Mujesar Metro Station Proximity",
-      "National Highway 19 Delhi-Agra Bypass",
-      "Sector 30 Shopping and Retail Market",
-      "Crown Interiorz Mall Entertainment Center",
-      "Echelon Institute of Technology Campus",
-      "Asian Institute of Medical Sciences Hospital"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,12 +7,18 @@
       "Explore exclusive listings of shops for sale in Sector 76 Noida that meet stringent quality and location standards. Whether you are looking for a small retail unit to start a boutique business or a large anchor space for a national brand expansion, our portfolio includes diversified investment options designed for immediate returns. Leverage the strategic location near major expressways and the upcoming metro link connecting this vibrant area directly to key parts of NCR."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/listings" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "shop_sector76_hero1.jpg",
-      "shop_sector76_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,13 +61,56 @@
       "Our curated listings ensure you are purchasing a shop in a location that benefits from existing footfall and planned infrastructure upgrades. We provide details on proximity to major residential societies nearby corporate parks and forthcoming public transport links which are vital components defining the long-term success of your commercial property in Sector 76 Noida."
     ],
     "locations": [
-      "Central Market Sector 76",
-      "Retail Spaces near Sector 75 Metro Station",
-      "Shops in proximity to Sector 77 residential clusters",
-      "High-Street Shopping Areas near Sector 50",
-      "Commercial Complex near FNG Expressway entry points",
-      "Shops adjoining large group housing projects in Sector 76",
-      "Institutional and commercial zones of Sector 78"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

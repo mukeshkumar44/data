@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero-2bhk-sector93-1.jpg",
-      "/images/hero-2bhk-sector93-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The seamless connectivity to surrounding commercial zones and social infrastructure ensures that all daily needs and professional commitments are easily met. Explore how Sector 93 connects you to the wider Gurugram ecosystem positioning your new home right at the center of future growth."
     ],
     "locations": [
-      "Dwarka Expressway",
-      "National Highway 48 NH-48",
-      "IMT Manesar",
-      "Southern Peripheral Road SPR",
-      "Vatika Business Park",
-      "DLF Cyber Hub 2",
-      "Clover Leaf Interchange",
-      "Aralias Commercial Center"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

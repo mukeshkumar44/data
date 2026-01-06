@@ -7,12 +7,18 @@
       "If you are seeking a modern home that combines strategic location with superior build quality, look no further than Sector 63A. Investing in a 3BHK flat here means securing your future in one of Gurugram’s most promising residential hubs. Explore the best properties with excellent connectivity to major business districts, top schools, and essential social infrastructure today. Connect with us to schedule a personalized tour of these exceptional residences."
     ],
     "buttons": [
-      { "label": "Explore 3BHK Listings", "path": "/listings" },
-      { "label": "Download Price Sheet", "path": "/pricing" }
+      {
+        "label": "Explore 3BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Download Price Sheet",
+        "path": "/pricing"
+      }
     ],
     "images": [
-      "img/hero-flat-view.jpg",
-      "img/sector63a-overview.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The proximity to major arterial roads ensures that residents are never far from work education or leisure. This superb location strengthens the value proposition of every 3BHK Flat For Sale in Sector 63A."
     ],
     "locations": [
-      "Golf Course Extension Road",
-      "Southern Peripheral Road SPR",
-      "Rapid Metro Sector 55/56 Station",
-      "Worldmark Gurgaon",
-      "Paras Trinity Mall",
-      "St Xaviers High School",
-      "Medanta The Medicity",
-      "Key Business Parks on SPR"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

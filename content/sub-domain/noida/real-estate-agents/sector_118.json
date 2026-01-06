@@ -7,12 +7,18 @@
       "Our selected agents possess deep knowledge of current property valuations legal documentation and future growth potential in Sector 118 Noida. Whether you are buying selling or seeking professional leasing services choosing the right agent makes all the difference. We vet and present only the most trusted and results-driven professionals ensuring your property journey is secure profitable and completely hassle-free from initial consultation to final paperwork. Start your successful property investment journey right here with the leading experts."
     ],
     "buttons": [
-      { "label": "Find My Agent Now", "path": "/contact" },
-      { "label": "Explore Sector 118 Listings", "path": "/listings" }
+      {
+        "label": "Find My Agent Now",
+        "path": "/contact"
+      },
+      {
+        "label": "Explore Sector 118 Listings",
+        "path": "/listings"
+      }
     ],
     "images": [
-      "/images/hero-sector-118-noida.jpg",
-      "/images/real-estate-agent-118.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "These bordering sectors benefit greatly from the infrastructural development surrounding Sector 118 and present various investment profiles from ready-to-move apartments to developing commercial plots. Our agents specialize in cross-sector comparisons providing you with a holistic view of the entire Noida real estate landscape allowing you to make diversified strategic investment decisions based on location price and future appreciation potential."
     ],
     "locations": [
-      "Sector 119 Noida",
-      "Sector 120 Noida",
-      "Sector 72 Noida",
-      "Sector 73 Noida",
-      "Sector 76 Noida",
-      "Sector 77 Noida",
-      "Gaur City 2",
-      "NH-24 Corridor Properties"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,12 +7,18 @@
       "Explore a wide range of properties from compact independent floors to builder floors designed for modern living. Securing an affordable house in Sector 151 is now easier than ever due to structured development and planned infrastructure growth. Start your journey toward homeownership in one of Noida's most promising real estate hotspots today and benefit from future capital appreciation."
     ],
     "buttons": [
-      { "label": "Explore Affordable Listings", "path": "/listings" },
-      { "label": "Download Price Sheet", "path": "/contact" }
+      {
+        "label": "Explore Affordable Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Download Price Sheet",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "hero_image_151_1.jpg",
-      "hero_image_151_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "This strategic location ensures that even budget-conscious homebuyers receive the benefits of premium accessibility. Investing here means investing in future growth and reduced commute times positioning Sector 151 as a sustainable choice for secure and affordable housing. Discover how seamless connectivity elevates the experience of owning an affordable house in Sector 151 Noida."
     ],
     "locations": [
-      "Upcoming Noida International Airport",
-      "Yamuna Expressway Access",
-      "FNG Expressway Link",
-      "Proximity to Pari Chowk Greater Noida",
-      "Seamless connectivity to Delhi via Noida Expressway",
-      "Near several reputed educational institutions",
-      "Adjacent to major corporate campuses",
-      "Easy access to Sector 148 Metro Station"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

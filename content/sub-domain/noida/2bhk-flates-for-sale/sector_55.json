@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "2bhk_sector_55_hero_1.jpg",
-      "2bhk_sector_55_hero_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "We highlight how living in Sector 55 connects you seamlessly to education healthcare and entertainment across Noida. This location is sought after for its balance—offering quiet residential life without sacrificing urban accessibility. Discover the key areas that enhance the value of your potential new home."
     ],
     "locations": [
-      "Sector 56 Noida",
-      "Sector 57 Noida",
-      "Sector 62 Institutional Area",
-      "Indirapuram Ghaziabad",
-      "Noida Electronic City Metro Station",
-      "NH-24 Highway Access",
-      "Fortis Hospital Noida",
-      "Atta Market Sector 18"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

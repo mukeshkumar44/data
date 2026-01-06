@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "2bhk_sector_133_hero.jpg",
-      "sector_133_noida_view.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,11 +61,56 @@
       "Nearby sectors offer supplementary services, reputed international schools, and top-tier healthcare facilities that enhance the overall livability of Sector 133. We help buyers compare property values, amenities, and future growth projections across these interconnected sectors. Understanding the micro-market ensures you make a fully informed decision about your investment and lifestyle requirements."
     ],
     "locations": [
-      "Sector 135 Noida Expressway IT Hub",
-      "Sector 137 Residential Community",
-      "Sector 143 Retail and Offices",
-      "Jaypee Wishtown Premium Complex",
-      "Sector 93 Sports and Education Zone"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

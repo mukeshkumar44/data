@@ -7,10 +7,19 @@
       "These meticulously planned 2BHK units provide spacious layouts, excellent natural light, and access to world-class amenities within well-maintained societies. Explore various options including semi-furnished and fully furnished flats, ensuring you find a property that perfectly aligns with your lifestyle and budget. Start your property search today and experience the future of urban living right here in Sector 119 Noida."
     ],
     "buttons": [
-      { "label": "Explore 2BHK Listings", "path": "/2bhk-listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore 2BHK Listings",
+        "path": "/2bhk-listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/2bhk-sector119-hero.jpg", "/images/2bhk-interior.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Premium Features and Key Advantages of Buying a 2BHK Flat in Sector 119 Noida",
@@ -19,12 +28,30 @@
       "From dedicated parking facilities and power backup solutions to recreational zones and advanced security systems, these residential complexes redefine urban luxury. We help you navigate the best available options for a 2BHK flat for sale in Sector 119, ensuring transparency and professional guidance throughout the buying process. Evaluate the key features that make this location an extraordinary choice for your next home."
     ],
     "features": [
-      { "title": "4 Marla Plot", "description": "Explore compact yet highly efficient 2BHK layouts tailored for young professionals and small families seeking value without compromising quality. These designs maximize usable space and offer excellent cost-effective solutions for entering the Sector 119 property market. Enjoy modern fittings and smart home integration options in these well-lit apartments." },
-      { "title": "6 Marla Plot", "description": "This size typically represents the standard luxury 2BHK configuration, providing ample space for two bedrooms, two bathrooms, and a generous living-dining area. Ideal for growing families, these flats often feature balconies with scenic views and access to central complex amenities like clubhouses and swimming pools." },
-      { "title": "8 Marla Plot", "description": "Discover premium 2BHK layouts in larger floor plate sizes, offering enhanced privacy and expansive room dimensions. These units often reside in low-density towers, providing a tranquil living experience. Perfect for those who desire extra storage space or a dedicated work-from-home area within their two-bedroom configuration." },
-      { "title": "10 Marla Plot", "description": "Benefit from Sector 119's superior connectivity, making the commute seamless. These properties are strategically located near the FNG Expressway and the proposed metro expansion, ensuring quick access to Delhi and Ghaziabad. Owning a 2BHK flat here minimizes travel time and maximizes family time." },
-      { "title": "12 Marla Plot", "description": "Our featured residential societies prioritize safety and modern security. Look for 2BHK flats protected by multi-tier security systems, including 24/7 CCTV surveillance, manned entry points, and smart access control. Peace of mind is guaranteed for residents of Sector 119 Noida’s secure communities." },
-      { "title": "14 Marla Plot", "description": "Invest in properties that offer significant appreciation potential. Sector 119 is undergoing rapid urbanization, positioning it as a future hotspot for rental yield and capital gains. A 2BHK flat for sale in Sector 119 is not just a home but a shrewd financial asset." }
+      {
+        "title": "4 Marla Plot",
+        "description": "Explore compact yet highly efficient 2BHK layouts tailored for young professionals and small families seeking value without compromising quality. These designs maximize usable space and offer excellent cost-effective solutions for entering the Sector 119 property market. Enjoy modern fittings and smart home integration options in these well-lit apartments."
+      },
+      {
+        "title": "6 Marla Plot",
+        "description": "This size typically represents the standard luxury 2BHK configuration, providing ample space for two bedrooms, two bathrooms, and a generous living-dining area. Ideal for growing families, these flats often feature balconies with scenic views and access to central complex amenities like clubhouses and swimming pools."
+      },
+      {
+        "title": "8 Marla Plot",
+        "description": "Discover premium 2BHK layouts in larger floor plate sizes, offering enhanced privacy and expansive room dimensions. These units often reside in low-density towers, providing a tranquil living experience. Perfect for those who desire extra storage space or a dedicated work-from-home area within their two-bedroom configuration."
+      },
+      {
+        "title": "10 Marla Plot",
+        "description": "Benefit from Sector 119's superior connectivity, making the commute seamless. These properties are strategically located near the FNG Expressway and the proposed metro expansion, ensuring quick access to Delhi and Ghaziabad. Owning a 2BHK flat here minimizes travel time and maximizes family time."
+      },
+      {
+        "title": "12 Marla Plot",
+        "description": "Our featured residential societies prioritize safety and modern security. Look for 2BHK flats protected by multi-tier security systems, including 24/7 CCTV surveillance, manned entry points, and smart access control. Peace of mind is guaranteed for residents of Sector 119 Noida’s secure communities."
+      },
+      {
+        "title": "14 Marla Plot",
+        "description": "Invest in properties that offer significant appreciation potential. Sector 119 is undergoing rapid urbanization, positioning it as a future hotspot for rental yield and capital gains. A 2BHK flat for sale in Sector 119 is not just a home but a shrewd financial asset."
+      }
     ]
   },
   "locationsSection": {
@@ -34,12 +61,56 @@
       "The residential fabric around Sector 119 is well-developed, ensuring residents have immediate access to world-class educational institutions, multispecialty hospitals, and vibrant retail spaces. Understanding the surrounding areas is crucial when searching for the perfect 2BHK flat in Sector 119. We provide detailed insights into the local infrastructure and the benefits derived from its excellent strategic placement."
     ],
     "locations": [
-      "Sector 120 Noida",
-      "Sector 118 Noida",
-      "Sector 51 Noida",
-      "Sector 72 Noida",
-      "FNG Expressway Access",
-      "Noida City Centre Metro Station Proximity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -135,6 +206,11 @@
       "Ready to take the next step towards owning your perfect 2BHK flat in Sector 119 Noida Contact our expert real estate team now for personalized listings, detailed property comparisons, and site visit arrangements.",
       "Our professionals offer unbiased advice and comprehensive market knowledge to ensure you make an informed investment decision. Fill out the form below to receive exclusive property details tailored to your budget and lifestyle."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "3bhk_sector30_hero_1.jpg",
-      "3bhk_sector30_hero_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The area boasts excellent proximity to major corporate offices on MG Road and is just a short drive from the IGI Airport via the expressway. The social infrastructure is highly developed, featuring access to top schools, leading healthcare facilities like Medanta, and premium retail destinations including the popular malls on MG Road. This convenient positioning makes it a highly sought-after location for professionals and families alike."
     ],
     "locations": [
-      "MG Road Retail Hub",
-      "Cyber Hub",
-      "NH-48 Expressway",
-      "Huda City Centre Metro Station",
-      "Medanta The Medicity",
-      "Signature Towers",
-      "Amity International School",
-      "Sector 29 Market"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

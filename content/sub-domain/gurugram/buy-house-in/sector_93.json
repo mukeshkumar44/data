@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Finding the Ideal Size and Configuration When You Buy a House in Sector 93 Gurugram",
@@ -58,12 +61,56 @@
       "Furthermore Sector 93 is positioned near significant infrastructural projects notably the highly anticipated Dwarka Expressway which is revolutionizing connectivity across New Gurugram. Key access points to major corporate hubs in Sector 88 and the Manesar Industrial Area are just a short drive away establishing Sector 93 as a preferred residential address for working professionals. Our listings often highlight properties that offer the best access routes to these commercial centers maximizing both living quality and commuting efficiency. Invest confidently knowing you are at the nexus of Gurugram’s rapid expansion and development."
     ],
     "locations": [
-      "Sector 92 Gurugram",
-      "Sector 95 Gurugram",
-      "Sector 90 Gurugram",
-      "NH-48 Connectivity Hub",
-      "Dwarka Expressway Access Zone",
-      "IMT Manesar Industrial Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

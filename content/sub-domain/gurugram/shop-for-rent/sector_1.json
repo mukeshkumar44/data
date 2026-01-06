@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "sector1_shop_front_hero",
-      "commercial_interior_hero"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "We map out these specific micro-locations, detailing their typical demographic profiles, peak business hours, and parking infrastructure availability. Understanding these nuances helps you position your business where it will thrive most effectively. Whether you require a high-end retail strip location or a quiet service center near local amenities, our Sector 1 rental experts provide insights into localized competition and growth potential. We ensure you make an informed decision based on empirical data and deep market knowledge of Gurugram."
     ],
     "locations": [
-      "Near Ajronda Chowk Commercial Belt",
-      "Main Market Area Sector 1",
-      "Residential Service Lanes",
-      "Proximity to Badarpur Border",
-      "High Density Residential Blocks",
-      "Sector 1 Local Shopping Complex"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

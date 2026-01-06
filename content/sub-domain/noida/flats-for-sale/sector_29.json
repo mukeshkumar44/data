@@ -7,10 +7,19 @@
       "Finding your dream home is made simple with our dedicated property experts who provide personalized guidance through every step of the buying process. Whether you are looking for an apartment near the Metro station, a flat with world-class amenities like swimming pools and clubhouses, or an investment property promising high rental yields, Sector 29 delivers on all fronts. Explore our curated listings today and secure a truly premium address in one of Noida’s most sought-after sectors and start living the life you deserve."
     ],
     "buttons": [
-      { "label": "Explore Available Flats", "path": "/flats" },
-      { "label": "Book a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Available Flats",
+        "path": "/flats"
+      },
+      {
+        "label": "Book a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["flat_exterior_sector29.jpg", "flat_interior_sector29.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Understanding Investment Potential Based on Flat Size When Searching for a Flat For Sale in Sector 29",
@@ -52,14 +61,56 @@
       "We highlight key nearby landmarks and essential infrastructure points that enhance the daily life of residents. From premier educational institutions and state-of-the-art healthcare facilities to sprawling retail centers and recreational parks, Sector 29 provides a holistic living environment where convenience meets luxury seamlessly."
     ],
     "locations": [
-      "Noida City Centre Metro Station Access",
-      "Sector 18 Atta Market",
-      "Major Commercial Hubs of Sector 62",
-      "Proximity to the DND Flyway",
-      "Leading Hospitals and Clinics",
-      "Top Rated Schools and Universities",
-      "Botanical Garden Metro Interchange",
-      "Retail Malls and Multiplexes"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Our team of dedicated real estate professionals is here to guide you through the entire process of finding and acquiring your dream flat in Sector 29. We offer personalized property tours, detailed market insights, and expert negotiation assistance to ensure you get the best possible deal.",
       "Don’t miss out on securing a premium property in one of Noida’s most coveted locations. Fill out the form below to schedule a consultation or request our latest portfolio brochure for Sector 29 flats."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

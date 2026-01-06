@@ -7,12 +7,18 @@
       "Sector 36 boasts excellent connectivity, world-class social infrastructure, and a secure environment, ensuring a comfortable renting experience. Stop searching endlessly and leverage our expertise to find 1 BHK, 2 BHK, 3 BHK, and luxury flats that meet all your specifications. Start your journey to securing the best Flat For Rent in Sector 36 instantly by browsing our curated listings or speaking with one of our rental specialists."
     ],
     "buttons": [
-      { "label": "Browse Verified Listings", "path": "/listings/sector-36" },
-      { "label": "Schedule a Viewing", "path": "/contact-us" }
+      {
+        "label": "Browse Verified Listings",
+        "path": "/listings/sector-36"
+      },
+      {
+        "label": "Schedule a Viewing",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "flat_sector36_hero1.jpg",
-      "flat_sector36_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The connectivity to major expressways and the upcoming infrastructure projects further enhance the value proposition of choosing a Flat For Rent in Sector 36. This area serves as a gateway to both Greater Noida and key parts of Delhi, ensuring seamless mobility for residents."
     ],
     "locations": [
-      "Sector 35 Noida",
-      "Sector 37 Noida",
-      "Sector 39 Noida",
-      "Gautam Buddha Nagar",
-      "Noida City Centre",
-      "Dadri Main Road",
-      "Expressway Connectivity",
-      "Botanical Garden Metro Station"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

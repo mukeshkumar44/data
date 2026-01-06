@@ -7,10 +7,19 @@
       "Whether you are searching for a compact family home or a spacious luxury villa Sector 4 provides diverse housing options tailored to every budget and lifestyle requirement. Our expert property listings feature verified homes from trusted sellers ensuring you get the best value on your investment. Start your search today and secure your future in one of Rohtak's most sought-after sectors."
     ],
     "buttons": [
-      { "label": "View All Verified Listings", "path": "/listings" },
-      { "label": "Schedule Property Visit", "path": "/contact" }
+      {
+        "label": "View All Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule Property Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero1.jpg", "/images/hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse House Sizes and Plot Configurations Available in Modern Sector 4 Rohtak",
@@ -52,12 +61,56 @@
       "Understanding the proximity to key areas like educational institutions hospitals and shopping centers is vital when assessing property value. Sector 4 residents benefit from exceptional social infrastructure making it a truly self-sufficient and highly livable location within Rohtak."
     ],
     "locations": [
-      "Sector 1 Rohtak",
-      "Sector 3 Rohtak",
-      "Model Town Extension",
-      "Civil Lines Rohtak",
-      "Sunaria Kalan",
-      "Rohtak City Centre"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to view the finest House For Sale in Sector 4 Rohtak Our team of dedicated property advisors is here to guide you through every step of the buying process from initial consultation to final paperwork.",
       "Fill out the form below to receive personalized listings market insights and schedule a private tour of properties that meet your exact specifications in Sector 4."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

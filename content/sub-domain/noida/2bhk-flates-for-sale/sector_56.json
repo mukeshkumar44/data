@@ -7,10 +7,19 @@
       "Investing in a 2BHK flat in this sector guarantees strong appreciation potential given its strategic location near the Delhi-Noida border and easy access to the Metro network. We simplify the complex process of property ownership by providing transparent details, verified documentation, and personalized property tours. Discover premium residences offering state-of-the-art facilities and robust community infrastructure. A secure and vibrant future awaits you when you choose a 2BHK apartment in the heart of Sector 56 Noida."
     ],
     "buttons": [
-      { "label": "Explore 2BHK Listings", "path": "/listings/2bhk" },
-      { "label": "Schedule A Site Visit", "path": "/contact" }
+      {
+        "label": "Explore 2BHK Listings",
+        "path": "/listings/2bhk"
+      },
+      {
+        "label": "Schedule A Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Features to Look for When Buying a 2BHK Flat in Sector 56 Noida",
@@ -52,14 +61,56 @@
       "The strategic location near major expressways ensures swift travel to Delhi and Ghaziabad, positioning it as a preferred destination for commuters. Understanding the surrounding environment is essential when finalizing a 2BHK flat purchase here. This comprehensive network of established roads and public transport options ensures that a 2BHK Flat for Sale in Sector 56 is always in high demand among tenants and homeowners alike."
     ],
     "locations": [
-      "Sector 55 Noida Residential Area",
-      "Sector 57 Commercial and Institutional Zone",
-      "Noida City Centre Metro Station Line",
-      "Hospitals and Healthcare Facilities nearby",
-      "Direct Access to FNG Expressway",
-      "Major Retail Markets Sector 50",
-      "Sector 60 Business Park Connectivity",
-      "Schools and Educational Institutes proximity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to find the ideal 2BHK Flat For Sale in Sector 56 Noida We simplify your search by providing verified listings, transparent pricing, and expert guidance tailored to your needs.",
       "Fill out the form below to schedule a personalized site visit or to receive a curated list of properties matching your exact specifications. Your dream home awaits just a click away"
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

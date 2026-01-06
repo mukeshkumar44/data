@@ -7,12 +7,18 @@
       "We specialize in identifying value-driven opportunities in this highly coveted region. Forget the misconception that luxury living is always out of reach our expert analysis helps you secure property that promises excellent appreciation and a superior lifestyle without straining your budget. Start exploring exclusive residential listings that redefine what an affordable house in Sector 94 truly means."
     ],
     "buttons": [
-      { "label": "Explore Current Listings", "path": "/listings" },
-      { "label": "Download Price Guide", "path": "/guide" }
+      {
+        "label": "Explore Current Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Download Price Guide",
+        "path": "/guide"
+      }
     ],
     "images": [
-      "sector94_aerial.jpg",
-      "affordable_home_noida.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The planned metro connectivity and existing roadway network minimize commuting stress making it an ideal residential destination for professionals. The proximity to high-profile developments like the ATS Group project and major commercial complexes further cements Sector 94 as a premier residential hub ensuring that your investment is sound and future-proof."
     ],
     "locations": [
-      "Noida-Greater Noida Expressway Access",
-      "Okhla Barrage and Kalindi Kunj Bridge",
-      "Sector 18 Atta Market",
-      "Botanical Garden Metro Station",
-      "Amity University Noida Campus",
-      "DND Flyway Connectivity",
-      "World Trade Tower proximity",
-      "Multiple International Schools nearby"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

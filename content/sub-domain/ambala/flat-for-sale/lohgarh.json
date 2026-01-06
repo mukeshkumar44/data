@@ -7,12 +7,18 @@
       "Lohgarh Ambala provides exceptional value appreciation due to its strategic location and excellent connectivity to major highways and city centers Forget the stress of crowded city living and embrace the peace security and state-of-the-art amenities offered by the newest residential projects here If you are searching for a ready-to-move flat or planning a long-term investment exploring the flats available in Lohgarh is your first step towards securing a prosperous future Request a detailed brochure today to view current availability and pricing structures."
     ],
     "buttons": [
-      { "label": "Explore Available Flats", "path": "/available-flats" },
-      { "label": "Get Pricing Details Now", "path": "/contact" }
+      {
+        "label": "Explore Available Flats",
+        "path": "/available-flats"
+      },
+      {
+        "label": "Get Pricing Details Now",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "flat-lohgarh-exterior.jpg",
-      "flat-lohgarh-interior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,13 +61,56 @@
       "We highlight key nearby destinations and arterial routes that make Lohgarh one of the most desirable residential pockets in the entire Ambala region This excellent infrastructure supports sustained growth and ensures that your investment continues to appreciate over time providing convenience for daily life and exceptional long-term returns."
     ],
     "locations": [
-      "Ambala Cantt Railway Station",
-      "Ambala City Commercial Hub",
-      "National Highway 44 Delhi-Chandigarh Road",
-      "Leading Schools and Educational Institutions",
-      "Major Multispecialty Hospitals",
-      "Sadar Bazaar Market Lohgarh",
-      "Nearby Industrial Areas and Employment Zones"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

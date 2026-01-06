@@ -7,12 +7,18 @@
       "Explore a wide range of luxurious 2BHK 3BHK and sprawling penthouse apartments designed for comfort and elegance. DLF Phase 1 is a well-secured neighborhood ensuring a safe and upscale lifestyle for your family. We offer verified listings and expert guidance to help you navigate the best residential opportunities ensuring a seamless property purchase experience in one of Gurugram's finest addresses. Start exploring the best flats available today and step into a life of unparalleled convenience."
     ],
     "buttons": [
-      { "label": "Explore Available Flats Now", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Available Flats Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/dlf_phase1_hero1.jpg",
-      "/images/dlf_phase1_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "The robust connectivity combined with established social infrastructure makes finding a Flat For Sale in dlf_phase_1 a wise choice. Residents benefit from proximity to reputed schools international banks and upscale markets meaning daily needs and emergency services are always close at hand. Investing here means securing a home in an area guaranteed for sustained appreciation and excellent accessibility. Discover the convenience of living at the heart of thriving Gurugram life right here in DLF Phase 1 where everything you need is just minutes away."
     ],
     "locations": [
-      "Easy access to Delhi-Mathura Road NH-44",
-      "Close proximity to the nearest Metro Station linking to Delhi",
-      "Direct routes to Greater Gurugram and Ballabgarh industrial areas",
-      "Surrounded by top-tier schools and universities",
-      "Immediate vicinity to major multi-specialty hospitals",
-      "Well-connected to commercial shopping centers and malls"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,10 +7,19 @@
       "Chandan Vihar is rapidly emerging as a preferred residential hub thanks to its strategic location and excellent connectivity to major business districts and social infrastructure. Investing in a 2BHK flat here means securing a future of convenience comfort and substantial capital appreciation. Explore our exclusive listings today and take the first step towards securing your ideal home in this vibrant community. Our expert team is ready to guide you through finding the perfect 2BHK flat for sale matching your specific lifestyle needs and budget."
     ],
     "buttons": [
-      { "label": "View Available 2BHK Flats", "path": "/listings" },
-      { "label": "Schedule a Site Visit Now", "path": "/contact" }
+      {
+        "label": "View Available 2BHK Flats",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit Now",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Features of Every 2BHK Flat For Sale in Chandan Vihar Quality Living Guaranteed",
@@ -52,14 +61,56 @@
       "Beyond physical connectivity the neighbourhood itself is rich in necessary social infrastructure. Reputed educational institutions advanced healthcare facilities and thriving retail markets are all within a short radius. This comprehensive ecosystem ensures that all daily needs and recreational activities are easily catered to providing a balanced and comfortable urban living experience when you choose a 2BHK flat in Chandan Vihar."
     ],
     "locations": [
-      "Major Expressways and NH Access",
-      "Proximity to Dwarka Expressway",
-      "Leading Schools and Universities Nearby",
-      "Major Multi-Speciality Hospitals",
-      "Shopping Complexes and Malls",
-      "Access to Rapid Metro Station",
-      "Nearby Corporate Offices and IT Parks",
-      "Well-maintained Parks and Green Spaces"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to explore the best available 2BHK Flat For Sale in Chandan Vihar Gurugram We are here to provide personalized advice property walkthroughs and all necessary support to finalize your purchase. Do not miss out on securing a home in this thriving locality.",
       "Fill out the form below with your details and specific requirements. Our dedicated real estate advisors will reach out promptly with curated options and detailed information tailored exactly to your needs."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

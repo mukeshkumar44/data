@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Find Your Perfect Plot Size Investment Opportunities in the Growing Kala Amb Region",
@@ -58,14 +61,56 @@
       "We specialize in property near the key industrial parks which benefits greatly from infrastructure development. Whether you are looking for property on the Nahan Road for easy commuting or plots closer to the residential colonies like Trilokpur Road for family living our Property Dealer services in Kala Amb offer verified and legally clear options. We provide insight into future development plans affecting property values in each unique area."
     ],
     "locations": [
-      "Kala Amb Industrial Area Phase 1",
-      "Residential Plots near Nahan Road",
-      "Satiwala Road Development Zone",
-      "Trilokpur Residential Colony",
-      "Plots Near Paonta Sahib Connectivity",
-      "Emerging Sectors along the Border",
-      "Land for Warehousing near Baddi",
-      "Agricultural Land Investment Opportunities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

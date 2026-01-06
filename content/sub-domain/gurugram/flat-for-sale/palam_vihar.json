@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Flat Configurations Available When You Buy a Home in palam vihar",
@@ -58,11 +61,56 @@
       "Furthermore, the infrastructure development within palam vihar is robust, featuring wide roads, reliable utilities, and comprehensive civic amenities. We help you identify micro-locations within the area that best suit your lifestyle needs, whether you prioritize proximity to shopping malls, renowned international schools, or green parks. Investing in a Flat For Sale in palam vihar means prioritizing convenience and future growth. Our team monitors new and resale properties ensuring you receive access to the most attractive listings in the market, providing detailed analyses of neighborhood specific appreciation trends and rental demand."
     ],
     "locations": [
-      "Palam Vihar Extension",
-      "Sector 23 Gurugram Connectivity",
-      "Dwarka Expressway Access",
-      "Proximity to International Airport",
-      "Palam Vihar Sector D Properties"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

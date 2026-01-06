@@ -7,10 +7,19 @@
       "We present a curated collection of spacious 1 BHK, 2 BHK, and 3 BHK flats designed for modern urban living. Experience the profound convenience of living minutes away from your workplace, drastically cutting down frustrating commute times and allowing you to reclaim your personal hours. Start your search for premium residential living today and secure your future in one of the region’s most dynamic and economically crucial neighborhoods."
     ],
     "buttons": [
-      { "label": "Explore Available Flats", "path": "/flats" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Available Flats",
+        "path": "/flats"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["/img/udyogvihar-flats-hero1.jpg", "/img/udyogvihar-flats-hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Features to Look for When Buying a Residential Flat Near udyog vihar",
@@ -19,12 +28,30 @@
       "These properties typically include dedicated resident parking, advanced 24/7 security surveillance, and reliable power backup systems, ensuring a truly hassle-free lifestyle. Furthermore, the excellent proximity to the metro station and major expressways ensures you stay connected effortlessly to the wider Delhi NCR region. Finding the perfect Flat For Sale in udyog vihar means securing convenience and high future growth potential in one comprehensive package."
     ],
     "features": [
-      { "title": "Excellent Metro Connectivity", "description": "Residences are located near key metro stations providing quick travel access to Delhi, Dwarka, and Cyber City, minimizing daily travel stress." },
-      { "title": "Ready-to-Move Apartments", "description": "Choose from a selection of finished apartments allowing immediate possession and rental income generation, bypassing construction delays." },
-      { "title": "Modern Security Systems", "description": "Benefit from robust security measures including gated communities, CCTV monitoring across common areas, and multi-tier access control for resident safety." },
-      { "title": "Dedicated Resident Parking", "description": "Ample and reserved parking spaces are allocated for residents, solving common urban parking challenges efficiently and securely." },
-      { "title": "Power and Water Backup", "description": "Enjoy uninterrupted essential services with 100% power backup for common areas and apartments, alongside reliable 24-hour water supply." },
-      { "title": "Proximity to Corporate Hubs", "description": "Live within a short drive of major MNCs and IT offices in Udyog Vihar and Cyber Hub, offering an unparalleled work-life balance advantage." }
+      {
+        "title": "Excellent Metro Connectivity",
+        "description": "Residences are located near key metro stations providing quick travel access to Delhi, Dwarka, and Cyber City, minimizing daily travel stress."
+      },
+      {
+        "title": "Ready-to-Move Apartments",
+        "description": "Choose from a selection of finished apartments allowing immediate possession and rental income generation, bypassing construction delays."
+      },
+      {
+        "title": "Modern Security Systems",
+        "description": "Benefit from robust security measures including gated communities, CCTV monitoring across common areas, and multi-tier access control for resident safety."
+      },
+      {
+        "title": "Dedicated Resident Parking",
+        "description": "Ample and reserved parking spaces are allocated for residents, solving common urban parking challenges efficiently and securely."
+      },
+      {
+        "title": "Power and Water Backup",
+        "description": "Enjoy uninterrupted essential services with 100% power backup for common areas and apartments, alongside reliable 24-hour water supply."
+      },
+      {
+        "title": "Proximity to Corporate Hubs",
+        "description": "Live within a short drive of major MNCs and IT offices in Udyog Vihar and Cyber Hub, offering an unparalleled work-life balance advantage."
+      }
     ]
   },
   "locationsSection": {
@@ -33,7 +60,58 @@
       "Udyog Vihar’s central placement ensures that residents benefit immensely from easy access to various parts of the city. While Udyog Vihar itself is predominantly a dynamic commercial and industrial district, the immediate surrounding areas offer exceptional residential complexes providing the quiet and comfortable refuge you seek after a busy workday.",
       "These neighboring zones are chosen specifically because they maintain the commercial convenience of Udyog Vihar while offering superior residential infrastructure, reputed schools, and comprehensive local markets. This strategic location makes buying a Flat For Sale in udyog vihar a wise decision that balances professional aspirations and personal comfort seamlessly. We focus on properties that minimize commute time while maximizing the quality of life, connecting you instantly to key urban centers and entertainment zones."
     ],
-    "locations": ["Phase 1", "Phase 2", "DLF Cyber City", "Palam Vihar", "Sector 18", "MG Road", "NH 48 Access", "Rajiv Chowk"]
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Why Choose Our Expertise to Secure Your Ideal Flat For Sale in udyog vihar",
@@ -128,6 +206,11 @@
       "Finding the perfect flat requires personalized attention and expert guidance tailored to your specific financial goals. Contact our dedicated real estate advisors today to confidentially discuss your budget, preferred apartment size, and specific amenity requirements.",
       "We will quickly provide you with a tailored list of verified Flat For Sale in udyog vihar that perfectly meet your exact needs and efficiently arrange a private viewing at your earliest convenience to help you secure your new home."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

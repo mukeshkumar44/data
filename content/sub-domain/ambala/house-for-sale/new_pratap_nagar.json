@@ -7,12 +7,18 @@
       "New Pratap Nagar provides residents with excellent social infrastructure, including access to top schools, healthcare facilities, and well-maintained parks. Investing here means securing a future in a rapidly appreciating locality that promises both tranquility and urban convenience. Explore our verified listings of houses that offer clear ownership titles and immediate possession options. Your journey to owning a premium residential property starts right here with expert guidance and transparent dealings."
     ],
     "buttons": [
-      { "label": "View Exclusive House Listings", "path": "/listings/new-pratap-nagar" },
-      { "label": "Schedule a Site Visit Now", "path": "/contact" }
+      {
+        "label": "View Exclusive House Listings",
+        "path": "/listings/new-pratap-nagar"
+      },
+      {
+        "label": "Schedule a Site Visit Now",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "house_front_new_pratap_nagar_1.jpg",
-      "community_view_new_pratap_nagar_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "The locality offers unparalleled proximity to major transportation arteries, including easy links to the National Highway 44 (NH-44), facilitating smooth travel to Chandigarh, Delhi, and other major cities. This connectivity factor is a vital component contributing to the sustained demand and rapid property value appreciation for every house for sale in New Pratap Nagar Ambala, cementing it as a highly desirable place to live and invest."
     ],
     "locations": [
-      "Ambala City Railway Station",
-      "Proximity to NH-44",
-      "Reputable Educational Institutions",
-      "Major Healthcare Centers",
-      "Shopping Malls and Markets",
-      "Ambala Cantt Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

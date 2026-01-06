@@ -7,12 +7,18 @@
       "Jaggi Colony is a highly sought-after residential area known for its peaceful environment and excellent connectivity to major parts of Ambala Cantt. Dealing with property here requires precise market knowledge and legal acumen. We eliminate the guesswork, offering transparent advice, meticulous documentation support, and a curated selection of verified properties. Start your successful property journey today with the most trusted advisors in Jaggi Colony Ambala."
     ],
     "buttons": [
-      { "label": "View Available Properties Now", "path": "/properties" },
-      { "label": "Consult Our Jaggi Colony Experts", "path": "/contact" }
+      {
+        "label": "View Available Properties Now",
+        "path": "/properties"
+      },
+      {
+        "label": "Consult Our Jaggi Colony Experts",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "jaggi_colony_residential_view.jpg",
-      "jaggi_colony_property_dealer_office.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Our network extends across Ambala Cantt, offering you diverse choices whether you prioritize access to schools, hospitals, or major highways. Let us help you find the perfect blend of location, price, and potential across the best real estate hotspots near Jaggi Colony."
     ],
     "locations": [
-      "Defense Colony Ambala Cantt",
-      "Sector 7 Ambala Cantt",
-      "Sector 8 Ambala Cantt",
-      "Model Town Ambala",
-      "Housing Board Colony Ambala",
-      "Baldev Nagar Extension",
-      "Pankaj Colony Ambala",
-      "Shastri Colony Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

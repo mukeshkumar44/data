@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero_image_flat_sector89_1.jpg",
-      "hero_image_flat_sector89_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "Beyond infrastructure, the social amenities are unparalleled. Sector 89 is surrounded by top educational institutions, world-class healthcare facilities, and vibrant retail centers. This means everything you need—from daily necessities to weekend entertainment—is just a short drive away. We ensure every Flat For Rent in sector 89 provides easy access to these critical urban amenities."
     ],
     "locations": [
-      "Malls and Shopping Hubs",
-      "Top-Tier Schools and Colleges",
-      "Advanced Healthcare Facilities",
-      "Seamless Metro and Road Connectivity",
-      "Dedicated Green Parks and Recreational Spaces",
-      "Proximity to Corporate Business Centers"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

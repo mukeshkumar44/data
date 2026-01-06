@@ -7,10 +7,19 @@
       "Investing in sector 58 means securing a future in a rapidly developing area known for its proximity to major industrial zones and robust social amenities. Explore properties that promise superior construction, ample ventilation, and integrated community living. Start your journey to owning a home where convenience meets quality living right here in Gurugram with confidence and professional guidance."
     ],
     "buttons": [
-      { "label": "View Available Flats", "path": "/listings" },
-      { "label": "Request a Call Back", "path": "/contact" }
+      {
+        "label": "View Available Flats",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Call Back",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_flat_sector58_1.jpg", "hero_flat_sector58_2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Residential Flat Configurations and Features in sector 58 Gurugram",
@@ -19,12 +28,30 @@
       "We categorize our offerings based on key decision-making factors including BHK types, project status, and specialized features like luxury finishes or eco-friendly designs. Each property profile provides transparent details on carpet area, super built-up area, parking availability, and maintenance costs so you can make an informed choice with complete peace of mind. Let us help you navigate the best residential opportunities sector 58 has to offer today."
     ],
     "features": [
-      { "title": "2 BHK Flats", "description": "Ideal compact homes suitable for small families or young professionals seeking affordability and smart layouts. These units often feature efficient use of space and come within gated communities offering essential amenities." },
-      { "title": "3 BHK Flats", "description": "The most sought-after configuration offering ample space for growing families with separate living dining and utility areas. Many 3 BHK options in sector 58 include servant quarters or dedicated study spaces." },
-      { "title": "Ready-to-Move Options", "description": "Bypass the uncertainties of construction timelines with fully finished flats ready for immediate possession. These properties are perfect for buyers needing to relocate quickly or those seeking instant rental income potential." },
-      { "title": "Luxury Penthouses", "description": "Exclusive top-floor residences offering expansive views high-end finishes and private terrace access. These homes cater to discerning buyers looking for prestige and ultimate privacy within sector 58." },
-      { "title": "Builder Floors", "description": "Alternative low-rise housing offering greater independence and autonomy compared to high-rise apartments. Builder floors often provide direct access and independent parking facilities for enhanced convenience." },
-      { "title": "Affordable Housing Projects", "description": "Dedicated segments within sector 58 offering high-quality flats at budget-friendly price points making home ownership accessible to a wider range of buyers without compromising on location or security." }
+      {
+        "title": "2 BHK Flats",
+        "description": "Ideal compact homes suitable for small families or young professionals seeking affordability and smart layouts. These units often feature efficient use of space and come within gated communities offering essential amenities."
+      },
+      {
+        "title": "3 BHK Flats",
+        "description": "The most sought-after configuration offering ample space for growing families with separate living dining and utility areas. Many 3 BHK options in sector 58 include servant quarters or dedicated study spaces."
+      },
+      {
+        "title": "Ready-to-Move Options",
+        "description": "Bypass the uncertainties of construction timelines with fully finished flats ready for immediate possession. These properties are perfect for buyers needing to relocate quickly or those seeking instant rental income potential."
+      },
+      {
+        "title": "Luxury Penthouses",
+        "description": "Exclusive top-floor residences offering expansive views high-end finishes and private terrace access. These homes cater to discerning buyers looking for prestige and ultimate privacy within sector 58."
+      },
+      {
+        "title": "Builder Floors",
+        "description": "Alternative low-rise housing offering greater independence and autonomy compared to high-rise apartments. Builder floors often provide direct access and independent parking facilities for enhanced convenience."
+      },
+      {
+        "title": "Affordable Housing Projects",
+        "description": "Dedicated segments within sector 58 offering high-quality flats at budget-friendly price points making home ownership accessible to a wider range of buyers without compromising on location or security."
+      }
     ]
   },
   "locationsSection": {
@@ -34,12 +61,56 @@
       "We highlight locations that significantly enhance the value and livability of properties in sector 58 including proximity to top schools hospitals and shopping complexes. Understanding the neighborhood dynamics is crucial when buying a flat and sector 58 offers a balanced mix of urban convenience and green spaces making it highly desirable for families and investors alike."
     ],
     "locations": [
-      "Proposed Metro Connectivity",
-      "sector_57 Residential Hub",
-      "Badkhal Lake Area",
-      "Proximity to NH-19",
-      "Leading Educational Institutes",
-      "Commercial Shopping Centers"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -135,6 +206,11 @@
       "We understand that buying a home is a significant decision and requires reliable guidance. Let our expert team guide you through the best listings in sector 58 providing tailored advice market insights and seamless support from search to settlement.",
       "Reach out today to schedule a site visit or discuss your specific property requirements and budget so we can find the perfect residential flat for you in sector 58 Gurugram."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

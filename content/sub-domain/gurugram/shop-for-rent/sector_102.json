@@ -7,12 +7,18 @@
       "We offer a diverse and curated inventory of ready-to-move rental shops, ranging from compact kiosks ideal for startups to expansive double-height retail spaces suited for major anchor tenants and large showrooms. Each commercial unit is strategically located within meticulously planned, secured commercial complexes, offering essential amenities like dedicated service access, 24/7 power backup, and ample customer parking. Start your search now to position your business for maximum visibility and long-term profitability in one of Greater Gurugram’s most promising commercial zones."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/available-shops" },
-      { "label": "Schedule a Site Visit", "path": "/contact-us" }
+      {
+        "label": "View Available Shops",
+        "path": "/available-shops"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "shop_frontage_sector_102.jpg",
-      "commercial_complex_faridabad.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "The connectivity to the main bypass road enhances the value of these commercial assets. Our listings cover shops in the most sought-after complexes ensuring your investment is both visible and accessible to a wide demographic spectrum."
     ],
     "locations": [
-      "Shops Near Omaxe New Heights",
-      "Retail Spaces Along the Main Sector Road",
-      "Commercial Bays Near RPS City Exit",
-      "Units within Central Sector 102 Shopping Hub",
-      "Spaces with Bypass Road Connectivity",
-      "Rental Shops near Upcoming Residential Towers"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -156,6 +206,11 @@
       "Ready to find the ideal shop for rent in Sector 102 that perfectly aligns with your business goals and budget? Our local expertise and comprehensive inventory ensure you get the best deal in the most promising location.",
       "Contact our commercial leasing specialists now to schedule an exclusive viewing or receive a personalized list of properties matching your specific requirements."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

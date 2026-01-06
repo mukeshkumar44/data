@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "kesari-village-flat-exterior.jpg",
-      "flat-interior-living.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "We provide detailed location insights for every Flat For Rent in Kesari Village including proximity to major roads transport hubs and essential services like hospitals schools and supermarkets. This local knowledge helps you choose the perfect micro-location within the village that best suits your family's daily requirements."
     ],
     "locations": [
-      "Near Ambala Cantt Railway Station",
-      "Easy Access to NH 44 Highway",
-      "Proximity to Ambala City Sector 9",
-      "Residential Zones near Panchkula Road",
-      "Areas close to major educational institutions",
-      "Apartments near local markets and shopping centers"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

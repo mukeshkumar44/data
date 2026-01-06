@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/sector-10a-hero-1.jpg",
-      "/images/sector-10a-hero-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "You benefit from immediate access to the bustling markets of Sector 14 and the major connectivity routes leading towards Delhi and the NH-48. Proximity to well-established schools, healthcare facilities like Signature Hospital, and major retail centers significantly enhances the quality of life. For buyers looking to buy house in Sector 10A Gurugram, the surrounding ecosystem supports all modern family needs. This connectivity ensures that property values remain stable and attractive for long-term investment. Explore these neighboring sectors that contribute to the robust infrastructure of Sector 10A."
     ],
     "locations": [
-      "Sector 9 Gurugram",
-      "Sector 14 Educational Hub",
-      "Sector 15 Part 1 and 2",
-      "Rajiv Nagar",
-      "Old Delhi Road Connectivity",
-      "Mianwali Colony"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

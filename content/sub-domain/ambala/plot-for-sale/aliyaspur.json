@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Diverse Plot Sizes Tailored for Your Dream Home in Aliyaspur Ambala",
@@ -58,12 +61,56 @@
       "Our plots are meticulously selected for their proximity to essential services ensuring that hospitals, top-rated schools, and bustling market areas are just a short drive away. This excellent logistical advantage makes Aliyaspur a practical and desirable choice for families and investors alike looking for clear returns and convenience. Explore the key areas and infrastructure surrounding your potential investment in Aliyaspur Ambala."
     ],
     "locations": [
-      "Immediate access to the Ambala-Jagadhri National Highway NH 344",
-      "Close proximity to Ambala Cantt Railway Station major transportation hub",
-      "Short drive to prominent educational institutions and colleges",
-      "Well-developed internal road network connecting Aliyaspur seamlessly",
-      "Easy access to major healthcare facilities and specialty hospitals in Ambala",
-      "Developing commercial centers and retail parks nearby ensuring convenience"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

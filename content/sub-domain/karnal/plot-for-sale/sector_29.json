@@ -7,10 +7,19 @@
       "We simplify the process of finding and acquiring the right plot, ensuring all documentation is transparent and legal. Whether you envision a charming 4 Marla home or a spacious 14 Marla villa, Sector 29 provides the canvas for your architectural dreams. Explore certified plots today and take the first step towards building your customized home in a neighborhood known for its security and community ambiance. Dont miss this chance to invest in premium residential land in Sector 29 Karnal."
     ],
     "buttons": [
-      { "label": "View Available Plots", "path": "/search/plots" },
-      { "label": "Request Site Visit", "path": "/contact" }
+      {
+        "label": "View Available Plots",
+        "path": "/search/plots"
+      },
+      {
+        "label": "Request Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["sector29_hero1.jpg", "sector29_hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Find the Ideal Plot Size for Your New Home Construction in Sector 29 Karnal",
@@ -52,14 +61,56 @@
       "The surrounding area boasts premium educational institutions, top-tier healthcare facilities, and vibrant commercial centers. This integration of residential tranquility with urban convenience makes Sector 29 highly desirable for professionals and families alike. Review the key proximity highlights below that enhance the value of land ownership here, solidifying Sector 29 as the premier address in Karnal."
     ],
     "locations": [
-      "Near National Highway 44 connectivity",
-      "Proximity to established Sector 13 amenities",
-      "Easy access to Karnal Railway Station",
-      "Close to reputable schools and colleges",
-      "Adjacent to major parks and green belts",
-      "Short drive to the main commercial markets",
-      "Well-connected via city bus routes and public transport",
-      "Developed road infrastructure enhancing commuting ease"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to find the perfect Plot For Sale in Sector 29 Karnal Our expert team is here to provide personalized advice, schedule site visits, and answer any detailed questions you may have regarding property investment in this prestigious area.",
       "Start your journey toward building your dream home by reaching out now. Use the form below, and we guarantee a prompt, professional response tailored to your specific real estate needs and investment goals in Sector 29."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

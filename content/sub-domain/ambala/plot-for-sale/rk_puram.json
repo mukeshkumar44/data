@@ -7,10 +7,19 @@
       "Our carefully curated listings feature verified land parcels ensuring clear titles and hassle-free transactions. We specialize in connecting serious buyers with genuine sellers offering a range of sizes to fit every construction need and budget. Explore certified residential plots and premium commercial spaces in RK Puram and start building your future success now. Take the crucial first step toward owning valuable real estate in this thriving neighborhood."
     ],
     "buttons": [
-      { "label": "Explore Verified Listings Now", "path": "/listings" },
-      { "label": "Get Free Investment Consultation", "path": "/contact" }
+      {
+        "label": "Explore Verified Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Free Investment Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero-rk-puram-plot.jpg", "/images/rkpuram-location.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Ideal Residential Plot Sizes Available for Sale in RK Puram Ambala Locality",
@@ -52,14 +61,56 @@
       "Our focus extends beyond just the boundary of RK Puram to include interconnected sectors that benefit from its robust infrastructure. Buying a plot here means securing access to reliable public transport well-maintained roads and planned civic amenities. Review these neighboring investment areas which promise exceptional returns and excellent quality of life making your decision to purchase a plot for sale in RK Puram even more compelling."
     ],
     "locations": [
-      "Residential Plots Near Major Schools",
-      "Commercial Land Along National Highway Access Points",
-      "Gated Community Plots Adjacent to RK Puram",
-      "Ready-to-Build Land Near Local Markets",
-      "Affordable Investment Plots in Developing Phases",
-      "Premium Land Near Healthcare Facilities in Ambala",
-      "Plots Offering Easy Commute to Industrial Zones",
-      "Vacant Land Ready for Immediate Registry"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure the best plot for sale in RK Puram or have specific questions about land investment potential We are here to provide personalized consultation and verified listings.",
       "Reach out to our specialized real estate advisors now to discuss your requirements and schedule a site visit to the most promising properties in RK Puram."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

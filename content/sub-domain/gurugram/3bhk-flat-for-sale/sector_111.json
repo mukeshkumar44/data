@@ -7,10 +7,19 @@
       "Sector 111 boasts superb connectivity to Dwarka Expressway and key commercial zones, ensuring convenience is always within reach. Explore RERA-approved properties from top developers known for quality construction and timely delivery. Whether you are a first-time home buyer or looking for a profitable investment opportunity, a 3BHK flat in this sector promises high appreciation potential and a lifestyle upgrade. Browse our curated selection and take the first step toward owning your dream home in Gurugram’s most promising locality."
     ],
     "buttons": [
-      { "label": "Explore 3BHK Listings", "path": "/listings/3bhk-sector-111" },
-      { "label": "Request a Callback", "path": "/contact" }
+      {
+        "label": "Explore 3BHK Listings",
+        "path": "/listings/3bhk-sector-111"
+      },
+      {
+        "label": "Request a Callback",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero-image-1.jpg", "hero-image-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Features of a 3BHK Flat in Sector 111 Modern Living Amenities and Design",
@@ -52,14 +61,56 @@
       "If you are seeking a 3BHK flat for sale in Sector 111, understanding its geographical advantages is key. Its direct link to the Dwarka Expressway (Northern Peripheral Road) transforms local travel and ensures rapid connectivity to the airport and major parts of NCR. This strategic positioning makes it an ideal choice for professionals and families alike."
     ],
     "locations": [
-      "Direct Access to Dwarka Expressway",
-      "Proximity to Indira Gandhi International Airport (IGI)",
-      "Nearness to Sector 110 and Sector 112 Commercial Zones",
-      "Easy Commute to Cyber City and Udyog Vihar",
-      "Well Connected to Dwarka Sector 21 Metro Station",
-      "Close to Proposed Metro Corridor Routes",
-      "Leading Schools and Hospitals within 10-minute drive",
-      "Upcoming Retail and Entertainment Centres nearby"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to explore the best residential properties in Sector 111 Gurugram We offer personalized tours, detailed project analysis, and expert guidance to help you select the perfect 3BHK flat.",
       "Fill out the form below to receive customized listings, floor plans, and current pricing sheets directly from our real estate specialists."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

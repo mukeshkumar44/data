@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Best Residential Flats and Apartment Configurations Available in Sector 92",
@@ -58,14 +61,56 @@
       "The planned expansion of public transport and the proximity to commercial centers underscore why a Flat For Sale in sector_92 is not just a home, but a future-proof investment. We highlight key areas nearby that enhance the living experience and bolster property values."
     ],
     "locations": [
-      "Delhi-Mumbai Expressway Access Point",
-      "KMP Expressway Connectivity",
-      "Proximity to Neharpar Industrial Area",
-      "Nearby Schools and Educational Institutions",
-      "Major Hospitals and Healthcare Centers",
-      "Commercial Shopping Complexes and Retail Hubs",
-      "Border Connectivity to Palwal and Ballabgarh",
-      "Upcoming Metro Link Extensions"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

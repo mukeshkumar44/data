@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/sector93_plot_view1.jpg",
-      "/images/sector93_infrastructure.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "The locational advantage of securing a Plot For Sale in Sector 93 directly translates into higher demand and sustained property value growth. The planned infrastructure surrounding the sector including forthcoming metro extensions and highway upgrades further cements its status as a top-tier investment location."
     ],
     "locations": [
-      "Noida-Greater Noida Expressway Access",
-      "Sector 137 Noida Metro Station",
-      "Proximity to Advant Navis Business Park",
-      "Easy Drive to Jaypee Hospital",
-      "Connectivity to Sector 92 and Sector 104 Residential Areas",
-      "Nearness to Premium Educational Institutions"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

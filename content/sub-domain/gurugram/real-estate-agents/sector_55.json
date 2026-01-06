@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Investment Opportunities Handled by Expert Real Estate Agents in Sector 55 Gurugram",
@@ -58,14 +61,56 @@
       "Our expert agents emphasize how this prime positioning directly impacts property appreciation values. Key amenities like top international schools leading hospitals and major shopping centers are located within a 5 to 10-minute drive. Investing through the best Real Estate Agents in Sector 55 means investing in a location poised for sustained growth and high quality of life. We provide detailed locational analyses comparing Sector 55’s advantages against neighbouring areas ensuring you make an informed decision based on accessibility and future development."
     ],
     "locations": [
-      "Sector 56 Gurugram",
-      "Golf Course Road",
-      "Sikanderpur Metro Station",
-      "Rapid Metro Line Connectivity",
-      "Hong Kong Bazaar Shopping Hub",
-      "Teri Golf Course",
-      "Wazirabad Road Link",
-      "Close proximity to DLF Phase 5"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

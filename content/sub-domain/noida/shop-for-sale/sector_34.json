@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-shop-sector-34-main.jpg",
-      "commercial-street-view.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Our detailed location analysis goes beyond simple geographical mapping of the area. We highlight specific areas currently undergoing infrastructural upgrades or planned expansion, maximizing your long-term return on investment. Whether you are looking for established, bustling retail hubs or strategically emerging commercial centers, our localized insights pinpoint precisely where the future growth is happening. Explore our map of key investment spots to find a shop for sale in Sector 34 and its immediate vicinity that aligns perfectly with your business model and long-term financial strategy for commercial property success."
     ],
     "locations": [
-      "Sector 34 Main Market Plaza",
-      "Commercial Hub near Sector 51 Metro Station",
-      "Retail Frontage along Dadri Main Road",
-      "Shopping Complexes in Sector 33 Noida",
-      "Service Lanes adjacent to Residential Societies in Sector 35",
-      "Planned Commercial Development sites in Sector 50 Noida",
-      "High-Visibility Shops near Sector 34 Noida Authority Office",
-      "Quick Access Retail Units towards Sector 51"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

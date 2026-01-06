@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Property Sizes Available for Shop For Sale in Arya Nagar Rohtak",
@@ -58,12 +61,56 @@
       "This location is strategically positioned near established residential colonies ensuring a constant flow of ready customers right outside your shop door. We highlight commercial spaces that benefit from immediate access to public transport hubs schools and essential services creating an environment conducive to continuous footfall and business growth. The proximity to key landmarks not only enhances visibility but also drives up the long-term appreciation value of your commercial asset. Secure your shop for sale in Arya Nagar Rohtak knowing you are placing your business in an area optimized for success and future scalability."
     ],
     "locations": [
-      "Sector 14 Commercial Hub",
-      "Sheela Bypass Rohtak",
-      "Rohtak Railway Station",
-      "Maharshi Dayanand University MDU",
-      "Delhi Bypass Junction",
-      "Civil Lines Residential Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

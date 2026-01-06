@@ -7,10 +7,19 @@
       "Whether you are searching for a spacious apartment, a modern builder floor, or a profitable commercial investment, our agents provide personalized consultation, legal clarity, and transparent dealings. Stop wasting time navigating endless listings. Partner with a local expert today who understands the nuances of Sector 120 pricing, inventory, and future development potential. We simplify your property journey from initial search to final registration, ensuring peace of mind throughout the entire process."
     ],
     "buttons": [
-      { "label": "Find My Agent Now", "path": "/search-agents" },
-      { "label": "List Your Property", "path": "/list-property" }
+      {
+        "label": "Find My Agent Now",
+        "path": "/search-agents"
+      },
+      {
+        "label": "List Your Property",
+        "path": "/list-property"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Comprehensive Services Offered by Top Real Estate Agents in Sector 120 Noida",
@@ -52,14 +61,56 @@
       "The area features a balanced mix of high-rise residential projects and rapidly developing market areas. Our agents monitor factors like society maintenance standards, proximity to essential services like schools and hospitals, and the local rental yield potential. Whether you are interested in premium gated communities or budget-friendly builder floors, our localized property professionals ensure you make an informed decision aligned with the best opportunities Sector 120 has to offer. We cover every corner, ensuring no opportunity is missed in this vibrant Noida sector."
     ],
     "locations": [
-      "Amrapali Zodiac",
-      "Eldeco Aamantran",
-      "SKM World",
-      "Residential Apartments near FNG",
-      "Builder Floors in Sector 120",
-      "Commercial Complexes Sector 120",
-      "Proximity to Sector 119 Market",
-      "Areas near Noida-Greater Noida Expressway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to start your property journey in Sector 120 Noida Get in touch with our expert team now. Whether buying, selling, or seeking investment advice, our top-rated agents are waiting to provide personalized assistance and proprietary market data.",
       "Fill out the short form below to receive a consultation tailored to your specific real estate goals. Let us connect you with a verified Sector 120 specialist who will ensure your success."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

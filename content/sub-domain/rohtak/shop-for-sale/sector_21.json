@@ -7,12 +7,18 @@
       "Do not miss your chance to own a valuable piece of commercial real estate in this highly desirable location. We provide curated listings featuring verified properties clear titles and excellent connectivity. Browse our comprehensive portfolio of shops ranging from compact kiosks suitable for quick-service businesses to expansive ground-floor units ideal for showrooms. Contact our expert commercial property advisors today to schedule a viewing and finalize your strategic investment in a prime Shop For Sale in Sector 21 Rohtak."
     ],
     "buttons": [
-      { "label": "Explore Verified Listings", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/sector21-shop-front.jpg",
-      "/images/rohtak-commercial-hub.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,15 +61,56 @@
       "Our network extends across all major commercial areas in Rohtak including high-density residential sectors and emerging industrial zones ensuring you find the perfect shop location that matches your specific business and investment profile. Explore these complementary locations for comprehensive portfolio diversification."
     ],
     "locations": [
-      "Sector 1 Rohtak Commercial",
-      "Sector 3 Retail Market",
-      "Sector 4 High Street Shops",
-      "Sector 5 Local Business Hub",
-      "Sector 6 Investment Properties",
-      "Sector 14 Main Road Commercial",
-      "Sector 25 Institutional Area Shops",
-      "Model Town Retail Spaces",
-      "Civil Lines Prime Commercial"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,12 +7,18 @@
       "These properties benefit from excellent connectivity, proximity to major residential colonies, and superior infrastructure, ensuring maximum customer footfall from day one. Do not miss this chance to establish your business presence in one of Karnal’s most sought-after commercial addresses. Explore ideal shop sizes and locations that perfectly match your entrepreneurial vision and long-term investment goals today."
     ],
     "buttons": [
-      { "label": "View Available Commercial Shops", "path": "/listings" },
-      { "label": "Request Investment Consultation", "path": "/contact" }
+      {
+        "label": "View Available Commercial Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Investment Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "shop_sector45_hero1.jpg",
-      "shop_sector45_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "This strategic focus ensures that your investment benefits from immediate and future growth vectors. Our expert analysis helps you differentiate between high-street retail potential and integrated market complexes, allowing you to buy the perfect shop for sale in Sector 45 Karnal based on intended use and target demographic profile."
     ],
     "locations": [
-      "Sector 45 Main Commercial Market",
-      "Proximity to NH 44 Service Lane",
-      "Adjacent Residential Societies",
-      "Near Signature Global Commercial Complex",
-      "Ease of Access to Sector 44 Hub",
-      "Connecting Roads to Karnal Bypass"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

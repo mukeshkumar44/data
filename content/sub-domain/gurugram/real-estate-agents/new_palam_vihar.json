@@ -7,10 +7,19 @@
       "Whether you are seeking to purchase your dream home near key infrastructure projects or looking to secure the highest possible return on your existing property, our agents provide unbiased advice and skilled negotiation. Stop sifting through countless listings and start working with a dedicated partner who understands the intricate market movements of this thriving locality. Your successful property transaction begins here."
     ],
     "buttons": [
-      { "label": "Find My Agent Now", "path": "/agents" },
-      { "label": "View Latest Listings", "path": "/listings" }
+      {
+        "label": "Find My Agent Now",
+        "path": "/agents"
+      },
+      {
+        "label": "View Latest Listings",
+        "path": "/listings"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Ideal Investment Sizes and Residential Plots in New Palam Vihar Gurugram",
@@ -52,14 +61,56 @@
       "Whether you prefer the developed connectivity of Sector 110 or the expansive potential of Bajghera, our local experts cover every square foot. We provide tailored recommendations based on your commute needs, lifestyle preferences, and capital growth expectations, extending our service beyond just New Palam Vihar itself to ensure you find the perfect community within Gurugram."
     ],
     "locations": [
-      "Palam Vihar Extension",
-      "Sector 110 Gurugram",
-      "Bajghera Residential Plots",
-      "Dwarka Expressway Localities",
-      "Sector 109 Housing Projects",
-      "Dhankot Affordable Housing",
-      "New Palam Vihar Phase 1",
-      "New Palam Vihar Phase 2"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Take the first step towards a successful property journey in New Palam Vihar Gurugram. Contact us today and let our expert team match you with the perfect real estate professional who meets your specific buying or selling needs.",
       "Fill out the form below with your requirements, and a dedicated local agent will reach out to you within hours to discuss your property goals without obligation."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

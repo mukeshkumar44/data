@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "kallerheri_plot_view.jpg",
-      "ambala_real_estate_agent.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "Understanding the local dynamics of each neighborhood is vital; a professional Property Dealer in Kallerheri must also know the trajectory of nearby developments. We analyze traffic flow, proximity to major schools and hospitals, and proposed highway extensions to ensure your investment is future-proof. Whether you are looking for immediate occupation or long-term land banking near Ambala, our network provides exclusive access to off-market listings and verified land records across the district."
     ],
     "locations": [
-      "Plots for Sale in Sector 9 Ambala Cantt",
-      "Ready to Move Homes in Mahesh Nagar Ambala",
-      "Commercial Property on Naraingarh Road",
-      "Residential Plots Near Kallerheri Extension",
-      "Agricultural Land in Nearby Villages Ambala",
-      "New Builder Floors in Ambala City"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

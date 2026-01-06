@@ -7,10 +7,19 @@
       "This sector benefits immensely from its strategic location right off the Noida Expressway ensuring smooth travel to Greater Noida Delhi and central Noida business districts. The area boasts large, well-maintained housing societies like Gulshan Ikebana and Exotica Fresco which offer world-class amenities like swimming pools gyms and 24/7 security. Discover listings ranging from compact 1BHK units ideal for single occupants to luxurious 4BHK flats ready for immediate occupancy. Start your journey towards finding a seamless rental experience today and move into the best of Sector 137 Noida."
     ],
     "buttons": [
-      { "label": "Browse 2 BHK Flats", "path": "/search/2bhk-sector-137" },
-      { "label": "Contact Rental Advisor", "path": "/contact" }
+      {
+        "label": "Browse 2 BHK Flats",
+        "path": "/search/2bhk-sector-137"
+      },
+      {
+        "label": "Contact Rental Advisor",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_sector137_1.jpg", "hero_sector137_2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring the Best Residential Configurations When Looking for a Flat For Rent in Sector 137 Noida",
@@ -52,14 +61,56 @@
       "Furthermore residents benefit from proximity to essential social infrastructure. Top-tier hospitals reputed schools and major commercial centers are all within a short driving distance enhancing the overall quality of life. This strategic positioning makes Sector 137 a highly convenient and time-saving choice for professionals and families seeking premium rental accommodation in the NCR."
     ],
     "locations": [
-      "Sector 137 Metro Station Aqua Line",
-      "Noida Expressway Direct Access",
-      "Advant Navis Business Park",
-      "Felix Hospital and other Healthcare Facilities",
-      "Sector 142 Business Hub",
-      "Distant access to Pari Chowk Greater Noida",
-      "Major Schools and Educational Institutions",
-      "Shopping Malls and Entertainment Centers"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure the best rental property in Sector 137 Noida We simplify the complex process of property search verification and negotiation ensuring a smooth tenancy experience from start to finish. Our local expertise guarantees you access to exclusive listings before they hit the general market.",
       "Reach out to our dedicated rental specialists today. Let us understand your specific needs budget and move-in timeline so we can curate a list of perfect flats just for you. Your new home awaits in one of Noida’s most sought-after residential locations."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

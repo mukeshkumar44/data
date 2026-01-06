@@ -7,10 +7,19 @@
       "Explore a wide range of Flats For Rent in Jasbir Colony from modern 1 BHK units ideal for singles to spacious 3 BHK apartments suitable for larger families. Our platform provides detailed property information high-resolution images and clear rental terms helping you secure your next home in this well-connected locality without unnecessary stress or hidden fees. Start your search today and step into your ideal rented flat in Rohtak."
     ],
     "buttons": [
-      { "label": "Browse Verified Rental Flats", "path": "/listings/jasbir-colony" },
-      { "label": "Contact Rental Experts Now", "path": "/contact" }
+      {
+        "label": "Browse Verified Rental Flats",
+        "path": "/listings/jasbir-colony"
+      },
+      {
+        "label": "Contact Rental Experts Now",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Popular Rental Flat Configurations and Sizes Available in Jasbir Colony Rohtak",
@@ -52,13 +61,56 @@
       "The colony is known for its well-maintained infrastructure and proximity to essential services making it a premium choice for Flats For Rent. Tenants benefit from quick access to the main Rohtak road networks and nearby areas ensuring all necessities are just minutes away. This convenient location adds significant value to your rental investment."
     ],
     "locations": [
-      "Medical College Area",
-      "Model Town Rohtak",
-      "Sector 14 Rohtak",
-      "Maharshi Dayanand University MDU",
-      "Delhi Bypass Road Access",
-      "Vikas Nagar Rohtak",
-      "Housing Board Colony"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

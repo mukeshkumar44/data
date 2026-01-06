@@ -17,10 +17,8 @@
       }
     ],
     "images": [
-      "flat_devi_nagar_exterior.jpg",
-      "2bhk_interior_devi_nagar.jpg",
-      "local_amenities_ambala.jpg",
-      "map_devi_nagar_rentals.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -63,14 +61,56 @@
       "Exploring rental options near adjacent localities can sometimes offer variations in rent pricing and access to specific amenities. We help you compare listings seamlessly across this region, ensuring you make an informed decision about where to secure your next rental home in the greater Ambala area maintaining easy access to the Flat For Rent in Devi Nagar listings."
     ],
     "locations": [
-      "Ambala City",
-      "Ambala Cantt",
-      "Sector 9 Ambala",
-      "Baldev Nagar",
-      "Sadar Bazaar",
-      "Model Town",
-      "Shastri Nagar",
-      "Manav Chowk"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

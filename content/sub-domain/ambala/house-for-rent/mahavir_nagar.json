@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "house-mahāvir-nagar-hero1.jpg",
-      "rental-bungalow-mahāvir-nagar.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "Exploring these linked neighborhoods can strategically broaden your available options while meticulously maintaining proximity to all the conveniences and social infrastructure Mahavir Nagar is renowned for, ensuring you find the absolute perfect rental solution that fits your budget and commuting requirements. We cover all surrounding high-demand rental zones."
     ],
     "locations": [
-      "Kandivali West Rental Houses",
-      "Charkop Independent Rentals",
-      "Eksar Family House Rentals",
-      "Borivali West Luxury Home Leases",
-      "Dahanukar Wadi Rental Properties",
-      "Link Road Rental Houses"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Key Advantages of Choosing a 3BHK Flat in Sector 108 Gurugram",
@@ -58,14 +61,56 @@
       "Its robust connectivity infrastructure guarantees quick access to major transport links including the Indira Gandhi International Airport IGI and prominent business districts like Cyber City. This seamless integration into the larger NCR ecosystem makes living in Sector 108 exceptionally convenient and highly rewarding for working professionals and families alike who prioritize travel ease."
     ],
     "locations": [
-      "Dwarka Expressway",
-      "Indira Gandhi International Airport IGI",
-      "Delhi-Gurugram Border",
-      "Cyber City and Udyog Vihar",
-      "Upcoming Metro Corridor",
-      "Prominent International Schools",
-      "Hospitals and Healthcare Facilities",
-      "Major Retail Malls and Shopping Complexes"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

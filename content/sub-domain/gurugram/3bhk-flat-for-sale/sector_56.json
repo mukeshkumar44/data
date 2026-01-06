@@ -7,12 +7,18 @@
       "A 3BHK configuration in Sector 56 provides the ideal balance of space and functionality often featuring servant quarters study rooms and large balconies overlooking lush green landscapes. This sector boasts proximity to major business districts top-tier educational institutions and the vibrant social life of Golf Course Road Extension. Invest in a home that promises excellent capital appreciation and immediate lifestyle enhancement. Review our current listings and take the first step toward owning your dream residence in one of Gurugram’s most sought-after addresses."
     ],
     "buttons": [
-      { "label": "View 3BHK Listings", "path": "/listings" },
-      { "label": "Download Price List", "path": "/contact" }
+      {
+        "label": "View 3BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Download Price List",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "image_3bhk_sector56_hero1.jpg",
-      "image_3bhk_sector56_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,13 +61,56 @@
       "The area is self-sufficient featuring renowned schools like Scottish High Pathways and St Xaviers leading healthcare facilities major retail outlets and fine dining options. This mature infrastructure minimizes travel time and maximizes family time making it an ideal environment for long-term residency."
     ],
     "locations": [
-      "Rapid Metro Station Sector 55-56",
-      "Golf Course Road Extension",
-      "Southern Peripheral Road SPR",
-      "WorldMark Sector 65 Shopping Complex",
-      "Artemis Hospital",
-      "St Xaviers High School",
-      "Easy access to NH-48 Delhi-Jaipur Highway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -157,6 +206,11 @@
       "Ready to explore the best 3BHK Flat For Sale in Sector 56 Gurugram Schedule a personalized site visit or consultation with our property specialists today. We provide unbiased advice detailed project comparisons and comprehensive legal verification assistance.",
       "Fill out the form below and let us help you secure your perfect luxury residence in this prime Gurugram location."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

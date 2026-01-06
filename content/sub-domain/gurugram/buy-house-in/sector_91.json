@@ -7,10 +7,19 @@
       "It hosts a mix of ready-to-move-in independent houses villas and builder floors catering to diverse needs and budgets. Experience serene living combined with proximity to commercial hubs top schools and world-class healthcare facilities. Discover properties that promise great lifestyle returns and a strong sense of community. Our expert consultants are here to guide you through the best available options that perfectly match your residential goals in this thriving location."
     ],
     "buttons": [
-      { "label": "Explore Houses for Sale", "path": "/houses-for-sale" },
-      { "label": "Request a Call Back", "path": "/contact" }
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/houses-for-sale"
+      },
+      {
+        "label": "Request a Call Back",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero1.jpg", "hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Ideal Plot Sizes and Configurations to Build or Buy Your Custom House in Sector 91",
@@ -52,13 +61,56 @@
       "The area is bordered by well-established sectors and future development zones ensuring robust social and commercial infrastructure growth including upcoming retail spaces and entertainment centers. Key landmarks like IMT Manesar business hubs and renowned educational institutions are just a short drive away. This central location ensures that while you enjoy peaceful residential living you are never far from the dynamic pulse of Gurugram. We recommend exploring Sector 91 for its balanced urban planning excellent road networks and access to essential amenities making the decision to buy house here extremely rewarding."
     ],
     "locations": [
-      "Sector 90 Gurugram",
-      "Sector 92 Gurugram",
-      "Sector 89 Gurugram",
-      "IMT Manesar",
-      "Pataudi Road",
-      "Dwarka Expressway Access",
-      "KMP Expressway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -154,6 +206,11 @@
       "Ready to explore the best residential houses and villas in Sector 91 Gurugram Contact our specialized property advisors today. We provide transparent dedicated service to help you secure your ideal home investment effortlessly.",
       "Fill out the form below and one of our dedicated Sector 91 experts will reach out to discuss your specific requirements including budget preferences and timelines."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero-house-sector36.jpg",
-      "/images/aerial-view-sector36.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "The sector is meticulously planned, ensuring proximity to top-rated schools, well-stocked marketplaces, and high-quality hospitals. Connectivity is seamless, with easy access to the National Highway, making commutes simple and stress-free. The area is known for its green belts and organized infrastructure, ensuring a tranquil living environment away from the city chaos, yet close enough to all necessities. This makes Sector 36 a highly desirable area for families seeking stability and quality of life in Karnal."
     ],
     "locations": [
-      "National Highway NH 44 Access",
-      "Reputed Educational Institutions",
-      "Major Shopping Centers and Malls",
-      "State-of-the-Art Hospitals and Clinics",
-      "Local Parks and Recreational Grounds",
-      "Easy Access to Local Public Transport"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

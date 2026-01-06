@@ -7,10 +7,19 @@
       "These apartments are designed with contemporary architecture, maximizing natural light and usable space, essential for modern families and young professionals. You gain immediate access to key infrastructural developments like premium schools, healthcare facilities, and bustling commercial centers nearby. Investing in a 2BHK here ensures high rental yield potential and robust capital appreciation due to the sector’s strategic position along key highways connecting major parts of the Delhi NCR. Explore spacious layouts, world-class amenities, and secure complexes that define the elevated lifestyle awaiting you in Sector 86."
     ],
     "buttons": [
-      { "label": "View Verified 2BHK Listings", "path": "/listings/2bhk" },
-      { "label": "Download Sector 86 Price Guide", "path": "/download/price-guide" }
+      {
+        "label": "View Verified 2BHK Listings",
+        "path": "/listings/2bhk"
+      },
+      {
+        "label": "Download Sector 86 Price Guide",
+        "path": "/download/price-guide"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Characteristics of a Premium 2BHK Flat For Sale in Sector 86",
@@ -52,14 +61,56 @@
       "The seamless road networks, including quick entry onto the Dwarka Expressway and NH-48, ensure that daily commuting remains stress-free. From essential services to major retail destinations, everything is within easy reach, confirming Sector 86 as a self-sufficient residential destination."
     ],
     "locations": [
-      "Dwarka Expressway Access",
-      "National Highway 48 NH-48",
-      "Manesar Industrial Area IMT",
-      "Vatika Business Centre",
-      "Aarvee Hospital",
-      "Amity International School",
-      "Sapphire 83 Mall",
-      "Haldiram's Sector 86"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Our team of Sector 86 property experts is ready to provide personalized guidance, detailed site tours, and comprehensive pricing information tailored to your specific budget and requirements. Contact us today to take the next step toward home ownership.",
       "Fill out the quick form below to receive verified listings, updated price lists, and investment feasibility reports for the best 2BHK properties available in Sector 86."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

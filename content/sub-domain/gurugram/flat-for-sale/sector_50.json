@@ -7,10 +7,19 @@
       "Our listings include verified properties in gated communities, ensuring security, convenience, and a high quality of life. Explore the latest ready-to-move-in flats and exciting new construction projects that promise significant appreciation potential. Start your search now to secure your dream home in this highly sought-after locality of Gurugram. We provide transparent pricing and expert guidance throughout your buying journey."
     ],
     "buttons": [
-      { "label": "View All Flats Listings", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View All Flats Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Apartment Configurations and Premium Flat Options in Sector 50 Gurugram",
@@ -52,13 +61,56 @@
       "Key adjacent areas like Sector 49, Sector 51, and the established parts of Greater Gurugram are easily reachable, offering a comprehensive mix of essential services and lifestyle amenities. Furthermore, the area is well-served by public transportation, including upcoming Metro extensions or nearby existing stations, solidifying its status as an excellent residential investment. Families particularly benefit from the quick drive times to reputable educational institutions and healthcare facilities located nearby. Investing here means securing a home in an increasingly interconnected part of the city, guaranteeing future growth and convenience. We help navigate the best flat options not only within Sector 50 but also in its immediate, highly desirable surrounding neighborhoods, ensuring you find the ideal blend of community, comfort, and commuting ease."
     ],
     "locations": [
-      "Sector 49 Gurugram",
-      "Sector 51 Gurugram",
-      "BPTP Greater Gurugram",
-      "Sainik Colony",
-      "Neharpar Residential Zone",
-      "Badkhal Metro Station proximity",
-      "Ambedkar Chowk area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

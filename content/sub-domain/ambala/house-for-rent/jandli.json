@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "jandli_house_rent_hero1.jpg",
-      "jandli_locality_view.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The connectivity ensures that residents of Jandli never feel isolated. Essential facilities such as leading educational institutions, major healthcare centres, and burgeoning commercial areas are all within a short driving distance. We provide houses for rent strategically located to maximise convenience whether you commute daily or prefer a neighbourhood walking distance from local amenities. This robust infrastructure supports a high quality of life for all families and professionals renting in Jandli Ambala."
     ],
     "locations": [
-      "Proximity to Ambala Cantt Railway Station",
-      "Easy Access to Chandigarh-Ambala Expressway",
-      "Near Reputable Schools and Colleges in Ambala",
-      "Close to Industrial Area Ambala",
-      "Well-connected to Local Markets and Shopping Centres",
-      "Direct Road Access to Sector 9 Ambala",
-      "Near Major Private and Government Hospitals",
-      "Quiet Residential Pockets near the Main Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

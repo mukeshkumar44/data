@@ -7,10 +7,19 @@
       "Investing in Sector 16 Karnal is a strategic move guaranteeing high appreciation potential and immediate access to top schools hospitals and commercial hubs. Explore exclusive listings of ready-to-move houses that meet every requirement for size budget and architectural preference. Let us guide you through finding the perfect residential haven in this prestigious sector."
     ],
     "buttons": [
-      { "label": "View Exclusive Listings", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View Exclusive Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Residential House Configurations and Sizes in Sector 16 Karnal",
@@ -52,14 +61,56 @@
       "The sector's strategic positioning near the main GT Road ensures quick access to inter-city travel while being securely buffered from heavy highway traffic creating a peaceful residential atmosphere highly valued by discerning homeowners."
     ],
     "locations": [
-      "NH 44 Delhi-Ambala Highway Connectivity",
-      "Reputable Schools and Educational Institutions",
-      "Major Healthcare Facilities and Hospitals",
-      "Sector 12 Market and Shopping Centers",
-      "Karnal Bus Stand and Railway Station Access",
-      "Nearby Parks and Green Spaces for Recreation",
-      "Commercial Hubs and Banking Services",
-      "Gymnasiums and Sports Complexes"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Our team specializes exclusively in the Sector 16 real estate market providing you with unmatched local knowledge and market insights. We are committed to helping you navigate the buying process from initial search to final registration seamlessly and confidently ensuring a positive experience.",
       "Start your journey toward owning a premier independent house today. Reach out to discuss your requirements and let us present tailored options that meet your exact specifications and budget criteria without any obligation."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

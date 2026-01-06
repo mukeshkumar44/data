@@ -7,10 +7,19 @@
       "Explore diverse inventory from top developers in this sought-after locality These 2BHK units provide optimal space utilization featuring contemporary interiors and access to world-class amenities We specialize in helping you navigate the best ready-to-move and under-construction opportunities ensuring you secure a property that meets both your budgetary and lifestyle demands Start your journey to owning a desirable 2BHK flat in Sector 85 Gurugram today"
     ],
     "buttons": [
-      { "label": "Explore 2BHK Listings Now", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore 2BHK Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Essential Features of a Premium 2BHK Flat in Sector 85 Gurugram",
@@ -19,12 +28,30 @@
       "Our featured 2BHK properties incorporate smart home layouts premium fittings and robust construction quality ensuring peace of mind We highlight properties with exceptional natural light superior ventilation and access to recreational facilities making them ideal for modern family living"
     ],
     "features": [
-      { "title": "Modern Kitchen Design and Utility", "description": "The 2BHK units feature modular kitchens equipped with high-quality counter tops and ample storage space We focus on designs that are efficient functional and easy to maintain perfect for daily cooking needs and entertaining guests Find a flat where the kitchen is truly the heart of the home" },
-      { "title": "Efficient Space Planning", "description": "Each 2BHK flat is meticulously planned to maximize usable area ensuring comfortable living areas and spacious bedrooms There is zero wastage of space with intelligent layouts that accommodate modern furniture and lifestyle needs making the 2 BHK feel significantly larger than standard configurations" },
-      { "title": "High Rental Yield Potential", "description": "Sector 85 Gurugram is an investment hotspot due to its proximity to commercial hubs and the Dwarka Expressway Investing in a 2BHK flat for sale here promises strong rental returns given the high demand from corporate tenants and expatriates looking for premium residential options" },
-      { "title": "Excellent Connectivity Hub", "description": "Enjoy unmatched connectivity to NH-48 the Southern Peripheral Road SPR and the Dwarka Expressway These flats offer easy access to Delhi IGI Airport and major business districts reducing commute times significantly The location is truly central to the New Gurugram area" },
-      { "title": "Secure Gated Communities", "description": "Safety is paramount All listed 2BHK properties are located within secure gated communities featuring 24x7 security surveillance dedicated security personnel and strict access control This ensures a safe and serene environment for all residents and their families" },
-      { "title": "Premium Clubhouse Amenities", "description": "Residents gain access to world-class recreational facilities including swimming pools modern gymnasiums sports courts and dedicated childrens play areas These amenities elevate the lifestyle experience transforming daily life into a resort-like retreat just steps from your 2BHK home" }
+      {
+        "title": "Modern Kitchen Design and Utility",
+        "description": "The 2BHK units feature modular kitchens equipped with high-quality counter tops and ample storage space We focus on designs that are efficient functional and easy to maintain perfect for daily cooking needs and entertaining guests Find a flat where the kitchen is truly the heart of the home"
+      },
+      {
+        "title": "Efficient Space Planning",
+        "description": "Each 2BHK flat is meticulously planned to maximize usable area ensuring comfortable living areas and spacious bedrooms There is zero wastage of space with intelligent layouts that accommodate modern furniture and lifestyle needs making the 2 BHK feel significantly larger than standard configurations"
+      },
+      {
+        "title": "High Rental Yield Potential",
+        "description": "Sector 85 Gurugram is an investment hotspot due to its proximity to commercial hubs and the Dwarka Expressway Investing in a 2BHK flat for sale here promises strong rental returns given the high demand from corporate tenants and expatriates looking for premium residential options"
+      },
+      {
+        "title": "Excellent Connectivity Hub",
+        "description": "Enjoy unmatched connectivity to NH-48 the Southern Peripheral Road SPR and the Dwarka Expressway These flats offer easy access to Delhi IGI Airport and major business districts reducing commute times significantly The location is truly central to the New Gurugram area"
+      },
+      {
+        "title": "Secure Gated Communities",
+        "description": "Safety is paramount All listed 2BHK properties are located within secure gated communities featuring 24x7 security surveillance dedicated security personnel and strict access control This ensures a safe and serene environment for all residents and their families"
+      },
+      {
+        "title": "Premium Clubhouse Amenities",
+        "description": "Residents gain access to world-class recreational facilities including swimming pools modern gymnasiums sports courts and dedicated childrens play areas These amenities elevate the lifestyle experience transforming daily life into a resort-like retreat just steps from your 2BHK home"
+      }
     ]
   },
   "locationsSection": {
@@ -33,7 +60,58 @@
       "Sector 85 Gurugram is strategically positioned in New Gurugram offering excellent road networks and proximity to key commercial and social infrastructure Its location near the confluence of major expressways makes a 2BHK flat for sale here incredibly valuable for long-term growth and immediate convenience.",
       "The sector benefits immensely from its closeness to the Dwarka Expressway providing seamless travel towards Delhi and Manesar Residents have easy access to leading educational institutions like DPS and St Xaviers as well as multi-specialty hospitals such as Medanta and Artemis Major retail centers and corporate offices are just a short drive away establishing Sector 85 as a fully self-sustained residential ecosystem This unparalleled connectivity underscores why a 2BHK property here is a solid lifestyle choice and investment decision"
     ],
-    "locations": []
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Why Investing in a 2BHK Flat For Sale in Sector 85 is Your Smartest Move Today",
@@ -42,30 +120,84 @@
       "We provide curated listings of the best 2BHK flats focusing on properties that offer exceptional value stability and quality construction Our expertise ensures you make an informed choice securing a dream home that also acts as a robust financial asset"
     ],
     "points": [
-      { "title": "Rapid Infrastructure Development", "description": "Sector 85 is witnessing massive government and private investment in roads utilities and commercial spaces This rapid development guarantees improved livability and strong capital appreciation for your 2BHK flat ensuring your investment grows steadily over time" },
-      { "title": "Proximity to Commercial Zones", "description": "The sector offers quick access to IMT Manesar and the major commercial hubs along NH-48 and SPR This makes it an ideal location for working professionals who seek reduced commute times and a better work-life balance when owning a 2BHK flat" },
-      { "title": "Vibrant Community Living", "description": "The residential complexes in Sector 85 foster vibrant engaging communities Residents benefit from shared cultural activities social clubs and networking opportunities creating a supportive and enriching environment for families" },
-      { "title": "Exceptional Developer Track Record", "description": "Many renowned and trusted real estate developers have projects featuring 2BHK flats in this sector We focus on showcasing properties from builders with proven records of on-time delivery and high construction standards ensuring transparency and trust in your purchase" },
-      { "title": "Future Growth Potential", "description": "As Gurugram continues to expand southward Sector 85 is positioned as a gateway to future commercial activity and residential density Securing your 2BHK flat now means locking in value before the next major surge in property prices occurs" },
-      { "title": "Ready-to-Move Availability", "description": "We offer a wide selection of ready-to-move 2BHK flats allowing immediate possession and eliminating the risks associated with construction delays This is perfect for buyers looking to settle quickly or start generating rental income immediately" },
-      { "title": "Superior Water and Power Backup", "description": "The premium societies in Sector 85 provide reliable 24x7 power backup and robust water supply infrastructure addressing common urban challenges This ensures uninterrupted comfort and convenience in your new 2BHK home" },
-      { "title": "Tailored Financial Assistance", "description": "Our team connects you with leading banking partners offering specialized home loan products tailored for 2BHK flat purchases in Sector 85 We simplify the financial process providing expert advice on documentation and competitive interest rates" }
+      {
+        "title": "Rapid Infrastructure Development",
+        "description": "Sector 85 is witnessing massive government and private investment in roads utilities and commercial spaces This rapid development guarantees improved livability and strong capital appreciation for your 2BHK flat ensuring your investment grows steadily over time"
+      },
+      {
+        "title": "Proximity to Commercial Zones",
+        "description": "The sector offers quick access to IMT Manesar and the major commercial hubs along NH-48 and SPR This makes it an ideal location for working professionals who seek reduced commute times and a better work-life balance when owning a 2BHK flat"
+      },
+      {
+        "title": "Vibrant Community Living",
+        "description": "The residential complexes in Sector 85 foster vibrant engaging communities Residents benefit from shared cultural activities social clubs and networking opportunities creating a supportive and enriching environment for families"
+      },
+      {
+        "title": "Exceptional Developer Track Record",
+        "description": "Many renowned and trusted real estate developers have projects featuring 2BHK flats in this sector We focus on showcasing properties from builders with proven records of on-time delivery and high construction standards ensuring transparency and trust in your purchase"
+      },
+      {
+        "title": "Future Growth Potential",
+        "description": "As Gurugram continues to expand southward Sector 85 is positioned as a gateway to future commercial activity and residential density Securing your 2BHK flat now means locking in value before the next major surge in property prices occurs"
+      },
+      {
+        "title": "Ready-to-Move Availability",
+        "description": "We offer a wide selection of ready-to-move 2BHK flats allowing immediate possession and eliminating the risks associated with construction delays This is perfect for buyers looking to settle quickly or start generating rental income immediately"
+      },
+      {
+        "title": "Superior Water and Power Backup",
+        "description": "The premium societies in Sector 85 provide reliable 24x7 power backup and robust water supply infrastructure addressing common urban challenges This ensures uninterrupted comfort and convenience in your new 2BHK home"
+      },
+      {
+        "title": "Tailored Financial Assistance",
+        "description": "Our team connects you with leading banking partners offering specialized home loan products tailored for 2BHK flat purchases in Sector 85 We simplify the financial process providing expert advice on documentation and competitive interest rates"
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Buying a 2BHK Flat in Sector 85 Gurugram",
     "description": "Get detailed answers to common queries regarding investment RERA approvals price trends and the unique benefits of purchasing a 2BHK apartment in this fast-growing Gurugram locality",
     "faqs": [
-      { "question": "What is the typical size range for a 2BHK flat for sale in Sector 85", "answer": "The typical carpet area for a premium 2BHK flat in Sector 85 Gurugram ranges generally between 1000 square feet and 1450 square feet depending on the project and the builders design philosophy This range ensures adequate space for two bedrooms a comfortable living and dining area and utility balconies Always verify the RERA-approved carpet area details before finalizing your purchase to ensure you get the spatial value promised" },
-      { "question": "Are 2BHK flats in Sector 85 RERA registered and compliant", "answer": "The majority of reputable residential projects offering 2BHK flats in Sector 85 Gurugram are mandatory RERA registered We strictly recommend dealing only with RERA-compliant properties This registration ensures that construction timelines financial transparency and carpet area details are legally binding providing maximum protection to the buyer You can verify the status of any project on the official Haryana RERA portal" },
-      { "question": "What is the expected capital appreciation for a 2BHK property here", "answer": "Sector 85 is a high-growth corridor primarily driven by its strategic location near the Dwarka Expressway and emerging commercial infrastructure Analysts project an annual capital appreciation rate of 7 to 10 percent over the next five years for well-maintained 2BHK flats However appreciation is always contingent upon broader market conditions and the completion of surrounding infrastructure projects" },
-      { "question": "How does the connectivity of Sector 85 benefit 2BHK owners", "answer": "Connectivity is a major benefit Sector 85 is situated near the major arterial roads NH-48 and SPR It offers swift access to industrial zones like Manesar and key IT hubs The Dwarka Expressway link is perhaps the biggest advantage ensuring rapid travel to Delhi and IGI Airport This strong road network significantly enhances the desirability and investment potential of your 2BHK flat" },
-      { "question": "What are the common maintenance charges for 2BHK societies in Sector 85", "answer": "Maintenance charges vary depending on the developer the level of luxury amenities offered and the age of the society Generally charges fall between INR 3000 and INR 5500 per month for a standard 2BHK unit This typically covers common area electricity security housekeeping elevator maintenance and clubhouse usage fees Always ask for a detailed breakdown of the maintenance cost structure before closing the deal" },
-      { "question": "Are bank loan options easily available for these properties", "answer": "Yes all major banks and housing finance companies offer robust home loan options for 2BHK flats in RERA-approved projects in Sector 85 Gurugram Given the sector’s established profile financing is straightforward We assist buyers in connecting with institutions offering competitive interest rates and favorable repayment terms simplifying the loan approval process considerably" },
-      { "question": "Is Sector 85 a good location for families with young children", "answer": "Absolutely Sector 85 and its immediate surroundings host several high-quality schools and healthcare facilities The residential societies here are designed with families in mind offering dedicated play areas secure environments and community engagement activities making it an excellent and safe location for raising children" },
-      { "question": "What are the hidden costs associated with buying a 2BHK flat in Sector 85", "answer": "Beyond the basic unit cost buyers should budget for stamp duty and registration charges which currently stand at approximately 7 to 8 percent of the property value Additionally charges for power backup internal club membership GST if applicable and one-time corpus fund payments should be factored in We provide a comprehensive cost sheet upfront to ensure total transparency" },
-      { "question": "Should I choose a ready-to-move or an under-construction 2BHK flat in this area", "answer": "If immediate possession and low risk are priorities a ready-to-move 2BHK flat for sale in Sector 85 is recommended Under-construction flats might offer a slightly lower price point but carry inherent risks related to delays and market fluctuations The choice depends entirely on your financial readiness and risk tolerance and we offer options in both categories" },
-      { "question": "Are there builder floors available or just high-rise apartments for 2BHK", "answer": "While Sector 85 is predominantly known for its premium high-rise and mid-rise apartment complexes offering 2BHK units some surrounding sectors and specific micro-localities do feature authorized builder floor options However the bulk of the modern housing inventory especially for high-end 2BHK flats is found within the integrated gated society projects" }
+      {
+        "question": "What is the typical size range for a 2BHK flat for sale in Sector 85",
+        "answer": "The typical carpet area for a premium 2BHK flat in Sector 85 Gurugram ranges generally between 1000 square feet and 1450 square feet depending on the project and the builders design philosophy This range ensures adequate space for two bedrooms a comfortable living and dining area and utility balconies Always verify the RERA-approved carpet area details before finalizing your purchase to ensure you get the spatial value promised"
+      },
+      {
+        "question": "Are 2BHK flats in Sector 85 RERA registered and compliant",
+        "answer": "The majority of reputable residential projects offering 2BHK flats in Sector 85 Gurugram are mandatory RERA registered We strictly recommend dealing only with RERA-compliant properties This registration ensures that construction timelines financial transparency and carpet area details are legally binding providing maximum protection to the buyer You can verify the status of any project on the official Haryana RERA portal"
+      },
+      {
+        "question": "What is the expected capital appreciation for a 2BHK property here",
+        "answer": "Sector 85 is a high-growth corridor primarily driven by its strategic location near the Dwarka Expressway and emerging commercial infrastructure Analysts project an annual capital appreciation rate of 7 to 10 percent over the next five years for well-maintained 2BHK flats However appreciation is always contingent upon broader market conditions and the completion of surrounding infrastructure projects"
+      },
+      {
+        "question": "How does the connectivity of Sector 85 benefit 2BHK owners",
+        "answer": "Connectivity is a major benefit Sector 85 is situated near the major arterial roads NH-48 and SPR It offers swift access to industrial zones like Manesar and key IT hubs The Dwarka Expressway link is perhaps the biggest advantage ensuring rapid travel to Delhi and IGI Airport This strong road network significantly enhances the desirability and investment potential of your 2BHK flat"
+      },
+      {
+        "question": "What are the common maintenance charges for 2BHK societies in Sector 85",
+        "answer": "Maintenance charges vary depending on the developer the level of luxury amenities offered and the age of the society Generally charges fall between INR 3000 and INR 5500 per month for a standard 2BHK unit This typically covers common area electricity security housekeeping elevator maintenance and clubhouse usage fees Always ask for a detailed breakdown of the maintenance cost structure before closing the deal"
+      },
+      {
+        "question": "Are bank loan options easily available for these properties",
+        "answer": "Yes all major banks and housing finance companies offer robust home loan options for 2BHK flats in RERA-approved projects in Sector 85 Gurugram Given the sector’s established profile financing is straightforward We assist buyers in connecting with institutions offering competitive interest rates and favorable repayment terms simplifying the loan approval process considerably"
+      },
+      {
+        "question": "Is Sector 85 a good location for families with young children",
+        "answer": "Absolutely Sector 85 and its immediate surroundings host several high-quality schools and healthcare facilities The residential societies here are designed with families in mind offering dedicated play areas secure environments and community engagement activities making it an excellent and safe location for raising children"
+      },
+      {
+        "question": "What are the hidden costs associated with buying a 2BHK flat in Sector 85",
+        "answer": "Beyond the basic unit cost buyers should budget for stamp duty and registration charges which currently stand at approximately 7 to 8 percent of the property value Additionally charges for power backup internal club membership GST if applicable and one-time corpus fund payments should be factored in We provide a comprehensive cost sheet upfront to ensure total transparency"
+      },
+      {
+        "question": "Should I choose a ready-to-move or an under-construction 2BHK flat in this area",
+        "answer": "If immediate possession and low risk are priorities a ready-to-move 2BHK flat for sale in Sector 85 is recommended Under-construction flats might offer a slightly lower price point but carry inherent risks related to delays and market fluctuations The choice depends entirely on your financial readiness and risk tolerance and we offer options in both categories"
+      },
+      {
+        "question": "Are there builder floors available or just high-rise apartments for 2BHK",
+        "answer": "While Sector 85 is predominantly known for its premium high-rise and mid-rise apartment complexes offering 2BHK units some surrounding sectors and specific micro-localities do feature authorized builder floor options However the bulk of the modern housing inventory especially for high-end 2BHK flats is found within the integrated gated society projects"
+      }
     ]
   },
   "contactSection": {
@@ -74,6 +206,11 @@
       "Ready to secure your perfect 2BHK flat for sale in Sector 85 Gurugram Contact our specialized property advisors today We offer personalized guidance updated market insights and exclusive listings tailored to your specific requirements.",
       "Let us handle the complexities of negotiation site visits and documentation ensuring a seamless and satisfactory purchase experience Fill out the form below or call us directly to take the next step towards homeownership"
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

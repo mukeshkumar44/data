@@ -1,4 +1,3 @@
-
 {
   "domain": "balanaproperties.com",
   "hero": {
@@ -8,10 +7,19 @@
       "Our listings feature flexible lease terms, competitive pricing, and fully-equipped spaces ready for your business needs. Find your perfect commercial space today."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/shops-for-rent" },
-      { "label": "Contact Agent", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/shops-for-rent"
+      },
+      {
+        "label": "Contact Agent",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Prime Commercial Spaces for Rent in Balana",
@@ -20,12 +28,30 @@
       "Each space is strategically located to maximize visibility and customer reach, ensuring your business thrives in Balana's growing market."
     ],
     "features": [
-      { "title": "100 Sq Ft Shop", "description": "Compact and affordable, perfect for small retail or service businesses." },
-      { "title": "200 Sq Ft Shop", "description": "Spacious enough for boutiques, small cafes, or specialty stores." },
-      { "title": "300 Sq Ft Shop", "description": "Ideal for medium-sized retail outlets or fast-food joints." },
-      { "title": "500 Sq Ft Shop", "description": "Large space suitable for supermarkets, showrooms, or restaurants." },
-      { "title": "Corner Shop", "description": "High-visibility location with excellent foot traffic for maximum exposure." },
-      { "title": "Market-Facing Shop", "description": "Direct access to bustling market areas for increased customer flow." }
+      {
+        "title": "100 Sq Ft Shop",
+        "description": "Compact and affordable, perfect for small retail or service businesses."
+      },
+      {
+        "title": "200 Sq Ft Shop",
+        "description": "Spacious enough for boutiques, small cafes, or specialty stores."
+      },
+      {
+        "title": "300 Sq Ft Shop",
+        "description": "Ideal for medium-sized retail outlets or fast-food joints."
+      },
+      {
+        "title": "500 Sq Ft Shop",
+        "description": "Large space suitable for supermarkets, showrooms, or restaurants."
+      },
+      {
+        "title": "Corner Shop",
+        "description": "High-visibility location with excellent foot traffic for maximum exposure."
+      },
+      {
+        "title": "Market-Facing Shop",
+        "description": "Direct access to bustling market areas for increased customer flow."
+      }
     ]
   },
   "locationsSection": {
@@ -35,12 +61,56 @@
       "Whether you're targeting local shoppers or visitors, these areas provide the perfect backdrop for your business success."
     ],
     "locations": [
-      "Balana Main Market",
-      "Balana Bypass Road",
-      "Near Balana Bus Stand",
-      "Balana Railway Station Road",
-      "Balana Industrial Area",
-      "Balana Residential Colony Market"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -50,29 +120,80 @@
       "With its growing population and strategic location, Balana is quickly becoming a hotspot for entrepreneurs and investors alike."
     ],
     "points": [
-      { "title": "High Foot Traffic", "description": "Balana's commercial areas attract a large number of daily visitors, ensuring consistent customer flow for your business." },
-      { "title": "Affordable Rentals", "description": "Compared to neighboring cities, Balana offers competitive rental rates without compromising on location quality." },
-      { "title": "Growing Economy", "description": "The local economy is expanding rapidly, creating new opportunities for businesses to thrive." },
-      { "title": "Strategic Location", "description": "Easy access to major transportation routes makes Balana convenient for both customers and suppliers." },
-      { "title": "Diverse Customer Base", "description": "Serve both local residents and visitors from surrounding areas." },
-      { "title": "Flexible Lease Terms", "description": "Customizable rental agreements to suit your business needs and budget." },
-      { "title": "Modern Infrastructure", "description": "Well-maintained commercial spaces with proper utilities and amenities." },
-      { "title": "Supportive Business Community", "description": "Join a network of successful entrepreneurs in Balana's vibrant commercial sector." }
+      {
+        "title": "High Foot Traffic",
+        "description": "Balana's commercial areas attract a large number of daily visitors, ensuring consistent customer flow for your business."
+      },
+      {
+        "title": "Affordable Rentals",
+        "description": "Compared to neighboring cities, Balana offers competitive rental rates without compromising on location quality."
+      },
+      {
+        "title": "Growing Economy",
+        "description": "The local economy is expanding rapidly, creating new opportunities for businesses to thrive."
+      },
+      {
+        "title": "Strategic Location",
+        "description": "Easy access to major transportation routes makes Balana convenient for both customers and suppliers."
+      },
+      {
+        "title": "Diverse Customer Base",
+        "description": "Serve both local residents and visitors from surrounding areas."
+      },
+      {
+        "title": "Flexible Lease Terms",
+        "description": "Customizable rental agreements to suit your business needs and budget."
+      },
+      {
+        "title": "Modern Infrastructure",
+        "description": "Well-maintained commercial spaces with proper utilities and amenities."
+      },
+      {
+        "title": "Supportive Business Community",
+        "description": "Join a network of successful entrepreneurs in Balana's vibrant commercial sector."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Renting Shops in Balana",
     "description": "Find answers to common queries about commercial property rentals in Balana.",
     "faqs": [
-      { "question": "What is the average rent for a shop in Balana", "answer": "Shop rents in Balana vary based on size and location, typically ranging from Rs 5,000 to Rs 25,000 per month for standard commercial spaces." },
-      { "question": "Are there any hidden charges when renting a shop in Balana", "answer": "Our listings include all transparent charges. You'll only pay the agreed rent plus a refundable security deposit, usually equivalent to one month's rent." },
-      { "question": "Can I modify the shop interior to suit my business needs", "answer": "Most landlords allow reasonable modifications with prior approval. We recommend discussing your specific requirements before signing the lease agreement." },
-      { "question": "How long are typical lease agreements for shops in Balana", "answer": "Standard leases run for 11 months, with options to renew. Longer terms of 2-3 years may be available for established businesses." },
-      { "question": "What types of businesses are most successful in Balana", "answer": "Retail stores, eateries, grocery shops, and service providers like salons and repair shops perform particularly well in Balana's commercial areas." },
-      { "question": "Is parking available for customers at commercial properties in Balana", "answer": "Many shops come with street parking or dedicated parking spaces. We can help you find properties with adequate parking based on your business needs." },
-      { "question": "How quickly can I move into a rented shop in Balana", "answer": "Vacant shops are typically ready for immediate occupancy. The complete process from selection to moving in usually takes 3-7 days." },
-      { "question": "What documents are required to rent a shop in Balana", "answer": "You'll need identity proof, address proof, and business registration documents if applicable. We guide you through the entire documentation process." },
-      { "question": "Are there any restrictions on business hours for shops in Balana", "answer": "Most commercial areas allow flexible operating hours, though some residential-commercial mixed zones may have evening restrictions. We'll clarify this for each property." }
+      {
+        "question": "What is the average rent for a shop in Balana",
+        "answer": "Shop rents in Balana vary based on size and location, typically ranging from Rs 5,000 to Rs 25,000 per month for standard commercial spaces."
+      },
+      {
+        "question": "Are there any hidden charges when renting a shop in Balana",
+        "answer": "Our listings include all transparent charges. You'll only pay the agreed rent plus a refundable security deposit, usually equivalent to one month's rent."
+      },
+      {
+        "question": "Can I modify the shop interior to suit my business needs",
+        "answer": "Most landlords allow reasonable modifications with prior approval. We recommend discussing your specific requirements before signing the lease agreement."
+      },
+      {
+        "question": "How long are typical lease agreements for shops in Balana",
+        "answer": "Standard leases run for 11 months, with options to renew. Longer terms of 2-3 years may be available for established businesses."
+      },
+      {
+        "question": "What types of businesses are most successful in Balana",
+        "answer": "Retail stores, eateries, grocery shops, and service providers like salons and repair shops perform particularly well in Balana's commercial areas."
+      },
+      {
+        "question": "Is parking available for customers at commercial properties in Balana",
+        "answer": "Many shops come with street parking or dedicated parking spaces. We can help you find properties with adequate parking based on your business needs."
+      },
+      {
+        "question": "How quickly can I move into a rented shop in Balana",
+        "answer": "Vacant shops are typically ready for immediate occupancy. The complete process from selection to moving in usually takes 3-7 days."
+      },
+      {
+        "question": "What documents are required to rent a shop in Balana",
+        "answer": "You'll need identity proof, address proof, and business registration documents if applicable. We guide you through the entire documentation process."
+      },
+      {
+        "question": "Are there any restrictions on business hours for shops in Balana",
+        "answer": "Most commercial areas allow flexible operating hours, though some residential-commercial mixed zones may have evening restrictions. We'll clarify this for each property."
+      }
     ]
   },
   "contactSection": {
@@ -81,6 +202,11 @@
       "Ready to establish your business in Balana? Our expert agents will help you find the perfect commercial space tailored to your requirements.",
       "Contact us now to schedule a viewing or get more information about available properties."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

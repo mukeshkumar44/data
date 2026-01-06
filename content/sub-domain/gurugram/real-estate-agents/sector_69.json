@@ -7,10 +7,19 @@
       "We understand that the real estate landscape in Sector 69 is dynamic and requires agents who are not only skilled negotiators but also deeply familiar with local RERA regulations and pricing trends. Let us simplify your journey. Our featured agents specialize in delivering personalized service tailored to your specific buying, selling, or leasing needs, ensuring maximum value and complete peace of mind throughout the entire process."
     ],
     "buttons": [
-      { "label": "Find Your Expert Agent Today", "path": "/contact" },
-      { "label": "Explore Available Properties", "path": "/listings" }
+      {
+        "label": "Find Your Expert Agent Today",
+        "path": "/contact"
+      },
+      {
+        "label": "Explore Available Properties",
+        "path": "/listings"
+      }
     ],
-    "images": ["hero_sector69_agents.jpg", "map_sector69_gurugram.png"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "The Diverse Range of Property Types Our Real Estate Agents in Sector 69 Handle",
@@ -52,14 +61,56 @@
       "Our agents cover every corner of Sector 69, providing targeted expertise whether you are interested in a ready-to-move apartment or an upcoming project. We help you navigate the nuances of each society to find the perfect fit for your lifestyle and investment goals."
     ],
     "locations": [
-      "Tulip Violet Sector 69",
-      "Spaze Privy AT4 Sector 69",
-      "Pareena Coban Residences",
-      "Chintel Paradiso Sector 69",
-      "AIPL Joy Street",
-      "Green View Apartments",
-      "Specific Builder Floors Sector 69",
-      "Commercial Hubs near Southern Peripheral Road SPR"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to navigate the Sector 69 property market with confidence. Use the form below to connect directly with our highly-rated property experts.",
       "Get tailored advice and start your journey toward a successful sale or purchase in this prime Gurugram location."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

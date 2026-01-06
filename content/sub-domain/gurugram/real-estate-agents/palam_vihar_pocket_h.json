@@ -7,10 +7,19 @@
       "As a highly sought-after residential area, Palam Vihar Pocket H offers excellent connectivity and established infrastructure. We provide personalized guidance through every stage of the transaction, from initial property viewing and price negotiation to the final legal closing. Trust the leading Real Estate Agents in Palam Vihar Pocket H to handle your property needs with transparency, professionalism, and unmatched dedication. We are committed to turning your property goals into reality in this vibrant part of Gurugram."
     ],
     "buttons": [
-      { "label": "Find Your Dream Property Now", "path": "/properties-for-sale" },
-      { "label": "Consult Our Local Experts", "path": "/contact-us" }
+      {
+        "label": "Find Your Dream Property Now",
+        "path": "/properties-for-sale"
+      },
+      {
+        "label": "Consult Our Local Experts",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["hero-image-palam-vihar.jpg", "agent-consultation.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Residential Plot Sizes and Investment Opportunities Managed by Real Estate Agents in Palam Vihar Pocket H",
@@ -52,14 +61,56 @@
       "We help you compare property values, infrastructure quality, and future growth potential across the Palam Vihar extension and adjacent sectors, ensuring you make a well-rounded decision based on your financial goals and lifestyle requirements. Consult our Real Estate Agents in Palam Vihar Pocket H for a comparative analysis of the best residential locales in the region."
     ],
     "locations": [
-      "Palam Vihar Extension",
-      "Sector 1 Gurugram",
-      "Sector 23 Gurugram",
-      "Sector 22 Gurugram",
-      "Dharampur Palam Vihar",
-      "Rezang La Chowk Area",
-      "Mianwali Colony",
-      "Bijwasan New Delhi (Proximity)"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step in your property journey in Palam Vihar Pocket H Gurugram? Whether you are looking to invest in a prime plot, sell your existing home, or need specialized market advice, our professional agents are here to assist.",
       "Fill out the form below or call us directly. We guarantee a prompt, personalized, and confidential response tailored to your specific real estate needs."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

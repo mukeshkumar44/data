@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Apartment Configurations and Investment Options in mg road",
@@ -58,14 +61,56 @@
       "This area serves as a central hub, connecting multiple affluent residential sectors. Proximity to rapid metro stations ensures exceptional public transport connectivity, a critical factor for daily commuters. Furthermore, the presence of world-class hospitals and diverse dining options ensures a truly convenient and enriched urban existence. Whether you seek immediate connectivity or quiet residential pockets just off the main arterial road, the mg road corridor offers specialized choices for every homeowner."
     ],
     "locations": [
-      "Major Corporate Business Hubs",
-      "Rapid Metro Station Access Points",
-      "Luxury Shopping Malls and Retail Streets",
-      "Top-Tier International Schools",
-      "Multi-Specialty Healthcare Facilities",
-      "High-End Residential Societies",
-      "Green Parks and Recreational Zones",
-      "Fine Dining Restaurants and Cafes"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,12 +7,18 @@
       "Investing here means securing a future in a well-established locality known for its green spaces and proximity to major commercial hubs like Sector 18 and the DND Flyway. Explore a range of options from compact 1 BHK units perfect for professionals to expansive 4 BHK luxury residences. We provide transparent, verified listings ensuring a seamless property buying journey. Start your search for an ideal flat in Sector 41 Noida today and elevate your living standards instantly."
     ],
     "buttons": [
-      { "label": "Explore Verified Listings", "path": "/listings" },
-      { "label": "Request a Callback Now", "path": "/contact" }
+      {
+        "label": "Explore Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Callback Now",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "flat-exterior-sector-41.jpg",
-      "flat-interior-noida.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "When you choose a Flat For Sale in Sector 41, you are investing in unmatched infrastructural convenience. Key destinations like the Noida Sector 18 market, Metro Stations, top-tier hospitals, and renowned educational institutions are all just a short drive away. This excellent connectivity guarantees that Sector 41 remains a highly liquid and desirable real estate market for years to come."
     ],
     "locations": [
-      "Sector 18 Market",
-      "City Centre Metro Station",
-      "DND Flyway Access",
-      "Fortis Hospital Noida",
-      "Atta Market",
-      "The Great India Place Mall",
-      "Wave City Center",
-      "Schools and Universities proximity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to find the perfect Flat For Sale in Sector 41 Noida? Our team of seasoned real estate professionals possesses deep market knowledge and verified listings to guide your search.",
       "Submit your requirements below and we will contact you immediately with personalized property suggestions and exclusive viewing appointments tailored to your needs and preferences."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

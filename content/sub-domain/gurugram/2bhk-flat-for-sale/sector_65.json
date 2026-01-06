@@ -7,10 +7,19 @@
       "Sector 65 has rapidly emerged as one of the most desirable addresses in Gurugram known for its robust infrastructure and proximity to major corporate hubs and premium retail destinations. Finding your ideal 2BHK apartment here means investing in a lifestyle defined by modern amenities unmatched connectivity and peace of mind. Let us guide you through the best available ready-to-move and under-construction options tailored perfectly to your budget and needs."
     ],
     "buttons": [
-      { "label": "Explore All 2BHK Listings", "path": "/listings" },
-      { "label": "Request a Free Site Visit", "path": "/contact" }
+      {
+        "label": "Explore All 2BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Free Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Features Defining the Best 2BHK Flat Options in Sector 65 Gurugram",
@@ -52,12 +61,56 @@
       "The area is well-supported by robust social infrastructure including world-class schools leading hospitals and premium retail malls like M3M Cosmopolitan and Omaxe Celebration Mall all within a short driving distance. This ensures that every daily need and lifestyle requirement is easily met providing complete convenience to the residents of Sector 65."
     ],
     "locations": [
-      "Golf Course Extension Road Access",
-      "Proximity to Southern Peripheral Road SPR",
-      "Easy Drive to NH-48 Delhi-Jaipur Expressway",
-      "Nearby Rapid Metro Stations for quick transit",
-      "Close to Major IT/ITeS Business Parks",
-      "Direct Connectivity to Cyber City and DLF Phase 5"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to find the perfect 2BHK Flat For Sale in Sector 65 Gurugram We offer expert advice market insights and personalized property tours tailored to your specific needs. Contact us now to receive detailed floor plans pricing and virtual site visits.",
       "Fill out the form below and our dedicated Sector 65 property specialist will reach out within the hour to assist you in securing your ideal residential investment."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

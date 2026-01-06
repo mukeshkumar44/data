@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Range of Residential Flat For Rent Configurations in Parshuram Nagar Ambala",
@@ -58,14 +61,56 @@
       "Focus your apartment search efficiently by exploring verified properties located near major commercial centers and vital local landmarks. Our dedicated listings include detailed local area scores that reflect critical accessibility metrics to top-rated schools, specialty hospitals, large supermarkets, and vibrant entertainment zones nearby. Finding the ideal Flat For Rent in Parshuram Nagar Ambala that successfully balances supreme convenience, safety, and residential tranquility has never been simpler or more effective using our hyper-localized search and mapping tools."
     ],
     "locations": [
-      "Residential Blocks Near Bus Stand Road",
-      "Apartments Close to Ambala-Jagadhri Highway Access",
-      "Shakti Nagar Extension Premium Rentals",
-      "Model Town Adjacent Area Housing",
-      "Parshuram Nagar Main Market Residential Pockets",
-      "Flats Near Sainik Vihar Development",
-      "Easy Commute to Ambala Cantt",
-      "Near Major Banking and Commercial Zones"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

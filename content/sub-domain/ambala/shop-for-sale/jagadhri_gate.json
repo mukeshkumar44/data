@@ -1,4 +1,3 @@
-```json
 {
   "domain": "realestatejagadhri.com",
   "hero": {
@@ -8,10 +7,19 @@
       "Whether you're looking to start a retail store, boutique, or any other commercial venture, our properties provide the perfect foundation for success. Secure your spot in this thriving market today."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/shops" },
-      { "label": "Contact Agent", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/shops"
+      },
+      {
+        "label": "Contact Agent",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Shop Sizes and Features in Jagadhri Gate Ambala",
@@ -20,12 +28,30 @@
       "From compact units ideal for boutiques to larger spaces for retail stores, we have options for every entrepreneur. Explore the features below to find the perfect fit for your business."
     ],
     "features": [
-      { "title": "100 Sq Ft Shop", "description": "Ideal for small retail outlets or service-based businesses, this compact shop offers affordability and prime location benefits." },
-      { "title": "200 Sq Ft Shop", "description": "A versatile space suitable for fashion boutiques, electronics stores, or small cafes with ample room for displays." },
-      { "title": "300 Sq Ft Shop", "description": "Perfect for medium-sized retail stores or offices, providing enough space for inventory and customer movement." },
-      { "title": "400 Sq Ft Shop", "description": "Spacious enough for larger retail setups or multi-purpose commercial use, with high visibility and accessibility." },
-      { "title": "500 Sq Ft Shop", "description": "A premium option for established businesses needing extra space for storage, staff, and customer seating areas." },
-      { "title": "600 Sq Ft Shop", "description": "The largest available option, ideal for supermarkets, showrooms, or restaurants with high foot traffic potential." }
+      {
+        "title": "100 Sq Ft Shop",
+        "description": "Ideal for small retail outlets or service-based businesses, this compact shop offers affordability and prime location benefits."
+      },
+      {
+        "title": "200 Sq Ft Shop",
+        "description": "A versatile space suitable for fashion boutiques, electronics stores, or small cafes with ample room for displays."
+      },
+      {
+        "title": "300 Sq Ft Shop",
+        "description": "Perfect for medium-sized retail stores or offices, providing enough space for inventory and customer movement."
+      },
+      {
+        "title": "400 Sq Ft Shop",
+        "description": "Spacious enough for larger retail setups or multi-purpose commercial use, with high visibility and accessibility."
+      },
+      {
+        "title": "500 Sq Ft Shop",
+        "description": "A premium option for established businesses needing extra space for storage, staff, and customer seating areas."
+      },
+      {
+        "title": "600 Sq Ft Shop",
+        "description": "The largest available option, ideal for supermarkets, showrooms, or restaurants with high foot traffic potential."
+      }
     ]
   },
   "locationsSection": {
@@ -35,16 +61,56 @@
       "Each of these locations offers unique advantages, from high footfall to easy accessibility, enhancing the value of your shop in Jagadhri Gate."
     ],
     "locations": [
-      "Ambala Cantt Market",
-      "Railway Road Ambala",
-      "Sector 7 Ambala",
-      "Sector 8 Ambala",
-      "Sector 9 Ambala",
-      "Sector 10 Ambala",
-      "Sector 12 Ambala",
-      "Sector 14 Ambala",
-      "Patel Nagar Ambala",
-      "Model Town Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -54,30 +120,84 @@
       "From strategic location to high customer traffic, here are the top reasons why buying a shop here is a smart decision."
     ],
     "points": [
-      { "title": "Prime Location", "description": "Jagadhri Gate is a central hub with easy access to major roads, residential areas, and markets, ensuring high visibility for your business." },
-      { "title": "High Footfall", "description": "The area attracts a large number of daily visitors, providing a steady stream of potential customers for your shop." },
-      { "title": "Diverse Business Opportunities", "description": "From retail to services, the location supports a wide range of commercial activities, allowing you to tap into various markets." },
-      { "title": "Excellent Connectivity", "description": "Well-connected to Ambala Cantt, Railway Road, and other key areas, making it convenient for customers and suppliers." },
-      { "title": "Growing Real Estate Value", "description": "Property values in Jagadhri Gate are on the rise, ensuring a profitable return on your investment in the long run." },
-      { "title": "Modern Infrastructure", "description": "The area boasts well-maintained roads, reliable utilities, and other amenities essential for running a successful business." },
-      { "title": "Safe and Secure", "description": "With a low crime rate and active community, Jagadhri Gate provides a safe environment for both business owners and customers." },
-      { "title": "Supportive Local Policies", "description": "The local administration encourages commercial growth, offering a business-friendly environment with minimal bureaucratic hurdles." }
+      {
+        "title": "Prime Location",
+        "description": "Jagadhri Gate is a central hub with easy access to major roads, residential areas, and markets, ensuring high visibility for your business."
+      },
+      {
+        "title": "High Footfall",
+        "description": "The area attracts a large number of daily visitors, providing a steady stream of potential customers for your shop."
+      },
+      {
+        "title": "Diverse Business Opportunities",
+        "description": "From retail to services, the location supports a wide range of commercial activities, allowing you to tap into various markets."
+      },
+      {
+        "title": "Excellent Connectivity",
+        "description": "Well-connected to Ambala Cantt, Railway Road, and other key areas, making it convenient for customers and suppliers."
+      },
+      {
+        "title": "Growing Real Estate Value",
+        "description": "Property values in Jagadhri Gate are on the rise, ensuring a profitable return on your investment in the long run."
+      },
+      {
+        "title": "Modern Infrastructure",
+        "description": "The area boasts well-maintained roads, reliable utilities, and other amenities essential for running a successful business."
+      },
+      {
+        "title": "Safe and Secure",
+        "description": "With a low crime rate and active community, Jagadhri Gate provides a safe environment for both business owners and customers."
+      },
+      {
+        "title": "Supportive Local Policies",
+        "description": "The local administration encourages commercial growth, offering a business-friendly environment with minimal bureaucratic hurdles."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shops in Jagadhri Gate",
     "description": "Get answers to common queries about buying and owning a shop in Jagadhri Gate Ambala. Our experts have compiled detailed responses to help you make an informed decision.",
     "faqs": [
-      { "question": "What is the average price of a shop in Jagadhri Gate Ambala", "answer": "Shop prices vary based on size, location, and amenities. On average, prices range from INR 20 lakhs to INR 1 crore. Contact us for specific pricing based on your requirements." },
-      { "question": "Are there any legal checks I should perform before buying a shop", "answer": "Yes, always verify the property title, ownership documents, and ensure there are no pending legal disputes. Our team assists with all necessary due diligence to safeguard your investment." },
-      { "question": "What types of businesses thrive in Jagadhri Gate", "answer": "Retail stores, clothing boutiques, electronics shops, pharmacies, and eateries perform exceptionally well due to high foot traffic and diverse customer base." },
-      { "question": "Is financing available for shop purchases in this area", "answer": "Yes, most national and private banks offer commercial loans for property purchases in Jagadhri Gate. We can connect you with preferred financial partners for competitive rates." },
-      { "question": "How is the parking situation for shops in Jagadhri Gate", "answer": "Many shops come with dedicated parking spaces, while others have access to nearby public parking facilities. We can show you properties based on your parking requirements." },
-      { "question": "What are the peak business hours in Jagadhri Gate", "answer": "The area remains busy throughout the day, with peak hours typically from 11 AM to 8 PM. Evening hours see particularly high footfall from shoppers and diners." },
-      { "question": "Are there any restrictions on business types in this area", "answer": "Most retail and service businesses are permitted, but certain industries may require additional licenses. We advise checking specific zoning regulations for your intended business type." },
-      { "question": "How quickly can I expect rental returns if I invest here", "answer": "Depending on the shop's location and size, you can typically secure tenants within 1-3 months, with average rental yields ranging from 6-8% annually." },
-      { "question": "What maintenance charges should I expect for a shop in Jagadhri Gate", "answer": "Maintenance costs vary by property but generally include common area upkeep, security, and utilities. These typically range from INR 5-15 per sq ft monthly in commercial complexes." },
-      { "question": "Can I visit available shops before making a decision", "answer": "Absolutely. We encourage all potential buyers to personally inspect properties. Our agents will arrange viewings at your convenience to help you find the perfect shop." }
+      {
+        "question": "What is the average price of a shop in Jagadhri Gate Ambala",
+        "answer": "Shop prices vary based on size, location, and amenities. On average, prices range from INR 20 lakhs to INR 1 crore. Contact us for specific pricing based on your requirements."
+      },
+      {
+        "question": "Are there any legal checks I should perform before buying a shop",
+        "answer": "Yes, always verify the property title, ownership documents, and ensure there are no pending legal disputes. Our team assists with all necessary due diligence to safeguard your investment."
+      },
+      {
+        "question": "What types of businesses thrive in Jagadhri Gate",
+        "answer": "Retail stores, clothing boutiques, electronics shops, pharmacies, and eateries perform exceptionally well due to high foot traffic and diverse customer base."
+      },
+      {
+        "question": "Is financing available for shop purchases in this area",
+        "answer": "Yes, most national and private banks offer commercial loans for property purchases in Jagadhri Gate. We can connect you with preferred financial partners for competitive rates."
+      },
+      {
+        "question": "How is the parking situation for shops in Jagadhri Gate",
+        "answer": "Many shops come with dedicated parking spaces, while others have access to nearby public parking facilities. We can show you properties based on your parking requirements."
+      },
+      {
+        "question": "What are the peak business hours in Jagadhri Gate",
+        "answer": "The area remains busy throughout the day, with peak hours typically from 11 AM to 8 PM. Evening hours see particularly high footfall from shoppers and diners."
+      },
+      {
+        "question": "Are there any restrictions on business types in this area",
+        "answer": "Most retail and service businesses are permitted, but certain industries may require additional licenses. We advise checking specific zoning regulations for your intended business type."
+      },
+      {
+        "question": "How quickly can I expect rental returns if I invest here",
+        "answer": "Depending on the shop's location and size, you can typically secure tenants within 1-3 months, with average rental yields ranging from 6-8% annually."
+      },
+      {
+        "question": "What maintenance charges should I expect for a shop in Jagadhri Gate",
+        "answer": "Maintenance costs vary by property but generally include common area upkeep, security, and utilities. These typically range from INR 5-15 per sq ft monthly in commercial complexes."
+      },
+      {
+        "question": "Can I visit available shops before making a decision",
+        "answer": "Absolutely. We encourage all potential buyers to personally inspect properties. Our agents will arrange viewings at your convenience to help you find the perfect shop."
+      }
     ]
   },
   "contactSection": {
@@ -86,7 +206,11 @@
       "Ready to find your ideal commercial space in Jagadhri Gate Ambala Our expert team is here to assist you every step of the way.",
       "Fill out the form below and we'll contact you with personalized property options that match your business needs and budget."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }
-```

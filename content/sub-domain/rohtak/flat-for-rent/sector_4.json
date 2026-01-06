@@ -7,10 +7,19 @@
       "Every listing is verified for genuine ownership and maintenance quality, ensuring you step into a safe and comfortable living environment. Sector 4 is known for its peaceful surroundings and excellent infrastructure, making it a highly sought-after destination for renters looking for convenience without compromising on community living. Start your search now and discover the perfect place to call home amidst the best rental listings in Sector 4 Rohtak. Our expert team is ready to assist you in navigating the rental market to find a flat that meets all your needs and budget expectations promptly."
     ],
     "buttons": [
-      { "label": "Browse 1 BHK Flats", "path": "/1bhk-rentals" },
-      { "label": "Schedule a Viewing", "path": "/contact-us" }
+      {
+        "label": "Browse 1 BHK Flats",
+        "path": "/1bhk-rentals"
+      },
+      {
+        "label": "Schedule a Viewing",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["/img/hero-flat-sector4-1.webp", "/img/hero-flat-sector4-2.webp"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Flat Sizes and Layouts Available for Rent in Sector 4 Rohtak",
@@ -19,12 +28,30 @@
       "Our focus is on offering rental properties that are not just structurally sound but also located near key amenities like public transport hubs, parks, and grocery stores. Understanding the diverse needs of our clients in Rohtak, we ensure every listed flat provides value and promotes a high quality of life. Review the common flat configurations available and their typical advantages within Sector 4’s prime locations."
     ],
     "features": [
-      { "title": "4 Marla Plot", "description": "This configuration often translates to efficient studio apartments or compact one-room kitchen units popular among students and single professionals. Flats For Rent in this category maximize utility in a smaller footprint, offering modern amenities like attached washrooms and basic kitchen setup at highly competitive rental rates perfect for budget-conscious living near educational centers in Sector 4 Rohtak." },
-      { "title": "6 Marla Plot", "description": "Representing standard 1 BHK or efficient 2 BHK layouts, properties based on this size are ideal for young couples or nuclear families starting out. These flats typically feature a dedicated living area, one or two bedrooms, and sufficient storage space. Renting a 6 Marla flat in Sector 4 provides excellent balance between spaciousness and affordability, placing you close to local markets and transit routes." },
-      { "title": "8 Marla Plot", "description": "These rental options usually encompass comfortable 2 BHK flats with ample ventilation and larger room dimensions. An 8 Marla sized property is often found in established residential complexes and provides dedicated parking space and access to common area facilities. Families seeking a little extra space for children or a home office will find these Flats For Rent in Sector 4 Rohtak highly suitable and functional." },
-      { "title": "10 Marla Plot", "description": "Step up to premium living with rental flats corresponding to this size, often featuring spacious 3 BHK layouts or large 2 BHK independent floors. Tenants benefit from superior build quality, possibly semi-furnished interiors, and enhanced privacy. These flats are typically situated in quieter, more upscale pockets of Sector 4, offering a prestigious address and proximity to top civic amenities." },
-      { "title": "12 Marla Plot", "description": "Ideal for larger families or those who prioritize expansive living spaces. 12 Marla units often signify luxury 3 BHK apartments or large independent builder floors with dedicated terrace access or servant quarters provisions. These rental properties in Sector 4 Rohtak offer sophisticated community living combined with robust security features and excellent property management." },
-      { "title": "14 Marla Plot", "description": "The largest rental properties available, often reserved for high-end independent houses or very spacious 3 BHK and 4 BHK penthouse-style flats. Choosing a 14 Marla sized flat means securing a premium lifestyle characterized by high ceilings, multiple balconies, and perhaps independent access. These properties are perfect for senior executives or large families demanding the best rental living experience in Sector 4." }
+      {
+        "title": "4 Marla Plot",
+        "description": "This configuration often translates to efficient studio apartments or compact one-room kitchen units popular among students and single professionals. Flats For Rent in this category maximize utility in a smaller footprint, offering modern amenities like attached washrooms and basic kitchen setup at highly competitive rental rates perfect for budget-conscious living near educational centers in Sector 4 Rohtak."
+      },
+      {
+        "title": "6 Marla Plot",
+        "description": "Representing standard 1 BHK or efficient 2 BHK layouts, properties based on this size are ideal for young couples or nuclear families starting out. These flats typically feature a dedicated living area, one or two bedrooms, and sufficient storage space. Renting a 6 Marla flat in Sector 4 provides excellent balance between spaciousness and affordability, placing you close to local markets and transit routes."
+      },
+      {
+        "title": "8 Marla Plot",
+        "description": "These rental options usually encompass comfortable 2 BHK flats with ample ventilation and larger room dimensions. An 8 Marla sized property is often found in established residential complexes and provides dedicated parking space and access to common area facilities. Families seeking a little extra space for children or a home office will find these Flats For Rent in Sector 4 Rohtak highly suitable and functional."
+      },
+      {
+        "title": "10 Marla Plot",
+        "description": "Step up to premium living with rental flats corresponding to this size, often featuring spacious 3 BHK layouts or large 2 BHK independent floors. Tenants benefit from superior build quality, possibly semi-furnished interiors, and enhanced privacy. These flats are typically situated in quieter, more upscale pockets of Sector 4, offering a prestigious address and proximity to top civic amenities."
+      },
+      {
+        "title": "12 Marla Plot",
+        "description": "Ideal for larger families or those who prioritize expansive living spaces. 12 Marla units often signify luxury 3 BHK apartments or large independent builder floors with dedicated terrace access or servant quarters provisions. These rental properties in Sector 4 Rohtak offer sophisticated community living combined with robust security features and excellent property management."
+      },
+      {
+        "title": "14 Marla Plot",
+        "description": "The largest rental properties available, often reserved for high-end independent houses or very spacious 3 BHK and 4 BHK penthouse-style flats. Choosing a 14 Marla sized flat means securing a premium lifestyle characterized by high ceilings, multiple balconies, and perhaps independent access. These properties are perfect for senior executives or large families demanding the best rental living experience in Sector 4."
+      }
     ]
   },
   "locationsSection": {
@@ -34,14 +61,56 @@
       "Our listings include properties located near the border of neighboring sectors and those deep within Sector 4’s established residential lanes. Proximity to major roads ensures connectivity, while internal locations offer quiet, residential charm. We help you choose a flat that not only fits your budget and size requirements but also your commuting preferences and lifestyle needs within the wider Rohtak area."
     ],
     "locations": [
-      "Sector 3 Residential Area",
-      "Sector 5 HUDA Colony",
-      "Civil Lines Rohtak",
-      "Model Town Extension",
-      "Rajiv Gandhi Sports Complex",
-      "Delhi Bypass Road Connectivity",
-      "HUDA Complex Sector 4",
-      "Medical College Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -137,6 +206,11 @@
       "Ready to move into your perfect rental home in Sector 4 Rohtak Our expert rental team is on hand to provide personalized consultations, schedule property viewings, and help you finalize your lease agreement seamlessly.",
       "Submit your details below and one of our dedicated property specialists will contact you shortly to understand your exact requirements and present you with the best available Flats For Rent that match your needs and budget."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

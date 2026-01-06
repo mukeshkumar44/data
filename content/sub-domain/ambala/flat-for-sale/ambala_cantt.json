@@ -7,10 +7,19 @@
       "Explore the current market trends and the best new construction projects offering state-of-the-art amenities like secure gated communities power backup and dedicated parking. The housing market here is robust providing excellent long-term investment potential driven by strong defense presence and expanding commercial infrastructure. Start your search today and let us guide you to the perfect residential flat in Ambala Cantt that meets all your lifestyle and budgetary requirements. Secure your future in one of Ambala’s most sought-after neighborhoods where quality living is paramount."
     ],
     "buttons": [
-      { "label": "View Available Flats Now", "path": "/listings" },
-      { "label": "Request a Free Consultation", "path": "/contact" }
+      {
+        "label": "View Available Flats Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Free Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["/hero/flat-ambala-cantt-1.jpg", "/hero/flat-ambala-cantt-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Flat Configurations and Modern Amenities in Ambala Cantt Ambala",
@@ -52,14 +61,56 @@
       "Our team continuously monitors property values and new project launches across Ambala Cantt ensuring you receive the most current and relevant information. Focus your search on these established and rapidly growing residential pockets known for high livability scores and stable property appreciation."
     ],
     "locations": [
-      "Defense Colony Ambala Cantt",
-      "Sector 8 Ambala",
-      "Mahesh Nagar",
-      "Nicholson Road",
-      "Jandli Ambala",
-      "Sadar Bazaar Vicinity",
-      "Adarsh Nagar",
-      "Civil Lines Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to find your ideal Flat For Sale in Ambala Cantt Contact our professional real estate consultants for personalized advice market insights and exclusive property tours. We offer dedicated support through every step of the buying process from initial search to final registration.",
       "Submit your requirements below and let us help you secure your dream home or next profitable investment in this thriving city."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

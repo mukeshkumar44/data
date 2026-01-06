@@ -7,10 +7,19 @@
       "The investment potential here is significant. With ongoing infrastructure development and excellent connectivity via the Delhi Metro and major highways, sector 53 guarantees high appreciation rates for your property. Whether you are a first-time homebuyer looking for affordability or an investor seeking substantial returns, our comprehensive listings of Flats For Sale in sector 53 Gurugram offer unparalleled options. Let our property experts guide you to the perfect apartment that aligns seamlessly with your family's aspirations and financial goals."
     ],
     "buttons": [
-      { "label": "Explore Available Listings", "path": "/listings" },
-      { "label": "Request a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Available Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Flat For Sale Options in sector 53 Catering to Every Family Size",
@@ -52,12 +61,56 @@
       "Beyond mere location, Sector 53 is a self-sufficient ecosystem. It is close to prestigious educational institutions, multi-specialty hospitals, and vibrant retail centers. This ensures that all essential family needs are met within a short drive. Investing here means choosing a neighborhood that prioritizes connectivity, safety, and community growth for every resident."
     ],
     "locations": [
-      "Proximity to Sector 55 and Sector 56 Gurugram",
-      "Easy Access to Delhi-Mathura Expressway NH-44",
-      "Near Bata Chowk Metro Station for rapid transit",
-      "Close to major commercial and IT hubs",
-      "Well-connected to Crown Interiorz Mall",
-      "Direct Road Link to Greater Gurugram areas"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to take the next step towards owning your dream home in one of Gurugram's most sought-after sectors? Contact our experienced real estate consultants today. We provide personalized insights, market data, and exclusive listings of premium Flats For Sale in sector 53.",
       "Fill out the form below to receive a customized portfolio of properties that match your exact specifications and schedule a personal viewing at your earliest convenience. We are here to simplify your property buying journey."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

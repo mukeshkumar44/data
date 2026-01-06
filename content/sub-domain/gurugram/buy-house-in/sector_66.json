@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-house-exterior.jpg",
-      "sector66-skyline.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Investing here means choosing an area where social infrastructure like schools, hospitals, and entertainment hubs are fully operational and easily accessible. The planned development across Sector 66 ensures that residents enjoy wide internal roads, reliable utility services, and a beautifully maintained environment, making it a perfect spot to buy house in Sector 66 and settle down permanently."
     ],
     "locations": [
-      "Golf Course Extension Road connectivity",
-      "Southern Peripheral Road SPR access",
-      "Proximity to Sector 65 Gurugram",
-      "Close to Sector 57 residential hub",
-      "Quick drive to WorldMark",
-      "Easy access to HUDA City Centre Metro Station",
-      "Near major international schools",
-      "Immediate vicinity of commercial retail centers"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

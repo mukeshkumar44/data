@@ -7,12 +7,18 @@
       "Explore spacious 2 BHK 3 BHK and customized residential options that fit various budgetary needs. Every house available for sale in Kesari Village is constructed with high-quality materials ensuring maximum durability and aesthetic appeal for decades to come. Start your search today and secure a beautiful comfortable lifestyle just minutes away from major city hubs while enjoying the tranquility of village life."
     ],
     "buttons": [
-      { "label": "View Available Houses", "path": "/property-listings" },
-      { "label": "Request Property Tour", "path": "/contact" }
+      {
+        "label": "View Available Houses",
+        "path": "/property-listings"
+      },
+      {
+        "label": "Request Property Tour",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/kesari-house-hero-1.jpg",
-      "/images/kesari-house-hero-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Buyers looking for a high-quality house for sale in Kesari Village benefit immensely from this superior accessibility. Commuting to work or handling daily errands is stress-free making the village perfect for professionals and ensuring easy and safe travel for children attending top schools in the wider Ambala region. Explore how close your potential new home is to essential services and key landmarks."
     ],
     "locations": [
-      "Ambala Cantt Railway Station Major Junction",
-      "National Highway 44 Delhi to Chandigarh Connection",
-      "Sadar Bazaar Ambala Shopping Area",
-      "MMS School and other Reputable Educational Institutes",
-      "Civil Hospital Ambala Emergency Services",
-      "Ambala City Bus Stand Direct Public Transport",
-      "Proximity to Chandigarh and Panchkula Cities",
-      "Major Industrial and Commercial Zones"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to find the perfect House For Sale in Kesari Village Ambala We offer personalized property tours expert legal advice and seamless transaction support to make your dream home a reality.",
       "Get in touch with our dedicated real estate consultants now. We are here to answer all your queries regarding pricing financing and property availability in this desirable Ambala location."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "sadar_bazar_house_1.jpg",
-      "sadar_bazar_market_view.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Nearby areas like Railway Road, various inner city markets, and essential governmental offices ensure that daily life is seamless. We understand that location dictates value, which is why we focus on listings that provide optimal access while retaining the charm of a secure, established residential colony. Explore how owning a house for sale in Sadar Bazar positions you perfectly within the broader Karnal urban framework."
     ],
     "locations": [
-      "Railway Road Karnal",
-      "Atlas Road",
-      "Old Bus Stand Area",
-      "Clock Tower Chowk",
-      "Civil Hospital Karnal",
-      "Main Market Sadar Bazar",
-      "Karan Park Green Area",
-      "Maharaja Agarsen Chowk"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

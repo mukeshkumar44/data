@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Investment Opportunities Choose the Perfect Residential Plot Size in Sector 137 Noida",
@@ -58,14 +61,56 @@
       "Key neighboring areas include Sector 142 Sector 135 and Sector 93 all major corporate and residential zones. The area boasts proximity to major IT campuses like Infospace and numerous multinational company offices making it a highly desirable residential choice for professionals. Furthermore essential social infrastructure such as international schools multi-specialty hospitals including Felix Hospital and large commercial complexes are minutes away ensuring a self-sufficient and luxurious lifestyle. We focus on plots that maximize access to these amenities guaranteeing a high quality of life and superior rental yield potential for investors."
     ],
     "locations": [
-      "Noida Expressway Access",
-      "Sector 137 Metro Station",
-      "Proximity to IT Hubs",
-      "Felix Hospital Noida",
-      "DPS School Sector 132",
-      "Advant Navis Business Park",
-      "FNG Expressway Connectivity",
-      "Future Commercial Zones"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

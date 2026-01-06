@@ -7,10 +7,19 @@
       "Investing in commercial real estate here means capitalizing on planned infrastructure growth and high appreciation rates. Whether you are a seasoned investor looking to diversify your portfolio or an entrepreneur ready to open your first flagship store, our listings in Sector 36 meet diverse requirements. Explore modern designs, excellent connectivity, and clear legal titles. Secure your commercial future today by choosing the best shop for sale options in this prime, future-proof sector."
     ],
     "buttons": [
-      { "label": "View Ground Floor Listings", "path": "/listings/ground-floor" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View Ground Floor Listings",
+        "path": "/listings/ground-floor"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero-shop-sector-36.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Perfect Commercial Investment Shop For Sale Options in Sector 36 Rohtak",
@@ -52,13 +61,56 @@
       "Our expert team provides detailed comparative analysis of commercial viability across various Rohtak neighborhoods. We look beyond just price per square foot evaluating factors like existing competition, consumer demographics, infrastructural support, and future development plans. Whether you seek the stability of Sector 14’s established market or the rapid growth potential around the Sheela Bypass, we guide you to the location that best suits your business objectives. Explore these prime alternatives to ensure you secure the most profitable shop for sale opportunity available in the city today."
     ],
     "locations": [
-      "Sector 14 Commercial Hub",
-      "Sheela Bypass Retail Corridor",
-      "Civil Lines Market Area",
-      "Sonepat Road Commercial Pockets",
-      "Delhi Road Showroom Lane",
-      "Old Rohtak City Center",
-      "Sunaria Commercial Complex"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -154,6 +206,11 @@
       "Ready to secure a high-potential Shop For Sale in Sector 36 Rohtak? Contact our dedicated commercial real estate team today. We offer personalized consultation, property viewing scheduling, and in-depth market analysis to ensure your investment decision is well-informed and highly profitable.",
       "Do not miss this opportunity to own prime commercial space in Rohtak’s fastest-growing sector. Fill out the quick enquiry form below and we will get back to you within the hour with curated listings that match your exact commercial requirements and budget."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

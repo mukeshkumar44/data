@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Property Options Available for Strategic Investment in Hira Nagar Ambala",
@@ -58,12 +61,56 @@
       "We highlight properties located close to institutional areas hospitals and public transport hubs which dramatically increase commercial viability. Understanding the surrounding economic landscape is crucial for investment success. Whether you require space near the upcoming ring road project or closer to established educational institutes our portfolio encompasses the most strategically advantageous sites in and around Hira Nagar designed to maximize your investment returns and operational efficiency."
     ],
     "locations": [
-      "Ambala Chandigarh Highway access points",
-      "Proximity to major Residential Colonies",
-      "Near existing Industrial Hubs",
-      "Access to Public Transport Terminals",
-      "Developed Institutional Area connections",
-      "Upcoming Infrastructure Projects"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

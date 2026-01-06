@@ -16,7 +16,10 @@
         "path": "/brochure"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Finding the Ideal Flat Configuration and Size for Your Family Needs in Sector 30",
@@ -58,13 +61,56 @@
       "The immediate proximity to major infrastructure developments and essential services significantly enhances the appeal of every Flat For Sale in Sector 30. Enjoy the convenience of world-class shopping, dining, and recreation just minutes from your doorstep ensuring a perfect work-life balance."
     ],
     "locations": [
-      "Noida City Centre Metro Station Access",
-      "Direct Link to DND Flyway and Expressway",
-      "Proximity to Sector 18 Market and Mall of India",
-      "Adjacent to Sector 29 Entertainment Hub",
-      "Leading Multi-Specialty Hospitals Nearby",
-      "Top Educational Institutions within 5 km",
-      "Easy Access to Government Offices and Banks"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

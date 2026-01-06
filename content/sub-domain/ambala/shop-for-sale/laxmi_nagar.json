@@ -7,10 +7,19 @@
       "Our listings include shops in prime locations with modern amenities, flexible sizes, and competitive pricing. Explore the benefits of owning a shop in Laxmi Nagar and take the first step towards securing your business future today."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/shops" },
-      { "label": "Contact Us", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/shops"
+      },
+      {
+        "label": "Contact Us",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Shops For Sale in Laxmi Nagar",
@@ -19,12 +28,30 @@
       "Each shop is strategically located to ensure maximum visibility and accessibility for your customers. Browse our available shops and find the perfect space to grow your business."
     ],
     "features": [
-      { "title": "4 Marla Plot", "description": "Ideal for small businesses or retail outlets, offering a compact yet functional space in Laxmi Nagar." },
-      { "title": "6 Marla Plot", "description": "Perfect for medium-sized businesses, providing ample space for your operations in a prime location." },
-      { "title": "8 Marla Plot", "description": "Great for larger businesses or franchises, offering spacious interiors and excellent visibility." },
-      { "title": "10 Marla Plot", "description": "Suited for expansive retail setups or multi-purpose businesses in Laxmi Nagar." },
-      { "title": "12 Marla Plot", "description": "Ideal for businesses requiring significant space, with high foot traffic and accessibility." },
-      { "title": "14 Marla Plot", "description": "Perfect for large-scale enterprises, offering premium space in a bustling commercial hub." }
+      {
+        "title": "4 Marla Plot",
+        "description": "Ideal for small businesses or retail outlets, offering a compact yet functional space in Laxmi Nagar."
+      },
+      {
+        "title": "6 Marla Plot",
+        "description": "Perfect for medium-sized businesses, providing ample space for your operations in a prime location."
+      },
+      {
+        "title": "8 Marla Plot",
+        "description": "Great for larger businesses or franchises, offering spacious interiors and excellent visibility."
+      },
+      {
+        "title": "10 Marla Plot",
+        "description": "Suited for expansive retail setups or multi-purpose businesses in Laxmi Nagar."
+      },
+      {
+        "title": "12 Marla Plot",
+        "description": "Ideal for businesses requiring significant space, with high foot traffic and accessibility."
+      },
+      {
+        "title": "14 Marla Plot",
+        "description": "Perfect for large-scale enterprises, offering premium space in a bustling commercial hub."
+      }
     ]
   },
   "locationsSection": {
@@ -34,16 +61,56 @@
       "Each location boasts unique advantages, from high foot traffic to excellent connectivity. Discover the best areas to invest in your business."
     ],
     "locations": [
-      "Preet Vihar",
-      "Nirman Vihar",
-      "Karkardooma",
-      "Vikas Marg",
-      "Shakarpur",
-      "Mayur Vihar",
-      "Geeta Colony",
-      "Yamuna Vihar",
-      "Gandhi Nagar",
-      "Patparganj"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -53,30 +120,84 @@
       "Explore the benefits of owning a shop in this bustling commercial hub and make an informed decision for your business growth."
     ],
     "points": [
-      { "title": "Prime Location", "description": "Laxmi Nagar is centrally located with excellent connectivity to major roads and public transport, ensuring high visibility and accessibility for your business." },
-      { "title": "High Foot Traffic", "description": "The area attracts a large number of visitors daily, providing a steady stream of potential customers for your shop." },
-      { "title": "Modern Amenities", "description": "Our shops come equipped with modern facilities, ensuring a comfortable and efficient environment for your business operations." },
-      { "title": "Flexible Sizes", "description": "With shops available in various sizes, you can choose the perfect space that meets your business requirements." },
-      { "title": "Competitive Pricing", "description": "We offer competitive pricing for shops in Laxmi Nagar, making it an affordable investment for your business." },
-      { "title": "Growth Potential", "description": "Laxmi Nagar is a rapidly developing area, offering immense growth potential for businesses in the long term." },
-      { "title": "Safe Environment", "description": "The area is known for its safety and security, ensuring peace of mind for business owners and customers alike." },
-      { "title": "Community Support", "description": "Being part of a vibrant community, you’ll have access to local support networks and resources to help your business thrive." }
+      {
+        "title": "Prime Location",
+        "description": "Laxmi Nagar is centrally located with excellent connectivity to major roads and public transport, ensuring high visibility and accessibility for your business."
+      },
+      {
+        "title": "High Foot Traffic",
+        "description": "The area attracts a large number of visitors daily, providing a steady stream of potential customers for your shop."
+      },
+      {
+        "title": "Modern Amenities",
+        "description": "Our shops come equipped with modern facilities, ensuring a comfortable and efficient environment for your business operations."
+      },
+      {
+        "title": "Flexible Sizes",
+        "description": "With shops available in various sizes, you can choose the perfect space that meets your business requirements."
+      },
+      {
+        "title": "Competitive Pricing",
+        "description": "We offer competitive pricing for shops in Laxmi Nagar, making it an affordable investment for your business."
+      },
+      {
+        "title": "Growth Potential",
+        "description": "Laxmi Nagar is a rapidly developing area, offering immense growth potential for businesses in the long term."
+      },
+      {
+        "title": "Safe Environment",
+        "description": "The area is known for its safety and security, ensuring peace of mind for business owners and customers alike."
+      },
+      {
+        "title": "Community Support",
+        "description": "Being part of a vibrant community, you’ll have access to local support networks and resources to help your business thrive."
+      }
     ]
   },
   "faqSection": {
     "title": "FAQs About Shop For Sale in Laxmi Nagar",
     "description": "Find answers to common questions about purchasing a Shop For Sale in Laxmi Nagar. Explore our FAQs to make an informed decision.",
     "faqs": [
-      { "question": "What types of shops are available in Laxmi Nagar", "answer": "We offer a variety of shops in Laxmi Nagar, including retail spaces, commercial outlets, and multi-purpose shops in different sizes and configurations." },
-      { "question": "What is the price range for shops in Laxmi Nagar", "answer": "The price of shops in Laxmi Nagar varies depending on size, location, and amenities. Contact us for detailed pricing information tailored to your needs." },
-      { "question": "Is Laxmi Nagar a good location for business", "answer": "Yes, Laxmi Nagar is an excellent location for business due to its central location, high foot traffic, and growing commercial activity." },
-      { "question": "Are there financing options available for purchasing a shop", "answer": "Yes, we offer financing options and guidance to help you secure a shop in Laxmi Nagar. Speak with our team for more details." },
-      { "question": "Can I visit the shops before making a decision", "answer": "Absolutely. We encourage you to visit the available shops in Laxmi Nagar to assess the space and location before making a decision." },
-      { "question": "What amenities are included with the shops", "answer": "Our shops come with modern amenities such as electricity, water supply, parking, and security features to ensure a smooth business operation." },
-      { "question": "How is the connectivity in Laxmi Nagar", "answer": "Laxmi Nagar boasts excellent connectivity with major roads, metro stations, and public transport, ensuring easy access for customers and suppliers." },
-      { "question": "Are there legal formalities involved in purchasing a shop", "answer": "Yes, purchasing a shop involves legal formalities such as property verification and documentation. Our team assists you throughout the process." },
-      { "question": "Can I customize the shop space", "answer": "Depending on the property, customization options may be available. Discuss your requirements with our team for tailored solutions." },
-      { "question": "What is the future growth potential of Laxmi Nagar", "answer": "Laxmi Nagar is a rapidly developing area with significant growth potential, making it a smart investment for long-term business success." }
+      {
+        "question": "What types of shops are available in Laxmi Nagar",
+        "answer": "We offer a variety of shops in Laxmi Nagar, including retail spaces, commercial outlets, and multi-purpose shops in different sizes and configurations."
+      },
+      {
+        "question": "What is the price range for shops in Laxmi Nagar",
+        "answer": "The price of shops in Laxmi Nagar varies depending on size, location, and amenities. Contact us for detailed pricing information tailored to your needs."
+      },
+      {
+        "question": "Is Laxmi Nagar a good location for business",
+        "answer": "Yes, Laxmi Nagar is an excellent location for business due to its central location, high foot traffic, and growing commercial activity."
+      },
+      {
+        "question": "Are there financing options available for purchasing a shop",
+        "answer": "Yes, we offer financing options and guidance to help you secure a shop in Laxmi Nagar. Speak with our team for more details."
+      },
+      {
+        "question": "Can I visit the shops before making a decision",
+        "answer": "Absolutely. We encourage you to visit the available shops in Laxmi Nagar to assess the space and location before making a decision."
+      },
+      {
+        "question": "What amenities are included with the shops",
+        "answer": "Our shops come with modern amenities such as electricity, water supply, parking, and security features to ensure a smooth business operation."
+      },
+      {
+        "question": "How is the connectivity in Laxmi Nagar",
+        "answer": "Laxmi Nagar boasts excellent connectivity with major roads, metro stations, and public transport, ensuring easy access for customers and suppliers."
+      },
+      {
+        "question": "Are there legal formalities involved in purchasing a shop",
+        "answer": "Yes, purchasing a shop involves legal formalities such as property verification and documentation. Our team assists you throughout the process."
+      },
+      {
+        "question": "Can I customize the shop space",
+        "answer": "Depending on the property, customization options may be available. Discuss your requirements with our team for tailored solutions."
+      },
+      {
+        "question": "What is the future growth potential of Laxmi Nagar",
+        "answer": "Laxmi Nagar is a rapidly developing area with significant growth potential, making it a smart investment for long-term business success."
+      }
     ]
   },
   "contactSection": {
@@ -85,6 +206,11 @@
       "Interested in purchasing a Shop For Sale in Laxmi Nagar? Our team is here to assist you every step of the way. Fill out the form below, and we’ll get back to you promptly.",
       "Whether you have questions about available shops, pricing, or financing, we’re here to help you make the best decision for your business."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

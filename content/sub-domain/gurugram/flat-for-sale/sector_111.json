@@ -7,12 +7,18 @@
       "Explore spacious 2 BHK, 3 BHK, and luxury apartments designed with contemporary aesthetics and modern amenities. Investing in a flat in Sector 111 Gurugram means securing a future in a location known for rapid infrastructure growth and proximity to major highways and commercial hubs. Start your search for your dream home in this promising locality today and experience the best of modern city life."
     ],
     "buttons": [
-      { "label": "Explore 3 BHK Flats", "path": "/flats/3bhk" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore 3 BHK Flats",
+        "path": "/flats/3bhk"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/hero/sector111_flat1.jpg",
-      "/images/hero/sector111_flat2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "This section details key locations, educational institutions, hospitals, and entertainment hubs that are easily reachable from Sector 111. Understanding the surrounding ecosystem is crucial when considering a Flat For Sale in sector_111, ensuring all essential services are always within a short drive."
     ],
     "locations": [
-      "Badarpur Border 15 Minutes",
-      "Major Malls and Multiplexes 10 Minutes",
-      "NH-19 Delhi-Agra Highway Access",
-      "Upcoming Metro Link Station",
-      "Reputed Schools and Colleges Nearby",
-      "Leading Multi-Specialty Hospitals",
-      "Gurugram Industrial Area Proximity",
-      "Green Parks and Recreational Zones"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

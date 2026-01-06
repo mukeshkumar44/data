@@ -7,10 +7,19 @@
       "Our comprehensive portfolio includes everything from cozy independent builder floors perfect for small families to expansive luxury bungalows suitable for high-end living. Investing in a house in RK Puram ensures robust asset appreciation and access to world-class social infrastructure. Let us guide you through the best property options tailored precisely to your needs and budget in this highly sought-after Delhi location."
     ],
     "buttons": [
-      { "label": "View All House Listings", "path": "/listings" },
-      { "label": "Schedule a Property Tour", "path": "/contact" }
+      {
+        "label": "View All House Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Property Tour",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Options Finding the Perfect House Type For Sale in Prime RK Puram Delhi",
@@ -52,14 +61,56 @@
       "We provide targeted listings allowing you to filter homes based on these specific RK Puram sectors ensuring you find a property that perfectly fits your locational preferences. Whether you prioritize quiet streets near parks or houses closer to major arterial roads we have detailed intelligence on the best residential opportunities across all of RK Puram."
     ],
     "locations": [
-      "RK Puram Sector 1",
-      "RK Puram Sector 6",
-      "RK Puram Sector 8",
-      "RK Puram Sector 12",
-      "RK Puram Sector 13",
-      "RK Puram Market Area",
-      "RK Puram Near Moti Bagh",
-      "RK Puram Near Vasant Vihar"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

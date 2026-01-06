@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Rental Flat Configurations and Housing Types Available in Sector 52 Noida",
@@ -58,14 +61,56 @@
       "Furthermore, the robust connectivity via the Sector 52 Metro Station ensures that the rest of Noida is just minutes away. This strategic positioning makes securing a Flat For Rent in Sector 52 a highly desirable decision for long-term residents. We focus on listing properties that not only meet high living standards but also offer unparalleled access to commercial hubs like Sector 62 and Sector 18, ensuring you are always connected to the heart of the city's activity and employment opportunities."
     ],
     "locations": [
-      "Sector 51",
-      "Sector 61",
-      "Sector 50",
-      "Sector 71",
-      "Sector 32 Corporate Hub",
-      "Sector 18 Shopping and Entertainment",
-      "Mamura Village",
-      "Hoshiarpur Market Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

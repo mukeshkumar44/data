@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "flat-rent-sector-79-hero-1.jpg",
-      "flat-rent-sector-79-hero-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "This sector is strategically positioned near major arteries and commercial zones making any Flat For Rent in Sector 79 a valuable asset for renters focused on convenience. Below are the crucial locations that define the excellent connectivity of this Noida sector."
     ],
     "locations": [
-      "Noida Expressway Access",
-      "Sector 137 Aqua Line Metro Station",
-      "FNG Freeway Corridor Proximity",
-      "Major Retail and Shopping Malls",
-      "Leading Educational Institutions",
-      "Top-Tier Healthcare Facilities",
-      "Close to Sector 135 Commercial Hubs",
-      "Direct Routes to Delhi and Greater Noida"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

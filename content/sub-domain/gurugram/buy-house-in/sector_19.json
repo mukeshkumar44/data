@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse House and Plot Sizes When You Decide to Buy House in Sector 19",
@@ -58,13 +61,56 @@
       "The area is exceptionally well-connected to key Gurugram hubs including DLF Cyber Hub and Udyog Vihar providing residents with immediate access to top employment centers entertainment options and retail therapy. Furthermore the presence of established social infrastructure such as reputable schools world-class hospitals and popular shopping complexes within a short drive distance makes daily life extremely convenient. When you buy house in Sector 19 you are not just acquiring property you are investing in unmatched accessibility and a mature stable neighborhood environment perfect for long-term family settlement and superior quality of life."
     ],
     "locations": [
-      "Udyog Vihar Industrial Area",
-      "Shankar Vihar Residential Area",
-      "Palam Vihar Neighbourhood",
-      "Dwarka Expressway Access Point",
-      "NH-48 Delhi-Jaipur Highway Link",
-      "IGI Airport Connectivity Hub",
-      "Cyber City Gurugram Business District"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

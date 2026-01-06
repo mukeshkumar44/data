@@ -7,12 +7,18 @@
       "The area features a balanced mix of independent houses luxury villas and meticulously designed builder floors catering to every need from first-time homeowners to affluent investors. The rapid infrastructural development including wide internal roads and proximity to upcoming metro links enhances its appeal. Discover sophisticated living environments green spaces and access to leading educational and healthcare institutions right here in Sector 109 a location promising exceptional growth and quality of life."
     ],
     "buttons": [
-      { "label": "Explore Houses for Sale", "path": "/listings" },
-      { "label": "Request Expert Consultation", "path": "/contact" }
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Expert Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/sector109_hero1.jpg",
-      "/images/sector109_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The location’s strength lies in its proximity to established sectors and emerging business districts ensuring that essential amenities like world-class schools premium healthcare facilities and bustling retail centers are only minutes away. When you choose to buy house in Sector 109 you are not just selecting a home you are securing a highly connected lifestyle within the progressive ecosystem of Gurugram's new real estate frontier."
     ],
     "locations": [
-      "Dwarka Expressway NH 248-BB access",
-      "Indira Gandhi International Airport IGI T3",
-      "Sector 106 and Sector 108",
-      "New Gurugram Commercial Hubs",
-      "Cyber City via Dwarka Expressway",
-      "Upcoming Metro Corridor Connectivity",
-      "Proximity to Sultanpur National Park",
-      "Palam Vihar Extension"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to explore the best housing options along the Dwarka Expressway? Our team of certified real estate experts specializes in Sector 109 properties including custom plots independent houses and luxury villas.",
       "Contact us now for personalized site visits detailed market reports and investment insights tailored specifically to your residential needs and budget."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

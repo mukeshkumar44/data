@@ -17,7 +17,8 @@
       }
     ],
     "images": [
-      "hero-image-sector55-skyline.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -60,12 +61,56 @@
       "The connectivity of Sector 55 to major arteries like the Noida-Greater Noida Expressway and the proximity to the Metro network makes it a prime residential choice. Furthermore, its adjacency to established commercial areas ensures that it remains an active zone for both residential resale and rental market activity. When you hire our real estate agents in Sector 55, you gain access to insider information on upcoming infrastructure projects and local zoning changes that could impact future property values, giving you a distinct advantage in this competitive area."
     ],
     "locations": [
-      "Sector 54 Noida",
-      "Sector 56 Noida",
-      "Sector 53 Noida",
-      "Sector 52 Noida Metro Access",
-      "Gautam Buddh Nagar",
-      "Mamura Village Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

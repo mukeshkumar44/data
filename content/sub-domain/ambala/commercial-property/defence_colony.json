@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Property For Sale in Defence Colony Tailored for Business Success",
@@ -58,12 +61,56 @@
       "The area benefits immensely from proximity to established high-net-worth residential neighbourhoods, ensuring a steady stream of affluent consumers for retail operations and a strong local talent pool for corporate offices. Nearby areas like Lajpat Nagar, South Extension, and Greater Kailash enhance the overall commercial ecosystem by concentrating high-value business activity. When you invest in commercial property for sale in Defence Colony, you are securing a location that minimizes logistical friction and maximizes exposure, supporting continuous business growth and long-term stability. We provide detailed locational analysis for every listing, highlighting transportation links, consumer demographics, and infrastructural benefits specific to that address."
     ],
     "locations": [
-      "Main Market Proximity",
-      "Ring Road Access",
-      "South Extension Metro Link",
-      "Proximity to Upscale Residences",
-      "High-Visibility Corner Plots",
-      "Established Business Ecosystem"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

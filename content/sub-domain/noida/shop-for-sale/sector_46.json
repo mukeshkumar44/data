@@ -7,10 +7,19 @@
       "We offer a curated selection of commercial units ranging from compact high-street shops perfect for quick service restaurants to expansive double-height retail spaces suitable for large showrooms and anchor tenants. Our expert team specializes in identifying properties with clear titles, excellent visibility, and superior accessibility, ensuring your investment meets all regulatory and commercial success benchmarks. Explore the best opportunities available now and capitalize on Sector 46's booming retail landscape before prices escalate further. Start your profitable venture here today."
     ],
     "buttons": [
-      { "label": "Explore Available Shops Now", "path": "/listings/commercial" },
-      { "label": "Get Investment Consultation", "path": "/contact" }
+      {
+        "label": "Explore Available Shops Now",
+        "path": "/listings/commercial"
+      },
+      {
+        "label": "Get Investment Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero-shop-sector46.jpg", "/images/commercial-street-sector46.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Commercial Options for Every Business Goal When Searching for Retail Space",
@@ -52,11 +61,56 @@
       "Our selection highlights areas that are not just currently popular but are also earmarked for future infrastructure development. Whether you prefer the steady traffic of a well-known high street or the integrated amenities of a modern complex, our listings pinpoint the most lucrative spots to secure a high-performing Shop For Sale in Sector 46 Noida and maximize your potential rental yield."
     ],
     "locations": [
-      "Main Entry High Street Market Sector 46",
-      "Near Sharda University Road Commercial Belt",
-      "Retail Plaza Adjacent to Residential Towers",
-      "Sector 46 Community Center Market Area",
-      "Road Facing Shops near Express Way Entry Point"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -152,6 +206,11 @@
       "Connect with our specialist team today to receive a personalized portfolio of the highest-performing commercial properties matching your investment criteria. Do not miss out on the best opportunities in Noida's premier commercial hub.",
       "Whether you are seeking a lucrative rental asset or a base for your business, we provide transparent advice and comprehensive market analysis."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

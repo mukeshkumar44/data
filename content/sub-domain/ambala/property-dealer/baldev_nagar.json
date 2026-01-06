@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Ideal Residential and Investment Plot Sizes Handled by Your Baldev Nagar Property Dealer",
@@ -58,14 +61,56 @@
       "Our network includes verified listings in these interconnected areas, catering to diverse budgets and lifestyle needs. Whether you seek the bustling environment of Ambala Cantt, the planned layout of newer sectors, or the affordability of developing peripheries, we are your comprehensive property solution provider. Discuss your ideal location profile with our expert Property Dealer team today to find the perfect match near Baldev Nagar."
     ],
     "locations": [
-      "Ambala Cantt Property Listings",
-      "Sector 8 Ambala",
-      "Sector 9 Ambala Residential Options",
-      "Adjoining Areas of Baldev Nagar",
-      "Urban Estate Phase 2 Ambala",
-      "Mohra Ambala Property Investment",
-      "Residential Plots near Ring Road Ambala",
-      "Defence Colony Property Market"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

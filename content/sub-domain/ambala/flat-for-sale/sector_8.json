@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero-flat-sector8-1.jpg",
-      "/images/hero-flat-sector8-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,13 +61,56 @@
       "The Ambala Cantt Railway Station a major junction is just a short drive away providing excellent connectivity to major metropolitan areas across India. Furthermore essential services are right around the corner. Top-rated schools like SD Vidya School and hospitals offering specialized care are within a two kilometer radius ensuring all family needs are met promptly. This convenience factor is a massive draw for individuals looking for a balanced lifestyle. Explore the specific nearby areas that contribute to the prime value of a Flat For Sale in Sector 8. This area truly combines suburban tranquility with urban accessibility offering the best of both worlds for modern homebuyers."
     ],
     "locations": [
-      "Ambala Cantt Railway Station",
-      "Ambala City Main Market",
-      "National Highway 44 (NH44)",
-      "Prominent Educational Institutes",
-      "Major Healthcare Facilities and Hospitals",
-      "Local Commercial Hubs and Shopping Centers",
-      "Easy Access to Chandigarh Highway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

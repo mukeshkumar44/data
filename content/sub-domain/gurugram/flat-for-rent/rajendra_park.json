@@ -7,10 +7,19 @@
       "Rajendra Park is celebrated for its strategic location offering excellent connectivity to NH-19 major commercial hubs and essential services like top schools and healthcare facilities. Start your seamless flat search today and secure a rental home that combines convenience comfort and community living in one of Gurugram's sought-after residential areas. Explore photos virtual tours and detailed descriptions to make an informed decision without the hassle."
     ],
     "buttons": [
-      { "label": "Explore Rental Listings", "path": "/listings/rajendra_park/rent" },
-      { "label": "Schedule a Property Tour", "path": "/contact" }
+      {
+        "label": "Explore Rental Listings",
+        "path": "/listings/rajendra_park/rent"
+      },
+      {
+        "label": "Schedule a Property Tour",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero/rajendra_park_flat_rent.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Popular Sizes and Configurations of Flats Available for Rent in Rajendra Park",
@@ -52,14 +61,56 @@
       "The neighborhood itself is self-sufficient boasting robust social infrastructure. Residents benefit from easy access to local markets supermarkets high-quality healthcare clinics and recognized educational institutions. Living here provides the convenience of urban facilities while retaining a relatively peaceful residential environment making Rajendra Park an optimal location for families and professionals alike."
     ],
     "locations": [
-      "Proximity to NH-19 (Delhi-Mathura Road)",
-      "Good public transport access including local buses and autos",
-      "Nearby shopping centers and hypermarkets",
-      "Easy commute to Sector 28 Industrial Area",
-      "Availability of reputable schools and daycare centers",
-      "Access to banks ATMs and essential services",
-      "Well-maintained local parks and recreational grounds",
-      "Quick access to specialized hospitals in nearby sectors"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to move into your new rental home in Rajendra Park Gurugram? Our dedicated team of local rental specialists is here to assist you at every stage of your search.",
       "Fill out the form below detailing your requirements such as flat size budget and desired move-in date. We guarantee prompt responses and personalized assistance to match you with verified listings quickly and efficiently."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Diverse Flat Configurations and Residential Options in New Pratap Nagar Ambala",
@@ -58,14 +61,56 @@
       "The locality boasts robust road infrastructure and proximity to major transport hubs and essential services, making it the ideal spot for families, working professionals, and retirees seeking ease of access to the entire city of Ambala and beyond."
     ],
     "locations": [
-      "Proximity to Ambala Cantt Railway Station",
-      "Easy Access to National Highway 44 (NH44)",
-      "Nearness to Top Educational Institutions and Schools",
-      "Close to Major Healthcare Facilities and Hospitals",
-      "Short drive to Ambala City Centre and Shopping Malls",
-      "Well-connected to Industrial and Commercial Zones",
-      "Excellent Public Transport Infrastructure",
-      "Access to Local Markets and Retail Outlets"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

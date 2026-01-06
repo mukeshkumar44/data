@@ -7,10 +7,19 @@
       "A 2BHK apartment in Sector 100 represents a smart investment opportunity due to its rapid infrastructure development and proximity to major IT hubs and expressways. Whether you seek a ready-to-move residence or an investment property poised for excellent rental yield, our listings provide comprehensive details including floor plans, amenities, and accurate pricing. Start your seamless property search here and step into your dream home in Sector 100 Noida."
     ],
     "buttons": [
-      { "label": "Explore Available 2BHK Flats", "path": "/2bhk-listings" },
-      { "label": "Request A Personalized Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Available 2BHK Flats",
+        "path": "/2bhk-listings"
+      },
+      {
+        "label": "Request A Personalized Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Features and Layout Variations of 2BHK Apartments Available in Sector 100",
@@ -52,13 +61,56 @@
       "We provide detailed comparisons across prominent complexes in Sector 100, focusing on factors like builder reputation, maintenance quality, proximity to commercial centers, and available sports facilities. Our goal is to help you locate a 2BHK apartment that not only fits your budget but also aligns perfectly with your desired lifestyle and future growth prospects in this dynamic part of Noida."
     ],
     "locations": [
-      "Prominent Residential Societies in Sector 100",
-      "Proximity to Noida Expressway",
-      "Walking Distance to Major Commercial Markets",
-      "Near Proposed Metro Link Stations",
-      "Connectivity to Sector 137 and Sector 93",
-      "Access to Top Schools and Hospitals",
-      "Residential Zones with Low Density Living"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -154,6 +206,11 @@
       "Ready to secure your perfect 2BHK flat for sale in Sector 100 Noida Our expert team is here to provide personalized guidance, detailed property information, and arrange exclusive site visits at your convenience.",
       "Don't miss out on prime opportunities in one of Noida's fastest-growing residential hubs. Fill out the form below or call us directly to discuss your specific requirements and investment goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

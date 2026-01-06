@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "imts30b_house_exterior.jpg",
-      "imts30b_community_view.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Essential services like supermarkets, banks, and recreational centers are just minutes away. This superior connectivity ensures that while you enjoy peaceful residential living, you are never far from the necessities of modern life. We highlight key neighboring areas that contribute to the robust infrastructure and high quality of life found when choosing property in IMT Sector 30 B Rohtak."
     ],
     "locations": [
-      "IMT Industrial Model Township",
-      "Sector 36 Rohtak Residential Hub",
-      "Delhi-Rohtak Highway NH-9 Access",
-      "D-Park Shopping Complex",
-      "Maharshi Dayanand University MDU Campus",
-      "Bahadurgarh KMP Expressway connectivity",
-      "Medical College and Hospitals Rohtak",
-      "Rohtak City Center within 15 minutes drive"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

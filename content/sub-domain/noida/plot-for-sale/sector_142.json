@@ -7,10 +7,19 @@
       "Explore exclusive listings of plots for sale in Sector 142 that meet all regulatory standards and location benefits. Whether you are looking for a compact space for a luxury villa or a larger land parcel for future development, our portfolio is curated to offer diversity and value. Act now to capitalize on the rapid appreciation potential that Sector 142 Noida offers to serious investors and homeowners alike. Start planning your construction project today in this excellently connected neighborhood."
     ],
     "buttons": [
-      { "label": "View Available Plots", "path": "/available-plots" },
-      { "label": "Get Free Consultation", "path": "/contact-us" }
+      {
+        "label": "View Available Plots",
+        "path": "/available-plots"
+      },
+      {
+        "label": "Get Free Consultation",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Residential Plot Sizes and Investment Opportunities in Sector 142 Noida",
@@ -52,12 +61,56 @@
       "The planning of Sector 142 emphasizes wide roads, dedicated utility corridors, and proximity to proposed commercial and educational hubs. This proactive planning secures the long-term livability and value appreciation of any Plot For Sale in Sector 142. Investing here means buying into a future-ready, well-connected community that promises significant returns."
     ],
     "locations": [
-      "Noida Expressway direct connectivity",
-      "Sector 142 Metro Station Aqua Line proximity",
-      "Close to major IT parks and corporate offices",
-      "Easy access to Pari Chowk Greater Noida",
-      "Proximity to reputed schools and hospitals",
-      "Swift travel to FNG Expressway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to secure your high-potential Plot For Sale in Sector 142 We offer personalized consultations to match you with the perfect investment opportunity based on your requirements and budget. Do not miss out on plots located in one of Noida's most desirable sectors.",
       "Fill out the form below to receive immediate access to verified listings, detailed price lists, and expert market analysis tailored specifically to the Sector 142 real estate landscape."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

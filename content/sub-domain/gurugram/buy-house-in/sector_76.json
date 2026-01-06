@@ -7,10 +7,19 @@
       "The area is strategically planned to provide easy access to the main city landmarks, corporate office spaces, and essential social infrastructure like world-class schools and multispecialty hospitals. The availability of high-quality, ready-to-move-in or under-construction housing options makes this location highly attractive for immediate occupation or long-term growth. Secure your dream home here and experience unparalleled urban living coupled with significant capital growth prospects. We provide verified listings ensuring a seamless buying experience."
     ],
     "buttons": [
-      { "label": "Explore Verified Properties Now", "path": "/listings" },
-      { "label": "Contact Our Sector 76 Experts", "path": "/contact" }
+      {
+        "label": "Explore Verified Properties Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Contact Our Sector 76 Experts",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/sector76-hero1.jpg", "/images/sector76-hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Premium Residential Plot Sizes and Housing Configuration Options in Sector 76 Gurugram",
@@ -52,12 +61,56 @@
       "The sector is positioned perfectly to benefit from the existing and upcoming infrastructural developments including the Southern Peripheral Road (SPR) and the proximity to the KMP Expressway. Key landmarks like the IMT Manesar industrial belt, major corporate offices, and sprawling retail zones are just a short drive away. Furthermore, essential social amenities like top-tier educational institutions, multispecialty hospitals, and vibrant shopping complexes are well-established nearby. Investing here means embracing a lifestyle where convenience and accessibility are guaranteed. The area’s growth trajectory promises high returns and a fantastic quality of life for all residents making it a wise choice to buy house in this flourishing location."
     ],
     "locations": [
-      "Proximity to NH-48 and SPR",
-      "Close to IMT Manesar and Industrial Hubs",
-      "Upcoming Metro Connectivity Extensions",
-      "Direct access to Sector 77 and Sector 75",
-      "Nearby top schools like DPS and Amity",
-      "Immediate access to prominent shopping malls and commercial markets"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to take the next step towards owning a premium house in Sector 76 Gurugram We are here to guide you.",
       "Fill out the form below to receive personalized listings, detailed pricing information, and schedule a private viewing. Let our Sector 76 specialists help you make the most informed investment decision."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

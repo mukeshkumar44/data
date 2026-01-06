@@ -7,10 +7,19 @@
       "These premium 3BHK properties are designed with meticulous attention to detail offering large living spaces ample natural light and access to world-class amenities. Investing in a 3BHK flat in this established sector ensures high future appreciation and immediate proximity to major commercial and social infrastructure. Find the ideal property that matches your budget and lifestyle requirements here today."
     ],
     "buttons": [
-      { "label": "Explore Available 3BHK Listings", "path": "/listings" },
-      { "label": "Request a Site Visit Today", "path": "/contact" }
+      {
+        "label": "Explore Available 3BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Site Visit Today",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Features of the Best 3BHK Flats For Sale in Sector 7 Gurugram",
@@ -52,10 +61,56 @@
       "The location provides seamless access to the national highways and proximity to essential civic infrastructure making daily life effortless. This sector is not just about homes it is about providing a quality lifestyle supported by robust local amenities. Review the key landmarks that make these 3BHK flats in Sector 7 an outstanding investment opportunity."
     ],
     "locations": [
-      "Major Hospitals nearby",
-      "Leading Educational Institutions",
-      "Proximity to NH 48 and City Center",
-      "Shopping Malls and Entertainment Zones"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -80,8 +135,7 @@
       {
         "title": "Ideal Size for Growing Families",
         "description": "The 3BHK configuration is perfectly suited for nuclear families with children providing separate bedrooms private space and dedicated areas for work or study, a necessity that smaller flats cannot meet in Sector 7."
-      }
-      ,
+      },
       {
         "title": "Reliable Utility Services Guaranteed",
         "description": "Residents in Sector 7 benefit from stable and reliable provision of essential utilities including 24/7 water supply electricity and robust waste management services. This operational efficiency is key to comfortable high-rise living."

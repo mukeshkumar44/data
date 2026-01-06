@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero-sector50-shop1.jpg",
-      "/images/hero-sector50-map.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Our team provides comprehensive market analysis helping you identify the optimal location based on competitor density demographic profile and expected rental yield ensuring your commercial success in the greater Gurugram region."
     ],
     "locations": [
-      "RPS City Commercial Market",
-      "Omaxe World Street Gurugram",
-      "Sector 49 Local Shopping Centre",
-      "Main Bypass Road Sector 50",
-      "Neelam Bata Road Proximity",
-      "Sainik Colony Commercial Hub",
-      "SRS Chowk Connectivity Points",
-      "NHPC Chowk Access Corridors"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

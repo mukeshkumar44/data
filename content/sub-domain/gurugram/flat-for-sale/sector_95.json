@@ -7,12 +7,18 @@
       "Investing in a flat here guarantees superior infrastructure, excellent social amenities, and unparalleled connectivity to key areas of Gurugram and Delhi NCR. Our portfolio highlights new construction projects and high-value resale properties, all verified for title clarity and construction quality. Start your journey towards owning a premium home in Sector 95 today and benefit from rapidly appreciating property values in this thriving area."
     ],
     "buttons": [
-      { "label": "View All Available Flats", "path": "/listings" },
-      { "label": "Schedule a Site Visit Now", "path": "/contact" }
+      {
+        "label": "View All Available Flats",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit Now",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "flat_sector95_exterior.jpg",
-      "flat_sector95_interior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "Beyond transport, Sector 95 is a self-sustaining ecosystem. It is surrounded by established educational institutions, including reputed schools and colleges, ensuring quality education is accessible within minutes. Top-tier healthcare facilities and multi-specialty hospitals are also nearby. Furthermore, the burgeoning retail landscape featuring large shopping malls, entertainment centers, and local markets ensures all daily and leisure needs are met easily, positioning Sector 95 as a truly modern residential hub in Gurugram."
     ],
     "locations": [
-      "Proximity to NH-44 and Delhi-Mumbai Expressway",
-      "Easy access to Badarpur Metro Station",
-      "Close to major IT and Industrial Sector 68 Gurugram",
-      "Near established schools and educational universities",
-      "Minutes away from major healthcare and emergency services",
-      "Well-developed internal road network"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,10 +7,19 @@
       "We feature a curated selection of independent houses, luxury builder floors, and residential properties perfectly suited for modern family living. These properties ensure security, community focus, and strong appreciation potential due to the sector's strategic positioning near IMT Manesar and rapid development along the Southern Peripheral Road. Discover your perfect address today and capitalize on the flourishing real estate market of Sector 33."
     ],
     "buttons": [
-      { "label": "View Available Houses", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View Available Houses",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/sector33_house1.jpg", "/images/sector33_map.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore the Best Configuration of Houses and Builder Floors Available in Sector 33",
@@ -52,14 +61,56 @@
       "Furthermore, the proximity to major employment hubs like IMT Manesar and the institutional area along Sohna Road makes Sector 33 highly desirable for professionals. The sector is supported by excellent road networks including the Southern Peripheral Road SPR and robust internal infrastructure, securing its status as a top choice for those looking to buy quality residential property."
     ],
     "locations": [
-      "NH-48 Delhi Jaipur Expressway",
-      "IMT Manesar Industrial Area",
-      "Sohna Road Commercial Hubs",
-      "Sector 34 Institutional Area",
-      "Subhash Chowk Gurugram",
-      "Hero Honda Chowk",
-      "Gurugram Railway Station",
-      "Upcoming Metro Extensions"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning your dream house in Sector 33 We are dedicated to providing personalized service, expert market insights, and access to exclusive listings not available on public portals.",
       "Contact our specialized property consultants today. Let us help you navigate the process of buying the perfect house in Sector 33 Gurugram with confidence and ease."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,12 +7,18 @@
       "Our mission is to simplify your search for the perfect House For Sale in Tagore Garden. Forget endless scrolling through unverified listings. We provide detailed property profiles, transparent pricing, and expert guidance to navigate the local real estate market with confidence. Whether you seek a move-in ready 3 BHK or a spacious 5 BHK luxury home, our experts are here to match your specific requirements with the best available homes, ensuring a smooth and successful purchase experience from inquiry to possession."
     ],
     "buttons": [
-      { "label": "View Latest House Listings", "path": "/listings" },
-      { "label": "Schedule a Property Tour", "path": "/contact" }
+      {
+        "label": "View Latest House Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Property Tour",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "image/hero_tagore_garden_street.jpg",
-      "image/hero_independent_house.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "We focus on connecting you with verified residential properties that maintain the same high standards of safety, infrastructure, and community feel that Tagore Garden is famous for. Explore houses for sale in these adjacent areas, ensuring you find the best value and location that aligns perfectly with your family’s needs and lifestyle requirements."
     ],
     "locations": [
-      "Rajouri Garden",
-      "Kirti Nagar",
-      "Subhash Nagar",
-      "Ramesh Nagar",
-      "Moti Nagar",
-      "Tilak Nagar",
-      "Janakpuri",
-      "Vikas Puri"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -166,4 +214,3 @@
     ]
   }
 }
-.

@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "flat_sector99_hero1.jpg",
-      "flat_sector99_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,13 +61,56 @@
       "The sector is seamlessly linked to the Aqua Line Metro Network making public transport highly viable. Key adjacent sectors like Sector 100 108 and 104 are easily accessible offering a wide range of retail dining and recreational activities. When you choose a Flat For Rent in Sector 99 you are investing in a location that puts convenience security and modernity at the forefront of your living experience."
     ],
     "locations": [
-      "Sector 100 Noida",
-      "Sector 108 Noida",
-      "Noida Expressway",
-      "Sector 104 Market",
-      "Okhla Bird Sanctuary",
-      "Greater Noida Access Road",
-      "Knowledge Park 2"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

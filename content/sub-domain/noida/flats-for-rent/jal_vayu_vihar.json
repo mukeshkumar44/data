@@ -7,10 +7,19 @@
       "Experience a lifestyle marked by safety green surroundings and proximity to essential services educational institutions and major corporate hubs. Our curated listings feature verified properties ensuring a smooth transparent rental process from initial viewing to lease signing. Start your search now and unlock the door to premium residential living in the heart of Jal Vayu Vihar Noida. Let us help you find the perfect address that matches your needs and budget."
     ],
     "buttons": [
-      { "label": "Explore Available Flats", "path": "/search-rentals" },
-      { "label": "Request a Callback", "path": "/contact" }
+      {
+        "label": "Explore Available Flats",
+        "path": "/search-rentals"
+      },
+      {
+        "label": "Request a Callback",
+        "path": "/contact"
+      }
     ],
-    "images": ["jv_vihar_flat_hero.jpg", "jv_vihar_noida_skyline.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Diverse Rental Flat Configurations and Lifestyle Amenities in Jal Vayu Vihar",
@@ -52,14 +61,56 @@
       "We detail the proximity to critical landmarks ensuring you can evaluate travel times and overall convenience before making a rental decision. The seamless connection to major roads and the metro network is a huge advantage for anyone working in the NCR region."
     ],
     "locations": [
-      "Sector 21",
-      "Sector 25",
-      "Sector 27",
-      "Noida Golf Course",
-      "Atta Market Sector 27",
-      "Wave City Center Metro Station",
-      "DLF Mall of India",
-      "Fortis Hospital Noida"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure your perfect Flat For Rent in Jal Vayu Vihar Noida Our dedicated team of local rental specialists is here to assist you every step of the way. We provide personalized property tours negotiation support and transparent documentation services.",
       "Fill out the form below to receive a curated list of properties matching your exact specifications or call us directly to schedule a viewing immediately."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

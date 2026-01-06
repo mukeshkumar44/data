@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "flat_sector10_exterior.jpg",
-      "flat_sector10_interior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Understanding the locality is crucial when looking for a Flat For Rent in Sector 10 Ambala. This area is close to reputed educational institutions, top healthcare facilities, and vibrant commercial markets ensuring all daily needs are met within a short radius. Explore the connectivity advantages Sector 10 residents enjoy."
     ],
     "locations": [
-      "Sector 11 Ambala Residential Area",
-      "Ambala Cantt Railway Station Access",
-      "NH 44 Highway Linkages",
-      "Sadar Bazaar Ambala Cantt Shopping",
-      "Nearby Schools and Colleges",
-      "Major Healthcare Centers Ambala",
-      "Ambala City Center Proximity",
-      "Local Parks and Green Belts"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,12 +7,18 @@
       "The demand for quality rental properties in this area is high due to its strategic location near major business centers and educational institutions. Our dedicated property experts ensure that every flat listing meets strict quality standards regarding security, amenities, and maintenance. Begin your search today to discover affordable luxury and unparalleled convenience in one of Gurugram's rapidly developing sectors. Secure the best rental deal before it is gone."
     ],
     "buttons": [
-      { "label": "Browse All Rental Flats", "path": "/search" },
-      { "label": "Schedule a Property Tour", "path": "/contact" }
+      {
+        "label": "Browse All Rental Flats",
+        "path": "/search"
+      },
+      {
+        "label": "Schedule a Property Tour",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "flat_rental_sector76_hero1.jpg",
-      "sector76_apartments_faridabad.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "The sector seamlessly connects to the FNG Expressway providing easy travel towards Noida and Ghaziabad. Nearby residential sectors like Sector 75 and Sector 77 offer supplementary infrastructure including schools, hospitals, and entertainment zones. This well-developed ecosystem enhances the quality of life for residents choosing to rent property here."
     ],
     "locations": [
-      "Sector 77 Residential Hub",
-      "Proximity to Gurugram-Noida-Ghaziabad Expressway FNG",
-      "Nearby Malls and Retail Centres",
-      "Quick Access to Kheri Road",
-      "Excellent Connectivity to Delhi",
-      "Major Educational Institutions Nearby"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

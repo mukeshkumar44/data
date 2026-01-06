@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Prime Features Making 2BHK Flats in Sector 79 Noida an Unbeatable Investment Choice",
@@ -58,14 +61,56 @@
       "Nearby Sectors like 78 and 137 offer large retail complexes shopping centers and entertainment venues ensuring all your lifestyle needs are met just minutes away. This location is favoured by families due to the presence of reputable educational institutions and specialized hospitals ensuring peace of mind. Investing here secures not just a home but a promising future in a rapidly appreciating zone focused on residential excellence."
     ],
     "locations": [
-      "Noida Expressway Access",
-      "Sector 137 Metro Station",
-      "FNG Expressway Link",
-      "Amity University proximity",
-      "Genesis Global School nearby",
-      "Major Multispecialty Hospitals",
-      "Upcoming Commercial Hubs",
-      "Pari Chowk Road Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

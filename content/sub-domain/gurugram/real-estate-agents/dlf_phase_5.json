@@ -7,10 +7,19 @@
       "Whether you are seeking a magnificent penthouse, a luxury apartment in iconic towers like The Magnolias or The Aralias, or looking to maximize the sale value of your existing property, we deliver discreet, professional, and results-driven representation. Trust the experts who understand the nuances of prime Gurugram real estate."
     ],
     "buttons": [
-      { "label": "Explore Premium Listings", "path": "/listings" },
-      { "label": "Request A Market Valuation", "path": "/valuation" }
+      {
+        "label": "Explore Premium Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request A Market Valuation",
+        "path": "/valuation"
+      }
     ],
-    "images": ["hero_magnolias.jpg", "hero_aralias.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Prime Real Estate Services Offered by Our DLF Phase 5 Property Agents",
@@ -19,12 +28,30 @@
       "While Marla plots are typically associated with independent housing projects, we translate these requirements into comparable luxury units such as independent floors or smaller villa plots that occasionally become available. We provide specialized knowledge across all property formats within this prestigious address."
     ],
     "features": [
-      { "title": "4 Marla Plot", "description": "Expert guidance on compact luxury independent floors or premium studio apartments suitable for high-yield rental investments. Our agents identify perfectly sized units offering excellent ROI potential within DLF Phase 5 Gurugram." },
-      { "title": "6 Marla Plot", "description": "Focused solutions for acquiring or selling mid-sized builder floors or smaller apartments in complexes like The Park Place or Belvedere Park. We handle complex negotiations efficiently to secure optimal terms for our clients." },
-      { "title": "8 Marla Plot", "description": "Specialist services for spacious 3BHK or 4BHK apartments in exclusive towers. These sizes represent significant transactions and require experienced Real Estate Agents in DLF Phase 5 who prioritize discretion and valuation accuracy." },
-      { "title": "10 Marla Plot", "description": "Consultation for purchasing independent luxury homes or large format penthouses. Our network ensures you gain access to the most coveted, spacious properties before they hit the general market." },
-      { "title": "12 Marla Plot", "description": "Tailored representation for high-net-worth individuals seeking sprawling villas or expansive duplex residences. We manage the entire process from legal due diligence to final registration, guaranteeing peace of mind." },
-      { "title": "14 Marla Plot", "description": "The ultimate in bespoke property acquisition including premium land parcels or custom-built luxury kothis. Leverage our deep market intelligence to make informed decisions on the most exclusive holdings in DLF Phase 5." }
+      {
+        "title": "4 Marla Plot",
+        "description": "Expert guidance on compact luxury independent floors or premium studio apartments suitable for high-yield rental investments. Our agents identify perfectly sized units offering excellent ROI potential within DLF Phase 5 Gurugram."
+      },
+      {
+        "title": "6 Marla Plot",
+        "description": "Focused solutions for acquiring or selling mid-sized builder floors or smaller apartments in complexes like The Park Place or Belvedere Park. We handle complex negotiations efficiently to secure optimal terms for our clients."
+      },
+      {
+        "title": "8 Marla Plot",
+        "description": "Specialist services for spacious 3BHK or 4BHK apartments in exclusive towers. These sizes represent significant transactions and require experienced Real Estate Agents in DLF Phase 5 who prioritize discretion and valuation accuracy."
+      },
+      {
+        "title": "10 Marla Plot",
+        "description": "Consultation for purchasing independent luxury homes or large format penthouses. Our network ensures you gain access to the most coveted, spacious properties before they hit the general market."
+      },
+      {
+        "title": "12 Marla Plot",
+        "description": "Tailored representation for high-net-worth individuals seeking sprawling villas or expansive duplex residences. We manage the entire process from legal due diligence to final registration, guaranteeing peace of mind."
+      },
+      {
+        "title": "14 Marla Plot",
+        "description": "The ultimate in bespoke property acquisition including premium land parcels or custom-built luxury kothis. Leverage our deep market intelligence to make informed decisions on the most exclusive holdings in DLF Phase 5."
+      }
     ]
   },
   "locationsSection": {
@@ -34,14 +61,56 @@
       "We help you understand the price trends, amenity differences, and future appreciation potential across these diverse and prestigious addresses, ensuring your investment aligns perfectly with your lifestyle goals."
     ],
     "locations": [
-      "The Aralias Residences",
-      "The Magnolias Apartments",
-      "The Camellias Luxury Homes",
-      "Belvedere Park Apartments",
-      "Princeton Estate Residences",
-      "The Park Place Towers",
-      "DLF Corporate Park",
-      "Golf Course Road Commercial Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -51,30 +120,84 @@
       "Our team of Real Estate Agents in DLF Phase 5 Gurugram is committed to delivering unparalleled service, ensuring you achieve the best possible outcome whether buying, selling, or leasing."
     ],
     "points": [
-      { "title": "Unrivaled Local Market Mastery", "description": "We possess comprehensive, up-to-the-minute data on property valuations, sales velocity, and upcoming inventory specifically within DLF Phase 5. This mastery allows us to price your property accurately for a fast sale or negotiate aggressively on your purchase." },
-      { "title": "Access to Exclusive Off-Market Listings", "description": "A significant portion of DLF Phase 5 properties are sold privately. Our established professional network grants our clients privileged access to these exclusive listings, offering unique investment opportunities not available publicly." },
-      { "title": "Specialized Luxury Negotiation Skills", "description": "Transactions in the luxury segment require sophisticated negotiation strategies. Our agents are trained to manage high stakes discussions confidently, ensuring favorable terms and protecting your financial interests at every stage." },
-      { "title": "Guaranteed Confidentiality and Discretion", "description": "Privacy is paramount for our clientele. We handle all inquiries and transactions with the utmost discretion and professionalism, safeguarding sensitive financial and personal information throughout the entire process." },
-      { "title": "Seamless Legal and Documentation Support", "description": "Navigating the complex legal framework of high-value property sales in Gurugram can be challenging. We partner with expert legal consultants to provide end-to-end documentation support, ensuring complete compliance and transparency." },
-      { "title": "Personalized Client-First Approach", "description": "We understand that every client's needs are unique. We dedicate ourselves to understanding your specific goals and tailoring our search or marketing strategy to achieve those objectives efficiently and effectively." },
-      { "title": "Transparent Fee Structure and Deal Flow", "description": "Honesty and clarity define our business. We ensure you are fully informed about all costs and the progress of your transaction from initial viewing to final closing, avoiding hidden surprises." },
-      { "title": "Post-Transaction Relocation and Management Aid", "description": "Our service extends beyond the closing table. We assist with property management, vendor recommendations, and smooth relocation services, ensuring a hassle-free transition into your new DLF Phase 5 home." }
+      {
+        "title": "Unrivaled Local Market Mastery",
+        "description": "We possess comprehensive, up-to-the-minute data on property valuations, sales velocity, and upcoming inventory specifically within DLF Phase 5. This mastery allows us to price your property accurately for a fast sale or negotiate aggressively on your purchase."
+      },
+      {
+        "title": "Access to Exclusive Off-Market Listings",
+        "description": "A significant portion of DLF Phase 5 properties are sold privately. Our established professional network grants our clients privileged access to these exclusive listings, offering unique investment opportunities not available publicly."
+      },
+      {
+        "title": "Specialized Luxury Negotiation Skills",
+        "description": "Transactions in the luxury segment require sophisticated negotiation strategies. Our agents are trained to manage high stakes discussions confidently, ensuring favorable terms and protecting your financial interests at every stage."
+      },
+      {
+        "title": "Guaranteed Confidentiality and Discretion",
+        "description": "Privacy is paramount for our clientele. We handle all inquiries and transactions with the utmost discretion and professionalism, safeguarding sensitive financial and personal information throughout the entire process."
+      },
+      {
+        "title": "Seamless Legal and Documentation Support",
+        "description": "Navigating the complex legal framework of high-value property sales in Gurugram can be challenging. We partner with expert legal consultants to provide end-to-end documentation support, ensuring complete compliance and transparency."
+      },
+      {
+        "title": "Personalized Client-First Approach",
+        "description": "We understand that every client's needs are unique. We dedicate ourselves to understanding your specific goals and tailoring our search or marketing strategy to achieve those objectives efficiently and effectively."
+      },
+      {
+        "title": "Transparent Fee Structure and Deal Flow",
+        "description": "Honesty and clarity define our business. We ensure you are fully informed about all costs and the progress of your transaction from initial viewing to final closing, avoiding hidden surprises."
+      },
+      {
+        "title": "Post-Transaction Relocation and Management Aid",
+        "description": "Our service extends beyond the closing table. We assist with property management, vendor recommendations, and smooth relocation services, ensuring a hassle-free transition into your new DLF Phase 5 home."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Real Estate Agents in DLF Phase 5 Gurugram",
     "description": "Get clear answers to your most pressing questions regarding property investment and transaction processes within the esteemed DLF Phase 5 area.",
     "faqs": [
-      { "question": "What is the typical brokerage fee charged by Real Estate Agents in DLF Phase 5", "answer": "Brokerage fees in DLF Phase 5 typically fall within the established industry standard, but can vary based on the property type, value, and complexity of the transaction (sale versus lease). For luxury sales, it is common to see a competitive percentage of the transaction value. We maintain complete transparency regarding our fee structure which is always discussed and agreed upon upfront before any services are rendered, ensuring no unexpected costs." },
-      { "question": "How quickly can I sell a high-end apartment in DLF Phase 5 Gurugram", "answer": "The speed of sale depends heavily on accurate pricing, market conditions, and the property's unique features. For correctly priced, highly sought-after units in buildings like The Aralias or The Magnolias, sales can often be concluded within 3 to 6 months. Our expert Real Estate Agents in DLF Phase 5 focus on strategic marketing and targeting serious, qualified buyers to accelerate the process." },
-      { "question": "Are there good investment returns for rental properties in DLF Phase 5", "answer": "Yes, DLF Phase 5 is a prime rental market due to its proximity to major corporate hubs and superior infrastructure. High-end apartments and floors attract top-tier expatriates and senior management professionals, commanding premium rental rates and ensuring strong rental yields relative to other areas in Gurugram. We provide detailed rental analysis before you invest." },
-      { "question": "What documentation is essential when buying a property in DLF Phase 5", "answer": "Essential documents include the Deed of Conveyance, Occupancy Certificate (OC), Completion Certificate (CC), mutation records, and all relevant municipal approvals. If the property is a resale, the chain of previous ownership documents is critical. Our team ensures rigorous due diligence on all these legal papers before advising a purchase, mitigating all legal risks." },
-      { "question": "Do I need a local agent or can a national firm handle my DLF Phase 5 transaction", "answer": "While national firms offer broad exposure, a local specialist provides invaluable hyper-localized knowledge essential for this unique market. Our Real Estate Agents in DLF Phase 5 Gurugram offer detailed insights into specific complex nuances, resident association rules, localized valuation trends, and access to private seller networks that generic firms often miss, giving you a competitive edge." },
-      { "question": "What are the current property valuation trends in DLF Phase 5", "answer": "Property valuations in DLF Phase 5 generally show stable appreciation, especially for branded residences and apartments along the Golf Course Road. Factors influencing value include floor level, view, quality of interiors, and the specific tower/complex prestige. We provide a complimentary, data-driven Comparative Market Analysis (CMA) tailored exactly to your property." },
-      { "question": "Can I buy a property in DLF Phase 5 if I am an NRI", "answer": "Yes, Non-Resident Indians (NRIs) are permitted to purchase both residential and commercial properties in India, including those in DLF Phase 5 Gurugram. The process involves adhering to specific FEMA guidelines and documentation requirements. Our agency specializes in facilitating smooth, compliant transactions for our NRI clients, handling all necessary legal and banking procedures on their behalf." },
-      { "question": "What services do your agents offer beyond simple buying and selling", "answer": "Beyond transactional services, our DLF Phase 5 agents offer comprehensive property management for landlords, investment portfolio advisory services, negotiation of rental lease agreements, property staging consultation to maximize sales appeal, and personalized property search assistance for highly specific requirements. We are your complete property lifecycle partner." },
-      { "question": "Is it better to buy a ready-to-move-in or under-construction luxury property here", "answer": "Ready-to-move-in properties offer immediate occupancy and certainty regarding quality and pricing, which is preferred by many in DLF Phase 5. Under-construction luxury projects often offer capital appreciation potential but carry developer risk and timeline uncertainty. Our agents evaluate the builder's track record and project stage to advise on the best option matching your risk profile and financial timeline." },
-      { "question": "How do you ensure property title is clear and dispute-free", "answer": "Our agency follows a stringent legal verification protocol. We engage top real estate lawyers to perform exhaustive title searches, verify all statutory clearances, check for encumbrances or outstanding dues, and confirm the legitimacy of the seller. We only proceed with transactions where the title is absolutely clear and marketable, safeguarding your investment completely." }
+      {
+        "question": "What is the typical brokerage fee charged by Real Estate Agents in DLF Phase 5",
+        "answer": "Brokerage fees in DLF Phase 5 typically fall within the established industry standard, but can vary based on the property type, value, and complexity of the transaction (sale versus lease). For luxury sales, it is common to see a competitive percentage of the transaction value. We maintain complete transparency regarding our fee structure which is always discussed and agreed upon upfront before any services are rendered, ensuring no unexpected costs."
+      },
+      {
+        "question": "How quickly can I sell a high-end apartment in DLF Phase 5 Gurugram",
+        "answer": "The speed of sale depends heavily on accurate pricing, market conditions, and the property's unique features. For correctly priced, highly sought-after units in buildings like The Aralias or The Magnolias, sales can often be concluded within 3 to 6 months. Our expert Real Estate Agents in DLF Phase 5 focus on strategic marketing and targeting serious, qualified buyers to accelerate the process."
+      },
+      {
+        "question": "Are there good investment returns for rental properties in DLF Phase 5",
+        "answer": "Yes, DLF Phase 5 is a prime rental market due to its proximity to major corporate hubs and superior infrastructure. High-end apartments and floors attract top-tier expatriates and senior management professionals, commanding premium rental rates and ensuring strong rental yields relative to other areas in Gurugram. We provide detailed rental analysis before you invest."
+      },
+      {
+        "question": "What documentation is essential when buying a property in DLF Phase 5",
+        "answer": "Essential documents include the Deed of Conveyance, Occupancy Certificate (OC), Completion Certificate (CC), mutation records, and all relevant municipal approvals. If the property is a resale, the chain of previous ownership documents is critical. Our team ensures rigorous due diligence on all these legal papers before advising a purchase, mitigating all legal risks."
+      },
+      {
+        "question": "Do I need a local agent or can a national firm handle my DLF Phase 5 transaction",
+        "answer": "While national firms offer broad exposure, a local specialist provides invaluable hyper-localized knowledge essential for this unique market. Our Real Estate Agents in DLF Phase 5 Gurugram offer detailed insights into specific complex nuances, resident association rules, localized valuation trends, and access to private seller networks that generic firms often miss, giving you a competitive edge."
+      },
+      {
+        "question": "What are the current property valuation trends in DLF Phase 5",
+        "answer": "Property valuations in DLF Phase 5 generally show stable appreciation, especially for branded residences and apartments along the Golf Course Road. Factors influencing value include floor level, view, quality of interiors, and the specific tower/complex prestige. We provide a complimentary, data-driven Comparative Market Analysis (CMA) tailored exactly to your property."
+      },
+      {
+        "question": "Can I buy a property in DLF Phase 5 if I am an NRI",
+        "answer": "Yes, Non-Resident Indians (NRIs) are permitted to purchase both residential and commercial properties in India, including those in DLF Phase 5 Gurugram. The process involves adhering to specific FEMA guidelines and documentation requirements. Our agency specializes in facilitating smooth, compliant transactions for our NRI clients, handling all necessary legal and banking procedures on their behalf."
+      },
+      {
+        "question": "What services do your agents offer beyond simple buying and selling",
+        "answer": "Beyond transactional services, our DLF Phase 5 agents offer comprehensive property management for landlords, investment portfolio advisory services, negotiation of rental lease agreements, property staging consultation to maximize sales appeal, and personalized property search assistance for highly specific requirements. We are your complete property lifecycle partner."
+      },
+      {
+        "question": "Is it better to buy a ready-to-move-in or under-construction luxury property here",
+        "answer": "Ready-to-move-in properties offer immediate occupancy and certainty regarding quality and pricing, which is preferred by many in DLF Phase 5. Under-construction luxury projects often offer capital appreciation potential but carry developer risk and timeline uncertainty. Our agents evaluate the builder's track record and project stage to advise on the best option matching your risk profile and financial timeline."
+      },
+      {
+        "question": "How do you ensure property title is clear and dispute-free",
+        "answer": "Our agency follows a stringent legal verification protocol. We engage top real estate lawyers to perform exhaustive title searches, verify all statutory clearances, check for encumbrances or outstanding dues, and confirm the legitimacy of the seller. We only proceed with transactions where the title is absolutely clear and marketable, safeguarding your investment completely."
+      }
     ]
   },
   "contactSection": {
@@ -83,6 +206,11 @@
       "Ready to discuss your luxury property requirements or schedule a private viewing of exclusive listings in DLF Phase 5 Gurugram? Contact our expert team now.",
       "We are here to provide tailored market advice and superior transactional support tailored to the high standards of this elite community. Your next successful property transaction begins here."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

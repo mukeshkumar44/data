@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "shop-rental-sector-13.jpg",
-      "commercial-street-karnal.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Whether your business targets affluent residential buyers or needs high vehicular flow for easy pickup and drop-off we have the perfect Shop For Rent in Sector 13. Our listings cover main market centers local convenience hubs and newly developed commercial complexes ensuring you find a spot that perfectly aligns with your operational goals and target customer base in the best commercial areas of Karnal."
     ],
     "locations": [
-      "Main Market Road Commercial Strip",
-      "Near Housing Board Colony Junction",
-      "Sector 13 Internal Local Shopping Complex",
-      "Near Residential Block D Gate",
-      "Adjacent to Primary Bank Branches",
-      "Service Lane Commercial Units",
-      "Near Public Transport Hubs",
-      "Outer Ring Road Access Points"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

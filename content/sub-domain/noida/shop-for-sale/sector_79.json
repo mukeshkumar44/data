@@ -7,12 +7,18 @@
       "We present a curated selection of commercial spaces ranging from compact retail units ideal for startups to large anchor spaces perfectly suited for established brands. Investing here means securing a future asset in a strategically vital location. Explore listings that meet rigorous quality standards and offer superior design ensuring maximum visibility and rental yield. Discover your next profitable commercial asset in Sector 79 Noida with expert guidance tailored to your investment goals."
     ],
     "buttons": [
-      { "label": "Browse Verified Listings", "path": "/listings" },
-      { "label": "Request Commercial Guide", "path": "/contact" }
+      {
+        "label": "Browse Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Commercial Guide",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "shop-front-sector-79.jpg",
-      "commercial-investment-noida.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "Key nearby hubs include Sector 78 and Sector 104 which are densely populated residential zones providing a massive immediate customer base. The upcoming metro connectivity further strengthens this location making it an increasingly valuable asset for commercial property investors in Noida."
     ],
     "locations": [
-      "Sector 78 Residential Catchment Area",
-      "Sector 104 High-End Developments",
-      "FNG Expressway Connectivity Point",
-      "Noida Expressway Link Road Access",
-      "Central Avenue Commercial Corridor",
-      "Upcoming Metro Station Zone"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -156,6 +206,11 @@
       "Ready to explore prime opportunities for a Shop For Sale in Sector 79 Noida Our dedicated commercial real estate specialists are here to provide tailored consultation detailed market reports and curated property tours.",
       "Fill out the form below to receive personalized insights into market dynamics projected rental yields and financing options perfectly aligning with your investment objectives. Act now to secure your future asset."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

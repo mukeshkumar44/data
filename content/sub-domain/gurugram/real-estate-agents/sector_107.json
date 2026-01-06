@@ -7,12 +7,18 @@
       "Whether you are looking to purchase a ready-to-move apartment, invest in new launch projects, or sell your current property, our certified Real Estate Agents in Sector 107 are dedicated to simplifying the complex transaction process. Avoid transactional risks and secure the best valuations by partnering with professionals who understand the micro-market dynamics unique to this thriving Gurugram location. Start your seamless property journey today."
     ],
     "buttons": [
-      { "label": "Find Top Agents Now", "path": "/contact-us" },
-      { "label": "Explore Sector 107 Properties", "path": "/properties" }
+      {
+        "label": "Find Top Agents Now",
+        "path": "/contact-us"
+      },
+      {
+        "label": "Explore Sector 107 Properties",
+        "path": "/properties"
+      }
     ],
     "images": [
-      "/images/sector-107-skyline.jpg",
-      "/images/real-estate-agent-gurugram.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "We possess up-to-date knowledge on all upcoming developments, infrastructural upgrades, and pricing trends across these interconnected micro-markets, giving you a distinct advantage whether you are buying or selling residential or commercial property."
     ],
     "locations": [
-      "Sector 106 Gurugram",
-      "Sector 108 Dwarka Expressway",
-      "Sector 109 Gurugram",
-      "Sector 110 Connectivity",
-      "New Palam Vihar Extension",
-      "Dwarka Expressway Main Corridor",
-      "Sector 102 Luxury Projects",
-      "Palam Vihar Housing"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

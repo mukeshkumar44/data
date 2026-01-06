@@ -7,10 +7,19 @@
       "Investing in commercial real estate here means capitalizing on a growing residential population and excellent infrastructure development. We specialize in connecting you with verified properties that promise strong rental yields and significant capital appreciation. Explore shops near major thoroughfares, residential colonies, and established markets, ensuring your business benefits from prime location advantage and robust growth potential."
     ],
     "buttons": [
-      { "label": "Explore Prime Shop Listings", "path": "/listings/sector-25-shops" },
-      { "label": "Request Commercial Consultation", "path": "/contact-us" }
+      {
+        "label": "Explore Prime Shop Listings",
+        "path": "/listings/sector-25-shops"
+      },
+      {
+        "label": "Request Commercial Consultation",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["/images/sector25_shop_hero1.jpg", "/images/sector25_shop_hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Shop For Sale Options Tailored to Meet Every Business Investment Need",
@@ -52,14 +61,56 @@
       "The rapid development of supporting infrastructure, including public transport and ample parking facilities, further cements Sector 25's reputation as a business-friendly area. We provide insights into the specific micro-locations within Sector 25, helping you choose a Shop For Sale that aligns perfectly with your target demographic and business model, guaranteeing optimal exposure and operational efficiency."
     ],
     "locations": [
-      "Proximity to National Highway 9",
-      "Easy access to HUDA Market Sector 25",
-      "Near major residential societies",
-      "Well-connected to Rohtak City Center",
-      "Close to major educational campuses",
-      "Direct link to local industrial areas",
-      "Developing commercial main roads",
-      "Excellent public transport access points"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to find the ideal Shop For Sale in Sector 25 Rohtak? Contact our dedicated commercial real estate team now for personalized listings and tailored investment advice.",
       "We provide comprehensive market insights and property tours to help you secure the perfect location for your business success."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

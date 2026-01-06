@@ -7,10 +7,19 @@
       "Investing in residential property here means securing high value appreciation potential alongside a comfortable lifestyle. Explore our verified listings of apartments designed with contemporary architecture reliable construction quality and essential amenities like 24/7 security power backup and dedicated parking. We simplify the process of finding the perfect flat ensuring transparency and professional guidance from selection to final registration. Start your search for the ideal Flats For Sale in Sampla now and unlock your future home."
     ],
     "buttons": [
-      { "label": "Explore 2 BHK Listings", "path": "/2bhk-flats" },
-      { "label": "Download Sampla Investment Guide", "path": "/guide" }
+      {
+        "label": "Explore 2 BHK Listings",
+        "path": "/2bhk-flats"
+      },
+      {
+        "label": "Download Sampla Investment Guide",
+        "path": "/guide"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Residential Configurations When Exploring Flats For Sale in Sampla",
@@ -52,14 +61,56 @@
       "Whether you prioritize connectivity to the NH9 highway proximity to the railway station or quiet neighborhood living our expert team can guide you through the best investment zones. We focus on areas that promise strong appreciation potential access to essential services and a high quality of life when you look for Flats For Sale in Sampla."
     ],
     "locations": [
-      "Sampla Main Road Area",
-      "Railway Station Colony Extension",
-      "Gohana Road Residential Pockets",
-      "Sector 4 Sampla Development Zone",
-      "New Housing Board Colonies",
-      "Kheri Sampla Link Road Area",
-      "Industrial Area Residential Blocks",
-      "Rohtak Sampla Bypass Corridor"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

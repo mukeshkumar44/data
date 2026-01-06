@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Options for Flat For Sale in sector 80 Catering to Every Family Size",
@@ -58,14 +61,56 @@
       "The proximity to major highways and future infrastructure projects makes it a commuting dream. Residents benefit from quick access to both Delhi and Gurgaon, positioning sector 80 not just as a bedroom community but as a standalone, self-sufficient urban center."
     ],
     "locations": [
-      "Close Proximity to NH-19 (Delhi-Agra National Highway)",
-      "Excellent Access to the FNG Expressway linking Gurugram Noida and Ghaziabad",
-      "Near Upcoming Gurugram Metro Line Extension Stations",
-      "Quick Drive to the Commercial Hubs of Sector 81 and 85",
-      "Surrounded by Top-Rated Educational Institutions and Universities",
-      "Easy Reach of Major Hospitals and Healthcare Centers",
-      "Direct Access to Local Retail Markets and Shopping Complexes",
-      "Well-Connected to Indira Gandhi International Airport via Expressway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

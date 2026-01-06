@@ -7,10 +7,19 @@
       "Whether you're planning to open a retail store, a boutique, or a service-oriented business, our curated listings of shops for rent in Parshuram Nagar cater to diverse needs. Explore flexible leasing options, competitive pricing, and spaces designed to meet your business goals."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/shops" },
-      { "label": "Contact Us", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/shops"
+      },
+      {
+        "label": "Contact Us",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Shops For Rent in Parshuram Nagar Ambala",
@@ -19,12 +28,30 @@
       "Discover shops in prime locations within Parshuram Nagar, ensuring high foot traffic and visibility for your business. Whether you're a startup or an established brand, these spaces are designed to help you thrive."
     ],
     "features": [
-      { "title": "Compact Shops", "description": "Ideal for small businesses and startups, these shops offer affordable rental options in prime locations." },
-      { "title": "Medium-Sized Shops", "description": "Perfect for retail stores and boutiques, these spaces provide ample room for displays and customer interaction." },
-      { "title": "Large Commercial Units", "description": "Designed for established businesses, these units offer spacious interiors and high visibility." },
-      { "title": "Corner Shops", "description": "Maximize visibility and foot traffic with strategically located corner shops in Parshuram Nagar." },
-      { "title": "Ground Floor Shops", "description": "Ensure easy accessibility for customers with ground-floor shop rentals." },
-      { "title": "Multi-Level Shops", "description": "Expand your business with multi-level shop spaces, offering versatility and room for growth." }
+      {
+        "title": "Compact Shops",
+        "description": "Ideal for small businesses and startups, these shops offer affordable rental options in prime locations."
+      },
+      {
+        "title": "Medium-Sized Shops",
+        "description": "Perfect for retail stores and boutiques, these spaces provide ample room for displays and customer interaction."
+      },
+      {
+        "title": "Large Commercial Units",
+        "description": "Designed for established businesses, these units offer spacious interiors and high visibility."
+      },
+      {
+        "title": "Corner Shops",
+        "description": "Maximize visibility and foot traffic with strategically located corner shops in Parshuram Nagar."
+      },
+      {
+        "title": "Ground Floor Shops",
+        "description": "Ensure easy accessibility for customers with ground-floor shop rentals."
+      },
+      {
+        "title": "Multi-Level Shops",
+        "description": "Expand your business with multi-level shop spaces, offering versatility and room for growth."
+      }
     ]
   },
   "locationsSection": {
@@ -34,16 +61,56 @@
       "These areas are well-connected and offer excellent facilities, ensuring your business thrives in a supportive environment."
     ],
     "locations": [
-      "Model Town Ambala",
-      "Sector 7 Ambala",
-      "Ambala Cantt",
-      "Sector 8 Ambala",
-      "Sector 9 Ambala",
-      "Sector 12 Ambala",
-      "Railway Road Ambala",
-      "Jagadhri Road Ambala",
-      "Naraingarh Road Ambala",
-      "Sector 13 Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -53,30 +120,84 @@
       "From its strategic location to its vibrant market, Parshuram Nagar provides everything you need to succeed in your entrepreneurial journey."
     ],
     "points": [
-      { "title": "Prime Location", "description": "Parshuram Nagar is strategically located near key residential and commercial hubs, ensuring high visibility and foot traffic for your business." },
-      { "title": "Excellent Connectivity", "description": "With easy access to major roads and transportation links, Parshuram Nagar ensures seamless connectivity for both customers and suppliers." },
-      { "title": "Thriving Market", "description": "The area boasts a vibrant market, offering ample opportunities for businesses to flourish and grow." },
-      { "title": "Flexible Leasing Options", "description": "Choose from a range of leasing options tailored to meet your business needs and budget." },
-      { "title": "Competitive Pricing", "description": "Enjoy affordable rental rates without compromising on quality or location." },
-      { "title": "Modern Infrastructure", "description": "Shops in Parshuram Nagar are equipped with modern amenities, ensuring a comfortable and efficient working environment." },
-      { "title": "High Foot Traffic", "description": "Benefit from the constant flow of customers in Parshuram Nagar, boosting your business's visibility and sales." },
-      { "title": "Supportive Community", "description": "Join a thriving community of entrepreneurs and business owners who share your passion for success." }
+      {
+        "title": "Prime Location",
+        "description": "Parshuram Nagar is strategically located near key residential and commercial hubs, ensuring high visibility and foot traffic for your business."
+      },
+      {
+        "title": "Excellent Connectivity",
+        "description": "With easy access to major roads and transportation links, Parshuram Nagar ensures seamless connectivity for both customers and suppliers."
+      },
+      {
+        "title": "Thriving Market",
+        "description": "The area boasts a vibrant market, offering ample opportunities for businesses to flourish and grow."
+      },
+      {
+        "title": "Flexible Leasing Options",
+        "description": "Choose from a range of leasing options tailored to meet your business needs and budget."
+      },
+      {
+        "title": "Competitive Pricing",
+        "description": "Enjoy affordable rental rates without compromising on quality or location."
+      },
+      {
+        "title": "Modern Infrastructure",
+        "description": "Shops in Parshuram Nagar are equipped with modern amenities, ensuring a comfortable and efficient working environment."
+      },
+      {
+        "title": "High Foot Traffic",
+        "description": "Benefit from the constant flow of customers in Parshuram Nagar, boosting your business's visibility and sales."
+      },
+      {
+        "title": "Supportive Community",
+        "description": "Join a thriving community of entrepreneurs and business owners who share your passion for success."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shops For Rent in Parshuram Nagar Ambala",
     "description": "Here are answers to some common questions about renting a shop in Parshuram Nagar Ambala. If you have additional queries, feel free to contact us.",
     "faqs": [
-      { "question": "What types of shops are available for rent in Parshuram Nagar", "answer": "Parshuram Nagar offers a variety of shop sizes, including compact shops, medium-sized shops, and large commercial units, catering to diverse business needs." },
-      { "question": "How much does it cost to rent a shop in Parshuram Nagar", "answer": "Rental costs vary depending on the size and location of the shop. We offer competitive pricing to suit different budgets." },
-      { "question": "Is Parshuram Nagar a good location for starting a business", "answer": "Yes, Parshuram Nagar is a prime location with excellent connectivity, high foot traffic, and a thriving market, making it ideal for businesses." },
-      { "question": "Are there flexible leasing options available", "answer": "Yes, we provide flexible leasing options to accommodate your business needs and financial plans." },
-      { "question": "What amenities are available in shops for rent in Parshuram Nagar", "answer": "Shops in Parshuram Nagar are equipped with modern amenities, ensuring a comfortable and efficient working environment." },
-      { "question": "How can I view available shops in Parshuram Nagar", "answer": "You can browse our listings online or contact us to schedule a viewing of available shops." },
-      { "question": "Is Parshuram Nagar well-connected to other parts of Ambala", "answer": "Yes, Parshuram Nagar is well-connected to major roads and transportation links, ensuring easy access to other areas of Ambala." },
-      { "question": "Can I rent a shop for a short-term lease", "answer": "Yes, we offer short-term leasing options for businesses looking for temporary spaces." },
-      { "question": "What types of businesses thrive in Parshuram Nagar", "answer": "Retail stores, boutiques, service-oriented businesses, and restaurants are among the ventures that thrive in Parshuram Nagar." },
-      { "question": "How do I contact you for more information", "answer": "Feel free to reach out via our contact form or call us directly for more details about shop rentals in Parshuram Nagar." }
+      {
+        "question": "What types of shops are available for rent in Parshuram Nagar",
+        "answer": "Parshuram Nagar offers a variety of shop sizes, including compact shops, medium-sized shops, and large commercial units, catering to diverse business needs."
+      },
+      {
+        "question": "How much does it cost to rent a shop in Parshuram Nagar",
+        "answer": "Rental costs vary depending on the size and location of the shop. We offer competitive pricing to suit different budgets."
+      },
+      {
+        "question": "Is Parshuram Nagar a good location for starting a business",
+        "answer": "Yes, Parshuram Nagar is a prime location with excellent connectivity, high foot traffic, and a thriving market, making it ideal for businesses."
+      },
+      {
+        "question": "Are there flexible leasing options available",
+        "answer": "Yes, we provide flexible leasing options to accommodate your business needs and financial plans."
+      },
+      {
+        "question": "What amenities are available in shops for rent in Parshuram Nagar",
+        "answer": "Shops in Parshuram Nagar are equipped with modern amenities, ensuring a comfortable and efficient working environment."
+      },
+      {
+        "question": "How can I view available shops in Parshuram Nagar",
+        "answer": "You can browse our listings online or contact us to schedule a viewing of available shops."
+      },
+      {
+        "question": "Is Parshuram Nagar well-connected to other parts of Ambala",
+        "answer": "Yes, Parshuram Nagar is well-connected to major roads and transportation links, ensuring easy access to other areas of Ambala."
+      },
+      {
+        "question": "Can I rent a shop for a short-term lease",
+        "answer": "Yes, we offer short-term leasing options for businesses looking for temporary spaces."
+      },
+      {
+        "question": "What types of businesses thrive in Parshuram Nagar",
+        "answer": "Retail stores, boutiques, service-oriented businesses, and restaurants are among the ventures that thrive in Parshuram Nagar."
+      },
+      {
+        "question": "How do I contact you for more information",
+        "answer": "Feel free to reach out via our contact form or call us directly for more details about shop rentals in Parshuram Nagar."
+      }
     ]
   },
   "contactSection": {
@@ -85,6 +206,11 @@
       "Ready to find your ideal commercial space? Get in touch with us today to explore available shops for rent in Parshuram Nagar Ambala.",
       "Our team is here to assist you with all your rental needs, ensuring a seamless and hassle-free experience."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

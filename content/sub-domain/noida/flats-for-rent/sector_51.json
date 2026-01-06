@@ -7,10 +7,19 @@
       "We simplify your search for the best rental properties whether you need a compact 1 BHK or a spacious 3 BHK family apartment. Our inventory includes units in well-maintained societies and independent floors all vetted for quality and legal compliance. Start exploring affordable yet premium rental options in Sector 51 Noida now and move into your dream home sooner than you think. Enjoy proximity to quality schools top-tier hospitals and vibrant local markets."
     ],
     "buttons": [
-      { "label": "View Available Rental Flats", "path": "/listings/sector-51" },
-      { "label": "Schedule a Property Visit", "path": "/contact-us" }
+      {
+        "label": "View Available Rental Flats",
+        "path": "/listings/sector-51"
+      },
+      {
+        "label": "Schedule a Property Visit",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["/images/sector-51-hero-flat-rent.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore the Diverse Range of Flat Configurations Available For Rent in Sector 51 Noida",
@@ -52,14 +61,56 @@
       "Understanding the surrounding areas helps potential renters appreciate the strategic value of Sector 51. From high-street retail experiences to green parks for leisure this area ensures a high quality of life for all its residents and makes finding a premium Flat For Rent in Sector 51 a smart choice."
     ],
     "locations": [
-      "Sector 50 Residential Market and Commercial Center",
-      "Sector 71 Noida Metro Station Connectivity Hub",
-      "Sai Mandir Spiritual and Community Center",
-      "Hospital and Health Facilities near Sector 51",
-      "Vishwakarma Road Access to Industrial Areas",
-      "Hospitals and Educational Institutions Proximity",
-      "Upcoming Retail Malls and Entertainment Zones",
-      "Easy Access to Expressway for Delhi Travel"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to find your ideal rental home in the vibrant residential Sector 51 locality. Contact our specialized rental team now for personalized assistance exclusive property tours and expert advice tailored to your needs.",
       "Fill out the form below and one of our dedicated property advisors will get back to you within the hour to discuss the best available options that match your exact requirements and budget."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

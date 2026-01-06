@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-flat1.jpg",
-      "hero-sector104.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,13 +61,56 @@
       "The neighborhood surrounding Sector 104 is fully developed, offering top-tier social and retail infrastructure. World-class schools, prominent hospitals, and thriving retail centers are just minutes away. This convenient access to everyday necessities, combined with the sector’s planned green spaces, ensures a high quality of life for all residents. Choosing a Flat For Sale in Sector 104 means investing in convenience, future growth, and unparalleled connectivity within the NCR."
     ],
     "locations": [
-      "Noida-Greater Noida Expressway access",
-      "Proximity to Sector 110 market",
-      "Easy commute to Sector 135 IT Hubs",
-      "Near major educational institutions",
-      "Upcoming metro expansion benefits",
-      "Short drive to prominent shopping malls",
-      "Direct link to Delhi via DND Flyway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

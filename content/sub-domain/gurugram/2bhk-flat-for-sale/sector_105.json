@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Why Investing in a 2BHK Flat For Sale in Sector 105 Gurugram is Your Best Decision",
@@ -58,12 +61,56 @@
       "Furthermore the rapid development along this stretch is attracting premium retail and hospitality projects further enhancing the lifestyle quotient. When you purchase a 2BHK Flat For Sale in Sector 105 you are buying into future growth convenience and a quickly developing high-quality urban center providing all necessary amenities nearby."
     ],
     "locations": [
-      "Dwarka Expressway Main Access",
-      "Pataudi Road and NH 48 Connectivity",
-      "Sector 109 Gurugram Residential Hub",
-      "Indira Gandhi International Airport Delhi T3",
-      "Cyber Hub and Cyber City Business Districts",
-      "Basai Road Railway Station Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

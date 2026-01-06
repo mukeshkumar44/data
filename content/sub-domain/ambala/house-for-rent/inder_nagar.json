@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero_house_inder_nagar_1.jpg",
-      "hero_house_inder_nagar_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "Our property listings extend beyond the immediate boundaries of Inder Nagar to cover equally desirable adjacent localities. This broad coverage ensures you have the maximum possible choice when searching for the perfect rental accommodation that fits both your geographical preference and budget constraints. We are here to guide you through the best rental spots in the vicinity of Inder Nagar."
     ],
     "locations": [
-      "Houses For Rent in Ambala City",
-      "Rental Properties near Baldev Nagar",
-      "Residential Units in Vijay Nagar Ambala",
-      "Rental Homes in Preet Nagar",
-      "Independent Houses near Shastri Colony",
-      "Flats For Rent near Ambala Railway Station"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

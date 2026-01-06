@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Ideal Residential Property Type for Your Family in Sector 37D Gurugram",
@@ -58,14 +61,56 @@
       "This concentration of quality housing boosts the area's appeal, making it simpler to buy house in Sector 37D with confidence. We provide detailed analyses of specific societies, covering aspects like amenities offered, maintenance standards, developer reputation, and current price trends. Understanding the micro-market dynamics of each complex is crucial for making an informed investment decision. Explore our dedicated resources that compare the best offerings in luxury and affordable segments across this thriving sector in Gurugram."
     ],
     "locations": [
-      "Reputed Developers Group Housing",
-      "Signature Global Projects in 37D",
-      "Hero Homes Dwarka Expressway",
-      "ATS Triumph Residential Complex",
-      "Godrej Properties Sector 37D",
-      "Affordable Housing Schemes",
-      "Premium Independent Builder Floors",
-      "Newly Launched Residential Towers"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

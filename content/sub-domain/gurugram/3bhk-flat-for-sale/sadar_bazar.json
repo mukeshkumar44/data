@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/sadar-bazar-3bhk-hero1.jpg",
-      "/images/sadar-bazar-3bhk-hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,13 +61,56 @@
       "We understand that location is paramount when seeking a 3BHK Flat For Sale in Sadar Bazar. Our properties are chosen not just for their internal quality but for their surrounding environment guaranteeing immediate access to green spaces commercial complexes and easy exit routes onto the Delhi-Jaipur Expressway NH-48."
     ],
     "locations": [
-      "Gurugram Railway Station",
-      "Sohna Road Commercial Hub",
-      "Sector 29 Entertainment District",
-      "Civil Lines Gurugram",
-      "NH-48 Expressway Access",
-      "Rajiv Chowk Intersection",
-      "DLF Cyber City"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

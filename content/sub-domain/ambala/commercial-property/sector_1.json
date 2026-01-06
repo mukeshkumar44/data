@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "sector1_commercial_view_1.jpg",
-      "office_space_ambala.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "This strategic placement ensures that your business benefits from high visibility and easy logistical operations. Nearby areas like Ambala Cantt and the main city markets provide an immense catchment area for both retail customers and potential corporate clients. Furthermore, the presence of established banking and financial institutions nearby creates a robust ecosystem supportive of commercial growth. We highlight properties that are not just within Sector 1 but are best positioned to leverage this expansive regional connectivity for superior returns."
     ],
     "locations": [
-      "Ambala Cantt Railway Station Accessibility",
-      "NH 44 National Highway Connectivity",
-      "Proximity to Model Town Commercial Hub",
-      "Easy Access to Ambala City Main Market",
-      "Close to Key Industrial Area Clusters",
-      "Major Residential Colonies surrounding Sector 1"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

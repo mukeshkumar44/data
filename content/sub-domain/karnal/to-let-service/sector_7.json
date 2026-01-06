@@ -7,10 +7,19 @@
       "We understand the value of time and transparency. Our service ensures that all listings are verified, documentation is meticulous, and negotiations are handled professionally to secure the best terms for both property owners and tenants. Stop wasting weekends scrolling through unverified listings. Partner with the top-rated To let Service in Sector 7 to achieve your rental goals with efficiency and peace of mind."
     ],
     "buttons": [
-      { "label": "Browse Available Rentals", "path": "/rentals" },
-      { "label": "List Your Property Now", "path": "/list-property" }
+      {
+        "label": "Browse Available Rentals",
+        "path": "/rentals"
+      },
+      {
+        "label": "List Your Property Now",
+        "path": "/list-property"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Rental Property Options Provided by Our Comprehensive To let Service in Sector 7",
@@ -52,13 +61,56 @@
       "Whether you need to be close to the national highway for quick commuting or prefer the established residential calm of an adjacent sector, we have listings tailored to every logistical requirement. Explore these popular rental destinations served by our leading To let Service in Sector 7 and surrounding areas."
     ],
     "locations": [
-      "Sector 6 Rental Properties",
-      "Sector 8 Housing Options",
-      "NH 44 Connectivity Rental Hubs",
-      "Model Town Rental Flats",
-      "Main Sector 7 Market Area",
-      "Urban Estate Phase 1 Rentals",
-      "Kunjpura Road Rental Units"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -154,6 +206,11 @@
       "Ready to find your next rental property or maximize the income potential of your investment in Sector 7 Karnal Stop searching and start succeeding with our expert guidance. Contact our team today for a confidential discussion about your specific needs.",
       "Whether you are a first-time landlord or a seasoned renter, we provide tailored advice and dedicated support. Reach out now to leverage the best To let Service in the region."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

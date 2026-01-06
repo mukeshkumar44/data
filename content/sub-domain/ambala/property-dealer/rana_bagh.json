@@ -7,12 +7,18 @@
       "Our portfolio features verified residential plots independent houses ready-to-move apartments and prime commercial spaces tailored to meet diverse financial and lifestyle needs We simplify the complex process of buying and selling ensuring absolute transparency and legal clarity from initial inquiry through to final registration Let us be your reliable guide in navigating the dynamic real estate landscape of Rana Bagh and securing a valuable asset today"
     ],
     "buttons": [
-      { "label": "View Available Properties Now", "path": "/listings" },
-      { "label": "Speak to an Expert Property Advisor", "path": "/contact" }
+      {
+        "label": "View Available Properties Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Speak to an Expert Property Advisor",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "ranabagh_hero_image1.jpg",
-      "ranabagh_hero_image2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,15 +61,56 @@
       "We provide detailed insights into infrastructure developments population growth trends and pricing differentials across these nearby areas ensuring that your investment is strategic and future-proof Whether you seek a quiet residential area or a high-footfall commercial zone our team guides you through the nuances of each location maximizing your property's appreciation potential and securing the lifestyle you desire within the wider Ambala region"
     ],
     "locations": [
-      "Nearby Sectors Ambala City",
-      "Areas Adjoining Ambala Cantt",
-      "Dhulkot and Associated Colonies",
-      "Baldev Nagar Extension",
-      "Sector 7 Urban Estate Ambala",
-      "Near Delhi-Chandigarh Highway Connectivity Points",
-      "Mohra and Surrounding Residential Pockets",
-      "Main Road Frontage Rana Bagh",
-      "Prime Commercial Zones in Rana Bagh"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

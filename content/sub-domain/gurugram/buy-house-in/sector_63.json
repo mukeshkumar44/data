@@ -7,10 +7,19 @@
       "We present carefully curated listings of ready-to-move-in homes and builder floors that meet international standards of quality and comfort. Whether you are looking for a luxurious villa or a spacious apartment Sector 63 provides excellent connectivity to major business hubs renowned educational institutions and world-class healthcare facilities. Investing here means securing a high-growth asset in a rapidly appreciating micro-market. Start your journey towards owning your dream house in Sector 63 Gurugram now."
     ],
     "buttons": [
-      { "label": "View Luxury Homes", "path": "/listings/luxury" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "View Luxury Homes",
+        "path": "/listings/luxury"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Varied Housing Options When You Decide to Buy House in Sector 63 Gurugram",
@@ -52,14 +61,56 @@
       "Key areas like Golf Course Road Sohna Road and NH-48 are easily accessible reducing commute times significantly. Furthermore the robust social infrastructure nearby includes world-class hospitals such as Medanta The Medicity and Artemis Hospital ensuring top-tier medical care is always close at hand. This area is also close to major corporate hubs and commercial centers providing excellent employment opportunities for residents. When you buy house here you are not just purchasing property you are investing in a complete ecosystem designed for convenience and growth."
     ],
     "locations": [
-      "Golf Course Extension Road Access",
-      "Southern Peripheral Road Connectivity",
-      "Rapid Metro Sector 55-56 Station",
-      "Worldmark Gurugram Commercial Hub",
-      "AIPL Business Park Nearby",
-      "Heritage Xperiential Learning School",
-      "Artemis and Medanta Hospitals",
-      "M3M Urbana Business Park Proximity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure your premium house in the thriving Sector 63 Gurugram market We provide personalized consultations tailored to your exact needs budget and lifestyle requirements.",
       "Our expert team possesses deep localized knowledge of the Sector 63 real estate landscape ensuring you receive the most accurate and up-to-date market information. Let us handle the complexities of negotiation legal verification and registration so you can focus solely on moving into your new dream home. Fill out the contact form below and take the first step towards a smart and rewarding property investment in Gurugram."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

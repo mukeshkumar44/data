@@ -7,12 +7,18 @@
       "Investing in a plot in Sector 29 means securing your future in one of Noida’s most promising areas. We offer a curated selection of registered and verified plots of various sizes, suitable for building your dream home or a profitable business establishment. Explore our listings today to find the perfect Plot For Sale in Sector 29 that meets your specific requirements and investment goals. Don't miss this chance to capitalize on Noida's booming real estate market with certified properties."
     ],
     "buttons": [
-      { "label": "View All Available Plots", "path": "/plots/sector-29/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact-us" }
+      {
+        "label": "View All Available Plots",
+        "path": "/plots/sector-29/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "sector-29-plot-hero-1.jpg",
-      "sector-29-plot-hero-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Understanding the surrounding areas helps potential buyers appreciate the overall ecosystem and future growth prospects of their investment. We are focused on providing plots that offer easy access to everything you need, from top-tier schools and hospitals to bustling markets and entertainment complexes, cementing Sector 29 as a desirable address."
     ],
     "locations": [
-      "Sector 18 Noida",
-      "Sector 30 Noida",
-      "Sector 27 Noida",
-      "Botanical Garden Metro Station",
-      "DLF Mall of India",
-      "Noida Golf Course",
-      "Atta Market",
-      "Greater Noida Expressway Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to find the ideal Plot For Sale in Sector 29 Noida? Our team of experienced real estate professionals is here to provide personalized advice, detailed site reports, and transparent transaction support.",
       "Fill out the form below to schedule a consultation or site visit. We ensure you make an informed decision and secure the best investment property available in this premium locality."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

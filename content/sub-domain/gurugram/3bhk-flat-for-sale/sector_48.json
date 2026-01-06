@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Features and Amenities Defining Luxury 3BHK Living in Sector 48 Gurugram",
@@ -58,14 +61,56 @@
       "Healthcare needs are easily met with major hospitals such as Medanta The Medicity and Artemis nearby. Shopping and entertainment options abound with Omaxe Celebration Mall and Eros City Square just minutes away. This superior connectivity drastically cuts down commuting stress adding precious hours back into your day. When you look for a 3BHK flat for sale in Sector 48 you are not just buying a home you are investing in a lifestyle defined by ease and access. We help you identify properties that leverage this strategic location to the fullest."
     ],
     "locations": [
-      "Golf Course Extension Road",
-      "NH 48 connectivity",
-      "Sohna Road Commercial Hubs",
-      "Medanta The Medicity Hospital",
-      "Huda City Centre Metro Station",
-      "Spaze Platinum Tower",
-      "Amity International School",
-      "Omaxe Celebration Mall"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

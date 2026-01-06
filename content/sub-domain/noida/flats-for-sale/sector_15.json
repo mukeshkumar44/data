@@ -7,10 +7,19 @@
       "We specialize in presenting verified homes ranging from efficient 1 BHK units perfect for singles and students to luxurious 3 BHK and 4 BHK apartments designed for spacious family living. Investing in Sector 15 means securing a home in a mature neighborhood known for its quick access to major roads the DND Flyway and the vibrant commercial centre of Sector 18. Start exploring our portfolio of high-demand properties and take the first step toward owning a premium residence in Noida’s heartland."
     ],
     "buttons": [
-      { "label": "Browse 3 BHK Flats", "path": "/search/3bhk-sector-15" },
-      { "label": "Get Free Consultation", "path": "/contact" }
+      {
+        "label": "Browse 3 BHK Flats",
+        "path": "/search/3bhk-sector-15"
+      },
+      {
+        "label": "Get Free Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Flat Configurations and Premium Residential Options in Sector 15 Noida",
@@ -52,12 +61,56 @@
       "Explore neighboring sectors and major connectivity points that enhance the appeal and investment potential of residential properties in Sector 15. The access to the Delhi Metro Blue Line stations nearby is a huge advantage for daily commuters making Sector 15 a highly sought-after destination for families and working professionals across NCR."
     ],
     "locations": [
-      "Sector 18 Noida Entertainment and Commercial Centre",
-      "DND Flyway Direct Connectivity to South Delhi",
-      "Sector 16 Noida Media Hub and Corporate Offices",
-      "Atta Market Local Shopping and Retail Center",
-      "Noida Sector 15 Metro Station Immediate Access",
-      "Sector 14 Residential and Institutional Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to secure your dream flat in Sector 15 Noida Our team of experienced property consultants specializes in this prime location and is prepared to offer personalized guidance tailored to your specific investment needs and lifestyle.",
       "Submit your details today to receive a curated list of properties market insights and expert advice ensuring your home buying journey is successful efficient and stress-free."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

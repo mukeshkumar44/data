@@ -7,10 +7,19 @@
       "Explore exclusive listings that boast excellent natural light superior construction quality and access to world-class amenities. Sector 112 offers unparalleled access to major expressways schools hospitals and commercial centers ensuring everything you need is just minutes away. Invest in a lifestyle of comfort and growth finding the perfect two-bedroom apartment that suits your aspirations and budget. Contact our experts now to book a site visit and secure your ideal home in this burgeoning sector."
     ],
     "buttons": [
-      { "label": "Explore 2BHK Listings", "path": "/listings" },
-      { "label": "Schedule Site Visit", "path": "/contact" }
+      {
+        "label": "Explore 2BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero-flat1.webp", "/images/hero-flat2.webp"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Features of a 2BHK Flat in Sector 112 Noida Designed for Modern Living",
@@ -52,14 +61,56 @@
       "Our focus extends beyond just the walls of your 2BHK Flat For Sale in Sector 112. We highlight the location advantages that connect you seamlessly to business districts educational hubs and major transport infrastructure ensuring a balanced and convenient life for residents."
     ],
     "locations": [
-      "Sector 110 Noida",
-      "Sector 113 Noida",
-      "Sector 78 Noida",
-      "Noida Expressway Link Road",
-      "Atta Market Noida",
-      "Gautam Buddha University",
-      "FNG Expressway Link",
-      "Dadri Road Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning your ideal 2BHK flat in Sector 112 Noida We are here to provide tailored advice detailed listings and guided site visits to ensure you find the perfect match.",
       "Fill out the quick form below and our dedicated property consultants will contact you shortly with the best investment opportunities currently available in this prime location."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "flat_sector7_hero1.jpg",
-      "flat_sector7_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Beyond transport links, Sector 7 is self-sufficient, surrounded by well-developed residential and commercial pockets. Residents benefit from immediate access to top-tier schools, multispecialty hospitals, and vibrant local markets. Choosing a flat here means securing a home in a locale that prioritizes convenience and quality of life. Review the key nearby landmarks and important connectivity points that enhance the appeal of owning a residential Flat For Sale in sector 7."
     ],
     "locations": [
-      "NH-19 Mathura Road Access",
-      "Old Gurugram Metro Station",
-      "Badarpur Border Connectivity",
-      "Major Malls and Shopping Centers",
-      "Reputable Schools and Colleges",
-      "Sufficient Public Transport Options",
-      "Proximity to Industrial Area",
-      "Parks and Green Spaces"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

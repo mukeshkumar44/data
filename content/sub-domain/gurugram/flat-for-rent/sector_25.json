@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/flat_rental_sector25_1.jpg",
-      "/images/flat_rental_sector25_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Furthermore, the sector is extremely well-served by public transport, including a robust auto and bus network that connects quickly to the nearest Metro stations. The localized infrastructure is also exceptionally strong, with numerous reputable schools, multi-specialty hospitals, and modern shopping complexes situated just minutes away. This perfect blend of strong urban infrastructure and peaceful community living makes searching for a quality Flat For Rent in sector 25 a smart decision for long-term stability and quality of life. Explore the convenience of living near everything you need while enjoying the calm, secure residential environment that Sector 25 is famous for across Gurugram."
     ],
     "locations": [
-      "Educational Institutions",
-      "Healthcare Facilities and Hospitals",
-      "Shopping Malls and Local Markets",
-      "Metro Connectivity Points",
-      "Major Industrial Area Access",
-      "Parks and Recreation Zones",
-      "Banking and Financial Services",
-      "Quick Access to National Highway 19"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

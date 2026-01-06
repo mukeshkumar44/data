@@ -7,12 +7,18 @@
       "sector 10a is strategically positioned ensuring easy access to major commercial hubs schools and hospitals making daily life incredibly convenient. We showcase verified listings of flats that meet rigorous standards of construction quality and legal compliance. Explore ready-to-move-in flats and exciting under-construction projects ensuring you find the perfect match for your lifestyle and investment goals. Discover the ideal sector 10a flat today"
     ],
     "buttons": [
-      { "label": "Browse Verified Listings", "path": "/listings" },
-      { "label": "Get Price Details Now", "path": "/contact" }
+      {
+        "label": "Browse Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Price Details Now",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/hero-flat-10a-1.jpg",
-      "/images/hero-flat-10a-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "Whether you are looking for slightly different price points or specific proximity to schools or workplaces exploring neighboring sectors is highly recommended. These areas complement sector 10a providing additional choices for a quality Flat For Sale near prime locations."
     ],
     "locations": [
-      "Sector 10 Gurugram",
-      "Sector 11 Gurugram",
-      "Sector 9 Gurugram",
-      "Sector 8 Gurugram",
-      "New Industrial Township 2",
-      "NHPC Chowk Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

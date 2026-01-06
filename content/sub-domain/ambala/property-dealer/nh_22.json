@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Verified Residential Plot Sizes Available for Investment along NH 22 Ambala Highway",
@@ -58,14 +61,56 @@
       "Whether you prefer the established infrastructure of areas closer to the Ambala City center or the open space and modern planning of peripheral developments our comprehensive listings cover the spectrum. As your dedicated Property Dealer in NH 22 we provide crucial comparison data on infrastructure quality local amenities and future development projects specific to each neighborhood so you can choose the optimal location for your needs and future growth potential maximizing your returns."
     ],
     "locations": [
-      "Ambala Cantt Residential Hubs",
-      "Developing Sectors near Barara Bypass",
-      "Modern Colonies on GT Road Extension NH 22",
-      "Investment Hotspots near Sector 9 Ambala",
-      "Industrial Belt Proximity Plots",
-      "Properties near Chandigarh-Ambala Expressway",
-      "High-Return Commercial Lands",
-      "Ready-to-Move Flats near Highway Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

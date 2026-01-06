@@ -7,12 +7,18 @@
       "Investing in a shop for sale in Sector 112 means securing your asset in an area witnessing rapid residential development and infrastructural upgrades. This ensures immediate catchment potential and long-term capital appreciation. Explore premium properties today that offer guaranteed rental income potential and superior visibility for your enterprise."
     ],
     "buttons": [
-      { "label": "Explore Premium Listings", "path": "/listings" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "Explore Premium Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/hero-shop-sector-112-1.jpg",
-      "/images/hero-shop-sector-112-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -22,12 +28,30 @@
       "Our featured shops for sale in Sector 112 include units designed with high ceilings wide frontages and dedicated parking areas ensuring a premium customer experience. These sizes, while traditional in nomenclature, translate directly into highly functional commercial environments perfect for retail success and long-term leasing stability."
     ],
     "features": [
-      { "title": "4 Marla Plot", "description": "Ideal compact retail spaces perfect for small startups essential services like pharmacies or boutique stores. These units offer high visibility at an attractive entry price making them an excellent first-time investment in Sector 112’s thriving commercial market. Expect quick rental absorption due to their affordability and functional design." },
-      { "title": "6 Marla Plot", "description": "Medium-sized shops suitable for branded retail outlets mobile service centres or specialized cafes. A 6 Marla unit provides ample space for comfortable customer movement and extensive display options. This size is popular among established regional chains looking for a strategic location with assured foot traffic." },
-      { "title": "8 Marla Plot", "description": "Premium double-height retail units often utilized for upscale salons electronics showrooms or multi-brand lifestyle stores. This larger footprint allows for impressive interior design and vertical branding maximizing street presence. These shops command higher rental yields due to their scale and commercial versatility." },
-      { "title": "10 Marla Plot", "description": "Substantial commercial spaces perfect for mini anchor stores or standalone QSR Quick Service Restaurant formats with dedicated seating. Investing in a 10 Marla shop for sale in Sector 112 targets businesses needing significant floor space and warehousing capacity ensuring operational efficiency." },
-      { "title": "12 Marla Plot", "description": "Large format retail units designated for banks financial institutions or high-end furniture and interior design stores. These properties often benefit from corner placements or prime access points guaranteeing maximum brand exposure and easy customer accessibility across the sector." },
-      { "title": "14 Marla Plot", "description": "The largest premium spaces reserved for supermarkets food court anchors or expansive gymnasiums and wellness centres. A 14 Marla shop represents a substantial commercial commitment offering potential for long-term leases with major national or international tenants providing stable long-term income." }
+      {
+        "title": "4 Marla Plot",
+        "description": "Ideal compact retail spaces perfect for small startups essential services like pharmacies or boutique stores. These units offer high visibility at an attractive entry price making them an excellent first-time investment in Sector 112’s thriving commercial market. Expect quick rental absorption due to their affordability and functional design."
+      },
+      {
+        "title": "6 Marla Plot",
+        "description": "Medium-sized shops suitable for branded retail outlets mobile service centres or specialized cafes. A 6 Marla unit provides ample space for comfortable customer movement and extensive display options. This size is popular among established regional chains looking for a strategic location with assured foot traffic."
+      },
+      {
+        "title": "8 Marla Plot",
+        "description": "Premium double-height retail units often utilized for upscale salons electronics showrooms or multi-brand lifestyle stores. This larger footprint allows for impressive interior design and vertical branding maximizing street presence. These shops command higher rental yields due to their scale and commercial versatility."
+      },
+      {
+        "title": "10 Marla Plot",
+        "description": "Substantial commercial spaces perfect for mini anchor stores or standalone QSR Quick Service Restaurant formats with dedicated seating. Investing in a 10 Marla shop for sale in Sector 112 targets businesses needing significant floor space and warehousing capacity ensuring operational efficiency."
+      },
+      {
+        "title": "12 Marla Plot",
+        "description": "Large format retail units designated for banks financial institutions or high-end furniture and interior design stores. These properties often benefit from corner placements or prime access points guaranteeing maximum brand exposure and easy customer accessibility across the sector."
+      },
+      {
+        "title": "14 Marla Plot",
+        "description": "The largest premium spaces reserved for supermarkets food court anchors or expansive gymnasiums and wellness centres. A 14 Marla shop represents a substantial commercial commitment offering potential for long-term leases with major national or international tenants providing stable long-term income."
+      }
     ]
   },
   "locationsSection": {
@@ -37,14 +61,56 @@
       "The location’s strength lies in its ability to serve a massive captive audience from densely populated neighbourhoods while attracting visitors from further afield due to excellent road networks. This synergy guarantees consistent business activity regardless of the economic climate making investments here extremely resilient."
     ],
     "locations": [
-      "Adjoining Residential Sectors",
-      "Major Expressway Access Points",
-      "Upcoming Metro Corridor Proximity",
-      "Existing Retail Malls nearby",
-      "Institutional and Educational Zone",
-      "Dedicated Industrial Catchment Area",
-      "Hospitals and Healthcare Facilities",
-      "IT Hub Peripheral Zones"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -54,30 +120,84 @@
       "Our expertise ensures you acquire property with clear title RERA compliance and excellent location mapping. We simplify the process of securing your next commercial shop for sale in Sector 112 making your investment journey seamless and profitable."
     ],
     "points": [
-      { "title": "High Density Residential Catchment", "description": "Sector 112 is surrounded by numerous large-scale residential projects providing an immediate and affluent customer base right at your doorstep. This captive audience ensures high initial footfall and sustained sales for all types of retail businesses and services." },
-      { "title": "Superior Infrastructure Development", "description": "The area boasts excellent wide roads robust utility services and modern commercial architecture. Investing in a shop here means operating in a professional environment that enhances brand value and attracts premium customers." },
-      { "title": "Assured Long-Term Capital Growth", "description": "As the sector matures and more housing units are delivered the valuation of commercial properties is projected to skyrocket. Purchasing a shop for sale in Sector 112 now positions you to capitalize on this exponential growth trajectory over the next five to seven years." },
-      { "title": "RERA Approved and Verified Properties", "description": "We only deal with verified commercial listings from reputed developers ensuring legal clarity and protection for your investment. All shop properties are RERA compliant offering complete transparency throughout the transaction process." },
-      { "title": "Excellent Connectivity and Accessibility", "description": "Strategic placement near key arterial roads and anticipated public transport links maximizes visitor traffic. Accessibility is a major driver of commercial success and Sector 112 excels in offering multimodal connectivity." },
-      { "title": "Attractive Rental Yield Potential", "description": "Due to the lack of adequate premium commercial supply currently, rental yields are highly competitive and attractive for investors seeking passive income. Commercial shops here are rented quickly by national retailers." },
-      { "title": "Professional Property Management Services", "description": "We connect investors with reliable property management services to handle leasing maintenance and tenant relations. This hassle-free ownership model is ideal for out-of-town or busy investors." },
-      { "title": "Diverse Investment Ticket Sizes Available", "description": "From small kiosks perfect for quick returns to large anchor spaces requiring significant capital, Sector 112 offers investment options tailored to every budget and risk appetite within the commercial segment." }
+      {
+        "title": "High Density Residential Catchment",
+        "description": "Sector 112 is surrounded by numerous large-scale residential projects providing an immediate and affluent customer base right at your doorstep. This captive audience ensures high initial footfall and sustained sales for all types of retail businesses and services."
+      },
+      {
+        "title": "Superior Infrastructure Development",
+        "description": "The area boasts excellent wide roads robust utility services and modern commercial architecture. Investing in a shop here means operating in a professional environment that enhances brand value and attracts premium customers."
+      },
+      {
+        "title": "Assured Long-Term Capital Growth",
+        "description": "As the sector matures and more housing units are delivered the valuation of commercial properties is projected to skyrocket. Purchasing a shop for sale in Sector 112 now positions you to capitalize on this exponential growth trajectory over the next five to seven years."
+      },
+      {
+        "title": "RERA Approved and Verified Properties",
+        "description": "We only deal with verified commercial listings from reputed developers ensuring legal clarity and protection for your investment. All shop properties are RERA compliant offering complete transparency throughout the transaction process."
+      },
+      {
+        "title": "Excellent Connectivity and Accessibility",
+        "description": "Strategic placement near key arterial roads and anticipated public transport links maximizes visitor traffic. Accessibility is a major driver of commercial success and Sector 112 excels in offering multimodal connectivity."
+      },
+      {
+        "title": "Attractive Rental Yield Potential",
+        "description": "Due to the lack of adequate premium commercial supply currently, rental yields are highly competitive and attractive for investors seeking passive income. Commercial shops here are rented quickly by national retailers."
+      },
+      {
+        "title": "Professional Property Management Services",
+        "description": "We connect investors with reliable property management services to handle leasing maintenance and tenant relations. This hassle-free ownership model is ideal for out-of-town or busy investors."
+      },
+      {
+        "title": "Diverse Investment Ticket Sizes Available",
+        "description": "From small kiosks perfect for quick returns to large anchor spaces requiring significant capital, Sector 112 offers investment options tailored to every budget and risk appetite within the commercial segment."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Investing in a Shop For Sale in Sector 112",
     "description": "Get detailed, expert answers to the most common queries regarding legal aspects, investment viability, and property management for commercial shops in this vibrant sector.",
     "faqs": [
-      { "question": "What is the typical rental yield expected from a commercial shop in Sector 112", "answer": "The expected rental yield for a prime commercial shop in Sector 112 currently ranges between 6 to 8 percent annually depending on the specific location and the quality of the developer. Units within integrated mixed-use developments generally fetch higher returns due to guaranteed footfall and superior amenities. We provide detailed financial projections based on current market trends before any purchase decision." },
-      { "question": "Are the shops in Sector 112 offered as freehold or on leasehold terms", "answer": "The majority of the commercial shops for sale in Sector 112 are offered on a freehold basis providing the owner with complete ownership rights over the property and the land proportionate to the unit size. It is essential to confirm the status for each specific project but freehold ownership is the dominant structure in this commercial market." },
-      { "question": "What documentation is required to purchase a commercial shop property here", "answer": "To secure a shop for sale in Sector 112 you typically require standard KYC documents such as Aadhar PAN card proof of current address and photographs. Additionally you will need documentation related to financing if applicable. We assist clients in compiling all necessary legal paperwork including the Agreement to Sale and final Sale Deed ensuring a smooth legal transfer of ownership." },
-      { "question": "Is Sector 112 considered a high-footfall area suitable for retail", "answer": "Yes Sector 112 is rapidly becoming a significant high-footfall area primarily driven by its surrounding dense residential population and excellent road connectivity that draws transit traffic. New commercial developments are strategically positioned near high-traffic intersections ensuring maximum visibility and business opportunity for all retail tenants." },
-      { "question": "What are the common maintenance costs associated with commercial shops here", "answer": "Maintenance charges typically cover common area electricity security housekeeping and common facility upkeep. These charges vary by project but usually average between 15 to 25 rupees per square foot per month. Details of the Common Area Maintenance CAM agreement are provided upfront by the developer or the RWA Residents Welfare Association." },
-      { "question": "Can Non-Resident Indians NRI invest in commercial property in Sector 112", "answer": "Absolutely Non-Resident Indians are fully permitted to invest in commercial properties including shops in Sector 112. They must typically route funds through NRE or NRO accounts and adhere to FEMA guidelines. We offer specialized services to guide NRI investors through the necessary legal and financial compliance procedures." },
-      { "question": "What are the tax implications when buying a shop in this location", "answer": "Tax implications include GST Goods and Services Tax on under-construction properties stamp duty and registration charges which are standard across the state. Investors should consult with a tax professional regarding TDS Tax Deducted at Source on rental income and potential deductions available for commercial property ownership." },
-      { "question": "How soon can I expect possession after booking an under-construction shop", "answer": "Possession timelines are strictly governed by the RERA registration details of the project. Typically commercial projects in Sector 112 have delivery timelines ranging from 12 to 36 months depending on the construction stage. We prioritize RERA verified projects with established delivery track records." },
-      { "question": "Are there financing options available for commercial shops in Sector 112", "answer": "Yes most major national and private sector banks offer commercial property loans for purchasing shops in Sector 112. Loan eligibility depends on the buyer’s financial profile and the value of the commercial asset. We can connect you with leading financial institutions offering favourable loan terms." },
-      { "question": "What security features are common in commercial complexes in Sector 112", "answer": "Modern commercial complexes in Sector 112 feature extensive security measures including 24/7 CCTV surveillance manned security personnel fire safety systems boom barriers and controlled access points. Investor security and tenant safety are paramount for these high-value commercial assets." }
+      {
+        "question": "What is the typical rental yield expected from a commercial shop in Sector 112",
+        "answer": "The expected rental yield for a prime commercial shop in Sector 112 currently ranges between 6 to 8 percent annually depending on the specific location and the quality of the developer. Units within integrated mixed-use developments generally fetch higher returns due to guaranteed footfall and superior amenities. We provide detailed financial projections based on current market trends before any purchase decision."
+      },
+      {
+        "question": "Are the shops in Sector 112 offered as freehold or on leasehold terms",
+        "answer": "The majority of the commercial shops for sale in Sector 112 are offered on a freehold basis providing the owner with complete ownership rights over the property and the land proportionate to the unit size. It is essential to confirm the status for each specific project but freehold ownership is the dominant structure in this commercial market."
+      },
+      {
+        "question": "What documentation is required to purchase a commercial shop property here",
+        "answer": "To secure a shop for sale in Sector 112 you typically require standard KYC documents such as Aadhar PAN card proof of current address and photographs. Additionally you will need documentation related to financing if applicable. We assist clients in compiling all necessary legal paperwork including the Agreement to Sale and final Sale Deed ensuring a smooth legal transfer of ownership."
+      },
+      {
+        "question": "Is Sector 112 considered a high-footfall area suitable for retail",
+        "answer": "Yes Sector 112 is rapidly becoming a significant high-footfall area primarily driven by its surrounding dense residential population and excellent road connectivity that draws transit traffic. New commercial developments are strategically positioned near high-traffic intersections ensuring maximum visibility and business opportunity for all retail tenants."
+      },
+      {
+        "question": "What are the common maintenance costs associated with commercial shops here",
+        "answer": "Maintenance charges typically cover common area electricity security housekeeping and common facility upkeep. These charges vary by project but usually average between 15 to 25 rupees per square foot per month. Details of the Common Area Maintenance CAM agreement are provided upfront by the developer or the RWA Residents Welfare Association."
+      },
+      {
+        "question": "Can Non-Resident Indians NRI invest in commercial property in Sector 112",
+        "answer": "Absolutely Non-Resident Indians are fully permitted to invest in commercial properties including shops in Sector 112. They must typically route funds through NRE or NRO accounts and adhere to FEMA guidelines. We offer specialized services to guide NRI investors through the necessary legal and financial compliance procedures."
+      },
+      {
+        "question": "What are the tax implications when buying a shop in this location",
+        "answer": "Tax implications include GST Goods and Services Tax on under-construction properties stamp duty and registration charges which are standard across the state. Investors should consult with a tax professional regarding TDS Tax Deducted at Source on rental income and potential deductions available for commercial property ownership."
+      },
+      {
+        "question": "How soon can I expect possession after booking an under-construction shop",
+        "answer": "Possession timelines are strictly governed by the RERA registration details of the project. Typically commercial projects in Sector 112 have delivery timelines ranging from 12 to 36 months depending on the construction stage. We prioritize RERA verified projects with established delivery track records."
+      },
+      {
+        "question": "Are there financing options available for commercial shops in Sector 112",
+        "answer": "Yes most major national and private sector banks offer commercial property loans for purchasing shops in Sector 112. Loan eligibility depends on the buyer’s financial profile and the value of the commercial asset. We can connect you with leading financial institutions offering favourable loan terms."
+      },
+      {
+        "question": "What security features are common in commercial complexes in Sector 112",
+        "answer": "Modern commercial complexes in Sector 112 feature extensive security measures including 24/7 CCTV surveillance manned security personnel fire safety systems boom barriers and controlled access points. Investor security and tenant safety are paramount for these high-value commercial assets."
+      }
     ]
   },
   "contactSection": {
@@ -86,6 +206,11 @@
       "Ready to secure a highly profitable commercial shop in one of the region’s fastest-growing sectors. Our expert team is prepared to offer personalized consultancy site visits and detailed financial analysis to meet your investment goals.",
       "Connect with us now to receive exclusive pricing lists floor plans and a curated selection of the best available shops for sale in Sector 112."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

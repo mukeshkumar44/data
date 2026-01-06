@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/sector82_plot_hero1.jpg",
-      "/images/sector82_plot_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "We maintain strong listings in nearby sectors that are rapidly emerging as residential havens, complementing the luxurious living standard found in Sector 82 Noida. These neighboring locations offer excellent connectivity to the main expressways, ensuring a smooth commute to Delhi and other NCR regions. If your search criteria are flexible, exploring these adjacent zones can significantly broaden your choices for high-quality residential land suitable for immediate construction or strategic land banking for future gains."
     ],
     "locations": [
-      "Sector 83 Noida Extension",
-      "Sector 84 Land Bank Options",
-      "Proximity to Greater Noida",
-      "Expressway Access Zone",
-      "Commercial Hub Sector 150",
-      "New Planned Development Zones"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

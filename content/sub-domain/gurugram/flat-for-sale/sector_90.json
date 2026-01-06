@@ -7,10 +7,19 @@
       "Finding the perfect Flat For Sale in sector 90 has never been easier Our portfolio includes properties from top developers ensuring premium construction quality modern amenities and secure living environments Explore options with dedicated parking 24/7 security power backup and access to exclusive club facilities sector 90 represents not just a purchase but a smart investment into a comfortable and appreciating lifestyle Let us guide you through the best residential opportunities available right now in this thriving part of Gurugram"
     ],
     "buttons": [
-      { "label": "Explore Premium Listings", "path": "/listings" },
-      { "label": "Book a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Premium Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Book a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Diverse Residential Flat Options and Layout Sizes in Sector 90 Gurugram",
@@ -52,14 +61,56 @@
       "The locality boasts robust infrastructure including wide internal roads ample public transport options and proximity to upcoming metro connectivity which will further enhance its investment appeal Living here means you are minutes away from major shopping centers recreational zones and crucial social infrastructure ensuring a high quality of life for all residents The thoughtful urban planning of sector 90 makes daily life convenient and stress-free"
     ],
     "locations": [
-      "Sector 89 Gurugram",
-      "Sector 88 Residential Hub",
-      "Neharpar Greater Gurugram",
-      "FNG Expressway Access Points",
-      "Proposed Metro Line Stations",
-      "Major Malls and Multiplexes",
-      "Top Rated International Schools",
-      "Leading Multispecialty Hospitals"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to find the perfect Flat For Sale in sector 90 Contact our dedicated real estate consultants today We offer personalized consultations site visits and detailed market analysis to help you make an informed decision Our team handles all negotiations and paperwork ensuring a seamless purchasing experience",
       "Fill out the form below and a representative specializing in sector 90 Gurugram properties will reach out to you within hours Start your journey to premium homeownership now"
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

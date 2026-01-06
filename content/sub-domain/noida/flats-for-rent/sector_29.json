@@ -7,12 +7,18 @@
       "Start your journey today and discover why a Flat For Rent in Sector 29 is highly sought after. Our dedicated platform ensures transparency and provides detailed information on amenities, neighborhood highlights, and leasing terms. Stop scrolling endlessly and connect with us to secure the best rental options near premier lifestyle destinations like the Great India Place and Sector 18 Market area."
     ],
     "buttons": [
-      { "label": "Explore Available Flats", "path": "/listings/sector29" },
-      { "label": "Request A Callback Today", "path": "/contact" }
+      {
+        "label": "Explore Available Flats",
+        "path": "/listings/sector29"
+      },
+      {
+        "label": "Request A Callback Today",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "flat-for-rent-sector-29-noida.jpg",
-      "premium-rental-living-noida.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The sector is bordered by major arterial roads and provides quick access to the DND Flyway and Delhi NCR region. Essential infrastructure including reputed schools, advanced medical facilities, and vibrant markets are all within a short radius. This excellent positioning ensures that residents spend less time commuting and more time enjoying their quality of life in Noida."
     ],
     "locations": [
-      "Proximity to Atta Market Sector 18",
-      "Direct Metro Connectivity Sector 18 Station",
-      "Near GIP Mall and Worlds of Wonder",
-      "Easy Access to Film City Noida",
-      "Close to Noida Golf Course",
-      "Adjacent to Sector 37 and Botanical Garden",
-      "Quick drive to DND Flyway and Greater Noida Expressway",
-      "Surrounded by Top-Tier Healthcare Facilities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Stop searching and start living. Reach out to our expert rental advisors today to discuss your requirements for a Flat For Rent in Sector 29. We guarantee a prompt response and personalized service tailored to your timeline and preferences.",
       "Fill out the form below or call us directly. Let us take the stress out of finding your next home in Noida's premier location."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

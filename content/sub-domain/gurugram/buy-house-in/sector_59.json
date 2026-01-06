@@ -7,12 +7,18 @@
       "We offer a curated selection of ready-to-move-in luxury villas independent houses and spacious floor options designed to meet the highest standards of modern architecture and functionality Whether you are searching for a compact modern dwelling or a grand family estate finding the perfect house to buy in Sector 59 Gurugram has never been easier Let us guide you through exclusive listings that define opulent living and strong investment value"
     ],
     "buttons": [
-      { "label": "Explore Ready-to-Move Properties", "path": "/properties" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Ready-to-Move Properties",
+        "path": "/properties"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/sector59-hero1.jpg",
-      "/images/sector59-hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -22,12 +28,30 @@
       "Understanding the size and configuration is crucial for making the right investment Below we detail the common residential formats available and what each property type typically offers in this upscale Gurugram locality helping you visualize your ideal home purchase"
     ],
     "features": [
-      { "title": "Luxury Builder Floor Apartments", "description": "These properties typically range between 1800 sq ft and 3000 sq ft offering 3BHK or 4BHK configurations They provide independent living with the security and amenities of a gated community Builders floors in Sector 59 are known for high-quality construction modern fittings and ample natural light making them a popular choice for young professionals and small families seeking spacious yet manageable homes" },
-      { "title": "Compact Independent Houses 150 Sq Yds", "description": "Ideal for nuclear families or those downsizing these houses offer private entry and usually feature a 2BHK or small 3BHK layout spread over two floors Investment in this segment is robust due to high demand for fully independent living spaces without the constraints of large property maintenance When you buy house in Sector 59 in this size range you gain independence at an accessible price point" },
-      { "title": "Mid-Sized Villas 240 Sq Yds", "description": "A favored size for established families these mid-sized villas usually feature 4BHK layouts with dedicated parking space and small private gardens They represent the perfect balance between luxury and practicality offering expansive living areas modern kitchens and servant quarters Investing in a mid-sized villa ensures a high quality of life combined with excellent long-term capital appreciation in a premium sector like 59 Gurugram" },
-      { "title": "Large Luxury Villas 300 Sq Yds Plus", "description": "These are the epitome of luxury living offering 5BHK to 6BHK configurations often with bespoke interiors and high-end finishes Large villas provide multiple living rooms private terraces and sometimes elevator installations They are typically situated in the most exclusive pockets of Sector 59 promising utmost privacy security and prestige for the elite homebuyer seeking an unparalleled residential experience" },
-      { "title": "Gated Society Townhouses", "description": "Sector 59 offers several well-known gated societies featuring curated townhouses These units often share common amenities like clubs swimming pools and sports facilities The layout is standardized providing ease of maintenance while still offering independent unit ownership Townhouses are excellent choices for buyers who prioritize community amenities and round-the-clock security while enjoying their own space" },
-      { "title": "Penthouse and Duplex Options", "description": "For those seeking views and expansive vertical space Sector 59 offers premium penthouse and duplex units within high-rise developments These homes are characterized by double-height ceilings massive terraces and unobstructed panoramic views of the city or surrounding Aravalli hills These properties command a premium reflecting the unique lifestyle they provide positioning them as top-tier luxury acquisitions" }
+      {
+        "title": "Luxury Builder Floor Apartments",
+        "description": "These properties typically range between 1800 sq ft and 3000 sq ft offering 3BHK or 4BHK configurations They provide independent living with the security and amenities of a gated community Builders floors in Sector 59 are known for high-quality construction modern fittings and ample natural light making them a popular choice for young professionals and small families seeking spacious yet manageable homes"
+      },
+      {
+        "title": "Compact Independent Houses 150 Sq Yds",
+        "description": "Ideal for nuclear families or those downsizing these houses offer private entry and usually feature a 2BHK or small 3BHK layout spread over two floors Investment in this segment is robust due to high demand for fully independent living spaces without the constraints of large property maintenance When you buy house in Sector 59 in this size range you gain independence at an accessible price point"
+      },
+      {
+        "title": "Mid-Sized Villas 240 Sq Yds",
+        "description": "A favored size for established families these mid-sized villas usually feature 4BHK layouts with dedicated parking space and small private gardens They represent the perfect balance between luxury and practicality offering expansive living areas modern kitchens and servant quarters Investing in a mid-sized villa ensures a high quality of life combined with excellent long-term capital appreciation in a premium sector like 59 Gurugram"
+      },
+      {
+        "title": "Large Luxury Villas 300 Sq Yds Plus",
+        "description": "These are the epitome of luxury living offering 5BHK to 6BHK configurations often with bespoke interiors and high-end finishes Large villas provide multiple living rooms private terraces and sometimes elevator installations They are typically situated in the most exclusive pockets of Sector 59 promising utmost privacy security and prestige for the elite homebuyer seeking an unparalleled residential experience"
+      },
+      {
+        "title": "Gated Society Townhouses",
+        "description": "Sector 59 offers several well-known gated societies featuring curated townhouses These units often share common amenities like clubs swimming pools and sports facilities The layout is standardized providing ease of maintenance while still offering independent unit ownership Townhouses are excellent choices for buyers who prioritize community amenities and round-the-clock security while enjoying their own space"
+      },
+      {
+        "title": "Penthouse and Duplex Options",
+        "description": "For those seeking views and expansive vertical space Sector 59 offers premium penthouse and duplex units within high-rise developments These homes are characterized by double-height ceilings massive terraces and unobstructed panoramic views of the city or surrounding Aravalli hills These properties command a premium reflecting the unique lifestyle they provide positioning them as top-tier luxury acquisitions"
+      }
     ]
   },
   "locationsSection": {
@@ -37,14 +61,56 @@
       "The residential value of Sector 59 is further amplified by its proximity to highly developed neighboring sectors This area benefits from established infrastructure superior social amenities and easy access to prestigious schools healthcare facilities and high-street markets ensuring a complete and convenient lifestyle for every resident"
     ],
     "locations": [
-      "Sector 57 Residential Hub",
-      "Sector 60 Commercial Development",
-      "Golf Course Extension Road Access",
-      "Artemis Hospital",
-      "Hong Kong Bazaar Retail",
-      "Indira Gandhi International Airport (35 minute drive)",
-      "M3M Cosmopolitan Mall",
-      "Rapid Metro Stations"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -54,30 +120,84 @@
       "The planned urbanization here ensures that residents enjoy wide roads lush green belts and minimal traffic congestion unlike older parts of the city We highlight the core benefits that make Sector 59 the ideal location for your next property acquisition"
     ],
     "points": [
-      { "title": "Exceptional Connectivity", "description": "Sector 59 boasts excellent road networks primarily the Golf Course Extension Road providing effortless travel to Cyber Hub Sohna Road and Delhi The strategic placement ensures residents are always minutes away from major business districts making it highly desirable for professionals" },
-      { "title": "High Investment Returns", "description": "As one of Gurugram’s premium and developing sectors Sector 59 exhibits consistent capital appreciation Property values here are sustained by ongoing infrastructure projects and high demand for luxury housing Making the decision to buy house in Sector 59 today secures significant long-term returns" },
-      { "title": "World-Class Social Infrastructure", "description": "The sector is surrounded by top international schools like Pathways and DPS leading healthcare institutions including Artemis and Fortis and numerous high-end retail and dining experiences All necessary services are within a short drive ensuring unparalleled convenience for families" },
-      { "title": "Abundant Green Spaces", "description": "Unlike congested city centers Sector 59 features substantial green landscaping and parks contributing to a healthier and quieter environment Many housing complexes incorporate internal jogging tracks and themed gardens offering residents a respite from urban life and promoting wellness" },
-      { "title": "Superior Security Measures", "description": "Residential communities and independent floors in Sector 59 typically offer robust security systems including 24/7 manned security CCTV surveillance and gated access control This ensures a safe and protected environment allowing residents to enjoy true peace of mind" },
-      { "title": "Ready-to-Move Inventory Availability", "description": "There is a healthy supply of ready-to-move-in properties allowing buyers to immediately take possession avoiding construction delays and the uncertainties associated with under-construction projects This readiness is a huge advantage for families needing immediate accommodation" },
-      { "title": "Quality Construction Standards", "description": "Properties in Sector 59 are overwhelmingly built by reputed developers known for using high-quality materials and modern architectural designs Buyers benefit from durable structures premium finishes and homes built to exacting international standards reflecting luxury and longevity" },
-      { "title": "Exclusive Neighborhood Profile", "description": "Sector 59 attracts an affluent and distinguished resident base elevating the overall social environment The neighborhood is known for its quiet upscale atmosphere providing a prestigious address that reflects the homeowner's success and taste" }
+      {
+        "title": "Exceptional Connectivity",
+        "description": "Sector 59 boasts excellent road networks primarily the Golf Course Extension Road providing effortless travel to Cyber Hub Sohna Road and Delhi The strategic placement ensures residents are always minutes away from major business districts making it highly desirable for professionals"
+      },
+      {
+        "title": "High Investment Returns",
+        "description": "As one of Gurugram’s premium and developing sectors Sector 59 exhibits consistent capital appreciation Property values here are sustained by ongoing infrastructure projects and high demand for luxury housing Making the decision to buy house in Sector 59 today secures significant long-term returns"
+      },
+      {
+        "title": "World-Class Social Infrastructure",
+        "description": "The sector is surrounded by top international schools like Pathways and DPS leading healthcare institutions including Artemis and Fortis and numerous high-end retail and dining experiences All necessary services are within a short drive ensuring unparalleled convenience for families"
+      },
+      {
+        "title": "Abundant Green Spaces",
+        "description": "Unlike congested city centers Sector 59 features substantial green landscaping and parks contributing to a healthier and quieter environment Many housing complexes incorporate internal jogging tracks and themed gardens offering residents a respite from urban life and promoting wellness"
+      },
+      {
+        "title": "Superior Security Measures",
+        "description": "Residential communities and independent floors in Sector 59 typically offer robust security systems including 24/7 manned security CCTV surveillance and gated access control This ensures a safe and protected environment allowing residents to enjoy true peace of mind"
+      },
+      {
+        "title": "Ready-to-Move Inventory Availability",
+        "description": "There is a healthy supply of ready-to-move-in properties allowing buyers to immediately take possession avoiding construction delays and the uncertainties associated with under-construction projects This readiness is a huge advantage for families needing immediate accommodation"
+      },
+      {
+        "title": "Quality Construction Standards",
+        "description": "Properties in Sector 59 are overwhelmingly built by reputed developers known for using high-quality materials and modern architectural designs Buyers benefit from durable structures premium finishes and homes built to exacting international standards reflecting luxury and longevity"
+      },
+      {
+        "title": "Exclusive Neighborhood Profile",
+        "description": "Sector 59 attracts an affluent and distinguished resident base elevating the overall social environment The neighborhood is known for its quiet upscale atmosphere providing a prestigious address that reflects the homeowner's success and taste"
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About How to Buy House in Sector 59 Gurugram",
     "description": "Get detailed answers to the most common queries regarding purchasing residential property investment potential and legal considerations in this premium Gurugram sector",
     "faqs": [
-      { "question": "What is the average price range when I plan to buy house in Sector 59 Gurugram", "answer": "The price range is highly dependent on the property type and size generally reflecting its status as a premium location Builder floors often start around 25 Crore while independent houses and luxury villas can range upwards of 5 Crore to 15 Crore or more For precise and current market pricing it is recommended to consult with a local real estate expert who can provide detailed listings based on your specific requirements and budget" },
-      { "question": "Are there good schools and hospitals accessible from Sector 59", "answer": "Yes Sector 59 boasts excellent proximity to renowned social infrastructure Leading educational institutions like DPS International Pathways School and St Xaviers High School are within a short commuting distance Healthcare needs are well catered to by top hospitals such as Artemis Hospital W Pratiksha Hospital and Medanta The Medicity ensuring world-class medical facilities are always nearby" },
-      { "question": "Is buying a house in Sector 59 a good investment for future appreciation", "answer": "Absolutely Sector 59 is consistently identified as a high-growth zone in Gurugram Its strategic location along the Golf Course Extension Road future infrastructure enhancements and persistent demand for quality housing ensure strong potential for capital appreciation Historically properties in this sector have shown steady price increases making it a highly reliable location for long-term investment" },
-      { "question": "What types of residential properties are most common when people buy house in Sector 59", "answer": "The market is predominantly divided between independent builder floors and luxury residential villas Builder floors are popular due to their affordability and independent structure while villas cater to the high-end segment seeking larger plots and bespoke living experiences You can also find some high-rise apartment complexes offering premium amenities and duplex configurations" },
-      { "question": "What legal steps are involved in purchasing property in Sector 59 Gurugram", "answer": "The legal process involves verifying the title deed checking for encumbrances obtaining necessary NOCs No Objection Certificates and ensuring all property tax records are clear The agreement to sell and final sale deed registration must be executed at the concerned Sub-Registrar’s office Engaging a professional property lawyer familiar with Haryana real estate law is highly advised to ensure a smooth and secure transaction" },
-      { "question": "How is the connectivity from Sector 59 to Delhi and the airport", "answer": "Connectivity is a major highlight Sector 59 provides direct access via the Golf Course Extension Road which links to NH-48 The Indira Gandhi International Airport IGI is approximately a 35 to 40-minute drive depending on traffic conditions and the Delhi-Faridabad Expressway further improves access to South Delhi reducing commuting time substantially" },
-      { "question": "Are properties in Sector 59 generally ready-to-move or under construction", "answer": "The Sector 59 market currently features a significant inventory of ready-to-move properties particularly high-quality builder floors and completed villas While some new projects are always launched the dominance of finished units allows buyers immediate occupancy eliminating the waiting period often associated with buying under-construction real estate" },
-      { "question": "What are the typical maintenance costs associated with houses in this sector", "answer": "Maintenance costs vary widely If you buy house within a gated society or apartment complex monthly charges cover common area maintenance security and amenities like pool and club use For independent houses maintenance costs are limited to local services and private security if opted for generally ranging from INR 5000 to INR 20000 per month depending on the property size" },
-      { "question": "Can Non-Resident Indians NRI easily buy house in Sector 59 Gurugram", "answer": "Yes NRIs are permitted to purchase residential property in India including Sector 59 provided the funds are routed through proper banking channels like NRE or NRO accounts The documentation process is straightforward and similar to that for resident Indians though specific tax and repatriation rules apply We recommend consulting a financial expert specializing in NRI property transactions for detailed guidance" },
-      { "question": "What amenities are standard when I buy a house or villa in a Sector 59 society", "answer": "Standard amenities in premium Sector 59 societies often include 24/7 power backup comprehensive security systems clubhouses swimming pools fitness centers dedicated sports courts children’s play areas and extensive visitor parking facilities Luxury villas often include additional features like private elevators and smart home automation systems" }
+      {
+        "question": "What is the average price range when I plan to buy house in Sector 59 Gurugram",
+        "answer": "The price range is highly dependent on the property type and size generally reflecting its status as a premium location Builder floors often start around 25 Crore while independent houses and luxury villas can range upwards of 5 Crore to 15 Crore or more For precise and current market pricing it is recommended to consult with a local real estate expert who can provide detailed listings based on your specific requirements and budget"
+      },
+      {
+        "question": "Are there good schools and hospitals accessible from Sector 59",
+        "answer": "Yes Sector 59 boasts excellent proximity to renowned social infrastructure Leading educational institutions like DPS International Pathways School and St Xaviers High School are within a short commuting distance Healthcare needs are well catered to by top hospitals such as Artemis Hospital W Pratiksha Hospital and Medanta The Medicity ensuring world-class medical facilities are always nearby"
+      },
+      {
+        "question": "Is buying a house in Sector 59 a good investment for future appreciation",
+        "answer": "Absolutely Sector 59 is consistently identified as a high-growth zone in Gurugram Its strategic location along the Golf Course Extension Road future infrastructure enhancements and persistent demand for quality housing ensure strong potential for capital appreciation Historically properties in this sector have shown steady price increases making it a highly reliable location for long-term investment"
+      },
+      {
+        "question": "What types of residential properties are most common when people buy house in Sector 59",
+        "answer": "The market is predominantly divided between independent builder floors and luxury residential villas Builder floors are popular due to their affordability and independent structure while villas cater to the high-end segment seeking larger plots and bespoke living experiences You can also find some high-rise apartment complexes offering premium amenities and duplex configurations"
+      },
+      {
+        "question": "What legal steps are involved in purchasing property in Sector 59 Gurugram",
+        "answer": "The legal process involves verifying the title deed checking for encumbrances obtaining necessary NOCs No Objection Certificates and ensuring all property tax records are clear The agreement to sell and final sale deed registration must be executed at the concerned Sub-Registrar’s office Engaging a professional property lawyer familiar with Haryana real estate law is highly advised to ensure a smooth and secure transaction"
+      },
+      {
+        "question": "How is the connectivity from Sector 59 to Delhi and the airport",
+        "answer": "Connectivity is a major highlight Sector 59 provides direct access via the Golf Course Extension Road which links to NH-48 The Indira Gandhi International Airport IGI is approximately a 35 to 40-minute drive depending on traffic conditions and the Delhi-Faridabad Expressway further improves access to South Delhi reducing commuting time substantially"
+      },
+      {
+        "question": "Are properties in Sector 59 generally ready-to-move or under construction",
+        "answer": "The Sector 59 market currently features a significant inventory of ready-to-move properties particularly high-quality builder floors and completed villas While some new projects are always launched the dominance of finished units allows buyers immediate occupancy eliminating the waiting period often associated with buying under-construction real estate"
+      },
+      {
+        "question": "What are the typical maintenance costs associated with houses in this sector",
+        "answer": "Maintenance costs vary widely If you buy house within a gated society or apartment complex monthly charges cover common area maintenance security and amenities like pool and club use For independent houses maintenance costs are limited to local services and private security if opted for generally ranging from INR 5000 to INR 20000 per month depending on the property size"
+      },
+      {
+        "question": "Can Non-Resident Indians NRI easily buy house in Sector 59 Gurugram",
+        "answer": "Yes NRIs are permitted to purchase residential property in India including Sector 59 provided the funds are routed through proper banking channels like NRE or NRO accounts The documentation process is straightforward and similar to that for resident Indians though specific tax and repatriation rules apply We recommend consulting a financial expert specializing in NRI property transactions for detailed guidance"
+      },
+      {
+        "question": "What amenities are standard when I buy a house or villa in a Sector 59 society",
+        "answer": "Standard amenities in premium Sector 59 societies often include 24/7 power backup comprehensive security systems clubhouses swimming pools fitness centers dedicated sports courts children’s play areas and extensive visitor parking facilities Luxury villas often include additional features like private elevators and smart home automation systems"
+      }
     ]
   },
   "contactSection": {
@@ -86,6 +206,11 @@
       "Ready to take the next step towards owning your dream house in Sector 59 Gurugram Our local property specialists possess in-depth market knowledge and access to exclusive off-market listings ensuring you find the perfect match",
       "Reach out today for personalized advice detailed property brochures and a scheduled tour of the finest houses for sale We are here to simplify the process of finding your ideal home"
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

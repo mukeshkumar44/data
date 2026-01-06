@@ -7,10 +7,19 @@
       "We showcase a curated selection of ready-to-move and under-construction 2BHK apartments in Sector 78 featuring layouts that maximize space and natural light. Enjoy world-class facilities connectivity to major expressways and proximity to top educational and commercial hubs. Explore our verified listings today and take the first step toward owning your dream home in one of Noida's most sought-after sectors."
     ],
     "buttons": [
-      { "label": "View Verified 2BHK Listings", "path": "/listings/sector-78/2bhk" },
-      { "label": "Schedule a Site Visit", "path": "/contact-us" }
+      {
+        "label": "View Verified 2BHK Listings",
+        "path": "/listings/sector-78/2bhk"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Advantages of Investing in a 2BHK Flat in Sector 78 Noida Today",
@@ -53,20 +62,54 @@
     ],
     "locations": [
       {
-        "name": "Project A Residences",
-        "details": "Known for large green spaces and luxury finishes in their compact 2BHK units. Highly appreciated for maintenance quality."
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
       },
       {
-        "name": "The Executive Floors Sector 78",
-        "details": "Offers premium semi-furnished 2BHK apartments with proximity to commercial complexes and essential services."
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
       },
       {
-        "name": "Urban Habitat Towers",
-        "details": "A fast-developing project focusing on smart homes and sustainable living perfect for modern families seeking connectivity."
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
       },
       {
-        "name": "Central Park Apartments Sector 78",
-        "details": "Ready-to-move 2BHK options with immediate possession perfect for those looking to shift quickly to Noida."
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },
@@ -163,6 +206,11 @@
       "Ready to explore the best available 2BHK flats in Sector 78 Noida Get personalized recommendations market insights and schedule site visits at your convenience.",
       "Fill out the form below and one of our dedicated property consultants will contact you shortly to discuss your specific home buying needs and provide verified listings."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

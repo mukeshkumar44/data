@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-flat-view-kesari",
-      "kesari-village-apartment"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The location is specifically chosen for its proximity to key educational institutions top-tier healthcare facilities and vibrant shopping destinations. Investing in a flat in Kesari Village means securing a lifestyle where everything you need is just a short drive away promoting convenience and reducing travel time. We highlight the critical location advantages that make this area truly exceptional for home buyers."
     ],
     "locations": [
-      "Ambala City Railway Station proximity",
-      "Easy access to National Highway NH 44",
-      "Reputed schools and colleges nearby",
-      "Major hospitals and clinics within 15 minutes drive",
-      "Upcoming commercial centers and markets",
-      "Well-connected public transportation routes",
-      "Proximity to Ambala Cantt market area",
-      "Clean and well-maintained local roads"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

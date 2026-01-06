@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "house-vijay-nagar-hero1.jpg",
-      "house-vijay-nagar-hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "We highlight properties based on their proximity to key facilities like top-rated schools sprawling parks and major shopping complexes. This ensures that whatever house you choose you are always close to everything your family needs for a comfortable and convenient lifestyle elevating your quality of residential experience."
     ],
     "locations": [
-      "Near Central Community Park Area",
-      "Proximity to Elite Educational Institutions",
-      "Close to Major Retail and Shopping Centers",
-      "Easy Access to Multi-Specialty Hospitals",
-      "Near Public Transportation Hubs",
-      "Houses Facing Dedicated Green Belts",
-      "Within Secure Gated Community Options",
-      "Immediate Main Road Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

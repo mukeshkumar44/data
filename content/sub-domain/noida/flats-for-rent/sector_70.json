@@ -7,10 +7,19 @@
       "Searching for a Flat For Rent in Sector 70 should be simple and stress-free. Our platform provides detailed property insights, high-resolution images, and verified landlord contact information. Explore properties near major IT hubs, educational institutions, and essential amenities. Start your journey to securing your perfect new home right here in the heart of Noida’s vibrant Sector 70."
     ],
     "buttons": [
-      { "label": "Search 2 BHK Rentals Now", "path": "/search/2bhk" },
-      { "label": "View Luxury 3 BHK Listings", "path": "/listings/luxury" }
+      {
+        "label": "Search 2 BHK Rentals Now",
+        "path": "/search/2bhk"
+      },
+      {
+        "label": "View Luxury 3 BHK Listings",
+        "path": "/listings/luxury"
+      }
     ],
-    "images": ["hero-image1.jpg", "hero-image2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Flat For Rent Options in Sector 70 Noida Matching Every Lifestyle Need",
@@ -52,14 +61,56 @@
       "Our focus extends beyond just Sector 70 Noida to cover adjoining sectors that share excellent connectivity and infrastructure, giving you a broader range of high-quality Flat For Rent options to choose from."
     ],
     "locations": [
-      "Ats One Hamlet Sector 104 Noida",
-      "Antriksh Golf View Sector 78 Noida",
-      "Purvanchal Royal City Greater Noida West",
-      "Skytech Matrott Sector 76 Noida",
-      "Mahagun Moderne Sector 78 Noida",
-      "Gaur City 2 Sector 16C Greater Noida West",
-      "Sikka Karnam Greens Sector 70 Noida",
-      "Assotech Celeste Towers Sector 44 Noida"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to move into your new home in one of Noida’s most desirable sectors We simplify the process of finding the right Flat For Rent in Sector 70 with personalized support and expert advice.",
       "Submit your requirements below. Our dedicated rental specialists will curate a shortlist of properties that precisely match your budget, configuration needs, and preferred move-in date, guaranteeing a fast and efficient search."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

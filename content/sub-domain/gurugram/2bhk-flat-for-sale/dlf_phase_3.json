@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exclusive Features of 2BHK Flat Listings in DLF Phase 3 Gurugram",
@@ -57,7 +60,58 @@
       "DLF Phase 3 is centrally located within the primary commercial and entertainment district of Gurugram. Its strategic positioning near NH-48 ensures seamless travel across the Delhi NCR region, while the dedicated Rapid Metro service provides instant access to Cyber City and Sikanderpur.",
       "This unmatched connectivity eliminates lengthy commutes, drastically improving work-life balance for residents. Furthermore, the area is surrounded by high-end malls like Ambience Mall and leading hospitals and educational institutions, guaranteeing that all essential services are within a short radius. Investing here secures a home in one of Gurugram’s most vibrant and established residential sectors."
     ],
-    "locations": []
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Professional Guidance When Buying a 2BHK Flat For Sale in DLF Phase 3",

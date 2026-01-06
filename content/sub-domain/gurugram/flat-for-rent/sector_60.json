@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "sector60_flat_hero_view.jpg",
-      "sector60_society_amenities.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Renters residing in sector 60 benefit immensely from the rapid and planned infrastructure development currently occurring in adjacent sectors. Immediate access to highly reputable schools, specialized multi-specialty hospitals, and large regional shopping complexes is comfortably only a short drive away. We frequently observe inquiries comparing the long-term rental value of sector 60 with neighboring established locations due to its competitive pricing structure and modern, newly constructed residential infrastructure. Explore the strategic, long-term value of choosing a Flat For Rent in sector 60 Gurugram based on these crucial connectivity links and immediate access to essential amenities."
     ],
     "locations": [
-      "sector_59 Gurugram",
-      "sector_61 Residential Area",
-      "Khedi Kalan Main Road",
-      "Palwal City Hub",
-      "Ballabgarh Industrial Zone",
-      "Mathura Road NH-19 Access",
-      "Eastern Peripheral Expressway Link",
-      "Near Proposed Metro Station Line"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

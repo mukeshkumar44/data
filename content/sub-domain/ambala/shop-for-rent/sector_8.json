@@ -7,10 +7,19 @@
       "Our listings feature shops of various sizes and configurations to meet your specific needs. With excellent connectivity, high foot traffic, and a thriving commercial ecosystem, Sector 8 Ambala is the perfect place to take your business to the next level."
     ],
     "buttons": [
-      { "label": "Browse Shops", "path": "/shops" },
-      { "label": "Contact Us", "path": "/contact" }
+      {
+        "label": "Browse Shops",
+        "path": "/shops"
+      },
+      {
+        "label": "Contact Us",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Shops For Rent in Sector 8 Ambala",
@@ -19,12 +28,30 @@
       "From compact shops for small businesses to spacious units for larger enterprises, we have options tailored to your requirements. Explore our curated selection below."
     ],
     "features": [
-      { "title": "Compact Shops", "description": "Ideal for startups and small businesses, these shops offer affordable rental options in prime locations." },
-      { "title": "Medium-Sized Shops", "description": "Perfect for growing businesses, these spaces provide ample room for retail or service operations." },
-      { "title": "Large Shops", "description": "Designed for established businesses, these shops offer expansive areas and high visibility." },
-      { "title": "Corner Shops", "description": "Maximize foot traffic with strategically located corner shops in high-demand areas." },
-      { "title": "Street-Facing Shops", "description": "Gain maximum exposure with shops located on main streets and thoroughfares." },
-      { "title": "Customizable Shops", "description": "Tailor your shop layout to suit your business needs with flexible rental options." }
+      {
+        "title": "Compact Shops",
+        "description": "Ideal for startups and small businesses, these shops offer affordable rental options in prime locations."
+      },
+      {
+        "title": "Medium-Sized Shops",
+        "description": "Perfect for growing businesses, these spaces provide ample room for retail or service operations."
+      },
+      {
+        "title": "Large Shops",
+        "description": "Designed for established businesses, these shops offer expansive areas and high visibility."
+      },
+      {
+        "title": "Corner Shops",
+        "description": "Maximize foot traffic with strategically located corner shops in high-demand areas."
+      },
+      {
+        "title": "Street-Facing Shops",
+        "description": "Gain maximum exposure with shops located on main streets and thoroughfares."
+      },
+      {
+        "title": "Customizable Shops",
+        "description": "Tailor your shop layout to suit your business needs with flexible rental options."
+      }
     ]
   },
   "locationsSection": {
@@ -34,14 +61,56 @@
       "Explore these nearby locations to expand your business reach and tap into new customer bases."
     ],
     "locations": [
-      "Sector 7 Ambala",
-      "Sector 9 Ambala",
-      "Ambala Cantt",
-      "Ambala City",
-      "Naraingarh Road",
-      "Jagadhri Road",
-      "GT Road Ambala",
-      "Railway Road Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -51,30 +120,84 @@
       "From strategic location advantages to a supportive commercial ecosystem, Sector 8 Ambala offers everything you need to flourish."
     ],
     "points": [
-      { "title": "Prime Location", "description": "Sector 8 Ambala is centrally located with excellent connectivity to major roads and highways, ensuring easy access for customers and suppliers." },
-      { "title": "High Foot Traffic", "description": "The area attracts a steady flow of visitors, providing ample opportunities for businesses to attract customers." },
-      { "title": "Diverse Business Ecosystem", "description": "With a mix of retail, service, and hospitality businesses, Sector 8 Ambala fosters a dynamic and supportive commercial environment." },
-      { "title": "Affordable Rentals", "description": "Competitive rental rates make Sector 8 Ambala an attractive option for businesses of all sizes." },
-      { "title": "Modern Infrastructure", "description": "Shops in Sector 8 Ambala are equipped with modern amenities and facilities, ensuring a comfortable and efficient business environment." },
-      { "title": "Proximity to Residential Areas", "description": "Close to several residential colonies, Sector 8 Ambala offers easy access to a large customer base." },
-      { "title": "Developed Market", "description": "The area is well-established with a thriving market, reducing the risks associated with setting up a new business." },
-      { "title": "Growth Potential", "description": "With ongoing development projects and increasing demand, Sector 8 Ambala presents significant growth opportunities for businesses." }
+      {
+        "title": "Prime Location",
+        "description": "Sector 8 Ambala is centrally located with excellent connectivity to major roads and highways, ensuring easy access for customers and suppliers."
+      },
+      {
+        "title": "High Foot Traffic",
+        "description": "The area attracts a steady flow of visitors, providing ample opportunities for businesses to attract customers."
+      },
+      {
+        "title": "Diverse Business Ecosystem",
+        "description": "With a mix of retail, service, and hospitality businesses, Sector 8 Ambala fosters a dynamic and supportive commercial environment."
+      },
+      {
+        "title": "Affordable Rentals",
+        "description": "Competitive rental rates make Sector 8 Ambala an attractive option for businesses of all sizes."
+      },
+      {
+        "title": "Modern Infrastructure",
+        "description": "Shops in Sector 8 Ambala are equipped with modern amenities and facilities, ensuring a comfortable and efficient business environment."
+      },
+      {
+        "title": "Proximity to Residential Areas",
+        "description": "Close to several residential colonies, Sector 8 Ambala offers easy access to a large customer base."
+      },
+      {
+        "title": "Developed Market",
+        "description": "The area is well-established with a thriving market, reducing the risks associated with setting up a new business."
+      },
+      {
+        "title": "Growth Potential",
+        "description": "With ongoing development projects and increasing demand, Sector 8 Ambala presents significant growth opportunities for businesses."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shops For Rent in Sector 8 Ambala",
     "description": "Find answers to common queries about renting a shop in Sector 8 Ambala. If you have additional questions, feel free to reach out to our team.",
     "faqs": [
-      { "question": "What types of shops are available for rent in Sector 8 Ambala", "answer": "Sector 8 Ambala offers a variety of shops, including compact, medium-sized, large, corner, and street-facing units, catering to diverse business needs." },
-      { "question": "What is the average rental cost for a shop in Sector 8 Ambala", "answer": "Rental costs vary depending on the size, location, and amenities of the shop. Contact us for detailed pricing information tailored to your requirements." },
-      { "question": "Is Sector 8 Ambala suitable for small businesses", "answer": "Yes, Sector 8 Ambala offers affordable rental options and a supportive commercial ecosystem, making it an ideal choice for small businesses." },
-      { "question": "What amenities are available in shops in Sector 8 Ambala", "answer": "Shops in Sector 8 Ambala come with modern amenities such as electricity, water supply, parking facilities, and security services." },
-      { "question": "How is the connectivity in Sector 8 Ambala", "answer": "Sector 8 Ambala is well-connected to major roads, highways, and nearby residential areas, ensuring easy access for customers and suppliers." },
-      { "question": "Can I customize the shop layout", "answer": "Yes, many shops in Sector 8 Ambala offer flexible layouts that can be customized to suit your business needs." },
-      { "question": "What are the nearby residential areas", "answer": "Sector 8 Ambala is close to several residential colonies, including Sector 7 Ambala, Sector 9 Ambala, and Ambala Cantt, providing a large customer base." },
-      { "question": "Is Sector 8 Ambala a developed market", "answer": "Yes, Sector 8 Ambala is a well-established market with a thriving commercial ecosystem, reducing risks for new businesses." },
-      { "question": "What are the growth prospects in Sector 8 Ambala", "answer": "With ongoing development projects and increasing demand, Sector 8 Ambala offers significant growth opportunities for businesses." },
-      { "question": "How do I rent a shop in Sector 8 Ambala", "answer": "Contact our team to explore available listings, schedule a visit, and complete the rental process seamlessly." }
+      {
+        "question": "What types of shops are available for rent in Sector 8 Ambala",
+        "answer": "Sector 8 Ambala offers a variety of shops, including compact, medium-sized, large, corner, and street-facing units, catering to diverse business needs."
+      },
+      {
+        "question": "What is the average rental cost for a shop in Sector 8 Ambala",
+        "answer": "Rental costs vary depending on the size, location, and amenities of the shop. Contact us for detailed pricing information tailored to your requirements."
+      },
+      {
+        "question": "Is Sector 8 Ambala suitable for small businesses",
+        "answer": "Yes, Sector 8 Ambala offers affordable rental options and a supportive commercial ecosystem, making it an ideal choice for small businesses."
+      },
+      {
+        "question": "What amenities are available in shops in Sector 8 Ambala",
+        "answer": "Shops in Sector 8 Ambala come with modern amenities such as electricity, water supply, parking facilities, and security services."
+      },
+      {
+        "question": "How is the connectivity in Sector 8 Ambala",
+        "answer": "Sector 8 Ambala is well-connected to major roads, highways, and nearby residential areas, ensuring easy access for customers and suppliers."
+      },
+      {
+        "question": "Can I customize the shop layout",
+        "answer": "Yes, many shops in Sector 8 Ambala offer flexible layouts that can be customized to suit your business needs."
+      },
+      {
+        "question": "What are the nearby residential areas",
+        "answer": "Sector 8 Ambala is close to several residential colonies, including Sector 7 Ambala, Sector 9 Ambala, and Ambala Cantt, providing a large customer base."
+      },
+      {
+        "question": "Is Sector 8 Ambala a developed market",
+        "answer": "Yes, Sector 8 Ambala is a well-established market with a thriving commercial ecosystem, reducing risks for new businesses."
+      },
+      {
+        "question": "What are the growth prospects in Sector 8 Ambala",
+        "answer": "With ongoing development projects and increasing demand, Sector 8 Ambala offers significant growth opportunities for businesses."
+      },
+      {
+        "question": "How do I rent a shop in Sector 8 Ambala",
+        "answer": "Contact our team to explore available listings, schedule a visit, and complete the rental process seamlessly."
+      }
     ]
   },
   "contactSection": {
@@ -83,6 +206,11 @@
       "Ready to find your ideal shop in Sector 8 Ambala? Our team is here to assist you every step of the way.",
       "Fill out the form below, and we’ll get back to you with tailored options to meet your business needs."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

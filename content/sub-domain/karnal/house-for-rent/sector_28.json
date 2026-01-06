@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-sector28-house.jpg",
-      "rental-kothi-karnal.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "This makes searching for a high-quality House For Rent in Sector 28 a smart long-term choice for discerning families. Our listings often highlight properties near the main market road or those offering quick exits onto the highway, balancing convenience with residential calm that defines premium living in Karnal."
     ],
     "locations": [
-      "Main Sector Market",
-      "National Highway 44 Access",
-      "Reputable Schools Proximity",
-      "Dedicated Green Parks",
-      "Nearby Healthcare Centres",
-      "Easy Public Transport Routes",
-      "Commercial Shopping Areas",
-      "Well-maintained Internal Roads"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -17,7 +17,8 @@
       }
     ],
     "images": [
-      "/images/sohna-road-2bhk-hero.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -60,14 +61,56 @@
       "We carefully vet properties in these specific locations to ensure they offer clear titles, regulatory compliance, and excellent future growth prospects. Understanding the localized benefits like proximity to specific shopping complexes or major educational institutions is key to making an informed investment decision in this dynamic corridor."
     ],
     "locations": [
-      "Sector 33 Sohna Road",
-      "Sector 35 Sohna Road",
-      "Near GD Goenka University Sohna",
-      "Near IMT Sohna",
-      "Around the Delhi-Mumbai Expressway Interchange",
-      "Badshahpur Extension Sohna Road",
-      "Upcoming Affordable Housing Clusters",
-      "New Gurugram Sohna Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

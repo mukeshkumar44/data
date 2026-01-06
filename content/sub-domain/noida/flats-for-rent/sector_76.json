@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "flat-for-rent-sector-76-hero-1.jpg",
-      "flat-for-rent-sector-76-hero-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,11 +61,56 @@
       "Renters here benefit from living in established societies that have already completed necessary legal formalities and possess robust operational maintenance teams. We focus our listings within these top-rated complexes, ensuring tenants receive reliable utility services, well-maintained common areas, and effective security systems. Furthermore, the geographic layout of Sector 76 provides excellent connectivity. It sits adjacent to Sector 50, a commercial hub, and offers direct access to the Noida-Greater Noida Expressway, making commuting to Delhi, Greater Noida, and other parts of NCR highly efficient. When evaluating properties, we consider factors like the builder's track record, society demographics, and long-term rental appreciation potential, offering you only verified and secure options for your next home. Trust our expertise to match you with a rental property that is not just a place to stay, but a true residential upgrade in Noida."
     ],
     "locations": [
-      "Amrapali Silicon City",
-      "Skytech Matrott",
-      "Mahaluxmi Green Mansion",
-      "JM Orchid",
-      "Group Housing Society near Metro Station"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

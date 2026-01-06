@@ -7,10 +7,19 @@
       "Investing in a shop for sale in Sector 51 provides you with a strategic advantage connectivity to major expressways proximity to affluent residential communities and robust local infrastructure. Discover properties that promise excellent capital appreciation and strong monthly rental yields, providing stability and growth for your investment portfolio. Contact our commercial experts today to unlock exclusive listings that match your financial strategy."
     ],
     "buttons": [
-      { "label": "Browse Prime Retail Listings", "path": "/listings" },
-      { "label": "Calculate Expected Rental Yield", "path": "/roi-calculator" }
+      {
+        "label": "Browse Prime Retail Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Calculate Expected Rental Yield",
+        "path": "/roi-calculator"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exclusive Investment Categories Shops For Sale in Sector 51 Noida",
@@ -52,14 +61,56 @@
       "The location’s strength is further amplified by its proximity to established markets and institutional areas ensuring a constant supply of working professionals and residents who serve as the core customer base for shops in this sector. Invest where connectivity fuels commerce and growth."
     ],
     "locations": [
-      "Noida Sector 50 Metro Station",
-      "Wave City Center Noida",
-      "FNG Expressway Access",
-      "Sector 71 Junction",
-      "Brahmaputra Market",
-      "Golf Course Noida",
-      "Prominent Residential Catchment Areas",
-      "Easy Access to Ghaziabad"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to move forward with your commercial investment in Sector 51 Noida Our expert team provides end-to-end guidance from property selection to legal closure and tenant acquisition.",
       "Submit your details below and one of our dedicated commercial real estate specialists will contact you within the hour to discuss your requirements and share exclusive off-market listings."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

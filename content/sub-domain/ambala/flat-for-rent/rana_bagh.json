@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "ranabagh_apartment_hero1.jpg",
-      "ranabagh_living_view.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The proximity to major railway stations highways and educational hubs makes Rana Bagh an ideal residential choice Tenants appreciate the convenience of having everything from grocery stores and healthcare facilities to entertainment venues just a short drive away This excellent positioning enhances the value and desirability of rental properties throughout Rana Bagh Ambala securing its status as a top residential choice."
     ],
     "locations": [
-      "Ambala Cantt Railway Station",
-      "Sadar Bazar Ambala Cantt",
-      "NH 44 Connectivity",
-      "Government Colleges and Universities",
-      "Major Private Hospitals",
-      "Local Shopping Malls",
-      "Bus Stand Ambala Cantt",
-      "Defense Establishments Proximity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

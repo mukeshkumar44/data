@@ -7,10 +7,19 @@
       "Unlock the potential of this dynamic location Whether you need a small retail outlet a large showroom or an F&B space Sector 37D provides the infrastructure and foot traffic necessary for success. We simplify the rental process providing detailed market analysis and full negotiation support ensuring you secure your commercial space at the best possible terms. Start your journey towards commercial growth right here"
     ],
     "buttons": [
-      { "label": "View Available Shop Listings", "path": "/listings/sector-37d-shops" },
-      { "label": "Get Rental Consultation", "path": "/contact-us" }
+      {
+        "label": "View Available Shop Listings",
+        "path": "/listings/sector-37d-shops"
+      },
+      {
+        "label": "Get Rental Consultation",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Options and Sizes for Your Perfect Shop For Rent in Sector 37D",
@@ -52,14 +61,56 @@
       "We help you assess how factors like proximity to key transport links emerging residential complexes and nearby established markets impact the specific rental value and commercial viability of any Shop For Rent in Sector 37D. Positioning your business correctly in this vibrant region is the first step toward guaranteed commercial success and growth"
     ],
     "locations": [
-      "Badarpur Border Commercial Zone",
-      "Sector 37 Industrial Area Retail Hub",
-      "Adjacent Residential Colonies Markets",
-      "NHPC Chowk Commercial Strip",
-      "Major Connectivity Corridors Retail Frontage",
-      "Shopping Complexes in Sector 37D",
-      "Tughlakabad Institutional Area",
-      "Gurugram Metro Station Proximity Shops"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Don't miss out on prime commercial opportunities in one of Gurugram's fastest-growing sectors. Our expert team is ready to provide personalized listings and professional assistance tailored specifically to your business goals and commercial requirements.",
       "Contact us today for a private consultation and take the critical next step toward securing a high-performing business address in Sector 37D Gurugram"
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

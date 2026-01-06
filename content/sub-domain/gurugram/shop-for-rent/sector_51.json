@@ -7,12 +7,18 @@
       "We specialize in listing verified commercial properties ranging from small lock-up shops perfect for startups to large ground-floor showrooms designed for anchor tenants. Our listings emphasize strategic location, modern infrastructure, and favorable rental terms. Start your search today and find a commercial space that aligns perfectly with your business aspirations and budget in this thriving part of Gurugram. Let us help you unlock maximum business potential."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/available-shops" },
-      { "label": "Schedule a Site Visit", "path": "/contact-us" }
+      {
+        "label": "View Available Shops",
+        "path": "/available-shops"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "/images/hero/sector51_shop_front.jpg",
-      "/images/hero/sector51_commercial_hub.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The connectivity of Sector 51 enhances your market reach beyond the immediate locality. Businesses here benefit from spillover traffic from neighboring sectors and easy commuting options for employees. Understanding the surrounding commercial ecosystem helps you target specific customer demographics and capitalize on cross-sector business opportunities."
     ],
     "locations": [
-      "Sector 50 Commercial Market",
-      "Sector 52 Residential Hub",
-      "Pali Road Connectivity",
-      "BPTP Elite Floors Proximity",
-      "Omaxe World Street Access",
-      "NHPC Chowk Metro Link",
-      "Greenfield Colony",
-      "Sainik Colony Access Route"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Take the crucial next step in expanding your business footprint. Our commercial property experts are standing by to provide personalized advice and arrange site visits to the most suitable Shop For Rent in Sector 51 listings.",
       "Tell us your specific requirements, including preferred size, budget, and business type, and we will match you with prime, verified commercial spaces that guarantee maximum exposure and profitability."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,10 +7,19 @@
       "Whether you are looking for ready-to-move showroom spaces or bare shell units for custom build-outs our portfolio in Sector 34 Ambala caters to diverse investment appetites. The area benefits from excellent planning proximity to major roadways and a growing residential catchment ensuring consistent footfall and customer base for any business endeavor. Speak to our commercial property specialists today to unlock the potential of Ambala’s premier investment zone and find your perfect commercial unit."
     ],
     "buttons": [
-      { "label": "Explore Available Units", "path": "/properties" },
-      { "label": "Request Investment Guide", "path": "/contact" }
+      {
+        "label": "Explore Available Units",
+        "path": "/properties"
+      },
+      {
+        "label": "Request Investment Guide",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Property For Sale Options in Sector 34 Tailored for Maximum Profitability",
@@ -52,14 +61,56 @@
       "The location’s strength lies in its ability to draw customers and clients not only from Sector 34 itself but also from neighboring high-density residential sectors and the key transportation routes connecting Ambala City and Ambala Cantt. This robust connectivity ensures that any commercial property for sale in Sector 34 enjoys a perpetually high demand from tenants across various business segments. Understanding the catchment area is key to realizing the full potential of your commercial investment."
     ],
     "locations": [
-      "Near Ambala City Central Business District",
-      "Excellent Access to National Highway 44",
-      "Proximity to Key Residential Sectors 32 and 33",
-      "Direct Road Link to Ambala Cantt Railway Station",
-      "Well Connected to Chandigarh Ambala Highway",
-      "Close to Planned Institutional Zones",
-      "Serving High-Income Residential Communities",
-      "Easy Commute to Peripheral Industrial Areas"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

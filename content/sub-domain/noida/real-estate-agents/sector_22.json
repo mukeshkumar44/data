@@ -7,10 +7,19 @@
       "Stop wasting time searching through outdated listings. The top Real Estate Agents in Sector 22 specialize in uncovering hidden gems and off-market opportunities that match your precise criteria. Our agents possess deep knowledge of local development plans infrastructure projects and future growth corridors making your investment decision informed and highly profitable. Reach out today to experience personalized service and achieve your property goals faster."
     ],
     "buttons": [
-      { "label": "Find Your Dream Property", "path": "/search" },
-      { "label": "Speak to an Agent Now", "path": "/contact" }
+      {
+        "label": "Find Your Dream Property",
+        "path": "/search"
+      },
+      {
+        "label": "Speak to an Agent Now",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Expert Real Estate Services Tailored to Every Property Requirement in Sector 22",
@@ -52,15 +61,56 @@
       "Understanding the location is key to smart real estate investment. We track price movements infrastructure development and planned commercial zones in surrounding sectors. Leverage our local expertise to identify emerging hotspots that offer superior capital appreciation potential compared to established markets ensuring your portfolio is optimized for growth."
     ],
     "locations": [
-      "Sector 21 Noida",
-      "Sector 23 Noida",
-      "Sector 24 Noida",
-      "Sector 25 Noida",
-      "Atta Market",
-      "Wave City Centre",
-      "Sector 18 Market",
-      "Film City",
-      "Noida Expressway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

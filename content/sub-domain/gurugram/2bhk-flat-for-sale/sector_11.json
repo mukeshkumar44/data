@@ -7,10 +7,19 @@
       "We present verified listings that meet strict quality standards ensuring that your search for a 2BHK Flat For Sale in Sector 11 is seamless and successful Explore spacious layouts contemporary designs and essential amenities like security power backup and dedicated parking options Take the next step toward owning a high-value property in one of Gurugram’s most reliable neighborhoods Contact us today to arrange a personalized site visit and experience the true potential of Sector 11 living"
     ],
     "buttons": [
-      { "label": "View All 2BHK Listings", "path": "/listings/sector-11" },
-      { "label": "Request a Callback Now", "path": "/contact" }
+      {
+        "label": "View All 2BHK Listings",
+        "path": "/listings/sector-11"
+      },
+      {
+        "label": "Request a Callback Now",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Features of Every 2BHK Flat For Sale in Sector 11 Gurugram",
@@ -52,12 +61,56 @@
       "Investing in a 2BHK Flat For Sale in Sector 11 means choosing convenience You are minutes away from major educational institutions reputable hospitals sprawling commercial markets and recreational zones This perfect blend of accessibility and tranquility makes Sector 11 a highly desirable address in Gurugram"
     ],
     "locations": [
-      "Dilli-Gurgaon Expressway Access",
-      "Proximity to Malls and Shopping Centers",
-      "Easy Access to Reputed Schools and Colleges",
-      "Quick Commute to Old Gurugram Railway Station",
-      "Nearby Healthcare Facilities and Clinics",
-      "Direct Road Connectivity to Neighboring Sectors"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to take the next step towards owning a high-value 2BHK property in Sector 11 Our dedicated real estate advisors are here to provide personalized support answer all your property questions and schedule exclusive site visits at your convenience",
       "Fill out the contact form below and let us help you navigate the best available listings for 2BHK Flat For Sale in Sector 11 ensuring you secure a smart investment that meets all your residential needs"
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

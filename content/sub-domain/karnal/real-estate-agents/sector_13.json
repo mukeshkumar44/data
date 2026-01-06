@@ -7,10 +7,19 @@
       "Stop wasting time sifting through unverified listings and non-serious inquiries in the bustling Sector 13 market. Our network of top Real Estate Agents Sector 13 is thoroughly vetted, guaranteeing transparency and ethical practice throughout your entire transaction. They provide personalized guidance, detailed market analysis, and strong negotiation skills to ensure your investment is sound and stress-free. Let us simplify your journey in the Sector 13 property landscape, helping you achieve maximum return on investment with minimal effort and optimal efficiency."
     ],
     "buttons": [
-      { "label": "Consult Our Top Agents Now", "path": "/contact" },
-      { "label": "View Sector 13 Property Listings", "path": "/listings/sector-13" }
+      {
+        "label": "Consult Our Top Agents Now",
+        "path": "/contact"
+      },
+      {
+        "label": "View Sector 13 Property Listings",
+        "path": "/listings/sector-13"
+      }
     ],
-    "images": ["/images/hero-sector-13-agent.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Investment Opportunities Managed by Expert Real Estate Agents in Sector 13",
@@ -52,12 +61,56 @@
       "Whether you are seeking immediate move-in solutions or ground-up construction plots, our team offers verified inventory and deep market knowledge across these critical Sector 13 categories."
     ],
     "locations": [
-      "Residential Plots and Land Parcels",
-      "Ready-to-Move Apartments and Flats",
-      "Commercial Showrooms and Office Spaces",
-      "Independent Builder Floors",
-      "Rental and Leasehold Properties",
-      "Investment Lands Near Sector Periphery"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to start your property journey in Sector 13 Karnal? Whether you are buying, selling, or looking for reliable rental management, our expert team is here to provide exceptional service and guidance.",
       "Fill out the form below to receive a consultation call from a certified local agent who specializes in your specific property needs today."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

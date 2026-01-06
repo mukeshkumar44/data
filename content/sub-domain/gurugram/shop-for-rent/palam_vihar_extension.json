@@ -7,10 +7,19 @@
       "Our listings ensure high visibility excellent connectivity and proximity to key amenities providing the perfect ecosystem for thriving commerce. Stop searching aimlessly and connect with our experts today to unlock the perfect commercial opportunity waiting for your brand in this sought-after locality. Start building your successful future with the right Shop For Rent in Palam Vihar Extension today."
     ],
     "buttons": [
-      { "label": "Browse Premium Shop Listings", "path": "/listings" },
-      { "label": "Get Expert Consultation", "path": "/contact" }
+      {
+        "label": "Browse Premium Shop Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Expert Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Commercial Spaces Available Shop For Rent in Palam Vihar Extension",
@@ -52,12 +61,56 @@
       "We analyze factors like peak traffic times competitor density and demographic profiles to guide you toward the perfect spot. Renting a shop in a poorly situated area can hinder a business before it even opens which is why our advisory services prioritize location above all else. We help you navigate complex local regulations and secure spaces near established marketplaces or upcoming development clusters thereby maximizing your return on investment. Explore these specific commercial hubs where the best opportunities for Shop For Rent in Palam Vihar Extension currently exist offering unmatched commercial viability."
     ],
     "locations": [
-      "Main Arterial Road Frontage",
-      "High-Density Residential Hubs",
-      "Near Major Educational Institutes",
-      "Upcoming Commercial Complexes",
-      "Proximity to Dwarka Expressway",
-      "Access to Transit Points"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to secure a prime Shop For Rent in Palam Vihar Extension The market is moving fast and the best spaces are claimed quickly. Contact our specialized commercial team now to discuss your specific requirements and receive a personalized portfolio of available properties tailored to your business needs.",
       "Fill out the form below or call us directly. We are here to transform your vision into a successful commercial reality."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

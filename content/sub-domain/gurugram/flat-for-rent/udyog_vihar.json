@@ -7,12 +7,18 @@
       "Udyog Vihar offers robust infrastructure, excellent metro connectivity, and a dynamic local environment ideal for professional growth and convenience. Stop wasting time with outdated listings and unreliable agents. Browse our curated selection of 1RK, 1BHK, 2BHK, and 3BHK flats all available for immediate occupancy and ready to meet your specific lifestyle needs. Begin your hassle-free rental journey today and step into convenience."
     ],
     "buttons": [
-      { "label": "View Verified Udyog Vihar Listings", "path": "/listings" },
-      { "label": "Speak With a Rental Expert", "path": "/contact" }
+      {
+        "label": "View Verified Udyog Vihar Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Speak With a Rental Expert",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "udyog-vihar-flat-exterior.jpg",
-      "udyog-vihar-apartment-interior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Beyond the business parks, Udyog Vihar connects effortlessly to Gurugram’s social hotspots. Living here means quick trips to Cyber Hub, MG Road, and major retail centers ensuring all your lifestyle needs are met within a short drive or metro ride. Investigate the location listings below to understand the localized benefits of each sub-area."
     ],
     "locations": [
-      "Udyog Vihar Phase 5",
-      "Udyog Vihar Phase 4",
-      "DLF Cyber City",
-      "Indira Gandhi International Airport Delhi",
-      "Shankar Vihar Metro Station",
-      "NH 48 National Highway Access",
-      "Palam Vihar Extension",
-      "MG Road Gurugram"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

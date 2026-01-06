@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Verified and Ready-to-Build Plot Sizes Perfect for Your Vision in Kala Amb",
@@ -58,12 +61,56 @@
       "We focus on areas with assured infrastructure development, including access roads, reliable power grids, and planned civic amenities. Understanding the local geography is key to successful land buying. We provide detailed mapping and neighborhood analysis so you can select a location that aligns perfectly with your lifestyle needs, whether that means proximity to the Nahan-Kala Amb highway for easy commuting or being nestled near emerging commercial centers. Discover the best Plot For Sale in Kala Amb by exploring sectors that have shown consistent infrastructural improvement and predictable capital appreciation over the last five years, ensuring your investment is sound and profitable."
     ],
     "locations": [
-      "Plots near Industrial Area Kala Amb",
-      "Residential land on Nahan Road",
-      "Plots near the Haryana Border",
-      "Land parcels adjacent to Paonta Sahib Road",
-      "Approved plots near Trilokpur",
-      "Investment land near local schools and hospitals"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

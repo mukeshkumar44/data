@@ -7,10 +7,19 @@
       "Our extensive local knowledge and dedicated agents specialize exclusively in the Karan Vihar area of Karnal providing timely updates on newly available flats houses and independent rooms. Stop wasting time scrolling through unverified listings. Partner with us for efficient stress-free property rentals managed end-to-end with unmatched professionalism."
     ],
     "buttons": [
-      { "label": "Explore Rental Properties", "path": "/properties" },
-      { "label": "List Your Property for Rent", "path": "/list-property" }
+      {
+        "label": "Explore Rental Properties",
+        "path": "/properties"
+      },
+      {
+        "label": "List Your Property for Rent",
+        "path": "/list-property"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Rental Options and Comprehensive To let Service in Karan Vihar for Every Requirement",
@@ -52,14 +61,56 @@
       "We provide comprehensive rental solutions across the entire sector focusing on areas that offer excellent connectivity to the main highway NH-44 and easy access to public transport making daily commutes straightforward for residents."
     ],
     "locations": [
-      "Near NDRI Chowk",
-      "Karan Vihar Phase 1",
-      "Main Street Karan Vihar",
-      "Near Sector 6 Boundary",
-      "Local Market Area Karan Vihar",
-      "Properties closer to NH 44 Karnal",
-      "Rental Homes near Dyal Singh College",
-      "Quiet Residential Lanes of Karan Vihar"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to find your ideal rental property or list your vacant unit with confidence? Contact our specialized Karan Vihar team now.",
       "We provide personalized consultations to understand your needs whether you are searching for a short-term lease or require full-service property management assistance."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

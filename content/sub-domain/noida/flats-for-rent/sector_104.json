@@ -7,10 +7,19 @@
       "We specialize in verifying and showcasing the best rental properties available ranging from efficient Studio Apartments to expansive multi-bedroom units in integrated societies. Our platform provides detailed property insights including society amenities maintenance details and proximity to major commercial hubs like the Noida-Greater Noida Expressway. Start your effortless journey to finding the perfect rental home today ensuring comfort safety and a vibrant lifestyle in Sector 104."
     ],
     "buttons": [
-      { "label": "Browse Verified Listings", "path": "/listings" },
-      { "label": "Request Expert Consultation", "path": "/contact" }
+      {
+        "label": "Browse Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Expert Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Rental Configurations When Searching for a Flat For Rent in Sector 104 Noida",
@@ -52,14 +61,56 @@
       "We provide comprehensive rental data across the Sector 104 corridor including properties near the Expressway and surrounding mature sectors guaranteeing you comprehensive market coverage."
     ],
     "locations": [
-      "Rentals in Sector 105 Noida",
-      "Flats near Noida Expressway",
-      "Residential Societies in Sector 93",
-      "Premium Listings in Sector 108",
-      "Apartments in Sector 110",
-      "Family Homes near Sector 104",
-      "High-Rise Rentals near Dadri Road",
-      "Furnished Flats near Sector 104"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to move into your ideal home in one of Noida’s most promising sectors Simply share your requirements with our expert rental team.",
       "We provide personalized assistance helping you navigate the best verified listings and negotiate favorable rental terms."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

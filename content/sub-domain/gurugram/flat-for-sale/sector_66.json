@@ -7,10 +7,19 @@
       "Explore verified listings including builder floors, high-rise apartments, and society flats all legally clear and ready for possession. Our platform ensures transparency and provides detailed information on pricing, amenities, and legal documentation. Secure your future by investing in one of Gurugram's most promising residential locales. Let us guide you through the seamless process of acquiring your ideal flat in sector 66 and start enjoying a premium urban lifestyle today."
     ],
     "buttons": [
-      { "label": "Explore Verified Listings", "path": "/listings" },
-      { "label": "Book a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Book a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero1.jpg", "/images/hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Popular Residential Configurations When Choosing a Flat For Sale in sector 66",
@@ -52,14 +61,56 @@
       "The connectivity ensures residents benefit from reduced travel time to major employment hubs and commercial centers. Here are some of the critical areas and facilities easily accessible from your new Flat For Sale in sector 66 making it a truly central and convenient place to live and invest."
     ],
     "locations": [
-      "Sector 65 Residential Hub",
-      "BPTP Parklands",
-      "Gurugram-Noida-Ghaziabad Expressway FNG",
-      "Badarpur Border Connectivity",
-      "Major Malls and Multiplexes",
-      "Upcoming Metro Extensions",
-      "Industrial Model Township IMT Gurugram",
-      "Crown Interiorz Mall Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning a premium flat in sector 66 Gurugram We are here to provide personalized guidance, verified property tours, and detailed market insights.",
       "Fill out the form below to speak directly with our specialized real estate consultants who have an in-depth understanding of the sector 66 market and can match you with the perfect property immediately."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

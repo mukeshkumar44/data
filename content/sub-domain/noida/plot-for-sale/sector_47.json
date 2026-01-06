@@ -7,12 +7,18 @@
       "Investing in land here means securing a tangible asset in one of Noida's most developed sectors. Our comprehensive portfolio includes ready-to-build plots with clear titles and immediate possession, making your construction journey seamless and stress-free. Whether you are looking for a personal dwelling or a strategic investment, the availability of developed infrastructure and proximity to essential amenities make Sector 47 an unmatched choice for purchasing a Plot For Sale."
     ],
     "buttons": [
-      { "label": "View Available Plots", "path": "/available-plots" },
-      { "label": "Request Pricing Details", "path": "/contact-us" }
+      {
+        "label": "View Available Plots",
+        "path": "/available-plots"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "hero-plot-47-1.jpg",
-      "hero-plot-47-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -35,7 +41,7 @@
         "description": "Perfect for luxurious independent houses and villas where generous room sizes and extensive outdoor landscaping are desired. An 8 Marla Plot For Sale in Sector 47 accommodates elaborate architectural designs including home offices dedicated entertainment rooms and private terraces. This size offers superior resale value due to its inherent luxury segment appeal."
       },
       {
-      "title": "10 Marla Plot",
+        "title": "10 Marla Plot",
         "description": "For those seeking expansive living and true bespoke luxury, the 10 Marla Plot is the premier choice. This size allows for construction of large five-bedroom homes guest suites and extensive landscaping including private swimming pools or expansive gardens. These plots are often found on wider roads or corner positions in Sector 47 maximizing natural light and accessibility."
       },
       {
@@ -55,14 +61,56 @@
       "The proximity to established commercial centers educational institutions and healthcare facilities defines Sector 47’s superior livability score. Residents are never far from necessities and luxuries reinforcing its reputation as a premium address. Explore the influential neighboring sectors that contribute to Sector 47's overall desirability and growth potential."
     ],
     "locations": [
-      "Sector 46",
-      "Sector 44",
-      "Sector 49",
-      "Sector 50",
-      "Botanical Garden Metro Station",
-      "DND Flyway Access",
-      "Dadri Main Road",
-      "FNG Expressway Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

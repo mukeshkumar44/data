@@ -7,10 +7,19 @@
       "We offer a curated selection of commercial properties ranging from small retail kiosks perfect for startups to large double-height showrooms suitable for established brands. Each available shop for sale benefits from excellent connectivity ample parking and proximity to major residential colonies making it an ideal location for sustained business success. Stop searching and start owning the best commercial real estate available in Sector 28 Karnal today."
     ],
     "buttons": [
-      { "label": "Browse Premium Shop Listings", "path": "/listings" },
-      { "label": "Request a Call Back", "path": "/contact" }
+      {
+        "label": "Browse Premium Shop Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Call Back",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero-shop-sector28.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Properties and Investment Opportunities for Shops in Sector 28 Karnal",
@@ -52,12 +61,56 @@
       "Furthermore the proximity to other developing sectors and institutional areas cements Sector 28 as a central business destination. This geographical advantage minimizes business volatility and maximizes exposure making every Shop For Sale in Sector 28 a blue-chip asset ready for immediate occupancy or rental income generation. Explore the commercial ecosystem that supports sustainable growth in Karnal."
     ],
     "locations": [
-      "NH 44 National Highway Access",
-      "Proximity to Residential Hubs in Sector 27",
-      "Near Major Educational Institutions",
-      "Easy Access to Karnal City Centre",
-      "Developing Commercial Corridor Links",
-      "Ample Public Transport Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Don't miss the opportunity to own a prime commercial asset in Karnal's fastest-growing sector. Our inventory includes exclusive listings not available on public portals guaranteeing access to the most lucrative investment opportunities.",
       "Contact our commercial real estate experts today to schedule a site visit receive a personalized investment portfolio analysis and secure your future in Sector 28."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

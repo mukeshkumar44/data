@@ -7,10 +7,19 @@
       "As leading real estate agents in MG Road we provide comprehensive services for residential commercial and investment properties. Whether you are looking for a high-yield retail space a luxury apartment or land parcels our expert property consultants offer tailored advice ensuring you make an informed decision in one of Gurugram's most sought-after locations. Start your search with confidence and secure your future investment today."
     ],
     "buttons": [
-      { "label": "Browse Premium Listings Now", "path": "/listings" },
-      { "label": "Consult Our MG Road Experts", "path": "/contact" }
+      {
+        "label": "Browse Premium Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Consult Our MG Road Experts",
+        "path": "/contact"
+      }
     ],
-    "images": ["mg_road_skyline.jpg", "commercial_property_mg_road.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Expert Property Consulting Services Defining the MG Road Real Estate Market Landscape",
@@ -52,16 +61,56 @@
       "We provide bespoke property solutions that utilize the connectivity and amenities of the MG Road corridor while ensuring your specific location preference is met whether you seek the quiet luxury of DLF Phase 1 or the high corporate energy of Cyber City. Trust our real estate agents to unlock the best property opportunities in these neighboring areas."
     ],
     "locations": [
-      "DLF Phase 1",
-      "Sushant Lok Phase 1",
-      "Sikandarpur",
-      "Sector 28 Gurugram",
-      "MGF Metropolitan Mall Area",
-      "Iffco Chowk",
-      "Golf Course Road Extension",
-      "Sector 43",
-      "Cyber City Gurugram",
-      "Mehrauli-Gurgaon Road Corridor"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -157,6 +206,11 @@
       "Ready to secure your prime property investment or find the perfect tenant for your commercial space in MG Road We are here to provide tailored expert guidance.",
       "Fill out the form below to schedule a confidential consultation with one of our specialized property consultants and take the next step towards realizing your real estate goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

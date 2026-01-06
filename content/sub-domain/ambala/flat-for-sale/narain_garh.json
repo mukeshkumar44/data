@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Features and Apartment Types When Buying a Flat For Sale in Narain Garh",
@@ -58,11 +61,56 @@
       "We cover properties that offer the tranquility of semi-urban life while keeping major city centers easily accessible. Whether you prefer proximity to the Narain Garh Bus Stand or the quiet corners slightly further away, our listings provide comprehensive details on neighborhood characteristics, average price points, and future development potential. Our aim is to ensure you find a flat that not only meets your physical requirements but also perfectly fits your desired social environment and long-term financial goals in the Ambala district."
     ],
     "locations": [
-      "City Center Proximity Narain Garh",
-      "Near Narain Garh Bus Stand",
-      "Residential Hubs along SH-4",
-      "Ambala City Connectivity",
-      "Areas Near Local Educational Institutes"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

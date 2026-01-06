@@ -7,10 +7,19 @@
       "The demand for a genuine Plot For Sale in Sector 150 continues to rise due to its strategic location near the Noida Expressway, excellent connectivity to Delhi and Greater Noida, and commitment to low-density living. Whether you are searching for a compact plot for a personalized home or a larger parcel for a luxury villa project, our experts are here to guide you through the seamless acquisition process. Start exploring ownership opportunities in this future-ready Smart City sector."
     ],
     "buttons": [
-      { "label": "Explore Available Plots", "path": "/available-plots" },
-      { "label": "Request Pricing Details", "path": "/contact-us" }
+      {
+        "label": "Explore Available Plots",
+        "path": "/available-plots"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["sector-150-plot-view-1.jpg", "sector-150-map-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Ideal Plot Sizes and Configurations for Residential Projects in Sector 150 Noida",
@@ -52,14 +61,56 @@
       "The proximity to major expressways and upcoming infrastructure projects, including the proposed Jewar Airport, solidifies Sector 150's position as a future-proof real estate location. Investors benefit from fast connectivity to corporate centers while residents enjoy the quiet, green environment designed for superior quality of life. Explore the surrounding areas that contribute to Sector 150's premium status."
     ],
     "locations": [
-      "Noida Expressway Corridor",
-      "Sector 148 Metro Station",
-      "Greater Noida West",
-      "Yamuna Expressway",
-      "Pari Chowk Greater Noida",
-      "Upcoming Film City Location",
-      "Sector 152 Commercial Hub",
-      "South Noida Residential Zones"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure your Plot For Sale in Sector 150 Noida We are here to provide tailored advice, detailed site visits, and comprehensive legal assistance to make your purchase smooth and informed.",
       "Fill out the form below to receive exclusive listings that match your exact budget and size requirements. Let us help you unlock the unparalleled investment potential of Sector 150."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

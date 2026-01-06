@@ -16,7 +16,10 @@
         "path": "/listings"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Specialized Property Expertise Our Real Estate Agents Offer in Sector 29 Karnal",
@@ -58,12 +61,56 @@
       "We help you navigate the nuances between the established parts of Sector 29 and its newer developing pockets. Finding an agent who understands the exact micro-market conditions—such as proximity to schools, hospitals, or major highways—is crucial for making a sound investment decision. Trust our expert Real Estate Agents in Sector 29 for reliable insights into every specific property type and location within this desirable Karnal locality."
     ],
     "locations": [
-      "Residential Plots for Sale in Sector 29",
-      "Ready to Move Flats in Sector 29 Karnal",
-      "Builder Floors for Rent Sector 29",
-      "Commercial Shops and Offices Sector 29",
-      "Independent Houses for Sale Sector 29",
-      "High-End Apartment Projects near Sector 29"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

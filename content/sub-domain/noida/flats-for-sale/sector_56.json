@@ -7,12 +7,18 @@
       "This locality provides exceptional access to major business hubs, top-tier educational institutions, and healthcare facilities, all while being seamlessly connected via the Rapid Metro. Investing here means securing not just a home but a promising future with guaranteed appreciation. Explore verified listings and find your dream apartment today in this vibrant sector of Gurgaon."
     ],
     "buttons": [
-      { "label": "Explore Premium Flats", "path": "/flats-for-sale" },
-      { "label": "Contact Property Experts", "path": "/contact-us" }
+      {
+        "label": "Explore Premium Flats",
+        "path": "/flats-for-sale"
+      },
+      {
+        "label": "Contact Property Experts",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "flat_sector_56_hero_1.jpg",
-      "flat_sector_56_hero_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Residents benefit from effortless travel to the corporate districts and fast access to leisure and healthcare needs. We highlight the critical connecting points and local facilities that make living here highly desirable for everyone."
     ],
     "locations": [
-      "Sector 55-56 Rapid Metro Station",
-      "Golf Course Road Extension",
-      "DLF Cyber Hub and Cyber City Access",
-      "Major Educational Institutions Nearby",
-      "World-Class Multi-Specialty Hospitals",
-      "HUDA Market Sector 56 for Daily Needs",
-      "Direct Access to NH-48 Delhi Jaipur Highway",
-      "Proximity to International Airport IGI Delhi"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

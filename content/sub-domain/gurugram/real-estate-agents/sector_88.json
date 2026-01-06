@@ -17,7 +17,8 @@
       }
     ],
     "images": [
-      "hero_sector88_skyline.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -60,14 +61,56 @@
       "We understand that location is paramount for appreciation and lifestyle. Our agents cover key adjacent sectors and projects along the Dwarka Expressway and Pataudi Road, offering a unified perspective on connectivity, price variations, and future infrastructural growth opportunities."
     ],
     "locations": [
-      "Sector 89 Gurugram",
-      "Sector 83 Residential Hubs",
-      "Dwarka Expressway Corridor",
-      "Pataudi Road Investments",
-      "Vatika India Next",
-      "IMT Manesar Commercial Zone",
-      "Sector 90 Development Plots",
-      "Upcoming Projects near Kherki Daula"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

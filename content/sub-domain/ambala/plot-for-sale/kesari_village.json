@@ -7,10 +7,19 @@
       "We offer fully approved and ready-to-build residential plots catering to various requirements and budgets. Whether you are planning a cozy 4 Marla residence or a spacious 14 Marla independent bungalow, our portfolio ensures you find the ideal foundation for your future. Invest wisely in Kesari Village Ambala where rapid infrastructure growth promises significant appreciation and a high quality of life for all residents. Explore our curated selection and take the first step toward ownership in this vibrant community."
     ],
     "buttons": [
-      { "label": "Explore Available Plots Now", "path": "/available-plots" },
-      { "label": "Request a Free Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Available Plots Now",
+        "path": "/available-plots"
+      },
+      {
+        "label": "Request a Free Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Perfect Plot Sizes for Residential and Investment Planning in Kesari Village Ambala",
@@ -52,13 +61,56 @@
       "The connectivity to Ambala City and Ambala Cantt is smooth and rapid, ensuring essential services like top-tier schools, multispecialty hospitals, and vibrant markets are just a short drive away. This perfect blend of serene environment and urban proximity enhances the value of every Plot For Sale in Kesari Village, establishing it as a highly desirable residential address."
     ],
     "locations": [
-      "Proximity to National Highway 44 (NH44)",
-      "Direct Road Access to Ambala Cantt Railway Station",
-      "Easy Commute to Ambala City",
-      "Near Reputed Educational Institutions and Colleges",
-      "Short Drive to Major Healthcare Facilities",
-      "Excellent Connectivity to Industrial Areas of Ambala",
-      "Peaceful Residential Setting Away from City Congestion"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -154,6 +206,11 @@
       "Ready to secure your Plot For Sale in Kesari Village Ambala We offer personalized consultations and site visits to help you visualize your future home or investment.",
       "Get in touch with our specialist team now to discuss current inventory, financing options, and the specific legal details of the available plots. Do not miss this opportunity to invest in Ambala's next growth corridor."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

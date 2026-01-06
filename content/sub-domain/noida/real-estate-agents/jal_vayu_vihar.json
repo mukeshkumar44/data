@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Property Services Offered by Our Real Estate Agents in Jal Vayu Vihar Noida",
@@ -58,14 +61,56 @@
       "We provide detailed comparative analysis between properties in JVV and areas like Sector 29 Sector 25 and adjacent DDA pockets. This holistic view helps clients understand the trade-offs involved in location selection amenity access and future appreciation potential. We are experts in transitioning clients smoothly between residential societies guaranteeing consistent quality of service regardless of the final location chosen within this dynamic region of Noida. Explore these attractive neighboring areas where our trusted guidance continues to deliver exceptional results."
     ],
     "locations": [
-      "Sector 28 Noida",
-      "Sector 29 Noida",
-      "Sector 25 Noida",
-      "Sector 37 Noida",
-      "Sector 50 Noida",
-      "Atta Market Sector 18",
-      "Botanical Garden Area",
-      "Golf Course Sector 38"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

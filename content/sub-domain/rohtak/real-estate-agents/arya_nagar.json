@@ -7,12 +7,18 @@
       "Our dedicated team understands the nuances of local property regulations and pricing trends allowing us to streamline your transaction process from initial search to final closing. Whether you are a first-time homebuyer or an experienced investor trust our agents to deliver transparent ethical and results-driven services tailored precisely to your needs. Start your successful property journey in Arya Nagar today."
     ],
     "buttons": [
-      { "label": "View Arya Nagar Listings", "path": "/listings" },
-      { "label": "Contact an Expert Agent", "path": "/contact" }
+      {
+        "label": "View Arya Nagar Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Contact an Expert Agent",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "aryanagar_hero_villas.jpg",
-      "rohtak_skyline_view.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Understanding these surrounding investment zones is crucial for making a holistic real estate decision particularly regarding future appreciation potential and rental yield opportunities. Whether you are interested in a commercial space near the main road or a quiet residential plot close to a reputable school our expert Real Estate Agents in Arya Nagar can guide you seamlessly. We provide comparative market analysis across all these neighborhoods allowing you to select the location that perfectly aligns with your lifestyle financial goals and commuting needs within Rohtak’s dynamic landscape. Trust us to unlock the best property options both within Arya Nagar and its thriving periphery."
     ],
     "locations": [
-      "Sector 14 Rohtak Property Listings",
-      "Residential Plots near Delhi Bypass",
-      "Commercial Spaces Civil Lines",
-      "Affordable Housing near Sheela Bypass",
-      "Luxury Villas in Sunaria Chowk",
-      "Rental Apartments near MG Road Rohtak",
-      "Properties near Rohtak Railway Station",
-      "New Projects in Sector 5 Rohtak"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to explore the best properties Arya Nagar Rohtak has to offer? Contact our expert real estate agents today for a no-obligation consultation. We are here to simplify your buying selling or renting experience providing clarity and professional guidance every step of the way.",
       "Fill out the form below and one of our dedicated property specialists will reach out promptly to discuss your specific requirements and initiate your successful property search."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

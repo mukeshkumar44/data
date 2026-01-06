@@ -7,12 +7,18 @@
       "We specialize in providing transparent and comprehensive real estate services, helping hundreds of families secure their future investments. Whether you are seeking a small residential plot for immediate construction or a large commercial space for business expansion, our extensive portfolio covers all segments. Let us guide you through the process, ensuring a smooth and profitable transaction from initial viewing to final registration."
     ],
     "buttons": [
-      { "label": "View Latest Property Listings", "path": "/listings" },
-      { "label": "Get Free Property Valuation", "path": "/contact" }
+      {
+        "label": "View Latest Property Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Free Property Valuation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/barnala-road-property.webp",
-      "/images/property-dealer-ambala.webp"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Our local expertise ensures we can pinpoint emerging areas along Barnala Road that are currently undervalued but primed for future growth, offering you maximum returns on investment. Whether you prefer the hustle near the main market or the tranquility of gated communities slightly further afield, our Property Dealer team has the perfect listing awaiting your discovery in Ambala."
     ],
     "locations": [
-      "Near NH44 Highway Connectivity",
-      "Close to Ambala Cantt Railway Station",
-      "Developing Residential Colonies",
-      "High Street Commercial Zones near Police Station",
-      "Prime Industrial Area Access Points",
-      "Local Mandi and Wholesale Market Proximity",
-      "Gated Communities near Major Schools",
-      "Plots with Clear Boundary Demarcation"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to explore the best investment opportunities on Barnala Road or need an accurate valuation for your existing property. Our experienced real estate advisors are here to provide tailored solutions and expert guidance.",
       "Submit your details below and a dedicated Property Dealer specialist will contact you within the hour to discuss your specific requirements without any obligation."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

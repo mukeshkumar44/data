@@ -7,10 +7,19 @@
       "With competitive pricing and transparent deals, investing in a shop in Ambala Sadar is a smart choice. Explore our curated selection today and take the first step toward owning a commercial property in one of Ambala's most sought-after areas."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/" },
-      { "label": "Contact Us Now", "path": "/" }
+      {
+        "label": "View Available Shops",
+        "path": "/"
+      },
+      {
+        "label": "Contact Us Now",
+        "path": "/"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Shops in Ambala Sadar Tailored to Your Business Needs",
@@ -19,12 +28,30 @@
       "Investing in a shop in Ambala Sadar means gaining access to a thriving commercial hub with excellent infrastructure and amenities. Browse our diverse range of properties and find the perfect fit for your business."
     ],
     "features": [
-      { "title": "Compact Shops", "description": "Ideal for small businesses and startups, these shops offer affordable space in prime locations." },
-      { "title": "Medium-Sized Shops", "description": "Perfect for growing businesses, these shops provide ample space and high visibility." },
-      { "title": "Large Shops", "description": "Designed for established brands, these shops offer expansive space and premium locations." },
-      { "title": "Corner Shops", "description": "Maximize footfall with corner shops located in high-traffic areas." },
-      { "title": "Market Shops", "description": "Located in bustling markets, these shops ensure maximum customer engagement." },
-      { "title": "Residential Area Shops", "description": "Enjoy a steady customer base with shops situated in residential neighborhoods." }
+      {
+        "title": "Compact Shops",
+        "description": "Ideal for small businesses and startups, these shops offer affordable space in prime locations."
+      },
+      {
+        "title": "Medium-Sized Shops",
+        "description": "Perfect for growing businesses, these shops provide ample space and high visibility."
+      },
+      {
+        "title": "Large Shops",
+        "description": "Designed for established brands, these shops offer expansive space and premium locations."
+      },
+      {
+        "title": "Corner Shops",
+        "description": "Maximize footfall with corner shops located in high-traffic areas."
+      },
+      {
+        "title": "Market Shops",
+        "description": "Located in bustling markets, these shops ensure maximum customer engagement."
+      },
+      {
+        "title": "Residential Area Shops",
+        "description": "Enjoy a steady customer base with shops situated in residential neighborhoods."
+      }
     ]
   },
   "locationsSection": {
@@ -34,16 +61,56 @@
       "Whether you prefer a shop in a busy market or a quieter residential area, we have options to suit your preferences. Explore our top locations and find the perfect spot for your business."
     ],
     "locations": [
-      "Railway Road Ambala",
-      "Model Town Ambala",
-      "Patel Market Ambala",
-      "Sadar Bazaar Ambala",
-      "Kutchery Road Ambala",
-      "Jagadhari Road Ambala",
-      "Naraingarh Road Ambala",
-      "Baldev Nagar Ambala",
-      "Jawahar Nagar Ambala",
-      "Subhash Market Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -53,28 +120,76 @@
       "Our team ensures a seamless buying experience, guiding you through every step of the process. Choose Ambala Sadar for your next commercial investment and enjoy the advantages of owning a property in this bustling area."
     ],
     "points": [
-      { "title": "Strategic Locations", "description": "Our shops are situated in high-demand areas with excellent connectivity and footfall." },
-      { "title": "Competitive Pricing", "description": "We offer affordable rates for shops in Ambala Sadar, ensuring value for your investment." },
-      { "title": "Transparent Deals", "description": "Enjoy hassle-free transactions with clear and transparent property deals." },
-      { "title": "Thriving Business Ecosystem", "description": "Ambala Sadar offers a vibrant commercial environment with diverse opportunities." },
-      { "title": "Expert Guidance", "description": "Our experienced team provides personalized assistance throughout the buying process." },
-      { "title": "Future Growth Potential", "description": "Invest in a shop in Ambala Sadar and benefit from its growing commercial landscape." }
+      {
+        "title": "Strategic Locations",
+        "description": "Our shops are situated in high-demand areas with excellent connectivity and footfall."
+      },
+      {
+        "title": "Competitive Pricing",
+        "description": "We offer affordable rates for shops in Ambala Sadar, ensuring value for your investment."
+      },
+      {
+        "title": "Transparent Deals",
+        "description": "Enjoy hassle-free transactions with clear and transparent property deals."
+      },
+      {
+        "title": "Thriving Business Ecosystem",
+        "description": "Ambala Sadar offers a vibrant commercial environment with diverse opportunities."
+      },
+      {
+        "title": "Expert Guidance",
+        "description": "Our experienced team provides personalized assistance throughout the buying process."
+      },
+      {
+        "title": "Future Growth Potential",
+        "description": "Invest in a shop in Ambala Sadar and benefit from its growing commercial landscape."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shop For Sale in Ambala Sadar",
     "description": "Explore common queries about purchasing a shop in Ambala Sadar and get the answers you need to make an informed decision.",
     "faqs": [
-      { "question": "What are the benefits of buying a shop in Ambala Sadar", "answer": "Ambala Sadar offers strategic locations, competitive pricing, and a thriving business ecosystem, making it an ideal choice for commercial investments." },
-      { "question": "How can I find the best shop for my business in Ambala Sadar", "answer": "Browse our curated listings or contact our team for personalized recommendations based on your business needs." },
-      { "question": "Are there shops available in residential areas of Ambala Sadar", "answer": "Yes, we offer shops in both bustling markets and quieter residential neighborhoods to suit your preferences." },
-      { "question": "What is the price range for shops in Ambala Sadar", "answer": "Prices vary based on size and location. Contact us for detailed pricing information." },
-      { "question": "Can I get a corner shop in Ambala Sadar", "answer": "Yes, we have corner shops available in high-traffic areas for maximum visibility." },
-      { "question": "What amenities are available near shops in Ambala Sadar", "answer": "Shops in Ambala Sadar are surrounded by excellent infrastructure, including parking, public transport, and retail centers." },
-      { "question": "Is Ambala Sadar a good location for retail businesses", "answer": "Absolutely. Ambala Sadar is a thriving commercial hub with high footfall and diverse business opportunities." },
-      { "question": "How can I schedule a visit to available shops", "answer": "Contact us to arrange a visit to any of our listed shops in Ambala Sadar." },
-      { "question": "What documents are required to buy a shop in Ambala Sadar", "answer": "You will need identity proof, address proof, and financial documents. Our team will guide you through the process." },
-      { "question": "Can I get financing options for buying a shop in Ambala Sadar", "answer": "Yes, we offer assistance with financing options to make your purchase hassle-free." }
+      {
+        "question": "What are the benefits of buying a shop in Ambala Sadar",
+        "answer": "Ambala Sadar offers strategic locations, competitive pricing, and a thriving business ecosystem, making it an ideal choice for commercial investments."
+      },
+      {
+        "question": "How can I find the best shop for my business in Ambala Sadar",
+        "answer": "Browse our curated listings or contact our team for personalized recommendations based on your business needs."
+      },
+      {
+        "question": "Are there shops available in residential areas of Ambala Sadar",
+        "answer": "Yes, we offer shops in both bustling markets and quieter residential neighborhoods to suit your preferences."
+      },
+      {
+        "question": "What is the price range for shops in Ambala Sadar",
+        "answer": "Prices vary based on size and location. Contact us for detailed pricing information."
+      },
+      {
+        "question": "Can I get a corner shop in Ambala Sadar",
+        "answer": "Yes, we have corner shops available in high-traffic areas for maximum visibility."
+      },
+      {
+        "question": "What amenities are available near shops in Ambala Sadar",
+        "answer": "Shops in Ambala Sadar are surrounded by excellent infrastructure, including parking, public transport, and retail centers."
+      },
+      {
+        "question": "Is Ambala Sadar a good location for retail businesses",
+        "answer": "Absolutely. Ambala Sadar is a thriving commercial hub with high footfall and diverse business opportunities."
+      },
+      {
+        "question": "How can I schedule a visit to available shops",
+        "answer": "Contact us to arrange a visit to any of our listed shops in Ambala Sadar."
+      },
+      {
+        "question": "What documents are required to buy a shop in Ambala Sadar",
+        "answer": "You will need identity proof, address proof, and financial documents. Our team will guide you through the process."
+      },
+      {
+        "question": "Can I get financing options for buying a shop in Ambala Sadar",
+        "answer": "Yes, we offer assistance with financing options to make your purchase hassle-free."
+      }
     ]
   },
   "contactSection": {
@@ -83,6 +198,11 @@
       "Ready to invest in a Shop For Sale in Ambala Sadar? Our team is here to assist you with all your queries and guide you through the buying process.",
       "Fill out the form below, and we'll get back to you promptly with personalized recommendations and assistance."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

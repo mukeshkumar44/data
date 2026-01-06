@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "sector9_hero_view.jpg",
-      "property_dealer_sector9_office.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Working with a central Property Dealer in Sector 9 means you benefit from a wide geographical scope backed by targeted local knowledge in each adjacent area. Explore investment potential in these sought-after locations for diversified portfolio management or to find the perfect property that meets slightly different connectivity or budget requirements."
     ],
     "locations": [
-      "Sector 7 Ambala Cantt",
-      "Sector 8 Ambala",
-      "Sector 10 Urban Estate",
-      "Railway Road Area",
-      "Nicholson Road Ambala",
-      "Sainik Vihar",
-      "Defence Colony",
-      "Baldev Nagar"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/ram-nagar-hero-property.jpg",
-      "/images/ram-nagar-local-agent.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "As your dedicated Property Dealer in Ram Nagar we offer a curated portfolio that includes plots flats and commercial properties in adjacent areas that boast excellent growth potential. We provide detailed comparative market analysis across these locations helping you determine whether Ram Nagar, Shastri Colony, or a location near the Ambala Cantt railway station offers the best value for your specific requirements. Trust our team to provide unbiased recommendations based purely on factual data and established market trends ensuring your investment choice is strategically sound."
     ],
     "locations": [
-      "Ambala Cantt Residential Areas",
-      "Shastri Colony Ambala",
-      "Vijay Nagar Property Options",
-      "Sector 7 Ambala Properties",
-      "Sector 9 Ambala Investment Plots",
-      "Model Town Ambala Listings",
-      "Aggarsen Chowk Commercial Space",
-      "Baldev Nagar Real Estate"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,12 +7,18 @@
       "These 2BHK units provide optimal space utilization modern design and access to top-tier amenities typical of Gurugram’s prime residential developments. Explore our exclusive listings today and take the first step toward securing a profitable and comfortable home in one of the city’s most strategically located sectors. Investing here promises robust returns and a superior lifestyle."
     ],
     "buttons": [
-      { "label": "View All 2BHK Listings", "path": "/2bhk-listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View All 2BHK Listings",
+        "path": "/2bhk-listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "2bhk_sector49_hero1.jpg",
-      "2bhk_sector49_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "This section highlights the key adjoining sectors and prominent townships that contribute to the high standard of living and connectivity enjoyed by residents of 2BHK flats in Sector 49."
     ],
     "locations": [
-      "Sohna Road Commercial Hub",
-      "Nirvana Country Township",
-      "Sector 50 Residential Clusters",
-      "Sector 48 Key Amenities",
-      "Golf Course Extension Road Access",
-      "Good Earth City Centre"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

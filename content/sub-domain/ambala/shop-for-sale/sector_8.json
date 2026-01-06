@@ -7,10 +7,19 @@
       "Our curated selection ensures you find the perfect shop tailored to your needs. From compact retail spaces to larger commercial setups, we provide options that cater to diverse business requirements. Take the first step towards securing your dream property in Sector 8 Ambala today."
     ],
     "buttons": [
-      { "label": "View Listings", "path": "/" },
-      { "label": "Contact Us", "path": "/" }
+      {
+        "label": "View Listings",
+        "path": "/"
+      },
+      {
+        "label": "Contact Us",
+        "path": "/"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Shop Sizes and Features in Sector 8 Ambala",
@@ -52,14 +61,56 @@
       "Explore these nearby areas to find the perfect location for your shop or business."
     ],
     "locations": [
-      "Ambala Cantt",
-      "Ambala City",
-      "Sector 7",
-      "Sector 9",
-      "Naraingarh",
-      "Barara",
-      "Shahzadpur",
-      "Mullana"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to invest in a shop in Sector 8 Ambala? Contact us today to explore our listings and find the perfect property for your business.",
       "Our team is here to assist you with every step of the process, from property selection to legal formalities."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

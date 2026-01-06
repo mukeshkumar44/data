@@ -7,10 +7,19 @@
       "We understand that finding the right rental accommodation quickly and securely is paramount. Our platform provides the most comprehensive and up-to-date listings ensuring you see the best flats available in this premium locality. Start your seamless property journey here and connect directly with trusted owners and experienced local agents. Secure your perfect rental flat in Sector 1 Ambala with confidence and ease today."
     ],
     "buttons": [
-      { "label": "Browse Sector 1 Listings", "path": "/listings/sector-1" },
-      { "label": "Talk to a Rental Expert", "path": "/contact-us" }
+      {
+        "label": "Browse Sector 1 Listings",
+        "path": "/listings/sector-1"
+      },
+      {
+        "label": "Talk to a Rental Expert",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Rental Options Finding the Perfect Flat For Rent in Sector 1 Ambala",
@@ -19,12 +28,30 @@
       "Our listings clearly detail floor plans available amenities and proximity to key neighborhood facilities such as parks schools and essential markets. We aim to provide transparency in your search for a Flat For Rent in Sector 1 ensuring you know exactly what to expect before even visiting the property. Explore the variety of sizes and configurations below to pinpoint the apartment that best suits your requirements in this prime location."
     ],
     "features": [
-      { "title": "1 RK Studio Flat", "description": "These compact rental units are perfect for students or single working professionals seeking a low-maintenance lifestyle. Offering affordability and efficiency these flats in Sector 1 are often semi-furnished and provide excellent security features. They are ideal for those prioritizing location and commuting ease over excessive space." },
-      { "title": "1 BHK Rental Apartment", "description": "The 1 BHK configuration is highly sought after by young couples or individuals who require slightly more living space and privacy. Flats For Rent in Sector 1 in this size often include separate sleeping and living areas along with a functional kitchen. They strike a great balance between budget and comfort for mid-term leases." },
-      { "title": "2 BHK Family Flat", "description": "A spacious 2 BHK apartment is the quintessential choice for small to medium-sized families looking to settle in Ambala. These rental flats typically offer dedicated parking 24/7 water supply and access to community amenities like gyms or play areas which is common in Sector 1 Ambala's modern buildings." },
-      { "title": "3 BHK Spacious Homes", "description": "For larger families or those who frequently host guests 3 BHK rental homes provide ample room and privacy. These high-end flats often occupy upper floors offering better views and sometimes include premium finishes and modular kitchens. Securing a 3 BHK Flat For Rent in Sector 1 guarantees comfort and status." },
-      { "title": "Independent Floors for Rent", "description": "If apartment living feels too restrictive consider renting an entire independent floor. These units offer greater autonomy and usually come with dedicated terraces or balconies. They are an excellent option for tenants desiring a home-like environment without the shared common walls of high-rise structures in Sector 1." },
-      { "title": "Fully Furnished Luxury Rentals", "description": "Targeting corporate clients or those on short-term assignments fully furnished flats minimize the moving hassle. These luxury units in Sector 1 Ambala are move-in ready complete with appliances and sophisticated decor providing a premium hassle-free living experience from day one." }
+      {
+        "title": "1 RK Studio Flat",
+        "description": "These compact rental units are perfect for students or single working professionals seeking a low-maintenance lifestyle. Offering affordability and efficiency these flats in Sector 1 are often semi-furnished and provide excellent security features. They are ideal for those prioritizing location and commuting ease over excessive space."
+      },
+      {
+        "title": "1 BHK Rental Apartment",
+        "description": "The 1 BHK configuration is highly sought after by young couples or individuals who require slightly more living space and privacy. Flats For Rent in Sector 1 in this size often include separate sleeping and living areas along with a functional kitchen. They strike a great balance between budget and comfort for mid-term leases."
+      },
+      {
+        "title": "2 BHK Family Flat",
+        "description": "A spacious 2 BHK apartment is the quintessential choice for small to medium-sized families looking to settle in Ambala. These rental flats typically offer dedicated parking 24/7 water supply and access to community amenities like gyms or play areas which is common in Sector 1 Ambala's modern buildings."
+      },
+      {
+        "title": "3 BHK Spacious Homes",
+        "description": "For larger families or those who frequently host guests 3 BHK rental homes provide ample room and privacy. These high-end flats often occupy upper floors offering better views and sometimes include premium finishes and modular kitchens. Securing a 3 BHK Flat For Rent in Sector 1 guarantees comfort and status."
+      },
+      {
+        "title": "Independent Floors for Rent",
+        "description": "If apartment living feels too restrictive consider renting an entire independent floor. These units offer greater autonomy and usually come with dedicated terraces or balconies. They are an excellent option for tenants desiring a home-like environment without the shared common walls of high-rise structures in Sector 1."
+      },
+      {
+        "title": "Fully Furnished Luxury Rentals",
+        "description": "Targeting corporate clients or those on short-term assignments fully furnished flats minimize the moving hassle. These luxury units in Sector 1 Ambala are move-in ready complete with appliances and sophisticated decor providing a premium hassle-free living experience from day one."
+      }
     ]
   },
   "locationsSection": {
@@ -34,12 +61,56 @@
       "The area maintains excellent road links to the National Highway providing easy travel out of the city while local public transport options are abundant. Nearby areas house some of the regions best educational institutions top-tier hospitals and major shopping centers. Choosing Sector 1 means opting for convenience security and a high quality of urban life making the search for a rental here a smart long-term investment in your well-being. Explore the areas surrounding Sector 1 that enhance its desirability as a rental hub."
     ],
     "locations": [
-      "Sector 2 Ambala Adjacent residential sector known for new constructions",
-      "Ambala Cantt Railway Station Proximity for easy intercity travel",
-      "Model Town Ambala Popular shopping and retail destination nearby",
-      "Chandigarh-Delhi Highway Direct access for highway commuters",
-      "City Centre Ambala Fast connection to the main business and market hub",
-      "M.M. Hospital & Research Centre High-quality medical facilities close by"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -49,30 +120,84 @@
       "We prioritize user satisfaction offering comprehensive support from the initial search to the final signing of the lease agreement. Trust us to handle the complexities while you focus on planning your move. Read below why thousands of renters choose us as their preferred partner for finding rental homes in Ambala's prestigious Sector 1."
     ],
     "points": [
-      { "title": "Verified and Authentic Listings", "description": "Every Flat For Rent in Sector 1 advertised on our platform undergoes a rigorous verification process. We confirm property ownership legal standing and condition ensuring that you only view genuine available listings. This verification saves you time and protects you from fraudulent rental schemes which is a major concern for new renters." },
-      { "title": "Hyperlocal Market Expertise", "description": "Our team specializes exclusively in the Ambala property market particularly Sector 1. We possess deep insights into prevailing rental rates area developments and future appreciation trends. This local knowledge allows us to negotiate better deals and advise you on the most valuable rental properties." },
-      { "title": "Transparent Pricing Policy", "description": "We believe in zero hidden costs or sudden fees. All rental prices maintenance charges and security deposit requirements are clearly stated upfront. When you search for a Flat For Rent in Sector 1 through us you receive complete clarity regarding your financial commitments from the very start of the process." },
-      { "title": "Dedicated Rental Concierge Service", "description": "From setting up viewings to coordinating with current tenants or landlords our dedicated concierge assists you every step of the way. We manage the scheduling and logistics ensuring a smooth and efficient viewing experience tailored to your availability." },
-      { "title": "Comprehensive Legal Support", "description": "Renting involves careful documentation. We provide expert assistance in drafting and reviewing lease agreements ensuring all clauses related to rent hikes maintenance responsibilities and exit policies are fair and legally sound protecting your interests completely." },
-      { "title": "Advanced Search Technology", "description": "Our platform uses state-of-the-art search filters allowing you to instantly narrow down the perfect Flat For Rent in Sector 1 based on precise criteria like floor area desired amenities and specific facing or furnishing needs saving you countless hours of manual searching." },
-      { "title": "Fast Move-in Closing Times", "description": "We understand the urgency often associated with finding rental accommodation. Our efficient process and readiness with paperwork drastically reduce the time between property selection and lease signing ensuring you can move into your new Sector 1 home faster." },
-      { "title": "Post-Rental Support and Assistance", "description": "Our relationship does not end once the lease is signed. We remain available to help mediate any communication challenges or maintenance concerns that may arise between you and the landlord throughout your tenancy period ensuring continued peace of mind." }
+      {
+        "title": "Verified and Authentic Listings",
+        "description": "Every Flat For Rent in Sector 1 advertised on our platform undergoes a rigorous verification process. We confirm property ownership legal standing and condition ensuring that you only view genuine available listings. This verification saves you time and protects you from fraudulent rental schemes which is a major concern for new renters."
+      },
+      {
+        "title": "Hyperlocal Market Expertise",
+        "description": "Our team specializes exclusively in the Ambala property market particularly Sector 1. We possess deep insights into prevailing rental rates area developments and future appreciation trends. This local knowledge allows us to negotiate better deals and advise you on the most valuable rental properties."
+      },
+      {
+        "title": "Transparent Pricing Policy",
+        "description": "We believe in zero hidden costs or sudden fees. All rental prices maintenance charges and security deposit requirements are clearly stated upfront. When you search for a Flat For Rent in Sector 1 through us you receive complete clarity regarding your financial commitments from the very start of the process."
+      },
+      {
+        "title": "Dedicated Rental Concierge Service",
+        "description": "From setting up viewings to coordinating with current tenants or landlords our dedicated concierge assists you every step of the way. We manage the scheduling and logistics ensuring a smooth and efficient viewing experience tailored to your availability."
+      },
+      {
+        "title": "Comprehensive Legal Support",
+        "description": "Renting involves careful documentation. We provide expert assistance in drafting and reviewing lease agreements ensuring all clauses related to rent hikes maintenance responsibilities and exit policies are fair and legally sound protecting your interests completely."
+      },
+      {
+        "title": "Advanced Search Technology",
+        "description": "Our platform uses state-of-the-art search filters allowing you to instantly narrow down the perfect Flat For Rent in Sector 1 based on precise criteria like floor area desired amenities and specific facing or furnishing needs saving you countless hours of manual searching."
+      },
+      {
+        "title": "Fast Move-in Closing Times",
+        "description": "We understand the urgency often associated with finding rental accommodation. Our efficient process and readiness with paperwork drastically reduce the time between property selection and lease signing ensuring you can move into your new Sector 1 home faster."
+      },
+      {
+        "title": "Post-Rental Support and Assistance",
+        "description": "Our relationship does not end once the lease is signed. We remain available to help mediate any communication challenges or maintenance concerns that may arise between you and the landlord throughout your tenancy period ensuring continued peace of mind."
+      }
     ]
   },
   "faqSection": {
     "title": "Common Questions About Securing a Flat For Rent in Sector 1 Ambala",
     "description": "Here are answers to the most frequently asked questions regarding the rental process lease terms and maintenance in Sector 1 Ambala to help clarify your move.",
     "faqs": [
-      { "question": "What is the typical security deposit required for a Flat For Rent in Sector 1 Ambala", "answer": "The standard security deposit required for rental properties in Sector 1 usually ranges from one to two months worth of the stated monthly rent. This deposit is held by the landlord as security against any potential damage to the property or outstanding utility bills upon the tenant vacating the flat. It is crucial to document the property's condition thoroughly before moving in to ensure the smooth return of your deposit at the end of the lease term." },
-      { "question": "Are utility bills included in the rent price for flats in Sector 1", "answer": "In most cases utility bills such as electricity water and gas are not included in the advertised monthly rent and must be paid separately by the tenant. Some landlords might include minor charges like common area maintenance fees or society charges in the rent but this must be explicitly confirmed in the rental agreement. Always clarify which utilities are prepaid or postpaid before finalizing the deal." },
-      { "question": "What is the standard lease duration for rental flats in Sector 1 Ambala", "answer": "The most common lease duration for a Flat For Rent in Sector 1 is 11 months which is renewable upon mutual agreement. An 11-month lease is legally favorable as it avoids the need for mandatory registration under certain local rent control acts while providing stability for both parties. Longer leases such as 12 or 24 months can be negotiated especially for corporate or luxury rentals." },
-      { "question": "Is it difficult to find a pet-friendly Flat For Rent in Sector 1", "answer": "Finding a pet-friendly flat can be challenging in Sector 1 but it is certainly possible especially in independent floors or ground-floor units. Many housing societies have restrictions on pets so it is vital to communicate your needs clearly to your agent or landlord upfront. You may be asked to pay an increased security deposit or sign a specific pet clause acknowledging responsibility for any pet-related damage." },
-      { "question": "What documentation is needed to finalize a rental agreement in Sector 1", "answer": "To secure a Flat For Rent in Sector 1 you typically need to provide government-issued photo ID proof such as an Aadhar Card or Passport current address proof proof of employment or student status and passport-sized photographs. Tenants should also provide copies of the signed lease agreement and the deposit payment receipt for their records." },
-      { "question": "Who is responsible for maintenance and repairs in a rented flat in Sector 1", "answer": "Generally the landlord is responsible for major structural repairs and fixing issues related to plumbing and electrical wiring that are not caused by the tenant. The tenant is usually responsible for minor repairs routine maintenance and the upkeep of the flat including replacing light bulbs fixing minor leaks and ensuring cleanliness. The division of responsibilities should be clearly detailed in the lease agreement." },
-      { "question": "What are the common amenities available with Flat For Rent listings in Sector 1", "answer": "Flats For Rent in Sector 1 Ambala often boast modern amenities. These commonly include 24-hour security personnel CCTV surveillance dedicated parking spaces power backup via generators or UPS systems high-speed internet connectivity provisions and access to common areas like parks or jogging tracks particularly in newer residential complexes." },
-      { "question": "How quickly can I move into a newly secured flat in Sector 1", "answer": "The move-in timeline largely depends on whether the flat is vacant and ready for immediate possession. Once the lease agreement is signed the security deposit and first months rent are paid and the police verification process is initiated tenants can usually take possession within 3 to 7 days. If the flat requires cleaning or minor touch-ups the timeline might extend slightly." },
-      { "question": "Are there furnished or semi-furnished rental options widely available in Sector 1 Ambala", "answer": "Yes Sector 1 offers a good mix of both semi-furnished and fully furnished rental options. Semi-furnished flats typically include fixtures like fans geysers and basic cabinetry. Fully furnished flats include essential furniture white goods and appliances providing a true turn-key living solution ideal for short-term stays or tenants who do not own furniture." },
-      { "question": "How do I ensure the rental Flat For Rent in Sector 1 is legally compliant and safe", "answer": "Always deal with verified landlords or reputable real estate agents like ours. Insist on seeing the property ownership documents and confirming that the person signing the lease has the legal authority to rent the property. Additionally ensure a police verification certificate is completed as mandated by local authorities which guarantees the safety and legality of your rental tenancy." }
+      {
+        "question": "What is the typical security deposit required for a Flat For Rent in Sector 1 Ambala",
+        "answer": "The standard security deposit required for rental properties in Sector 1 usually ranges from one to two months worth of the stated monthly rent. This deposit is held by the landlord as security against any potential damage to the property or outstanding utility bills upon the tenant vacating the flat. It is crucial to document the property's condition thoroughly before moving in to ensure the smooth return of your deposit at the end of the lease term."
+      },
+      {
+        "question": "Are utility bills included in the rent price for flats in Sector 1",
+        "answer": "In most cases utility bills such as electricity water and gas are not included in the advertised monthly rent and must be paid separately by the tenant. Some landlords might include minor charges like common area maintenance fees or society charges in the rent but this must be explicitly confirmed in the rental agreement. Always clarify which utilities are prepaid or postpaid before finalizing the deal."
+      },
+      {
+        "question": "What is the standard lease duration for rental flats in Sector 1 Ambala",
+        "answer": "The most common lease duration for a Flat For Rent in Sector 1 is 11 months which is renewable upon mutual agreement. An 11-month lease is legally favorable as it avoids the need for mandatory registration under certain local rent control acts while providing stability for both parties. Longer leases such as 12 or 24 months can be negotiated especially for corporate or luxury rentals."
+      },
+      {
+        "question": "Is it difficult to find a pet-friendly Flat For Rent in Sector 1",
+        "answer": "Finding a pet-friendly flat can be challenging in Sector 1 but it is certainly possible especially in independent floors or ground-floor units. Many housing societies have restrictions on pets so it is vital to communicate your needs clearly to your agent or landlord upfront. You may be asked to pay an increased security deposit or sign a specific pet clause acknowledging responsibility for any pet-related damage."
+      },
+      {
+        "question": "What documentation is needed to finalize a rental agreement in Sector 1",
+        "answer": "To secure a Flat For Rent in Sector 1 you typically need to provide government-issued photo ID proof such as an Aadhar Card or Passport current address proof proof of employment or student status and passport-sized photographs. Tenants should also provide copies of the signed lease agreement and the deposit payment receipt for their records."
+      },
+      {
+        "question": "Who is responsible for maintenance and repairs in a rented flat in Sector 1",
+        "answer": "Generally the landlord is responsible for major structural repairs and fixing issues related to plumbing and electrical wiring that are not caused by the tenant. The tenant is usually responsible for minor repairs routine maintenance and the upkeep of the flat including replacing light bulbs fixing minor leaks and ensuring cleanliness. The division of responsibilities should be clearly detailed in the lease agreement."
+      },
+      {
+        "question": "What are the common amenities available with Flat For Rent listings in Sector 1",
+        "answer": "Flats For Rent in Sector 1 Ambala often boast modern amenities. These commonly include 24-hour security personnel CCTV surveillance dedicated parking spaces power backup via generators or UPS systems high-speed internet connectivity provisions and access to common areas like parks or jogging tracks particularly in newer residential complexes."
+      },
+      {
+        "question": "How quickly can I move into a newly secured flat in Sector 1",
+        "answer": "The move-in timeline largely depends on whether the flat is vacant and ready for immediate possession. Once the lease agreement is signed the security deposit and first months rent are paid and the police verification process is initiated tenants can usually take possession within 3 to 7 days. If the flat requires cleaning or minor touch-ups the timeline might extend slightly."
+      },
+      {
+        "question": "Are there furnished or semi-furnished rental options widely available in Sector 1 Ambala",
+        "answer": "Yes Sector 1 offers a good mix of both semi-furnished and fully furnished rental options. Semi-furnished flats typically include fixtures like fans geysers and basic cabinetry. Fully furnished flats include essential furniture white goods and appliances providing a true turn-key living solution ideal for short-term stays or tenants who do not own furniture."
+      },
+      {
+        "question": "How do I ensure the rental Flat For Rent in Sector 1 is legally compliant and safe",
+        "answer": "Always deal with verified landlords or reputable real estate agents like ours. Insist on seeing the property ownership documents and confirming that the person signing the lease has the legal authority to rent the property. Additionally ensure a police verification certificate is completed as mandated by local authorities which guarantees the safety and legality of your rental tenancy."
+      }
     ]
   },
   "contactSection": {
@@ -81,6 +206,11 @@
       "Do not miss out on the best rental properties in Sector 1. Our expert team is standing by to assist you with personalized viewings negotiation support and comprehensive documentation help. Take the first step toward moving into your dream home.",
       "Fill out the form below to receive immediate access to exclusive off-market Flat For Rent in Sector 1 listings and professional guidance tailored exactly to your unique needs."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

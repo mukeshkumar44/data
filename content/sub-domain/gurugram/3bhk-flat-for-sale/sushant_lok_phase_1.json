@@ -7,10 +7,19 @@
       "A 3BHK Flat For Sale in Sushant Lok Phase 1 provides the perfect balance of size, privacy, and convenience, making it ideal for established families and high-net-worth individuals. Enjoy seamless access to key commercial hubs like Cyber City, major shopping districts including Galleria Market, and world-class healthcare facilities. Investing here guarantees not only a superior quality of life but also strong capital appreciation and consistent high rental yields, solidifying your decision as a smart financial move in the Gurugram real estate market."
     ],
     "buttons": [
-      { "label": "Explore Premium 3BHK Listings", "path": "/listings" },
-      { "label": "Schedule a Site Visit Now", "path": "/contact" }
+      {
+        "label": "Explore Premium 3BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit Now",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Ideal 3BHK Configurations and Super Areas in Sushant Lok Phase 1",
@@ -52,12 +61,56 @@
       "The connectivity makes finding a 3BHK Flat For Sale in Sushant Lok Phase 1 highly desirable for professionals and families. It sits right off the arterial MG Road, placing commercial life and recreational facilities just minutes away, proving why this phase remains a top investment hotspot for luxury residential real estate."
     ],
     "locations": [
-      "MG Road Metro Station 5 minutes away",
-      "Cyber Hub and Cyber City Gurugram 10 minutes drive",
-      "Galleria Market and DLF Mega Mall walking distance",
-      "IFFCO Chowk and Delhi-Gurugram Expressway close proximity",
-      "Fortis Memorial Research Institute nearby",
-      "DPS International and Shiv Nadar School in the vicinity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to secure your premium 3BHK Flat For Sale in Sushant Lok Phase 1 Gurugram We specialize in exclusive listings, builder floors, and luxury apartments in this highly sought-after area. Our team provides detailed market insights, personalized property tours, and full legal assistance to make your purchase smooth and efficient.",
       "Get in touch with us today to discuss your specific requirements, schedule a private viewing, and find the perfect residential investment that meets your lifestyle needs."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

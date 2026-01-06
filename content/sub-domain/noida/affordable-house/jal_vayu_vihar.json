@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/jal-vayu-vihar-hero-1.jpg",
-      "/images/jal-vayu-vihar-hero-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "The locality is proximal to major metro stations including Sector 18 and Sector 16 making public transportation reliable and efficient. Furthermore, the area is well-served by internal roads and situated close to major employment hubs like Sector 62 and Sector 16. Accessibility to top hospitals, reputable schools, and popular shopping centers like the Great India Place Mall adds immeasurable convenience to daily life ensuring that affordability does not mean isolation. This ideal balance of location and cost makes JVV a top choice for discerning homebuyers."
     ],
     "locations": [
-      "DND Flyway Access",
-      "Sector 18 Metro Station",
-      "Sector 16 Metro Station",
-      "GIP Mall and Atta Market",
-      "Major Hospitals Fortis Kailash",
-      "Noida Expressway Link Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

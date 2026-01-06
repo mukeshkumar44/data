@@ -7,12 +7,18 @@
       "We provide bespoke property solutions that match your financial goals and lifestyle requirements. Avoid common market pitfalls and leverage our comprehensive understanding of current market trends pricing dynamics and future infrastructural developments specific to Sector 105 Gurugram. Start your successful property transaction today by partnering with the leading local experts."
     ],
     "buttons": [
-      { "label": "Find Your Dream Property", "path": "/properties" },
-      { "label": "Consult an Agent Now", "path": "/contact" }
+      {
+        "label": "Find Your Dream Property",
+        "path": "/properties"
+      },
+      {
+        "label": "Consult an Agent Now",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "sector105_aerial.jpg",
-      "agent_meeting_105.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Our local Real Estate Agents in Sector 105 have comprehensive knowledge of how this connectivity impacts property values. We guide clients based on upcoming developments like planned metro extensions and proximity to commercial sectors ensuring long-term growth and accessibility are factored into every transaction."
     ],
     "locations": [
-      "Dwarka Expressway Access",
-      "Proximity to Aerocity and IGI Airport",
-      "Nearby Sectors 104 and 106",
-      "Upcoming Global City Development",
-      "Easy Access to NH-48",
-      "Planned Metro Connectivity",
-      "Top International Schools",
-      "Major Retail Hubs and Malls"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

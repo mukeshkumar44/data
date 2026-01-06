@@ -7,10 +7,19 @@
       "Saha is strategically positioned near major highways and the thriving industrial area, providing seamless connectivity to Ambala Cantt and Chandigarh. Investing in a property here means securing a future in a location destined for significant growth. Explore diverse architectural styles and modern amenities in high-demand residential colonies. Start your journey today and connect with experts who understand the nuances of the Saha real estate market to help you secure the ideal house at the best possible value."
     ],
     "buttons": [
-      { "label": "Browse All Listings", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "Browse All Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Common House Sizes Available When Looking For Property in Saha Ambala",
@@ -52,12 +61,56 @@
       "We focus on properties in established and emerging localities within Saha, ensuring that every house we list is situated in a safe, developing neighborhood with robust municipal services. This helps guarantee long-term stability and growth for your property investment. Explore the distinct character and connectivity advantages of these prominent Saha residential areas."
     ],
     "locations": [
-      "Saha Industrial Area Residential Blocks",
-      "Near NH 44 Highway Connective Residences",
-      "Saha Institutional Area Housing",
-      "Model Town Saha Residential Plots",
-      "Ambala Chandigarh Highway Adjacent Colonies",
-      "Saha Bypass Road Neighborhoods"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to secure the perfect House For Sale in Saha Ambala We connect you directly with experienced property consultants who specialize exclusively in this dynamic local market. Our experts provide personalized tours, detailed legal verification, and negotiation support to ensure you get the best deal.",
       "Fill out the contact form below and take the first step toward owning your dream home in one of Ambala's fastest-growing residential hubs. We are here to answer all your questions about the Saha property landscape."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

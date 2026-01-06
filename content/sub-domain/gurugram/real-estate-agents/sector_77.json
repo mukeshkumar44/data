@@ -7,12 +7,18 @@
       "Sector 77 is a rapidly developing area offering modern amenities and excellent connectivity, making it highly desirable. Choosing the right real estate agent is crucial for a smooth transaction. We manage all aspects of the process, from initial property valuation and listing optimization to complex negotiations and final legal documentation. Trust our seasoned professionals to deliver a seamless, transparent, and highly efficient real estate experience tailored to your specific goals in Sector 77 Gurugram."
     ],
     "buttons": [
-      { "label": "Find My Dream Property", "path": "/properties" },
-      { "label": "List Your Property Today", "path": "/sell" }
+      {
+        "label": "Find My Dream Property",
+        "path": "/properties"
+      },
+      {
+        "label": "List Your Property Today",
+        "path": "/sell"
+      }
     ],
     "images": [
-      "sector77_hero_view.jpg",
-      "agent_meeting_faridabad.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,18 +61,56 @@
       "Whether you are seeking high-rise apartments near major corporate centres, independent floors in established colonies, or prime commercial spaces, our team is equipped to guide you. We are committed to being your single point of contact for all property needs, ensuring consistency and excellence in service no matter which sector you choose in Gurugram."
     ],
     "locations": [
-      "Sector 75",
-      "Sector 76",
-      "Sector 78",
-      "Sector 79",
-      "Neharpar Gurugram",
-      "Greater Gurugram",
-      "Ashoka Enclave",
-      "Green Field Colony",
-      "Surajkund",
-      "Sector 80",
-      "Sector 81",
-      "Sector 85"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -162,6 +206,11 @@
       "Ready to secure the best property deal in Sector 77 or need expert guidance on selling your existing asset? Our team is standing by to provide personalized, professional assistance.",
       "Fill out the contact form below or call us directly. Let us put our local expertise and proven track record to work for your real estate success in Gurugram."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

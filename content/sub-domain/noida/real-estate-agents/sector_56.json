@@ -7,10 +7,19 @@
       "Whether you are searching for a luxurious residential apartment, a strategic commercial space, or planning to liquidate an existing asset at the maximum possible value, our skilled Real Estate Agents in Sector 56 are ready to assist. We manage the entire process from initial consultation and market analysis to complex negotiations and seamless closing, ensuring a stress-free experience from start to finish. Partner with us to unlock the true potential of Sector 56 property."
     ],
     "buttons": [
-      { "label": "Find Your Dream Home", "path": "/properties-for-sale" },
-      { "label": "Speak to an Expert Agent", "path": "/contact" }
+      {
+        "label": "Find Your Dream Home",
+        "path": "/properties-for-sale"
+      },
+      {
+        "label": "Speak to an Expert Agent",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Comprehensive Property Services Provided by Leading Real Estate Agents in Sector 56 Noida",
@@ -52,12 +61,56 @@
       "We have successfully brokered deals across various internal pockets of Sector 56 Noida, including areas near the metro corridor and specific residential blocks known for their community amenities. Understanding the micro-market differences—from rental yields in particular apartment societies to appreciation rates for specific plot sizes—is our forte. We ensure our clients are always equipped with local knowledge that transcends general market reports, giving them a significant advantage in this competitive market."
     ],
     "locations": [
-      "Residential Apartments near DPS Sector 56",
-      "Independent Builder Floors in Block A and B",
-      "Commercial Shops and Office Space",
-      "Properties close to Sector 57 Metro Station",
-      "High-End Resale Flats near the Green Belt",
-      "Gated Community Villas in Sector 56 Extension"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to take the next step in the Sector 56 property market? Whether you are looking for specific property advice, need a free valuation, or are ready to list your home, our expert team is here to help. Contact us today to schedule a confidential consultation with a specialized agent who understands the nuances of the Noida real estate environment.",
       "Fill out the brief inquiry form below, and one of our dedicated Real Estate Agents in Sector 56 will contact you within the next business hour. Let us put our local knowledge and professional resources to work for you to achieve outstanding results."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

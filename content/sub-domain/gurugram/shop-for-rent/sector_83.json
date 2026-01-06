@@ -7,10 +7,19 @@
       "Whether you need a small high-visibility kiosk a sprawling ground-floor showroom or a dedicated space for a cafe Sector 83 provides diverse options tailored to ambitious entrepreneurs. Start your seamless search here and benefit from our expert market insights to secure the ideal rental shop that promises high footfall and sustained growth in one of Gurugram's most sought-after commercial zones."
     ],
     "buttons": [
-      { "label": "Explore Available Shops", "path": "/listings" },
-      { "label": "Consult Our Rental Experts", "path": "/contact" }
+      {
+        "label": "Explore Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Consult Our Rental Experts",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Spaces Available for Rent Tailored to Every Business Need in Sector 83",
@@ -52,12 +61,56 @@
       "Our extensive network covers key areas that enhance the value proposition of renting a shop in Sector 83 ensuring that your business benefits from the integrated development of the entire corridor."
     ],
     "locations": [
-      "Sector 81 Business District",
-      "Sector 85 High Street Retail",
-      "Neharpar Commercial Zone",
-      "Puri Amanvil Hub",
-      "FNG Expressway Retail Points",
-      "BPTP Parklands Commercial Arcade"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Connect with our specialist commercial leasing team today. We provide personalised consultations to understand your business goals and shortlist the perfect properties ensuring a fast and efficient rental process.",
       "Submit your requirements now and take the first step towards establishing a strong commercial presence in Sector 83 Gurugram's growth corridor."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

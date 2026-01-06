@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Factors When Looking for the Perfect Commercial Shop For Rent in Sector 66 Gurugram",
@@ -58,14 +61,56 @@
       "Whether you are looking for high-street retail or space within a managed complex these surrounding areas provide excellent options for expanding your business reach. We provide detailed insights into the demographic profile of each zone ensuring you select a shop location that guarantees maximum resonance with your intended customers and offers robust connectivity across Gurugram."
     ],
     "locations": [
-      "Commercial Complex near Sector 66 Main Gate",
-      "Retail Spaces Facing Sector 66-67 Dividing Road",
-      "Shops Adjacent to BPTP Elite Floors Sector 85",
-      "High Street Market near Sector 66 Residential Blocks",
-      "Retail Centers Along Greater Gurugram Bypass Road",
-      "Commercial Pockets near Sector 65 Connectivity",
-      "Integrated Market Spaces in Adjacent Sectors 84 and 86",
-      "Service Lane Shops with Parking Facilities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Residential House Sizes and Property Types Available in Alipur Village",
@@ -58,13 +61,56 @@
       "This location is highly desirable for professionals and families alike, ensuring that essential services are never far away. We highlight houses that are near respected schools, advanced medical facilities, and bustling market areas, maximizing convenience for daily life. Investing here means enjoying lower density living while remaining connected to the pulse of Ambala. Our experts can guide you through the local market trends and upcoming infrastructural developments that will further enhance the value of your House For Sale in Alipur Village."
     ],
     "locations": [
-      "Ambala City Railway Station",
-      "National Highway 44 Connectivity",
-      "Ambala Cantt Local Market",
-      "Major Educational Institutions",
-      "Reputed Multi-Specialty Hospitals",
-      "Shuttle Service Routes",
-      "Upcoming Commercial Hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

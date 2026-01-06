@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "house_baldev_nagar_1.jpg",
-      "rental_interior_baldev_nagar.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "Key amenities surrounding your house for rent include reputed schools such as SD Vidya School top-tier healthcare facilities and well-stocked local markets providing daily necessities just a few minutes away. Living here means reducing commute times and increasing quality family time. We ensure the houses we list are within safe well-lit localities that enhance the overall tenant experience."
     ],
     "locations": [
-      "Ambala City Railway Station Access",
-      "Bus Stand Baldev Nagar Proximity",
-      "Naraingarh Road Connectivity",
-      "Model Town Shopping Areas",
-      "Easy Access to NH 44 Highway",
-      "Nearby Hospitals and Clinics"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

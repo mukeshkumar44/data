@@ -7,10 +7,19 @@
       "Sector 51 offers exceptional connectivity established infrastructure and a high quality of life making it a sought after destination for discerning homeowners and investors alike. Trust our seasoned professionals to navigate the complexities of property dealings securing the best possible outcomes tailored to your financial goals and timeline. We specialize in residential builder floors luxury apartments and commercial spaces offering a full spectrum of real estate solutions."
     ],
     "buttons": [
-      { "label": "Find Your Dream Property", "path": "/search" },
-      { "label": "Schedule a Free Consultation", "path": "/contact" }
+      {
+        "label": "Find Your Dream Property",
+        "path": "/search"
+      },
+      {
+        "label": "Schedule a Free Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Investment Opportunities Curated by Leading Real Estate Agents in Sector 51",
@@ -52,14 +61,56 @@
       "Our Real Estate Agents in Sector 51 provide insights into neighboring areas evaluating infrastructure development future growth prospects and price trends to help you make informed decisions about your property portfolio extending beyond Sector 51 itself. We cover the entire Southern Peripheral Road SPR corridor ensuring you access the best properties Gurugram has to offer."
     ],
     "locations": [
-      "Sector 50 Nirvana Country",
-      "Sector 57 Gurugram",
-      "Sector 49 Gurugram",
-      "Golf Course Extension Road",
-      "Sohna Road Commercial Hub",
-      "Sector 52 Gurugram",
-      "Sector 56 Huda Market",
-      "South City 2"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

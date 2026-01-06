@@ -7,12 +7,18 @@
       "DLF Phase 2 represents the pinnacle of premium urban living combining excellent connectivity with world-class amenities. Leveraging years of experience we provide tailored property solutions that align precisely with your lifestyle needs and financial goals. Stop wasting time navigating complex listings and connect directly with the agents who have the keys to the finest properties this area has to offer. Let us transform your real estate objectives into successful realities today."
     ],
     "buttons": [
-      { "label": "View Exclusive Listings", "path": "/listings" },
-      { "label": "Schedule Expert Consultation", "path": "/contact" }
+      {
+        "label": "View Exclusive Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule Expert Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "dlf-phase-2-luxury-home-front.jpg",
-      "gurugram-skyline-dlf-phase-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The continuous development and infrastructure improvements in the immediate vicinity mean that informed investment decisions require a broad geographic view. We help clients evaluate properties in nearby areas like DLF Phase 1 Phase 3 and Sector 24 comparing price per square foot amenities offered and projected infrastructure benefits. Trust the Real Estate Agents in DLF Phase 2 who offer a panoramic view of the regional market ensuring your investment is well-placed within the evolving dynamics of the Millennium City."
     ],
     "locations": [
-      "DLF Phase 1 Gurugram",
-      "DLF Phase 3 Gurugram",
-      "Cyber City DLF",
-      "Sector 24 Gurugram",
-      "MG Road Residential Options",
-      "Sushant Lok Phase 1",
-      "Golf Course Road Extension",
-      "Udyog Vihar Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

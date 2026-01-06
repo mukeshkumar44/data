@@ -7,10 +7,19 @@
       "We feature a curated selection of commercial properties ranging from small retail outlets ideal for niche businesses to large showrooms perfect for flagship stores Investing here means buying into a legacy of success and accessing a customer base ready to spend Let us guide you through finding the perfect commercial property that aligns with your business goals and financial projections Start your journey to owning a valuable asset in the most sought-after location in Karnal today"
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/available-shops" },
-      { "label": "Request Commercial Valuation", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/available-shops"
+      },
+      {
+        "label": "Request Commercial Valuation",
+        "path": "/contact"
+      }
     ],
-    "images": ["sadar_bazar_shop_front.jpg", "commercial_investment_karnal.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Property Sizes Shop For Sale in Sadar Bazar Karnal",
@@ -52,14 +61,56 @@
       "We highlight important commercial landmarks nearby that drive complementary business traffic to Sadar Bazar This informational overview assists in making a well-rounded investment decision ensuring that your purchased shop is situated in a zone that maximizes logistical efficiency and continuous customer flow Explore the dynamic ecosystem surrounding Sadar Bazar and realize the full potential of your commercial real estate investment in Karnal"
     ],
     "locations": [
-      "Mansa Devi Complex Road Connectivity",
-      "Karnal Railway Station Access",
-      "National Highway 44 Proximity",
-      "Near Old Bus Stand Commercial Area",
-      "Close to Local Administrative Offices",
-      "Adjacent to Major Residential Colonies",
-      "Easy Access to Sector 12 Market",
-      "Surrounded by Banks and Financial Institutions"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure your prime shop for sale in Sadar Bazar Karnal Reach out to our specialized commercial property consultants today We provide personalized guidance market analysis and exclusive listing tours tailored to your investment criteria.",
       "Fill out the form below and a dedicated Sadar Bazar expert will contact you within one business hour to discuss your commercial real estate goals"
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

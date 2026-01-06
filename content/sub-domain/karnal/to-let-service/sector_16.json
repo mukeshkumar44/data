@@ -16,7 +16,10 @@
         "path": "/list-property"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Professional Rental Services Tailored to Every Property Size in Sector 16 Karnal",
@@ -58,12 +61,56 @@
       "We maintain updated listings and market intelligence for nearby areas known for high rental demand, including established sectors and rapidly developing pockets. Our team ensures that marketing efforts for your Sector 16 property are highly localized, but we can also manage your rental properties in surrounding zones, streamlining your entire investment management under one professional umbrella. Utilizing our service means gaining access to the entire Karnal rental landscape, backed by expert local knowledge crucial for securing the best rental value and quality tenants."
     ],
     "locations": [
-      "Sector 16 Flats for Rent",
-      "Commercial Spaces in Sector 16",
-      "Independent Houses near Sector 16",
-      "Rental Apartments Sector 17",
-      "Office Spaces Sector 15 Karnal",
-      "Builder Floors in Sector 16"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

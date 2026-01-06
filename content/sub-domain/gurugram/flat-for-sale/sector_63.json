@@ -7,12 +7,18 @@
       "Investing in a flat in Sector 63 means securing a future in a well-planned area with easy access to major industrial sectors, educational institutions, and healthcare facilities. Our curated listings feature verified properties from trusted developers ensuring transparent transactions and immediate possession. Explore the best residential opportunities and find your dream home or next profitable investment property right here in Sector 63 Gurugram. Start your search now to leverage current market advantages and enjoy unparalleled suburban comfort."
     ],
     "buttons": [
-      { "label": "Explore Available Flats", "path": "/listings" },
-      { "label": "Get Price List", "path": "/contact-us" }
+      {
+        "label": "Explore Available Flats",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Price List",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "/images/sector63/hero1.webp",
-      "/images/sector63/hero2.webp"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Understanding the surrounding areas is vital when finalizing your decision to buy a Flat For Sale in sector_63. The proximity to well-established sectors means residents enjoy ready access to mature infrastructure, including reputable schools, major hospitals, and comprehensive retail outlets. This strong supporting infrastructure solidifies Sector 63 as a top residential choice in the Gurugram real estate market."
     ],
     "locations": [
-      "Sector 62 Gurugram",
-      "Sector 64 Gurugram",
-      "Badarpur Border Connectivity",
-      "Kheri Kalan Village",
-      "Mathura Road NH 44 Access",
-      "Ballabgarh Industrial Area",
-      "Neharpar Residential Zone",
-      "Upcoming Metro Extensions"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

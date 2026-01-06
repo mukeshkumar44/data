@@ -7,10 +7,19 @@
       "This well-established sector boasts wide tree-lined roads excellent security systems and immediate access to key commercial hubs like Huda City Centre and the MG Road corridor. We specialize in finding premium residential units ranging from ready-to-move-in independent floors to spacious villas perfect for large families. Our listings feature properties with freehold status and clear documentation ensuring a smooth and transparent purchasing process. Explore the possibilities of owning your dream home in this prime Gurugram location where value appreciation is consistently strong and resident satisfaction is high."
     ],
     "buttons": [
-      { "label": "View Available Houses", "path": "/listings" },
-      { "label": "Request Expert Consultation", "path": "/contact" }
+      {
+        "label": "View Available Houses",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Expert Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Diverse Residential Plot Sizes and House Configurations Available in South City 1",
@@ -52,12 +61,56 @@
       "Residents benefit immensely from the immediate vicinity of the Huda City Centre metro station making daily commutes exceptionally simple. Nearby sectors like Sushant Lok 1 and DLF Phase 4 further enhance the lifestyle offerings providing access to upscale dining shopping and essential services. When you buy a house in South City 1 you are investing in a central location that remains irreplaceable for its convenience and established social infrastructure. This sector is adjacent to the MGF Metropolitan Mall and the City Centre Mall ensuring all retail and entertainment needs are met within minutes. The excellent public transport network and proximity to major hospitals and schools solidify South City 1's status as a premium residential choice for families and professionals alike."
     ],
     "locations": [
-      "Huda City Centre Metro Station",
-      "Sushant Lok Phase 1",
-      "DLF Phase 4",
-      "MG Road",
-      "Sector 40 Residential Area",
-      "Sector 31 Commercial Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -126,8 +179,8 @@
         "answer": "A vast majority of the residential properties houses and plots in South City 1 are freehold properties. This means the buyer obtains complete and permanent ownership rights over both the land and the structure. Freehold status is a significant advantage offering better security easy transferability and simpler mortgage options compared to properties with leasehold constraints often found in cooperative housing societies."
       },
       {
-      "question": "What documents should I verify before I buy a house in South City 1",
-      "answer": "Thorough due diligence is crucial. Key documents to verify include the registered sale deed of the land the occupancy certificate OC the building plans approved by the relevant authority and the mutation records showing ownership transfer. Additionally ensure all property tax receipts and utility bills are up to date and check for any outstanding mortgages or legal disputes associated with the specific house. Our legal team assists clients in verifying every single required document."
+        "question": "What documents should I verify before I buy a house in South City 1",
+        "answer": "Thorough due diligence is crucial. Key documents to verify include the registered sale deed of the land the occupancy certificate OC the building plans approved by the relevant authority and the mutation records showing ownership transfer. Additionally ensure all property tax receipts and utility bills are up to date and check for any outstanding mortgages or legal disputes associated with the specific house. Our legal team assists clients in verifying every single required document."
       },
       {
         "question": "Does South City 1 suffer from water logging issues during the monsoon season",

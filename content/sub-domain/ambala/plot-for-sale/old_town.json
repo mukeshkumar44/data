@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "old-town-street-view.jpg",
-      "plot-for-sale-ambala.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Our plots are strategically located offering immediate access to the main bazaars government offices and transport links ensuring that everything you need is only minutes away. This central position dramatically enhances both quality of life and future property valuation."
     ],
     "locations": [
-      "Ambala City Railway Station Proximity",
-      "The Main Cloth Market Access",
-      "Near Ambala City Bus Stand",
-      "Government Offices Area",
-      "Connectivity to Ambala Cantt",
-      "Close to Major Educational Institutions",
-      "Access to Historical Temples and Gurudwaras",
-      "Linking Road to National Highway 44"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

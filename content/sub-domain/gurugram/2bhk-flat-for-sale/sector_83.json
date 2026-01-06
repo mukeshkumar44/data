@@ -7,10 +7,19 @@
       "Investing in a 2BHK Flat For Sale in Sector 83 positions you perfectly within New Gurugram’s commercial and recreational hub. These apartments are ideally suited for young professionals, small families, and savvy investors looking for high rental yields. Explore well-planned layouts by reputable developers known for timely delivery and superior build quality. Start your search today and secure your spot in this thriving community."
     ],
     "buttons": [
-      { "label": "Explore Available 2BHK Options", "path": "/2bhk-listings" },
-      { "label": "Download Detailed Brochure", "path": "/contact-us" }
+      {
+        "label": "Explore Available 2BHK Options",
+        "path": "/2bhk-listings"
+      },
+      {
+        "label": "Download Detailed Brochure",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Premium Features and Amenities Defining 2BHK Flats in Sector 83 Gurugram",
@@ -52,12 +61,56 @@
       "The planned infrastructure development, including upcoming metro links and commercial zones, signals massive appreciation potential for properties here. Investing in a 2BHK Flat For Sale in Sector 83 today means securing a significant return on investment tomorrow. We provide details on surrounding developments and connectivity perks that cement Sector 83 as a top investment hotspot in the region."
     ],
     "locations": [
-      "Immediate access to National Highway 48",
-      "Near major commercial hubs and offices in Manesar",
-      "Proximity to upcoming Dwarka Expressway connectivity points",
-      "Close to major retail developments and shopping complexes",
-      "Well-served by major educational institutions and multi-specialty hospitals",
-      "Located near major IT parks ensuring high rental demand"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to take the next step towards owning a premium 2BHK flat in one of Gurugram’s most promising sectors Contact our specialized property advisors now for personalized guidance, site visits, and exclusive deals.",
       "Fill out the form below and let us help you find the perfect apartment that meets your budget, location, and lifestyle requirements in Sector 83."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

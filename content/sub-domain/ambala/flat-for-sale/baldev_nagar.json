@@ -7,10 +7,19 @@
       "Every flat listed is meticulously selected based on construction quality strategic location and proximity to essential services like schools hospitals and market areas. Investing in a flat here means securing a future in one of Ambala's rapidly developing neighbourhoods ensuring strong appreciation potential and a superior quality of life. Explore our verified listings today and take the first step toward owning your dream home in Baldev Nagar Ambala Cantt."
     ],
     "buttons": [
-      { "label": "Browse All Flats", "path": "/listings" },
-      { "label": "Get Free Consultation", "path": "/contact" }
+      {
+        "label": "Browse All Flats",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Free Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore the Diverse Range of Flats and Apartment Sizes Available in Baldev Nagar Ambala",
@@ -52,12 +61,56 @@
       "We help you analyze how specific apartment complexes relate to essential hubs like the local market education institutes and healthcare facilities. These factors significantly impact daily convenience and the long-term investment viability of any Flat For Sale in Baldev Nagar Ambala. Our localized expertise ensures we only recommend properties that offer the best balance of location quality and future growth potential in this vibrant residential corridor."
     ],
     "locations": [
-      "Ambala Cantt Residential Hubs",
-      "Model Town Ambala Connectivity",
-      "Sector 8 Ambala Developed Areas",
-      "Sadar Bazaar Shopping Proximity",
-      "Urban Estate Ambala City Access",
-      "Aggarsen Chowk Transport Links"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to find the ideal Flat For Sale in Baldev Nagar Ambala We are here to provide personalized guidance market insights and access to our exclusive list of properties. Fill out the form below or reach out directly to schedule a viewing or consultation.",
       "Secure your future home or investment property with the trusted experts in Baldev Nagar real estate ensuring a stress-free and informed buying experience."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

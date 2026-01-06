@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Find the Ideal Residential Plot Size for Your Dream Home in Parshuram Nagar",
@@ -58,13 +61,56 @@
       "The strategic position ensures a balanced lifestyle with peaceful residential streets combined with convenient urban access. Our property dealer services emphasize not just the plot but the overall environment making sure that your future neighborhood provides comfort safety and high appreciation potential. Parshuram Nagar is favored by families and investors seeking sustainable growth away from the core city congestion but still minutes from all essentials."
     ],
     "locations": [
-      "Proximity to National Highway 44",
-      "Easy Access to Ambala Cantt Railway Station",
-      "Close to Reputable Local Schools and Colleges",
-      "Short Drive to Major Healthcare Centers",
-      "Well-Established Local Market Area",
-      "Direct Road Link to Ambala City",
-      "Developing Commercial Hubs Nearby"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

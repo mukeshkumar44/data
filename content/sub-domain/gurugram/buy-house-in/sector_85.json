@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero_sector85_1.jpg",
-      "hero_sector85_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The surrounding area is rapidly developing into a self-sustained ecosystem complete with world-class schools, hospitals, and high-street retail centers. Investors looking to buy house in Sector 85 are capitalizing on guaranteed infrastructural growth driven by governmental focus on the New Gurugram sectors. This connectivity makes daily commutes effortless and significantly boosts property valuation over time."
     ],
     "locations": [
-      "Direct Access to Dwarka Expressway",
-      "Seamless Linkage to NH-48",
-      "Proximity to IMT Manesar Commercial Hub",
-      "Surrounded by Major Residential Townships",
-      "Nearness to Planned Metro Expansion",
-      "Access to Reputable Schools and Universities",
-      "Close to Multi-Speciality Hospitals",
-      "Developing High-Street Retail Zones"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

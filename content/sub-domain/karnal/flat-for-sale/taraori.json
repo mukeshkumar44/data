@@ -7,10 +7,19 @@
       "Explore our curated listings of 2 BHK and 3 BHK flats designed for contemporary lifestyles. These properties boast RERA compliance superior construction quality and access to necessary amenities like secure parking power backup and community spaces. Whether you are a first-time homebuyer or looking for a profitable property investment Flats in Taraori present an unmatched value proposition in the developing region of Karnal."
     ],
     "buttons": [
-      { "label": "View Available Apartments", "path": "/search-flats" },
-      { "label": "Schedule Property Visit Today", "path": "/contact-us" }
+      {
+        "label": "View Available Apartments",
+        "path": "/search-flats"
+      },
+      {
+        "label": "Schedule Property Visit Today",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["flat_image_1.jpg", "taraori_skyline.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Flat Configurations and Investment Opportunities Available in Taraori",
@@ -52,14 +61,56 @@
       "The locality is well-supported by local markets schools healthcare facilities and banks ensuring all daily necessities are within easy reach. The combination of excellent transport infrastructure burgeoning local development and affordable property prices makes Flats in Taraori a highly sought-after investment opportunity in the Karnal region. Discover how this strategic positioning adds significant long-term value to your property investment."
     ],
     "locations": [
-      "Near NH 44 Highway Access",
-      "Proximity to Taraori Railway Station",
-      "Easy Drive to Karnal City Centre",
-      "Near Local Mandi and Market Area",
-      "Access to Reputed Schools and Colleges",
-      "Developing Residential Colonies",
-      "Healthcare Facilities Nearby",
-      "Connected Industrial Hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning your ideal apartment in Taraori We are here to guide you through the selection process paperwork and negotiation to ensure you secure the best deal possible.",
       "Fill out the form below or call us directly to speak with a dedicated real estate specialist who understands the Taraori market intimately."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

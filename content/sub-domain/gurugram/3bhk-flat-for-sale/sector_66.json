@@ -7,10 +7,19 @@
       "Step into spacious living areas, enjoy state-of-the-art security, and access luxurious clubhouse facilities tailored for an elevated lifestyle. Whether you are a first-time buyer or looking to upgrade, finding the perfect 3BHK Flat For Sale in Sector 66 has never been easier. Explore detailed floor plans and current pricing today before these prime units are sold out."
     ],
     "buttons": [
-      { "label": "Explore 3BHK Listings", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore 3BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Features that Define the Best 3BHK Flats Available For Sale in Sector 66",
@@ -52,12 +61,56 @@
       "If you are considering a 3BHK Flat For Sale in Sector 66, exploring nearby prominent residential projects and sectors can offer valuable comparative insights regarding pricing and amenities. We specialize in providing comprehensive market analysis across this high-growth zone, ensuring you make a fully informed decision about your next luxury home investment."
     ],
     "locations": [
-      "Sector 65 Gurugram",
-      "Sector 67 Gurugram",
-      "Golf Course Extension Road",
-      "Sohna Road Gurugram",
-      "DLF Corporate Park",
-      "Sector 57 Gurugram"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to take the next step towards owning a luxury 3BHK Flat For Sale in Sector 66 Gurugram Get personalized assistance, schedule a site visit, or request detailed project brochures now.",
       "Our dedicated real estate advisors possess deep market knowledge specific to Sector 66 and are ready to guide you through floor plans, pricing, and documentation. Fill out the form below to initiate your property search."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

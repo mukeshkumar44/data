@@ -7,10 +7,19 @@
       "We offer a curated selection of rental properties ranging from compact studio apartments ideal for young professionals to spacious 3 BHK homes perfect for families. Our listings feature verified properties ensuring transparency and ease in your search. Whether you need a fully furnished unit for immediate occupancy or a semi-furnished space to personalize we have the ideal flat waiting for you. Start exploring the best rental opportunities in Sector 63 Noida today and secure a home that fits your lifestyle and budget seamlessly."
     ],
     "buttons": [
-      { "label": "Explore 2 BHK Rentals", "path": "/search/2bhk" },
-      { "label": "Contact Rental Experts", "path": "/contact" }
+      {
+        "label": "Explore 2 BHK Rentals",
+        "path": "/search/2bhk"
+      },
+      {
+        "label": "Contact Rental Experts",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Configurations and Features of Rental Flats in Sector 63 Noida",
@@ -52,12 +61,56 @@
       "We highlight flats that benefit from excellent last-mile connectivity and proximity to essential services ensuring a streamlined daily routine for tenants living in or around Sector 63 Noida. Explore these highly sought-after neighbouring zones when looking for your next rental apartment."
     ],
     "locations": [
-      "Sector 62 Rental Apartments",
-      "Sector 64 Commercial Proximity",
-      "Near Electronic City Metro Station",
-      "Kanchenjunga Market Area Flats",
-      "Near Fortis Hospital Noida",
-      "Industrial Area Phase 3 Rental Options"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to move into your new home in Sector 63 Noida Our experienced rental specialists are here to guide you through every step of the process from selecting the perfect property to finalizing the lease agreement.",
       "Submit your requirements below and we will connect you with verified listings that match your criteria ensuring a smooth and successful renting experience in this prime location."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -16,7 +16,10 @@
         "path": "/3-bhk-sector-74"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exceptional Flat Configurations Available for Sale in Sector 74 Noida",
@@ -58,12 +61,56 @@
       "Furthermore, Sector 74 is surrounded by essential social infrastructure. Top-tier educational institutions, world-class hospitals, and expansive shopping malls are all within a short driving distance. The proximity to the proposed metro line extension further solidifies its position as a future-proof investment location. This comprehensive connectivity profile confirms Sector 74 Noida as an ideal address for both comfortable family living and high capital appreciation."
     ],
     "locations": [
-      "Sector 50 Metro Station proximity",
-      "Noida Expressway access",
-      "FNG Expressway link",
-      "Atta Market commercial hub",
-      "GIP Mall and DLF Mall of India",
-      "Prominent international schools"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,10 +7,19 @@
       "We understand that buying a home is a significant investment, which is why we focus only on verified properties offering clear titles and superior construction quality. These residential apartments provide excellent access to key amenities like reputed schools, major hospitals, and bustling local markets, making everyday life incredibly convenient. Start exploring luxury flats and affordable residential options in this thriving neighborhood today and secure your future home."
     ],
     "buttons": [
-      { "label": "Explore 2 BHK Flats", "path": "/2bhk-flats" },
-      { "label": "Book a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore 2 BHK Flats",
+        "path": "/2bhk-flats"
+      },
+      {
+        "label": "Book a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/prem-nagar-flat-hero.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Finding the Ideal Flat Size and Layout in Prem Nagar Ambala for Your Family Needs",
@@ -51,7 +60,58 @@
       "One of the key advantages of owning a Flat For Sale in Prem Nagar is its unparalleled connectivity within Ambala. Prem Nagar sits strategically close to major transportation arteries, ensuring quick access to the Ambala Cantt Railway Station and the main highway networks connecting to Chandigarh and Delhi.",
       "This area is surrounded by established residential colonies and burgeoning commercial centers, providing residents with all necessary facilities within a short radius. We feature properties that are specifically chosen for their proximity to essential infrastructure. This includes being a few minutes drive from reputable educational institutions and multi-specialty hospitals nearby, ensuring your investment in a Flat For Sale in Prem Nagar delivers ultimate convenience."
     ],
-    "locations": ["Ambala Cantt", "Civil Line Ambala", "Mahesh Nagar", "Sector 7 Ambala", "Baldev Nagar", "Sadar Bazar"]
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Why Securing Your Flat For Sale in Prem Nagar is a Wise Investment Decision",
@@ -146,6 +206,11 @@
       "Ready to secure your high-quality residential flat in Prem Nagar Ambala Get in touch with our team today for exclusive property listings and personalized consultation.",
       "We simplify the search for a Flat For Sale in Prem Nagar ensuring a smooth and rewarding buying experience from start to finish."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

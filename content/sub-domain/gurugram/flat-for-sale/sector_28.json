@@ -7,10 +7,19 @@
       "We specialise in connecting buyers with flats that offer immediate possession, clear documentation, and significant investment appreciation potential. Sector 28 provides excellent access to major business hubs, top-tier educational institutions, and healthcare facilities, making it the preferred choice for discerning homeowners. Start your search now and secure a premium Flat For Sale in sector 28 that meets all your lifestyle requirements and investment goals."
     ],
     "buttons": [
-      { "label": "Explore Verified Flats", "path": "/properties/sector-28" },
-      { "label": "Request a Free Consultation", "path": "/contact" }
+      {
+        "label": "Explore Verified Flats",
+        "path": "/properties/sector-28"
+      },
+      {
+        "label": "Request a Free Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Premium Flat Configurations and Lifestyle Amenities in sector 28 Gurugram Residential Market",
@@ -52,14 +61,56 @@
       "The connectivity to the Mathura Road NH-44 is unparalleled, providing quick access out of the city and into the major commercial zones of the NCR. Review the surrounding areas below to understand the full scope of advantages when you buy a Flat For Sale in sector 28 Gurugram."
     ],
     "locations": [
-      "Sector 19 Gurugram",
-      "Sector 30 Residential Hub",
-      "Crown Plaza Mall",
-      "Neelam Ajronda Metro Station",
-      "NH-44 Mathura Road Access",
-      "Pahadi Road Connectivity",
-      "Sector 29 Commercial Area",
-      "Sector 27 Upscale Living"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning a premium flat in Sector 28 Gurugram Contact our expert real estate team now to receive personalised property recommendations tailored exactly to your financial and lifestyle needs.",
       "We provide full support, from initial search to final registration, ensuring a smooth and confident property acquisition experience. Reach out and let us help you unlock the finest residential opportunities available."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

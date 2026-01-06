@@ -7,10 +7,19 @@
       "Searching for a quality 2BHK flat in Sector 73 Noida is now effortless. We provide comprehensive listings featuring properties from reputed builders, ensuring clear titles, excellent construction quality, and proximity to major infrastructure like metro lines, essential schools, and bustling commercial hubs. Secure your future home in one of Noida’s most promising residential sectors today."
     ],
     "buttons": [
-      { "label": "Explore 2BHK Listings", "path": "/listings" },
-      { "label": "Download Price Guide Now", "path": "/contact" }
+      {
+        "label": "Explore 2BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Download Price Guide Now",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero1.jpg", "/images/hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Features of Our 2BHK Flat Options in Sector 73 Designed for Modern Families",
@@ -52,11 +61,56 @@
       "The sector benefits from planned urban development ensuring smooth traffic flow and well-maintained public spaces. Whether you commute via public transport or private vehicle, the central location of Sector 73 makes it an undeniable residential hotspot, continually attracting buyers looking for connectivity and convenience."
     ],
     "locations": [
-      { "name": "Noida City Centre Metro Station", "distance": "Approx 10 Minutes Drive" },
-      { "name": "FNG Expressway", "distance": "Direct Access" },
-      { "name": "Fortis Hospital Noida", "distance": "Within 15 Minutes" },
-      { "name": "Sector 62 IT Hub", "distance": "Approx 15-20 Minutes" },
-      { "name": "Atta Market Sector 18", "distance": "Within 20 Minutes" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -152,6 +206,11 @@
       "Ready to take the next step towards owning your perfect home in Sector 73 We offer personalized consultations and site visits to help you explore the best 2BHK options that meet your criteria and budget.",
       "Contact our expert property advisors now to receive the latest price lists, floor plans, and comprehensive project details. Your ideal home awaits in Noida's dynamic residential hub."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

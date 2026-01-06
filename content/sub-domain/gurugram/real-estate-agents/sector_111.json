@@ -7,12 +7,18 @@
       "Whether you are looking for a ready-to-move apartment, a plot for future construction, or require expert advice on commercial space leasing, our real estate agents in Sector 111 provide comprehensive solutions. They navigate the complexities of documentation, valuation, and negotiation, ensuring you secure the best possible deal with maximum transparency and minimal stress. Start your seamless property journey today."
     ],
     "buttons": [
-      { "label": "Find Your Ideal Property Today", "path": "/properties" },
-      { "label": "Connect with a Local Expert Agent", "path": "/contact" }
+      {
+        "label": "Find Your Ideal Property Today",
+        "path": "/properties"
+      },
+      {
+        "label": "Connect with a Local Expert Agent",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/sector111_hero1.jpg",
-      "/images/sector111_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Being right on the Dwarka Expressway provides rapid access to both central Gurugram and key parts of Delhi, establishing Sector 111 as a true transit hub. Understanding these geographical advantages is key to maximizing your real estate investment."
     ],
     "locations": [
-      "Dwarka Expressway Access Point",
-      "Indira Gandhi International Airport (IGI)",
-      "Aerocity Delhi",
-      "Upcoming Diplomatic Enclave",
-      "Palam Vihar Extension",
-      "Sector 110 & 112 Gurugram",
-      "Major Commercial Hubs of Cyber City",
-      "National Highway 48 (NH-48)"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

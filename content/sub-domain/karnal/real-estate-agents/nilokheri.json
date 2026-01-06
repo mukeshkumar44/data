@@ -17,9 +17,8 @@
       }
     ],
     "images": [
-      "/images/nilokheri_agent_meeting.jpg",
-      "/images/nilokheri_market_overview.jpg",
-      "/images/nilokheri_residential_area.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -62,14 +61,56 @@
       "Our network of professional real estate agents actively tracks price movements and inventory across all significant Nilokheri neighborhoods. We provide detailed information on infrastructure quality, security profiles, and future growth projections for each area, ensuring you invest wisely. Whether you prioritize proximity to educational hubs or seamless connectivity to Karnal, let us help you pinpoint the perfect spot in Nilokheri for your next purchase."
     ],
     "locations": [
-      "Ladwa Road Residential Area",
-      "Railway Road Commercial Hub",
-      "Main Bazaar Business District",
-      "Housing Colony near Polytechnic",
-      "Sham Nagar Residential Layout",
-      "Sector 3 and 4 New Developments",
-      "Indri Road Extension Properties",
-      "Kheri Road Investment Opportunities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

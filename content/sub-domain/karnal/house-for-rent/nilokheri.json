@@ -7,10 +7,19 @@
       "Navigating the rental market can be challenging, but we simplify the process. Explore verified properties, from cozy 1 BHK flats near the main market to large 3 BHK independent houses in quiet residential colonies. Every listing provides detailed information, high-quality images, and transparent pricing. Start your search today and secure your dream rental home in Nilokheri without hassle or hidden costs. We connect you directly with trusted landlords and property managers."
     ],
     "buttons": [
-      { "label": "Explore 2 BHK Rentals", "path": "/2bhk-nilokheri" },
-      { "label": "List Your Property", "path": "/list-your-property" }
+      {
+        "label": "Explore 2 BHK Rentals",
+        "path": "/2bhk-nilokheri"
+      },
+      {
+        "label": "List Your Property",
+        "path": "/list-your-property"
+      }
     ],
-    "images": ["nilokheri_rental_house1.jpg", "nilokheri_streetview.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Rental Options and House Configurations Available Across Nilokheri Colonies",
@@ -52,16 +61,56 @@
       "We provide listings across all key residential zones in Nilokheri, ensuring you can find a rental home exactly where you need it. Whether you seek proximity to schools, accessibility to the GT Road, or a peaceful neighborhood for retirement, explore these highly sought-after locations for the best rental opportunities."
     ],
     "locations": [
-      "Railway Road Nilokheri",
-      "Municipal Colony",
-      "New Anaj Mandi Area",
-      "Friends Colony Nilokheri",
-      "Kalka Colony",
-      "Hansa Chowk Residential Area",
-      "Ravi Das Colony",
-      "Near ITI Nilokheri Campus",
-      "Model Town Extension",
-      "Near Bus Stand Nilokheri"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -157,6 +206,11 @@
       "Ready to secure your new home in Nilokheri Karnal We are here to help you navigate the local rental market efficiently and find a property that truly feels like home. Our dedicated team of property experts specializes in the Nilokheri area, providing personalized advice and support throughout your entire rental journey.",
       "Submit your requirements below. Tell us about your desired configuration, budget, and move-in date. We will match you with pre-screened properties that meet your exact specifications, saving you time and effort. Connect with the leading Nilokheri rental specialists today."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

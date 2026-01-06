@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "commercial_gharraunda_nh44.jpg",
-      "industrial_plots_karnal.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Key areas near the National Highway are perfect for logistics and heavy retail offering unparalleled access to Delhi NCR and Punjab markets. Conversely properties situated closer to the main town market area cater well to local service providers and niche retail businesses benefiting from established customer bases. We guide clients toward emerging industrial zones that promise rapid appreciation and favorable zoning regulations for immediate setup. Understanding the subtle differences between various zones be it proximity to the railway station access to labor or utility availability is crucial for maximizing your investment efficiency in Gharaunda."
     ],
     "locations": [
-      "Gharaunda NH-44 Commercial Corridor",
-      "Main Market Road Gharaunda",
-      "Industrial Area Gharaunda",
-      "Assandh Road Commercial Belt",
-      "Railway Station Road Gharaunda",
-      "Residential Colony Service Lanes",
-      "Kheri Naru Growth Zone",
-      "Near Sugar Mill Area for Bulk Storage"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

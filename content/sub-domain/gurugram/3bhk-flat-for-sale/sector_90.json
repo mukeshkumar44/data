@@ -7,10 +7,19 @@
       "Investing in a 3BHK flat in this sector provides you with immediate access to essential social infrastructure including reputed schools, state-of-the-art hospitals, and expansive shopping destinations. Experience the perfect balance of urban connectivity and peaceful residential surroundings. Explore our curated listings today and take the first step toward owning your dream home in one of Gurugram’s fastest-growing localities. Our properties ensure high-quality construction and amenities tailored for a premium family experience."
     ],
     "buttons": [
-      { "label": "Download Detailed Brochure", "path": "/brochure" },
-      { "label": "Schedule Site Visit Now", "path": "/contact" }
+      {
+        "label": "Download Detailed Brochure",
+        "path": "/brochure"
+      },
+      {
+        "label": "Schedule Site Visit Now",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_3bhk_sector90_1.jpg", "hero_3bhk_sector90_2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Premium Features and Amenities Available with 3BHK Flats in Sector 90 Gurugram",
@@ -19,12 +28,30 @@
       "The availability of world-class amenities within the complexes ensures that residents never have to step far for leisure or fitness activities. From professional sports facilities to serene green parks, these 3BHK flats offer a complete lifestyle solution making them highly attractive for families and professionals alike. Discover the difference quality construction and thoughtful planning make in your everyday life."
     ],
     "features": [
-      { "title": "4 Marla Plot Spacious Interiors", "description": "The 3BHK units boast generous room dimensions and well-defined living spaces offering ample privacy and functionality for modern families. Expect high-quality flooring, premium fittings, and large balconies that overlook lush landscapes or the bustling cityscape. These designs maximize space utilization providing families with comfort and room to grow without feeling cramped. The layouts are vastu compliant ensuring positive energy flow throughout the dwelling unit." },
-      { "title": "6 Marla Plot Premium Amenities", "description": "Residents enjoy access to an exceptional array of amenities including swimming pools, fully equipped gymnasiums, dedicated children's play areas, and multi-purpose community halls. Projects often include clubhouses offering recreational and socializing opportunities right outside your doorstep. These facilities are maintained to the highest standards enhancing the overall residential experience and promoting a healthy active lifestyle for all age groups." },
-      { "title": "8 Marla Plot Strategic Location", "description": "Sector 90 is strategically positioned close to major commercial and IT hubs of Gurugram ensuring a short commute for working professionals. Its proximity to the Dwarka Expressway and NH 48 provides seamless connectivity to Delhi and other parts of the NCR region. This prime location minimizes travel time and maximizes family time making these 3BHK flats an excellent choice for convenience-driven buyers looking for connectivity." },
-      { "title": "10 Marla Plot Excellent Connectivity", "description": "The sector benefits from unparalleled road infrastructure connecting it seamlessly with Manesar, KMP Expressway, and major internal roads of Gurugram. Public transport options are readily available enhancing daily commute reliability. Future infrastructure development promises even faster connectivity bolstering the long-term investment potential of 3BHK apartments here. Access to the upcoming metro corridor is also a significant connectivity advantage." },
-      { "title": "12 Marla Plot Ready to Move Options", "description": "We offer several ready-to-move 3BHK flats allowing buyers to bypass construction delays and move in immediately after completing the necessary paperwork. This is ideal for those requiring immediate occupancy or wanting to avoid the risks associated with under-construction projects. Immediate possession means you can start enjoying your new Sector 90 Gurugram lifestyle without any unnecessary waiting period or financial uncertainty." },
-      { "title": "14 Marla Plot High Investment Return", "description": "Due to its rapidly developing infrastructure and strategic position in New Gurugram Sector 90 promises significant capital appreciation over the coming years. Rental demand for spacious 3BHK units is consistently high offering excellent rental yields for investors. Purchasing a flat here is not just buying a home but securing a future asset with strong growth potential in the robust Gurugram real estate market." }
+      {
+        "title": "4 Marla Plot Spacious Interiors",
+        "description": "The 3BHK units boast generous room dimensions and well-defined living spaces offering ample privacy and functionality for modern families. Expect high-quality flooring, premium fittings, and large balconies that overlook lush landscapes or the bustling cityscape. These designs maximize space utilization providing families with comfort and room to grow without feeling cramped. The layouts are vastu compliant ensuring positive energy flow throughout the dwelling unit."
+      },
+      {
+        "title": "6 Marla Plot Premium Amenities",
+        "description": "Residents enjoy access to an exceptional array of amenities including swimming pools, fully equipped gymnasiums, dedicated children's play areas, and multi-purpose community halls. Projects often include clubhouses offering recreational and socializing opportunities right outside your doorstep. These facilities are maintained to the highest standards enhancing the overall residential experience and promoting a healthy active lifestyle for all age groups."
+      },
+      {
+        "title": "8 Marla Plot Strategic Location",
+        "description": "Sector 90 is strategically positioned close to major commercial and IT hubs of Gurugram ensuring a short commute for working professionals. Its proximity to the Dwarka Expressway and NH 48 provides seamless connectivity to Delhi and other parts of the NCR region. This prime location minimizes travel time and maximizes family time making these 3BHK flats an excellent choice for convenience-driven buyers looking for connectivity."
+      },
+      {
+        "title": "10 Marla Plot Excellent Connectivity",
+        "description": "The sector benefits from unparalleled road infrastructure connecting it seamlessly with Manesar, KMP Expressway, and major internal roads of Gurugram. Public transport options are readily available enhancing daily commute reliability. Future infrastructure development promises even faster connectivity bolstering the long-term investment potential of 3BHK apartments here. Access to the upcoming metro corridor is also a significant connectivity advantage."
+      },
+      {
+        "title": "12 Marla Plot Ready to Move Options",
+        "description": "We offer several ready-to-move 3BHK flats allowing buyers to bypass construction delays and move in immediately after completing the necessary paperwork. This is ideal for those requiring immediate occupancy or wanting to avoid the risks associated with under-construction projects. Immediate possession means you can start enjoying your new Sector 90 Gurugram lifestyle without any unnecessary waiting period or financial uncertainty."
+      },
+      {
+        "title": "14 Marla Plot High Investment Return",
+        "description": "Due to its rapidly developing infrastructure and strategic position in New Gurugram Sector 90 promises significant capital appreciation over the coming years. Rental demand for spacious 3BHK units is consistently high offering excellent rental yields for investors. Purchasing a flat here is not just buying a home but securing a future asset with strong growth potential in the robust Gurugram real estate market."
+      }
     ]
   },
   "locationsSection": {
@@ -34,14 +61,56 @@
       "The region is surrounded by established sectors and future developments ensuring that all social and commercial needs are met efficiently. Investing in a 3BHK flat here means placing yourself at the nexus of connectivity and future growth ensuring sustained demand and robust lifestyle opportunities."
     ],
     "locations": [
-      "Dwarka Expressway Access Points",
-      "NH 48 National Highway",
-      "KMP Expressway Link Road",
-      "Manesar Industrial Area",
-      "Cyber Hub and Cyber City Access",
-      "IMT Manesar",
-      "Rajiv Chowk Gurugram",
-      "Indira Gandhi International Airport Delhi"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -51,30 +120,84 @@
       "The environment is safe and family-friendly with robust security measures implemented across all major complexes. Furthermore the competitive pricing and potential for infrastructure growth make Sector 90 a financially prudent choice for both end-users and long-term real estate investors looking to maximize their returns in the Gurugram property landscape."
     ],
     "points": [
-      { "title": "Modern Infrastructure Development", "description": "Sector 90 is part of New Gurugram which is experiencing massive planned infrastructure upgrades including enhanced road networks and public utility provision. These developments ensure smooth urban functioning and boost the overall appeal of the locality for future residents. This governmental focus on infrastructure guarantees that your investment remains relevant and highly desirable over the decades." },
-      { "title": "Proximity to Employment Hubs", "description": "The sector offers quick access to major business centers and IT parks located in Gurugram and Manesar minimizing the daily stress of long commutes. This proximity is a significant factor for professionals seeking a better work-life balance making the 3BHK flats here extremely attractive to the working population. Reduced travel time equals more time spent enjoying the comforts of your beautiful new home." },
-      { "title": "Family Friendly Environment", "description": "The area is home to numerous international schools, renowned educational institutions, and healthcare facilities ensuring comprehensive support for family living. Dedicated parks, recreational zones, and safe residential campuses provide an ideal setting for raising children. The focus on safety and community engagement defines the Sector 90 lifestyle." },
-      { "title": "RERA Registered Projects Assurance", "description": "All leading projects offering 3BHK flats in Sector 90 are RERA compliant guaranteeing transparency, adherence to timelines, and protection of buyer interests. This regulatory oversight provides peace of mind assuring you that your investment is secure and governed by strict industry standards. We only showcase properties from credible and compliant developers." },
-      { "title": "High Potential for Capital Growth", "description": "The rapid urbanization and connectivity enhancements especially concerning the Dwarka Expressway trajectory position Sector 90 for exceptional capital appreciation. Early investment in a 3BHK flat here is likely to yield substantial returns as the area matures into a fully established premium residential zone. Analyze the growth trends and invest wisely now." },
-      { "title": "Access to Quality Healthcare", "description": "Several multi-specialty hospitals and specialized clinics are located within a short drive from Sector 90 ensuring immediate access to quality medical services when needed. This availability of robust healthcare infrastructure is a crucial determinant for family well-being and residential comfort in this area of Gurugram." },
-      { "title": "Abundance of Green Spaces", "description": "Despite its urban location, many housing societies in Sector 90 dedicate significant land area to parks, manicured gardens, and open spaces. This commitment to green living offers residents cleaner air and recreational opportunities contributing to a healthier and more relaxed living environment away from pollution." },
-      { "title": "Flexible Payment Plans Available", "description": "Developers often provide attractive and flexible payment schemes, financing options, and attractive deals on 3BHK Flat For Sale in Sector 90 making home ownership more accessible. Our team can connect you with financial experts to find a solution that perfectly fits your budget and investment timeline ensuring a smooth purchase process." }
+      {
+        "title": "Modern Infrastructure Development",
+        "description": "Sector 90 is part of New Gurugram which is experiencing massive planned infrastructure upgrades including enhanced road networks and public utility provision. These developments ensure smooth urban functioning and boost the overall appeal of the locality for future residents. This governmental focus on infrastructure guarantees that your investment remains relevant and highly desirable over the decades."
+      },
+      {
+        "title": "Proximity to Employment Hubs",
+        "description": "The sector offers quick access to major business centers and IT parks located in Gurugram and Manesar minimizing the daily stress of long commutes. This proximity is a significant factor for professionals seeking a better work-life balance making the 3BHK flats here extremely attractive to the working population. Reduced travel time equals more time spent enjoying the comforts of your beautiful new home."
+      },
+      {
+        "title": "Family Friendly Environment",
+        "description": "The area is home to numerous international schools, renowned educational institutions, and healthcare facilities ensuring comprehensive support for family living. Dedicated parks, recreational zones, and safe residential campuses provide an ideal setting for raising children. The focus on safety and community engagement defines the Sector 90 lifestyle."
+      },
+      {
+        "title": "RERA Registered Projects Assurance",
+        "description": "All leading projects offering 3BHK flats in Sector 90 are RERA compliant guaranteeing transparency, adherence to timelines, and protection of buyer interests. This regulatory oversight provides peace of mind assuring you that your investment is secure and governed by strict industry standards. We only showcase properties from credible and compliant developers."
+      },
+      {
+        "title": "High Potential for Capital Growth",
+        "description": "The rapid urbanization and connectivity enhancements especially concerning the Dwarka Expressway trajectory position Sector 90 for exceptional capital appreciation. Early investment in a 3BHK flat here is likely to yield substantial returns as the area matures into a fully established premium residential zone. Analyze the growth trends and invest wisely now."
+      },
+      {
+        "title": "Access to Quality Healthcare",
+        "description": "Several multi-specialty hospitals and specialized clinics are located within a short drive from Sector 90 ensuring immediate access to quality medical services when needed. This availability of robust healthcare infrastructure is a crucial determinant for family well-being and residential comfort in this area of Gurugram."
+      },
+      {
+        "title": "Abundance of Green Spaces",
+        "description": "Despite its urban location, many housing societies in Sector 90 dedicate significant land area to parks, manicured gardens, and open spaces. This commitment to green living offers residents cleaner air and recreational opportunities contributing to a healthier and more relaxed living environment away from pollution."
+      },
+      {
+        "title": "Flexible Payment Plans Available",
+        "description": "Developers often provide attractive and flexible payment schemes, financing options, and attractive deals on 3BHK Flat For Sale in Sector 90 making home ownership more accessible. Our team can connect you with financial experts to find a solution that perfectly fits your budget and investment timeline ensuring a smooth purchase process."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Buying a 3BHK Flat in Sector 90 Gurugram",
     "description": "Get instant answers to the most common queries regarding price, legality, connectivity, and amenities associated with residential flats in this rapidly developing sector.",
     "faqs": [
-      { "question": "What is the typical price range for a 3BHK Flat For Sale in Sector 90 Gurugram", "answer": "The price of a 3BHK flat in Sector 90 generally varies significantly based on factors like the project builder, carpet area, specific amenities provided, and the current stage of construction. Typically prices start from a certain baseline and move upwards for luxury and larger units. It is best to consult our property experts for the most current and accurate pricing tailored to your requirements and desired project." },
-      { "question": "Is Sector 90 a good location for long-term real estate investment in Gurugram", "answer": "Yes Sector 90 is considered an excellent location for long-term investment due to its strategic position in New Gurugram and its close proximity to the Dwarka Expressway and NH 48. Consistent infrastructure development and high demand from working professionals ensure strong capital appreciation potential over the next 5 to 10 years. The area is marked for substantial growth." },
-      { "question": "Are the 3BHK projects in Sector 90 RERA registered and safe to invest in", "answer": "The majority of reputable and large-scale residential projects offering 3BHK flats in Sector 90 are indeed RERA registered. We exclusively partner with developers who comply with all regulatory requirements ensuring transparency and the safety of your investment. Always verify the RERA registration number before finalizing any purchase." },
-      { "question": "What kind of amenities can I expect when buying a 3BHK flat here", "answer": "Standard amenities often include 24x7 security surveillance, power backup, dedicated parking spaces, clubhouses, swimming pools, gymnasiums, and landscaped gardens. Premium projects also offer sports facilities like tennis courts, jogging tracks, and specialized recreational areas for senior citizens and children ensuring a holistic lifestyle for all residents." },
-      { "question": "How is the connectivity of Sector 90 Gurugram to major Delhi NCR landmarks", "answer": "Connectivity is a major strength of Sector 90. It offers fast access to NH 48 and the Dwarka Expressway facilitating smooth commutes to Delhi's Indira Gandhi International Airport Cyber Hub and key business districts. It is strategically placed to benefit from current and future rapid transit developments further boosting accessibility across the region." },
-      { "question": "Are there ready-to-move 3BHK flats available in Sector 90 or are they mostly under construction", "answer": "Sector 90 offers a healthy mix of both ready-to-move RTM and under-construction residential projects for 3BHK configurations. Ready-to-move options allow for immediate occupancy while under-construction units often provide more flexible payment plans and lower entry prices. Our listings clearly specify the possession status for your ease of search." },
-      { "question": "What are the common carpet area sizes for a 3BHK flat in this sector", "answer": "The carpet area for 3BHK flats in Sector 90 typically ranges depending on the specific project and design philosophy of the developer. Generally you can expect competitive and comfortable sizes that align with modern family needs often offering spacious living rooms and bedrooms. Detailed floor plans specifying carpet area are available upon request for specific properties." },
-      { "question": "What is the process for securing financing or a home loan for a property in Sector 90", "answer": "Securing financing for a 3BHK flat here is straightforward as most projects are approved by leading national banks and financial institutions. Our advisors can assist you in connecting with reputable lenders to explore competitive home loan options favorable interest rates and necessary documentation requirements for a smooth approval process." },
-      { "question": "Is Sector 90 prone to water logging or infrastructure issues during the monsoon season", "answer": "Due to modern planning and robust drainage systems implemented in new developments Sector 90 residential areas typically experience minimal infrastructure issues like water logging compared to older parts of Gurugram. Developers prioritize resilient engineering ensuring comfort and safety throughout the year even during heavy rainfall events." },
-      { "question": "Can Non-Resident Indians NRI purchase a 3BHK Flat in Sector 90 Gurugram", "answer": "Yes Non-Resident Indians are fully permitted to purchase residential property including 3BHK flats in Sector 90 Gurugram subject to fulfilling standard governmental and RBI guidelines. Our dedicated NRI desk provides specialized consultation services to guide overseas clients through the entire documentation and purchasing process efficiently and legally." }
+      {
+        "question": "What is the typical price range for a 3BHK Flat For Sale in Sector 90 Gurugram",
+        "answer": "The price of a 3BHK flat in Sector 90 generally varies significantly based on factors like the project builder, carpet area, specific amenities provided, and the current stage of construction. Typically prices start from a certain baseline and move upwards for luxury and larger units. It is best to consult our property experts for the most current and accurate pricing tailored to your requirements and desired project."
+      },
+      {
+        "question": "Is Sector 90 a good location for long-term real estate investment in Gurugram",
+        "answer": "Yes Sector 90 is considered an excellent location for long-term investment due to its strategic position in New Gurugram and its close proximity to the Dwarka Expressway and NH 48. Consistent infrastructure development and high demand from working professionals ensure strong capital appreciation potential over the next 5 to 10 years. The area is marked for substantial growth."
+      },
+      {
+        "question": "Are the 3BHK projects in Sector 90 RERA registered and safe to invest in",
+        "answer": "The majority of reputable and large-scale residential projects offering 3BHK flats in Sector 90 are indeed RERA registered. We exclusively partner with developers who comply with all regulatory requirements ensuring transparency and the safety of your investment. Always verify the RERA registration number before finalizing any purchase."
+      },
+      {
+        "question": "What kind of amenities can I expect when buying a 3BHK flat here",
+        "answer": "Standard amenities often include 24x7 security surveillance, power backup, dedicated parking spaces, clubhouses, swimming pools, gymnasiums, and landscaped gardens. Premium projects also offer sports facilities like tennis courts, jogging tracks, and specialized recreational areas for senior citizens and children ensuring a holistic lifestyle for all residents."
+      },
+      {
+        "question": "How is the connectivity of Sector 90 Gurugram to major Delhi NCR landmarks",
+        "answer": "Connectivity is a major strength of Sector 90. It offers fast access to NH 48 and the Dwarka Expressway facilitating smooth commutes to Delhi's Indira Gandhi International Airport Cyber Hub and key business districts. It is strategically placed to benefit from current and future rapid transit developments further boosting accessibility across the region."
+      },
+      {
+        "question": "Are there ready-to-move 3BHK flats available in Sector 90 or are they mostly under construction",
+        "answer": "Sector 90 offers a healthy mix of both ready-to-move RTM and under-construction residential projects for 3BHK configurations. Ready-to-move options allow for immediate occupancy while under-construction units often provide more flexible payment plans and lower entry prices. Our listings clearly specify the possession status for your ease of search."
+      },
+      {
+        "question": "What are the common carpet area sizes for a 3BHK flat in this sector",
+        "answer": "The carpet area for 3BHK flats in Sector 90 typically ranges depending on the specific project and design philosophy of the developer. Generally you can expect competitive and comfortable sizes that align with modern family needs often offering spacious living rooms and bedrooms. Detailed floor plans specifying carpet area are available upon request for specific properties."
+      },
+      {
+        "question": "What is the process for securing financing or a home loan for a property in Sector 90",
+        "answer": "Securing financing for a 3BHK flat here is straightforward as most projects are approved by leading national banks and financial institutions. Our advisors can assist you in connecting with reputable lenders to explore competitive home loan options favorable interest rates and necessary documentation requirements for a smooth approval process."
+      },
+      {
+        "question": "Is Sector 90 prone to water logging or infrastructure issues during the monsoon season",
+        "answer": "Due to modern planning and robust drainage systems implemented in new developments Sector 90 residential areas typically experience minimal infrastructure issues like water logging compared to older parts of Gurugram. Developers prioritize resilient engineering ensuring comfort and safety throughout the year even during heavy rainfall events."
+      },
+      {
+        "question": "Can Non-Resident Indians NRI purchase a 3BHK Flat in Sector 90 Gurugram",
+        "answer": "Yes Non-Resident Indians are fully permitted to purchase residential property including 3BHK flats in Sector 90 Gurugram subject to fulfilling standard governmental and RBI guidelines. Our dedicated NRI desk provides specialized consultation services to guide overseas clients through the entire documentation and purchasing process efficiently and legally."
+      }
     ]
   },
   "contactSection": {
@@ -83,6 +206,11 @@
       "Ready to book your spacious 3BHK Flat For Sale in Sector 90 Gurugram? Contact our dedicated real estate consultants now for personalized assistance, property tours, and detailed financial advice. We provide end-to-end support ensuring a smooth and informed buying journey.",
       "Fill out the form below to receive exclusive project details, floor plans, and current pricing sheets directly to your inbox. Let us help you unlock the door to premium living in New Gurugram."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

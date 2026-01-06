@@ -7,10 +7,19 @@
       "This sector combines excellent infrastructure superior social amenities and seamless connectivity making it an ideal place to invest or settle down. Start your journey with us to discover properties that meet your lifestyle and budget ensuring a rewarding home ownership experience in one of Karnal’s most developed sectors. Our dedicated real estate team provides end-to-end support making the purchasing process straightforward and transparent for every buyer."
     ],
     "buttons": [
-      { "label": "View Latest Apartment Listings", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View Latest Apartment Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Configurations and Sizes of Flats Available for Sale in Sector 13 Karnal",
@@ -52,14 +61,56 @@
       "Explore flats that offer optimal connectivity to commercial hubs top schools and hospitals maximizing convenience for all residents. This location stability ensures high property appreciation making your flat purchase a secure long-term investment."
     ],
     "locations": [
-      "Sector 12 Karnal Adjacent Residential Hub",
-      "Kunjpura Road Direct Access to City Center",
-      "Model Town Established Commercial Zone",
-      "Sector 14 Educational Institutions Proximity",
-      "National Highway 44 Excellent Interstate Connectivity",
-      "Bus Stand Karnal Main Transportation Link",
-      "Civil Hospital Nearby Healthcare Access",
-      "Railway Station Karnal Quick Commute Option"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning your ideal apartment in Sector 13 We connect you with verified listings and provide personalized property tours tailored to your needs.",
       "Contact our dedicated sales team today for bespoke advice market insights and immediate support to secure your investment in Karnal's prime residential hub."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

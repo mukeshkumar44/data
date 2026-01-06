@@ -7,12 +7,18 @@
       "Whether you are a professional seeking proximity to work or a family prioritizing safety and access to top schools, renting a home here provides exceptional value. Explore our extensive database of available properties and take the first step toward settling into a thriving community. We simplify the entire rental process from initial viewing to final lease agreement ensuring transparency and complete peace of mind when securing your new House For Rent in Sector 3."
     ],
     "buttons": [
-      { "label": "View Rental Listings Now", "path": "/listings" },
-      { "label": "Schedule a Property Tour", "path": "/contact" }
+      {
+        "label": "View Rental Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Property Tour",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "sector3_rental_hero1.jpg",
-      "sector3_rental_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,13 +61,56 @@
       "The planned layout of Sector 3 ensures wide roads efficient sanitation and abundant green spaces contributing to a high standard of living. This central location makes it highly desirable for families and professionals alike who seek a balance between serene residential life and bustling urban facilities. Review the crucial proximity points that enhance the value of securing a House For Rent in Sector 3 Rohtak today."
     ],
     "locations": [
-      "Maharshi Dayanand University MDU",
-      "PGIMS Rohtak",
-      "Sector 4 Market and Shopping Complex",
-      "Delhi Bypass Road Connectivity",
-      "Model Town Neighborhood",
-      "Leading Private and Public Schools",
-      "Rohtak City Centre and Railway Station"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

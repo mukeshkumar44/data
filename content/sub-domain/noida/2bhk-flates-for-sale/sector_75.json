@@ -7,12 +7,18 @@
       "These apartments combine thoughtful design with modern infrastructure, ensuring a comfortable and contemporary lifestyle. You benefit from superior connectivity via the Noida Metro Aqua Line and quick access to major expressways like the FNG corridor. Discover compact yet spacious 2BHK units that maximise every square foot, providing excellent ventilation and natural light. Secure your future home or a high-yielding investment property in this meticulously planned sector of Noida today."
     ],
     "buttons": [
-      { "label": "Explore Verified 2BHK Listings", "path": "/listings/2bhk-sector-75" },
-      { "label": "Schedule a Site Visit Now", "path": "/contact-us" }
+      {
+        "label": "Explore Verified 2BHK Listings",
+        "path": "/listings/2bhk-sector-75"
+      },
+      {
+        "label": "Schedule a Site Visit Now",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "/images/2bhk_sector75_1.jpg",
-      "/images/2bhk_sector75_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "This locality benefits immensely from its proximity to major corporate centers, educational institutions, and high-street retail zones. Whether it is daily grocery shopping or accessing specialized medical care, Sector 75 offers comprehensive urban amenities right at your doorstep, simplifying modern life."
     ],
     "locations": [
-      "Noida Metro Sector 50 Station",
-      "FNG Expressway Access Points",
-      "Leading Educational Institutions",
-      "Sector 50 Central Market Hub",
-      "Major IT and Corporate Parks",
-      "Prominent Healthcare Facilities",
-      "Botanical Garden Metro Interchange",
-      "Wave One Mall Sector 18"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

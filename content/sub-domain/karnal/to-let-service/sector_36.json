@@ -7,12 +7,18 @@
       "Sector 36 is rapidly developing offering excellent connectivity and modern infrastructure making it a preferred residential and commercial hub. Whether you need a cozy 1BHK flat or a sprawling commercial office our extensive portfolio of listings ensures high-quality options. Trust our expertise to handle all documentation negotiations and tenant verification seamlessly allowing you to move in with absolute peace of mind. Start your search for exceptional rental living today."
     ],
     "buttons": [
-      { "label": "Explore Rental Listings", "path": "/listings" },
-      { "label": "List Your Property", "path": "/owner-services" }
+      {
+        "label": "Explore Rental Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "List Your Property",
+        "path": "/owner-services"
+      }
     ],
     "images": [
-      "/images/hero-rental-sector36-1.jpg",
-      "/images/hero-rental-sector36-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The connectivity provided by major roads and the presence of essential services like hospitals schools and shopping centres nearby make Sector 36 a prime rental location. We guide tenants through these neighbouring areas highlighting how easy access to amenities affects daily life and the rental value proposition."
     ],
     "locations": [
-      "Sector 37 Residential",
-      "Sector 33 Commercial Hub",
-      "NH 44 Connectivity Zone",
-      "Jundla Road Properties",
-      "Karnal Bypass Area",
-      "Shiv Colony Residential Options",
-      "Near Assandh Road Intersection",
-      "Model Town Extension"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -166,174 +214,3 @@
     ]
   }
 }
-processed_content: 
-
-{
-  "domain": "sector36karnalrentals.com",
-  "hero": {
-    "title": "Find the Best To let Service in Sector 36 Karnal for Premium Residential and Commercial Rentals",
-    "description": [
-      "Welcome to the leading To let Service in Sector 36 Karnal providing verified and ready-to-move rental properties for families and businesses. Navigating the rental market can be challenging but our dedicated team simplifies the entire process ensuring you find the ideal space that matches your budget and lifestyle requirements perfectly.",
-      "Sector 36 is rapidly developing offering excellent connectivity and modern infrastructure making it a preferred residential and commercial hub. Whether you need a cozy 1BHK flat or a sprawling commercial office our extensive portfolio of listings ensures high-quality options. Trust our expertise to handle all documentation negotiations and tenant verification seamlessly allowing you to move in with absolute peace of mind. Start your search for exceptional rental living today."
-    ],
-    "buttons": [
-      { "label": "Explore Rental Listings", "path": "/listings" },
-      { "label": "List Your Property", "path": "/owner-services" }
-    ],
-    "images": [
-      "/images/hero-rental-sector36-1.jpg",
-      "/images/hero-rental-sector36-2.jpg"
-    ]
-  },
-  "featuresSection": {
-    "heading": "Diverse Rental Options Managed by the Top To let Service Providers in Sector 36 Karnal",
-    "description": [
-      "Our comprehensive To let Service portfolio covers every type of residential and commercial property available in Sector 36 Karnal. We specialize in curating listings that meet rigorous quality standards ensuring safety comfort and convenience for all tenants. From modern high-rise apartments to independent builder floors our catalogue is constantly updated with new verified properties.",
-      "We understand that every tenant has unique requirements. Below are the common property types we manage providing detailed solutions for both short-term leases and long-term residency. Contact us to discuss your specific needs and let us tailor a solution using our deep knowledge of the Sector 36 rental landscape."
-    ],
-    "features": [
-      {
-        "title": "1 BHK Rental Apartments",
-        "description": "Ideal for single professionals or small couples these compact yet modern apartments offer essential amenities and excellent connectivity within Sector 36. We provide 1 BHK units that are well-maintained furnished or semi-furnished depending on your preference ensuring affordable and comfortable urban living. Our To let Service ensures easy lease signing and transparent terms for a hassle-free start."
-      },
-      {
-        "title": "2 BHK Residential Flats",
-        "description": "The perfect balance of space and affordability 2 BHK flats are highly popular among nuclear families seeking quality accommodation in Sector 36 Karnal. These units are typically located in secure societies offering amenities like power backup and security services. We manage properties across different budget ranges ensuring you find a home that perfectly suits your family’s needs and long-term plans."
-      },
-      {
-        "title": "3 BHK Luxury Builder Floors",
-        "description": "Experience spacious living with premium finishes in our selection of 3 BHK luxury builder floors available for rent. These properties often feature dedicated parking larger balconies and higher-end fixtures providing an elevated lifestyle in Sector 36. Our service handles the complexity of luxury rentals focusing on discretion and ensuring seamless handover and ongoing support."
-      },
-      {
-        "title": "Independent Houses for Rent",
-        "description": "For those seeking privacy and greater control over their living space an independent house or villa rental offers unmatched freedom. We list beautifully constructed independent homes in Sector 36 suitable for large families or those desiring private gardens and terraces. These rentals come with separate utility connections and are managed meticulously to ensure structural integrity and comfort."
-      },
-      {
-        "title": "Commercial Office Spaces",
-        "description": "Establish your business presence with prime commercial office spaces available through our dedicated To let Service in Sector 36. We offer flexible floor plans adaptable for startups corporate offices or service industries. Locations are strategically chosen for maximum visibility and accessibility ensuring high foot traffic and professional appeal for your enterprise."
-      },
-      {
-        "title": "Retail Shops on Rent",
-        "description": "Secure the perfect retail spot in Sector 36 Karnal’s bustling commercial zones. Our listings include ground floor shops high visibility locations and spaces suitable for various retail operations. We facilitate fair lease agreements that support long-term business growth helping you position your shop successfully in this evolving market."
-      }
-    ]
-  },
-  "locationsSection": {
-    "title": "Exploring Key Rental Hotspots Adjacent to Sector 36 Karnal",
-    "description": [
-      "While Sector 36 itself is a highly sought-after destination for rentals its proximity to other developed areas significantly enhances its appeal. Understanding the surrounding real estate landscape is crucial for making an informed decision about your next home or commercial location. Our To let Service covers properties not just within Sector 36 but also in immediately adjoining localities ensuring maximum choice for our clients.",
-      "The connectivity provided by major roads and the presence of essential services like hospitals schools and shopping centres nearby make Sector 36 a prime rental location. We guide tenants through these neighbouring areas highlighting how easy access to amenities affects daily life and the rental value proposition."
-    ],
-    "locations": [
-      "Sector 37 Residential",
-      "Sector 33 Commercial Hub",
-      "NH 44 Connectivity Zone",
-      "Jundla Road Properties",
-      "Karnal Bypass Area",
-      "Shiv Colony Residential Options",
-      "Near Assandh Road Intersection",
-      "Model Town Extension"
-    ]
-  },
-  "whyChoose": {
-    "title": "Why Choose Our Expert To let Service for Your Property Needs in Sector 36",
-    "description": [
-      "Selecting the right rental partner ensures a smooth secure and legal transaction whether you are a tenant looking for a home or an owner seeking reliable management. Our commitment to professionalism and transparency sets us apart as the premier To let Service in Sector 36 Karnal.",
-      "We provide end-to-end support from initial inquiry to final handover specializing in maximizing tenant satisfaction and optimizing owner returns through ethical and efficient property management practices."
-    ],
-    "points": [
-      {
-        "title": "Verified Listings Guaranteed",
-        "description": "Every property listed on our platform undergoes a strict verification process ensuring legal clear titles accurate descriptions and genuine availability. We eliminate the frustration of dealing with misleading or outdated listings saving you valuable time in your search for a rental property in Sector 36 Karnal. Your safety and trust are our highest priority always."
-      },
-      {
-        "title": "Expert Market Knowledge",
-        "description": "Our team possesses deep localized knowledge of the Sector 36 rental market including current pricing trends supply-demand dynamics and neighborhood specifics. This expertise allows us to provide accurate rental valuations for owners and negotiate the best possible lease terms for tenants ensuring fair and competitive agreements for all parties involved."
-      },
-      {
-        "title": "Seamless Legal Documentation",
-        "description": "Rental agreements and legal documentation can be complex but our To let Service manages this entirely for you. We ensure all paperwork is compliant legally sound and clearly understood by both the landlord and the tenant minimizing future disputes. We prioritize transparency in the contractual process from start to finish."
-      },
-      {
-        "title": "Dedicated Tenant Screening",
-        "description": "For property owners we implement rigorous tenant screening processes including background checks employment verification and reference checks. This meticulous approach ensures that only reliable and responsible tenants occupy your property safeguarding your asset and providing long-term peace of mind regarding rent collection and property upkeep."
-      },
-      {
-        "title": "Prompt Maintenance Support",
-        "description": "We offer active property management providing immediate assistance for necessary repairs and maintenance issues throughout the tenancy period. Tenants enjoy quick resolution of concerns while owners benefit from systematic maintenance schedules protecting the investment value of their Sector 36 property efficiently."
-      },
-      {
-        "title": "Transparent Pricing Policy",
-        "description": "There are no hidden fees or surprising charges when you work with our To let Service. We operate on a fully transparent pricing model clearly outlining all applicable fees and commissions upfront. Our commitment to honesty ensures a trust-based relationship with every client in Sector 36 Karnal."
-      },
-      {
-        "title": "Local Area Specialization",
-        "description": "Focusing solely on Sector 36 and adjacent areas allows us to be true specialists in this locality. We can offer detailed insights into local amenities transport links and future development plans information that national brokers often overlook. Leverage our localized expertise for superior rental decisions."
-      },
-      {
-        "title": "Customized Property Tours",
-        "description": "We understand busy schedules and offer flexible personalized property viewing appointments tailored to your convenience. Our agents guide you through properties highlighting key features and addressing all your queries on-site ensuring you feel confident and comfortable before making a commitment to rent."
-      }
-    ]
-  },
-  "faqSection": {
-    "title": "Frequently Asked Questions About To let Service in Sector 36 Karnal",
-    "description": "Find immediate answers to the most common queries regarding renting managing or listing properties using a professional To let Service in Sector 36 Karnal.",
-    "faqs": [
-      {
-        "question": "What documentation is required for a tenant to rent a property in Sector 36",
-        "answer": "Generally tenants need to provide proof of identity such as Aadhar Card or Passport proof of address and current employment verification including salary slips or an employment letter. Some landlords or societies may also request a police verification certificate. Our To let Service team assists in compiling and verifying all necessary documents ensuring a smooth and legally compliant lease execution process from day one in Sector 36."
-      },
-      {
-        "question": "How is the standard security deposit calculated for residential rentals in Sector 36 Karnal",
-        "answer": "The standard security deposit in Sector 36 typically ranges from one to three months worth of monthly rent depending on the property type the landlord’s preference and the market demand. This deposit is refundable at the end of the tenancy period subject to any deductions for damages beyond normal wear and tear or unpaid utility bills. We clearly specify the deposit amount and refund terms in the lease agreement."
-      },
-      {
-        "question": "Are there specific maintenance responsibilities for tenants renting through your To let Service",
-        "answer": "Tenant responsibilities usually include routine maintenance like cleaning minor repairs such as replacing light bulbs and ensuring proper use of fixtures. Major structural repairs electrical issues or plumbing failures are generally the landlord’s responsibility. The exact breakdown of responsibilities is always detailed in the signed rental agreement to avoid any confusion during the tenancy period in Sector 36."
-      },
-      {
-        "question": "What is the typical lock-in period for rental agreements in Sector 36 commercial and residential properties",
-        "answer": "For residential properties the typical lock-in period is six months during which neither the landlord nor the tenant can terminate the agreement without penalty. Commercial properties often have longer lock-in periods sometimes extending up to 12 or 18 months due to the higher setup costs involved for businesses. We negotiate favorable lock-in terms that protect both parties equally."
-      },
-      {
-        "question": "Can I sublet a property I rent using your To let Service in Sector 36",
-        "answer": "Subletting is generally prohibited unless explicitly authorized in writing by the property owner. Rental agreements typically contain a clause strictly forbidding unauthorized subletting to maintain control over who resides or operates a business on the premises. If you require shared accommodation we suggest exploring properties that are already configured for shared tenancy or discussing co-living options with our agents upfront."
-      },
-      {
-        "question": "How does your service ensure fair rent increases upon lease renewal",
-        "answer": "Rent increases are governed by market conditions and the terms outlined in the original lease agreement usually capping the annual increase percentage. We advise both parties based on prevailing Sector 36 rental rates and regulatory guidelines to ensure any proposed increase is fair and justifiable. We facilitate constructive negotiation to maintain a positive landlord-tenant relationship."
-      },
-      {
-        "question": "What makes Sector 36 a good investment choice for property owners considering listing their property for rent",
-        "answer": "Sector 36 Karnal offers strong rental yields due to its strategic location excellent civic amenities and connectivity to major employment and commercial zones. The demand for modern housing and commercial space remains high assuring low vacancy rates and consistent rental income. Our To let Service helps owners maximize their returns through professional management and reliable tenant placement."
-      },
-      {
-        "question": "How long does it typically take to find a suitable rental property through your agency",
-        "answer": "The duration depends on your specific requirements and market availability but thanks to our extensive verified database and focused approach we typically shortlist suitable properties within 3 to 7 working days. Once a property is selected the paperwork and move-in process can often be completed within two weeks ensuring a rapid and efficient transition for you."
-      },
-      {
-        "question": "Do you handle utility bill transfers and society registration for new tenants",
-        "answer": "Yes our comprehensive To let Service often includes assisting tenants with the transfer of utility connections like electricity and water into their name. We also facilitate the necessary documentation and registration required by the local Residential Welfare Association RWA or society management in Sector 36 ensuring full compliance from the move-in date."
-      },
-      {
-        "question": "What are the common reasons for lease termination before the contract expiry date",
-        "answer": "Lease termination before expiry usually occurs if either party commits a material breach of the contract terms such as consistent non-payment of rent by the tenant or failure by the landlord to maintain habitable conditions. Penalty clauses for early termination are always specified in the agreement usually requiring a notice period and payment of a penalty equivalent to one or two months rent."
-      }
-    ]
-  },
-  "contactSection": {
-    "title": "Connect with the Leading To let Service Experts in Sector 36 Karnal Today",
-    "description": [
-      "Ready to find your perfect rental or list your property for optimal returns in Sector 36 Karnal Our professional team is standing by to provide personalized advice and customized solutions.",
-      "Fill out the contact form below and let us know your specific rental requirements or property management needs. We guarantee a prompt and expert response."
-    ],
-    "formFields": [
-      "name",
-      "phone",
-      "email",
-      "message"
-    ]
-  }
-}
-```

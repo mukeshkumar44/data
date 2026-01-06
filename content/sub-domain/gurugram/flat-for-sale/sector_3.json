@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/sector3/flat1.jpg",
-      "/images/sector3/flat2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The neighbourhood boasts proximity to essential services including respected educational institutions, advanced healthcare facilities and thriving commercial centers. This mature infrastructure guarantees that all necessities, from daily shopping to emergency services, are just minutes away, providing true comfort and peace of mind to flat owners. Review the critical location highlights that confirm Sector 3's premium status."
     ],
     "locations": [
-      "Old Gurugram Metro Station Proximity",
-      "Immediate Access to NH-19/NH-44",
-      "Leading Multi-Specialty Hospitals Nearby",
-      "Top CBSE and International Schools",
-      "Established Local Markets and Shopping Centers",
-      "Recreational Parks and Green Spaces",
-      "Government Offices and Banks",
-      "Quick Commute to Delhi Border"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

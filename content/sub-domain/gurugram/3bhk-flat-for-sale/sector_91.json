@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "3bhk-sector91-hero.jpg",
-      "sector91-skyline.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "This superior linkage is critical for professionals and significantly boosts the resale value of any 3BHK flat for sale in Sector 91. The forthcoming developments in surrounding sectors ensure that civic infrastructure, including public transport and commercial hubs, will continue to expand, enhancing the convenience quotient exponentially. Choosing a home here means prioritizing time saved and potential capital growth in one of Gurugram's fastest appreciating zones, making your investment robust and highly desirable."
     ],
     "locations": [
-      "Dwarka Expressway Access Points",
-      "NH 48 Delhi Jaipur Highway Link",
-      "Southern Peripheral Road SPR Proximity",
-      "IMT Manesar Industrial Hub",
-      "KMP Expressway Connectivity",
-      "Cyber City Gurugram Accessibility",
-      "Indira Gandhi International Airport IGI",
-      "Upcoming Metro Corridor Connections"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

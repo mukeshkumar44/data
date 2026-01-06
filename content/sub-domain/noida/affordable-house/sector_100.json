@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "sector-100-hero-1.jpg",
-      "sector-100-hero-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,13 +61,56 @@
       "Key landmarks, including major hospitals like Fortis and prestigious educational institutions, are just a short drive away. Furthermore, the area is planned to include green belts and recreational spaces, promoting a healthier urban lifestyle. This blend of infrastructure and lifestyle amenities makes finding an affordable house in Sector 100 not just a good investment, but a smart lifestyle choice. We help you leverage this prime location by providing access to properties that maximize these locational advantages while maintaining affordability."
     ],
     "locations": [
-      "Sector 101 Noida",
-      "Sector 104 Noida",
-      "Sector 107 Noida",
-      "FNG Expressway Access",
-      "Wave City Centre Metro",
-      "Golf Course Noida",
-      "Atta Market"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,10 +7,19 @@
       "Investing in a 2BHK flat in Sector 39 ensures a lifestyle of convenience and growth. Whether you are a first-time homebuyer or looking for a profitable investment property our listings feature verified properties from reputable builders. Explore move-in ready options and new launch projects designed to maximize space utility and natural light. Start your search now and secure a high-quality residential space in one of Noida’s most sought-after sectors for exceptional value."
     ],
     "buttons": [
-      { "label": "Book A Site Visit", "path": "/site-visit" },
-      { "label": "Explore Verified Listings", "path": "/listings" }
+      {
+        "label": "Book A Site Visit",
+        "path": "/site-visit"
+      },
+      {
+        "label": "Explore Verified Listings",
+        "path": "/listings"
+      }
     ],
-    "images": ["/images/2bhk-sector-39-hero.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Features Making 2BHK Flats in Sector 39 Noida an Excellent Investment Choice",
@@ -52,14 +61,56 @@
       "When searching for a 2BHK Flat For Sale in Sector 39 understanding the surrounding infrastructure is crucial. The proximity to the Botanical Garden Metro Station and Sector 39 police station adds layers of convenience and security. Furthermore residents benefit from quick access to the vibrant shopping and entertainment districts of Sector 18 and Sector 32. This combination of strong internal infrastructure and excellent external connectivity confirms Sector 39 as a top choice for real estate investment and family living."
     ],
     "locations": [
-      "Sector 32",
-      "Sector 50",
-      "Sector 41",
-      "Sector 40",
-      "Sector 44",
-      "Sector 18",
-      "Botanical Garden",
-      "Golf Course"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning your dream 2BHK flat in Sector 39. Our property specialists are standing by to offer personalized advice market insights and exclusive off-market listings tailored just for your specific needs and preferences.",
       "Fill out the simple contact form below to schedule a consultation receive a comprehensive e-brochure or arrange a site visit today. We look forward to helping you find your perfect home without any hassle or delay."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

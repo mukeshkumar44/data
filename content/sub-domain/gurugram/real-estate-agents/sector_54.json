@@ -16,7 +16,10 @@
         "path": "/valuation-request"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Services Provided by Top Real Estate Agents in Sector 54 Gurugram",
@@ -58,14 +61,56 @@
       "We know the granular specifics of society amenities maintenance costs recent sale history and long-term capital appreciation potential within each complex. Whether you seek the sprawling green spaces of DLF Park Place the modern convenience of Ireo The Grand Arch or the strategic location near the Rapid Metro station we ensure you have comprehensive details before making a major financial commitment. This localized hyper-knowledge is absolutely critical for making a successful and intelligent property investment decision in this premium micro-market of Gurugram."
     ],
     "locations": [
-      "DLF Park Place",
-      "Ireo The Grand Arch",
-      "Emaar Emerald Hills",
-      "Suncity Business Tower Residences",
-      "Vatika Towers Apartments",
-      "Paras Trinity Sector 54",
-      "Adjoining Golf Course Road Properties",
-      "Close Proximity to Rapid Metro Stations"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

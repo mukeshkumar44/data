@@ -7,10 +7,19 @@
       "We pride ourselves on transparency, integrity, and exceptional service, making the complex process of real estate transactions simple and stress-free for our clients. Whether you are a first-time homebuyer or an experienced investor looking to capitalize on Jaggi Garden's growth potential, partnering with our expert team guarantees verified documents, fair pricing, and professional negotiation. Contact the leading Property Dealer in Jaggi Garden today to secure your future property in this thriving locale."
     ],
     "buttons": [
-      { "label": "View Available Properties", "path": "/properties" },
-      { "label": "Consult Our Local Expert", "path": "/contact" }
+      {
+        "label": "View Available Properties",
+        "path": "/properties"
+      },
+      {
+        "label": "Consult Our Local Expert",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Popular Plot Sizes for Residential and Commercial Investment in Jaggi Garden Ambala",
@@ -52,14 +61,56 @@
       "Our Property Dealer services extend comprehensive support across Ambala, providing market reports and future growth forecasts for each locality. Whether you seek immediate occupancy or long-term land banking, trust our local knowledge to guide your real estate decisions beyond Jaggi Garden into areas poised for exponential growth in the coming years."
     ],
     "locations": [
-      "Ambala Cantt",
-      "Ambala City",
-      "Model Town Ambala",
-      "Sector 7 Ambala",
-      "Sector 8 Ambala",
-      "Sector 9 Ambala",
-      "Mahesh Nagar Ambala",
-      "Baldev Nagar Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure your property in the thriving locale of Jaggi Garden Ambala Our expert team is prepared to provide bespoke consultation services tailored to your buying or selling requirements. Reach out to us to schedule a site visit or receive a curated list of verified property listings.",
       "Fill out the form below or call us directly. We are committed to making your real estate journey seamless, secure, and highly successful in Jaggi Garden."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

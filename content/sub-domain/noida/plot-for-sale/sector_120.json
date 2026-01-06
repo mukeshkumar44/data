@@ -17,7 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero-sector-120-plot.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -60,12 +61,56 @@
       "Understanding the surrounding ecosystem is crucial for property valuation. We highlight the key arteries and amenities that cement Sector 120’s status as a prime real estate destination ensuring your investment is perfectly positioned for future growth and convenient daily life."
     ],
     "locations": [
-      "FNG Expressway Proximity",
-      "Sector 71 Metro Station Link",
-      "Adjacent Retail Centers and Malls",
-      "Educational Institutes near Sector 120",
-      "Sector 119 Residential Hub",
-      "Hospitals and Healthcare Facilities Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -120,8 +165,7 @@
       {
         "question": "Are the plots in Sector 120 approved by the Noida Authority or RERA",
         "answer": "It is crucial to verify the approval status for any Plot For Sale in Sector 120. Most reputable plots and associated society developments should be approved by the Noida Authority or, if part of a larger planned township, be RERA registered. RERA registration ensures transparency, project timeline adherence, and provides legal protection for the buyer. Always request to see the clear approval documentation and land use certificates before finalizing the purchase agreement."
-      }
-      ,
+      },
       {
         "question": "What documentation is required to purchase a residential plot here",
         "answer": "The essential documents include the registered Sale Deed, the Mutation Certificate (for transfer of title), the Encumbrance Certificate (EC) confirming no legal liabilities, and the approved layout plan. For the buyer, standard KYC documents such as PAN card, Aadhar card, and photographs are required. Thoroughly checking the Chain of Title is also recommended to ensure the property's history is clear and undisputed prior to the final registration process."

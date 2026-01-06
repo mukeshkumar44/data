@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-flat-sector4-1.jpg",
-      "hero-flat-sector4-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "Neighboring Sector 6 and Sector 7 offer comparable residential tranquility but sometimes feature newer construction or slightly different pricing structures for rental flats. Areas like HUDA Colony nearby provide slightly older but often more affordable independent rental houses. We provide detailed information on these adjacent zones to ensure you find the perfect rental solution within the broader Karnal area. Our expert agents can guide you through the pros and cons of each surrounding locality relative to the superb residential standards offered by Flats For Rent in Sector 4 Karnal."
     ],
     "locations": [
-      "Sector 6 Karnal",
-      "Sector 7 Karnal",
-      "Sector 9 HUDA",
-      "Mughal Canal",
-      "Model Town Extension",
-      "Indri Road Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

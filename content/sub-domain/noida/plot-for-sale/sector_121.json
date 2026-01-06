@@ -7,10 +7,19 @@
       "We offer a curated selection of genuine, verified plots ranging from small residential sizes perfect for nuclear families to larger parcels suitable for luxurious villas or mixed-use development. Every plot listing is thoroughly vetted for clear titles and regulatory compliance, ensuring a smooth and secure transaction process. Do not miss this chance to acquire valuable land in a rapidly appreciating zone of Noida. Start your search now and unlock the potential of Sector 121’s thriving real estate market."
     ],
     "buttons": [
-      { "label": "View Verified Plot Listings", "path": "/listings" },
-      { "label": "Request Free Valuation Report", "path": "/contact" }
+      {
+        "label": "View Verified Plot Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Free Valuation Report",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_plot_121.jpg", "sector_121_noida_map.png"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Diverse Plot Sizes and Investment Options in Sector 121 Noida",
@@ -52,14 +61,56 @@
       "Areas surrounding Sector 121 benefit from the same robust infrastructure planning, including proximity to the FNG Expressway and the proposed metro extension. Exploring these nearby locations can provide strategic diversification for your real estate portfolio, ensuring continuous returns across the Noida investment ecosystem."
     ],
     "locations": [
-      "Sector 120 Noida",
-      "Sector 122 Noida",
-      "Sector 77 Noida",
-      "Sector 78 Noida",
-      "Sector 50 Noida",
-      "Noida Extension nearby sectors",
-      "Central Noida connectivity zones",
-      "Ghaziabad investment corridor access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure the best Plot For Sale in Sector 121 Noida Do not navigate the complex real estate market alone. Our seasoned professionals are here to provide tailored advice, verified listings, and complete legal support from inquiry to registration.",
       "Fill out the form below to receive personalized insights, schedule a site visit, or request a detailed investment dossier specific to your requirements."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

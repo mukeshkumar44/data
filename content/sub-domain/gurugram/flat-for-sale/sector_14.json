@@ -7,12 +7,18 @@
       "Investing in a Flat For Sale in sector 14 is a decision that guarantees appreciation and superior lifestyle quality. This locality provides excellent connectivity to Delhi NCR major business centers and essential civic utilities including top-tier schools and hospitals. Explore listings that meet rigorous quality checks ensuring you find a home that is safe secure and perfectly tailored to your aspirations. Start your journey to homeownership today by browsing the best available inventory in this prestigious area."
     ],
     "buttons": [
-      { "label": "Explore 2 & 3 BHK Flats", "path": "/flats/2bhk-3bhk" },
-      { "label": "Request a Site Visit Now", "path": "/contact" }
+      {
+        "label": "Explore 2 & 3 BHK Flats",
+        "path": "/flats/2bhk-3bhk"
+      },
+      {
+        "label": "Request a Site Visit Now",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/hero/sector14_1.jpg",
-      "/images/hero/sector14_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "When considering a Flat For Sale in sector 14 you are investing in an address known for safety green spaces and immediate connectivity to markets schools and healthcare facilities. Review the nearby residential areas that complement Sector 14 providing additional social infrastructure and commercial opportunities reinforcing its status as a premium residential choice."
     ],
     "locations": [
-      "Sector 15 Gurugram",
-      "Sector 16 Gurugram",
-      "Sector 17 Residential Hub",
-      "Sector 10 Community Center",
-      "Old Gurugram Railway Station Area",
-      "Neelam Chowk Commercial Zone",
-      "Badarpur Border Connectivity",
-      "Delhi Mathura Road NH-44 Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

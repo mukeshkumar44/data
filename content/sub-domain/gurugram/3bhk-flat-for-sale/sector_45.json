@@ -7,12 +7,18 @@
       "We curate verified listings of 3BHK apartments that meet high standards of contemporary design, potential vastu compliance, and top-tier lifestyle amenities. Whether your priority is proximity to top-rated international schools, seamless rapid metro connectivity, or lush green private parks, Sector 45 delivers unmatched urban convenience without sacrificing tranquility. Explore luxury high-rise options or spacious builder floors designed for maximum natural light and cross ventilation. Start your personalized search now to find your dream 3BHK flat in Sector 45 Gurugram where ultimate comfort meets significant investment potential for future returns."
     ],
     "buttons": [
-      { "label": "Explore Premium 3BHK Listings", "path": "/listings/3bhk-sector-45" },
-      { "label": "Schedule a Site Visit Today", "path": "/contact" }
+      {
+        "label": "Explore Premium 3BHK Listings",
+        "path": "/listings/3bhk-sector-45"
+      },
+      {
+        "label": "Schedule a Site Visit Today",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "img/hero-3bhk-sector45-1.jpg",
-      "img/hero-3bhk-sector45-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The presence of the Gurugram Rapid Metro nearby significantly boosts its appeal, offering quick and convenient transit across the city. Furthermore, Sector 45 boasts proximity to world-class hospitals like Medanta and Artemis, high-end retail malls, and an abundance of fine dining options. This holistic integration of infrastructure makes it a self-sufficient locality, perfect for long-term residential settlement and robust capital appreciation for your 3BHK investment."
     ],
     "locations": [
-      "Huda City Centre Metro Station",
-      "NH-48 Delhi-Jaipur Expressway",
-      "Golf Course Road Extension",
-      "Medanta The Medicity Hospital",
-      "Sector 44 Institutional Area",
-      "Cyber City Business Hub",
-      "Gurugram Bus Stand",
-      "DLF Corporate Park"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

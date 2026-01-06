@@ -7,10 +7,19 @@
       "If you are searching for a ready-to-move house in a strategically located area look no further. Our property experts provide tailored guidance ensuring you find a home that matches your specific size budget and lifestyle needs. Browse our exclusive collection of houses for sale in Sector 2 and take the first step toward securing a sound real estate investment in one of Rohtak’s most sought-after sectors. Start your property journey with confidence and expert support."
     ],
     "buttons": [
-      { "label": "View All House Listings", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View All House Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero1.jpg", "/images/hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Premium Residential House Options and Ready-to-Move Properties in Sector 2",
@@ -52,14 +61,56 @@
       "The sector borders several important areas providing access to diverse amenities including bustling commercial zones prominent educational institutions and essential healthcare providers. Understanding the local geography helps buyers appreciate the convenience of choosing a house for sale in Sector 2 Rohtak."
     ],
     "locations": [
-      "Civil Hospital Rohtak",
-      "Maharshi Dayanand University MDU",
-      "Rohtak Railway Station",
-      "Sector 1 Market Area",
-      "Tilyar Lake Tourist Complex",
-      "Delhi Bypass Road Access",
-      "IMT Rohtak Industrial Area",
-      "Sunaria Chowk"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Take the next step towards securing your ideal residential property in Sector 2. Our dedicated real estate team specializes exclusively in this area and is ready to provide you with personalized listings site tours and valuation advice.",
       "Fill out the form below or call us directly to discuss your specific requirements. Let us help you unlock the door to your new life in Sector 2 a premier address in Rohtak."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,10 +7,19 @@
       "Finding the right home requires attention to detail. Our listings feature properties with expansive layouts superior finishes and immediate proximity to essential amenities like schools markets and healthcare facilities. Explore competitive pricing and transparent dealings when looking for your ideal 3BHK flat in Palam Vihar Pocket H. Start your home search here and step into a life of convenience and sophistication."
     ],
     "buttons": [
-      { "label": "Explore Premium Listings", "path": "/listings" },
-      { "label": "Schedule a Virtual Tour", "path": "/contact" }
+      {
+        "label": "Explore Premium Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Virtual Tour",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Specifications and Features of Our 3BHK Flats in Palam Vihar Pocket H Gurugram",
@@ -51,7 +60,58 @@
       "Palam Vihar Pocket H stands out as a residential hub due to its strategic location bordering Delhi and offering swift access to major commercial zones of Gurugram. Investing in a 3BHK flat here means placing yourself at the nexus of connectivity allowing for smooth daily commutes to various business districts via the Dwarka Expressway and NH48.",
       "The infrastructure surrounding Pocket H is fully developed including well-maintained roads reliable public transport options and immediate access to top-tier educational institutions hospitals and vibrant local markets. This established infrastructure ensures a high quality of life and contributes significantly to the long-term appreciation value of your 3BHK property in Palam Vihar Gurugram."
     ],
-    "locations": []
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Why Palam Vihar Pocket H is Your Ideal Choice for a Residential 3BHK Investment",
@@ -146,6 +206,11 @@
       "Ready to take the next step towards owning a premium 3BHK flat in Palam Vihar Pocket H Gurugram We are here to provide personalized property consultations site visits and comprehensive legal guidance.",
       "Do not miss out on the best residential opportunities in this sought-after locality. Contact us today to discuss your specific requirements and receive a tailored list of available properties."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

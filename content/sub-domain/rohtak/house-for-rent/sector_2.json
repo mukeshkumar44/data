@@ -7,10 +7,19 @@
       "Our platform simplifies the often-complex process of securing a new rental home. Every listing for a house for rent in Sector 2 is meticulously verified for ownership and condition, guaranteeing you peace of mind throughout the tenancy process. We provide detailed property photos, virtual tours, and transparent rental terms, eliminating hidden surprises. Start browsing our curated listings now to secure a desirable rental house in the heart of Sector 2 Rohtak before the best options are taken."
     ],
     "buttons": [
-      { "label": "Browse Available Houses", "path": "/listings/sector-2" },
-      { "label": "Request Personalized Search", "path": "/contact" }
+      {
+        "label": "Browse Available Houses",
+        "path": "/listings/sector-2"
+      },
+      {
+        "label": "Request Personalized Search",
+        "path": "/contact"
+      }
     ],
-    "images": ["/img/house-sector-2-hero1.jpg", "/img/house-sector-2-hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Rental House Options in Sector 2 Rohtak Based on Size and Configuration",
@@ -52,14 +61,56 @@
       "Beyond just transport, Sector 2 is surrounded by essential lifestyle amenities. Residents benefit from the proximity to some of the region's best educational institutions and high-standard healthcare facilities, ensuring all family needs are met within a short distance of your rental home."
     ],
     "locations": [
-      "Delhi Bypass Road Connectivity",
-      "Model Town Residential Area",
-      "HUDA Market Commercial Hub",
-      "PGIMS Medical Campus Rohtak",
-      "Maharshi Dayanand University MDU",
-      "Sector 1 Neighboring Residential Zone",
-      "Rohtak City Centre Access",
-      "Reputable Schools and Colleges Nearby"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to move into your ideal House For Rent in Sector 2 Rohtak We are here to help you take the next step effortlessly. Use the form below to share your specific housing requirements, and one of our dedicated property consultants will reach out to you within the hour.",
       "Whether you need detailed information on a specific listing or require comprehensive guidance through the Rohtak rental market, our expert team is ready to assist. Contact us now and unlock the best rental opportunities in Sector 2."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

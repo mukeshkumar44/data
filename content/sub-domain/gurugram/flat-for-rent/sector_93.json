@@ -7,10 +7,19 @@
       "We provide access to verified listings of high-quality rental properties known for their excellent build quality modern amenities and secure living environments. Enjoy unparalleled convenience with proximity to top schools hospitals shopping complexes and seamless connectivity to the major highways. Start your search now to find a comfortable and affordable Flat For Rent in sector 93 that perfectly matches your lifestyle needs."
     ],
     "buttons": [
-      { "label": "Explore 2 BHK Rentals", "path": "/2bhk-rentals" },
-      { "label": "Contact Us for Assistance", "path": "/contact" }
+      {
+        "label": "Explore 2 BHK Rentals",
+        "path": "/2bhk-rentals"
+      },
+      {
+        "label": "Contact Us for Assistance",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Finding the Perfect Rental Configuration Your Options in sector 93 Gurugram",
@@ -52,14 +61,56 @@
       "The strategic location ensures easy commutes to major commercial centers of Gurugram and quick connectivity to the main highway linking to Delhi and Noida. Everything you need from reputable schools to expansive shopping malls is just a short drive away enhancing the quality of life for all residents."
     ],
     "locations": [
-      "NH 44 Delhi-Agra Highway Access",
-      "Proximity to Badarpur Border",
-      "Nearby Manav Rachna Educational Institutions",
-      "Crown Interiorz Mall & Shopping Centres",
-      "Metro Connectivity at Nearest Station",
-      "Multiple Healthcare and Hospital Facilities",
-      "Accessible Local Retail and Grocery Markets",
-      "Fast Connectivity to Sector 81 Commercial Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to move into your ideal rental home in sector 93 Gurugram Let our experienced real estate professionals guide you through the process ensuring you find a flat that meets all your criteria effortlessly.",
       "Fill out the form below with your requirements budget and preferred configuration (e.g. 2 BHK or 3 BHK) and we will shortlist verified properties for immediate viewing."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

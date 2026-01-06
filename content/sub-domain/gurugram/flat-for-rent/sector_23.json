@@ -1,6 +1,5 @@
 {
   "domain": "plotforsale.com",
-
   "hero": {
     "title": "Discover Best Flats for Rent in Sector 23 Gurugram Today",
     "description": [
@@ -8,11 +7,20 @@
       "With trusted rental listings, intuitive search tools, and easy-to-access amenities, Sector 23 has become a favorite choice for renters who want comfort without compromising connectivity. Whether you’re new to Gurugram or planning to relocate within the city, Sector 23 flats for rent provide value, lifestyle quality, and hassle-free living."
     ],
     "buttons": [
-      { "label": "View Rental Flats in Sector 23 Gurugram", "path": "/sector-23/rent" },
-      { "label": "Contact Rental Experts for Assistance", "path": "/contact" }
+      {
+        "label": "View Rental Flats in Sector 23 Gurugram",
+        "path": "/sector-23/rent"
+      },
+      {
+        "label": "Contact Rental Experts for Assistance",
+        "path": "/contact"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "Plot Size Based Rental Flat Options Available in Sector 23 Gurugram",
     "description": [
@@ -46,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Related Property Options Around Sector 23 Gurugram",
     "description": [
@@ -54,17 +61,58 @@
       "These easy-to-use property links improve your search experience and help you discover the best homes and plots aligned with your requirements."
     ],
     "locations": [
-      { "title": "Flat for Rent, Sector 23 Gurugram", "path": "/sector-23/rent" },
-      { "title": "Flat for Sale, Sector 23 Gurugram", "path": "/sector-23/sale" },
-      { "title": "Plot for Sale, Sector 23 Gurugram", "path": "/sector-23/plot" },
-      { "title": "House for Sale, Sector 23 Gurugram", "path": "/sector-23/house" },
-      { "title": "Affordable Flats Near Sector 23", "path": "/nearby/affordable-flats" },
-      { "title": "Investment Homes in Gurugram", "path": "/investment-homes" },
-      { "title": "Ready to Move Flats in Gurugram", "path": "/ready-to-move" },
-      { "title": "Top Rental Listings in Gurugram", "path": "/top-rentals" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Deal Acres Is the Trusted Real Estate Partner in Gurugram",
     "description": [
@@ -100,13 +148,12 @@
         "title": "End-to-End Customer Support",
         "description": "From initial inquiry to final closure, you receive professional support every step of the way."
       },
-      { 
-        "title": "Trusted by Thousands of Users", 
-        "description": "Deal Acres has built trust with renters, buyers, and investors through consistent service, transparency, and high-quality listings." 
+      {
+        "title": "Trusted by Thousands of Users",
+        "description": "Deal Acres has built trust with renters, buyers, and investors through consistent service, transparency, and high-quality listings."
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Flats for Rent in Sector 23 Gurugram",
     "description": "Here are the most common questions users ask when searching for flats for rent in Sector 23 Gurugram — answered in detail to help you make informed decisions.",
@@ -153,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Connect With Us for Flats for Rent in Sector 23 Gurugram",
     "description": [
       "Have questions or ready to find your ideal rental flat? Tell us your preferences, and our property specialists will guide you with verified options and tailored recommendations.",
       "Fill in your details below, and we will contact you quickly to simplify your rental journey in Sector 23 Gurugram."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

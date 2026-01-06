@@ -1,4 +1,3 @@
-```json
 {
   "domain": "www.exampleproperty.com",
   "hero": {
@@ -8,10 +7,19 @@
       "Whether you're looking to start a retail store, restaurant, or office space, this shop provides the ideal foundation for your entrepreneurial dreams. With modern amenities and prime connectivity, it's a smart choice for investors and business owners alike."
     ],
     "buttons": [
-      { "label": "View Shop Details", "path": "/shop-details" },
-      { "label": "Contact Agent", "path": "/contact" }
+      {
+        "label": "View Shop Details",
+        "path": "/shop-details"
+      },
+      {
+        "label": "Contact Agent",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Features of Our Shop in Jaggi Colony Ambala",
@@ -20,12 +28,30 @@
       "Explore the unique selling points that make this shop a standout investment in Ambala's thriving commercial landscape."
     ],
     "features": [
-      { "title": "Spacious Interiors", "description": "The shop offers ample space for display, storage, and customer movement, ensuring a comfortable shopping experience." },
-      { "title": "Prime Location", "description": "Situated in the heart of Jaggi Colony, this shop benefits from high visibility and easy accessibility for customers." },
-      { "title": "Modern Amenities", "description": "Equipped with contemporary facilities including proper ventilation, lighting, and security features for a hassle-free business operation." },
-      { "title": "High Footfall Area", "description": "Located in a bustling neighborhood, the shop attracts consistent customer traffic, boosting your sales potential." },
-      { "title": "Flexible Layout", "description": "The adaptable design allows for customization to suit various business types, from retail to services." },
-      { "title": "Secure Environment", "description": "The property is situated in a well-maintained area with 24/7 security, ensuring safety for your business assets." }
+      {
+        "title": "Spacious Interiors",
+        "description": "The shop offers ample space for display, storage, and customer movement, ensuring a comfortable shopping experience."
+      },
+      {
+        "title": "Prime Location",
+        "description": "Situated in the heart of Jaggi Colony, this shop benefits from high visibility and easy accessibility for customers."
+      },
+      {
+        "title": "Modern Amenities",
+        "description": "Equipped with contemporary facilities including proper ventilation, lighting, and security features for a hassle-free business operation."
+      },
+      {
+        "title": "High Footfall Area",
+        "description": "Located in a bustling neighborhood, the shop attracts consistent customer traffic, boosting your sales potential."
+      },
+      {
+        "title": "Flexible Layout",
+        "description": "The adaptable design allows for customization to suit various business types, from retail to services."
+      },
+      {
+        "title": "Secure Environment",
+        "description": "The property is situated in a well-maintained area with 24/7 security, ensuring safety for your business assets."
+      }
     ]
   },
   "locationsSection": {
@@ -35,14 +61,56 @@
       "These areas offer additional customer bases and business opportunities, enhancing the value of your investment in Jaggi Colony."
     ],
     "locations": [
-      "Ambala Cantt",
-      "Ambala City",
-      "Sector 7 Ambala",
-      "Sector 8 Ambala",
-      "Model Town Ambala",
-      "Railway Road Ambala",
-      "Naraingarh Road",
-      "Jagadhri Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -52,30 +120,84 @@
       "Here are compelling reasons why this shop in Jaggi Colony stands out as an excellent business opportunity."
     ],
     "points": [
-      { "title": "Strategic Location", "description": "Jaggi Colony's central position in Ambala ensures easy access from all parts of the city, maximizing your customer reach and business potential." },
-      { "title": "Growing Commercial Hub", "description": "The area is rapidly developing as a commercial center, with increasing demand for retail and service establishments, promising good returns on investment." },
-      { "title": "Established Market", "description": "Being part of an already thriving commercial zone means you benefit from existing customer traffic and market credibility." },
-      { "title": "Excellent Connectivity", "description": "Well-connected to major roads and transportation networks, making it convenient for both customers and suppliers to reach your business." },
-      { "title": "Diverse Customer Base", "description": "The surrounding residential areas provide a steady stream of customers from various demographics for your products or services." },
-      { "title": "Future Appreciation", "description": "With ongoing development projects in the vicinity, property values in Jaggi Colony are expected to rise significantly in coming years." },
-      { "title": "Business-Friendly Environment", "description": "The local administration and infrastructure support commercial activities, with proper utilities and services for businesses." },
-      { "title": "Competitive Pricing", "description": "Compared to other prime commercial areas in Ambala, Jaggi Colony offers more affordable options without compromising on quality or potential." }
+      {
+        "title": "Strategic Location",
+        "description": "Jaggi Colony's central position in Ambala ensures easy access from all parts of the city, maximizing your customer reach and business potential."
+      },
+      {
+        "title": "Growing Commercial Hub",
+        "description": "The area is rapidly developing as a commercial center, with increasing demand for retail and service establishments, promising good returns on investment."
+      },
+      {
+        "title": "Established Market",
+        "description": "Being part of an already thriving commercial zone means you benefit from existing customer traffic and market credibility."
+      },
+      {
+        "title": "Excellent Connectivity",
+        "description": "Well-connected to major roads and transportation networks, making it convenient for both customers and suppliers to reach your business."
+      },
+      {
+        "title": "Diverse Customer Base",
+        "description": "The surrounding residential areas provide a steady stream of customers from various demographics for your products or services."
+      },
+      {
+        "title": "Future Appreciation",
+        "description": "With ongoing development projects in the vicinity, property values in Jaggi Colony are expected to rise significantly in coming years."
+      },
+      {
+        "title": "Business-Friendly Environment",
+        "description": "The local administration and infrastructure support commercial activities, with proper utilities and services for businesses."
+      },
+      {
+        "title": "Competitive Pricing",
+        "description": "Compared to other prime commercial areas in Ambala, Jaggi Colony offers more affordable options without compromising on quality or potential."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shops in Jaggi Colony",
     "description": "Find answers to common queries about purchasing and operating a shop in Jaggi Colony Ambala. Our comprehensive FAQ section covers all aspects of this commercial property investment.",
     "faqs": [
-      { "question": "What types of businesses are suitable for this shop in Jaggi Colony", "answer": "The shop's versatile design and location make it suitable for various businesses including retail stores, eateries, service centers, offices, or even educational institutes. The spacious layout allows for customization based on your specific business needs." },
-      { "question": "What is the total area of the shop available for sale", "answer": "The shop measures approximately [insert square footage] with [insert dimensions]. The exact dimensions can be provided upon request, and our agents can arrange for a physical measurement if required." },
-      { "question": "Are there any legal clearances required for purchasing this shop", "answer": "The property comes with all necessary legal clearances and documentation. We provide complete title verification, approved building plans, and all relevant municipal approvals to ensure a smooth transaction process." },
-      { "question": "What are the parking facilities available for this shop", "answer": "The property includes [describe parking arrangements - dedicated parking, street parking, etc.]. The commercial complex maintains proper parking management to ensure convenience for both shop owners and customers." },
-      { "question": "Can the shop be used for residential purposes", "answer": "As per local zoning regulations, this property is designated for commercial use only. However, certain mixed-use possibilities may be explored with proper permissions from the municipal authorities." },
-      { "question": "What is the current footfall and customer profile in Jaggi Colony", "answer": "Jaggi Colony experiences consistent foot traffic throughout the day, with peak hours during [describe peak times]. The customer profile includes [describe demographics - local residents, office workers, students, etc.] creating diverse business opportunities." },
-      { "question": "Are there any maintenance charges for the shop", "answer": "The property has a nominal maintenance fee of [insert amount] per month, which covers common area cleaning, security, and basic upkeep of the commercial complex. This ensures a well-maintained environment for your business." },
-      { "question": "What financing options are available for purchasing this shop", "answer": "We collaborate with multiple financial institutions that offer commercial property loans with competitive interest rates. Our team can guide you through various financing options tailored to your financial situation." },
-      { "question": "How does the rental yield compare to other commercial areas in Ambala", "answer": "Shops in Jaggi Colony typically offer rental yields between X% to Y%, which is competitive compared to other commercial areas in Ambala. The appreciation potential combined with steady rental income makes it an attractive investment." },
-      { "question": "What support is provided after purchasing the shop", "answer": "Our relationship doesn't end with the sale. We provide post-purchase support including assistance with utility connections, vendor recommendations for interior work, and introductions to local business networks to help you establish your enterprise successfully." }
+      {
+        "question": "What types of businesses are suitable for this shop in Jaggi Colony",
+        "answer": "The shop's versatile design and location make it suitable for various businesses including retail stores, eateries, service centers, offices, or even educational institutes. The spacious layout allows for customization based on your specific business needs."
+      },
+      {
+        "question": "What is the total area of the shop available for sale",
+        "answer": "The shop measures approximately [insert square footage] with [insert dimensions]. The exact dimensions can be provided upon request, and our agents can arrange for a physical measurement if required."
+      },
+      {
+        "question": "Are there any legal clearances required for purchasing this shop",
+        "answer": "The property comes with all necessary legal clearances and documentation. We provide complete title verification, approved building plans, and all relevant municipal approvals to ensure a smooth transaction process."
+      },
+      {
+        "question": "What are the parking facilities available for this shop",
+        "answer": "The property includes [describe parking arrangements - dedicated parking, street parking, etc.]. The commercial complex maintains proper parking management to ensure convenience for both shop owners and customers."
+      },
+      {
+        "question": "Can the shop be used for residential purposes",
+        "answer": "As per local zoning regulations, this property is designated for commercial use only. However, certain mixed-use possibilities may be explored with proper permissions from the municipal authorities."
+      },
+      {
+        "question": "What is the current footfall and customer profile in Jaggi Colony",
+        "answer": "Jaggi Colony experiences consistent foot traffic throughout the day, with peak hours during [describe peak times]. The customer profile includes [describe demographics - local residents, office workers, students, etc.] creating diverse business opportunities."
+      },
+      {
+        "question": "Are there any maintenance charges for the shop",
+        "answer": "The property has a nominal maintenance fee of [insert amount] per month, which covers common area cleaning, security, and basic upkeep of the commercial complex. This ensures a well-maintained environment for your business."
+      },
+      {
+        "question": "What financing options are available for purchasing this shop",
+        "answer": "We collaborate with multiple financial institutions that offer commercial property loans with competitive interest rates. Our team can guide you through various financing options tailored to your financial situation."
+      },
+      {
+        "question": "How does the rental yield compare to other commercial areas in Ambala",
+        "answer": "Shops in Jaggi Colony typically offer rental yields between X% to Y%, which is competitive compared to other commercial areas in Ambala. The appreciation potential combined with steady rental income makes it an attractive investment."
+      },
+      {
+        "question": "What support is provided after purchasing the shop",
+        "answer": "Our relationship doesn't end with the sale. We provide post-purchase support including assistance with utility connections, vendor recommendations for interior work, and introductions to local business networks to help you establish your enterprise successfully."
+      }
     ]
   },
   "contactSection": {
@@ -84,7 +206,11 @@
       "Ready to take the next step in your commercial property investment? Our expert team is available to provide detailed information and arrange viewings for this shop in Jaggi Colony Ambala.",
       "Fill out the form below, and we'll contact you promptly to discuss this exciting business opportunity."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }
-```

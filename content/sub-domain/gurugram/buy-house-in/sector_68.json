@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/sector68-hero1.jpg",
-      "/images/sector68-hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The rapid infrastructural development along the SPR corridor directly contributes to the rising property values in Sector 68. The neighborhood is rich in social infrastructure including world-class schools modern hospitals and dynamic retail environments ensuring a high quality of life for every family that chooses to buy house in Sector 68."
     ],
     "locations": [
-      "Southern Peripheral Road SPR access point",
-      "Proximity to Golf Course Extension Road",
-      "Reputable International Schools and universities",
-      "Major Multispecialty Healthcare facilities",
-      "Easy access to Sohna Road commercial hubs",
-      "Nearby Shopping Malls and entertainment centers",
-      "Seamless connectivity to NH 48 Delhi Jaipur Expressway",
-      "Established residential societies and communities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

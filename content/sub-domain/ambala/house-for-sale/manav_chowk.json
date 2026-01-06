@@ -7,10 +7,19 @@
       "Investing in a house here means securing a future in a highly developed area known for excellent infrastructure and rapid value appreciation. Explore houses built with quality construction standards, modern designs, and thoughtfully planned layouts that cater to diverse family needs. Start your search now and discover why Manav Chowk remains a preferred choice for discerning homeowners looking for convenience and lifestyle upgrades in Ambala."
     ],
     "buttons": [
-      { "label": "Browse All Listings", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "Browse All Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Premium Residential Houses and Plot Sizes Available Near Manav Chowk Ambala",
@@ -51,7 +60,58 @@
       "Manav Chowk is strategically located within Ambala, offering unparalleled access to key civic and commercial centers. Its proximity to major highways ensures easy connectivity to Chandigarh and Delhi, making it an excellent commuter-friendly location for professionals and business owners. Residents benefit from being centrally positioned yet enjoying the relative tranquility of well-established residential lanes.",
       "The surrounding areas are filled with reputable educational institutions, including primary and secondary schools, and specialized healthcare facilities, further enhancing the quality of life for those purchasing a House For Sale in Manav Chowk Ambala. This central positioning guarantees convenience for all your daily needs and services."
     ],
-    "locations": ["Model Town", "Sector 7 Ambala", "Jalbera Road", "Ambala Cantt", "Civil Hospital Area", "Railway Station Road", "Baldev Nagar", "Sadar Bazaar Ambala"]
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Why Choose Our Expertise for Finding Your Ideal House For Sale in Manav Chowk Ambala",
@@ -146,6 +206,11 @@
       "Finding the perfect House For Sale in Manav Chowk requires dedication and local expertise. Our team is ready to provide personalized assistance, schedule property viewings, and answer all your financial or legal questions about buying property in Ambala.",
       "Use the form below to share your specific requirements regarding size, budget, and preferred amenities. We commit to responding promptly with tailored listing recommendations that match your dream home criteria in Manav Chowk."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,12 +7,18 @@
       "Avoid common transactional pitfalls and ensure a smooth, transparent acquisition process by partnering with market leaders who prioritize your long-term financial goals. Our specialized real estate agents in Sector 63A excel at navigating complex RERA regulations, managing meticulous documentation, and ensuring every step of the investment journey is compliant and stress-free. Let us unlock the absolute best property opportunities that align perfectly with your vision for significant capital appreciation and secure living in Gurugram."
     ],
     "buttons": [
-      { "label": "Consult Our Top Agents Now", "path": "/contact" },
-      { "label": "View Exclusive Sector 63A Listings", "path": "/listings" }
+      {
+        "label": "Consult Our Top Agents Now",
+        "path": "/contact"
+      },
+      {
+        "label": "View Exclusive Sector 63A Listings",
+        "path": "/listings"
+      }
     ],
     "images": [
-      "/images/hero-sector63a-1.jpg",
-      "/images/hero-sector63a-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,16 +61,56 @@
       "The proximity to the proposed Metro corridor extension and existing rapid transit systems makes Sector 63A highly desirable for corporate professionals seeking excellent commuting links. We offer extensive coverage across neighboring Sectors 62, 65, and 66, ensuring our clients receive a broad spectrum of property options, comparative pricing analysis, and integrated investment insights for the entire high-growth corridor."
     ],
     "locations": [
-      "Golf Course Extension Road Access",
-      "Proximity to Sector 65 Gurugram",
-      "Direct Link to Southern Peripheral Road SPR",
-      "Swift Connectivity to IGI Airport",
-      "Near Rapid Metro Access Stations",
-      "Major Malls and Commercial Hubs",
-      "Worldmark Gurugram Business District",
-      "Leading Educational Institutions Nearby",
-      "Sector 66 Commercial Hub",
-      "DLF Corporate Greens"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

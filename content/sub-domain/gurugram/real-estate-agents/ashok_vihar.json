@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Investment Opportunities and Property Sizes Managed by Our Experts in Ashok Vihar",
@@ -58,16 +61,56 @@
       "Our network of real estate agents in Ashok Vihar is not limited to the core residential areas we also cover key commercial hubs and accessible neighboring localities. This holistic coverage ensures that if your ideal home or investment property is just outside the immediate vicinity we will find it for you maintaining superior connectivity and growth potential."
     ],
     "locations": [
-      "Ashok Vihar Phase 1",
-      "Ashok Vihar Phase 2",
-      "Ashok Vihar Phase 3",
-      "Pocket A Residential Apartments",
-      "Pocket B Builder Floors",
-      "Pocket C Commercial Hubs",
-      "Wazirpur Industrial Area Access",
-      "Shalimar Bagh Proximity",
-      "Tri Nagar Connectivity",
-      "Deep Local Market Knowledge"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

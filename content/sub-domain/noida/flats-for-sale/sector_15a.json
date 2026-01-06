@@ -7,10 +7,19 @@
       "Sector 15A provides residents with unparalleled connectivity to major business hubs and recreational centers, making it a perfect choice for affluent families and professionals. Explore our exclusive collection of meticulously designed apartments, ranging from spacious 2 BHK units to lavish 4 BHK residences, ensuring you find a home that perfectly complements your elite lifestyle."
     ],
     "buttons": [
-      { "label": "Explore Luxury Listings", "path": "/listings" },
-      { "label": "Get Free Consultation", "path": "/contact" }
+      {
+        "label": "Explore Luxury Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Free Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["/img/sector15a_flat_exterior.jpg", "/img/sector15a_living_room.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Premium Residential Options Available When Looking for a Flat For Sale in Sector 15A",
@@ -51,7 +60,58 @@
       "Sector 15A is uniquely positioned to offer tranquility while maintaining proximity to essential urban infrastructure. Residents benefit from wide, well-maintained roads, stringent security protocols, and easy access to prestigious schools, top-tier hospitals, and elite shopping destinations.",
       "The planned development of this sector ensures a high quality of life with abundant green spaces and low population density, distinguishing it from surrounding areas. This geographical excellence consistently drives up the demand for a Flat For Sale in Sector 15A, solidifying its investment value."
     ],
-    "locations": []
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Why Invest in a Flat For Sale in Sector 15A Today",
@@ -146,6 +206,11 @@
       "Ready to secure your exclusive Flat For Sale in Sector 15A Let our seasoned real estate professionals guide you through the selection and acquisition process. We offer personalized insights and market analysis to ensure you make an informed decision.",
       "Contact us now for a private consultation or to receive a tailored list of current properties matching your exact requirements for premium living in this highly sought-after area."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

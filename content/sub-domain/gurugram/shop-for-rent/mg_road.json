@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "MG Road_high_street_view.jpg",
-      "premium_shop_interior_mgroad.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Our location analysis covers areas known for luxury brands spots favored by value-driven shoppers and zones primarily accessed by professional office tenants. This highly localized expertise ensures that your investment in a rental property MG Road is precisely targeted to your intended audience. Whether you need proximity to high-density residential towers for convenience retail or high-street visibility near the metro station for fast-paced fashion retail our data driven approach guides your decision effectively. Explore the prime zones where securing a commercial shop for rent delivers maximum Return on Investment (ROI) due to established infrastructure and high consumer spending power."
     ],
     "locations": [
-      "MG Road Metro Station vicinity",
-      "DLF City Center Mall area",
-      "Sikanderpur extension commercial hub",
-      "Global Foyer Mall surroundings",
-      "Iffco Chowk linkage points",
-      "Residential Cluster Access Points",
-      "Budget Retail High-Street Stretch",
-      "Corporate Office Tower Ground Floors"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

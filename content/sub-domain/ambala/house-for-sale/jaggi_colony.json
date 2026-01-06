@@ -7,10 +7,19 @@
       "The properties here benefit immensely from proximity to major educational institutes healthcare centers and essential shopping hubs making daily life convenient and stress-free. Investing in Jaggi Colony means securing a future in a neighborhood that values peace security and community engagement. Our dedicated real estate experts provide comprehensive support throughout the purchasing journey ensuring a smooth transition from inquiry to ownership. Start your search now and discover the finest residential options available in Jaggi Colony Ambala."
     ],
     "buttons": [
-      { "label": "Browse Verified Listings Now", "path": "/listings" },
-      { "label": "Schedule a Free Consultation", "path": "/contact" }
+      {
+        "label": "Browse Verified Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Free Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero-jaggi-colony-1.jpg", "/images/hero-jaggi-colony-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "House Sizes and Configurations Available in Prime Jaggi Colony Ambala",
@@ -52,14 +61,56 @@
       "The colony’s proximity to NH-44 and the Ambala Cantt railway station makes travel seamless both locally and inter-city. Buyers looking for a House For Sale in Jaggi Colony value this connectivity as it drastically cuts down travel time to workplaces schools and hospitals."
     ],
     "locations": [
-      "Ambala Cantt Railway Station",
-      "Sadar Bazaar Ambala",
-      "Ambala City Market",
-      "Civil Hospital Ambala",
-      "Panchkula Highway Access",
-      "Maharishi Markandeshwar University Mullana",
-      "Sector 7 Ambala",
-      "Bus Stand Ambala Cantt"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Are you ready to take the next step towards owning your perfect House For Sale in Jaggi Colony Ambala We are here to provide personalized advice market insights and verified listings tailored precisely to your needs.",
       "Fill out the form below or call us directly to schedule a private viewing or a detailed consultation. We look forward to helping you secure your dream home investment."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

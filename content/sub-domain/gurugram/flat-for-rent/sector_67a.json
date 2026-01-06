@@ -7,10 +7,19 @@
       "Finding the perfect Flat For Rent in sector_67a can be seamless with our expert assistance. We streamline the viewing process and provide transparent details on lease agreements security deposits and maintenance expectations. Sector 67A offers a peaceful environment coupled with emerging infrastructure making it an ideal choice for young professionals families and students alike. Start browsing our exclusive listings now and step into your new home sooner than you think. Enjoy contemporary living standards within this vibrant Gurugram locale."
     ],
     "buttons": [
-      { "label": "View Available Flats Now", "path": "/listings" },
-      { "label": "Schedule a Virtual Tour", "path": "/contact-us" }
+      {
+        "label": "View Available Flats Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Virtual Tour",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["hero_flat_1.webp", "hero_sector_67a.webp"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Rental Configurations Finding the Ideal Flat For Rent in Sector 67A",
@@ -52,12 +61,56 @@
       "This location boasts numerous upcoming commercial centres reputed educational institutions like schools and colleges and robust healthcare facilities within a short drive. Renting here means enjoying suburban tranquility coupled with urban convenience. Explore these important nearby areas that enhance the appeal of renting a flat in Sector 67A Gurugram."
     ],
     "locations": [
-      "Omaxe World Street",
-      "Sector 66 Industrial Area",
-      "Badarpur Border Connectivity",
-      "Upcoming Metro Link Extensions",
-      "Puri Aman Vilas",
-      "Key Retail Malls and Cinemas"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to move into your new home in Sector 67A We are here to simplify your rental journey and connect you with the best available properties that fit your needs and budget.",
       "Reach out today for personalized assistance virtual tours or to schedule a physical viewing of the finest apartments currently available for rent in this thriving Gurugram locality."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

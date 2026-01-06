@@ -7,10 +7,19 @@
       "Taraori is witnessing significant commercial growth driven by improved infrastructure connectivity to Karnal and a thriving local economy. Explore modern ground-floor showrooms flexible small retail units and strategic corner shops designed to maximize your operational efficiency and customer reach. Start your search now to secure a commercial property that aligns perfectly with your business goals and budget in this rapidly developing town."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/available-shops" },
-      { "label": "Contact Rental Experts", "path": "/contact-us" }
+      {
+        "label": "View Available Shops",
+        "path": "/available-shops"
+      },
+      {
+        "label": "Contact Rental Experts",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Ideal Commercial Shop For Rent Solutions in Taraori Karnal for Every Business Type",
@@ -52,14 +61,56 @@
       "We provide detailed location insights ensuring you rent a shop in Taraori where your business can thrive whether you seek proximity to the highway residential communities or administrative centers. Our expertise covers the most viable addresses providing a competitive edge."
     ],
     "locations": [
-      "Taraori Main Market Road",
-      "Near Railway Station Taraori",
-      "Karnal Road Commercial Strip",
-      "Taraori Industrial Area vicinity",
-      "Residential Colony Adjacent Shops",
-      "NH-44 Access Points Commercial Blocks",
-      "Near Bus Stand Commercial Complex",
-      "Hospital and Institutional Areas"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure the perfect commercial space for your business in Taraori Get in touch with our specialist commercial leasing team today. We provide tailored recommendations market insights and seamless negotiation support.",
       "Submit your requirements below and let us help you find a high-visibility, high-potential Shop For Rent in Taraori that drives your business forward."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

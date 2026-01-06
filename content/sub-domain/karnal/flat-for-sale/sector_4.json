@@ -7,10 +7,19 @@
       "Explore a wide range of verified apartments and builder floors, from compact 1 BHK units ideal for professionals to expansive 3 BHK and 4 BHK luxury flats designed for growing families. Our listings feature properties that ensure transparent transactions and competitive pricing. Start your search now and secure your dream home in one of Karnal’s most desirable residential neighborhoods."
     ],
     "buttons": [
-      { "label": "Explore All Listings", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore All Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Options for Flats For Sale in Sector 4 Karnal Based on Size and Configuration",
@@ -53,13 +62,56 @@
       "Furthermore, the public transportation network around Sector 4 is robust, including easy access to local bus routes and nearby taxi services, making internal city travel effortless. Proximity to the central business district and governmental offices also adds to the sector’s desirability, confirming Sector 4 Karnal as the preferred address for residential property ownership."
     ],
     "locations": [
-      "Sector 6 Karnal",
-      "Sector 7 Karnal",
-      "Indri Road",
-      "Karnal Railway Station Area",
-      "Model Town Karnal",
-      "NH 44 Highway Access",
-      "Civil Hospital Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +207,11 @@
       "Don't miss out on the best residential opportunities in Sector 4 Karnal. Whether you need expert advice on property valuation, want to arrange a detailed site inspection, or require assistance with financing options, our dedicated real estate professionals are ready to help.",
       "Submit your inquiry now, and let us guide you effortlessly towards owning your perfect flat in this premium residential location."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

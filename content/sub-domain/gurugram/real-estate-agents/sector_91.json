@@ -7,10 +7,19 @@
       "Whether you are searching for a ready-to-move apartment, a custom plot for building your dream home, or strategic commercial space, partnering with a knowledgeable agent is crucial. We streamline your search process, offering exclusive listings and personalized advice tailored to your financial goals and lifestyle needs. Let us connect you with a proven expert who ensures a seamless, transparent, and profitable real estate transaction right here in sector 91 Gurugram. Start your journey today towards smart property ownership."
     ],
     "buttons": [
-      { "label": "Find Your Expert Agent Now", "path": "/contact-us" },
-      { "label": "Explore Latest Listings", "path": "/listings" }
+      {
+        "label": "Find Your Expert Agent Now",
+        "path": "/contact-us"
+      },
+      {
+        "label": "Explore Latest Listings",
+        "path": "/listings"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Residential Investment Options Managed by Leading Agents in sector 91",
@@ -52,14 +61,56 @@
       "The areas listed below benefit from Sector 91's infrastructure and offer diverse housing solutions, from budget apartments to luxury villas. Our agents cover this entire growth corridor, ensuring you never miss an opportunity in this rapidly expanding zone of Greater Gurugram."
     ],
     "locations": [
-      "Sector 90 Residential Developments",
-      "Sector 89 Commercial Strip",
-      "Naharpar Greater Gurugram Connectivity",
-      "Proximity to KMP Expressway",
-      "Badkhal Lake Area Accessibility",
-      "Omaxe City Residential Township",
-      "BPTP Parklands Neighbors",
-      "Upcoming Metro Link Extensions"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to navigate the property market in sector 91 Gurugram with confidence. Contact our dedicated team to be connected immediately with a highly-rated, local property expert who understands your specific needs.",
       "Whether you are selling, buying, or investing, personalized professional advice is just a click away. Fill out the form below to begin your successful real estate journey."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

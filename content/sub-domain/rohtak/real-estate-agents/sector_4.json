@@ -7,10 +7,19 @@
       "Sector 4 is strategically located offering excellent connectivity and established social infrastructure making it a premium choice for families and investors. Whether you are seeking a prime residential plot near the main market or a modern apartment close to major educational institutions, the right real estate agent makes all the difference. Start your property search here and gain immediate access to exclusive listings and unparalleled market insights provided only by the best agents serving Sector 4."
     ],
     "buttons": [
-      { "label": "Find Your Ideal Agent Now", "path": "/" },
-      { "label": "Explore Sector 4 Listings", "path": "/" }
+      {
+        "label": "Find Your Ideal Agent Now",
+        "path": "/"
+      },
+      {
+        "label": "Explore Sector 4 Listings",
+        "path": "/"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Services Provided by Our Top Real Estate Agents in Sector 4 Rohtak",
@@ -51,7 +60,58 @@
       "While Sector 4 is a major focus for investment, our network of highly qualified real estate agents extends across all high-demand localities in Rohtak. We cover every segment of the market from developing suburbs to established commercial hubs ensuring comprehensive coverage for all investment strategies.",
       "Leverage our established relationships to find reliable real estate agents whether you are looking for investment opportunities in newer sectors or seeking rental properties near the university area. Our specialized agents provide targeted support wherever your property search takes you within the city of Rohtak Haryana."
     ],
-    "locations": ["Sector 1 Rohtak", "Sector 3 Rohtak", "Sector 5 Rohtak", "Sector 14 Rohtak", "Sector 36 Rohtak", "Sunariya Kalan", "Model Town Rohtak", "Bhiwani Stand Area"]
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Why Partner With Our Network of Experienced Real Estate Agents in Sector 4",
@@ -146,6 +206,11 @@
       "Ready to buy sell or invest in the premium locality of Sector 4 Rohtak? Contact our trusted network today to be matched with an expert real estate professional who meets your specific needs and exceeds expectations.",
       "Provide us with a few details about your property requirements and we will ensure a top-rated local agent reaches out to you promptly to discuss your real estate goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

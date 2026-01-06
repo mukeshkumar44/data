@@ -17,9 +17,8 @@
       }
     ],
     "images": [
-      "dlf-phase-1-luxury-home-exterior.jpg",
-      "gurugram-skyline-view.jpg",
-      "agent-consulting-client.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -62,14 +61,56 @@
       "We provide detailed analyses on upcoming infrastructure improvements, current rental yields, and long-term appreciation forecasts for specific addresses within the community. Whether you prioritize proximity to the Golf Course Road Extension, easy access to key shopping hubs like Galleria Market, or quiet, green surroundings, we tailor our search to specific block dynamics for optimal results."
     ],
     "locations": [
-      "A Block DLF Phase 1",
-      "B Block DLF Phase 1",
-      "C Block DLF Phase 1",
-      "D Block DLF Phase 1",
-      "E Block DLF Phase 1",
-      "Qutab Enclave Phase 1",
-      "Near Galleria Market",
-      "DLF Mega Mall vicinity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

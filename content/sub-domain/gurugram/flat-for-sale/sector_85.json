@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Residential Flat Configurations and Sizes Available in Sector 85",
@@ -58,14 +61,56 @@
       "The sector is surrounded by leading educational institutions, ensuring quality schooling is just minutes away for your children. Additionally, world-class hospitals and major commercial shopping centers are well within easy reach, enhancing the convenience of daily life. The steady development of this area guarantees appreciation in property value, making your investment in a flat here sound and reliable. Experience the ease of modern suburban life without sacrificing urban connectivity when you choose Sector 85."
     ],
     "locations": [
-      "Close proximity to Delhi Metro Extension",
-      "Easy access to NH-44 and KMP Expressway",
-      "Surrounded by leading schools and universities",
-      "Near major healthcare facilities and specialty hospitals",
-      "Developed parkland and green open spaces",
-      "Proximity to upcoming commercial and IT hubs",
-      "Well-maintained sector infrastructure and roads",
-      "Secure and gated community environment"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

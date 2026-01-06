@@ -7,10 +7,19 @@
       "Start your search today and explore properties close to key commercial centers, top schools, and essential connectivity points like the Noida Sector 56 metro station. Our detailed listings feature real photos, transparent pricing, and comprehensive neighborhood insights ensuring you make an informed decision without the hassle often associated with house hunting. Secure the best rental properties in Sector 56 before they are gone"
     ],
     "buttons": [
-      { "label": "Explore Available Flats", "path": "/search" },
-      { "label": "Contact Rental Experts", "path": "/contact" }
+      {
+        "label": "Explore Available Flats",
+        "path": "/search"
+      },
+      {
+        "label": "Contact Rental Experts",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Range of Rental Flats and Apartments Available in Sector 56 Noida",
@@ -52,12 +61,56 @@
       "This established residential hub benefits from proximity to key metro stations on the Blue Line and the upcoming Aqua Line extensions further enhancing intercity connectivity. Whether you work in Sector 62 or need to access the bustling markets of Sector 18, Sector 56 Noida places you right at the heart of the action while maintaining a peaceful neighborhood atmosphere."
     ],
     "locations": [
-      "Sector 56 Metro Station (Blue Line)",
-      "Electronic City Noida (Sector 62)",
-      "Atta Market and Sector 18 Commercial Hub",
-      "DND Flyway Access Point",
-      "Fortis Hospital Noida",
-      "Local Shopping Centres and Malls"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

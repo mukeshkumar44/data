@@ -7,10 +7,19 @@
       "Stop wasting time searching through generic listings. Partner with a dedicated agent who understands the nuances of this exclusive micro-market. We focus on delivering value, comprehensive due diligence, and a seamless process from consultation to closing. Trust the leading property experts to unlock the best investment opportunities in South City 1. We are your dedicated property advisors in Gurugram."
     ],
     "buttons": [
-      { "label": "Find Your Dream Home Today", "path": "/properties/sale" },
-      { "label": "List Your Property with Us", "path": "/contact" }
+      {
+        "label": "Find Your Dream Home Today",
+        "path": "/properties/sale"
+      },
+      {
+        "label": "List Your Property with Us",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Exclusive Property Types and Investment Sizes Managed by Our Agents",
@@ -52,16 +61,56 @@
       "Whether you are interested in the premium offerings of neighboring sectors or high-growth areas further along the Golf Course Road Extension, our real estate agents are equipped with the data and local insights needed to guide your decision-making across Gurugram’s major residential hubs."
     ],
     "locations": [
-      "DLF Phase 4",
-      "Sector 29 Gurugram",
-      "Sushant Lok 1",
-      "Sector 43",
-      "Golf Course Road",
-      "Sector 56",
-      "Sector 57",
-      "Sector 52",
-      "Artemis",
-      "Nirvana Country"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

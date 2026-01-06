@@ -17,9 +17,8 @@
       }
     ],
     "images": [
-      "flat_exterior_palam",
-      "living_room_rental",
-      "palam_vihar_map"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -62,14 +61,56 @@
       "We provide listings that span across Palam Vihar Extension and its immediate surroundings ensuring you have access to the best available rental opportunities within this bustling region. Explore these well-connected satellite locations for diverse rental choices."
     ],
     "locations": [
-      "Palam Vihar Main",
-      "New Palam Vihar Phase 1",
-      "Sector 23 Gurugram Residential",
-      "Dwarka Expressway Access Points",
-      "Rajiv Nagar",
-      "Basai Enclave",
-      "Sadar Bazaar proximity",
-      "Bijwasan connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -128,8 +169,7 @@
       {
         "question": "Are maintenance charges included in the rent or paid separately",
         "answer": "Maintenance charges vary significantly depending on the society or building type. In integrated residential societies the monthly maintenance fee covering common area upkeep lift electricity and security is often paid separately by the tenant directly to the Resident Welfare Association RWA. If you opt for an independent builder floor the maintenance structure might be simpler or included partially in the rent so always confirm this detail before signing the final agreement."
-      }
-      ,
+      },
       {
         "question": "Is Palam Vihar Extension a safe neighborhood for families and single women",
         "answer": "Yes Palam Vihar Extension is generally considered a very safe and established residential area. The locality benefits from active resident associations and most modern complexes feature robust security measures including gated access 24/7 security guards and CCTV surveillance. Its proximity to established residential sectors also contributes to a stable and secure living environment suitable for all demographics including families and single female professionals."

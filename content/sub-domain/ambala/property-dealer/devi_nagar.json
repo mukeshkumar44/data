@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero_devi_nagar_flats.jpg",
-      "map_devi_nagar_property.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,13 +61,56 @@
       "This integrated approach means our clients never miss out on emerging opportunities. We cover residential hubs with excellent connectivity established infrastructure and proximity to schools and hospitals. Trust the most comprehensive Property Dealer in Devi Nagar and surrounding Ambala regions to guide your search."
     ],
     "locations": [
-      "Patel Nagar Ambala",
-      "Indira Colony Ambala",
-      "Model Town Ambala",
-      "Baldev Nagar Ambala",
-      "Housing Board Colony Ambala",
-      "Sector 7 Ambala",
-      "Ambala Cantt Property Market"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

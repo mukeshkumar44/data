@@ -7,12 +7,18 @@
       "Our featured agents specialize in all aspects of the Chandan Vihar property landscape. From navigating legal paperwork to precise property valuations and expert negotiation we ensure your entire real estate journey is smooth efficient and highly profitable. Start your search for exceptional living or investment opportunities today with a trusted professional by your side."
     ],
     "buttons": [
-      { "label": "Get Free Consultation", "path": "/consultation" },
-      { "label": "View Property Listings", "path": "/listings" }
+      {
+        "label": "Get Free Consultation",
+        "path": "/consultation"
+      },
+      {
+        "label": "View Property Listings",
+        "path": "/listings"
+      }
     ],
     "images": [
-      "/images/chandan-vihar-hero.jpg",
-      "/images/agent-team.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Whether you are seeking a quiet residential street within Chandan Vihar itself or exploring investment opportunities in rapidly expanding nearby localities our agents offer unbiased informed advice. We cover all property types including independent houses flats commercial spaces and land plots ensuring comprehensive coverage of your investment needs within the greater Gurugram property market."
     ],
     "locations": [
-      "Pataudi Road",
-      "Sector 104 Gurugram",
-      "Sector 107 Gurugram",
-      "Sultanpur",
-      "Dhankot",
-      "Garhi Harsaru",
-      "Rampura",
-      "Hayatpur"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to take the next step in your property journey Whether you are buying selling or seeking expert advice our Chandan Vihar team is prepared to assist. Fill out the form below to receive a call back from a senior agent within the hour who can guide your next steps.",
       "Start your seamless property transaction experience today. We look forward to helping you achieve your real estate goals efficiently and successfully in Chandan Vihar Gurugram by connecting you with the best industry professionals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

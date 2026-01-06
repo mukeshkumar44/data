@@ -16,7 +16,10 @@
         "path": "/sector-2-map"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Selection of Flats For Rent in Sector 2 Matching Every Lifestyle Need",
@@ -58,14 +61,56 @@
       "The availability of local markets banks and recreational spots nearby adds immense value to the Flats For Rent in Sector 2. Tenants appreciate the seamless connectivity to the main Rohtak City centre while enjoying the comparatively quieter residential setting of Sector 2 making it a superior choice for long-term rental commitments."
     ],
     "locations": [
-      "Proximity to MDU University",
-      "Easy Access to Rohtak City Centre",
-      "Near Sector 1 & 3 Markets",
-      "Well-Connected to NH-9",
-      "Close to Major Hospitals and Clinics",
-      "Accessible Public Transport Stops",
-      "Nearby Banks and ATMs",
-      "Local Parks and Green Belts"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

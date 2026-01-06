@@ -7,12 +7,18 @@
       "Explore high-quality rental properties right now and benefit from transparent documentation and quick move-in processes. Whether you need proximity to schools, hospitals, or major transportation hubs, Ram Bagh provides superb location advantages. Start your search here to secure your next comfortable and conveniently located House For Rent in Ram Bagh Ambala without the hassle of dealing with unverified brokers or outdated listings."
     ],
     "buttons": [
-      { "label": "Explore Available Rental Houses", "path": "/listings" },
-      { "label": "Calculate Rental Deposit Estimate", "path": "/contact" }
+      {
+        "label": "Explore Available Rental Houses",
+        "path": "/listings"
+      },
+      {
+        "label": "Calculate Rental Deposit Estimate",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "ram-bagh-house-rental-hero-1.jpg",
-      "ram-bagh-house-rental-hero-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "We provide rentals that benefit from excellent road networks connecting Ram Bagh to neighboring areas like Ambala Cantt, Sector 7, and the Ambala City Railway Station. This superior connectivity makes living in Ram Bagh highly desirable for individuals working across the wider Ambala region, maximizing convenience and minimizing daily travel time."
     ],
     "locations": [
-      "Ambala City Main",
-      "Model Town Ambala",
-      "Sector 7 Ambala",
-      "Ambala Cantt",
-      "Manav Chowk Area",
-      "Kalka Chowk Ambala",
-      "Panchkula Connectivity Hubs",
-      "Nearby Schools and Educational Institutions"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

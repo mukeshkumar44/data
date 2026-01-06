@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-main-sector168.jpg",
-      "affordable-housing-noida.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Sector 168 is positioned for maximum future appreciation as it benefits directly from planned infrastructure developments and immediate access to the metro corridor, enhancing daily commuting ease for residents. Savvy investors recognize this sector’s long-term growth potential due to its proximity to established IT campuses and its direct link to key governmental projects, making every affordable house in Sector 168 a solid future asset."
     ],
     "locations": [
-      "Noida Expressway Access Points",
-      "Sector 137 Metro Station",
-      "FNG Expressway Intersection",
-      "Major Corporate IT Parks",
-      "Jaypee Hospital",
-      "Proximity to Kalindi Kunj Delhi",
-      "Upcoming Shopping Malls and Retail Hubs",
-      "Shaheed Bhagat Singh University"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

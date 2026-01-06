@@ -7,10 +7,19 @@
       "Located in a bustling area with high foot traffic, Jagadhri Gate is a hotspot for entrepreneurs and established businesses alike. With competitive rental rates and flexible lease terms, finding your dream shop has never been easier. Explore our curated selection today and take the first step toward growing your business in a thriving location."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/shops" },
-      { "label": "Contact Us", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/shops"
+      },
+      {
+        "label": "Contact Us",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Prime Commercial Spaces in Jagadhri Gate",
@@ -19,12 +28,30 @@
       "Each shop is strategically located to maximize visibility and accessibility, ensuring your business thrives in a competitive market. Whether you’re looking for a shop in a busy market or a quieter neighborhood, we have options to match your vision."
     ],
     "features": [
-      { "title": "Compact Shop Spaces", "description": "Ideal for boutique stores, small businesses, or startups, these compact shops offer affordability and convenience in prime locations." },
-      { "title": "Mid-Sized Retail Units", "description": "Perfect for medium-sized businesses, these shops provide ample space for inventory and customer interaction." },
-      { "title": "Large Commercial Spaces", "description": "Designed for established businesses or retail chains, these spacious units offer room for growth and expansion." },
-      { "title": "High Foot Traffic Areas", "description": "Shops located in bustling markets ensure maximum visibility and customer engagement." },
-      { "title": "Flexible Lease Terms", "description": "We offer customizable lease agreements to suit your business needs and budget." },
-      { "title": "Modern Amenities", "description": "Our shops come equipped with essential amenities to ensure smooth business operations." }
+      {
+        "title": "Compact Shop Spaces",
+        "description": "Ideal for boutique stores, small businesses, or startups, these compact shops offer affordability and convenience in prime locations."
+      },
+      {
+        "title": "Mid-Sized Retail Units",
+        "description": "Perfect for medium-sized businesses, these shops provide ample space for inventory and customer interaction."
+      },
+      {
+        "title": "Large Commercial Spaces",
+        "description": "Designed for established businesses or retail chains, these spacious units offer room for growth and expansion."
+      },
+      {
+        "title": "High Foot Traffic Areas",
+        "description": "Shops located in bustling markets ensure maximum visibility and customer engagement."
+      },
+      {
+        "title": "Flexible Lease Terms",
+        "description": "We offer customizable lease agreements to suit your business needs and budget."
+      },
+      {
+        "title": "Modern Amenities",
+        "description": "Our shops come equipped with essential amenities to ensure smooth business operations."
+      }
     ]
   },
   "locationsSection": {
@@ -34,14 +61,56 @@
       "Each area offers unique advantages, from high foot traffic to competitive rental rates. Whether you’re looking for a shop in a busy market or a quieter residential area, these locations provide excellent opportunities for growth."
     ],
     "locations": [
-      "Ambala Cantt Market",
-      "Sector 9 Ambala",
-      "Sector 7 Ambala",
-      "Naraingarh Road",
-      "Patel Nagar",
-      "Rajendra Park",
-      "Model Town Ambala",
-      "Railway Road Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -51,30 +120,84 @@
       "Our team is dedicated to helping you find the ideal shop that aligns with your business goals. From competitive rental rates to flexible lease terms, we ensure a seamless experience for our clients."
     ],
     "points": [
-      { "title": "Prime Location", "description": "Jagadhri Gate is centrally located with easy access to major roads and markets, making it ideal for businesses." },
-      { "title": "High Foot Traffic", "description": "The area attracts a large number of customers daily, ensuring steady business opportunities." },
-      { "title": "Affordable Rentals", "description": "We offer competitive rental rates to suit businesses of all sizes and budgets." },
-      { "title": "Flexible Lease Terms", "description": "Customizable lease agreements provide flexibility and convenience for our clients." },
-      { "title": "Modern Infrastructure", "description": "Shops in Jagadhri Gate come equipped with modern amenities for smooth operations." },
-      { "title": "Supportive Community", "description": "The local business community is collaborative and supportive, fostering growth and innovation." },
-      { "title": "Excellent Connectivity", "description": "Jagadhri Gate is well-connected to nearby cities and towns, ensuring easy logistics and accessibility." },
-      { "title": "Variety of Options", "description": "We offer a wide range of shop sizes and layouts to meet diverse business needs." }
+      {
+        "title": "Prime Location",
+        "description": "Jagadhri Gate is centrally located with easy access to major roads and markets, making it ideal for businesses."
+      },
+      {
+        "title": "High Foot Traffic",
+        "description": "The area attracts a large number of customers daily, ensuring steady business opportunities."
+      },
+      {
+        "title": "Affordable Rentals",
+        "description": "We offer competitive rental rates to suit businesses of all sizes and budgets."
+      },
+      {
+        "title": "Flexible Lease Terms",
+        "description": "Customizable lease agreements provide flexibility and convenience for our clients."
+      },
+      {
+        "title": "Modern Infrastructure",
+        "description": "Shops in Jagadhri Gate come equipped with modern amenities for smooth operations."
+      },
+      {
+        "title": "Supportive Community",
+        "description": "The local business community is collaborative and supportive, fostering growth and innovation."
+      },
+      {
+        "title": "Excellent Connectivity",
+        "description": "Jagadhri Gate is well-connected to nearby cities and towns, ensuring easy logistics and accessibility."
+      },
+      {
+        "title": "Variety of Options",
+        "description": "We offer a wide range of shop sizes and layouts to meet diverse business needs."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shop Rentals in Jagadhri Gate",
     "description": "Here are some common questions and answers to help you make an informed decision about renting a shop in Jagadhri Gate.",
     "faqs": [
-      { "question": "What types of shops are available for rent in Jagadhri Gate", "answer": "We offer a variety of shops, including compact spaces for small businesses, mid-sized retail units, and large commercial spaces for established businesses." },
-      { "question": "How do I find the right shop for my business", "answer": "Our team will work with you to understand your business needs and recommend shops that align with your goals and budget." },
-      { "question": "Are there any hidden charges in the rental agreement", "answer": "No, we ensure full transparency in our rental agreements, with all charges clearly outlined upfront." },
-      { "question": "Can I negotiate the rental terms", "answer": "Yes, we offer flexible lease terms and are open to negotiations to suit your business requirements." },
-      { "question": "What amenities are included with the shop", "answer": "Our shops come equipped with essential amenities such as electricity, water supply, and parking facilities." },
-      { "question": "Is Jagadhri Gate a good location for retail businesses", "answer": "Yes, Jagadhri Gate is a bustling area with high foot traffic, making it ideal for retail businesses." },
-      { "question": "How do I apply for a shop rental", "answer": "Simply contact us through our website or visit our office to start the application process." },
-      { "question": "What is the average rental rate for shops in Jagadhri Gate", "answer": "Rental rates vary depending on the size and location of the shop. Contact us for detailed pricing information." },
-      { "question": "Are there any restrictions on the type of business I can run", "answer": "Most shops are versatile and suitable for a wide range of businesses, but specific restrictions may apply based on local regulations." },
-      { "question": "How long does it take to finalize a rental agreement", "answer": "The process typically takes a few days, depending on the documentation and negotiations involved." }
+      {
+        "question": "What types of shops are available for rent in Jagadhri Gate",
+        "answer": "We offer a variety of shops, including compact spaces for small businesses, mid-sized retail units, and large commercial spaces for established businesses."
+      },
+      {
+        "question": "How do I find the right shop for my business",
+        "answer": "Our team will work with you to understand your business needs and recommend shops that align with your goals and budget."
+      },
+      {
+        "question": "Are there any hidden charges in the rental agreement",
+        "answer": "No, we ensure full transparency in our rental agreements, with all charges clearly outlined upfront."
+      },
+      {
+        "question": "Can I negotiate the rental terms",
+        "answer": "Yes, we offer flexible lease terms and are open to negotiations to suit your business requirements."
+      },
+      {
+        "question": "What amenities are included with the shop",
+        "answer": "Our shops come equipped with essential amenities such as electricity, water supply, and parking facilities."
+      },
+      {
+        "question": "Is Jagadhri Gate a good location for retail businesses",
+        "answer": "Yes, Jagadhri Gate is a bustling area with high foot traffic, making it ideal for retail businesses."
+      },
+      {
+        "question": "How do I apply for a shop rental",
+        "answer": "Simply contact us through our website or visit our office to start the application process."
+      },
+      {
+        "question": "What is the average rental rate for shops in Jagadhri Gate",
+        "answer": "Rental rates vary depending on the size and location of the shop. Contact us for detailed pricing information."
+      },
+      {
+        "question": "Are there any restrictions on the type of business I can run",
+        "answer": "Most shops are versatile and suitable for a wide range of businesses, but specific restrictions may apply based on local regulations."
+      },
+      {
+        "question": "How long does it take to finalize a rental agreement",
+        "answer": "The process typically takes a few days, depending on the documentation and negotiations involved."
+      }
     ]
   },
   "contactSection": {
@@ -83,6 +206,11 @@
       "Ready to find your dream shop in Jagadhri Gate? Get in touch with us today to explore our listings and schedule a visit.",
       "Our team is here to assist you every step of the way, from selecting the perfect shop to finalizing the rental agreement."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

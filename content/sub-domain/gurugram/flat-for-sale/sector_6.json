@@ -16,7 +16,10 @@
         "path": "/pricing-inquiry"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Flat Configurations and Sizes in sector 6 Gurugram",
@@ -58,14 +61,56 @@
       "This well-planned sector benefits from wide internal roads proximity to the Delhi-Mathura National Highway NH-44 and easy access to multiple Metro stations. Choosing a Flat For Sale in sector 6 places you at the center of convenience making it an intelligent decision for both comfortable living and investment growth potential."
     ],
     "locations": [
-      "Neelam Chowk Ajronda Metro Station Access",
-      "Proximity to National Highway 44",
-      "Major Educational Institutions Nearby",
-      "Top Rated Healthcare Facilities",
-      "Sector 7 Commercial Market",
-      "Easy Commute to Noida and Delhi",
-      "Badkhal Lake Area Recreation",
-      "Local Shopping Complexes and Malls"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

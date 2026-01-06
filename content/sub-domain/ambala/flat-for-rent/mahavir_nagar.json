@@ -7,12 +7,18 @@
       "Mahavir Nagar is celebrated for its excellent infrastructure, vibrant community life, and supreme connectivity to major business hubs and educational institutions. Starting your search for a Flat For Rent in Mahavir Nagar with us means you gain immediate insight into the most competitive rental market prices, crucial neighbourhood details, and smooth documentation processes. Stop navigating confusing listings and start viewing homes that truly meet your expectations. Your perfect rental apartment awaits you here."
     ],
     "buttons": [
-      { "label": "Search All Rental Flats", "path": "/search-flats" },
-      { "label": "Request a Callback", "path": "/contact" }
+      {
+        "label": "Search All Rental Flats",
+        "path": "/search-flats"
+      },
+      {
+        "label": "Request a Callback",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "mahavir-nagar-flat-exterior.jpg",
-      "mahavir-nagar-kitchen.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "We provide detailed property listings across all these key sub-localities ensuring you have a complete picture of the rental opportunities available. Explore where most successful renters are choosing to live within Mahavir Nagar today and why these locations are highly valued."
     ],
     "locations": [
-      "Jain Society Premium 3 BHK Rentals",
-      "Kandivali Link Road Proximity Flats",
-      "Dahisar Check Naka Accessible Homes",
-      "Sector 10 Residential Enclaves",
-      "Near D-Mart Affordable Rental Units",
-      "Charkop Village Connectivity Options",
-      "Borivali West Border Flats",
-      "Exclusive Gated Communities Mahavir Nagar"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to secure your ideal Flat For Rent in Mahavir Nagar? Contact our dedicated real estate experts today. We are here to provide personalized property tours, answer specific neighborhood questions, and guide you through every stage of the rental process.",
       "Fill out the quick inquiry form below and one of our local Mahavir Nagar rental advisors will be in touch within the hour to discuss your specific housing needs and preferences."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

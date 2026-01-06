@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Varied Residential Configurations and Sizes of Flats Available in Sector 26 Gurugram",
@@ -58,11 +61,56 @@
       "We recommend evaluating homes in these adjacent zones if your search for a Flat For Sale in sector 26 requires specific school proximity or immediate highway access. These areas often provide a mix of developed societies and emerging projects, offering diverse investment opportunities across various price points. Expanding your search circle ensures you do not miss out on a potential hidden gem."
     ],
     "locations": [
-      "Flat For Sale in Sector 27 Gurugram",
-      "Flat For Sale in Sector 28 Gurugram",
-      "Flat For Sale in Green Field Colony Gurugram",
-      "Flat For Sale in Sector 37 Gurugram",
-      "Flat For Sale in Sector 14 Gurugram"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

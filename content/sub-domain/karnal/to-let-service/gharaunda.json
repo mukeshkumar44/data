@@ -16,7 +16,10 @@
         "path": "/list-property"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Rental Property Options through Our To Let Service in Gharaunda Karnal",
@@ -58,14 +61,56 @@
       "Our local expertise ensures we can guide you toward emerging rental hotspots as well as well-established neighborhoods. Whether you need an office near the railway station or a quiet family home slightly away from the highway traffic, use our To let Service in Gharaunda to pinpoint the perfect area that aligns precisely with your specific needs and daily commute patterns."
     ],
     "locations": [
-      "Main Market Area Gharaunda",
-      "Near Railway Station Gharaunda",
-      "Shiv Colony Residential Area",
-      "Assandh Road Rental Blocks",
-      "National Highway 44 Commercial Belt",
-      "Bank Colony Area Rentals",
-      "Model Town Gharaunda",
-      "Kunjpura Road Extension"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

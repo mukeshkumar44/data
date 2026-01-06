@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "flat-sector9-exterior.jpg",
-      "flat-sector9-interior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "The infrastructure surrounding Sector 9 is robust supporting a comfortable modern life. Residents benefit from close proximity to renowned educational institutions like leading schools and colleges top-tier healthcare facilities including specialty hospitals and bustling commercial markets for daily needs. This convenience makes securing a Flat For Sale in Sector 9 not just a home purchase but an investment in a highly connected lifestyle. We provide detailed information on local amenities ensuring you settle into a neighborhood that truly meets all your requirements."
     ],
     "locations": [
-      "Ambala Cantt Railway Station Proximity",
-      "Easy Access to NH 44 and NH 152",
-      "Reputable Schools and Higher Education Campuses",
-      "Major Multispecialty Hospitals in Ambala",
-      "Sector 7 Commercial Market and Shopping Centers",
-      "Government Offices and Administrative Hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -89,8 +133,8 @@
         "description": "We offer a wide selection of both immediate possession flats and new under-construction projects allowing buyers to choose based on their readiness and financial planning. Whether you need a home today or prefer to invest in a growing property our listings for Flat For Sale in Sector 9 cater to both preferences efficiently."
       },
       {
-      "title": "Superior Security and Gated Communities",
-      "description": "Safety is paramount in Sector 9. Many complexes offer 24/7 manned security CCTV surveillance controlled access and gated entry points. Investing in a Flat For Sale in Sector 9 means securing a safe and tranquil environment for your family free from the concerns often associated with non-gated urban areas."
+        "title": "Superior Security and Gated Communities",
+        "description": "Safety is paramount in Sector 9. Many complexes offer 24/7 manned security CCTV surveillance controlled access and gated entry points. Investing in a Flat For Sale in Sector 9 means securing a safe and tranquil environment for your family free from the concerns often associated with non-gated urban areas."
       },
       {
         "title": "Modern Lifestyle Amenities Included",

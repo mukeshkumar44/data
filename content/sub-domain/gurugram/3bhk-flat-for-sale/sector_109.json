@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "3bhk-sector109-hero.jpg",
-      "dwarka-expressway-view.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -60,7 +60,58 @@
       "Sector 109 is perfectly positioned to leverage the immense infrastructural benefits of the Dwarka Expressway sometimes called the Northern Peripheral Road NPR. This placement ensures seamless connectivity to key areas of Delhi and Gurugram making the daily commute significantly easier for professionals and business owners. The strategic advantage of this sector is undeniable offering residents the best of both metropolitan centres.",
       "Beyond express connectivity the area boasts robust social infrastructure. Residents of 3BHK flats here benefit from proximity to reputed international schools top-tier healthcare facilities and burgeoning retail and commercial hubs. This self-sustaining ecosystem ensures that all essential services and luxury amenities are just a short drive away establishing Sector 109 as a premier residential address in Gurugram."
     ],
-    "locations": []
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Why Sector 109 is the Perfect Destination for Your New 3BHK Flat Investment",

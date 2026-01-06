@@ -7,10 +7,19 @@
       "We specialise in connecting serious investors and business owners with lucrative commercial properties including ground-floor retail shops and investment-grade office spaces. Investing in a shop for sale in Sector 45 now positions you perfectly to capitalise on the rapidly appreciating market value and excellent rental returns. Explore prime locations near residential hubs and main arterial roads to maximise visibility and profitability."
     ],
     "buttons": [
-      { "label": "View Prime Commercial Listings", "path": "/listings" },
-      { "label": "Calculate Potential Rental Yield", "path": "/calculator" }
+      {
+        "label": "View Prime Commercial Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Calculate Potential Rental Yield",
+        "path": "/calculator"
+      }
     ],
-    "images": ["/shop_noida45_main.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Ideal Commercial Unit Sizes for Retail Investment and Business Operations in Sector 45",
@@ -52,12 +61,56 @@
       "Understanding the surrounding commercial ecosystem is vital for maximising your shop's potential. Investment in this area benefits from integrated urban planning and easy access to major expressways making it a central hub for retail and corporate activity across Noida and Greater Noida."
     ],
     "locations": [
-      "Sector 46 Commercial Market",
-      "Sector 44 Institutional Area",
-      "Sector 37 Retail Hub",
-      "Botanical Garden Metro Connectivity",
-      "Atta Market and Sector 18 CBD Proximity",
-      "Wave City Center Noida"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to secure your high-return shop for sale in Sector 45 Noida? Contact our dedicated commercial real estate team now for personalised listings due diligence reports and investment advisory services.",
       "We simplify the process of commercial property acquisition ensuring you make an informed and profitable investment decision tailored to your specific financial goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

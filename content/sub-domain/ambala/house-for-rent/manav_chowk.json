@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "manav-chowk-house-rental.jpg",
-      "ambala-rental-hero.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "We highlight homes near key educational institutions like SD Vidya School and major health facilities, ensuring your daily commute is minimal. We also feature properties with easy access to the National Highway, ideal for those who commute out of Ambala frequently. Exploring these nearby residential hubs ensures you secure a rental that aligns perfectly with your lifestyle needs and professional requirements, all within minutes of the bustling Manav Chowk area. Let us guide you through the best spots for family living."
     ],
     "locations": [
-      "Near Manav Chowk Main Market",
-      "Houses Towards Model Town Ambala",
-      "Residential Houses near Jagadhri Road",
-      "Rental Homes close to Ambala City Railway Station",
-      "Properties near Baldev Nagar",
-      "Quiet Lanes near Central Gurudwara"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

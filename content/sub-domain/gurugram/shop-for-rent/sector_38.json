@@ -7,10 +7,19 @@
       "Browse our curated listings of shops available for rent ranging from small boutique storefronts to large anchor spaces. Every property listed provides clear details on floor plans amenities and rental terms ensuring a smooth and transparent transaction. Stop wasting time with outdated listings and partner with Sector 38's trusted commercial real estate experts to find the perfect shop that aligns with your business goals immediately."
     ],
     "buttons": [
-      { "label": "Explore Available Shops Now", "path": "/search-shops" },
-      { "label": "Schedule a Site Visit", "path": "/contact-us" }
+      {
+        "label": "Explore Available Shops Now",
+        "path": "/search-shops"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Various Shop For Rent Configurations in Sector 38 Gurugram",
@@ -52,12 +61,56 @@
       "We focus on shops situated in locations that guarantee high demographic support and logistical advantages. This includes areas near the main connecting road to Sector 37 and localized commercial hubs within Sector 38 itself known for high consumer spending power and superior infrastructure ensuring optimal performance for your new rented commercial space."
     ],
     "locations": [
-      "Sector 38 Main Market Hub",
-      "Proximity to National Highway 19",
-      "Commercial Strip connecting Sector 37",
-      "Local Shopping Centres within Sector 38",
-      "Areas near prominent Schools and Hospitals",
-      "Retail spaces close to major residential societies"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to secure the perfect commercial space that drives your business forward? Our dedicated team of Sector 38 real estate specialists is standing by to provide personalized advice and showcase properties that meet your exact specifications.",
       "Fill out the inquiry form below detailing your requirements size preferences and budget. We ensure prompt communication and swift site visits focusing on delivering optimal commercial solutions without delay."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

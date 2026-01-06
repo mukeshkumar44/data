@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero_2bhk_jalvayuvihar.jpg",
-      "gated_community_noida.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "Residents enjoy incredible proximity to the vibrant Sector 18 Market and popular modern malls, offering endless shopping, dining, and premium entertainment options right around the corner. We exclusively list properties that leverage this excellent location, successfully minimizing daily commute times and maximizing your quality of life at home. Understanding the locale and its infrastructure is just as important as the flat itself. Explore the interconnected advantages of purchasing your 2BHK apartment in this thriving, well-maintained community."
     ],
     "locations": [
-      "Near DND Flyway",
-      "Proximity to Metro Stations",
-      "Access to Reputable Schools",
-      "Close to Major Hospitals",
-      "Shopping Malls and Markets",
-      "IT and Commercial Hub Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "3bhk_sector50_hero1.jpg",
-      "3bhk_sector50_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "The robust infrastructure supporting this area, combined with the presence of renowned developers and established residential communities, solidifies Sector 50 as a prime choice for investing in a 3BHK flat. Explore how this location provides immediate access to the entire NCR region."
     ],
     "locations": [
-      "Golf Course Extension Road Access",
-      "Sohna Road Commercial Hub",
-      "Huda City Centre Metro Station Access",
-      "Malls and Retail Centers like Omaxe Celebration Mall",
-      "Proximity to American Montessori Public School",
-      "Rapid connectivity to NH 48 Delhi Jaipur Highway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,10 +7,19 @@
       "Explore the best opportunities to own a shop for sale in Sector 117 Noida a marketplace known for its modern infrastructure and excellent connectivity. Whether you are looking to launch a new brand expand an existing business or acquire a lucrative rental asset these commercial spaces are built to surpass modern retail demands. Discover properties that promise appreciation growth and security for years to come. Connect with our expert team to get personalised insights into the Sector 117 commercial market."
     ],
     "buttons": [
-      { "label": "View All Shop Listings", "path": "/listings" },
-      { "label": "Download Investment Brochure", "path": "/brochure" }
+      {
+        "label": "View All Shop Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Download Investment Brochure",
+        "path": "/brochure"
+      }
     ],
-    "images": ["hero_shop_117_1.jpg", "hero_shop_117_2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Inventory Explore the Best Types of Shop For Sale in Sector 117 Noida",
@@ -52,12 +61,56 @@
       "Our team provides comprehensive market analysis covering critical nearby investment locations including Sectors 118 119 and 120 all contributing to the strong commercial ecosystem. This regional view helps investors make informed decisions recognizing that the success of a shop in Sector 117 is directly enhanced by the economic vitality of its neighbours. Discover strategic locations that promise strong long-term commercial returns supported by robust infrastructure and planned development."
     ],
     "locations": [
-      "Sector 118 Commercial Hub",
-      "Sector 119 Retail Corridors",
-      "Sector 120 High Street Markets",
-      "FNG Expressway Connectivity Zone",
-      "Central Noida Commercial District",
-      "Residential Clusters of Sector 7x Noida"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to secure your high-performing shop for sale in Sector 117 Noida. Our team of commercial specialists is on hand to provide personalized consultations detailed project reports and exclusive site visits. Don't miss out on prime inventory that is rapidly being absorbed by savvy investors.",
       "Submit your details now to receive tailored investment proposals based on your budget and risk appetite. Let us help you convert commercial opportunity into guaranteed asset growth."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

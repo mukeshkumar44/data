@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "dev-colony-house-exterior.jpg",
-      "rental-living-room-rohtak.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Key amenities are always within easy reach including reputable schools like MDN Public School and leading medical facilities such as PGIMS Rohtak which is only a short drive away. Furthermore, Dev Colony provides convenient access to local markets, parks, and recreational centers ensuring a balanced lifestyle for everyone. Explore our map of key locations to see just how perfectly situated your new rental home will be in Dev Colony Rohtak."
     ],
     "locations": [
-      "MDN Public School",
-      "PGIMS Medical Campus",
-      "Rohtak Railway Station",
-      "Sector 1 Market Area",
-      "Maharshi Dayanand University (MDU)",
-      "Delhi Road Connectivity",
-      "Local Banks and ATMs",
-      "Grocery and Daily Needs Stores"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

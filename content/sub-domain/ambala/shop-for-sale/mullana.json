@@ -7,10 +7,19 @@
       "Explore a wide range of shops in Mullana, strategically located near residential colonies, markets, and educational institutions. With flexible sizes and affordable prices, our properties are designed to help you achieve your business goals. Start your journey today and secure your dream shop in Mullana."
     ],
     "buttons": [
-      { "label": "View Listings", "path": "/" },
-      { "label": "Contact Us", "path": "/" }
+      {
+        "label": "View Listings",
+        "path": "/"
+      },
+      {
+        "label": "Contact Us",
+        "path": "/"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Shop Sizes Available in Mullana",
@@ -19,12 +28,30 @@
       "Each shop is designed with modern amenities and is located in high-traffic areas, ensuring maximum visibility and profitability for your business. Browse our available sizes and find the perfect fit for your needs."
     ],
     "features": [
-      { "title": "4 Marla Plot", "description": "Ideal for small businesses or startups, this compact shop offers affordability and convenience in prime locations." },
-      { "title": "6 Marla Plot", "description": "Perfect for medium-sized businesses, this shop provides ample space and excellent visibility in bustling areas." },
-      { "title": "8 Marla Plot", "description": "A spacious shop designed for growing businesses, offering flexibility and modern amenities." },
-      { "title": "10 Marla Plot", "description": "Suitable for larger enterprises, this shop ensures maximum space and high footfall in premium locations." },
-      { "title": "12 Marla Plot", "description": "An expansive shop for established businesses, providing unmatched visibility and accessibility." },
-      { "title": "14 Marla Plot", "description": "The ultimate commercial space for large-scale operations, designed for success in prime Mullana areas." }
+      {
+        "title": "4 Marla Plot",
+        "description": "Ideal for small businesses or startups, this compact shop offers affordability and convenience in prime locations."
+      },
+      {
+        "title": "6 Marla Plot",
+        "description": "Perfect for medium-sized businesses, this shop provides ample space and excellent visibility in bustling areas."
+      },
+      {
+        "title": "8 Marla Plot",
+        "description": "A spacious shop designed for growing businesses, offering flexibility and modern amenities."
+      },
+      {
+        "title": "10 Marla Plot",
+        "description": "Suitable for larger enterprises, this shop ensures maximum space and high footfall in premium locations."
+      },
+      {
+        "title": "12 Marla Plot",
+        "description": "An expansive shop for established businesses, providing unmatched visibility and accessibility."
+      },
+      {
+        "title": "14 Marla Plot",
+        "description": "The ultimate commercial space for large-scale operations, designed for success in prime Mullana areas."
+      }
     ]
   },
   "locationsSection": {
@@ -34,7 +61,56 @@
       "Explore our top locations and find the perfect spot for your shop. Each area offers unique advantages, from high footfall to proximity to key amenities. Start your search today and secure your business’s future."
     ],
     "locations": [
-      "Ambala Cantt", "Shahzadpur", "Barara", "Naraingarh", "Jagadhri", "Mustafabad", "Saha", "Panjokhra"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -44,30 +120,84 @@
       "With prime locations, modern amenities, and affordable prices, our properties are tailored to help you succeed. Trust us to guide you through every step of the process and make your business dreams a reality."
     ],
     "points": [
-      { "title": "Prime Locations", "description": "Our shops are located in high-traffic areas, ensuring maximum visibility and profitability for your business." },
-      { "title": "Flexible Sizes", "description": "We offer a variety of shop sizes to meet your specific needs, from compact spaces to larger commercial areas." },
-      { "title": "Modern Amenities", "description": "Each shop is equipped with modern amenities, providing a comfortable and efficient environment for your business." },
-      { "title": "Affordable Prices", "description": "Our listings are competitively priced, making it easier for you to invest in your business’s future." },
-      { "title": "Expert Guidance", "description": "Our team of professionals is here to guide you through every step of the process, ensuring a smooth and hassle-free experience." },
-      { "title": "High Footfall", "description": "Our shops are located in bustling areas, ensuring a steady stream of customers for your business." },
-      { "title": "Proximity to Amenities", "description": "Our shops are close to residential colonies, markets, and educational institutions, making them highly convenient for customers." },
-      { "title": "Customizable Options", "description": "We offer customizable shop options, allowing you to design a space that perfectly suits your business needs." }
+      {
+        "title": "Prime Locations",
+        "description": "Our shops are located in high-traffic areas, ensuring maximum visibility and profitability for your business."
+      },
+      {
+        "title": "Flexible Sizes",
+        "description": "We offer a variety of shop sizes to meet your specific needs, from compact spaces to larger commercial areas."
+      },
+      {
+        "title": "Modern Amenities",
+        "description": "Each shop is equipped with modern amenities, providing a comfortable and efficient environment for your business."
+      },
+      {
+        "title": "Affordable Prices",
+        "description": "Our listings are competitively priced, making it easier for you to invest in your business’s future."
+      },
+      {
+        "title": "Expert Guidance",
+        "description": "Our team of professionals is here to guide you through every step of the process, ensuring a smooth and hassle-free experience."
+      },
+      {
+        "title": "High Footfall",
+        "description": "Our shops are located in bustling areas, ensuring a steady stream of customers for your business."
+      },
+      {
+        "title": "Proximity to Amenities",
+        "description": "Our shops are close to residential colonies, markets, and educational institutions, making them highly convenient for customers."
+      },
+      {
+        "title": "Customizable Options",
+        "description": "We offer customizable shop options, allowing you to design a space that perfectly suits your business needs."
+      }
     ]
   },
   "faqSection": {
     "title": "FAQs About Buying a Shop in Mullana",
     "description": "Here are some frequently asked questions about purchasing a shop in Mullana. If you have additional queries, feel free to contact us.",
     "faqs": [
-      { "question": "What are the benefits of buying a shop in Mullana", "answer": "Mullana offers prime commercial locations with high footfall, modern amenities, and proximity to residential colonies and markets, making it an ideal place for businesses." },
-      { "question": "What sizes of shops are available", "answer": "We offer a variety of shop sizes, ranging from 4 Marla to 14 Marla, catering to businesses of all sizes and needs." },
-      { "question": "Are the shops located in high-traffic areas", "answer": "Yes, our shops are strategically located in bustling areas, ensuring maximum visibility and profitability for your business." },
-      { "question": "Can I customize the shop according to my needs", "answer": "Yes, we offer customizable shop options, allowing you to design a space that perfectly suits your business requirements." },
-      { "question": "What amenities are included with the shops", "answer": "Our shops come equipped with modern amenities, ensuring a comfortable and efficient environment for your business." },
-      { "question": "How can I finance the purchase of a shop", "answer": "We offer flexible financing options and can guide you through the process to ensure a smooth and hassle-free purchase." },
-      { "question": "What is the price range for shops in Mullana", "answer": "Our shops are competitively priced, with options available to suit various budgets and business needs." },
-      { "question": "How do I start the process of buying a shop", "answer": "Simply contact us or view our listings online to start the process. Our team will guide you through every step." },
-      { "question": "Are there any legal formalities involved", "answer": "Yes, there are legal formalities involved in purchasing a shop. Our team will assist you in completing all necessary documentation." },
-      { "question": "What support do you offer after the purchase", "answer": "We provide ongoing support, including guidance on customization, marketing, and other aspects to ensure your business’s success." }
+      {
+        "question": "What are the benefits of buying a shop in Mullana",
+        "answer": "Mullana offers prime commercial locations with high footfall, modern amenities, and proximity to residential colonies and markets, making it an ideal place for businesses."
+      },
+      {
+        "question": "What sizes of shops are available",
+        "answer": "We offer a variety of shop sizes, ranging from 4 Marla to 14 Marla, catering to businesses of all sizes and needs."
+      },
+      {
+        "question": "Are the shops located in high-traffic areas",
+        "answer": "Yes, our shops are strategically located in bustling areas, ensuring maximum visibility and profitability for your business."
+      },
+      {
+        "question": "Can I customize the shop according to my needs",
+        "answer": "Yes, we offer customizable shop options, allowing you to design a space that perfectly suits your business requirements."
+      },
+      {
+        "question": "What amenities are included with the shops",
+        "answer": "Our shops come equipped with modern amenities, ensuring a comfortable and efficient environment for your business."
+      },
+      {
+        "question": "How can I finance the purchase of a shop",
+        "answer": "We offer flexible financing options and can guide you through the process to ensure a smooth and hassle-free purchase."
+      },
+      {
+        "question": "What is the price range for shops in Mullana",
+        "answer": "Our shops are competitively priced, with options available to suit various budgets and business needs."
+      },
+      {
+        "question": "How do I start the process of buying a shop",
+        "answer": "Simply contact us or view our listings online to start the process. Our team will guide you through every step."
+      },
+      {
+        "question": "Are there any legal formalities involved",
+        "answer": "Yes, there are legal formalities involved in purchasing a shop. Our team will assist you in completing all necessary documentation."
+      },
+      {
+        "question": "What support do you offer after the purchase",
+        "answer": "We provide ongoing support, including guidance on customization, marketing, and other aspects to ensure your business’s success."
+      }
     ]
   },
   "contactSection": {
@@ -76,6 +206,11 @@
       "Ready to buy a shop in Mullana? Our team is here to assist you every step of the way. Whether you have questions or need guidance, we’re just a call or message away.",
       "Fill out the form below, and we’ll get back to you promptly. Let us help you find the perfect shop for your business and ensure a smooth and hassle-free experience."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

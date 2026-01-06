@@ -7,10 +7,19 @@
       "We understand that finding the perfect rental property involves more than just location; it requires transparent dealings and prompt service. Explore our comprehensive portfolio of 1 BHK 2 BHK and 3 BHK rental apartments designed for bachelors families and working professionals alike. Secure your dream home in Sector 83 today with hassle-free documentation and dedicated support from our expert real estate team."
     ],
     "buttons": [
-      { "label": "View Available Listings", "path": "/listings" },
-      { "label": "Schedule A Visit", "path": "/contact" }
+      {
+        "label": "View Available Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule A Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Find Your Perfect Rental Flat in sector 83 Gurugram Tailored to Every Modern Lifestyle Need",
@@ -52,12 +61,56 @@
       "Beyond infrastructure Sector 83 is a hub of essential social amenities. Residents benefit from easy access to leading educational institutions world-class healthcare facilities and vibrant commercial centers and malls. This perfect blend of superior connectivity and immediate access to necessary services establishes Sector 83 as one of the most resident-friendly and desirable areas for renting quality apartments in Gurugram."
     ],
     "locations": [
-      "Proximity to NH-19 and Delhi-Agra Expressway",
-      "Quick Access to Metro Station for City Travel",
-      "Nearby Reputable Schools and Universities",
-      "Major Shopping Malls and Entertainment Zones",
-      "Immediate Access to Corporate Business Parks",
-      "Well-maintained Local Roads and Infrastructure"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Don't miss out on the best rental opportunities in Sector 83 Gurugram. Our expert property advisors are standing by to offer personalized viewings and answer all your specific questions about available apartments.",
       "Get in touch now to discuss your requirements whether you need a 1 BHK or a luxurious 3 BHK flat. We guarantee professional service and seamless support throughout your journey to finding your perfect rental home."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

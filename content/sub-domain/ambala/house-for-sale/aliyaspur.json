@@ -7,10 +7,19 @@
       "Buying a house in Aliyaspur is not just a transaction it is an investment in stability and growth. Enjoy immediate occupancy in secure neighborhoods where essential services connectivity to Ambala Cantt and proximity to key infrastructure are guaranteed. Explore our exclusive inventory of independent houses villas and row houses available today and take the first step toward securing your future in one of Ambala’s most promising areas."
     ],
     "buttons": [
-      { "label": "View Available Houses", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View Available Houses",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/aliaspur_house_hero1.jpg", "/images/aliaspur_house_hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring the Diverse Range of House Sizes and Configurations Available in Aliyaspur Ambala",
@@ -52,14 +61,56 @@
       "The proximity to Ambala Cantt and the national highway system drastically reduces travel time to Chandigarh Delhi and surrounding industrial areas. Furthermore, the neighborhood boasts excellent local infrastructure including reliable power supply clean water systems and robust security protocols. Investing in a house here means prioritizing both connectivity and community comfort."
     ],
     "locations": [
-      "Proximity to Ambala Cantt Railway Station",
-      "Easy Access to National Highway 44",
-      "Nearby Reputed Schools and Colleges",
-      "Close to Major Healthcare Facilities",
-      "Minutes from Local Markets and Shopping Centers",
-      "Developed Roads and Drainage Systems",
-      "Quick Access to Industrial Areas",
-      "Well-maintained Parks and Green Spaces"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure your dream House For Sale in Aliyaspur Ambala? Contact our specialized real estate team for personalized property consultation and to schedule an exclusive site visit.",
       "We provide expert guidance on pricing legal documentation and financing options ensuring a seamless and enjoyable home buying experience."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

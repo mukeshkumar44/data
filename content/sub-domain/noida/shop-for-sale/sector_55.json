@@ -7,10 +7,19 @@
       "Sector 55 offers modern commercial complexes and dedicated market spaces perfect for retail outlets restaurants and office setups. Whether you are a seasoned investor seeking reliable income streams or an entrepreneur looking for the ideal launchpad choosing commercial property here guarantees proximity to established residential sectors superior infrastructure and seamless connectivity. Start your search now to capitalize on the rising value of Sector 55 commercial real estate."
     ],
     "buttons": [
-      { "label": "Explore Available Shops", "path": "/listings" },
-      { "label": "Request Pricing Guide", "path": "/contact" }
+      {
+        "label": "Explore Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Guide",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Shop Formats Available for Sale in Prime Sector 55 Noida",
@@ -52,14 +61,56 @@
       "The sector boasts immediate access to major arterial roads connecting it quickly to Delhi Ghaziabad and other key Noida sectors. Proximity to metro stations and well-developed road networks translates to ease of commute for employees and customers alike. Furthermore the sector benefits from state-of-the-art civic infrastructure including reliable power backup ample parking and robust security measures all contributing to a seamless operational environment for commercial enterprises. This strategic positioning solidifies Sector 55 as a top choice for serious commercial investors."
     ],
     "locations": [
-      "Proximity to Noida Expressway",
-      "Excellent Metro Connectivity",
-      "Near Major Residential Societies",
-      "Direct access to Sector 54 and Sector 56",
-      "Well-developed internal road network",
-      "Close to major institutional areas",
-      "High density residential catchment area",
-      "Quick drive to proposed entertainment hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

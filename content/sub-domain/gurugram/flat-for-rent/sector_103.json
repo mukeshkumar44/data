@@ -7,10 +7,19 @@
       "We feature a curated selection of rental apartments ranging from compact studio units to expansive 3 BHK residences, all meticulously verified for quality and transparent rental agreements. Stop wasting time scrolling through unverified listings. Our platform provides the latest and most comprehensive inventory of ready-to-move flats, ensuring you find a property that perfectly matches your lifestyle needs and budget constraints in this thriving corner of Gurugram."
     ],
     "buttons": [
-      { "label": "Browse All Rental Listings", "path": "/listings/sector 103/flats" },
-      { "label": "Schedule a Property Viewing", "path": "/contact-us" }
+      {
+        "label": "Browse All Rental Listings",
+        "path": "/listings/sector 103/flats"
+      },
+      {
+        "label": "Schedule a Property Viewing",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring the Diverse Flat Configurations Available for Rent in sector 103 Gurugram",
@@ -52,12 +61,56 @@
       "Renting a flat here means you are never far from convenience. From quality educational institutions and specialized healthcare facilities to vibrant shopping hubs and recreational parks, sector 103 is designed for modern living. Explore the key landmarks and connectivity points that make living in a Flat For Rent in sector 103 a smart, strategic choice for any potential tenant."
     ],
     "locations": [
-      "Easy Access to Nearest Metro Station",
-      "Proximity to Major NH-44 Highway",
-      "Reputed Schools and Educational Institutes",
-      "Leading Hospitals and Healthcare Centres",
-      "Local Markets and Daily Shopping Complexes",
-      "Community Parks and Recreational Spaces"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to find the ideal rental apartment in sector 103 Gurugram We are here to guide you every step of the way, offering personalized assistance and expert advice tailored to your needs.",
       "Fill out the form below with your requirements, including preferred size, budget range, and move-in date, and our sector 103 rental specialists will contact you immediately with suitable, verified options."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

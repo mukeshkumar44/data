@@ -7,10 +7,19 @@
       "We provide comprehensive listings of verified rental properties covering all segments including independent homes, modern apartments, and essential commercial spaces. Sadar Bazar is the heart of business and residential life in Karnal and securing the right rental agreement here is crucial. Start your stress-free rental journey with us today and find the perfect property that meets your specific location and budget needs without delay."
     ],
     "buttons": [
-      { "label": "Explore Residential Rentals", "path": "/residential" },
-      { "label": "List Your Commercial Property", "path": "/list-property" }
+      {
+        "label": "Explore Residential Rentals",
+        "path": "/residential"
+      },
+      {
+        "label": "List Your Commercial Property",
+        "path": "/list-property"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Rental Property Types Available Through Our To let Service in Sadar Bazar",
@@ -52,12 +61,56 @@
       "We provide detailed location insights ensuring you know the commuting times public transport access and neighborhood amenities before finalizing a property. Explore rentals in these high-demand zones which offer excellent value close to the commercial heart of Karnal."
     ],
     "locations": [
-      "Atlas Road Residential Area",
-      "Kunjpura Road Connectivity",
-      "Near Railway Station Apartments",
-      "Sector 7 Commercial Pockets",
-      "Main Market Lane Sadar Bazar",
-      "Model Town Extension Listings"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to secure your ideal residential flat or high-impact commercial space in the thriving Sadar Bazar area Karnal. Contact our expert team now for immediate assistance and personalized property viewing appointments.",
       "Use the form below to share your requirements and one of our dedicated To let agents will reach out within hours to start your successful property search."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

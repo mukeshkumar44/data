@@ -7,10 +7,19 @@
       "We simplify your rental journey by providing verified listings of 1 BHK 2 BHK and 3 BHK flats that match your lifestyle and budget. Our listings include detailed property descriptions high-resolution photos and transparent pricing ensuring you have all the information needed to make an informed decision. Start exploring affordable and comfortable rental properties in Durga Nagar today and secure your perfect new home quickly. We handle the paperwork negotiation and verification process so you can move in with complete peace of mind."
     ],
     "buttons": [
-      { "label": "Browse All Rental Listings", "path": "/search-flats" },
-      { "label": "Request a Callback", "path": "/contact" }
+      {
+        "label": "Browse All Rental Listings",
+        "path": "/search-flats"
+      },
+      {
+        "label": "Request a Callback",
+        "path": "/contact"
+      }
     ],
-    "images": ["/img/hero-durgarnagar1.jpg", "/img/hero-durgarnagar2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore the Diverse Range of Flats Available For Rent in Durga Nagar Ambala Today",
@@ -52,14 +61,56 @@
       "The neighbourhood itself is characterized by well-maintained streets local parks and proximity to reputable schools and healthcare facilities. Exploring the nearby areas not only broadens your rental options but also helps you understand the full connectivity advantages of making Durga Nagar your home base in Ambala."
     ],
     "locations": [
-      "Model Town Ambala",
-      "Sector 7 Ambala",
-      "Prem Nagar Ambala",
-      "Ambala Cantt Railway Station Road",
-      "Baldev Nagar Ambala",
-      "Police Line Ambala",
-      "Luxmi Nagar Ambala",
-      "Sector 8 Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Securing the best Flat For Rent in Durga Nagar Ambala should be an easy and exciting process not a stressful one. Let our dedicated team of local rental experts guide you through every step from initial search to final key handover.",
       "Tell us your requirements size budget and preferred move-in date and we will curate a personalized shortlist of verified properties just for you. Contact us today to begin your seamless rental journey."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

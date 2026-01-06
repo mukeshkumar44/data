@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-palam-vihar-h-1.jpg",
-      "hero-palam-vihar-h-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,13 +61,56 @@
       "This area serves as a gateway connecting Old Gurugram with the airport road via the Dwarka Expressway, significantly reducing commute times to both Delhi and the commercial heart of Gurugram. Nearby Sector 21 Dwarka, though technically in Delhi, is functionally part of the Palam Vihar catchment, providing access to metro connectivity and international standard schools. Its integrated planning means quick access to essential services like recognized hospitals and well-maintained parks, making the decision to buy house in Palam Vihar Pocket H a comprehensive lifestyle choice supported by excellent regional connectivity and high infrastructural standards across the Palam Vihar area."
     ],
     "locations": [
-      "Palam Vihar Extension",
-      "Sector 2 Gurugram",
-      "Sector 3 Gurugram",
-      "Sector 23 Gurugram",
-      "Dwarka Expressway Access",
-      "Mahavir Enclave Delhi",
-      "Nawada Housing Complex"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

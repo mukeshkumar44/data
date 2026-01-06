@@ -7,10 +7,19 @@
       "Choosing a flat here means investing in a future of comfortable and sustainable urban living. We showcase a curated selection of properties ranging from elegant 2 BHK units perfect for young families to expansive 4 BHK luxury residences designed for executive lifestyles. Our portfolio includes both ready-to-move-in options and new launch projects offering attractive payment plans tailored to suit your financial goals. Secure your perfect home in Sector 133 Noida today before property values appreciate significantly in this high-demand zone."
     ],
     "buttons": [
-      { "label": "Explore Ready-to-Move Flats", "path": "/ready-to-move" },
-      { "label": "Download Latest Price List", "path": "/contact" }
+      {
+        "label": "Explore Ready-to-Move Flats",
+        "path": "/ready-to-move"
+      },
+      {
+        "label": "Download Latest Price List",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero-image-133-1.jpg", "hero-image-133-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Diverse Residential Flat Configurations Available in Sector 133 Noida",
@@ -52,14 +61,56 @@
       "This section highlights nearby zones and important landmarks that contribute to the high investment value and livability of flats available in Sector 133. The proximity to commercial centers and forthcoming infrastructure projects confirms this sector's status as a premium residential address in Noida."
     ],
     "locations": [
-      "Noida Expressway Access",
-      "Sector 137 Metro Station",
-      "FNG Expressway",
-      "Amity University Noida",
-      "Gautam Buddha University",
-      "Advant Navis Business Park",
-      "Jaypee Hospital",
-      "Worlds of Wonder Amusement Park"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to find the perfect Flat For Sale in Sector 133 Noida? Our dedicated real estate advisors possess deep market knowledge of this sector and can provide personalized recommendations based on your budget, configuration needs, and investment goals.",
       "Fill out the contact form below to schedule a site visit, get detailed floor plans, and receive the latest inventory and pricing updates directly in your inbox. We ensure a seamless and professional home buying experience."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,10 +7,19 @@
       "The market for a Shop For Sale in Sector 121 is exceptionally strong, driven by robust infrastructure, excellent connectivity to the main Noida Expressway, and proximity to major IT hubs. Whether you are planning a startup venture, expanding an existing brand, or seeking stable rental income, our portfolio offers diverse retail unit sizes and configurations tailored to every investor's requirement. Connect with us today to explore exclusive listings and capitalize on the commercial growth wave in Sector 121 Noida."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/listings" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Retail and Commercial Shop Options in Sector 121 Noida",
@@ -52,12 +61,56 @@
       "The connectivity map includes easy access to the FNG Expressway, the Noida-Greater Noida Expressway, and the proposed metro extensions, positioning Sector 121 as a future transit hub. This robust connectivity not only guarantees high footfall today but also ensures sustained commercial appreciation in the coming years. Investors seeking a resilient Shop For Sale in Sector 121 Noida are betting on unparalleled access to major neighboring sectors and a rapidly growing workforce."
     ],
     "locations": [
-      "Proximity to Sector 50 and 78 Residential Hubs",
-      "Direct Access to the FNG Expressway",
-      "Quick Commute to Sector 62 IT Hub",
-      "Near Proposed Metro Stations",
-      "Surrounded by High-Density Group Housing",
-      "Easy Connection to Ghaziabad and Delhi via Bypass"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,7 +206,11 @@
       "Ready to secure a highly profitable Shop For Sale in Sector 121 Noida Get in touch with our expert team immediately. We provide tailored solutions, exclusive listing access, and end-to-end transaction support, ensuring your investment is seamless and strategically sound.",
       "Fill out the form below to receive personalized advice, detailed investment brochures, and a complimentary site visit schedule for the best commercial properties available in Sector 121."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }
-.

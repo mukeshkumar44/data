@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Shop Sizes and Layouts Available for Rent in Sector 49",
@@ -58,14 +61,56 @@
       "We focus our shop rental searches not just within Sector 49 proper, but also in the immediately surrounding high-traffic zones like developing shopping centers and markets known for high occupancy rates. This micro-market offers superior growth potential compared to established, saturated commercial districts, providing new businesses the space to establish dominance. When you look for a shop for rent in Sector 49, you are investing in a location poised for explosive demographic growth over the next five years. Secure your retail presence before prices inevitably escalate."
     ],
     "locations": [
-      "Sector 48 Commercial Belt",
-      "BPTP Bridge Market Area",
-      "Sainik Colony Main Road Access",
-      "Charmwood Village Entrance Point",
-      "Neharpar Expressway Connectors",
-      "Sector 50 Residential Hub",
-      "Omaxe World Street proximity",
-      "Badarpur Border Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Find the Ideal Property Size for Your Dream Home in Sector 81 Gurugram",
@@ -58,14 +61,56 @@
       "Furthermore the sector benefits significantly from its closeness to the forthcoming infrastructure developments surrounding the Dwarka Expressway ensuring long-term value appreciation. Key shopping districts top-tier educational institutions and multi-specialty healthcare facilities are all within a 10 to 15-minute drive establishing Sector 81 Gurugram as a self-sufficient residential hub."
     ],
     "locations": [
-      "National Highway 48 NH-48",
-      "Dwarka Expressway Entry Point",
-      "IMT Manesar Industrial Area",
-      "Vatika India Next",
-      "DLF Ultima",
-      "Sector 82 Gurugram",
-      "Kherki Daula Toll Plaza",
-      "Proposed Metro Corridor"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

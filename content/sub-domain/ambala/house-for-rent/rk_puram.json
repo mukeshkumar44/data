@@ -7,12 +7,18 @@
       "Our extensive portfolio includes everything from compact 1 BHK apartments suitable for professionals to spacious 3 BHK independent houses perfect for families. Stop scrolling through outdated listings and start exploring vetted rental homes that are ready for immediate occupancy. Experience a smooth, transparent rental process and settle into your new home in RK Puram faster than you ever thought possible. Let us help you unlock the door to premium living."
     ],
     "buttons": [
-      { "label": "Explore Houses Now", "path": "/listings" },
-      { "label": "Talk to a Rental Expert", "path": "/contact" }
+      {
+        "label": "Explore Houses Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Talk to a Rental Expert",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/hero-rkpuram-house.jpg",
-      "/images/rkpuram-locality.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,15 +61,56 @@
       "Whether you prioritize being close to the Dhaula Kuan business district, needing quick access to AIIMS, or preferring the quieter residential lanes near Sector 13, we have listings tailored for you. We provide detailed neighborhood guides for all major sectors, including average rent prices and local amenity scores, ensuring you make an informed decision when searching for a House For Rent in RK Puram."
     ],
     "locations": [
-      "RK Puram Sector 1",
-      "RK Puram Sector 4",
-      "RK Puram Sector 6",
-      "RK Puram Sector 7",
-      "RK Puram Sector 9",
-      "RK Puram Sector 12",
-      "Munirka Enclave",
-      "Vasant Vihar Proximity",
-      "Moti Bagh Nearby Rentals"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -159,6 +206,11 @@
       "Ready to move into your ideal rental house in RK Puram We are here to simplify the entire process. Contact our expert rental consultants today to discuss your specific requirements, budget, and desired move-in date.",
       "Fill out the quick inquiry form below and gain immediate access to our exclusive, off-market House For Rent in RK Puram listings tailored specifically to your needs. Let us handle the complexities while you prepare to settle into your new home."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

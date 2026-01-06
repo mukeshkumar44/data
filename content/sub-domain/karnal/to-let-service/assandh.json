@@ -7,12 +7,18 @@
       "Finding the perfect rental property in Assandh requires local expertise and a wide network. We provide verified listings and transparent dealings ensuring you secure a space that perfectly matches your budget and lifestyle requirements. Whether you need a spacious apartment or a strategically located commercial shop, our to let service in Assandh is your trusted gateway to the best properties available."
     ],
     "buttons": [
-      { "label": "View Rental Listings", "path": "/rentals" },
-      { "label": "List Your Property for Rent", "path": "/owner-services" }
+      {
+        "label": "View Rental Listings",
+        "path": "/rentals"
+      },
+      {
+        "label": "List Your Property for Rent",
+        "path": "/owner-services"
+      }
     ],
     "images": [
-      "assandh_rental_hero1.jpg",
-      "assandh_rental_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,13 +61,56 @@
       "We constantly monitor demand and supply dynamics in areas like the main Assandh market, the developing residential sectors, and industrial zones ensuring our clients always have access to the freshest and most relevant listings. This local market insight is what distinguishes our to let service in Assandh from general property portals."
     ],
     "locations": [
-      "Assandh Main Market Area",
-      "Assandh Residential Colonies",
-      "Highway Touch Locations",
-      "Rural Peripheries for Agricultural Lease",
-      "Nearby Town - Safidon Rentals",
-      "Assandh Industrial Area",
-      "Near Assandh Railway Station"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

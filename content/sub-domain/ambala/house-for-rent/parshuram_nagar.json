@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "house-rental-parshuram-nagar-1.jpg",
-      "parshuram-nagar-map.png"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "We offer Houses For Rent in Parshuram Nagar that ensure you are never far from convenience. Proximity to reputable educational institutions, healthcare facilities, and bustling marketplaces greatly enhances the quality of life here. Our focus is on providing rental properties that maximize your convenience while guaranteeing a safe and pleasant neighborhood environment. Explore why this location is the perfect backdrop for your next home."
     ],
     "locations": [
-      "Ambala Cantt Railway Station",
-      "Sector 9 Ambala",
-      "Main Ambala-Chandigarh Highway",
-      "Jagadhri Road Market",
-      "Reputable Schools and Colleges",
-      "Dedicated Public Transport Stops"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

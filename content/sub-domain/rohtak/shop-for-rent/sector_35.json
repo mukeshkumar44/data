@@ -7,10 +7,19 @@
       "Finding the perfect Shop For Rent in Sector 35 requires understanding market dynamics and location visibility. We provide verified listings of ready-to-move shops that meet stringent quality standards and compliance requirements. Explore high-visibility ground floor units modern retail complexes and secure upper floor office spaces designed to maximize your business potential. Start your search today and secure your commercial future in one of Rohtak's thriving business hubs."
     ],
     "buttons": [
-      { "label": "Browse Verified Shop Listings", "path": "/listings" },
-      { "label": "Contact Rental Experts Today", "path": "/contact" }
+      {
+        "label": "Browse Verified Shop Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Contact Rental Experts Today",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/sector35_shop_hero1.jpg", "/images/sector35_shop_hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Types of Commercial Shops For Rent in Sector 35 Rohtak Market",
@@ -19,12 +28,30 @@
       "We categorize our commercial rental properties based on their unique characteristics and best-use scenarios ensuring that you find a shop that perfectly aligns with your brand identity and logistical requirements. Whether you need high street visibility or a quiet professional setup we have the ideal Shop For Rent in Sector 35 waiting for you."
     ],
     "features": [
-      { "title": "Small Retail Kiosks and Booths", "description": "These compact units are perfect for startups service points or specialized retail requiring minimal space but maximum foot traffic exposure. Located often near entrances or high-density residential zones these kiosks offer affordability and high visibility for quick transactions. Securing a small shop for rent in Sector 35 is an excellent low-overhead strategy for new entrepreneurs or businesses needing a secondary outlet space." },
-      { "title": "Ground Floor Shops High Visibility", "description": "Ground floor shops are the backbone of retail commercial success in Sector 35. They offer excellent street frontage easy customer access and ample branding opportunities. Ideal for cafes restaurants FMCG stores and fashion boutiques visibility equals profitability. We list premium ground floor Shop For Rent in Sector 35 ensuring optimal location and superior build quality for immediate operation." },
-      { "title": "Corner Commercial Spaces Premium", "description": "Corner properties provide dual frontage and significantly enhanced visibility receiving traffic from two directions. These shops are highly sought after by banks anchor tenants and businesses that thrive on maximizing market presence. While rentals may be higher the investment guarantees unmatched exposure and accessibility necessary for large-scale operations and prestigious brands seeking a premium shop for rent in Sector 35." },
-      { "title": "Double Height Showrooms Modern Design", "description": "For businesses requiring grandeur impressive displays and expansive vertical space such as automobile dealerships furniture stores or large electronics retailers double-height showrooms are essential. These modern spaces offer a luxurious feel and tremendous aesthetic appeal setting your business apart from the competition and attracting high-end clientele looking for the ultimate retail experience in Sector 35 Rohtak." },
-      { "title": "Upper Floor Office Spaces Professional", "description": "Many businesses prefer upper floors for quieter, more professional environments such as consulting firms clinics or IT development offices. These spaces often benefit from lower rent costs compared to ground floor retail while still offering excellent amenities security and parking facilities. Discover comfortable and functional office layouts when searching for a commercial property in Sector 35." },
-      { "title": "Warehouse and Storage Units Logistics", "description": "While Sector 35 is primarily commercial and retail focused it also offers dedicated spaces suitable for storage warehousing and light distribution needs particularly on the peripheries or in dedicated commercial complexes. These units provide necessary infrastructure for inventory management logistics support and business scaling crucial for e-commerce and large retailers operating within Rohtak." }
+      {
+        "title": "Small Retail Kiosks and Booths",
+        "description": "These compact units are perfect for startups service points or specialized retail requiring minimal space but maximum foot traffic exposure. Located often near entrances or high-density residential zones these kiosks offer affordability and high visibility for quick transactions. Securing a small shop for rent in Sector 35 is an excellent low-overhead strategy for new entrepreneurs or businesses needing a secondary outlet space."
+      },
+      {
+        "title": "Ground Floor Shops High Visibility",
+        "description": "Ground floor shops are the backbone of retail commercial success in Sector 35. They offer excellent street frontage easy customer access and ample branding opportunities. Ideal for cafes restaurants FMCG stores and fashion boutiques visibility equals profitability. We list premium ground floor Shop For Rent in Sector 35 ensuring optimal location and superior build quality for immediate operation."
+      },
+      {
+        "title": "Corner Commercial Spaces Premium",
+        "description": "Corner properties provide dual frontage and significantly enhanced visibility receiving traffic from two directions. These shops are highly sought after by banks anchor tenants and businesses that thrive on maximizing market presence. While rentals may be higher the investment guarantees unmatched exposure and accessibility necessary for large-scale operations and prestigious brands seeking a premium shop for rent in Sector 35."
+      },
+      {
+        "title": "Double Height Showrooms Modern Design",
+        "description": "For businesses requiring grandeur impressive displays and expansive vertical space such as automobile dealerships furniture stores or large electronics retailers double-height showrooms are essential. These modern spaces offer a luxurious feel and tremendous aesthetic appeal setting your business apart from the competition and attracting high-end clientele looking for the ultimate retail experience in Sector 35 Rohtak."
+      },
+      {
+        "title": "Upper Floor Office Spaces Professional",
+        "description": "Many businesses prefer upper floors for quieter, more professional environments such as consulting firms clinics or IT development offices. These spaces often benefit from lower rent costs compared to ground floor retail while still offering excellent amenities security and parking facilities. Discover comfortable and functional office layouts when searching for a commercial property in Sector 35."
+      },
+      {
+        "title": "Warehouse and Storage Units Logistics",
+        "description": "While Sector 35 is primarily commercial and retail focused it also offers dedicated spaces suitable for storage warehousing and light distribution needs particularly on the peripheries or in dedicated commercial complexes. These units provide necessary infrastructure for inventory management logistics support and business scaling crucial for e-commerce and large retailers operating within Rohtak."
+      }
     ]
   },
   "locationsSection": {
@@ -34,14 +61,56 @@
       "When considering a Shop For Rent in Sector 35 Rohtak analyze how neighboring sectors contribute to the overall commercial ecosystem. Proximity to established markets and rapidly developing residential areas guarantees future growth potential making your rental choice a long-term strategic advantage."
     ],
     "locations": [
-      "Sector 36 Rohtak Commercial Hub",
-      "HUDA Residential Sector 14",
-      "Delhi Rohtak Highway Connectivity",
-      "MDU University Area Accessibility",
-      "Sunaria Kalan Residential Zone",
-      "Model Town Extension",
-      "Rohtak Railway Station Access",
-      "Near Major Service Roads"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -51,30 +120,84 @@
       "Our dedicated service ensures a seamless rental experience providing verified documentation transparency and expert negotiation support. We simplify the process of finding the ideal Shop For Rent in Sector 35 so you can focus entirely on your business operations."
     ],
     "points": [
-      { "title": "Exceptional Foot Traffic and Visibility", "description": "The planning of Sector 35 ensures commercial zones benefit from high pedestrian and vehicular traffic making every shop visible to thousands daily. Strategic placement near main roads and residential exits guarantees excellent customer flow essential for retail success. We specialize in finding shops with superior frontage and ease of access maximizing your brand visibility immediately upon opening your business." },
-      { "title": "Modern Infrastructure and Facilities", "description": "Properties in Sector 35 are generally newer constructions adhering to modern commercial building codes offering adequate parking efficient power backup and professional maintenance services. This superior infrastructure reduces operational headaches and provides a premium environment for both customers and employees ensuring smooth, uninterrupted business operations throughout the year." },
-      { "title": "Competitive Rental Market Rates", "description": "While offering premium quality Sector 35 maintains a competitive rental market providing excellent value for money compared to overcrowded older city markets. We help you negotiate favorable lease terms ensuring your overhead costs remain manageable while securing a prime location perfect for sustainable long-term business growth in Rohtak." },
-      { "title": "Proximity to Affluent Residential Areas", "description": "The sector is surrounded by established and upcoming affluent residential colonies ensuring a high potential customer base with significant disposable income. This proximity guarantees steady localized business and repeat clientele critical for cafes supermarkets and specialized service providers who depend heavily on the local community." },
-      { "title": "Verified Listings and Legal Transparency", "description": "Every Shop For Rent in Sector 35 listed on our platform is thoroughly vetted for legal compliance ownership clarity and necessary permits. We ensure complete transparency throughout the leasing process protecting you from legal complications and ensuring a secure, hassle-free transaction from negotiation to lease signing." },
-      { "title": "Excellent Connectivity to Major Highways", "description": "Sector 35 enjoys superb road connectivity linking it quickly to the Delhi Rohtak National Highway and other major intra-city routes. This logistical advantage is crucial for supply chain management distribution and attracting customers traveling from outside the immediate Rohtak area ensuring wide market reach." },
-      { "title": "Flexible Lease Terms and Customization", "description": "We understand that every business has unique requirements. We work with property owners in Sector 35 to secure flexible lease structures and provide options for customization or fit-out periods allowing you to tailor the shop space perfectly to your brand specifications before the official launch." },
-      { "title": "Expert Local Real Estate Guidance", "description": "Our team possesses deep localized knowledge of the Sector 35 commercial market trends rental rates and best-performing locations. Leverage our expertise to quickly identify the best Shop For Rent opportunities that match your budget and strategic business goals saving you valuable time and effort in your property search." }
+      {
+        "title": "Exceptional Foot Traffic and Visibility",
+        "description": "The planning of Sector 35 ensures commercial zones benefit from high pedestrian and vehicular traffic making every shop visible to thousands daily. Strategic placement near main roads and residential exits guarantees excellent customer flow essential for retail success. We specialize in finding shops with superior frontage and ease of access maximizing your brand visibility immediately upon opening your business."
+      },
+      {
+        "title": "Modern Infrastructure and Facilities",
+        "description": "Properties in Sector 35 are generally newer constructions adhering to modern commercial building codes offering adequate parking efficient power backup and professional maintenance services. This superior infrastructure reduces operational headaches and provides a premium environment for both customers and employees ensuring smooth, uninterrupted business operations throughout the year."
+      },
+      {
+        "title": "Competitive Rental Market Rates",
+        "description": "While offering premium quality Sector 35 maintains a competitive rental market providing excellent value for money compared to overcrowded older city markets. We help you negotiate favorable lease terms ensuring your overhead costs remain manageable while securing a prime location perfect for sustainable long-term business growth in Rohtak."
+      },
+      {
+        "title": "Proximity to Affluent Residential Areas",
+        "description": "The sector is surrounded by established and upcoming affluent residential colonies ensuring a high potential customer base with significant disposable income. This proximity guarantees steady localized business and repeat clientele critical for cafes supermarkets and specialized service providers who depend heavily on the local community."
+      },
+      {
+        "title": "Verified Listings and Legal Transparency",
+        "description": "Every Shop For Rent in Sector 35 listed on our platform is thoroughly vetted for legal compliance ownership clarity and necessary permits. We ensure complete transparency throughout the leasing process protecting you from legal complications and ensuring a secure, hassle-free transaction from negotiation to lease signing."
+      },
+      {
+        "title": "Excellent Connectivity to Major Highways",
+        "description": "Sector 35 enjoys superb road connectivity linking it quickly to the Delhi Rohtak National Highway and other major intra-city routes. This logistical advantage is crucial for supply chain management distribution and attracting customers traveling from outside the immediate Rohtak area ensuring wide market reach."
+      },
+      {
+        "title": "Flexible Lease Terms and Customization",
+        "description": "We understand that every business has unique requirements. We work with property owners in Sector 35 to secure flexible lease structures and provide options for customization or fit-out periods allowing you to tailor the shop space perfectly to your brand specifications before the official launch."
+      },
+      {
+        "title": "Expert Local Real Estate Guidance",
+        "description": "Our team possesses deep localized knowledge of the Sector 35 commercial market trends rental rates and best-performing locations. Leverage our expertise to quickly identify the best Shop For Rent opportunities that match your budget and strategic business goals saving you valuable time and effort in your property search."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Securing a Shop For Rent in Sector 35 Rohtak",
     "description": "Get detailed answers to common inquiries regarding lease terms documentation security deposits and the best commercial types available in Sector 35.",
     "faqs": [
-      { "question": "What are the typical lease durations for a Shop For Rent in Sector 35 Rohtak", "answer": "Standard commercial leases in Sector 35 Rohtak typically range from three to five years with provisions for mutual renewal based on market conditions and performance. Many landlords prefer a lock-in period often set at 18 to 24 months to ensure tenant stability. We advise clients to carefully review the renewal clauses and incremental rent increases generally set at 5 to 10 percent every year or two to plan their long-term financial commitments effectively before finalizing any agreement." },
-      { "question": "How much security deposit is required for commercial rental properties in Sector 35", "answer": "The standard security deposit for a commercial Shop For Rent in Sector 35 usually spans between 3 to 6 months of the agreed-upon rent. This amount is refundable upon the successful termination of the lease provided the property is returned in good condition barring normal wear and tear. Premium corner shops or highly sought-after locations might sometimes demand a slightly higher deposit due to their high intrinsic value and demand." },
-      { "question": "Are there specific regulations for operating a restaurant or cafe in Sector 35 shops", "answer": "Yes operating food and beverage establishments requires specific licenses including FSSAI clearance fire safety certificates and sometimes municipal permission for external seating or specialized ventilation systems. Sector 35 commercial zoning generally permits food services but tenants must ensure their chosen shop space meets the structural and utility requirements for kitchen setups and customer seating capacity before starting operations." },
-      { "question": "What amenities should I expect when renting a modern commercial shop in this area", "answer": "Modern commercial properties in Sector 35 Rohtak often include essential amenities such as dedicated parking slots for customers and staff 24/7 security surveillance with CCTV reliable power backup systems either through generators or centralized UPS and professional facility management for common area upkeep. Verify the availability of high-speed internet connectivity as this is crucial for modern business operations." },
-      { "question": "Can I customize or modify the internal structure of the rented shop space", "answer": "Minor non-structural modifications like painting installing shelving or branding signage are generally permitted with prior written consent from the landlord. Major structural changes such as altering wall layouts electrical systems or plumbing require explicit approval and must comply with local building codes. Ensure your lease agreement clearly defines the scope of allowable fit-outs and who bears the cost of restoration upon lease expiry." },
-      { "question": "How important is location visibility when choosing a Shop For Rent in Sector 35", "answer": "Visibility is paramount especially for retail businesses in Sector 35. High street frontage ground floor units and corner locations attract significantly more foot traffic resulting in higher sales potential. While shops on upper floors or internal lanes may be cheaper they require much heavier investment in marketing and signage to draw customers effectively. We guide you toward locations that match your budget and visibility needs." },
-      { "question": "What are the average maintenance charges for commercial complexes in Sector 35 Rohtak", "answer": "Maintenance charges cover shared services like cleaning common area lighting lift operation security and garbage disposal. These fees vary depending on the complex size and level of amenities but typically range from INR 5 to 15 per square foot per month. Always clarify whether these charges are included in the gross rent or billed separately by the RWA or property manager." },
-      { "question": "Is parking easily available for customers visiting Sector 35 commercial areas", "answer": "Sector 35 is known for its relatively better planning compared to older markets. Many commercial complexes and newly built shop units offer dedicated basement parking or sufficient street parking areas. However during peak hours finding a spot can still be challenging. We prioritize listings that guarantee adequate customer and staff parking facilities." },
-      { "question": "What documentation is required to finalize a commercial lease agreement", "answer": "You will typically need proof of identity Aadhar Card PAN Card registration documents for your business Memorandum of Association or Proprietorship Deed and financial statements or bank guarantees. Landlords require these to ensure the tenant's legal standing and financial viability before signing the final registered lease deed and handing over possession of the commercial shop." },
-      { "question": "How quickly can I occupy a vacant Shop For Rent in Sector 35 Rohtak", "answer": "If the shop is ready-to-move and unfurnished occupation can often happen within 7 to 14 days after the lease agreement is finalized and registered and the security deposit is paid. If the shop requires substantial fit-out or renovation the timeframe depends entirely on your construction schedule and obtaining necessary internal permissions." }
+      {
+        "question": "What are the typical lease durations for a Shop For Rent in Sector 35 Rohtak",
+        "answer": "Standard commercial leases in Sector 35 Rohtak typically range from three to five years with provisions for mutual renewal based on market conditions and performance. Many landlords prefer a lock-in period often set at 18 to 24 months to ensure tenant stability. We advise clients to carefully review the renewal clauses and incremental rent increases generally set at 5 to 10 percent every year or two to plan their long-term financial commitments effectively before finalizing any agreement."
+      },
+      {
+        "question": "How much security deposit is required for commercial rental properties in Sector 35",
+        "answer": "The standard security deposit for a commercial Shop For Rent in Sector 35 usually spans between 3 to 6 months of the agreed-upon rent. This amount is refundable upon the successful termination of the lease provided the property is returned in good condition barring normal wear and tear. Premium corner shops or highly sought-after locations might sometimes demand a slightly higher deposit due to their high intrinsic value and demand."
+      },
+      {
+        "question": "Are there specific regulations for operating a restaurant or cafe in Sector 35 shops",
+        "answer": "Yes operating food and beverage establishments requires specific licenses including FSSAI clearance fire safety certificates and sometimes municipal permission for external seating or specialized ventilation systems. Sector 35 commercial zoning generally permits food services but tenants must ensure their chosen shop space meets the structural and utility requirements for kitchen setups and customer seating capacity before starting operations."
+      },
+      {
+        "question": "What amenities should I expect when renting a modern commercial shop in this area",
+        "answer": "Modern commercial properties in Sector 35 Rohtak often include essential amenities such as dedicated parking slots for customers and staff 24/7 security surveillance with CCTV reliable power backup systems either through generators or centralized UPS and professional facility management for common area upkeep. Verify the availability of high-speed internet connectivity as this is crucial for modern business operations."
+      },
+      {
+        "question": "Can I customize or modify the internal structure of the rented shop space",
+        "answer": "Minor non-structural modifications like painting installing shelving or branding signage are generally permitted with prior written consent from the landlord. Major structural changes such as altering wall layouts electrical systems or plumbing require explicit approval and must comply with local building codes. Ensure your lease agreement clearly defines the scope of allowable fit-outs and who bears the cost of restoration upon lease expiry."
+      },
+      {
+        "question": "How important is location visibility when choosing a Shop For Rent in Sector 35",
+        "answer": "Visibility is paramount especially for retail businesses in Sector 35. High street frontage ground floor units and corner locations attract significantly more foot traffic resulting in higher sales potential. While shops on upper floors or internal lanes may be cheaper they require much heavier investment in marketing and signage to draw customers effectively. We guide you toward locations that match your budget and visibility needs."
+      },
+      {
+        "question": "What are the average maintenance charges for commercial complexes in Sector 35 Rohtak",
+        "answer": "Maintenance charges cover shared services like cleaning common area lighting lift operation security and garbage disposal. These fees vary depending on the complex size and level of amenities but typically range from INR 5 to 15 per square foot per month. Always clarify whether these charges are included in the gross rent or billed separately by the RWA or property manager."
+      },
+      {
+        "question": "Is parking easily available for customers visiting Sector 35 commercial areas",
+        "answer": "Sector 35 is known for its relatively better planning compared to older markets. Many commercial complexes and newly built shop units offer dedicated basement parking or sufficient street parking areas. However during peak hours finding a spot can still be challenging. We prioritize listings that guarantee adequate customer and staff parking facilities."
+      },
+      {
+        "question": "What documentation is required to finalize a commercial lease agreement",
+        "answer": "You will typically need proof of identity Aadhar Card PAN Card registration documents for your business Memorandum of Association or Proprietorship Deed and financial statements or bank guarantees. Landlords require these to ensure the tenant's legal standing and financial viability before signing the final registered lease deed and handing over possession of the commercial shop."
+      },
+      {
+        "question": "How quickly can I occupy a vacant Shop For Rent in Sector 35 Rohtak",
+        "answer": "If the shop is ready-to-move and unfurnished occupation can often happen within 7 to 14 days after the lease agreement is finalized and registered and the security deposit is paid. If the shop requires substantial fit-out or renovation the timeframe depends entirely on your construction schedule and obtaining necessary internal permissions."
+      }
     ]
   },
   "contactSection": {
@@ -83,6 +206,11 @@
       "Ready to secure a premium commercial location in the thriving business landscape of Rohtak Sector 35 Our expert team is here to provide personalized recommendations and arrange site visits for verified listings that meet your exact specifications.",
       "Do not miss out on the best Shop For Rent opportunities. Fill out the form below or call us directly to discuss your requirements and lease objectives. Let us help you unlock commercial success."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

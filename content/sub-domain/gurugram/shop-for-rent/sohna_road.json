@@ -7,12 +7,18 @@
       "The corridor’s strategic location ensures excellent connectivity to major residential sectors and corporate offices, guaranteeing consistent footfall necessary for retail success. Explore versatile rental options in established malls, new development centers, and high street markets. Start your search now to capitalize on the thriving commercial environment and elevate your brand presence on Sohna Road."
     ],
     "buttons": [
-      { "label": "View Available Retail Spaces", "path": "/listings" },
-      { "label": "Contact Rental Specialists", "path": "/contact-us" }
+      {
+        "label": "View Available Retail Spaces",
+        "path": "/listings"
+      },
+      {
+        "label": "Contact Rental Specialists",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "sohna_road_shop_frontage.jpg",
-      "commercial_complex_sohna_road.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Our listings cover prime spots in integrated commercial towers, premium high street markets, and key retail centers near major residential colonies. Whether your focus is on servicing affluent residents or catering to the bustling corporate workforce, we guide you to the perfect micro-market on Sohna Road."
     ],
     "locations": [
-      "M3M Cosmopolitan Retail Spaces",
-      "Spaze Business Park Retail Outlets",
-      "Vipul Trade Centre Commercial Shops",
-      "Omaxe Mall Sohna Road",
-      "Unitech Business Zone Shops",
-      "Central Sohna Road High Street Market",
-      "Sector 49 Commercial Pockets",
-      "South City 2 Retail Complex"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

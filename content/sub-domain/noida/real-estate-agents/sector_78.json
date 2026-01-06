@@ -7,10 +7,19 @@
       "Our network connects you directly with the most experienced and reliable Real Estate Agents in Sector 78 who possess deep knowledge of current valuation trends and upcoming projects. We ensure your buying or selling experience is stress-free transparent and maximizes your return on investment. Trust our vetted professionals to guide you through legal complexities and secure the best property deal possible in this high-growth corridor of Noida."
     ],
     "buttons": [
-      { "label": "Connect with an Agent Now", "path": "/contact" },
-      { "label": "Explore Verified Listings", "path": "/listings" }
+      {
+        "label": "Connect with an Agent Now",
+        "path": "/contact"
+      },
+      {
+        "label": "Explore Verified Listings",
+        "path": "/listings"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Local Agents Handling All Residential Plot Sizes and Property Types in Sector 78",
@@ -52,14 +61,56 @@
       "This interconnected understanding is vital for comparative market analysis allowing you to leverage price differences and future growth potential in nearby emerging sectors. Trust our professionals to guide you whether your property goal lies directly within Sector 78 Noida or extends slightly into its well-connected surrounding areas offering similar infrastructure benefits."
     ],
     "locations": [
-      "Sector 77 Noida",
-      "Sector 76 Noida",
-      "Sector 79 Noida",
-      "Sector 50 Noida",
-      "Noida Expressway Access",
-      "FNG Corridor",
-      "Central Noida Hub",
-      "Gaur City Center Proximity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to maximize your investment or find your perfect home in Sector 78 Noida Contact our expert team now to be matched with a specialized agent who understands your precise property requirements.",
       "Fill out the form below and start your stress-free property journey with professionals committed to securing the best possible outcome for you."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,10 +7,19 @@
       "Sector 45 provides excellent connectivity to major business districts, educational institutions, and lifestyle amenities including world-class shopping centers. Start your hassle-free journey to finding your next home today and experience the unparalleled convenience of living in one of Noida’s most prestigious and secure locations. Our listings are updated daily ensuring you get access to the freshest rental inventory available."
     ],
     "buttons": [
-      { "label": "Explore 2 BHK Flats Now", "path": "/2bhk-rentals" },
-      { "label": "Contact Rental Experts", "path": "/contact-us" }
+      {
+        "label": "Explore 2 BHK Flats Now",
+        "path": "/2bhk-rentals"
+      },
+      {
+        "label": "Contact Rental Experts",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["/img/hero-flat-sector45.jpg", "/img/neighborhood-view.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Configurations of Flats For Rent in Sector 45 Catering to Every Lifestyle",
@@ -52,13 +61,56 @@
       "Key landmarks include major hospitals, top international schools, and bustling commercial centers like DLF Mall of India and The Great India Place. Furthermore, accessibility to the Noida-Greater Noida Expressway ensures quick trips to Delhi and other parts of Uttar Pradesh. Review the crucial connectivity points that make Sector 45 an exceptionally desirable residential rental market."
     ],
     "locations": [
-      "Noida Sector 101 Metro Station",
-      "Noida Sector 83 Metro Station",
-      "Noida-Greater Noida Expressway access",
-      "Proximity to Film City Noida",
-      "Easy access to Sector 18 Market",
-      "Amity University Noida",
-      "Felix Hospital and Jaypee Hospital"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -154,6 +206,11 @@
       "Don’t let the perfect rental opportunity slip away. Contact our expert rental team today to discuss your specific requirements and budget constraints. We specialize in matching discerning tenants with the best available properties in Sector 45.",
       "Fill out the form below or call us directly. Our dedicated consultants provide personalized assistance, scheduled property viewings, and transparent lease processing ensuring a smooth transition into your new home in Noida."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

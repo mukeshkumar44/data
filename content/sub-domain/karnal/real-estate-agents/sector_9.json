@@ -7,10 +7,19 @@
       "Whether you are looking for a ready to move apartment a prime residential plot or a commercial space our specialized Sector 9 real estate agents offer personalized services tailored to your unique requirements. We simplify the entire transaction process from initial property viewing and legal documentation review to final registration ensuring a stress free experience. Trust our experts to be your reliable partner in the competitive Sector 9 property market."
     ],
     "buttons": [
-      { "label": "Connect with an Agent Now", "path": "/contact" },
-      { "label": "View Current Listings", "path": "/listings/sector9" }
+      {
+        "label": "Connect with an Agent Now",
+        "path": "/contact"
+      },
+      {
+        "label": "View Current Listings",
+        "path": "/listings/sector9"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Plot Sizes and Investment Opportunities Guided by Expert Agents",
@@ -52,14 +61,56 @@
       "The location benefits immensely from its proximity to major highways commercial hubs and educational institutions. This strategic positioning ensures that property values remain robust regardless of market fluctuations. Consult our experts for a comparative analysis of property values between Sector 9 and its highly sought after neighbors."
     ],
     "locations": [
-      "Sector 8 Karnal",
-      "Sector 7 Karnal",
-      "Sector 13 Extension",
-      "Model Town",
-      "Jail Road Commercial Area",
-      "NH 44 Connectivity Zone",
-      "ITBP Colony",
-      "Railway Road Access Points"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

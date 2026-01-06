@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Residential Property Options When You Buy House in Sector 7 Gurugram",
@@ -58,14 +61,56 @@
       "The sector benefits from seamless access to major highways including the NH-48 which connects quickly to Delhi and other parts of Gurugram like Cyber Hub and Golf Course Road. Furthermore educational institutions hospitals and key shopping markets are just minutes away ensuring that all essential services are within easy reach. Investing here means choosing a location where comfort and practicality meet high investment potential. Our local expertise ensures you understand all logistical advantages before finalizing your purchase."
     ],
     "locations": [
-      "NH-48 Access Point",
-      "Major Commercial Markets near Sector 7",
-      "Reputable Schools and Colleges",
-      "Leading Multi-Speciality Hospitals",
-      "Metro Station Proximity",
-      "Recreational Parks and Green Spaces",
-      "Easy Commute to Cyber City",
-      "Shopping Malls and Entertainment Centers"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -17,7 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero-shop-sector-26-faridabad.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -60,14 +61,56 @@
       "The connectivity is unmatched with easy access to the Delhi-Mathura road and proximity to the Metro network, simplifying commute for both customers and staff. Furthermore, Sector 26 benefits from an established ecosystem of successful neighboring businesses, fostering a competitive yet supportive commercial environment. Choosing a Shop For Rent in Sector 26 means positioning your brand where success is already proven and infrastructure supports long-term growth. We highlight listings near key intersections to maximize your immediate visibility."
     ],
     "locations": [
-      "Near NHPC Chowk Metro Connectivity",
-      "Proximity to Established Sector 27 Market",
-      "Close to Leading Educational Institutions",
-      "High Density Residential Catchment Areas",
-      "Easy Access to Delhi-Gurugram Skyway",
-      "Commercial Hub of Sector 26",
-      "Areas near Crown Plaza Mall Gurugram",
-      "Shops on Main Sector Dividing Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

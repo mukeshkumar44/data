@@ -7,11 +7,18 @@
       "Explore verified listings of residential plots that offer clear titles and immediate possession, ensuring a smooth and hassle-free purchasing process. Investing in a plot for sale in Sector 13 Karnal now positions you strategically to benefit from the rapid urban development and rising property values in this sought-after locality. Start your journey towards owning a valuable piece of real estate in Karnal’s premier sector today."
     ],
     "buttons": [
-      { "label": "View All Available Plots", "path": "/listings" },
-      { "label": "Request a Site Visit", "path": "/contact" }
+      {
+        "label": "View All Available Plots",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Site Visit",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "sector-13-plot-karnal-hero.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -54,12 +61,56 @@
       "The locality is self-sufficient, featuring proximity to top educational institutions like Dyal Singh College and reputable hospitals. Residents enjoy easy access to high-street retail, modern shopping complexes, and green parks, creating a balanced urban lifestyle. Investing in a plot for sale here means buying into established infrastructure and future growth potential, solidifying Sector 13 Karnal as the smart choice for discerning property buyers."
     ],
     "locations": [
-      "NH 44 Highway Access",
-      "Karnal Railway Station Link",
-      "Close to Sector 12 Commercial Market",
-      "Proximity to Civil Hospital Karnal",
-      "Near Reputable Schools and Colleges",
-      "Easy Access to Local Parks and Green Spaces"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

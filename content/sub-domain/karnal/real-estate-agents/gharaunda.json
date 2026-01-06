@@ -7,10 +7,19 @@
       "The right real estate agent makes all the difference in Gharaunda Karnal. Our listed professionals offer deep knowledge of land records, pricing trends, and upcoming development projects, ensuring your investment decision is well-informed and secure. Stop searching and start succeeding in your property goals today by partnering with the best Real Estate Agents in Gharaunda. We simplify the complexities of legal paperwork and negotiations, delivering peace of mind from initial search to final registration."
     ],
     "buttons": [
-      { "label": "Find My Perfect Agent", "path": "/contact" },
-      { "label": "Browse Verified Listings", "path": "/listings" }
+      {
+        "label": "Find My Perfect Agent",
+        "path": "/contact"
+      },
+      {
+        "label": "Browse Verified Listings",
+        "path": "/listings"
+      }
     ],
-    "images": ["hero_gharauda1.jpg", "hero_gharauda2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Popular Property Investment Types Handled by Gharaunda Agents",
@@ -19,12 +28,30 @@
       "Below are some of the most frequently traded property sizes and types that the Real Estate Agents in Gharaunda help clients navigate. These standard sizes offer excellent opportunities for both self-use residential construction and long-term investment growth within the growing town of Gharaunda Karnal."
     ],
     "features": [
-      { "title": "4 Marla Plot", "description": "Ideal for small independent houses or affordable residential projects near developed colonies in Gharaunda. Agents focus on verifying clear titles and accessibility to essential municipal services for these compact, high-demand properties. These plots represent an excellent entry point into the Gharaunda real estate market for first-time buyers." },
-      { "title": "6 Marla Plot", "description": "A very popular size offering ample space for a comfortable two or three-story home. Real Estate Agents in Gharaunda often recommend 6 Marla plots located in rapidly developing sectors providing superior connectivity to NH-44 and the town centre. We guarantee clarity on development charges and local regulations." },
-      { "title": "8 Marla Plot", "description": "Perfect for larger families seeking spacious living areas and dedicated parking. Agents specialising in 8 Marla plots in Gharaunda Karnal provide detailed comparisons of appreciation rates between different zones like Mandi area and outer bypass areas. This size offers significant potential for capital appreciation." },
-      { "title": "10 Marla Plot", "description": "Considered a premium residential size, ideal for custom-built luxury homes or duplex constructions. Our Gharaunda real estate agents focus on identifying properties with good Vastu compliance and prime facing directions, often locating these plots in low-density, premium residential pockets of the town." },
-      { "title": "12 Marla Plot", "description": "Suitable for joint families or those looking for substantial land for landscaping and auxiliary buildings. Agents assist with comprehensive due diligence on boundary demarcation and mutation records for these larger holdings, ensuring a hassle-free transfer of ownership in Gharaunda." },
-      { "title": "14 Marla Plot", "description": "Large investment parcels often suitable for combined residential and limited commercial usage, pending zoning approval. Real Estate Agents in Gharaunda negotiate the best per square yard rate and manage complex land conversion procedures if required for change of usage near the main highway access points." }
+      {
+        "title": "4 Marla Plot",
+        "description": "Ideal for small independent houses or affordable residential projects near developed colonies in Gharaunda. Agents focus on verifying clear titles and accessibility to essential municipal services for these compact, high-demand properties. These plots represent an excellent entry point into the Gharaunda real estate market for first-time buyers."
+      },
+      {
+        "title": "6 Marla Plot",
+        "description": "A very popular size offering ample space for a comfortable two or three-story home. Real Estate Agents in Gharaunda often recommend 6 Marla plots located in rapidly developing sectors providing superior connectivity to NH-44 and the town centre. We guarantee clarity on development charges and local regulations."
+      },
+      {
+        "title": "8 Marla Plot",
+        "description": "Perfect for larger families seeking spacious living areas and dedicated parking. Agents specialising in 8 Marla plots in Gharaunda Karnal provide detailed comparisons of appreciation rates between different zones like Mandi area and outer bypass areas. This size offers significant potential for capital appreciation."
+      },
+      {
+        "title": "10 Marla Plot",
+        "description": "Considered a premium residential size, ideal for custom-built luxury homes or duplex constructions. Our Gharaunda real estate agents focus on identifying properties with good Vastu compliance and prime facing directions, often locating these plots in low-density, premium residential pockets of the town."
+      },
+      {
+        "title": "12 Marla Plot",
+        "description": "Suitable for joint families or those looking for substantial land for landscaping and auxiliary buildings. Agents assist with comprehensive due diligence on boundary demarcation and mutation records for these larger holdings, ensuring a hassle-free transfer of ownership in Gharaunda."
+      },
+      {
+        "title": "14 Marla Plot",
+        "description": "Large investment parcels often suitable for combined residential and limited commercial usage, pending zoning approval. Real Estate Agents in Gharaunda negotiate the best per square yard rate and manage complex land conversion procedures if required for change of usage near the main highway access points."
+      }
     ]
   },
   "locationsSection": {
@@ -34,15 +61,56 @@
       "Whether you are interested in a property close to the Gharaunda railway station, near the Sugar Mill, or seeking peaceful living on the outskirts, our professionals cover every corner. This detailed geographical expertise ensures you are shown listings that perfectly match your location preferences, budget, and future needs. Trust the local experts to guide your investment effectively in Gharaunda Karnal."
     ],
     "locations": [
-      "Jain Colony Gharaunda",
-      "Prem Nagar Gharaunda",
-      "Pehwa Chowk Area",
-      "Model Town Gharaunda",
-      "Assandh Road Extension",
-      "Near Sugar Mill Area",
-      "NH-44 Service Road Zones",
-      "Railway Road Colonies",
-      "Main Mandi Area Gharaunda"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -52,30 +120,84 @@
       "Choosing us means accessing exclusive listings, obtaining expert legal verification, and benefiting from shrewd negotiation tactics that save you time and money. Experience the professional difference when dealing with property in Gharaunda Karnal."
     ],
     "points": [
-      { "title": "Unmatched Local Market Expertise", "description": "Our Real Estate Agents in Gharaunda live and work in the area, providing deep, up-to-the-minute insights into property valuations, zoning changes, and infrastructure projects that influence future prices. This local grounding guarantees you receive the most accurate and profitable advice tailored specifically to the Gharaunda landscape, minimizing investment risk." },
-      { "title": "Transparent and Ethical Dealings", "description": "We enforce strict ethical guidelines among all our registered agents, ensuring every transaction is completely transparent. There are no hidden fees or surprise clauses. Our focus is building long-term trust with buyers and sellers in Gharaunda, simplifying complex property documentation with absolute clarity." },
-      { "title": "Access to Exclusive Property Listings", "description": "Many of the most desirable properties and land parcels in Gharaunda Karnal are sold privately before they ever hit public listing portals. Our agents maintain strong local connections, granting you exclusive first access to these premium, high-potential investment opportunities that others miss out on." },
-      { "title": "Expert Legal and Documentation Support", "description": "Navigating land titles, registration processes, and municipal approvals in Gharaunda can be challenging. Our agents partner with experienced property lawyers to handle all legal formalities, verifying ownership, clearing encumbrances, and ensuring smooth, secure transfer of property rights immediately upon sale." },
-      { "title": "Optimized Pricing Strategy for Sellers", "description": "If you are selling property in Gharaunda, our agents use sophisticated market analysis tools to determine the optimal listing price. We employ professional staging advice and targeted marketing to attract serious, qualified buyers quickly, ensuring your property sells faster and at the maximum achievable market price." },
-      { "title": "Dedicated Buyer Representation Services", "description": "For buyers, our Real Estate Agents in Gharaunda act as dedicated advocates, negotiating aggressively on your behalf to secure the best possible purchase price and favourable closing terms. We protect your interests throughout the entire process, from property inspection to final handover." },
-      { "title": "Hassle-Free Rental Management Services", "description": "Beyond sales, we also connect you with agents who specialise in property rental management in Gharaunda. This includes tenant screening, lease agreement preparation, and monthly rent collection, offering a complete hands-off solution for landlords seeking passive income generation in the region." },
-      { "title": "Post-Sale Settlement Assistance", "description": "Our commitment does not end at closing. Real Estate Agents in Gharaunda provide ongoing support, helping with utility transfers, property tax updates, and settling into your new residence or investment site. We are your reliable property resource long after the deal is finalized." }
+      {
+        "title": "Unmatched Local Market Expertise",
+        "description": "Our Real Estate Agents in Gharaunda live and work in the area, providing deep, up-to-the-minute insights into property valuations, zoning changes, and infrastructure projects that influence future prices. This local grounding guarantees you receive the most accurate and profitable advice tailored specifically to the Gharaunda landscape, minimizing investment risk."
+      },
+      {
+        "title": "Transparent and Ethical Dealings",
+        "description": "We enforce strict ethical guidelines among all our registered agents, ensuring every transaction is completely transparent. There are no hidden fees or surprise clauses. Our focus is building long-term trust with buyers and sellers in Gharaunda, simplifying complex property documentation with absolute clarity."
+      },
+      {
+        "title": "Access to Exclusive Property Listings",
+        "description": "Many of the most desirable properties and land parcels in Gharaunda Karnal are sold privately before they ever hit public listing portals. Our agents maintain strong local connections, granting you exclusive first access to these premium, high-potential investment opportunities that others miss out on."
+      },
+      {
+        "title": "Expert Legal and Documentation Support",
+        "description": "Navigating land titles, registration processes, and municipal approvals in Gharaunda can be challenging. Our agents partner with experienced property lawyers to handle all legal formalities, verifying ownership, clearing encumbrances, and ensuring smooth, secure transfer of property rights immediately upon sale."
+      },
+      {
+        "title": "Optimized Pricing Strategy for Sellers",
+        "description": "If you are selling property in Gharaunda, our agents use sophisticated market analysis tools to determine the optimal listing price. We employ professional staging advice and targeted marketing to attract serious, qualified buyers quickly, ensuring your property sells faster and at the maximum achievable market price."
+      },
+      {
+        "title": "Dedicated Buyer Representation Services",
+        "description": "For buyers, our Real Estate Agents in Gharaunda act as dedicated advocates, negotiating aggressively on your behalf to secure the best possible purchase price and favourable closing terms. We protect your interests throughout the entire process, from property inspection to final handover."
+      },
+      {
+        "title": "Hassle-Free Rental Management Services",
+        "description": "Beyond sales, we also connect you with agents who specialise in property rental management in Gharaunda. This includes tenant screening, lease agreement preparation, and monthly rent collection, offering a complete hands-off solution for landlords seeking passive income generation in the region."
+      },
+      {
+        "title": "Post-Sale Settlement Assistance",
+        "description": "Our commitment does not end at closing. Real Estate Agents in Gharaunda provide ongoing support, helping with utility transfers, property tax updates, and settling into your new residence or investment site. We are your reliable property resource long after the deal is finalized."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Real Estate Agents in Gharaunda Karnal",
     "description": "Get quick, expert answers to common queries regarding property dealing, agent commissions, and market trends within the Gharaunda region.",
     "faqs": [
-      { "question": "What is the typical commission charged by Real Estate Agents in Gharaunda", "answer": "Commission rates in Gharaunda generally follow standard industry practices, usually falling between 1 to 2 percent of the total transaction value, paid by both the buyer and the seller. However, this is negotiable and often depends on the property type, value, and complexity of the deal. Always confirm the exact commission structure with your chosen agent in writing before initiating any services to ensure complete transparency." },
-      { "question": "How do I verify the authenticity of a property listing in Gharaunda", "answer": "A reputable Real Estate Agent in Gharaunda will provide full legal documentation for verification. Key documents include the registered sale deed, Khasra details from the land records department, and no-objection certificates if applicable. We strongly recommend working only with agents who facilitate thorough third-party legal vetting before any token money is exchanged, protecting you from fraudulent claims." },
-      { "question": "Is Gharaunda a good location for long-term real estate investment now", "answer": "Yes, Gharaunda is considered a promising investment location primarily due to its strategic position on NH-44 and proximity to Karnal city. Ongoing infrastructure projects, including highway upgrades and industrial growth surrounding the Sugar Mill area, are driving sustained property appreciation. Real Estate Agents in Gharaunda often advise focusing on residential plots near key connectivity points for maximum long-term return on investment." },
-      { "question": "What kind of properties are most in demand in Gharaunda currently", "answer": "Currently, the highest demand in Gharaunda is for ready-to-move-in 2 BHK and 3 BHK independent houses, along with residential plots ranging from 6 Marla to 10 Marla near established colonies. Commercial property demand is also steady along the main road areas due to increased retail activity. Consult a local agent to match your investment goal with the current market hotspots." },
-      { "question": "Do agents in Gharaunda handle property disputes and inheritance cases", "answer": "While Real Estate Agents in Gharaunda focus on facilitating sales and purchases, many are well-connected with specialized property lawyers who handle complex dispute resolution, succession certificates, and inheritance transfers. If your property transaction involves a legal hurdle, your agent acts as the essential bridge between you and qualified legal professionals." },
-      { "question": "What necessary documents should I prepare before meeting a Gharaunda agent for selling my property", "answer": "As a seller, you should prepare the original sale deed, mutation documents, up-to-date property tax receipts, Aadhar Card and PAN Card for identity proof, and any previously approved building plans. Having these documents ready allows the Real Estate Agents in Gharaunda to quickly verify ownership and begin the listing and marketing process without delays." },
-      { "question": "How long does it typically take to sell a house in Gharaunda Karnal", "answer": "The duration depends heavily on pricing and market conditions. A competitively priced, well-maintained house in a prime Gharaunda locality can sell within 30 to 60 days. However, factors like specialized property type or negotiation complexity can extend this timeline. Our experienced agents strive to minimize the market time through proactive listing strategies." },
-      { "question": "Can I use a Real Estate Agent to help me find commercial property for rent in Gharaunda", "answer": "Absolutely. Many Real Estate Agents in Gharaunda specialize in commercial leasing, helping businesses find ideal locations for shops, offices, warehouses, or industrial plots near the highway or within the main mandi area. They negotiate lease terms, verify commercial approvals, and ensure the space meets your operational requirements efficiently." },
-      { "question": "What should I look for when selecting the best real estate agent in Gharaunda", "answer": "Look for agents who have extensive experience specifically in the Gharaunda Karnal region, positive client testimonials, and clear communication skills. They should hold proper licensing, be transparent about their commission, and demonstrate a strong understanding of local regulations and current property values to truly represent your best interests." },
-      { "question": "Is it required to hire an agent for buying agricultural land near Gharaunda", "answer": "While not strictly required by law, hiring a Real Estate Agent is highly advisable for agricultural land purchases near Gharaunda. Agents are essential for verifying land classification, checking for necessary permissions for non-agricultural use conversion if desired, and ensuring accurate measurement and boundary demarcation which can be complicated in rural settings." }
+      {
+        "question": "What is the typical commission charged by Real Estate Agents in Gharaunda",
+        "answer": "Commission rates in Gharaunda generally follow standard industry practices, usually falling between 1 to 2 percent of the total transaction value, paid by both the buyer and the seller. However, this is negotiable and often depends on the property type, value, and complexity of the deal. Always confirm the exact commission structure with your chosen agent in writing before initiating any services to ensure complete transparency."
+      },
+      {
+        "question": "How do I verify the authenticity of a property listing in Gharaunda",
+        "answer": "A reputable Real Estate Agent in Gharaunda will provide full legal documentation for verification. Key documents include the registered sale deed, Khasra details from the land records department, and no-objection certificates if applicable. We strongly recommend working only with agents who facilitate thorough third-party legal vetting before any token money is exchanged, protecting you from fraudulent claims."
+      },
+      {
+        "question": "Is Gharaunda a good location for long-term real estate investment now",
+        "answer": "Yes, Gharaunda is considered a promising investment location primarily due to its strategic position on NH-44 and proximity to Karnal city. Ongoing infrastructure projects, including highway upgrades and industrial growth surrounding the Sugar Mill area, are driving sustained property appreciation. Real Estate Agents in Gharaunda often advise focusing on residential plots near key connectivity points for maximum long-term return on investment."
+      },
+      {
+        "question": "What kind of properties are most in demand in Gharaunda currently",
+        "answer": "Currently, the highest demand in Gharaunda is for ready-to-move-in 2 BHK and 3 BHK independent houses, along with residential plots ranging from 6 Marla to 10 Marla near established colonies. Commercial property demand is also steady along the main road areas due to increased retail activity. Consult a local agent to match your investment goal with the current market hotspots."
+      },
+      {
+        "question": "Do agents in Gharaunda handle property disputes and inheritance cases",
+        "answer": "While Real Estate Agents in Gharaunda focus on facilitating sales and purchases, many are well-connected with specialized property lawyers who handle complex dispute resolution, succession certificates, and inheritance transfers. If your property transaction involves a legal hurdle, your agent acts as the essential bridge between you and qualified legal professionals."
+      },
+      {
+        "question": "What necessary documents should I prepare before meeting a Gharaunda agent for selling my property",
+        "answer": "As a seller, you should prepare the original sale deed, mutation documents, up-to-date property tax receipts, Aadhar Card and PAN Card for identity proof, and any previously approved building plans. Having these documents ready allows the Real Estate Agents in Gharaunda to quickly verify ownership and begin the listing and marketing process without delays."
+      },
+      {
+        "question": "How long does it typically take to sell a house in Gharaunda Karnal",
+        "answer": "The duration depends heavily on pricing and market conditions. A competitively priced, well-maintained house in a prime Gharaunda locality can sell within 30 to 60 days. However, factors like specialized property type or negotiation complexity can extend this timeline. Our experienced agents strive to minimize the market time through proactive listing strategies."
+      },
+      {
+        "question": "Can I use a Real Estate Agent to help me find commercial property for rent in Gharaunda",
+        "answer": "Absolutely. Many Real Estate Agents in Gharaunda specialize in commercial leasing, helping businesses find ideal locations for shops, offices, warehouses, or industrial plots near the highway or within the main mandi area. They negotiate lease terms, verify commercial approvals, and ensure the space meets your operational requirements efficiently."
+      },
+      {
+        "question": "What should I look for when selecting the best real estate agent in Gharaunda",
+        "answer": "Look for agents who have extensive experience specifically in the Gharaunda Karnal region, positive client testimonials, and clear communication skills. They should hold proper licensing, be transparent about their commission, and demonstrate a strong understanding of local regulations and current property values to truly represent your best interests."
+      },
+      {
+        "question": "Is it required to hire an agent for buying agricultural land near Gharaunda",
+        "answer": "While not strictly required by law, hiring a Real Estate Agent is highly advisable for agricultural land purchases near Gharaunda. Agents are essential for verifying land classification, checking for necessary permissions for non-agricultural use conversion if desired, and ensuring accurate measurement and boundary demarcation which can be complicated in rural settings."
+      }
     ]
   },
   "contactSection": {
@@ -84,6 +206,11 @@
       "If you are ready to take the next step in buying, selling, or investing in the Gharaunda real estate market, our experienced team is here to assist you. Contact us now to schedule a consultation with one of the most reputable Real Estate Agents in Gharaunda Karnal.",
       "Fill out the short form below with details about your requirements, and a dedicated local expert will reach out to provide personalized guidance and market analysis tailored to your specific goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

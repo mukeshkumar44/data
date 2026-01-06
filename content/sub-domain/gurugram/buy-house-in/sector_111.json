@@ -7,12 +7,18 @@
       "The properties available here range from independent builder floors to sprawling villas offering diverse architectural styles and investment profiles. We specialize in curating verified listings ensuring transparency and providing expert guidance throughout your purchase journey. Investing here means securing a future in a high-growth corridor guaranteeing excellent appreciation potential and immediate access to top-tier social amenities. Start exploring the perfect environment to buy house in Sector 111 Gurugram today."
     ],
     "buttons": [
-      { "label": "Explore Latest Listings", "path": "/listings" },
-      { "label": "Consult Our Property Experts", "path": "/contact" }
+      {
+        "label": "Explore Latest Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Consult Our Property Experts",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/hero-111-1.jpg",
-      "/images/hero-111-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -54,7 +60,58 @@
       "Sector 111 holds an enviable position right off the Dwarka Expressway making it one of the most accessible residential sectors in the region. This crucial connectivity ensures that residents enjoy swift travel times to both Central Gurugram and key areas of Delhi including the Indira Gandhi International Airport IGI. When you choose to buy house in Sector 111, you are investing in mobility and future infrastructure.",
       "The sector benefits immensely from proximity to major commercial hubs schools hospitals and retail destinations being developed along the expressway corridor. The well-planned internal road network within Sector 111 ensures easy movement while future Metro connectivity plans further boost its real estate attractiveness. This strategic positioning minimizes commuting stress and maximizes lifestyle convenience placing everything you need within easy reach making it a perfect spot for long-term residency and investment growth."
     ],
-    "locations": []
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Unmatched Reasons to Buy Your Dream House in Sector 111 Gurugram Today",
@@ -149,6 +206,11 @@
       "Ready to take the next step and buy house in Sector 111 Gurugram? Our specialized real estate consultants possess in-depth knowledge of this high-growth corridor.",
       "Contact us now for personalized advice detailed market analysis and exclusive access to off-market listings tailored perfectly to your investment goals or residential needs."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

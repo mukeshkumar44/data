@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "sector168_skyline.jpg",
-      "agent_meeting_noida.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Our Real Estate Agents in Sector 168 specialize in properties that offer superior connectivity to prominent destinations like Sector 142 IT Hub, ATS Bouquet, and the vital commercial developments along the Expressway. We focus on areas that promise excellent infrastructure, easy access to major roads, quality educational institutions, and healthcare facilities. Whether you need a quick commute to Delhi or easy access to Greater Noida, Sector 168 is perfectly situated, and our agents know precisely where the best opportunities lie."
     ],
     "locations": [
-      "Sector 142 Corporate Hub",
-      "Noida-Greater Noida Expressway Access",
-      "Proximity to Sector 137 Residential Zone",
-      "Near the proposed Metro Station line",
-      "Immediate access to Sector 144 green belt",
-      "Key commercial centres near Sector 168",
-      "High-rise residential complexes in Sector 168",
-      "Connecting roads to Faridabad-Noida-Ghaziabad FNG"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

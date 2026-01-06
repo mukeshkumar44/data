@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "flat_39_hero1.jpg",
-      "sector39_skyline.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "Furthermore the sector is well-served by prominent healthcare facilities like District Hospital Sector 39 and numerous established shopping complexes ensuring all necessities are within easy reach. The planned infrastructure developments in the surrounding areas promise further enhancement of connectivity and lifestyle amenities solidifying Sector 39 as a premier residential address in the NCR. The blend of established services and excellent future potential is what sets this location apart."
     ],
     "locations": [
-      "Noida City Centre Metro Station Proximity",
-      "GIP Mall and Atta Market Accessibility",
-      "Botanical Garden Metro Interchange Connectivity",
-      "Sector 37 and 41 Residential Areas Nearby",
-      "District Hospital Sector 39 Healthcare",
-      "Easy Access to Noida-Greater Noida Expressway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

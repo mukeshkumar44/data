@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "dhulkot_rental_hero1.jpg",
-      "dhulkot_rental_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "The area is well-served by public transport, providing quick routes into Ambala City and the railway station. Key amenities such as reputable schools, healthcare facilities, and daily convenience stores are all within a short radius, minimizing commuting stress for families. Furthermore, the rental rates in Dhulkot often present a better value proposition compared to the more central sectors of Ambala Cantt, allowing tenants to enjoy larger living spaces without significantly inflating their monthly budget. We highlight properties located near the best connecting roads and essential services to ensure maximum tenant satisfaction when searching for a House For Rent in Dhulkot."
     ],
     "locations": [
-      "Near Ambala Cantt Railway Station",
-      "Proximity to Chandigarh-Ambala Highway",
-      "Close to Major Dhulkot Schools",
-      "Easy Access to Ambala City Markets",
-      "Near Government Medical College and Hospital",
-      "Well-connected to NH 44 for regional travel"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

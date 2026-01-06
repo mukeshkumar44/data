@@ -7,10 +7,19 @@
       "Whether you are a corporate professional seeking a sleek studio or a family needing a vast 4 BHK, our extensive portfolio caters to every lifestyle requirement and budget. Enjoy unparalleled connectivity to Cyber City and Golf Course Road, along with immediate access to top schools, hospitals, and shopping centers. Start searching our exclusive listings and secure the best Flat For Rent in sushant_lok_phase_1 for immediate occupancy."
     ],
     "buttons": [
-      { "label": "Explore Verified Listings", "path": "/listings" },
-      { "label": "Request a Callback", "path": "/contact" }
+      {
+        "label": "Explore Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Callback",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Residential Configurations for Rent in Sushant Lok Phase 1",
@@ -52,14 +61,56 @@
       "Renting a flat here means you benefit not only from the localized infrastructure but also from the economic and social opportunities presented by adjacent prime sectors. Explore these key neighborhoods that enhance the value of choosing a Flat For Rent in sushant_lok_phase_1."
     ],
     "locations": [
-      "DLF Phase 4",
-      "MG Road",
-      "Sector 29",
-      "Golf Course Road",
-      "South City 1",
-      "Sikanderpur",
-      "HUDA City Centre",
-      "Sector 43"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Our dedicated rental specialists possess deep market knowledge of Sushant Lok Phase 1 and are committed to helping you find a property that perfectly aligns with your needs and financial plan. Leverage our expertise to streamline your search process.",
       "Contact us today to schedule exclusive property viewings, receive personalized assistance, and take the first step toward moving into one of Gurugram’s most desirable addresses. Fill out the quick enquiry form below."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

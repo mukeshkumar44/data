@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Ideal Shop Size and Configuration for Your Business Needs in DLF Phase 1",
@@ -58,14 +61,56 @@
       "DLF Phase 1 Gurugram acts as a magnet drawing consumers not only from its own exclusive residential sectors but also from adjacent established colonies and emerging business districts. This interconnectedness ensures that a shop for rent in DLF Phase 1 benefits from diverse consumer spending patterns high purchasing power and excellent accessibility via major roadways and public transport hubs. We focus on securing properties that leverage these surrounding market dynamics for maximum commercial impact."
     ],
     "locations": [
-      "DLF Phase 2 Commercial Market",
-      "Sector 14 HUDA Market",
-      "NHPC Chowk Connectivity Hub",
-      "Crown Plaza Business District",
-      "Green Field Colony Access Points",
-      "Sector 11 Commercial Zone",
-      "Main Mathura Road Proximity",
-      "Bypass Road Business Corridors"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

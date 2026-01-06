@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Residential Property Options When You Buy House in Sector 36 Gurugram",
@@ -58,12 +61,56 @@
       "The proximity to major employment hubs like Cyber City and Sohna Road makes the daily commute manageable and highly efficient for professionals. Furthermore, the area is well-supported by robust social infrastructure including world-class hospitals, leading educational institutions, and vibrant retail centres. This exceptional blend of residential comfort and infrastructural strength reinforces Sector 36 as a top-tier choice for those looking to buy a permanent residence in a rapidly appreciating locality of Gurugram."
     ],
     "locations": [
-      "Sohna Road Commercial Hub",
-      "Golf Course Extension Road Access",
-      "NH-48 Delhi-Jaipur Highway",
-      "Upcoming Metro Corridor Connectivity",
-      "Sector 37 D Gurugram",
-      "Air Force Station Faridabad"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

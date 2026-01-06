@@ -7,10 +7,19 @@
       "Begin your effortless journey of exploration through our varied property listings, which encompass everything from compact, efficient 1BHK units ideal for singles or small starter families, to expansive 3BHK and 4BHK independent houses thoughtfully designed to accommodate comfortable and luxurious family living. All listings available on our site are rigorously verified, ensuring complete transparency and guaranteeing a smooth, stress-free rental acquisition process from the initial inquiry stage right through to the final lease agreement signing. Secure your ideal residential property in one of Karnal’s most promising and sought-after localities and start experiencing unparalleled convenience and superior quality of life today."
     ],
     "buttons": [
-      { "label": "Browse All Rental Listings", "path": "/listings" },
-      { "label": "Contact Rental Experts", "path": "/contact" }
+      {
+        "label": "Browse All Rental Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Contact Rental Experts",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring the Variety of Residential Rental Properties Available in Karan Vihar Karnal",
@@ -52,12 +61,56 @@
       "The locality is bordered by well-established sectors and provides quick routes to commercial hubs and educational institutions. This accessibility makes daily commutes far simpler and ensures that shopping, entertainment, and healthcare are never far away. We encourage tenants to explore these nearby areas to fully appreciate the advantage of renting a home in Karan Vihar Karnal, which seamlessly blends quiet residential life with urban convenience."
     ],
     "locations": [
-      "Sector 6 Extension Karnal",
-      "Sector 7 Residential Area",
-      "Model Town Karnal",
-      "Jain Colony Residential Hub",
-      "Assandh Road Connectivity",
-      "Near National Highway 44 Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to secure the perfect House For Rent in Karan Vihar Karnal We are here to simplify your property search and provide professional guidance at every step. Fill out the contact form below with details about your requirements—desired size, budget range, and preferred move-in date.",
       "Our specialist rental consultants will promptly reach out to you with personalized listing recommendations that match your exact needs, saving you valuable time and effort. Start your journey toward finding your ideal rental home now."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

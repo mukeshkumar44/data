@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Flat Configurations and Premium Residential Options in Manesar NCR",
@@ -58,14 +61,56 @@
       "We focus on areas with proven track records of infrastructure development access to quality schools and healthcare facilities. These specific locations not only promise a superior daily life but also guarantee higher long-term investment viability due to their importance within the wider NCR development corridor. Explore the key areas where the best flats are currently available."
     ],
     "locations": [
-      "IMT Manesar Adjacent Sectors",
-      "NH-48 Expressway Corridor Projects",
-      "Sector 1 Manesar",
-      "Pataudi Road Connectivity Zone",
-      "Bharmakki & Kasan Area Developments",
-      "Institutional Area Proximity",
-      "Residential Zones near Industrial Model Township",
-      "New Gurgaon Extended Areas"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

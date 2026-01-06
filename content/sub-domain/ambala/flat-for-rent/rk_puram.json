@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Options Finding the Perfect Size Flat For Rent in RK Puram",
@@ -58,13 +61,56 @@
       "Additionally, blocks close to the bustling local markets provide unmatched daily convenience, ensuring that groceries, medical facilities, and entertainment are always within easy reach. Our listings cover the entire area, ensuring you have access to the best rental opportunities regardless of which specific block or sector you prefer. We provide deep insights into local rent trends, security ratings, and community demographics for each micro-location, empowering you to make the most informed decision about your next home in RK Puram."
     ],
     "locations": [
-      "RK Puram Sector 1 Flats",
-      "RK Puram Sector 4 Apartments",
-      "RK Puram Sector 7 Housing",
-      "Nanak Pura Extension Rentals",
-      "Areas Near Moti Bagh",
-      "Flats Near Vasant Vihar Border",
-      "RK Puram Market Area Homes"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

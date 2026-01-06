@@ -7,10 +7,19 @@
       "Stop navigating complicated listings alone. Trust the certified Real Estate Agents in Sector 29 who specialize in this thriving location. We provide personalized service backed by deep analytical data, helping you negotiate the best possible price whether buying, selling, or leasing. Start your successful property journey in Sector 29 Noida by partnering with the best in the business."
     ],
     "buttons": [
-      { "label": "Find Your Expert Agent", "path": "/contact" },
-      { "label": "View Sector 29 Listings", "path": "/listings" }
+      {
+        "label": "Find Your Expert Agent",
+        "path": "/contact"
+      },
+      {
+        "label": "View Sector 29 Listings",
+        "path": "/listings"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exclusive Services Offered by Leading Real Estate Agents for Properties in Sector 29 Noida",
@@ -52,14 +61,56 @@
       "We cover areas known for their excellent connectivity, superior infrastructure, and growing capital appreciation potential. Our commitment remains ensuring that wherever your property interest lies near Sector 29 Noida, you receive the same level of unparalleled service and market expertise. We constantly update our database with listings across these key areas, offering you the broadest possible selection of investment and living opportunities. Trust our professional Real Estate Agents to guide you confidently through the competitive landscape of the wider Noida property market, optimizing every transaction for maximum benefit."
     ],
     "locations": [
-      "Sector 18 Noida",
-      "Sector 30 Noida",
-      "Sector 28 Noida",
-      "Sector 27 Noida",
-      "Atta Market",
-      "Botanical Garden Area",
-      "DLF Mall of India Proximity",
-      "The Great India Place Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Take the first step toward achieving your property goals in Sector 29. Contact our professional team today and let us match you with a verified agent who specializes in your specific real estate needs, whether commercial, residential, buying, selling, or leasing.",
       "Our consultation is confidential and obligation-free. Fill out the form below, and an expert Real Estate Agent in Sector 29 will reach out to discuss how we can deliver exceptional results for you."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

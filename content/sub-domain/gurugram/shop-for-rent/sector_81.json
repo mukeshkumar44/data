@@ -7,12 +7,18 @@
       "Explore high-visibility ground floor units, mezzanine options, and spacious showrooms designed for maximum consumer engagement. Sector 81 is rapidly developing into a key commercial anchor point in Greater Gurugram, promising excellent long-term growth and stable tenant demand. Start your search today and position your brand strategically within this thriving marketplace."
     ],
     "buttons": [
-      { "label": "View Available Retail Spaces", "path": "/available-shops" },
-      { "label": "Get Rental Consultation", "path": "/contact-us" }
+      {
+        "label": "View Available Retail Spaces",
+        "path": "/available-shops"
+      },
+      {
+        "label": "Get Rental Consultation",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "shop-rent-sector-81-hero-1.jpg",
-      "commercial-space-faridabad.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "We help you understand how connectivity to adjacent markets impacts your business potential. While Sector 81 is rapidly maturing, proximity to sectors known for high consumer spending enhances visibility and ensures a steady supply chain for your operations. Discover key areas that complement your business in Sector 81."
     ],
     "locations": [
-      "Sector 80 Commercial Market",
-      "Sector 82 Shopping Arcades",
-      "BPTP Parklands Commercial Spaces",
-      "Neharpar Residential Hubs",
-      "Ambedkar Chowk Retail Zone",
-      "Proximity to Noida-Gurugram Expressway",
-      "Omaxe World Street Mall Access",
-      "Ajronda Chowk Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

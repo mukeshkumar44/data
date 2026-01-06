@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "shop_sector9_main.jpg",
-      "commercial_interior_sector9.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "We highlight specific commercial strips that consistently experience heavy commuter traffic and strong local residential patronage ensuring your investment is placed in a high-return zone. These strategic locations benefit immensely from excellent road connectivity and proximity to essential civic amenities like major banks hospitals and prestigious schools adding to the convenience for both customers and staff. Explore these integrated commercial options meticulously when seeking your perfect shop for sale in Sector 9 Karnal."
     ],
     "locations": [
-      "Sector 9 Main Market Complex",
-      "Retail Pockets near Old Bus Stand Road",
-      "Commercial Hubs bordering Sector 13",
-      "Neighborhood Retail Strips Sector 9",
-      "Kunjpura Road Commercial Link",
-      "Internal Residential Lane Shops"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

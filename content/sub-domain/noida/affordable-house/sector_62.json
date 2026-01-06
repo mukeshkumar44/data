@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "img/hero-sector-62-1.jpg",
-      "img/hero-sector-62-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "Sector 62's proximity to the Delhi Metro Blue Line stations notably Noida Electronic City offers immediate connectivity to Central Delhi and Ghaziabad. Furthermore its smooth access to NH-24 and the DND Flyway makes daily commuting painless a key factor in maximizing the quality of affordable living available here."
     ],
     "locations": [
-      "Noida Electronic City Metro Station",
-      "Sector 63 Commercial Hub",
-      "Indirapuram Ghaziabad",
-      "NH-24 National Highway",
-      "Fortis Hospital Noida",
-      "DND Flyway Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

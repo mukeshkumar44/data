@@ -7,10 +7,19 @@
       "Investing in property here means securing a future in a rapidly developing sector known for its robust infrastructure and proximity to major commercial hubs. Our expert team simplifies the buying process, providing transparent pricing and comprehensive documentation support. Explore the finest residential options and take the first step toward owning your dream home in Sector 38 Gurugram without any hassle or hidden costs"
     ],
     "buttons": [
-      { "label": "View All Available Flats", "path": "/flats-in-sector-38" },
-      { "label": "Request a Site Visit", "path": "/contact-us" }
+      {
+        "label": "View All Available Flats",
+        "path": "/flats-in-sector-38"
+      },
+      {
+        "label": "Request a Site Visit",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Features of a Flat For Sale in sector 38 That Guarantee Premium Living",
@@ -52,14 +61,56 @@
       "We list flats near prominent schools, healthcare facilities, shopping complexes, and major transport links. Understanding the local ecosystem is crucial for making an informed property decision. Review the areas adjacent to Sector 38 that contribute to its overall desirability and investment potential"
     ],
     "locations": [
-      "Sector 37 Gurugram",
-      "Sector 39 Gurugram",
-      "NHPC Chowk Metro Station",
-      "Crown Interiorz Mall",
-      "Surajkund Road Connectivity",
-      "Sector 41 Gurugram",
-      "Mathura Road NH-44 Access",
-      "Escorts Mujesar Metro Station"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to find your ideal Flat For Sale in sector 38 Gurugram Contact our experienced real estate professionals who possess in-depth knowledge of this specific market. We are here to answer all your queries, arrange site visits, and guide you through the entire property acquisition process transparently.",
       "Start your journey towards owning a premium residence today. Fill out the quick form below, and a dedicated representative will get back to you within the hour to discuss your specific requirements and financial goals"
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

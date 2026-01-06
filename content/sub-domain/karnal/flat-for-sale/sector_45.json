@@ -7,10 +7,19 @@
       "Discover unparalleled investment opportunities in this prime area where property values are steadily appreciating due to strategic development and excellent urban planning. Our comprehensive portfolio includes ready-to-move flats and exciting new construction projects ensuring you find a home that perfectly matches your lifestyle requirements and long-term financial goals. Start your journey toward owning a beautiful flat in Sector 45 Karnal a location synonymous with quality living future security and exceptional growth potential."
     ],
     "buttons": [
-      { "label": "Browse 2 BHK Flats", "path": "/2bhk-flats" },
-      { "label": "Get Free Consultation", "path": "/contact" }
+      {
+        "label": "Browse 2 BHK Flats",
+        "path": "/2bhk-flats"
+      },
+      {
+        "label": "Get Free Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Residential Unit Configurations and Investment Potential in Sector 45 Karnal",
@@ -52,14 +61,56 @@
       "Explore nearby sectors and major landmarks that enhance the daily lives of Sector 45 residents including top educational institutions healthcare facilities and shopping destinations. Our guide helps you understand how location factors contribute to the lifestyle quality and future appreciation of your flat investment."
     ],
     "locations": [
-      "Sector 44 Residential Area",
-      "National Highway 44 Connectivity",
-      "Karnal Bypass Road Access",
-      "Aastha Enclave",
-      "Pawan Vihar",
-      "Near Railway Road Link",
-      "Proximity to Reputed Schools",
-      "Medical Facilities Hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to find the perfect Flats For Sale in Sector 45 Karnal Your dream home or investment opportunity is just one step away. Contact our dedicated team of real estate professionals for personalized advice market insights and exclusive property tours tailored to your needs.",
       "Fill out the form below and let us guide you through the process of securing a high-value flat in this desirable location ensuring a smooth transparent and successful purchase experience."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

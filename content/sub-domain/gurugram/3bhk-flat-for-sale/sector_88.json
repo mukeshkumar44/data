@@ -7,12 +7,18 @@
       "Investing in a spacious 3BHK apartment here guarantees a high quality of life with immediate potential for capital appreciation due to the rapidly developing infrastructure of New Gurugram. From seamless commutes to access to top-tier educational institutions and healthcare facilities, Sector 88 delivers comprehensive urban living without compromising tranquility. Browse our curated listings today to find your dream ready-to-move or under-construction 3BHK unit in this vibrant hub of Gurugram."
     ],
     "buttons": [
-      { "label": "View Available 3BHK Listings", "path": "/listings" },
-      { "label": "Request Pricing Details Now", "path": "/contact" }
+      {
+        "label": "View Available 3BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Details Now",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "img/hero-3bhk-sector88-1.jpg",
-      "img/hero-3bhk-sector88-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -56,14 +62,56 @@
       "Furthermore the immediate vicinity boasts top schools reputable hospitals and sprawling retail complexes ensuring all your family's needs are met within a short drive. This ensures that the promise of luxury living is supported by practical accessibility and necessary social infrastructure."
     ],
     "locations": [
-      "Dwarka Expressway Access 2 minutes",
-      "NH 48 Access 5 minutes",
-      "IMT Manesar 15 minutes drive",
-      "Cyber City Gurugram 30 minutes drive",
-      "Vatika Business Park 10 minutes",
-      "Top Global Schools Nearby",
-      "Multi-Specialty Hospitals Within 10 minutes",
-      "Upcoming Metro Station Proximity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

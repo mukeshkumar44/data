@@ -7,10 +7,19 @@
       "Whether you are seeking a compact kiosk space for quick service or a sprawling retail showroom we have the perfect inventory to match your commercial ambitions. Investing in a shop for sale in Sector 15 guarantees visibility stability and strong return on investment (ROI) due to its proximity to residential hubs and major transit points. Explore our listings now and capitalize on one of Noida's most demanded commercial areas."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/available-shops" },
-      { "label": "Request Commercial Brochure", "path": "/contact-us" }
+      {
+        "label": "View Available Shops",
+        "path": "/available-shops"
+      },
+      {
+        "label": "Request Commercial Brochure",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["hero-shop-sector15.jpg", "commercial-noida-view.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Shop Formats Perfect for Your Business Needs in Sector 15",
@@ -52,14 +61,56 @@
       "The Sector benefits immensely from its excellent connectivity to Delhi and major parts of Noida via key arterial roads and the Delhi Metro Blue Line. This ease of access draws consumers from a wide catchment area ensuring your commercial venture is never short on visitors. Furthermore being adjacent to major corporate sectors and established residential colonies provides a ready-made clientele base making it one of the most reliable commercial investments in the NCR region."
     ],
     "locations": [
-      "Sector 15 Metro Station access",
-      "DND Flyway Connectivity",
-      "Sector 16 Film City proximity",
-      "Atta Market commercial zone",
-      "Central Market Sector 15 Block B",
-      "Proximity to Noida Expressway",
-      "Easy access to Ghaziabad road links",
-      "Close to major residential apartments"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to invest in a prime commercial shop for sale in Sector 15 Noida Don't miss out on securing an asset in one of the most profitable localities in the National Capital Region.",
       "Fill out the form below and a dedicated commercial real estate specialist will contact you immediately with personalized options tailored to your investment portfolio and retail goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,10 +7,19 @@
       "Jasbir Colony is rapidly growing offering a blend of peaceful residential living and excellent connectivity to major Rohtak hubs. Whether you are a first-time home buyer looking for an affordable plot or a seasoned investor seeking high-yield opportunities our local knowledge is your greatest asset. Trust our professional Real Estate Agents in Jasbir Colony Rohtak to unlock the best deals and provide comprehensive documentation support from initial viewing to final registration. Start your property search with confidence today and experience the difference true professionalism makes."
     ],
     "buttons": [
-      { "label": "Explore Available Plots Now", "path": "/property-listings" },
-      { "label": "Schedule a Free Consultation", "path": "/contact-us" }
+      {
+        "label": "Explore Available Plots Now",
+        "path": "/property-listings"
+      },
+      {
+        "label": "Schedule a Free Consultation",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["/images/jasbir-colony-hero-1.jpg", "/images/jasbir-colony-agent-team.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Popular Property Investment and Plot Sizes Available in Jasbir Colony Rohtak",
@@ -52,14 +61,56 @@
       "We provide seamless property tours and comparative analysis across various localities allowing you to make a fully informed decision based on connectivity infrastructure and future ROI. Explore these thriving communities alongside our expert Real Estate Agents in Jasbir Colony Rohtak."
     ],
     "locations": [
-      "Sector 14 Rohtak",
-      "Model Town Rohtak",
-      "Sunarian Kalan",
-      "Sector 35",
-      "Delhi Road Commercial Hub",
-      "Karan Vihar",
-      "Gohana Bypass Area",
-      "Sheela Bypass Rohtak"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards buying selling or investing in Jasbir Colony Rohtak property We are here to provide personalized expert guidance and immediate assistance. Do not leave your valuable transaction to chance rely on the most trusted local real estate advisors.",
       "Fill out the contact form below and one of our dedicated Real Estate Agents in Jasbir Colony will reach out within the hour to discuss your specific property requirements and objectives."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

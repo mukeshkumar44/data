@@ -7,12 +7,18 @@
       "Whether you are searching for a ready-to-move apartment, a residential plot to build your dream home, or commercial space for your business, connecting with the leading Real Estate Agents in Sector 37 ensures a smooth, transparent, and profitable transaction. We remove the stress from property dealings by providing vetted professionals who handle all legal documentation, market valuation, and skilled negotiation on your behalf. Start your successful property journey in Sector 37 today by partnering with the best."
     ],
     "buttons": [
-      { "label": "Find Your Sector 37 Agent", "path": "/contact" },
-      { "label": "Browse Available Listings", "path": "/listings" }
+      {
+        "label": "Find Your Sector 37 Agent",
+        "path": "/contact"
+      },
+      {
+        "label": "Browse Available Listings",
+        "path": "/listings"
+      }
     ],
     "images": [
-      "sector-37-hero-image-1.jpg",
-      "sector-37-agent-team.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "Our comprehensive service area covers key residential hubs, established commercial zones, and future expansion areas. This holistic approach guarantees that you benefit from maximum market exposure whether you are buying, selling, or leasing property near Sector 37. We connect you with verified sellers and genuine buyers across the entire Rohtak region."
     ],
     "locations": [
-      "Sector 36 Rohtak",
-      "Sector 35 Rohtak",
-      "Model Town Rohtak",
-      "Sunaria Kalan",
-      "Dabur Colony",
-      "Civil Lines Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -156,6 +206,11 @@
       "Ready to take the next step in your property journey in Sector 37 We are here to connect you with top-tier professionals who deliver results. Submit your details below to receive personalized attention and expert advice tailored to the specific dynamics of the Sector 37 market.",
       "Whether you are buying your first home or managing a complex investment portfolio, let our verified agents provide the seamless, secure service you deserve."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

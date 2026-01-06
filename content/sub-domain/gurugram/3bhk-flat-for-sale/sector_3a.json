@@ -7,12 +7,18 @@
       "Sector 3A is meticulously planned, ensuring quick access to essential services, major corporate hubs, and top-tier educational institutions. Whether you are a first-time homebuyer or seeking an upgrade for your family, finding the right 3BHK flat here means securing a valuable asset and enhancing your lifestyle. Explore floor plans, compare prices, and take the first step toward owning your dream home today in one of Gurugram's most sought-after addresses."
     ],
     "buttons": [
-      { "label": "Explore Available 3BHK Listings", "path": "/listings" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "Explore Available 3BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "image/hero-flat-view.jpg",
-      "image/sector3a-skyline.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "This excellent connectivity ensures minimal commute times to major employment zones and easy access to the Delhi-Jaipur Expressway (NH48), further solidifying the value proposition of choosing a 3BHK Flat For Sale in Sector 3A Gurugram for your next home purchase."
     ],
     "locations": [
-      "Close proximity to NH48 offering swift connectivity to Delhi",
-      "Easy access to major business districts and commercial centers",
-      "Well-developed road network connecting to surrounding sectors",
-      "Nearness to existing and planned Metro stations",
-      "Quick drive to Indira Gandhi International Airport New Delhi",
-      "Surrounded by renowned schools and healthcare facilities",
-      "Availability of numerous shopping centers and multiplexes nearby",
-      "Seamless connectivity to established Sector 4 and Sector 5 areas"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

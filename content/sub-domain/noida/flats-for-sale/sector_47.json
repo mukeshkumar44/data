@@ -7,10 +7,19 @@
       "Whether you are searching for a spacious 3 BHK apartment for your growing family or a compact, high-return 1 BHK unit for investment purposes, our curated listings feature properties from top-tier builders. Begin your journey toward secure, luxurious living today and explore why Sector 47 remains a prime choice for discerning homeowners."
     ],
     "buttons": [
-      { "label": "Explore Available Flats", "path": "/properties" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "Explore Available Flats",
+        "path": "/properties"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Flat For Sale in Sector 47 Configurations Tailored to Your Needs",
@@ -52,12 +61,56 @@
       "Living in Sector 47 means effortless access to key infrastructure including the nearest Metro station, making travel to Delhi and other parts of Noida extremely convenient. Proximity to major IT and corporate parks ensures a better work-life balance for professionals residing in this upscale area."
     ],
     "locations": [
-      "Noida Expressway Access",
-      "Key Metro Stations Nearby",
-      "Proximity to Schools and Universities",
-      "Near Major Corporate Hubs",
-      "Direct Road Connectivity to Greater Noida",
-      "Quick Access to Shopping Malls and Entertainment"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to secure your ideal Flat For Sale in Sector 47 Noida Our team of experienced real estate professionals is here to guide you through every step of the purchasing process.",
       "Get personalized property recommendations, detailed financial consultation, and up-to-date market insights specific to Sector 47. Contact us now to schedule a site visit or discuss your specific requirements."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

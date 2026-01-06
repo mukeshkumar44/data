@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-ranabagh-house1.jpg",
-      "hero-ranabagh-house2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "This locality is also favored for its established infrastructure. Residents of a House For Rent in Rana Bagh benefit from easy access to renowned educational institutions, leading healthcare facilities, and vibrant local markets like Sadar Bazaar. We highlight properties that offer the best balance between residential tranquility and urban convenience, ensuring you are never far from what you need. Exploring neighboring areas like Housing Board Colony and Nicholson Road becomes effortless from your Rana Bagh home."
     ],
     "locations": [
-      "Ambala Cantt Railway Station",
-      "Sadar Bazaar Market",
-      "Nicholson Road Ambala",
-      "Housing Board Colony",
-      "Ambala City Bypass Road",
-      "Mahavir Nagar"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

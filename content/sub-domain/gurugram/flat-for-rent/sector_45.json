@@ -7,10 +7,19 @@
       "Securing a rental flat here means choosing comfort, convenience, and community. We specialize in simplifying your property search, ensuring you find a home that perfectly matches your lifestyle requirements and budget constraints. Start your journey today and discover why a Flat For Rent in sector 45 is the smart choice for sophisticated urban living in Gurugram. Our listings are updated daily, offering detailed information and high-resolution images to help you make an informed decision without hassle."
     ],
     "buttons": [
-      { "label": "Browse 2 BHK Flats", "path": "/2bhk-rentals" },
-      { "label": "Schedule a Viewing", "path": "/contact-us" }
+      {
+        "label": "Browse 2 BHK Flats",
+        "path": "/2bhk-rentals"
+      },
+      {
+        "label": "Schedule a Viewing",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Flat Configurations and Premium Rental Options in Sector 45",
@@ -52,12 +61,56 @@
       "The proximity to the Delhi-Gurugram Skyway and the nearest Metro stations ensures quick travel across the National Capital Region NCR. Areas like Sector 46, Sector 43, and neighbouring Green Field Colony offer complementary services and amenities. Choosing a Flat For Rent in sector 45 positions you perfectly to enjoy the benefits of established residential infrastructure and thriving commercial activity without the congestion of older city centers."
     ],
     "locations": [
-      "Sector 46",
-      "Sector 43",
-      "Green Field Colony",
-      "Sector 42",
-      "Sainik Colony",
-      "NHPC Chowk"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

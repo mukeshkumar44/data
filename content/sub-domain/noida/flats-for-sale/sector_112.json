@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "flat-sector-112-hero-1.jpg",
-      "flat-sector-112-hero-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The connectivity provided by the Noida-Greater Noida Expressway and the Yamuna Expressway is a major driver of property appreciation here. Exploring flats in Sector 112 also means being close to thriving retail destinations and serene green belts enhancing the overall residential experience. We focus on properties that ensure you are never far from convenience."
     ],
     "locations": [
-      "Sector 78 Noida",
-      "Sector 75 Noida",
-      "Sector 110 Noida",
-      "FNG Expressway",
-      "Golf Course Extension",
-      "Gautam Buddha Nagar",
-      "Central Noida connectivity",
-      "Upcoming Metro Station access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-plot-sector104-1.jpg",
-      "hero-plot-sector104-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Furthermore the sector is rapidly developing commercial ecosystems ensuring that schools hospitals and high-street retail centers are merely minutes away from any Plot For Sale in Sector 104. Investment potential here is driven by ongoing infrastructure projects including upcoming metro expansion plans that promise to boost accessibility even further. We highlight plots near reputed educational institutions and leading healthcare facilities ensuring your future home is anchored in convenience. The combination of planned green spaces and superior connectivity solidifies Sector 104 as a premium destination for land investment in the rapidly appreciating Noida real estate market."
     ],
     "locations": [
-      "Noida-Greater Noida Expressway Access",
-      "Proximity to Sector 110 High Street Market",
-      "DND Flyway Connectivity",
-      "Reputed Schools and Universities Nearby",
-      "Leading Multi-Specialty Hospitals",
-      "Upcoming Metro Station Interchanges",
-      "Commercial Hubs and IT Parks",
-      "Planned Green Spaces and Parks"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

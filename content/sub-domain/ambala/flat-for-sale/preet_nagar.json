@@ -7,10 +7,19 @@
       "We provide verified properties ensuring transparent dealings and peace of mind throughout your home buying journey. This established neighborhood boasts proximity to essential services like schools hospitals and major transport hubs positioning it as a highly desirable location in the Ambala region. Invest in your future stability and upgrade your lifestyle by exploring the best residential flats currently available in this sought-after area. Our expert property consultants are ready to guide you through every step from selection to final possession ensuring a smooth and hassle-free transaction."
     ],
     "buttons": [
-      { "label": "Explore Verified Flat Listings", "path": "/listings" },
-      { "label": "Request a Free Consultation", "path": "/contact" }
+      {
+        "label": "Explore Verified Flat Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Free Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/preet-nagar-hero.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Investment Options When Buying a Flat For Sale in Preet Nagar Ambala",
@@ -52,14 +61,56 @@
       "We highlight key landmarks and nearby developments that contribute to the robust appeal of living in this dynamic yet tranquil environment. Whether you need swift access to educational institutions healthcare facilities or commercial markets living here streamlines your daily life and maximizes your convenience."
     ],
     "locations": [
-      "Ambala City Railway Station",
-      "National Highway NH44 Access",
-      "Ambala Cantt Area Proximity",
-      "Major Local Schools and Colleges",
-      "Sadar Bazaar Market Ambala",
-      "Reputed Multispeciality Hospitals",
-      "Local Commercial Shopping Complexes",
-      "Easy Access to Chandigarh Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Contact our dedicated real estate advisors today to receive personalized listings based on your budget and configuration preferences. We are here to answer your detailed questions provide site visits and ensure you find the perfect apartment seamlessly.",
       "Take the first step towards owning your dream home in one of Ambala’s most promising residential localities. Fill out the form below and an expert will reach out to you within 24 hours."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

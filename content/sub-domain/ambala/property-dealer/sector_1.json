@@ -7,12 +7,18 @@
       "Whether you are looking for the perfect site to build your family home or seeking a lucrative commercial opportunity near key amenities, our dedicated team provides personalized guidance from initial viewing to final registration. Trust our profound knowledge of Sector 1 market trends to help you find truly valuable property options that align perfectly with your future goals in this rapidly developing locality."
     ],
     "buttons": [
-      { "label": "Explore Verified Listings", "path": "/listings" },
-      { "label": "Schedule a Free Consultation", "path": "/contact" }
+      {
+        "label": "Explore Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Free Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/sector1_hero.jpg",
-      "/images/property_dealer_sector1.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "We help clients compare pricing, future infrastructure plans, and connectivity across a wider region, ensuring they make a highly informed decision that extends beyond the immediate locality. Whether you seek immediate habitation or long-term capital appreciation, understanding these interconnected zones is vital for securing the best value property investment in Ambala."
     ],
     "locations": [
-      "Sector 2 Ambala",
-      "Sector 7 Urban Estate",
-      "Sector 8 Ambala Cantt",
-      "Model Town Ambala City",
-      "Mahesh Nagar Investment Areas",
-      "Defence Colony Residential Plots"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

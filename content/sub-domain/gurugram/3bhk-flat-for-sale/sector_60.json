@@ -7,10 +7,19 @@
       "Whether you are seeking a spacious home for your growing family or an investment opportunity with high appreciation potential, our portfolio in Sector 60 provides compelling options. Each property boasts premium amenities, including integrated security systems, exclusive clubhouses, and extensive green areas. Secure your dream 3BHK flat in Sector 60 today and experience unparalleled urban convenience tailored to your refined tastes. Contact our expert team for personalized virtual tours and detailed pricing information."
     ],
     "buttons": [
-      { "label": "Get Exclusive Pricing", "path": "/pricing" },
-      { "label": "View Available Floor Plans", "path": "/floorplans" }
+      {
+        "label": "Get Exclusive Pricing",
+        "path": "/pricing"
+      },
+      {
+        "label": "View Available Floor Plans",
+        "path": "/floorplans"
+      }
     ],
-    "images": ["hero-3bhk-sector60-1.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse 3BHK Configurations and Layouts in Sector 60 Gurugram",
@@ -52,14 +61,56 @@
       "The infrastructure development in Sector 60 Gurugram is robust, with wide roads and planned civic amenities. Key areas like Cyber Hub, IFFCO Chowk, and the Delhi-Jaipur Expressway are easily accessible, significantly reducing commute times. This location promises both a tranquil residential environment and proximity to the fast-paced life of modern Gurugram."
     ],
     "locations": [
-      "Golf Course Extension Road Access",
-      "Rapid Metro Stations Proximity",
-      "Major Hospitals Medanta and Artemis",
-      "Premium Retail Destinations Malls",
-      "Business Districts Golf Course Road",
-      "Reputed Educational Institutes",
-      "Easy Access to Faridabad Expressway",
-      "Indira Gandhi International Airport Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to find your perfect luxury 3BHK flat for sale in Sector 60 Gurugram. Our dedicated real estate advisors possess deep market knowledge and can guide you through the selection, negotiation, and acquisition process seamlessly. We offer personalized property recommendations based on your specific budget and lifestyle needs.",
       "Do not miss out on the best investment opportunities this premium sector has to offer. Fill out the form below to receive exclusive property details, virtual tours, updated price lists, and comprehensive financial consultation entirely free of charge. Let us help you secure your future home."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

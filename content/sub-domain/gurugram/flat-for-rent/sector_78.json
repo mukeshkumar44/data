@@ -7,10 +7,19 @@
       "Discover competitive rental rates and properties that are conveniently located near essential services, top schools, and major corporate hubs across Gurugram. Whether you prioritize proximity to the nearby metro station or desire premium community amenities like swimming pools, clubhouses, and state-of-the-art gyms, our exclusive listings in Sector 78 meet diverse lifestyle needs effortlessly. Finding the best Flat For Rent in sector 78 has never been simpler, safer, or more transparent than with our dedicated property experts."
     ],
     "buttons": [
-      { "label": "Explore Rental Listings Now", "path": "/listings" },
-      { "label": "Contact Property Advisor", "path": "/contact" }
+      {
+        "label": "Explore Rental Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Contact Property Advisor",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Configurations of Flats For Rent Meeting Every Requirement in Sector 78 Gurugram",
@@ -52,14 +61,56 @@
       "Whether you are frequently travelling to Sector 79 for business or accessing the major highways towards Delhi, living in Sector 78 places you at the heart of convenience. Review these connecting localities to understand the robust infrastructure supporting your decision to secure a Flat For Rent in sector 78."
     ],
     "locations": [
-      "Sector 79 Gurugram",
-      "Sector 80 Gurugram",
-      "Naharpar Greater Gurugram",
-      "BPTP Parklands",
-      "Neharpar Residential Hub",
-      "Omaxe New Heights",
-      "Suriya Nagar",
-      "Tigaon Road Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

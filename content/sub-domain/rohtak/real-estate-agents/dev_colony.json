@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Residential Plot Sizes and Investment Opportunities Available in Dev Colony",
@@ -58,14 +61,56 @@
       "Our deep market penetration means we hold listings in burgeoning sectors and established colonies alike. This comprehensive coverage saves you time and ensures you see the full range of opportunities Rohtak presents. We offer detailed comparative market analysis between Dev Colony and neighboring areas like Sector 14, providing you with data-driven insights to make an informed choice. Trust us to be your single point of contact for all real estate needs throughout the Rohtak metropolitan area, leveraging local knowledge for your maximum benefit."
     ],
     "locations": [
-      "Sector 14 Rohtak",
-      "DLF Colony Rohtak",
-      "Mansarovar Colony",
-      "Sunaria Chowk Area",
-      "Civil Lines Rohtak",
-      "Arya Nagar Extension",
-      "Shivaji Colony",
-      "Gohana Road Rohtak"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

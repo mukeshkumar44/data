@@ -7,10 +7,19 @@
       "This locality offers unparalleled access to key civic amenities, including top schools, established markets, and reliable healthcare centers, making daily life effortless and convenient. Investing in a flat here means securing a future in one of Ambala’s most sought-after addresses. Start your journey toward owning a desirable apartment today and experience sophisticated urban living combined with serene surroundings."
     ],
     "buttons": [
-      { "label": "View All Verified Listings", "path": "/listings" },
-      { "label": "Schedule a Guided Site Visit", "path": "/contact" }
+      {
+        "label": "View All Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Guided Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Flat Configurations Available Now When Buying a Flat For Sale in Sector 1 Ambala",
@@ -52,12 +61,56 @@
       "Furthermore, Sector 1 is home to several well-known shopping complexes and fine dining establishments, making leisure and errand running convenient. We understand that proximity to work and quality education is crucial. This locality is densely populated with reputable educational institutions and established hospitals, ensuring all family needs are met within a short drive. Factor in the long-term benefit of living in a location that consistently demonstrates high capital appreciation due to its central and well-maintained status."
     ],
     "locations": [
-      "Ambala Cantt Railway Station Proximity",
-      "NH 44 Highway Access Point",
-      "Prominent Educational Institutions",
-      "Major Healthcare Centers & Hospitals",
-      "Sector 1 Local Market Area",
-      "Direct City Bus Connectivity Stops"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Connect with our specialized team to view the best available Flat For Sale in Sector 1 Ambala. Let us find your perfect home without delay.",
       "We offer personalized consultations and guided property tours tailored precisely to your schedule and specific residential requirements."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,10 +7,19 @@
       "We streamline the rental process providing transparent documentation and expert guidance from viewing to lease signing Explore the best opportunities for a shop for rent in Shiv Colony and give your venture the competitive edge it deserves Contact our commercial property specialists now to schedule a personalized viewing."
     ],
     "buttons": [
-      { "label": "Browse Available Shops", "path": "/listings" },
-      { "label": "Speak to an Expert", "path": "/contact" }
+      {
+        "label": "Browse Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Speak to an Expert",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero-shivcolony-shop.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Shop Sizes and Types Available for Commercial Rental in Shiv Colony Karnal",
@@ -19,12 +28,30 @@
       "We focus on providing detailed information regarding floor plans amenities and historical foot traffic patterns so you can make an informed investment decision Renting a shop in Shiv Colony Karnal means gaining access to a mature consumer base combined with excellent connectivity to other parts of the city Do not compromise on location or size when your business growth is at stake Review the categories below to identify the ideal commercial space that aligns perfectly with your strategic goals and operational needs Securing the right rental property is simpler than you think when you partner with local market experts dedicated to your success."
     ],
     "features": [
-      { "title": "Small Retail Shop", "description": "Ideal for start-ups beauty parlours or convenience stores These compact units offer high visibility at a lower monthly cost perfect for testing a new market concept Located near residential hubs they benefit from consistent neighbourhood traffic ensuring steady daily sales Find the perfect efficient commercial space here." },
-      { "title": "Medium Corner Store", "description": "Corner shops command attention providing two distinct faces for branding and customer entry These are highly desirable for pharmacies coffee shops or high-end boutiques Renting a corner shop in Shiv Colony maximizes your market presence and ensures excellent visibility from multiple approach roads." },
-      { "title": "Double-Height Showroom", "description": "Designed for businesses needing vertical space and grand displays such as furniture stores banks or large format electronics outlets These units offer a premium feel and superior brand recall They usually feature ample parking space and prominent frontage for effective advertising." },
-      { "title": "Back Office Setup", "description": "Sometimes the need is for a quiet operational base rather than direct retail interaction These spaces are suitable for logistics management call centres or remote services providers They often come with existing infrastructure and secure access reducing immediate fit-out costs." },
-      { "title": "Shops Near Main Road", "description": "Properties situated directly on the main access roads of Shiv Colony enjoy unparalleled exposure to vehicular and pedestrian traffic These locations are essential for businesses relying on high turnover and rapid customer acquisition Secure a prime frontage shop for rent where every passing vehicle is a potential customer." },
-      { "title": "Shop with Storage Space", "description": "For businesses requiring inventory management such as wholesale distributors or e-commerce fulfillment centres these shops offer dedicated storage or basement access maximizing the usable retail area They provide a practical solution for efficiency and stock control within the colony." }
+      {
+        "title": "Small Retail Shop",
+        "description": "Ideal for start-ups beauty parlours or convenience stores These compact units offer high visibility at a lower monthly cost perfect for testing a new market concept Located near residential hubs they benefit from consistent neighbourhood traffic ensuring steady daily sales Find the perfect efficient commercial space here."
+      },
+      {
+        "title": "Medium Corner Store",
+        "description": "Corner shops command attention providing two distinct faces for branding and customer entry These are highly desirable for pharmacies coffee shops or high-end boutiques Renting a corner shop in Shiv Colony maximizes your market presence and ensures excellent visibility from multiple approach roads."
+      },
+      {
+        "title": "Double-Height Showroom",
+        "description": "Designed for businesses needing vertical space and grand displays such as furniture stores banks or large format electronics outlets These units offer a premium feel and superior brand recall They usually feature ample parking space and prominent frontage for effective advertising."
+      },
+      {
+        "title": "Back Office Setup",
+        "description": "Sometimes the need is for a quiet operational base rather than direct retail interaction These spaces are suitable for logistics management call centres or remote services providers They often come with existing infrastructure and secure access reducing immediate fit-out costs."
+      },
+      {
+        "title": "Shops Near Main Road",
+        "description": "Properties situated directly on the main access roads of Shiv Colony enjoy unparalleled exposure to vehicular and pedestrian traffic These locations are essential for businesses relying on high turnover and rapid customer acquisition Secure a prime frontage shop for rent where every passing vehicle is a potential customer."
+      },
+      {
+        "title": "Shop with Storage Space",
+        "description": "For businesses requiring inventory management such as wholesale distributors or e-commerce fulfillment centres these shops offer dedicated storage or basement access maximizing the usable retail area They provide a practical solution for efficiency and stock control within the colony."
+      }
     ]
   },
   "locationsSection": {
@@ -34,14 +61,56 @@
       "Our experts focus on areas near the bustling Shiv Colony Market known for its intense pedestrian traffic ideal for retail and F&B businesses We also feature properties along the main thoroughfare connecting Shiv Colony to National Highway 44 ensuring easy accessibility for suppliers and customers traveling from outside the locality The availability of public transport and well-maintained roads adds immense value to any commercial property here When searching for a shop for rent in Shiv Colony Karnal consider areas close to established institutions or banking sectors as these points generate guaranteed daily footfall Partner with us to navigate the best pockets of this thriving community and secure a spot that guarantees maximum ROI on your commercial rental investment."
     ],
     "locations": [
-      "Shiv Colony Main Market Square",
-      "Near Ror Hospital Chowk",
-      "Kunjpura Road Access Points",
-      "Adjacent to Sector 6 Residential Blocks",
-      "Near Local Bank Branches and ATMs",
-      "Old Sabzi Mandi Area Connectivity",
-      "High Traffic Bus Stop Proximity",
-      "Near Government School Complex"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -51,30 +120,84 @@
       "We prioritize transparency in all dealings Every lease agreement is clearly explained and all documentation is verified saving you time and protecting you from potential legal issues Our inventory is regularly updated featuring newly available premium shops often before they hit the general market This speed is crucial in a fast-paced market like Shiv Colony Karnal where the best properties are secured quickly Furthermore we offer post-rental support including negotiation assistance and property management referral services making the entire experience seamless and professional Trust us to be your dedicated guide to finding the perfect shop for rent that drives profitability and long-term success for your business."
     ],
     "points": [
-      { "title": "Verified Listings and Owners", "description": "Every shop for rent in our database is personally inspected and all ownership documents are thoroughly verified by legal experts You gain peace of mind knowing you are dealing with legitimate properties and transparent landlords avoiding rental scams." },
-      { "title": "Strategic Location Intelligence", "description": "We use proprietary data to recommend shops that align perfectly with your business model considering factors like competitor proximity demographic density and peak hour traffic flow Securing the ideal Shiv Colony location is key to rapid business scaling." },
-      { "title": "Expert Lease Negotiation", "description": "Our team possesses extensive experience in commercial real estate negotiation securing the most favorable rental terms deposit requirements and lease periods for your business We save you money and protect your interests during every stage of the agreement." },
-      { "title": "Zero Hidden Fees Policy", "description": "We commit to full transparency regarding our service charges and brokerage fees There are absolutely no surprise costs or last-minute additions ensuring a clear and trustworthy financial transaction from start to finish." },
-      { "title": "Comprehensive Property Portfolio", "description": "Access a diverse range of shop sizes and layouts from small kiosks to large showrooms ensuring we can cater to virtually any commercial requirement within the Shiv Colony area We simplify your search process significantly." },
-      { "title": "Rapid Availability and Viewings", "description": "We understand that time is critical for business launch We ensure prompt property viewing arrangements and provide immediate availability status updates so you can secure the perfect shop for rent before the competition." },
-      { "title": "In-Depth Market Analysis", "description": "Receive localized reports detailing average rental rates commercial demand and infrastructure development plans specific to Shiv Colony Karnal Empowering you with knowledge to make a confident long-term business decision." },
-      { "title": "Support Beyond Signing", "description": "Our relationship does not end once the lease is signed We offer continued advisory support and connect you with local vendors for fit-outs legal counsel or property maintenance services ensuring a smooth transition." }
+      {
+        "title": "Verified Listings and Owners",
+        "description": "Every shop for rent in our database is personally inspected and all ownership documents are thoroughly verified by legal experts You gain peace of mind knowing you are dealing with legitimate properties and transparent landlords avoiding rental scams."
+      },
+      {
+        "title": "Strategic Location Intelligence",
+        "description": "We use proprietary data to recommend shops that align perfectly with your business model considering factors like competitor proximity demographic density and peak hour traffic flow Securing the ideal Shiv Colony location is key to rapid business scaling."
+      },
+      {
+        "title": "Expert Lease Negotiation",
+        "description": "Our team possesses extensive experience in commercial real estate negotiation securing the most favorable rental terms deposit requirements and lease periods for your business We save you money and protect your interests during every stage of the agreement."
+      },
+      {
+        "title": "Zero Hidden Fees Policy",
+        "description": "We commit to full transparency regarding our service charges and brokerage fees There are absolutely no surprise costs or last-minute additions ensuring a clear and trustworthy financial transaction from start to finish."
+      },
+      {
+        "title": "Comprehensive Property Portfolio",
+        "description": "Access a diverse range of shop sizes and layouts from small kiosks to large showrooms ensuring we can cater to virtually any commercial requirement within the Shiv Colony area We simplify your search process significantly."
+      },
+      {
+        "title": "Rapid Availability and Viewings",
+        "description": "We understand that time is critical for business launch We ensure prompt property viewing arrangements and provide immediate availability status updates so you can secure the perfect shop for rent before the competition."
+      },
+      {
+        "title": "In-Depth Market Analysis",
+        "description": "Receive localized reports detailing average rental rates commercial demand and infrastructure development plans specific to Shiv Colony Karnal Empowering you with knowledge to make a confident long-term business decision."
+      },
+      {
+        "title": "Support Beyond Signing",
+        "description": "Our relationship does not end once the lease is signed We offer continued advisory support and connect you with local vendors for fit-outs legal counsel or property maintenance services ensuring a smooth transition."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Securing a Shop For Rent in Shiv Colony Karnal",
     "description": "Get detailed answers to the most common queries regarding commercial property rentals lease terms and local market conditions in the bustling Shiv Colony area.",
     "faqs": [
-      { "question": "What are the standard lease terms for a commercial shop for rent in Shiv Colony", "answer": "Typically commercial lease agreements in Shiv Colony Karnal run for a minimum duration of 11 months renewable up to three or five years The standard lock-in period often ranges from 6 to 12 months meaning neither party can terminate the agreement during this time We highly recommend negotiating the escalation clause which details the percentage increase in rent upon renewal usually between 5% and 10% annually Our team assists in reviewing these terms to ensure they are favorable and clearly defined protecting your business continuity and financial planning throughout the lease duration." },
-      { "question": "How much security deposit is generally required for commercial rentals here", "answer": "The standard security deposit for a shop for rent in Shiv Colony is usually equivalent to 3 to 6 months of the monthly rent This deposit is held by the landlord as security against damage or breach of lease terms and is refundable upon the satisfactory termination of the agreement We advise tenants to document the exact condition of the property before moving in using photographs or videos to avoid disputes upon exit The precise amount is always negotiable based on the shop size location and the tenant’s financial profile but budgeting for at least a four-month deposit is a safe starting point." },
-      { "question": "Are there any restrictions on the type of business I can open in Shiv Colony shops", "answer": "While Shiv Colony is primarily a mixed-use area most shop rentals are suitable for standard retail food service or office use However it is crucial to verify local zoning regulations and the specific landlord’s restrictions before finalizing the lease agreement Businesses that generate excessive noise strong odors or require heavy industrial machinery might be restricted especially near purely residential blocks We help confirm that your intended business operation complies with all local municipal guidelines and the property owner’s consent to prevent future operational hurdles." },
-      { "question": "What factors influence the rental price of a commercial space in Shiv Colony Karnal", "answer": "Several key factors dictate the monthly rent for a shop in Shiv Colony Location is paramount properties facing the main road or those near a major intersection command the highest prices Size and floor level are also important ground-floor shops are always pricier than basements or upper floors Property condition age and the availability of amenities like dedicated parking power backup and high-speed internet connectivity significantly impact the final negotiated rate We provide comparable market analysis data to ensure you are renting a shop at a fair and competitive rate based on current market trends." },
-      { "question": "Who is responsible for repairs and maintenance during the shop rental period", "answer": "Generally the tenant is responsible for minor day-to-day repairs and general maintenance such as electrical fixes light bulb replacements and maintaining internal fixtures The landlord is typically responsible for structural repairs major leakage issues external painting and maintenance of common area facilities This division of responsibility must be explicitly detailed in the lease agreement We ensure this clause is precise to prevent ambiguities that could lead to unexpected costs or conflicts between the tenant and the property owner." },
-      { "question": "Can I make modifications or renovations to the shop I rent in Shiv Colony", "answer": "Yes you can usually make necessary modifications but only with the express written consent of the landlord prior to starting any work Minor cosmetic changes like painting may be acceptable but structural changes such as moving walls or altering the façade typically require a more formal approval process and sometimes municipal permits The lease agreement will specify whether the tenant is required to restore the property to its original condition upon exiting so plan your fit-out strategy accordingly in consultation with your landlord." },
-      { "question": "Is parking availability a major concern when renting a shop in this area", "answer": "Parking is a critical consideration for commercial success in Shiv Colony as it directly impacts customer accessibility Shops located on the main roads often face limited street parking but many newer commercial complexes offer dedicated basement or surface parking We prioritize listings that include adequate parking facilities or are located near public parking zones We always advise assessing customer convenience and the volume of expected traffic before finalizing a shop for rent location." },
-      { "question": "What documentation is needed to finalize a commercial shop rental agreement", "answer": "To secure a shop for rent in Shiv Colony you will need standard documents including identity proof Aadhar Card PAN Card business registration documents GST certificate if applicable and proof of financial stability such as bank statements or business profiles The landlord will typically require copies of these documents along with a signed lease deed and the initial deposit plus one month’s advance rent We assist both parties in compiling and verifying all necessary paperwork ensuring a smooth and legally compliant transaction." },
-      { "question": "How long does it typically take to complete the rental process and move in", "answer": "The entire process from initial inquiry to receiving the keys can take anywhere from one week to three weeks depending on the negotiation period and the complexity of required documentation Once a shop is finalized the legal drafting signing and handover of possession usually takes about 5 to 10 working days We accelerate this timeline by having pre-vetted legal templates and clear communication channels with landlords reducing unnecessary delays in launching your business operations in Shiv Colony." },
-      { "question": "What are the benefits of choosing a shop near residential pockets versus the main market area", "answer": "A shop near residential pockets benefits from consistent high-frequency local foot traffic and customer loyalty making it ideal for daily necessity stores services like laundromats or small clinics Shops in the main market area offer greater brand visibility and access to a wider customer base including those from outside Shiv Colony which is better suited for specialized retail or high-turnover businesses We help you weigh the pros and cons based on your specific target market and operational requirements." }
+      {
+        "question": "What are the standard lease terms for a commercial shop for rent in Shiv Colony",
+        "answer": "Typically commercial lease agreements in Shiv Colony Karnal run for a minimum duration of 11 months renewable up to three or five years The standard lock-in period often ranges from 6 to 12 months meaning neither party can terminate the agreement during this time We highly recommend negotiating the escalation clause which details the percentage increase in rent upon renewal usually between 5% and 10% annually Our team assists in reviewing these terms to ensure they are favorable and clearly defined protecting your business continuity and financial planning throughout the lease duration."
+      },
+      {
+        "question": "How much security deposit is generally required for commercial rentals here",
+        "answer": "The standard security deposit for a shop for rent in Shiv Colony is usually equivalent to 3 to 6 months of the monthly rent This deposit is held by the landlord as security against damage or breach of lease terms and is refundable upon the satisfactory termination of the agreement We advise tenants to document the exact condition of the property before moving in using photographs or videos to avoid disputes upon exit The precise amount is always negotiable based on the shop size location and the tenant’s financial profile but budgeting for at least a four-month deposit is a safe starting point."
+      },
+      {
+        "question": "Are there any restrictions on the type of business I can open in Shiv Colony shops",
+        "answer": "While Shiv Colony is primarily a mixed-use area most shop rentals are suitable for standard retail food service or office use However it is crucial to verify local zoning regulations and the specific landlord’s restrictions before finalizing the lease agreement Businesses that generate excessive noise strong odors or require heavy industrial machinery might be restricted especially near purely residential blocks We help confirm that your intended business operation complies with all local municipal guidelines and the property owner’s consent to prevent future operational hurdles."
+      },
+      {
+        "question": "What factors influence the rental price of a commercial space in Shiv Colony Karnal",
+        "answer": "Several key factors dictate the monthly rent for a shop in Shiv Colony Location is paramount properties facing the main road or those near a major intersection command the highest prices Size and floor level are also important ground-floor shops are always pricier than basements or upper floors Property condition age and the availability of amenities like dedicated parking power backup and high-speed internet connectivity significantly impact the final negotiated rate We provide comparable market analysis data to ensure you are renting a shop at a fair and competitive rate based on current market trends."
+      },
+      {
+        "question": "Who is responsible for repairs and maintenance during the shop rental period",
+        "answer": "Generally the tenant is responsible for minor day-to-day repairs and general maintenance such as electrical fixes light bulb replacements and maintaining internal fixtures The landlord is typically responsible for structural repairs major leakage issues external painting and maintenance of common area facilities This division of responsibility must be explicitly detailed in the lease agreement We ensure this clause is precise to prevent ambiguities that could lead to unexpected costs or conflicts between the tenant and the property owner."
+      },
+      {
+        "question": "Can I make modifications or renovations to the shop I rent in Shiv Colony",
+        "answer": "Yes you can usually make necessary modifications but only with the express written consent of the landlord prior to starting any work Minor cosmetic changes like painting may be acceptable but structural changes such as moving walls or altering the façade typically require a more formal approval process and sometimes municipal permits The lease agreement will specify whether the tenant is required to restore the property to its original condition upon exiting so plan your fit-out strategy accordingly in consultation with your landlord."
+      },
+      {
+        "question": "Is parking availability a major concern when renting a shop in this area",
+        "answer": "Parking is a critical consideration for commercial success in Shiv Colony as it directly impacts customer accessibility Shops located on the main roads often face limited street parking but many newer commercial complexes offer dedicated basement or surface parking We prioritize listings that include adequate parking facilities or are located near public parking zones We always advise assessing customer convenience and the volume of expected traffic before finalizing a shop for rent location."
+      },
+      {
+        "question": "What documentation is needed to finalize a commercial shop rental agreement",
+        "answer": "To secure a shop for rent in Shiv Colony you will need standard documents including identity proof Aadhar Card PAN Card business registration documents GST certificate if applicable and proof of financial stability such as bank statements or business profiles The landlord will typically require copies of these documents along with a signed lease deed and the initial deposit plus one month’s advance rent We assist both parties in compiling and verifying all necessary paperwork ensuring a smooth and legally compliant transaction."
+      },
+      {
+        "question": "How long does it typically take to complete the rental process and move in",
+        "answer": "The entire process from initial inquiry to receiving the keys can take anywhere from one week to three weeks depending on the negotiation period and the complexity of required documentation Once a shop is finalized the legal drafting signing and handover of possession usually takes about 5 to 10 working days We accelerate this timeline by having pre-vetted legal templates and clear communication channels with landlords reducing unnecessary delays in launching your business operations in Shiv Colony."
+      },
+      {
+        "question": "What are the benefits of choosing a shop near residential pockets versus the main market area",
+        "answer": "A shop near residential pockets benefits from consistent high-frequency local foot traffic and customer loyalty making it ideal for daily necessity stores services like laundromats or small clinics Shops in the main market area offer greater brand visibility and access to a wider customer base including those from outside Shiv Colony which is better suited for specialized retail or high-turnover businesses We help you weigh the pros and cons based on your specific target market and operational requirements."
+      }
     ]
   },
   "contactSection": {
@@ -83,6 +206,11 @@
       "Finding the right shop for rent in a competitive market like Shiv Colony requires expertise and local precision Do not waste valuable time scrolling through outdated or inaccurate listings Our dedicated commercial real estate team is here to provide personalized consultation and access to exclusive properties that perfectly match your business needs We understand the nuances of the Karnal commercial landscape and are committed to securing you a location that maximizes profitability",
       "Take the next step towards securing your business future Fill out the brief inquiry form below providing details about your spatial requirements budget and desired timeline Whether you are looking for a small retail unit or a large office space we ensure a swift and professional response Let us handle the complexity of the rental market while you focus on planning your successful business launch in Shiv Colony Karnal Reach out today to unlock the best commercial rental opportunities available."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,10 +7,19 @@
       "Stop scrolling endlessly through outdated listings. We offer transparent rental agreements, high-definition virtual tours, and expert local guidance specific to the Devi Nagar Ambala property market. Whether you are a student, a young professional, or a family relocating, securing your ideal home is simpler than ever. Explore the best options for a House For Rent in Devi Nagar and step into your new comfortable residence sooner than you thought possible. Our commitment is to match you with a home that meets your exact specifications and budget."
     ],
     "buttons": [
-      { "label": "Explore Rental Listings Now", "path": "/listings/devi-nagar" },
-      { "label": "Contact Rental Advisor", "path": "/contact" }
+      {
+        "label": "Explore Rental Listings Now",
+        "path": "/listings/devi-nagar"
+      },
+      {
+        "label": "Contact Rental Advisor",
+        "path": "/contact"
+      }
     ],
-    "images": ["devi_nagar_house_1.jpg", "devi_nagar_rent_street.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Popular Configurations When Searching for a House For Rent in Devi Nagar Ambala",
@@ -52,14 +61,56 @@
       "Our listings highlight properties based on their proximity to critical amenities ensuring that your rental decision provides maximum convenience and value. We cover houses near major commercial strips and essential services."
     ],
     "locations": [
-      "Near Ambala Cantt Railway Station",
-      "Proximity to Civil Hospital Ambala",
-      "Close to Jagadhri Road Commercial Area",
-      "Easy Access to Ambala Bus Stand",
-      "Near Ambala Public School and other major educational institutes",
-      "Residential streets leading towards Sector 7 Ambala",
-      "Quiet lanes near Shiv Mandir Devi Nagar",
-      "Rental homes with quick highway access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to move into your new home in Devi Nagar Ambala? Contact our specialized rental consultants now. We provide personalized assistance to match you with the perfect property quickly and efficiently.",
       "Submit your requirements using the form below, and an expert will reach out within hours to discuss the best available houses for rent that fit your budget and lifestyle needs in this sought-after locality."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,12 +7,18 @@
       "Our curated inventory features verified listings including spacious 1 BHK apartments 3 BHK luxury flats and well-maintained builder floors ensuring you find a home that perfectly matches your lifestyle needs and budget. Start your seamless property search with us and experience unmatched expertise in finding the ideal Flat For Rent in Sector 47 without any hassle or delay."
     ],
     "buttons": [
-      { "label": "Browse 2 BHK Listings", "path": "/2bhk-rentals" },
-      { "label": "Contact Rental Specialists", "path": "/contact-us" }
+      {
+        "label": "Browse 2 BHK Listings",
+        "path": "/2bhk-rentals"
+      },
+      {
+        "label": "Contact Rental Specialists",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "image/flat_sector_47_1.webp",
-      "image/flat_sector_47_2.webp"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The connectivity ensures quick access to the Noida-Greater Noida Expressway the nearest metro station and proximity to the vital retail and entertainment zones of Noida ensuring that everything you need is just a short drive away when you choose a Flat For Rent in Sector 47."
     ],
     "locations": [
-      "Near Botanical Garden Metro Station",
-      "Proximity to Noida Sector 18 Market",
-      "Easy Access to Noida-Greater Noida Expressway",
-      "Close to DLF Mall of India and Gardens Galleria",
-      "Adjacent to Sector 47 Community Park",
-      "Near Fortis Hospital Noida",
-      "Connected to Sector 44 and Sector 45",
-      "Quick drive to Film City"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Our dedicated team of Sector 47 rental specialists is ready to assist you through every step of the search and leasing process. Stop searching endless listings and let us connect you with vetted high-quality rental properties immediately.",
       "Fill out the form below with your requirements budget and preferred move-in date and we will curate a personalized list of the best available flats tailored just for you."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

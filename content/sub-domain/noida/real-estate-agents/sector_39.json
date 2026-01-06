@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Services Provided by Our Expert Real Estate Agents in Sector 39 Noida",
@@ -58,12 +61,56 @@
       "Beyond transport, Sector 39 is defined by its proximity to critical infrastructure and major institutions. We specialize in properties near the renowned District Hospital, ensuring clients are aware of local demand trends and rental potential influenced by institutional neighbors. Major shopping centers, top educational institutions, and thriving commercial hubs are just minutes away. When investing here, you are investing in unmatched convenience. Our agents can help you assess how factors like proximity to Sector 34, 40, and 41 enhance the long-term appreciation of your investment in Sector 39 Noida."
     ],
     "locations": [
-      "Noida District Hospital Complex",
-      "Sector 34 Metro Station Aqua Line",
-      "Major Shopping Malls and Retail Outlets",
-      "Proximity to Sectors 40 and 41 Noida",
-      "Direct Access to Noida Expressway",
-      "Established Educational Institutions"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

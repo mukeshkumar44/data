@@ -7,10 +7,19 @@
       "Sector 34 offers unparalleled connectivity to major business hubs, educational institutions, and essential amenities, making it a highly desirable residential zone. Our listings feature verified properties ranging from compact independent houses to builder floors, all priced competitively to deliver genuine value. Begin your journey toward secure, economical home ownership right here and experience the convenience of premium location without the premium price tag. Get started now to explore the best available options that fit your financial goals and lifestyle requirements."
     ],
     "buttons": [
-      { "label": "Explore Affordable Listings", "path": "/listings" },
-      { "label": "Request Free Consultation", "path": "/contact" }
+      {
+        "label": "Explore Affordable Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Free Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Diverse Plot Sizes and Housing Construction Possibilities in Sector 34 Noida",
@@ -52,14 +61,56 @@
       "Beyond connectivity, the area is surrounded by essential social infrastructure. Top-rated schools, multi-speciality hospitals, large shopping malls, and recreational parks are all within a short commuting distance. Investing in an affordable house in Sector 34 means buying into a fully developed ecosystem that supports modern family life without the usual high costs associated with premium sectors. This robust infrastructure ensures a high quality of life and makes Sector 34 an ideal choice for long-term settlement."
     ],
     "locations": [
-      "Sector 35 Residential Zone",
-      "Major Expressway Access Points",
-      "Upcoming Metro Link Stations",
-      "Nearby Educational Institutes",
-      "Shopping Complexes and Retail Parks",
-      "Healthcare Facilities and Clinics",
-      "Corporate Office Clusters",
-      "Green Parks and Recreational Areas"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

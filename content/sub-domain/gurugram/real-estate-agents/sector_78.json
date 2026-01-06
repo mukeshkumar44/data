@@ -7,10 +7,19 @@
       "Our network comprises established Real Estate Agents in Sector 78 who possess unmatched localized knowledge, negotiating power, and dedication to client satisfaction. Stop wasting time with general search results and partner with professionals who understand Sector 78’s unique market nuances, ensuring you secure the best possible value in this rapidly developing part of Gurugram. Start your search now for seamless buying, selling, or leasing."
     ],
     "buttons": [
-      { "label": "Find Your Expert Agent Now", "path": "/contact" },
-      { "label": "View Sector 78 Listings", "path": "/listings" }
+      {
+        "label": "Find Your Expert Agent Now",
+        "path": "/contact"
+      },
+      {
+        "label": "View Sector 78 Listings",
+        "path": "/listings"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Services Provided by Experienced Real Estate Agents in Sector 78 Gurugram",
@@ -52,13 +61,56 @@
       "Our network of real estate agents serves not only Sector 78 but also extends expertise across the contiguous sectors and developing areas, offering you a broader scope of property choices and comparative market analysis. Understanding the neighboring zones is critical for assessing future appreciation potential."
     ],
     "locations": [
-      "Sector 79 Gurugram",
-      "Sector 77 Gurugram",
-      "Sector 80 Gurugram",
-      "IMT Manesar",
-      "Kherki Daula Toll Plaza",
-      "NH-48 Connectivity Corridor",
-      "Southern Peripheral Road SPR access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -154,6 +206,11 @@
       "Ready to move forward with your property transaction in Sector 78 Gurugram Get in touch with our vetted network of local experts now. Whether you need a valuation, investment strategy consultation, or assistance finding your dream home, our agents are prepared to help.",
       "Submit your details below and a dedicated Real Estate Agent specializing in Sector 78 will contact you within the next 24 hours to discuss your specific requirements confidentially and without obligation."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

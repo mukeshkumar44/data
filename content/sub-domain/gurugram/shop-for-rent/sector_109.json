@@ -7,10 +7,19 @@
       "Our portfolio includes everything from small kiosks in bustling marketplaces to large anchor stores in modern commercial complexes. Sector 109's strategic location ensures maximum visibility and accessibility for your customers, being situated near major residential areas and key infrastructure projects. Secure your ideal shop rental in Sector 109 today and position your business for immediate growth and long-term profitability. We simplify the search process, providing detailed property information, competitive pricing, and professional guidance."
     ],
     "buttons": [
-      { "label": "Browse All Shop Listings", "path": "/shops/sector109/listings" },
-      { "label": "Get Rental Advice", "path": "/contact" }
+      {
+        "label": "Browse All Shop Listings",
+        "path": "/shops/sector109/listings"
+      },
+      {
+        "label": "Get Rental Advice",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/sector109/hero-shop-rental.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore the Diverse Commercial Shop Sizes Available for Rent in Sector 109 Gurugram",
@@ -52,14 +61,56 @@
       "Our property advisors can help you assess the micro-market dynamics of Sector 109, ensuring you choose a location that maximizes your business potential. Focus areas include complexes adjacent to major arterial roads and those serving densely populated residential sectors nearby."
     ],
     "locations": [
-      "Sector 108 Commercial Center",
-      "BPTP Parklands Commercial Plaza",
-      "Ambedkar Chowk Area",
-      "Neharpar Shopping Arcades",
-      "Sector 110 Connectivity Hub",
-      "Local Market Near Residential Tower 1",
-      "Badkhal Road Intersection",
-      "New Industrial Area Access Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to establish your business in one of Gurugram's most promising commercial zones Contact our specialized team now for personalized consultations and exclusive listings.",
       "We provide unbiased advice, market intelligence, and comprehensive support to help you find the perfect commercial rental property that aligns with your business goals and budget in Sector 109."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

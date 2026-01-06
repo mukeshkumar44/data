@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "sector15a_plot_hero1.jpg",
-      "sector15a_map.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "We provide details on neighboring sectors that complement the lifestyle offered by Sector 15A ensuring you understand the complete regional advantage of purchasing property here. This integrated connectivity ensures residents enjoy urban convenience without sacrificing the tranquility of a premium residential neighborhood."
     ],
     "locations": [
-      "Sector 18 Market and Entertainment Hub",
-      "Sector 17 Commercial District",
-      "Noida Golf Course Access",
-      "DND Flyway Connectivity",
-      "Mayur Vihar Extension Delhi",
-      "Kalindi Kunj Bridge Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

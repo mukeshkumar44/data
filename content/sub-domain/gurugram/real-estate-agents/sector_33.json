@@ -7,12 +7,18 @@
       "Whether you are looking to secure a prime commercial office space, divest an industrial plot, or find a profitable rental property, these professionals provide tailored advice and end-to-end transaction management. Stop wasting time with unverified listings and start working with agents committed to maximizing your property potential in this rapidly developing economic hub of Gurugram."
     ],
     "buttons": [
-      { "label": "Connect with Top Agents Now", "path": "/contact-agents" },
-      { "label": "View Sector 33 Property Listings", "path": "/listings/sector-33" }
+      {
+        "label": "Connect with Top Agents Now",
+        "path": "/contact-agents"
+      },
+      {
+        "label": "View Sector 33 Property Listings",
+        "path": "/listings/sector-33"
+      }
     ],
     "images": [
-      "/images/hero-sector33-agent1.jpg",
-      "/images/hero-sector33-map.png"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Whether you are expanding your commercial footprint or looking for residential convenience close to work, our agents provide seamless support across these strategic locations around Sector 33 Gurugram."
     ],
     "locations": [
-      "Sector 32 Gurugram",
-      "Sector 34 Gurugram",
-      "Sector 35 Gurugram",
-      "Sector 36 Gurugram",
-      "NH-48 Connectivity Zone",
-      "Pataudi Road Extension",
-      "Hero Honda Chowk Area",
-      "Manesar Industrial Belt"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to secure your next property investment or sale in the Sector 33 area of Gurugram? Fill out the brief form below with your specific requirements. We will instantly match you with highly qualified and vetted real estate professionals who specialize in your needs.",
       "Take the first step toward a seamless, profitable, and stress-free property transaction. Our expert agents are standing by to provide personalized consultancy and market insights."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

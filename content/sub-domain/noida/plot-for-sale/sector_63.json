@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Plot Sizes and Layouts Perfect for Constructing Your Dream Home in Sector 63",
@@ -58,12 +61,56 @@
       "Furthermore, essential social infrastructure is readily accessible. Renowned schools, world-class hospitals, and vibrant retail complexes are all within a short driving distance enhancing the quality of life for residents. Investing in a plot in Sector 63 is not just buying land it is securing a stake in Noida’s future economic trajectory. We highlight the nearby connectivity points and infrastructure benefits that make this location superior for both personal residence construction and pure land investment purposes."
     ],
     "locations": [
-      "Proximity to Electronic City Metro Station",
-      "Easy Access to NH-24 and Noida-Greater Noida Expressway",
-      "Near Major IT and BPO Corporate Campuses",
-      "Surrounded by Top Educational Institutions and Universities",
-      "Established Retail and Dining Zones close by",
-      "Swift connection to Ghaziabad and East Delhi areas"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

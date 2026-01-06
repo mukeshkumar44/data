@@ -7,10 +7,19 @@
       "Sector 15 offers a unique blend of convenience and quality living, situated strategically near major commercial hubs and metro stations. Stop scrolling endless portals and let our expert insights guide you toward securing a home that perfectly aligns with your lifestyle. Explore verified, budget-friendly, and ready-to-move rental options right here and begin your seamless moving journey now."
     ],
     "buttons": [
-      { "label": "Explore 2 BHK Flats", "path": "/2bhk-rentals" },
-      { "label": "Contact Rental Experts", "path": "/contact-us" }
+      {
+        "label": "Explore 2 BHK Flats",
+        "path": "/2bhk-rentals"
+      },
+      {
+        "label": "Contact Rental Experts",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["hero1.jpg", "hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Rental Options Available for a Flat For Rent in Sector 15 Noida",
@@ -52,12 +61,56 @@
       "We believe in providing comprehensive options. If your search for a specific Flat For Rent in Sector 15 proves challenging, consider these excellent nearby alternatives. Each location listed below offers its own unique set of amenities and benefits, ensuring you find the perfect rental solution tailored to your budget and specific lifestyle demands."
     ],
     "locations": [
-      "Sector 16 Noida",
-      "Sector 17 Noida",
-      "Sector 18 Atta Market",
-      "Sector 1 Noida",
-      "Sector 2 Noida",
-      "Noida Extension"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to take the next step towards your new home. Our dedicated team of Sector 15 rental specialists is here to streamline your search process, offer virtual tours, and handle all negotiations. We ensure a stress-free transition into your ideal rental property.",
       "Fill out the form below with your requirements—budget, preferred size, and move-in date—and we will send you a personalized list of verified, high-quality listings that match your exact criteria. Start living better in Sector 15 Noida today."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

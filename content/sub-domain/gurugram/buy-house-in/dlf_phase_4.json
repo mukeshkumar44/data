@@ -16,7 +16,10 @@
         "path": "/tour"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Ideal Plot and Built-up Sizes Available for Your Dream House in DLF Phase 4",
@@ -58,14 +61,56 @@
       "Residents benefit from immediate proximity to world-class educational institutions, top-tier healthcare facilities, and the finest retail and dining destinations. The neighborhood’s self-sufficient nature, combined with its accessibility to major commercial business districts like Cyber City, makes it the preferred residential locale for corporate executives and successful entrepreneurs seeking convenience without compromising luxury or tranquility."
     ],
     "locations": [
-      "Galleria Market and Shopping Complexes",
-      "DLF City Club 3 Private Amenities",
-      "Supermart 1 and Daily Needs Retail",
-      "Proximity to Golf Course Road",
-      "Huda City Centre Metro Connectivity",
-      "Leading Hospitals like Max and Fortis",
-      "Top International Schools nearby",
-      "Easy Access to NH-48 Expressway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -150,8 +195,8 @@
         "answer": "Yes, NRIs face minimal restrictions when purchasing residential property in DLF Phase 4 India, subject to prevailing foreign exchange regulations. They must ensure payments are made through appropriate banking channels. We specialize in handling NRI property acquisition, managing documentation, power of attorney setups, and repatriation requirements, simplifying the entire investment process for our international clients."
       },
       {
-      "question": "Is DLF Phase 4 a good long-term investment location compared to newer sectors",
-      "answer": "DLF Phase 4 is considered a blue-chip investment due to its established infrastructure, central location, and inherent prestige, factors that newer sectors cannot immediately replicate. While new sectors might offer higher short-term growth volatility, DLF Phase 4 provides stability, robust rental yield, and consistent, reliable capital appreciation over the long term, making it a safer and more established choice for serious investors."
+        "question": "Is DLF Phase 4 a good long-term investment location compared to newer sectors",
+        "answer": "DLF Phase 4 is considered a blue-chip investment due to its established infrastructure, central location, and inherent prestige, factors that newer sectors cannot immediately replicate. While new sectors might offer higher short-term growth volatility, DLF Phase 4 provides stability, robust rental yield, and consistent, reliable capital appreciation over the long term, making it a safer and more established choice for serious investors."
       }
     ]
   },

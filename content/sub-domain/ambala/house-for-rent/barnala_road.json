@@ -7,10 +7,19 @@
       "Explore diverse options ranging from newly constructed duplexes to established independent kothis offering ample parking and green space. We specialise in helping tenants locate their ideal House For Rent in Barnala Road quickly and seamlessly, providing detailed property insights, transparent rental agreements, and dedicated local support. Start your search now and step into your new home without the usual rental hassle."
     ],
     "buttons": [
-      { "label": "View Latest Rental Listings", "path": "/listings/barnala-road" },
-      { "label": "Request a Free Callback", "path": "/contact" }
+      {
+        "label": "View Latest Rental Listings",
+        "path": "/listings/barnala-road"
+      },
+      {
+        "label": "Request a Free Callback",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Popular Types of Rental Houses Available on Barnala Road Ambala",
@@ -52,14 +61,56 @@
       "Our expertise covers rentals across the entire Barnala Road corridor and its prime surrounding areas. We focus on properties that offer excellent public transport access, robust local amenities, and proven security measures, ensuring a high-quality residential experience for all our clients looking for a House For Rent in Barnala Road Ambala."
     ],
     "locations": [
-      "Main Barnala Road Ambala",
-      "Urban Estate Sector 7",
-      "Vijay Nagar Extension",
-      "Shastri Nagar Residential Area",
-      "Mahesh Nagar Colony",
-      "Model Town Rentals",
-      "New Defense Colony Houses",
-      "Jain Colony Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure the perfect House For Rent in Barnala Road Ambala The property market moves quickly, especially for quality independent homes. Do not miss out on your ideal rental opportunity.",
       "Contact our dedicated rental experts now. We provide personalised search assistance, professional lease negotiation, and verified listings to ensure a smooth, worry-free relocation experience."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

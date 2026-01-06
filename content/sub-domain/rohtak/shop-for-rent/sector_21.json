@@ -7,10 +7,19 @@
       "Unlock your business potential by securing a strategically located rental unit that benefits from high residential density and excellent connectivity across Rohtak. From small retail units perfect for startups to expansive double-story shops ideal for established brands, explore our curated selection and find the commercial space that aligns perfectly with your operational needs and budget. Start your successful business journey in Sector 21 now."
     ],
     "buttons": [
-      { "label": "View Available Rental Shops", "path": "/sector-21-rental-listings" },
-      { "label": "Contact Commercial Experts", "path": "/contact-us" }
+      {
+        "label": "View Available Rental Shops",
+        "path": "/sector-21-rental-listings"
+      },
+      {
+        "label": "Contact Commercial Experts",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["shop_rent_sector21_hero1.jpg", "commercial_property_rohtak.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Shop Types Available for Rent in Sector 21 Rohtak",
@@ -52,12 +61,56 @@
       "The location benefits from proximity to key governmental offices and large residential sectors, ensuring a steady stream of ready consumers. We focus on listing shops situated in blocks known for superior infrastructure and planned market development, ensuring your investment in rent yields optimal returns and sustained growth."
     ],
     "locations": [
-      "Main Market Block Sector 21",
-      "Retail Hub Near Sector 21 Exit Gate",
-      "Commercial Area adjacent to Sector 22",
-      "Institutional Belt near Sector 21",
-      "Shopping Plaza on Sector 21 Bypass Road",
-      "High Street Retail Zones Sector 21 Rohtak"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to establish your business in one of Rohtak’s most promising commercial zones Contact our expert team for personalised assistance in selecting the perfect shop for rent in Sector 21.",
       "We provide comprehensive support from initial property viewing to final lease agreement signing. Tell us your requirements and let us match you with a verified, high-potential commercial space."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

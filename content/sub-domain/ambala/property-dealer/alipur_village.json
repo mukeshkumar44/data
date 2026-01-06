@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "alipur_village_hero_plot.jpg",
-      "ambala_residential_area.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Our knowledge extends beyond just plot boundaries; we understand the micro-market dynamics and socio-economic factors driving property value appreciation across Ambala. Whether you are looking for properties close to the main highway, near the local bustling market, or specifically in quieter, established residential pockets within Alipur Village, our extensive listings are categorized for optimal searchability. Trust your local and experienced Property Dealer in Alipur Village Ambala to guide you through the best neighborhoods that ensure your family's safety, comfort, and future prosperity through sensible real estate choices."
     ],
     "locations": [
-      "Ambala Cantt Residential Zones",
-      "Sector 7 Ambala Connectivity",
-      "Shanti Nagar Housing Options",
-      "Naggal Bypass Road Developments",
-      "Baldev Nagar Extension Plots",
-      "Sadar Bazaar Commercial Spaces",
-      "Railway Station Nearby Housing",
-      "National Highway 44 Access Points"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

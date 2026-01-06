@@ -7,12 +7,18 @@
       "Searching for a flat for rent in Sector 82 has never been easier. We provide up-to-date information on rental prices lease terms and proximity to essential services like metro stations schools and shopping centers. Start your effortless property search now and step into a home that complements your lifestyle in one of Noida’s most developing sectors."
     ],
     "buttons": [
-      { "label": "Explore Verified Rental Listings", "path": "/search-flats" },
-      { "label": "Request a Callback for Viewing", "path": "/contact-us" }
+      {
+        "label": "Explore Verified Rental Listings",
+        "path": "/search-flats"
+      },
+      {
+        "label": "Request a Callback for Viewing",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "hero-flat-82-1.jpg",
-      "hero-flat-82-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Beyond transport infrastructure the area is rich with social amenities. Within a short drive you can reach top-tier educational institutions healthcare facilities and major retail outlets including several prominent malls. We focus on listing properties that maximize tenant convenience ensuring daily needs are met effortlessly. Understanding the hyperlocal advantage of Sector 82 is crucial for making the best rental decision for your family or career."
     ],
     "locations": [
-      "Noida Expressway Proximity for Quick Commute",
-      "Sector 142 Metro Station Access",
-      "Genesis Global School and Nearby Education Hubs",
-      "Major Commercial Sector 137 Business Parks",
-      "Shaheed Bhagat Singh Park Recreational Area",
-      "Closest Access to Major Hospitals",
-      "Proximity to Leading Shopping Malls and Retail Centers",
-      "Direct Road Link to Sector 108 and 143"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "shop_exterior_sector86.jpg",
-      "retail_interior_modern.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Explore how proximity to major schools, hospitals, and entertainment zones impacts the commercial viability of your chosen shop location. Our listings focus on spots with established catchment areas, reducing the time required to build customer awareness and boosting sales performance from day one in Sector 86."
     ],
     "locations": [
-      "Omaxe World Street Proximity",
-      "Surrounding High-Density Residential Projects",
-      "Direct Connectivity to Badkal Lake Bypass",
-      "Access to FNG Expressway",
-      "Near Proposed Metro Line Extension",
-      "Adjacent to Sector 86 Institutional Area",
-      "Easy Access to Major Hospitals",
-      "Close to Sector 87 Commercial Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,12 +7,18 @@
       "Explore modern 2 BHK and 3 BHK flats designed with contemporary architecture and high-quality finishes. These properties promise comfort security and excellent future appreciation making now the ideal time to invest. Whether you are a first-time homebuyer or looking to upgrade your lifestyle our extensive portfolio of apartments in Sector 7 Ambala ensures you find a home that exceeds your expectations."
     ],
     "buttons": [
-      { "label": "View Exclusive Flat Listings", "path": "/listings" },
-      { "label": "Request a Free Consultation", "path": "/contact" }
+      {
+        "label": "View Exclusive Flat Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Free Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "flat-sector7-exterior.jpg",
-      "flat-sector7-living.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Furthermore Sector 7 is surrounded by key social infrastructure. Reputed educational institutions high-quality healthcare facilities and sprawling commercial hubs are just a short drive away. This proximity ensures that residents enjoy a balanced lifestyle where convenience is paramount. Whether it is access to the best schools for your children or immediate medical support Sector 7 provides the perfect backdrop for integrated family living. Discover the true convenience of Ambala's best residential area."
     ],
     "locations": [
-      "DPS Ambala",
-      "Ambala City Railway Station",
-      "Prominent Multispeciality Hospitals",
-      "Malls and Retail Markets",
-      "National Highway Access NH44",
-      "Parks and Green Spaces",
-      "Banking and Financial Institutions",
-      "Ambala Cantt Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to take the next step towards owning your ideal Flat For Sale in Sector 7 Ambala Get in touch with our dedicated property consultants who possess unparalleled local market knowledge and expertise. We are here to answer your specific queries schedule site visits and provide customized investment advice tailored to your goals.",
       "Fill out the inquiry form below and let us guide you effortlessly towards finding your perfect residential property in this prime Ambala location. Secure your future home now."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

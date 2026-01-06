@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero_sector53_agents.jpg",
-      "luxury_apartment_gurugram.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Understanding the comparative advantages of each adjacent area is crucial for making an informed investment decision in Gurugram. Our local expertise spans popular zones like Sector 54, Sector 55, and the established blocks of DLF Phase 5. This extended coverage allows our agents to offer a broader range of options tailored to specific budget and location preferences, whether you prioritize proximity to major corporations, luxury amenities, or easy access to the Delhi Metro network. When you search for the best real estate agents in Sector 53, you are accessing a network that understands the entire Southern Peripheral Road ecosystem, ensuring comprehensive market insights every step of the way."
     ],
     "locations": [
-      "Sector 54",
-      "Sector 55",
-      "DLF Phase 5",
-      "Ardee City",
-      "Nirvana Country",
-      "Sushant Lok Phase 2",
-      "South City 1",
-      "Golf Course Extension Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

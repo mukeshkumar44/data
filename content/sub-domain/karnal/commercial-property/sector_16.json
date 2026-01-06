@@ -7,10 +7,19 @@
       "We offer verified listings including SCO plots, independent commercial buildings, and ready-to-move retail spaces designed for maximum visibility and foot traffic. Investing in commercial property here guarantees strong rental yields and significant capital appreciation over the next five years due to the sector’s strategic location near major transport links and high-income residential catchments. Discover why Sector 16 is the smartest choice for your next major investment venture."
     ],
     "buttons": [
-      { "label": "Explore Commercial Listings", "path": "/listings" },
-      { "label": "Request Investment Guide", "path": "/guide" }
+      {
+        "label": "Explore Commercial Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Investment Guide",
+        "path": "/guide"
+      }
     ],
-    "images": ["hero-commercial-sector-16-karnal.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Property Options Catering to Every Business Need in Sector 16 Karnal",
@@ -52,12 +61,56 @@
       "Our focus is on delivering Commercial Property For Sale in Sector 16 that benefits from superb access to major regional markets and high-density residential areas, securing your investment against market fluctuations and promoting robust appreciation."
     ],
     "locations": [
-      "Sector 15 Main Market Commercial Hub",
-      "Sector 13 Extension Business Corridor",
-      "Kunjpura Road Retail Zones",
-      "National Highway 44 Bypass Commercial Entry",
-      "Model Town Institutional Area",
-      "Indri Road New Development Clusters"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to explore the best Commercial Property For Sale in Sector 16 Karnal? Contact our specialized investment advisors now. We provide confidential consultations tailored to your financial goals and commercial property requirements.",
       "Fill out the form below and a senior real estate expert focused purely on Sector 16 commercial opportunities will reach out to you within one business hour to discuss exclusive listings and market insights."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

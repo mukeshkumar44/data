@@ -7,10 +7,19 @@
       "These properties benefit from exceptional infrastructure, dense surrounding residential colonies, and proximity to major commercial hubs. Whether you are looking for a small retail unit, a spacious Store-Cum-Office (SCO), or a corner property for high brand visibility, our listings meet every commercial need. Don't miss this opportunity to capitalize on the sustained economic growth of Sector 7 and ensure guaranteed rental returns and significant capital appreciation over time."
     ],
     "buttons": [
-      { "label": "View Shop Listings", "path": "/listings/shops" },
-      { "label": "Request Free Consultation", "path": "/contact" }
+      {
+        "label": "View Shop Listings",
+        "path": "/listings/shops"
+      },
+      {
+        "label": "Request Free Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["/img/sector7_shop_hero.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Ideal Commercial Dimensions Matching Your Business Vision in Sector 7 Karnal",
@@ -52,14 +61,56 @@
       "This proximity to housing areas eliminates reliance solely on main road traffic, ensuring steady business throughout the week, not just on weekends. The area boasts ample public parking, well-maintained wide roads, and modern utilities, all essential ingredients for a successful commercial venture. When you seek a shop For Sale in Sector 7, you are buying into an established commercial reputation recognized across Karnal for its reliability and high business activity. Explore the unparalleled advantages of this commercial hotspot and elevate your business presence immediately."
     ],
     "locations": [
-      "Sector 6 Karnal Commercial Zone",
-      "Sector 8 Retail Market",
-      "Karnal Bus Stand Proximity",
-      "Near NH 44 Bypass",
-      "Sector 12 Shopping Complex",
-      "Model Town High Street",
-      "Ram Nagar Main Market",
-      "Prem Nagar Residential Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "The opportunity to own a prime commercial shop in Sector 7 is highly competitive. High visibility units are sold quickly due to their guaranteed returns and strategic location within Karnal's economic landscape. Our dedicated team of commercial property experts specializes in identifying off-market listings and securing the best possible deals tailored to your investment goals.",
       "Whether you require detailed financial projections, site visits, or legal counsel, we are here to simplify the acquisition process. Contact us now to discuss available inventory, receive personalized investment advice, and take the definitive step toward securing a highly profitable asset in Sector 7 Karnal. Let us help you transform your investment strategy into tangible success."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

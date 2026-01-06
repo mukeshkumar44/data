@@ -7,12 +7,18 @@
       "sector 2 offers residents excellent social infrastructure, including proximity to top schools, healthcare facilities, and vibrant local markets. Investing in a Flat For Sale in sector 2 Gurugram guarantees not just a home, but a smart asset in a rapidly appreciating area. Explore properties that are fully compliant, often located in secure gated societies, ensuring maximum safety and modern amenities for your family. Start your home-buying journey with us today and secure the perfect flat."
     ],
     "buttons": [
-      { "label": "Explore Ready-to-Move Flats", "path": "/search/sector 2/ready-to-move" },
-      { "label": "Request a Call Back", "path": "/contact" }
+      {
+        "label": "Explore Ready-to-Move Flats",
+        "path": "/search/sector 2/ready-to-move"
+      },
+      {
+        "label": "Request a Call Back",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/hero-sector2-flat1.jpg",
-      "/images/hero-sector2-map.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The area is self-sufficient, boasting nearby schools like DPS and modern healthcare facilities, ensuring that all necessary services are within easy reach. Furthermore, recreational spots, shopping complexes, and dining options are plentiful, enriching the quality of life for all inhabitants. Investing here means choosing a location that supports both professional life and family well-being."
     ],
     "locations": [
-      "Major Malls and Shopping Centres",
-      "Proximity to Delhi Metro Stations",
-      "Leading Educational Institutions",
-      "World-Class Hospitals and Clinics",
-      "Green Parks and Recreational Areas",
-      "Easy Access to National Highway 44",
-      "Established Commercial Hubs",
-      "Local Markets and Grocery Stores"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Take the crucial next step in securing your perfect home in sector 2. Our property experts are standing by to offer personalized advice, schedule site visits, and provide comprehensive market insights specific to this highly desirable area.",
       "Fill out the form below, and we will connect you with a dedicated real estate consultant who specializes in properties in sector 2 Gurugram. Let us help you find a flat that matches all your criteria efficiently and transparently."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

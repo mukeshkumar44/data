@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "sector-60-hero-1.jpg",
-      "sector-60-hero-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "When you choose to buy house in Sector 60, you are choosing a locality where everything essential is just minutes away. The proximity to main arterial roads ensures smooth transit to NH-48 and Delhi, positioning Sector 60 as an epicenter of convenience and connectivity. This excellent logistical advantage makes the sector a prime residential choice for professionals working across Gurugram and Delhi NCR."
     ],
     "locations": [
-      "Sector 57 Residential Hub",
-      "Sector 61 Developing Residential",
-      "Sector 62 Commercial and IT Hub",
-      "Sector 59 Luxury Living",
-      "Golf Course Extension Road Arterial Connectivity",
-      "Sohna Road Commercial Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

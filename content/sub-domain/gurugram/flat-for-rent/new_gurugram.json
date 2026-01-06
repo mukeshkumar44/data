@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Apartment Sizes When Looking For A Flat For Rent in new gurugram",
@@ -58,12 +61,56 @@
       "Popular sectors like Sector 84, 92, and 95 are hotspots for new rental inventory, featuring properties from top-tier developers. These areas are known for their integrated townships and focus on green spaces and family-friendly environments. Understanding the nuances of each micro-market allows us to match you with the perfect community. Whether you prefer the vibrancy of commercial hubs or the tranquility of gated communities, we have the ideal Flat For Rent in new gurugram waiting for you."
     ],
     "locations": [
-      "Sector 84 Rental Communities",
-      "Dwarka Expressway Adjacent Flats",
-      "Sector 92 Family Housing",
-      "Near Manesar Industrial Area",
-      "Sector 95 Modern Complexes",
-      "Pataudi Road Connectivity Rentals"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

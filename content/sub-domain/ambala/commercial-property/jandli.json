@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "commercial_jandli_hero1.jpg",
-      "commercial_jandli_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "We highlight properties that provide easy access to core urban facilities and industrial areas, maximizing the pool of potential customers and employees. This strategic positioning makes commercial property for sale in Jandli not just a land purchase but a gateway to a wider regional economy. Our local experts track all infrastructural developments like upcoming road networks and governmental projects to guide your location selection effectively."
     ],
     "locations": [
-      "Ambala Cantt Major Road Link",
-      "Ambala City Commercial Center",
-      "NH 44 Highway Proximity",
-      "Saha Industrial Estate Access",
-      "Panchkula Corridor Connectivity",
-      "Local Market Lanes Jandli",
-      "Kurukshetra Road Network",
-      "Strategic Residential Clusters"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

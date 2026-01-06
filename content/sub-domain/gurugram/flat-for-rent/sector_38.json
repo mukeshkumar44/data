@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "flat_rent_sector38_1.jpg",
-      "flat_rent_sector38_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Beyond connectivity sector 38 provides a rich ecosystem of lifestyle amenities. Residents benefit from being close to major shopping centers reputable educational institutions healthcare facilities and recreational parks. This holistic environment reduces commute times for daily errands and enhances the overall quality of life. We help you find a Flat For Rent in sector 38 that keeps you central to everything you need ensuring convenience is always at your doorstep."
     ],
     "locations": [
-      "Omaxe World Street Mall",
-      "Badarpur Border for Delhi access",
-      "Amrita Hospital Gurugram",
-      "Sector 37 Metro Station",
-      "Pahladpur Industrial Area",
-      "Multiple CBSE and International Schools",
-      "local retail markets and grocery hubs",
-      "nearby major banks and ATMs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

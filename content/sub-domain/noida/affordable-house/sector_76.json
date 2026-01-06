@@ -7,10 +7,19 @@
       "Our curated listings showcase verified and budget-friendly properties ranging from smart apartments to spacious builder floors. Explore options near key commercial hubs and Metro stations ensuring you are never far from convenience. Stop searching endlessly and let our experts guide you to the perfect investment opportunity that secures your future in one of Noida's fastest-growing sectors. Start your home ownership journey with confidence and complete peace of mind today."
     ],
     "buttons": [
-      { "label": "Explore Verified Listings", "path": "/listings" },
-      { "label": "Contact Property Experts", "path": "/contact" }
+      {
+        "label": "Explore Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Contact Property Experts",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Options for an Affordable House in Sector 76 Noida to Match Every Need",
@@ -52,12 +61,56 @@
       "The area is encircled by established social infrastructure including leading schools such as Amity International and excellent healthcare facilities like Fortis Hospital. Proximity to shopping malls parks and recreational zones ensures a high quality of life for residents. Investing in an affordable house in Sector 76 means investing in a location poised for rapid growth and superior urban amenities ensuring excellent returns and convenience."
     ],
     "locations": [
-      { "name": "Noida Metro Aqua Line", "detail": "Direct access to Sector 76 Metro Station" },
-      { "name": "Noida Expressway Access", "detail": "Quick travel to Delhi and Greater Noida" },
-      { "name": "Leading Educational Institutions", "detail": "Close proximity to top schools and universities" },
-      { "name": "Major Healthcare Centers", "detail": "Reputable hospitals within a short driving distance" },
-      { "name": "Commercial and IT Hubs", "detail": "Easy commute to offices in Sector 62 and 132" },
-      { "name": "Retail and Entertainment Zones", "detail": "Shopping malls and theaters nearby for weekend recreation" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to take the next step towards home ownership in one of Noida's most promising sectors Contact our dedicated property consultants today. We provide personalized tours market analysis and financial advice tailored to finding you the most affordable house options.",
       "Fill out the form below to receive a curated list of verified properties that match your budget and criteria in Sector 76. Secure your future home now."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

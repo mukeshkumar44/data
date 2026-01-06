@@ -7,12 +7,18 @@
       "We feature an exclusive portfolio of houses for sale in Sector 1 ranging from contemporary bungalows to meticulously maintained family homes. Each property offers distinct advantages whether you prioritize large living spaces modern architecture or prime corner plots. Let our expert team guide you through the available listings ensuring you secure a property that perfectly matches your lifestyle and investment goals in this prestigious Ambala locale."
     ],
     "buttons": [
-      { "label": "Browse Available Houses", "path": "/listings" },
-      { "label": "Get Expert Consultation", "path": "/contact" }
+      {
+        "label": "Browse Available Houses",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Expert Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "house_sector1_ambala1.jpg",
-      "luxury_home_exterior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "Furthermore Sector 1 is excellently linked to major national highways including NH-44 providing quick transit options for intercity travel. This robust infrastructure not only enhances daily life but also significantly contributes to the long-term appreciation value of your residential property."
     ],
     "locations": [
-      "Sector 2 Ambala Adjacent Residential Zone",
-      "Sector 7 Ambala Developed Commercial Hub",
-      "Ambala Cantt Railway and Defense Area",
-      "Ambala City Main Market and Administrative Center",
-      "Mohra and Saha Industrial Areas Access",
-      "NH-44 National Highway Connectivity Point"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

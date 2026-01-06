@@ -1,4 +1,3 @@
-```json
 {
   "domain": "example.com",
   "hero": {
@@ -8,10 +7,19 @@
       "Our listings include shops in bustling markets, near residential areas, and along major roads for maximum visibility and customer reach."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/shops" },
-      { "label": "Contact Agent", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/shops"
+      },
+      {
+        "label": "Contact Agent",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Prime Shop Spaces in Ambala Sadar",
@@ -20,12 +28,30 @@
       "Our properties are strategically located in high-traffic areas to ensure your business thrives."
     ],
     "features": [
-      { "title": "Compact Retail Shop", "description": "Ideal for small businesses, boutiques, or convenience stores. These shops offer affordable rental options in busy markets." },
-      { "title": "Medium-Sized Showroom", "description": "Perfect for electronics, furniture, or apparel stores. Spacious enough to display products attractively." },
-      { "title": "Large Commercial Space", "description": "Suitable for supermarkets, wholesale stores, or multi-brand outlets. Ample space for inventory and customer movement." },
-      { "title": "Corner Shop with High Visibility", "description": "Located at prime intersections for maximum exposure. Great for brands looking to attract walk-in customers." },
-      { "title": "Shop in Residential Area", "description": "Caters to local communities with steady footfall. Ideal for daily needs stores or service providers." },
-      { "title": "Shop Near Transport Hub", "description": "High footfall due to proximity to bus stands or auto stands. Perfect for quick-service businesses." }
+      {
+        "title": "Compact Retail Shop",
+        "description": "Ideal for small businesses, boutiques, or convenience stores. These shops offer affordable rental options in busy markets."
+      },
+      {
+        "title": "Medium-Sized Showroom",
+        "description": "Perfect for electronics, furniture, or apparel stores. Spacious enough to display products attractively."
+      },
+      {
+        "title": "Large Commercial Space",
+        "description": "Suitable for supermarkets, wholesale stores, or multi-brand outlets. Ample space for inventory and customer movement."
+      },
+      {
+        "title": "Corner Shop with High Visibility",
+        "description": "Located at prime intersections for maximum exposure. Great for brands looking to attract walk-in customers."
+      },
+      {
+        "title": "Shop in Residential Area",
+        "description": "Caters to local communities with steady footfall. Ideal for daily needs stores or service providers."
+      },
+      {
+        "title": "Shop Near Transport Hub",
+        "description": "High footfall due to proximity to bus stands or auto stands. Perfect for quick-service businesses."
+      }
     ]
   },
   "locationsSection": {
@@ -35,14 +61,56 @@
       "Whether you prefer market areas or quieter neighborhoods, we have options to suit your business model."
     ],
     "locations": [
-      "Jagadhari Road",
-      "Railway Road",
-      "Court Road",
-      "Mandi Area",
-      "Near Bus Stand",
-      "Sector 7 Market",
-      "Patel Road",
-      "Sadar Bazar"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -52,29 +120,80 @@
       "We provide transparent deals, verified properties, and personalized assistance to help you find the perfect commercial space."
     ],
     "points": [
-      { "title": "High Footfall Areas", "description": "Our shops are located in markets and streets with consistent customer flow, ensuring good visibility for your business." },
-      { "title": "Flexible Rental Terms", "description": "Choose from daily, monthly, or long-term rental agreements to match your business requirements and budget." },
-      { "title": "Variety of Shop Sizes", "description": "From 100 sq.ft kiosks to 2000 sq.ft showrooms, we have spaces for all types of retail businesses." },
-      { "title": "Prime Commercial Zones", "description": "Properties situated in officially designated commercial areas with proper licenses and permissions." },
-      { "title": "Competitive Rental Rates", "description": "Fair pricing compared to market standards with transparent agreements and no hidden charges." },
-      { "title": "Established Marketplaces", "description": "Many of our shops are in well-known markets with existing customer bases and business ecosystems." },
-      { "title": "Good Transport Connectivity", "description": "Easy access for both customers and suppliers with nearby parking and loading facilities." },
-      { "title": "Professional Support", "description": "Our team assists with paperwork, legal formalities, and property evaluation to ensure a smooth rental process." }
+      {
+        "title": "High Footfall Areas",
+        "description": "Our shops are located in markets and streets with consistent customer flow, ensuring good visibility for your business."
+      },
+      {
+        "title": "Flexible Rental Terms",
+        "description": "Choose from daily, monthly, or long-term rental agreements to match your business requirements and budget."
+      },
+      {
+        "title": "Variety of Shop Sizes",
+        "description": "From 100 sq.ft kiosks to 2000 sq.ft showrooms, we have spaces for all types of retail businesses."
+      },
+      {
+        "title": "Prime Commercial Zones",
+        "description": "Properties situated in officially designated commercial areas with proper licenses and permissions."
+      },
+      {
+        "title": "Competitive Rental Rates",
+        "description": "Fair pricing compared to market standards with transparent agreements and no hidden charges."
+      },
+      {
+        "title": "Established Marketplaces",
+        "description": "Many of our shops are in well-known markets with existing customer bases and business ecosystems."
+      },
+      {
+        "title": "Good Transport Connectivity",
+        "description": "Easy access for both customers and suppliers with nearby parking and loading facilities."
+      },
+      {
+        "title": "Professional Support",
+        "description": "Our team assists with paperwork, legal formalities, and property evaluation to ensure a smooth rental process."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shop Rentals",
     "description": "Get answers to common queries about renting commercial spaces in Ambala Sadar.",
     "faqs": [
-      { "question": "What is the average rent for shops in Ambala Sadar", "answer": "Rental rates vary based on location and size, ranging from ₹5,000 to ₹50,000 per month. Prime market areas command higher rents while residential area shops are more affordable." },
-      { "question": "What documents are required to rent a shop", "answer": "Typically you'll need ID proof, address proof, business registration documents (if applicable), and security deposit. Our agents will guide you through the specific requirements." },
-      { "question": "Can I get a short-term shop rental", "answer": "Yes, we offer flexible durations from monthly contracts to annual leases. Seasonal businesses can find suitable short-term options during peak periods." },
-      { "question": "How do I evaluate the right shop location for my business", "answer": "Consider your target customers, competitors in the area, footfall patterns, and accessibility. Our commercial property experts can help analyze these factors for your specific business type." },
-      { "question": "Are there any hidden charges in shop rentals", "answer": "We maintain complete transparency about all costs including maintenance charges, electricity deposits, and municipal taxes. You'll receive a detailed breakdown before signing any agreement." },
-      { "question": "Can I modify or renovate the rented shop space", "answer": "Most landlords permit reasonable modifications with prior approval. We'll clarify the specific terms regarding renovations in your rental agreement." },
-      { "question": "What business types are most successful in Ambala Sadar", "answer": "FMCG stores, electronics, clothing, pharmacies, and food businesses perform well. The area also has demand for service providers like salons, repair shops, and tuition centers." },
-      { "question": "How quickly can I start operating after renting", "answer": "Typically within 2-3 days after completing paperwork and payments. We expedite the process so you can begin business operations without unnecessary delays." },
-      { "question": "Is parking available with shop rentals", "answer": "Many properties include dedicated or shared parking. We'll specify the parking arrangements for each shop listing to help you make an informed decision." }
+      {
+        "question": "What is the average rent for shops in Ambala Sadar",
+        "answer": "Rental rates vary based on location and size, ranging from ₹5,000 to ₹50,000 per month. Prime market areas command higher rents while residential area shops are more affordable."
+      },
+      {
+        "question": "What documents are required to rent a shop",
+        "answer": "Typically you'll need ID proof, address proof, business registration documents (if applicable), and security deposit. Our agents will guide you through the specific requirements."
+      },
+      {
+        "question": "Can I get a short-term shop rental",
+        "answer": "Yes, we offer flexible durations from monthly contracts to annual leases. Seasonal businesses can find suitable short-term options during peak periods."
+      },
+      {
+        "question": "How do I evaluate the right shop location for my business",
+        "answer": "Consider your target customers, competitors in the area, footfall patterns, and accessibility. Our commercial property experts can help analyze these factors for your specific business type."
+      },
+      {
+        "question": "Are there any hidden charges in shop rentals",
+        "answer": "We maintain complete transparency about all costs including maintenance charges, electricity deposits, and municipal taxes. You'll receive a detailed breakdown before signing any agreement."
+      },
+      {
+        "question": "Can I modify or renovate the rented shop space",
+        "answer": "Most landlords permit reasonable modifications with prior approval. We'll clarify the specific terms regarding renovations in your rental agreement."
+      },
+      {
+        "question": "What business types are most successful in Ambala Sadar",
+        "answer": "FMCG stores, electronics, clothing, pharmacies, and food businesses perform well. The area also has demand for service providers like salons, repair shops, and tuition centers."
+      },
+      {
+        "question": "How quickly can I start operating after renting",
+        "answer": "Typically within 2-3 days after completing paperwork and payments. We expedite the process so you can begin business operations without unnecessary delays."
+      },
+      {
+        "question": "Is parking available with shop rentals",
+        "answer": "Many properties include dedicated or shared parking. We'll specify the parking arrangements for each shop listing to help you make an informed decision."
+      }
     ]
   },
   "contactSection": {
@@ -83,7 +202,11 @@
       "Ready to secure the perfect commercial space for your business? Our property experts will help you find shops that match your requirements and budget.",
       "Fill out the form below and we'll contact you with suitable options within 24 hours."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }
-```

@@ -7,12 +7,18 @@
       "Investing in a 2BHK flat in Sector 31 means placing yourself in a neighborhood known for its robust infrastructure, excellent security, and seamless transit links to Delhi and other NCR regions. Whether you are a first-time buyer, a small family looking for convenience, or an investor seeking strong rental yields, Sector 31 is the prime location. Explore our exclusive collection of ready-to-move and under-construction projects and take the first step towards owning your perfect home in this coveted address."
     ],
     "buttons": [
-      { "label": "Explore Ready-to-Move 2BHK Listings", "path": "/ready-to-move" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "Explore Ready-to-Move 2BHK Listings",
+        "path": "/ready-to-move"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "img/sector31-2bhk-flat.jpg",
-      "img/2bhk-layout-noida.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Our commitment is to find you the best possible home. Use our location guide to evaluate the comparative advantages of neighboring prime zones, ensuring you make a decision based on the broadest possible view of the available real estate market in the heart of Noida."
     ],
     "locations": [
-      "2BHK Flat in Sector 50 Noida",
-      "2BHK Flat in Sector 44 Noida",
-      "2BHK Flat in Sector 29 Noida",
-      "2BHK Flat in Sector 37 Noida",
-      "2BHK Flat in Sector 77 Noida",
-      "2BHK Flat in Sector 18 Noida",
-      "2BHK Flat in Sector 40 Noida",
-      "2BHK Flat in Sector 62 Noida"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to secure your perfect 2BHK flat in the highly sought-after Sector 31 Noida location? Our dedicated property consultants are ready to provide personalized guidance, schedule site visits, and answer any detailed questions you may have about pricing or financing.",
       "Fill out the quick contact form below and let us help you find an investment that perfectly matches your lifestyle and financial objectives today."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

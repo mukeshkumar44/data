@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "sector-144-master-plan.jpg",
-      "residential-plot-noida-144.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Key connectivity points include proximity to major upcoming metro stations, which further enhances the viability of any Plot For Sale in Sector 144. Furthermore, the sector is strategically close to educational institutions, world-class healthcare facilities, and bustling retail complexes, creating a self-sufficient ecosystem for future residents. Investing here means securing a location that minimizes commute times and maximizes quality of life, positioning it perfectly for future capital gains as the Noida Master Plan unfolds around this region."
     ],
     "locations": [
-      "Sector 143",
-      "Sector 145",
-      "Sector 142 Business Hub",
-      "Noida-Greater Noida Expressway Access",
-      "Upcoming Jewar Airport Corridor",
-      "Knowledge Park V",
-      "Amity University Proximity",
-      "Major Corporate Offices"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

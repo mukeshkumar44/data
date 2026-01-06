@@ -7,10 +7,19 @@
       "Our curated listings feature newly constructed and ready-to-move-in 2BHK flats near essential services like schools, hospitals, and major shopping hubs. Whether you are a first-time homebuyer, a small family, or an investor, purchasing a 2BHK flat in Palam Vihar promises a high quality of life and strong future appreciation. Start your property search today and unlock the potential of convenient living in this premium Gurugram locality."
     ],
     "buttons": [
-      { "label": "Explore Verified 2BHK Listings", "path": "/palam-vihar-2bhk-listings" },
-      { "label": "Schedule a Site Visit Today", "path": "/contact-us" }
+      {
+        "label": "Explore Verified 2BHK Listings",
+        "path": "/palam-vihar-2bhk-listings"
+      },
+      {
+        "label": "Schedule a Site Visit Today",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Layouts and Sizes for Every 2BHK Flat For Sale in Palam Vihar Gurugram",
@@ -52,14 +61,56 @@
       "The locality benefits from robust road infrastructure, including proximity to the Dwarka Expressway and easy access to both Delhi and the IGI Airport, making daily commuting significantly easier. The surrounding areas listed below further solidify Palam Vihar as a prime investment and living destination."
     ],
     "locations": [
-      "Sector 23 Gurugram",
-      "Dwarka Expressway Access",
-      "Palam Vihar Extension",
-      "Sector 21 Dwarka Delhi",
-      "Columbia Asia Hospital Area",
-      "Rajiv Chowk Accessibility",
-      "Near IGI Airport",
-      "Old Delhi Road Link"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Contact our expert team today to discuss your specific requirements for a 2BHK flat in Palam Vihar. We provide personalized property tours, detailed market insights, and expert negotiation services to ensure you secure the best possible deal.",
       "Fill out the inquiry form below and take the first step toward owning your dream home in one of Gurugram's most sought-after residential locations."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

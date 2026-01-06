@@ -3,7 +3,7 @@ import path from "path";
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
 // ⚠️ Direct API key (local use only)
-const GEMINI_API_KEY = "";
+const GEMINI_API_KEY ="";
 const DAILY_LIMIT = 20; // free tier safe
 let generatedToday = 0;
 const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
@@ -13,50 +13,30 @@ const model = genAI.getGenerativeModel({
 
 // ✅ ONLY LOCATION ARRAY (yahin bas locations add karni hain)
 const locations = [
-//  "Prem Nagar",
-//   "Jagadhri Gate",
-//   "Sarsehri",
-//   "Vijay Nagar",
-//   "NH 22",
-  // "Durga Nagar",
-  // "Sector 1",
-  // "Tagore Garden",
-  // "Sector 7",
-  // "Inder Nagar",
-  // "Saha",
-  // "Jandli",
-  // "Kala Amb",
-  // "Defence Colony",
-  // "New Pratap Nagar",
-  // "Lohgarh",
-  // "Baldev Nagar",
-  // "Mullana",
-  // "Police Line",
-  // "Ambala Cantt",
-  // "Ambala Sadar",
-  // "Jaggi Garden",
-  // "Geeta Colony",
-  // "Hira Nagar",
+
+  
+ 
+  
   // "Sector 34",
-  "Mithapur",
-  "Parshuram Nagar",
-  "Barnala Road",
-  "Dhulkot",
-  "Kesari Village",
-  "Patti Mehar",
-  "Ambala Chandigarh Expressway",
-  "Manav Chowk",
-  "Jasmeet Nagar",
-  "Ram Nagar",
-  "Sherpur Village",
-  "Ram Bagh",
-  "Circular Road",
-  "Old Town",
-  "Devi Nagar",
-  "Sector 10",
-  "Jaggi Colony",
-  "Babyal",
-  "Balana",
+  // "Mithapur",
+  // "Parshuram Nagar",
+  // "Barnala Road",
+  // "Dhulkot",
+  // "Kesari Village",
+  // "Patti Mehar",
+  // "Ambala Chandigarh Expressway",
+  // "Manav Chowk",
+  // "Jasmeet Nagar",
+  // "Ram Nagar",
+  // "Sherpur Village",
+  // "Ram Bagh",
+  // "Circular Road",
+  // "Old Town",
+  // "Devi Nagar",
+  // "Sector 10",
+  // "Jaggi Colony",
+  // "Babyal",
+  // "Balana",
   "Mahavir Nagar",
   "Narain Garh",
   "Ghel",
@@ -96,7 +76,7 @@ Generate FULL webpage content in STRICT JSON ONLY.
 No explanation. No markdown.
 
 LOCATION: ${location}
-PRIMARY KEYWORD: Commercial Property For Sale in ${location}
+PRIMARY KEYWORD: Commercial Property in ${location}
 
 CONTENT RULES:
 - Copywriting style
@@ -109,14 +89,14 @@ CONTENT RULES:
 - This applies to ALL fields including:
 - title, heading, section titles, hero title, feature titles, FAQ questions
 - Example of BAD text: "Discover Perfect Plot Sizes: Smart Investment Options"
-- Example of GOOD text: "Perfect Plot Sizes for Residential Homes in Sector 9 Ambala"
-- When contextually appropriate, you may append "Ambala" after the location name
+- Example of GOOD text: "Perfect Plot Sizes for Residential Homes in Sector 13 Ambala"
+- When contextually appropriate, you may append "Ambala"er the location name
 - This is optional and should be used naturally for clarity and SEO
 - Especially allowed in headings, hero title, section titles, and descriptive content
-- Do NOT force "Ambala" in every line or every field
+- Do NOT force "Ambala"every line or every field
 - Example allowed usage
-  "3 BHK Flat for Sale in Sector 8 Ambala"
-  "Residential Living Options in Ambala Cantt Ambala"
+  "3 BHK Flat for Sale in Sector 18 Ambala"
+  "Residential Living Options in Model Town Ambala"
 
 JSON STRUCTURE (must match exactly):
 

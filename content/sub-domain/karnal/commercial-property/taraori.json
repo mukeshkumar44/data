@@ -7,10 +7,19 @@
       "We present exclusive listings of commercial plots, shops, and showroom spaces designed to maximize visibility and growth potential. Whether you are expanding an existing business or starting a new venture, our curated selection offers unparalleled opportunities for high returns on investment. Start your journey towards commercial success in the heart of Haryana."
     ],
     "buttons": [
-      { "label": "Explore Commercial Listings", "path": "/listings" },
-      { "label": "Request Investment Guide", "path": "/guide" }
+      {
+        "label": "Explore Commercial Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Investment Guide",
+        "path": "/guide"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Strategic Commercial Plots and Built-Up Units Available for Sale in Taraori Markets",
@@ -19,12 +28,30 @@
       "The commercial landscape of Taraori is evolving, offering excellent growth prospects for logistics, retail, and service industries. Secure a property with high footfall potential and excellent road connectivity today. Let us help you navigate the best options tailored to your specific commercial requirements and budget constraints, ensuring a solid foundation for your business growth in this thriving region."
     ],
     "features": [
-      { "title": "4 Marla Plot Small Shop or Office Space", "description": "Ideal for small retail outlets, professional offices, or service centers requiring high visibility but compact space. These properties benefit from excellent frontage in existing market complexes, maximizing customer visibility for local businesses in Taraori." },
-      { "title": "6 Marla Plot Mid-Size Retail Showroom", "description": "Perfect for mid-sized retail showrooms, banking branches, or specialized boutique shops. These units offer greater flexibility for internal layout, warehousing storage, and efficient customer flow, enhancing the operational capacity of the business." },
-      { "title": "8 Marla Plot Premium Showroom or Restaurant Site", "description": "Prime properties suitable for large regional showrooms, spacious multi-cuisine restaurants, or anchor stores in developing commercial zones of Taraori. This size provides ample space for dedicated parking and high-impact exterior branding." },
-      { "title": "10 Marla Plot Institutional or Warehouse Space", "description": "Excellent for small warehousing, distribution centers, or institutional buildings such as schools or clinics requiring substantial area and dedicated parking facilities. These plots are strategically located for easy access and transportation logistics." },
-      { "title": "12 Marla Plot Large Corporate Office Setup", "description": "High-end commercial units offering maximum street presence, perfect for automobile showrooms or large corporate offices looking to establish a strong regional presence near NH-44. These properties command superior market attention." },
-      { "title": "14 Marla Plot Industrial and Logistics Development", "description": "Designated plots offering the necessary scale for light industrial operations, large logistics parks, or the development of multi-story commercial plazas in strategic peripheral areas of Taraori Karnal, promising huge scale opportunities." }
+      {
+        "title": "4 Marla Plot Small Shop or Office Space",
+        "description": "Ideal for small retail outlets, professional offices, or service centers requiring high visibility but compact space. These properties benefit from excellent frontage in existing market complexes, maximizing customer visibility for local businesses in Taraori."
+      },
+      {
+        "title": "6 Marla Plot Mid-Size Retail Showroom",
+        "description": "Perfect for mid-sized retail showrooms, banking branches, or specialized boutique shops. These units offer greater flexibility for internal layout, warehousing storage, and efficient customer flow, enhancing the operational capacity of the business."
+      },
+      {
+        "title": "8 Marla Plot Premium Showroom or Restaurant Site",
+        "description": "Prime properties suitable for large regional showrooms, spacious multi-cuisine restaurants, or anchor stores in developing commercial zones of Taraori. This size provides ample space for dedicated parking and high-impact exterior branding."
+      },
+      {
+        "title": "10 Marla Plot Institutional or Warehouse Space",
+        "description": "Excellent for small warehousing, distribution centers, or institutional buildings such as schools or clinics requiring substantial area and dedicated parking facilities. These plots are strategically located for easy access and transportation logistics."
+      },
+      {
+        "title": "12 Marla Plot Large Corporate Office Setup",
+        "description": "High-end commercial units offering maximum street presence, perfect for automobile showrooms or large corporate offices looking to establish a strong regional presence near NH-44. These properties command superior market attention."
+      },
+      {
+        "title": "14 Marla Plot Industrial and Logistics Development",
+        "description": "Designated plots offering the necessary scale for light industrial operations, large logistics parks, or the development of multi-story commercial plazas in strategic peripheral areas of Taraori Karnal, promising huge scale opportunities."
+      }
     ]
   },
   "locationsSection": {
@@ -34,12 +61,56 @@
       "Understanding the micro-market dynamics is essential for successful commercial investment. We provide insights into upcoming municipal projects and planned infrastructure developments that will significantly boost property values in specific pockets of Taraori Karnal. Our portfolio includes properties near key landmarks ensuring you invest in locations with proven growth trajectories."
     ],
     "locations": [
-      "Main Taraori Market Retail Hub",
-      "NH-44 Frontage Plots Logistics Focus",
-      "New Grain Market Area Wholesale Sector",
-      "Railway Station Road Commercial Zone",
-      "Near Taraori Bus Stand Service Industry",
-      "Adjacent to upcoming Industrial Area Plots"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -135,6 +206,11 @@
       "Discuss your specific investment criteria, budget, and operational requirements with a dedicated property consultant.",
       "We provide bespoke tours and financial projections tailored to your commercial goals in Taraori, ensuring you make an informed decision for maximum profitability."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

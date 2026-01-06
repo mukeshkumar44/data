@@ -7,10 +7,19 @@
       "We offer verified residential plots ensuring clear titles and hassle-free transactions allowing you to begin construction or secure your investment with complete confidence. Investing in land within Sector 117 promises significant appreciation due to the accelerated pace of commercial and residential development surrounding the area. This is your chance to acquire sizable land parcels tailored to various requirements from compact family homes to larger luxurious residences. Explore our curated listings of plots that meet all regulatory standards and start building your legacy today in one of Noida’s most promising sectors."
     ],
     "buttons": [
-      { "label": "View Verified Plot Listings", "path": "/listings/sector-117" },
-      { "label": "Schedule a Site Visit Today", "path": "/contact" }
+      {
+        "label": "View Verified Plot Listings",
+        "path": "/listings/sector-117"
+      },
+      {
+        "label": "Schedule a Site Visit Today",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero-plot-117-1.jpg", "hero-plot-117-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Plot Sizes and Investment Options in Sector 117 Noida",
@@ -52,13 +61,56 @@
       "The planning around Sector 117 prioritizes resident welfare providing immediate access to world-class social infrastructure. Reputable schools and top-tier educational institutions such as Amity University and others are just a short drive away ensuring quality education for children. Furthermore established multi-specialty hospitals large commercial markets and sprawling retail destinations like Wave One and DLF Mall of India are within the immediate vicinity adding immense practical value and luxury convenience to any Plot For Sale in Sector 117. Investing here means securing a future where convenience and capital growth perfectly converge in a thriving residential environment."
     ],
     "locations": [
-      "Noida-Greater Noida Expressway Access",
-      "FNG Expressway Connectivity",
-      "Upcoming Sector 51/76 Metro Station Proximity",
-      "Proximity to Major IT and Commercial Hubs",
-      "Close to Top Educational Institutions",
-      "Easy access to Healthcare Facilities",
-      "Minutes away from Major Shopping Malls"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -154,6 +206,11 @@
       "Ready to secure the best Plot For Sale in Sector 117 Noida Our dedicated team of real estate professionals is here to guide you through every step of the process from selecting the perfect size to finalizing transparent documentation.",
       "Contact us today for a personalized consultation verified listings and detailed market insights specific to property values and growth trends in Sector 117. Let us help you make an informed and profitable investment."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

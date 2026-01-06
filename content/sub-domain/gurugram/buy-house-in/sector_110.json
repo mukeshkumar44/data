@@ -7,10 +7,19 @@
       "We offer verified, freehold residential properties ranging from independent builder floors to customizable plots ready for immediate construction. Our portfolio ensures transparency and adherence to all RERA guidelines, providing you with complete peace of mind. Start your search today for the perfect family home or high-yield investment property in this rapidly developing hub."
     ],
     "buttons": [
-      { "label": "Explore Available Properties", "path": "/properties/sector-110" },
-      { "label": "Schedule a Site Visit", "path": "/contact-us" }
+      {
+        "label": "Explore Available Properties",
+        "path": "/properties/sector-110"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["hero-image-sector-110-1.jpg", "hero-image-sector-110-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring the Best Residential Plot Sizes Available When You Buy House in Sector 110 Gurugram",
@@ -52,14 +61,56 @@
       "The sector benefits from proximity to established residential sectors and upcoming commercial centers, ensuring all necessary social infrastructure like schools, hospitals, and shopping complexes are within a short drive. This prime positioning solidifies Sector 110 as a preferred residential address for executives and families prioritizing convenience and future growth."
     ],
     "locations": [
-      "Dwarka Expressway Access Points",
-      "Proximity to Indira Gandhi International Airport",
-      "Connectivity to Central Gurugram via National Highway 48",
-      "Nearness to Sector 109 and Sector 111 residential hubs",
-      "Upcoming Metro Corridor route proximity",
-      "Easy access to established schools and universities",
-      "Close to major healthcare facilities",
-      "Adjacent to large commercial developments"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Secure your prime piece of real estate in Sector 110 before prices escalate further. Our dedicated team of Gurugram property specialists is ready to provide personalized guidance, verified listings, and seamless transactional support.",
       "Fill out the form below to receive a curated portfolio of properties, including exclusive plots and luxury builder floors perfectly suited for your investment goals or dream home aspirations."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

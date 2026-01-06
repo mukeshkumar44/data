@@ -7,10 +7,19 @@
       "Sector 74 has emerged as a preferred residential hub due to its strategic position near major expressways and essential services. Whether you are looking for a compact apartment suitable for a young professional or a larger family home that respects your budget, our exclusive listings feature the best opportunities for an affordable house in Sector 74. Start your journey toward home ownership with expert guidance and transparent dealings right now."
     ],
     "buttons": [
-      { "label": "Explore Verified Listings", "path": "/listings" },
-      { "label": "Get Free Consultation", "path": "/contact" }
+      {
+        "label": "Explore Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Free Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Ideal Configurations and Investment Opportunities for Affordable Houses in Sector 74 Noida",
@@ -52,14 +61,56 @@
       "Key nearby destinations include the Sector 50 Metro Station, ensuring seamless public transport access, and the established commercial hubs of Sector 62 and Sector 63. Residents also benefit from easy access to top-tier schools, multispecialty hospitals, and vibrant retail spaces, cementing Sector 74 Noida as a holistic residential destination."
     ],
     "locations": [
-      "Sector 50 Metro Station",
-      "FNG Expressway link",
-      "Sector 62 IT Hub Noida",
-      "Fortis Hospital Noida",
-      "Gaur City Mall",
-      "DND Flyway access",
-      "Genesis Global School",
-      "Upcoming Shopping Arcades"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning a budget-friendly home in a premium location We simplify the complex process of property acquisition.",
       "Connect with our Sector 74 specialists now to receive personalized listings and detailed financial advice. Secure the best deals on affordable houses before the market shifts."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

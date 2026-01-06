@@ -7,10 +7,19 @@
       "Our professionals are seasoned Real Estate Agents in Sector 142 committed to securing the absolute best outcomes for buyers sellers and investors alike. We specialize in high-demand commercial office spaces high-yield retail shops and exclusive luxury residential apartments ensuring every transaction is completely seamless transparent and legally sound. Trust our unparalleled local market intelligence to maximize your investment potential whether you are looking for a ready-to-move property or a promising pre-leased asset. We simplify the complexities of the real estate sector making your property journey in Sector 142 successful efficient and stress-free."
     ],
     "buttons": [
-      { "label": "View Commercial Listings", "path": "/commercial" },
-      { "label": "Schedule a Consultation Now", "path": "/contact" }
+      {
+        "label": "View Commercial Listings",
+        "path": "/commercial"
+      },
+      {
+        "label": "Schedule a Consultation Now",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/sector142-hero1.jpg", "/images/sector142-hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Investment Opportunities and Property Types in Sector 142 Noida",
@@ -52,14 +61,56 @@
       "Our local Real Estate Agents in Sector 142 possess intimate knowledge of these adjoining zones helping you assess comparative advantages rental parity and infrastructure growth in nearby sectors. This holistic view ensures your investment decision is based on the broadest and most accurate market data available in the region."
     ],
     "locations": [
-      "Noida Expressway Access Points",
-      "Sector 137 Residential Hub",
-      "Sector 143 Connectivity",
-      "Advant Navis Business Park",
-      "Genesis Mall Retail Zone",
-      "FNG Expressway Intersection",
-      "Metro Station Proximity Sector 142",
-      "Upcoming Institutional Areas"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to explore prime commercial or residential investment opportunities in Sector 142 Noida Request a personalized consultation with our market experts today.",
       "Fill out the form below and one of our dedicated Real Estate Agents in Sector 142 will contact you within the hour to discuss your specific requirements and goals confidentially."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

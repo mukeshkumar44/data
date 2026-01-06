@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring the Best Flat Configurations Available in Aliyaspur Ambala for Every Lifestyle",
@@ -58,12 +61,56 @@
       "The well-developed network of internal and external roads ensures quick and hassle-free travel whether you are commuting daily to Ambala Cantt, accessing the main industrial sectors, or utilizing the major National Highways connecting swiftly to Chandigarh, Delhi, and other regional centers. Furthermore, future growth prospects are exceptionally strong, underpinned by ongoing governmental infrastructure development projects specifically surrounding Aliyaspur. Investing here means decisively securing a high-quality home in a rapidly appreciating area. We actively highlight key areas of immediate interest and critical connectivity points crucial for potential homebuyers considering verified flats in this highly promising and thriving locality."
     ],
     "locations": [
-      "Proximity to Ambala Cantonment Railway Station and Bus Stand",
-      "Easy access to National Highway 44 for regional travel",
-      "Close to major Aliyaspur local markets and shopping centers",
-      "Near prominent local schools and reputed colleges in Ambala",
-      "Direct route and short commute to Ambala City Centre business areas",
-      "Well-connected to modern healthcare facilities and hospitals in Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

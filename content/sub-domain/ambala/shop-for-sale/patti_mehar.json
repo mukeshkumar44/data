@@ -7,10 +7,19 @@
       "Explore a range of shops in Patti Mehar designed to meet diverse business needs. With excellent connectivity, modern amenities, and competitive pricing, these properties are ideal for entrepreneurs and investors alike."
     ],
     "buttons": [
-      { "label": "View Listings", "path": "/listings" },
-      { "label": "Contact Us", "path": "/contact" }
+      {
+        "label": "View Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Contact Us",
+        "path": "/contact"
+      }
     ],
-    "images": ["shop1.jpg", "shop2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Shops For Sale in Patti Mehar",
@@ -19,12 +28,30 @@
       "These shops are located in prime areas with high footfall, ensuring maximum visibility and profitability for your business."
     ],
     "features": [
-      { "title": "Compact Shops", "description": "Ideal for small businesses or startups looking for affordable yet functional spaces in Patti Mehar." },
-      { "title": "Medium-Sized Shops", "description": "Perfect for growing businesses that require more space without compromising on location." },
-      { "title": "Large Commercial Spaces", "description": "Tailored for established businesses needing expansive areas for operations in Patti Mehar." },
-      { "title": "Prime Location Shops", "description": "Strategically positioned in high-traffic zones to ensure maximum customer engagement." },
-      { "title": "Modern Amenities", "description": "Shops equipped with contemporary facilities to enhance operational efficiency." },
-      { "title": "Competitive Pricing", "description": "Affordable options designed to fit your budget while delivering exceptional value." }
+      {
+        "title": "Compact Shops",
+        "description": "Ideal for small businesses or startups looking for affordable yet functional spaces in Patti Mehar."
+      },
+      {
+        "title": "Medium-Sized Shops",
+        "description": "Perfect for growing businesses that require more space without compromising on location."
+      },
+      {
+        "title": "Large Commercial Spaces",
+        "description": "Tailored for established businesses needing expansive areas for operations in Patti Mehar."
+      },
+      {
+        "title": "Prime Location Shops",
+        "description": "Strategically positioned in high-traffic zones to ensure maximum customer engagement."
+      },
+      {
+        "title": "Modern Amenities",
+        "description": "Shops equipped with contemporary facilities to enhance operational efficiency."
+      },
+      {
+        "title": "Competitive Pricing",
+        "description": "Affordable options designed to fit your budget while delivering exceptional value."
+      }
     ]
   },
   "locationsSection": {
@@ -33,7 +60,58 @@
       "Patti Mehar is surrounded by several thriving neighborhoods that offer excellent opportunities for business expansion.",
       "Explore these nearby areas to find the perfect location for your shop in Patti Mehar."
     ],
-    "locations": ["Mehar Bazaar", "Patti Chowk", "Mehar Road", "Jinnah Colony", "Mehar Market", "New Patti", "Old Patti", "Mehar Heights"]
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Why Invest in Shops For Sale in Patti Mehar",
@@ -42,30 +120,84 @@
       "Here’s why you should consider purchasing a shop in this bustling location."
     ],
     "points": [
-      { "title": "High Footfall Areas", "description": "Shops in Patti Mehar are located in areas with significant customer traffic, ensuring steady business growth." },
-      { "title": "Excellent Connectivity", "description": "Easy access to major roads and transportation hubs makes commuting convenient for both customers and employees." },
-      { "title": "Growing Economy", "description": "Patti Mehar’s expanding economy provides a fertile ground for business success and profitability." },
-      { "title": "Diverse Business Opportunities", "description": "The area supports a variety of industries, offering flexibility for entrepreneurs to explore different ventures." },
-      { "title": "Modern Infrastructure", "description": "Well-developed infrastructure ensures smooth business operations and enhances customer experience." },
-      { "title": "Competitive Pricing", "description": "Affordable property rates make it easier to invest in commercial spaces without straining your budget." },
-      { "title": "Long-Term Investment", "description": "Commercial properties in Patti Mehar promise high returns on investment over time." },
-      { "title": "Supportive Community", "description": "A thriving business community fosters collaboration and growth opportunities for new entrants." }
+      {
+        "title": "High Footfall Areas",
+        "description": "Shops in Patti Mehar are located in areas with significant customer traffic, ensuring steady business growth."
+      },
+      {
+        "title": "Excellent Connectivity",
+        "description": "Easy access to major roads and transportation hubs makes commuting convenient for both customers and employees."
+      },
+      {
+        "title": "Growing Economy",
+        "description": "Patti Mehar’s expanding economy provides a fertile ground for business success and profitability."
+      },
+      {
+        "title": "Diverse Business Opportunities",
+        "description": "The area supports a variety of industries, offering flexibility for entrepreneurs to explore different ventures."
+      },
+      {
+        "title": "Modern Infrastructure",
+        "description": "Well-developed infrastructure ensures smooth business operations and enhances customer experience."
+      },
+      {
+        "title": "Competitive Pricing",
+        "description": "Affordable property rates make it easier to invest in commercial spaces without straining your budget."
+      },
+      {
+        "title": "Long-Term Investment",
+        "description": "Commercial properties in Patti Mehar promise high returns on investment over time."
+      },
+      {
+        "title": "Supportive Community",
+        "description": "A thriving business community fosters collaboration and growth opportunities for new entrants."
+      }
     ]
   },
   "faqSection": {
     "title": "FAQs About Shops For Sale in Patti Mehar",
     "description": "Find answers to common questions about purchasing commercial properties in Patti Mehar.",
     "faqs": [
-      { "question": "What types of shops are available for sale in Patti Mehar", "answer": "We offer a variety of shops, including compact, medium-sized, and large commercial spaces to suit different business needs." },
-      { "question": "Are the shops located in high-traffic areas", "answer": "Yes, our listings include shops in prime locations with high footfall to maximize business visibility." },
-      { "question": "What is the pricing range for shops in Patti Mehar", "answer": "Prices vary depending on size and location, but we strive to offer competitive rates to fit your budget." },
-      { "question": "Can I customize the shop space after purchase", "answer": "Absolutely, you can modify the space to align with your business requirements after acquiring the property." },
-      { "question": "Is financing available for purchasing shops in Patti Mehar", "answer": "Yes, we offer flexible financing options to make your investment process smoother." },
-      { "question": "What amenities are available in these shops", "description": "Our shops come with modern amenities such as electricity, water supply, and parking facilities for convenience." },
-      { "question": "How do I schedule a site visit", "answer": "You can contact us through our website or call directly to arrange a site visit at your convenience." },
-      { "question": "What legal documents are required for purchasing a shop", "answer": "We guide you through the necessary legal paperwork, including ownership transfer and registration documents." },
-      { "question": "Are there any maintenance charges for the shops", "answer": "Maintenance charges, if applicable, are transparently communicated during the purchase process." },
-      { "question": "Can I resell the shop in the future", "answer": "Yes, you can resell the shop whenever you choose, making it a flexible investment option." }
+      {
+        "question": "What types of shops are available for sale in Patti Mehar",
+        "answer": "We offer a variety of shops, including compact, medium-sized, and large commercial spaces to suit different business needs."
+      },
+      {
+        "question": "Are the shops located in high-traffic areas",
+        "answer": "Yes, our listings include shops in prime locations with high footfall to maximize business visibility."
+      },
+      {
+        "question": "What is the pricing range for shops in Patti Mehar",
+        "answer": "Prices vary depending on size and location, but we strive to offer competitive rates to fit your budget."
+      },
+      {
+        "question": "Can I customize the shop space after purchase",
+        "answer": "Absolutely, you can modify the space to align with your business requirements after acquiring the property."
+      },
+      {
+        "question": "Is financing available for purchasing shops in Patti Mehar",
+        "answer": "Yes, we offer flexible financing options to make your investment process smoother."
+      },
+      {
+        "question": "What amenities are available in these shops",
+        "description": "Our shops come with modern amenities such as electricity, water supply, and parking facilities for convenience."
+      },
+      {
+        "question": "How do I schedule a site visit",
+        "answer": "You can contact us through our website or call directly to arrange a site visit at your convenience."
+      },
+      {
+        "question": "What legal documents are required for purchasing a shop",
+        "answer": "We guide you through the necessary legal paperwork, including ownership transfer and registration documents."
+      },
+      {
+        "question": "Are there any maintenance charges for the shops",
+        "answer": "Maintenance charges, if applicable, are transparently communicated during the purchase process."
+      },
+      {
+        "question": "Can I resell the shop in the future",
+        "answer": "Yes, you can resell the shop whenever you choose, making it a flexible investment option."
+      }
     ]
   },
   "contactSection": {
@@ -74,6 +206,11 @@
       "Ready to invest in commercial properties in Patti Mehar? Our team is here to assist you every step of the way.",
       "Fill out the form below, and we’ll get back to you shortly."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

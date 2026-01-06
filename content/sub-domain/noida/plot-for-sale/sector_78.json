@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero-plot-78-1.jpg",
-      "/images/hero-plot-78-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The proximity to the Noida Expressway is a major draw for investors and homeowners alike, providing rapid access to Greater Noida, Delhi, and Agra. Furthermore, essential social infrastructure—including top-tier international schools, multispeciality hospitals, and bustling retail centers—are all located within a short drive. This prime positioning solidifies the value proposition of any Plot For Sale in Sector 78, making it a highly desirable residential address."
     ],
     "locations": [
-      "Noida Expressway 5 Minutes Drive",
-      "Sector 101 Metro Station Nearby",
-      "Gautam Buddha Nagar District Court",
-      "DND Flyway Connectivity",
-      "FNG Expressway Access",
-      "Prominent Schools within 10 Minutes",
-      "Major Multispeciality Hospitals",
-      "Sector 137 Commercial Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

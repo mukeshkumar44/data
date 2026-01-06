@@ -7,10 +7,19 @@
       "We offer a curated selection of independent houses builder floors and residential plots designed to meet diverse family needs and investment goals. This sector provides the perfect blend of suburban tranquility and urban convenience making it ideal for families professionals and retirees alike. Explore the best real estate opportunities and secure your future in this highly valuable location today."
     ],
     "buttons": [
-      { "label": "View Available Houses", "path": "/houses-for-sale" },
-      { "label": "Schedule a Site Visit", "path": "/contact-us" }
+      {
+        "label": "View Available Houses",
+        "path": "/houses-for-sale"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["/images/sector45_hero1.jpg", "/images/sector45_hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore the Diverse Range of House Sizes When You Buy House in Sector 45 Gurugram",
@@ -52,12 +61,56 @@
       "The robust infrastructure supporting Sector 45 includes wide roads minimal traffic congestion and quick access to essential amenities like reputable schools hospitals and shopping complexes. This seamless connectivity solidifies its reputation as a premium residential location for homeowners."
     ],
     "locations": [
-      "Sector 44 Institutional Area",
-      "Huda City Centre Metro Station",
-      "Sector 46 Residential Area",
-      "Golf Course Extension Road",
-      "Sohna Road Commercial Hub",
-      "Medanta The Medicity Hospital"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Our dedicated team of real estate professionals specializes in the Sector 45 market providing you with accurate pricing exclusive listings and expert negotiation skills. We simplify the entire buying process from initial consultation to final registration.",
       "Reach out today to discuss your specific requirements or to schedule a private viewing of the finest houses currently available in this premium Gurugram sector."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

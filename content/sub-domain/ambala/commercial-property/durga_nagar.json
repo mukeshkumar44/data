@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "durgnagar_commercial_hero1.jpg",
-      "durgnagar_market_overview.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "We track commercial vitality across the entire region ensuring that your investment in Durga Nagar is backed by strong supporting infrastructure and connectivity to vital consumer markets including nearby residential colonies and industrial zones."
     ],
     "locations": [
-      "Ambala Cantt Main Market",
-      "Model Town Commercial Hub",
-      "Bus Stand Road Retail Strip",
-      "Sector 9 Ambala Commercial Plots",
-      "National Highway 44 Service Road",
-      "Baldev Nagar Extension",
-      "Housing Board Colony Markets",
-      "Railway Station Goods Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

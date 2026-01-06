@@ -7,10 +7,19 @@
       "Sector 36 offers seamless connectivity to major commercial hubs educational institutions and healthcare facilities ensuring a convenient and enriched lifestyle Every flat listed here meets stringent quality standards providing modern amenities security and comfort Stop searching through endless listings and find your dream home among the finest flats available in Sector 36 today Our experts are ready to guide you through the selection and purchase process effortlessly"
     ],
     "buttons": [
-      { "label": "Explore Available Flats", "path": "/listings" },
-      { "label": "Get Free Consultation Now", "path": "/contact" }
+      {
+        "label": "Explore Available Flats",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Free Consultation Now",
+        "path": "/contact"
+      }
     ],
-    "images": ["flat_exterior.jpg", "sector36_view.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Configurations Available for Flats For Sale in Sector 36 to Match Every Need",
@@ -52,12 +61,56 @@
       "The neighborhood boasts robust social infrastructure with some of Karnal’s top schools hospitals and shopping centers located just minutes away Essential utilities like water supply electricity and drainage systems are highly reliable in Sector 36 This well-developed environment makes finding flats for sale here a desirable investment guaranteeing convenience security and high appreciation potential over time Invest in a location that prioritizes your family's future and daily ease of living"
     ],
     "locations": [
-      "Proximity to NH 44",
-      "Near major educational institutions",
-      "Easy access to public transport hubs",
-      "Established shopping complexes nearby",
-      "Quick drive to central Karnal",
-      "Access to premium healthcare services"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to secure your dream flat in Sector 36 Karnal Connect with our experienced real estate professionals who possess unparalleled local market expertise We provide personalized guidance to help you navigate listings financing and legalities efficiently.",
       "Fill out the form below to schedule a private viewing or receive a customized portfolio of flats for sale matching your specific criteria Your journey to premium home ownership starts now"
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

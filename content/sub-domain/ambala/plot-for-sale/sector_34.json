@@ -7,10 +7,19 @@
       "This burgeoning sector provides a serene residential environment without sacrificing urban convenience. Investing in a plot for sale in Sector 34 Ambala now means securing a significant appreciation potential in the coming years. Our portfolio includes diverse plot sizes suitable for all needs, from compact family homes to sprawling luxury residences. Explore the best opportunities available exclusively through our expert real estate services and take the first step towards property ownership in one of Ambala's most coveted areas."
     ],
     "buttons": [
-      { "label": "View Available Plots Now", "path": "/plots" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View Available Plots Now",
+        "path": "/plots"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Ideal Plot Sizes The Best Plot For Sale in Sector 34 Ambala",
@@ -52,12 +61,56 @@
       "Furthermore, the sector is strategically positioned near major institutional and commercial landmarks. Reputed educational institutions, including several leading schools and colleges, are just a short drive away, making it a perfect locality for families. Essential services like specialized medical facilities and retail shopping centers are easily accessible, providing residents with ultimate convenience. When you look for a plot for sale in Sector 34 Ambala, you are investing in a locale that promises exceptional infrastructure, steady development, and comprehensive connectivity to the wider Ambala region and beyond. This integrated development ensures sustained demand and excellent capital appreciation for plot owners."
     ],
     "locations": [
-      "Close proximity to Ambala City Railway Station",
-      "Easy access to Ambala-Chandigarh National Highway",
-      "Near major educational campuses and schools",
-      "Minutes away from major healthcare and multispecialty hospitals",
-      "Well connected to Ambala Cantt area via smooth roads",
-      "Proximity to established commercial markets and malls"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,10 +7,19 @@
       "Our portfolio includes everything from compact kiosk spaces perfect for startups to expansive anchor store locations suited for established national and international brands. Leverage the massive consumer base drawn from adjacent sectors and benefit from state-of-the-art commercial developments. Investing here ensures you are positioned at the forefront of Noida's retail boom, guaranteeing sustained rental income and robust property value growth in the coming years."
     ],
     "buttons": [
-      { "label": "Explore Available Shops", "path": "/shops-available" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "Explore Available Shops",
+        "path": "/shops-available"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
-    "images": ["/img/hero-shop116-1.jpg", "/img/hero-shop116-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Shop Options Catering to Every Business Model in Sector 116 Noida",
@@ -52,12 +61,56 @@
       "Connectivity to major expressways and the upcoming infrastructure projects further solidify Sector 116 as a future growth engine. Investing here means capitalizing on a catchment area that includes thousands of high net worth residential units ensuring long-term retail demand and stability."
     ],
     "locations": [
-      "Sector 115 Residential Hub",
-      "FNG Expressway Access Points",
-      "Proximity to Noida Expressway",
-      "Sector 118 Developed Areas",
-      "Key Institutional Land Parcels",
-      "Nearby Proposed Metro Station"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to capitalize on the dynamic retail market of Sector 116 Noida Find exclusive listings and personalized investment advice from our dedicated real estate professionals. Contact us now to schedule a site visit or receive a customized portfolio of the best Shop For Sale in Sector 116.",
       "Don't miss out on securing a high-yield asset in one of Noida's fastest-growing commercial zones. Submit your details below and we will reach out within 24 hours."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

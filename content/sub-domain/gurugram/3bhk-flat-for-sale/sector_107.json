@@ -7,10 +7,19 @@
       "Explore exclusive resale and new launch opportunities for luxurious 3BHK apartments in Sector 107 Gurugram that meet every aspect of sophisticated urban living. Our curated listings feature exceptional homes from top-tier developers guaranteeing superior quality construction and access to world-class amenities right at your doorstep. Find your perfect three-bedroom sanctuary today and step into the upscale life that prime real estate in Sector 107 promises. Start your search now to leverage current market advantages."
     ],
     "buttons": [
-      { "label": "View Available 3BHK Listings", "path": "/listings/sector-107" },
-      { "label": "Schedule a Site Visit", "path": "/contact-us" }
+      {
+        "label": "View Available 3BHK Listings",
+        "path": "/listings/sector-107"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Features Defining Premium 3BHK Flats Available For Sale in Sector 107 Gurugram",
@@ -52,14 +61,56 @@
       "Explore the surrounding micro-markets and connectivity points that solidify Sector 107's position as a premier destination for purchasing a high-end 3BHK flat guaranteeing convenience safety and rapid development."
     ],
     "locations": [
-      "Dwarka Expressway Access Points",
-      "Sector 109 and 110 High Street Retail",
-      "Proximity to Cyber City Gurugram",
-      "Upcoming Diplomatic Enclave Access",
-      "New Gurugram Business District",
-      "Top International Schools nearby",
-      "Multi-Specialty Healthcare Facilities",
-      "Direct Road Link to NH-48"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure your dream 3BHK flat in the sought-after Sector 107 location along the Dwarka Expressway. Reach out to our dedicated property advisors who specialize exclusively in this micro-market.",
       "Fill out the form below to receive personalized listing recommendations pricing details or to schedule a private viewing of exclusive properties that match your specific requirements and investment goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

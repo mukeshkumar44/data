@@ -7,10 +7,19 @@
       "We feature an exclusive inventory of vetted commercial properties ranging from lockable retail units and expansive showrooms to prime ground-floor spaces ideal for anchor tenants. Whether you are a large corporate entity planning expansion or a first-time investor looking for reliable rental income, Sector 25 offers diverse options to meet every financial goal. Explore the best opportunities available and connect with our experts for bespoke advice on pricing and market trends."
     ],
     "buttons": [
-      { "label": "View Premium Listings", "path": "/listings" },
-      { "label": "Get Investment Consultation", "path": "/contact" }
+      {
+        "label": "View Premium Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Investment Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Prime Commercial Shops Available for Immediate Investment in Sector 25 Noida",
@@ -52,12 +61,56 @@
       "Investment in this area is not just about real estate purchase it is about securing a stake in Noida’s future commercial core. Government focus on infrastructure development including upcoming metro line extensions further cements Sector 25’s status as a premium investment zone. The commercial projects here adhere to strict RERA guidelines providing transparency and security. When you search for a Shop For Sale in Sector 25, you are choosing stability, high capital appreciation potential, and superior rental returns compared to peripheral markets."
     ],
     "locations": [
-      "High Foot Traffic Zones",
-      "Excellent Road Connectivity",
-      "Established Residential Catchment",
-      "Upcoming Metro Proximity",
-      "Premium Project Inventory",
-      "Clear Title Properties"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Unlock exclusive access to off-market inventory and premium commercial listings in Sector 25 Noida. Our team of seasoned commercial real estate advisors is here to provide personalized guidance tailored to your specific investment objectives and risk appetite.",
       "Do not miss the opportunity to secure a prime commercial asset in one of Noida’s fastest-growing sectors. Contact us now to schedule a site visit and receive a comprehensive investment prospectus detailing rental forecasts and appreciation projections for properties in Sector 25."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

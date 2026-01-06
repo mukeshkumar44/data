@@ -7,12 +7,18 @@
       "Discover modern independent houses, builder floors, and low-rise apartments designed for the contemporary family without the premium price tag. Sector 22 provides robust infrastructure, proximity to major employment hubs, and essential civic amenities, making it an ideal location to plant your roots. Connect with our property experts today to explore exclusive listings and secure your dream Affordable House in Sector 22 before prices rise."
     ],
     "buttons": [
-      { "label": "Explore Affordable Listings", "path": "/listings" },
-      { "label": "Request a Free Consultation", "path": "/contact" }
+      {
+        "label": "Explore Affordable Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Free Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "hero-image-sector-22-house-1.jpg",
-      "hero-image-sector-22-house-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Explore the seamless connectivity and desirable neighborhoods surrounding Sector 22 that enhance the quality of life and bolster the investment viability of your affordable house purchase."
     ],
     "locations": [
-      "Sector 21",
-      "Sector 23",
-      "Sector 24",
-      "Sector 25",
-      "Sector 19",
-      "City Centre Metro Station",
-      "Atta Market",
-      "Model Town"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

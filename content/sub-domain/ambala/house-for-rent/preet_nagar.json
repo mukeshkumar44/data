@@ -7,10 +7,19 @@
       "Explore our exclusive listings of independent houses, kothis, and duplexes available for immediate occupancy. Whether you need a compact 2 BHK house or a large 4 BHK residence for a joint family, Preet Nagar provides a range of options that promise comfort and value. Start your search now and secure the ideal rental home that matches your requirements and budget in this sought-after locality."
     ],
     "buttons": [
-      { "label": "Explore Available Rental Houses", "path": "/search-rentals" },
-      { "label": "Contact Rental Specialists Now", "path": "/contact-us" }
+      {
+        "label": "Explore Available Rental Houses",
+        "path": "/search-rentals"
+      },
+      {
+        "label": "Contact Rental Specialists Now",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover The Diverse Range of Houses For Rent Available Across Preet Nagar Ambala",
@@ -52,13 +61,56 @@
       "The demand for a quality House For Rent in Preet Nagar remains high due to its safe surroundings and community spirit. Key locations such as the Ambala-Chandigarh Highway access, proximity to the railway station, and established local markets make everyday life incredibly convenient for residents here."
     ],
     "locations": [
-      "Close proximity to Ambala Cantt Railway Station",
-      "Easy access to major state and national highways",
-      "Nearby educational institutions and reputable schools",
-      "Well-developed local markets and shopping complexes",
-      "Access to quality healthcare providers and hospitals",
-      "Safe and well-maintained residential parks and green spaces",
-      "Good connectivity to neighboring sectors and regions"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

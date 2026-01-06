@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Best Residential and Commercial Plot Sizes Available in Patti Mehar Ambala",
@@ -58,12 +61,56 @@
       "We understand that location dictates value, which is why our featured plots are selected based on future infrastructure blueprints. Patti Mehar's proximity to the main highway linking Ambala ensures smooth commutes and enhanced logistical ease, making any Plot For Sale in Patti Mehar a future-proof investment asset in the regional real estate landscape. Review the key surrounding areas that boost the value of this location."
     ],
     "locations": [
-      "Ambala Cantt Railway Station",
-      "NH 44 Delhi-Amritsar Highway Connectivity",
-      "Proximity to Key Educational Campuses",
-      "Access to Local Healthcare Centers and Hospitals",
-      "Easy Drive to Ambala City Commercial Centers",
-      "Adjacent Developing Residential Colonies"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,10 +7,19 @@
       "Whether you are starting a new venture or expanding an existing one, our rental spaces in Alipur Village provide flexible lease options and competitive pricing. With easy access to major roads and a bustling local market, your business will benefit from high foot traffic and increased customer reach."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/shops" },
-      { "label": "Contact Us Today", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/shops"
+      },
+      {
+        "label": "Contact Us Today",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Shop For Rent in Alipur Village Features and Amenities",
@@ -19,12 +28,30 @@
       "Explore our well-maintained properties that offer a blend of convenience and comfort, making them the ideal choice for entrepreneurs and established businesses alike."
     ],
     "features": [
-      { "title": "Spacious Interiors", "description": "Our shops offer ample space to accommodate your inventory and customers comfortably." },
-      { "title": "Modern Security", "description": "Advanced security systems ensure the safety of your business assets." },
-      { "title": "Ample Parking", "description": "Convenient parking facilities for both customers and staff." },
-      { "title": "High Visibility", "description": "Prime locations with high visibility to attract more customers." },
-      { "title": "Flexible Leasing", "description": "Customizable lease options to suit your business needs." },
-      { "title": "Proximity to Market", "description": "Located near bustling markets for increased foot traffic." }
+      {
+        "title": "Spacious Interiors",
+        "description": "Our shops offer ample space to accommodate your inventory and customers comfortably."
+      },
+      {
+        "title": "Modern Security",
+        "description": "Advanced security systems ensure the safety of your business assets."
+      },
+      {
+        "title": "Ample Parking",
+        "description": "Convenient parking facilities for both customers and staff."
+      },
+      {
+        "title": "High Visibility",
+        "description": "Prime locations with high visibility to attract more customers."
+      },
+      {
+        "title": "Flexible Leasing",
+        "description": "Customizable lease options to suit your business needs."
+      },
+      {
+        "title": "Proximity to Market",
+        "description": "Located near bustling markets for increased foot traffic."
+      }
     ]
   },
   "locationsSection": {
@@ -34,14 +61,56 @@
       "These areas are known for their vibrant commercial activity and are ideal for a variety of businesses."
     ],
     "locations": [
-      "Rajouri Garden",
-      "Janakpuri",
-      "Punjabi Bagh",
-      "Subhash Nagar",
-      "Tagore Garden",
-      "Nangloi",
-      "Vikas Puri",
-      "Kirti Nagar"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -51,30 +120,84 @@
       "From strategic locations to modern amenities, we provide everything you need to establish and grow your business."
     ],
     "points": [
-      { "title": "Prime Location", "description": "Our shops are located in high-demand areas with excellent customer reach." },
-      { "title": "Affordable Rates", "description": "Competitive pricing ensures that you get the best value for your investment." },
-      { "title": "Customizable Spaces", "description": "Flexible layouts to suit your specific business requirements." },
-      { "title": "Proven Success", "description": "Many businesses in our properties have seen significant growth." },
-      { "title": "Supportive Community", "description": "Join a thriving business community with networking opportunities." },
-      { "title": "Easy Accessibility", "description": "Convenient access to major roads and public transport." },
-      { "title": "Modern Facilities", "description": "State-of-the-art amenities to enhance your business operations." },
-      { "title": "Expert Assistance", "description": "Our team provides full support to help you set up and run your business smoothly." }
+      {
+        "title": "Prime Location",
+        "description": "Our shops are located in high-demand areas with excellent customer reach."
+      },
+      {
+        "title": "Affordable Rates",
+        "description": "Competitive pricing ensures that you get the best value for your investment."
+      },
+      {
+        "title": "Customizable Spaces",
+        "description": "Flexible layouts to suit your specific business requirements."
+      },
+      {
+        "title": "Proven Success",
+        "description": "Many businesses in our properties have seen significant growth."
+      },
+      {
+        "title": "Supportive Community",
+        "description": "Join a thriving business community with networking opportunities."
+      },
+      {
+        "title": "Easy Accessibility",
+        "description": "Convenient access to major roads and public transport."
+      },
+      {
+        "title": "Modern Facilities",
+        "description": "State-of-the-art amenities to enhance your business operations."
+      },
+      {
+        "title": "Expert Assistance",
+        "description": "Our team provides full support to help you set up and run your business smoothly."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shop For Rent in Alipur Village",
     "description": "Find answers to the most common questions about renting a shop in Alipur Village.",
     "faqs": [
-      { "question": "What types of businesses are suitable for shops in Alipur Village", "answer": "Our shops are ideal for retail stores, eateries, service providers, and more." },
-      { "question": "Are there any hidden costs associated with renting a shop", "answer": "No, we ensure complete transparency with no hidden charges." },
-      { "question": "Can I customize the interior of the shop", "answer": "Yes, we offer customizable interiors to suit your business needs." },
-      { "question": "What is the lease duration for shops in Alipur Village", "answer": "We offer flexible lease durations ranging from 1 to 5 years." },
-      { "question": "Is parking available for customers", "answer": "Yes, ample parking facilities are available for customers." },
-      { "question": "How do I apply for a shop rental", "answer": "Contact us directly or visit our website to start the application process." },
-      { "question": "Are there any restrictions on business operations", "answer": "We comply with local regulations to ensure smooth business operations." },
-      { "question": "What amenities are included in the shop rental", "answer": "Our shops come with modern facilities including security and maintenance services." },
-      { "question": "Can I visit the shop before renting", "answer": "Yes, we encourage potential tenants to visit and inspect the shops." },
-      { "question": "Is the location suitable for high foot traffic businesses", "answer": "Yes, our shops are located in high-traffic areas ideal for customer-facing businesses." }
+      {
+        "question": "What types of businesses are suitable for shops in Alipur Village",
+        "answer": "Our shops are ideal for retail stores, eateries, service providers, and more."
+      },
+      {
+        "question": "Are there any hidden costs associated with renting a shop",
+        "answer": "No, we ensure complete transparency with no hidden charges."
+      },
+      {
+        "question": "Can I customize the interior of the shop",
+        "answer": "Yes, we offer customizable interiors to suit your business needs."
+      },
+      {
+        "question": "What is the lease duration for shops in Alipur Village",
+        "answer": "We offer flexible lease durations ranging from 1 to 5 years."
+      },
+      {
+        "question": "Is parking available for customers",
+        "answer": "Yes, ample parking facilities are available for customers."
+      },
+      {
+        "question": "How do I apply for a shop rental",
+        "answer": "Contact us directly or visit our website to start the application process."
+      },
+      {
+        "question": "Are there any restrictions on business operations",
+        "answer": "We comply with local regulations to ensure smooth business operations."
+      },
+      {
+        "question": "What amenities are included in the shop rental",
+        "answer": "Our shops come with modern facilities including security and maintenance services."
+      },
+      {
+        "question": "Can I visit the shop before renting",
+        "answer": "Yes, we encourage potential tenants to visit and inspect the shops."
+      },
+      {
+        "question": "Is the location suitable for high foot traffic businesses",
+        "answer": "Yes, our shops are located in high-traffic areas ideal for customer-facing businesses."
+      }
     ]
   },
   "contactSection": {
@@ -83,6 +206,11 @@
       "Interested in renting a shop in Alipur Village? Contact us today for more information and to schedule a visit.",
       "Our team is here to assist you with all your rental needs and ensure a seamless process."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

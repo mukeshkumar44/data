@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "babyal_flat_exterior_view.jpg",
-      "babyal_apartment_interior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "These areas provide diversified rental pricing and lifestyle choices ensuring you can pinpoint the exact environment you wish to live in. Browse our listings not just in central Babyal but also in adjacent developing sectors known for their new construction and comprehensive amenities. We make sure that whether you prioritize quick access to Ambala Cantt Railway Station or need a quieter, residential pocket, your search for a Flat For Rent in Babyal is thoroughly covered."
     ],
     "locations": [
-      "Babyal Main Road",
-      "Near Ambala Cantt Railway Station",
-      "Defence Colony Ambala",
-      "Housing Board Colony Babyal",
-      "Model Town Ambala",
-      "Sector 34 Extension",
-      "NH 44 Service Lane Areas",
-      "Shastri Colony"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

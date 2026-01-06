@@ -7,10 +7,19 @@
       "Whether you are looking for a compact, independent house or a spacious luxury villa, our curated listings help you buy house in South City 3 that perfectly matches your lifestyle requirements. We focus on verified properties, clear documentation, and transparent transactions, ensuring your investment is secure and stress-free from start to finish. Begin your journey toward securing your dream home in this prestigious location."
     ],
     "buttons": [
-      { "label": "Explore Verified Listings", "path": "/listings" },
-      { "label": "Request Personalized Consultation", "path": "/contact" }
+      {
+        "label": "Explore Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Personalized Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Premium Plot Sizes and Residential Property Options in South City 3 Gurugram",
@@ -52,14 +61,56 @@
       "The neighborhood benefits immensely from its proximity to Sohna Road and the Golf Course Extension Road, which are vital economic corridors. Furthermore, the established residential areas surrounding South City 3 ensure immediate access to world-class schools, hospitals, and high-end retail options. Choosing to buy house in South City 3 means choosing a life of convenience nestled between urban activity and peaceful residential living. We guide you through properties that leverage this unparalleled locational advantage."
     ],
     "locations": [
-      "Sohna Road Commercial Hub",
-      "Sector 47 Residential Enclave",
-      "Golf Course Extension Road",
-      "Subhash Chowk Accessibility",
-      "Central Park 2 Adjacent Areas",
-      "Omaxe City Center Retail",
-      "Rajiv Chowk Connectivity Link",
-      "Sector 49 Amenities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

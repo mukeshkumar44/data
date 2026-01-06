@@ -7,10 +7,19 @@
       "The availability of high-quality construction and various property types including independent houses and builder floors makes Sector 10 a versatile choice for serious buyers. Investing in a property here promises high appreciation value due to the structured planning and continuous development. We simplify the complex buying process ensuring you find a House For Sale in Sector 10 that meets your specifications budget and long-term goals. Start your journey toward home ownership in Ambala's finest locality today and experience premium urban living."
     ],
     "buttons": [
-      { "label": "View Verified Listings", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore the Perfect Plot Sizes Available for Constructing Your New Home in Sector 10 Ambala",
@@ -52,14 +61,56 @@
       "Key arterial roads like NH 44 are easily accessible facilitating quick travel to Chandigarh Delhi and other major cities. This connectivity makes Sector 10 not just a place to live but also a smart geographical investment ensuring easy commutes and access to high-quality amenities including reputable schools hospitals and shopping centers."
     ],
     "locations": [
-      "Sector 7 Ambala",
-      "Sector 8 Ambala",
-      "Sector 9 Ambala",
-      "Ambala Cantt",
-      "Model Town Ambala",
-      "Baldev Nagar",
-      "Bus Stand Ambala City",
-      "Ambala Railway Station connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning a premium property in Ambala's Sector 10. Reach out to our specialized real estate advisors who possess deep market knowledge of this exclusive area. We are here to answer your specific questions arrange private viewings and provide tailored investment advice.",
       "Do not miss the opportunity to secure a prime House For Sale in Sector 10 Ambala. Fill out the form below or call us directly to initiate your property search today. Let us help you convert your dream home vision into reality with professional, reliable service."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

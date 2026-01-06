@@ -7,10 +7,19 @@
       "Each listing is meticulously vetted ensuring clear titles and compliance. Explore modern amenities, secure gated communities, and properties ready for immediate possession. Finding your dream home or a lucrative investment flat in Sector 34 Ambala has never been easier or more transparent. Start browsing our curated list of verified flats today and step closer to owning property in one of Ambala's most sought-after sectors."
     ],
     "buttons": [
-      { "label": "View All Flats", "path": "/listings/flats" },
-      { "label": "Contact Property Advisor", "path": "/contact" }
+      {
+        "label": "View All Flats",
+        "path": "/listings/flats"
+      },
+      {
+        "label": "Contact Property Advisor",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero-flat-sector34-1.jpg", "/images/hero-flat-sector34-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Flat Configurations and Residential Options in Sector 34 Ambala",
@@ -52,14 +61,56 @@
       "Proximity to established educational institutions and healthcare facilities significantly enhances the quality of life here. Whether you frequently commute or require essential services close by, Sector 34 serves as a central and highly desirable residential location within the Ambala region. Explore nearby sectors that complement the lifestyle offered by Sector 34 flats."
     ],
     "locations": [
-      "Sector 32 Ambala",
-      "Model Town Ambala",
-      "Baldev Nagar",
-      "Ambala City",
-      "Ambala Cantt",
-      "Sector 8 Ambala",
-      "Sector 9 Ambala",
-      "Housing Board Colony"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning a premium flat in the thriving Sector 34 of Ambala We offer personalized property tours, detailed financial guidance, and legal assistance tailored to your specific needs.",
       "Connect with our dedicated Sector 34 property specialists now to discuss your requirements, schedule site visits, or gain expert insight into current market opportunities. Your dream home awaits."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

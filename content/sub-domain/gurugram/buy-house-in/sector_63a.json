@@ -7,12 +7,18 @@
       "We simplify the process to buy house in Sector 63A by presenting verified listings that guarantee quality construction and clear legal titles. Investing here means securing a future of high appreciation potential combined with seamless connectivity to key commercial districts and international schools. Explore our exclusive listings now and step into the luxury lifestyle you deserve in one of Gurugram’s most promising sectors."
     ],
     "buttons": [
-      { "label": "Explore Premium Houses", "path": "/properties" },
-      { "label": "Get Free Consultation", "path": "/contact" }
+      {
+        "label": "Explore Premium Houses",
+        "path": "/properties"
+      },
+      {
+        "label": "Get Free Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "hero-image-1.jpg",
-      "hero-image-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The proximity to established sectors like 65, 66, and 67, along with easy access to the Southern Peripheral Road SPR and Delhi-Mumbai Expressway DMPE, boosts the livability quotient significantly. This makes commuting easy and places top schools, hospitals, and shopping centers within a short drive. When evaluating Sector 63A, remember you are investing in connectivity, which is a massive driver of property value and quality of life in Gurugram."
     ],
     "locations": [
-      "Sector 65 Gurugram",
-      "Sector 66 Gurugram",
-      "Sector 67 Gurugram",
-      "Golf Course Extension Road",
-      "Southern Peripheral Road SPR",
-      "Worldmark Gurgaon",
-      "NH 48 Access",
-      "Sector 57 Gurugram"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to explore exclusive properties that match your standards of luxury and investment potential We offer personalized guidance through the complex Gurugram real estate market.",
       "Contact our dedicated Sector 63A property specialist now to schedule a site visit or receive a curated list of houses tailored precisely to your requirements and budget."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

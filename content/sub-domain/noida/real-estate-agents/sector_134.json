@@ -7,10 +7,19 @@
       "Navigating the complexities of property transactions in a prime location like Sector 134 demands professional guidance. The Real Estate Agents in Sector 134 listed here provide comprehensive support from initial valuation and legal verification to final registration. Trust us to streamline your entire property journey ensuring you achieve maximum value and peace of mind with every decision."
     ],
     "buttons": [
-      { "label": "Find Your Dream Home Today", "path": "/search" },
-      { "label": "Request a Free Property Valuation", "path": "/valuation" }
+      {
+        "label": "Find Your Dream Home Today",
+        "path": "/search"
+      },
+      {
+        "label": "Request a Free Property Valuation",
+        "path": "/valuation"
+      }
     ],
-    "images": ["sector134_hero_image1.jpg", "sector134_agent_team.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Diverse Investment Opportunities with Real Estate Agents in Sector 134",
@@ -52,14 +61,56 @@
       "Whether you are looking for better connectivity or expanding your investment portfolio into newer developments our comprehensive coverage ensures you do not miss out on emerging opportunities right next to Sector 134 Noida."
     ],
     "locations": [
-      "Sector 135",
-      "Sector 133",
-      "Sector 137 Noida Expressway",
-      "Sector 93B",
-      "Jaypee Wish Town",
-      "Dadri Road Connectivity",
-      "Greater Noida Link Road",
-      "Sector 150 Investment Zone"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to partner with the leading Real Estate Agents in Sector 134 Noida Contact us now to schedule a personalized consultation or request a detailed property portfolio tailored to your investment profile.",
       "Fill out the form below and one of our dedicated property specialists will reach out to you within the hour to discuss your specific needs and goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

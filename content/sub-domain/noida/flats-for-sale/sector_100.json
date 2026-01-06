@@ -7,10 +7,19 @@
       "Sector 100 provides easy access to major expressways, commercial centers, and essential social infrastructure, ensuring a balanced and efficient lifestyle. Whether you are looking for a compact 2 BHK or an expansive 4 BHK penthouse, we connect you with verified listings that promise excellent capital appreciation and superior living standards. Start your journey to securing a prestigious home in this rapidly developing neighborhood today."
     ],
     "buttons": [
-      { "label": "Explore Ready-to-Move Flats", "path": "/ready-to-move" },
-      { "label": "Contact Property Experts", "path": "/contact-us" }
+      {
+        "label": "Explore Ready-to-Move Flats",
+        "path": "/ready-to-move"
+      },
+      {
+        "label": "Contact Property Experts",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["/images/hero-flat-sector100-1.jpg", "/images/hero-flat-sector100-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exclusive Residential Features and Apartment Types in Sector 100 Noida",
@@ -52,14 +61,56 @@
       "Our listings cover verified flats in these top complexes, ensuring transparency and legal compliance throughout your purchasing process. These locations are chosen for their strategic positioning, developer credibility, and the complete lifestyle ecosystem they provide to residents."
     ],
     "locations": [
-      "Purvanchal Royal Park Sector 100",
-      "Sector 100 Residential Society Noida",
-      "Premium Builder Floor Apartments Sector 100",
-      "Flats near Noida Expressway Sector 100",
-      "Residences close to Sector 100 IT Hub",
-      "Luxury High-Rise Apartments Sector 100",
-      "Semi-Furnished Flats Sector 100 Noida",
-      "New Launch Projects Sector 100"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure your exclusive Flat For Sale in Sector 100 Noida Schedule a personal consultation with our seasoned real estate advisors. We offer tailored advice, comprehensive site visits, and negotiation support to ensure you find the perfect property at the best price.",
       "Submit your details below and take the first step toward luxury living in one of Noida’s most prestigious residential addresses. We guarantee confidentiality and dedicated service throughout your property acquisition journey."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

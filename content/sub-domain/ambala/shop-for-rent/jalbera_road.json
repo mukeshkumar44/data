@@ -7,10 +7,19 @@
       "With excellent connectivity, high foot traffic, and a vibrant local market, Jalbera Road is the perfect place to set up shop. Explore our wide range of rental options today and take the first step towards growing your business in one of the most sought-after locations."
     ],
     "buttons": [
-      { "label": "Explore Listings", "path": "/listings" },
-      { "label": "Contact Us", "path": "/contact" }
+      {
+        "label": "Explore Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Contact Us",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Available Shop Spaces in Jalbera Road",
@@ -19,12 +28,30 @@
       "Our listings feature shops in prime locations, ensuring maximum visibility and customer reach. Whether you’re looking for a retail store, office space, or a service-based setup, Jalbera Road offers the perfect environment for your business to flourish."
     ],
     "features": [
-      { "title": "Compact Shop Spaces", "description": "Ideal for small businesses or startups, these compact shop spaces offer affordability without compromising on location or accessibility." },
-      { "title": "Medium-Sized Shops", "description": "Perfect for growing businesses, these medium-sized shops provide ample space for retail stores, cafes, or service centers." },
-      { "title": "Large Commercial Spaces", "description": "Designed for established businesses, these large commercial spaces offer flexibility and room for expansion." },
-      { "title": "Prime Location Shops", "description": "Located in the heart of Jalbera Road, these shops ensure high foot traffic and visibility for your business." },
-      { "title": "Affordable Rental Options", "description": "Budget-friendly rental options that cater to businesses of all sizes, ensuring you find the perfect space within your budget." },
-      { "title": "Customizable Shop Spaces", "description": "Tailor your shop space to meet your specific business requirements with our customizable rental options." }
+      {
+        "title": "Compact Shop Spaces",
+        "description": "Ideal for small businesses or startups, these compact shop spaces offer affordability without compromising on location or accessibility."
+      },
+      {
+        "title": "Medium-Sized Shops",
+        "description": "Perfect for growing businesses, these medium-sized shops provide ample space for retail stores, cafes, or service centers."
+      },
+      {
+        "title": "Large Commercial Spaces",
+        "description": "Designed for established businesses, these large commercial spaces offer flexibility and room for expansion."
+      },
+      {
+        "title": "Prime Location Shops",
+        "description": "Located in the heart of Jalbera Road, these shops ensure high foot traffic and visibility for your business."
+      },
+      {
+        "title": "Affordable Rental Options",
+        "description": "Budget-friendly rental options that cater to businesses of all sizes, ensuring you find the perfect space within your budget."
+      },
+      {
+        "title": "Customizable Shop Spaces",
+        "description": "Tailor your shop space to meet your specific business requirements with our customizable rental options."
+      }
     ]
   },
   "locationsSection": {
@@ -34,14 +61,56 @@
       "These areas are known for their bustling markets, excellent connectivity, and diverse customer base, making them ideal for businesses looking to expand or relocate."
     ],
     "locations": [
-      "Sector 15 Ambala",
-      "Ambala Cantt",
-      "Sector 7 Ambala",
-      "Railway Road Ambala",
-      "Patel Road Ambala",
-      "Sector 12 Ambala",
-      "Sector 9 Ambala",
-      "Sector 5 Ambala"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -51,28 +120,76 @@
       "From excellent connectivity to a diverse customer base, Jalbera Road provides the perfect environment for your business to grow and succeed."
     ],
     "points": [
-      { "title": "High Foot Traffic", "description": "With its bustling markets and busy streets, Jalbera Road ensures your business gets the visibility it needs to attract customers." },
-      { "title": "Excellent Connectivity", "description": "Located near major roads and transport hubs, Jalbera Road offers easy accessibility for both customers and suppliers." },
-      { "title": "Diverse Customer Base", "description": "Cater to a wide range of customers, from locals to visitors, thanks to Jalbera Road’s vibrant and diverse community." },
-      { "title": "Affordable Rentals", "description": "Enjoy competitive rental rates that make it easier for businesses of all sizes to establish themselves in this prime location." },
-      { "title": "Thriving Local Market", "description": "Benefit from Jalbera Road’s thriving local market, which offers ample opportunities for growth and collaboration." },
-      { "title": "Strategic Location", "description": "Located in the heart of Ambala, Jalbera Road provides a strategic advantage for businesses looking to expand their reach." }
+      {
+        "title": "High Foot Traffic",
+        "description": "With its bustling markets and busy streets, Jalbera Road ensures your business gets the visibility it needs to attract customers."
+      },
+      {
+        "title": "Excellent Connectivity",
+        "description": "Located near major roads and transport hubs, Jalbera Road offers easy accessibility for both customers and suppliers."
+      },
+      {
+        "title": "Diverse Customer Base",
+        "description": "Cater to a wide range of customers, from locals to visitors, thanks to Jalbera Road’s vibrant and diverse community."
+      },
+      {
+        "title": "Affordable Rentals",
+        "description": "Enjoy competitive rental rates that make it easier for businesses of all sizes to establish themselves in this prime location."
+      },
+      {
+        "title": "Thriving Local Market",
+        "description": "Benefit from Jalbera Road’s thriving local market, which offers ample opportunities for growth and collaboration."
+      },
+      {
+        "title": "Strategic Location",
+        "description": "Located in the heart of Ambala, Jalbera Road provides a strategic advantage for businesses looking to expand their reach."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shops For Rent in Jalbera Road",
     "description": "Have questions about renting a shop in Jalbera Road? We’ve got you covered. Here are some common queries and their answers to help you make an informed decision.",
     "faqs": [
-      { "question": "What types of shops are available for rent in Jalbera Road", "answer": "We offer a variety of shop spaces, including compact setups, medium-sized shops, and large commercial spaces, catering to different business needs." },
-      { "question": "Is Jalbera Road a good location for starting a business", "answer": "Yes, Jalbera Road is a bustling commercial hub with high foot traffic, excellent connectivity, and a diverse customer base, making it an ideal location for businesses." },
-      { "question": "What are the rental rates for shops in Jalbera Road", "answer": "Rental rates vary depending on the size and location of the shop. We offer affordable options to suit different budgets." },
-      { "question": "Can I customize the shop space to fit my business needs", "answer": "Yes, many of our shop spaces are customizable, allowing you to tailor the space to meet your specific requirements." },
-      { "question": "Are there any hidden costs involved in renting a shop in Jalbera Road", "answer": "No, we provide transparent pricing with no hidden costs. All fees and charges are clearly outlined in the rental agreement." },
-      { "question": "How do I apply to rent a shop in Jalbera Road", "answer": "You can apply by contacting us through our website or visiting our office. We’ll guide you through the process and help you find the perfect shop." },
-      { "question": "What amenities are available in the shops for rent in Jalbera Road", "answer": "Our shops come with basic amenities such as electricity, water supply, and parking facilities. Additional amenities can be arranged upon request." },
-      { "question": "Is Jalbera Road well-connected to public transport", "answer": "Yes, Jalbera Road is well-connected to public transport, making it easily accessible for both customers and employees." },
-      { "question": "Can I visit the shop space before renting it", "answer": "Absolutely. We encourage potential renters to visit the shop space to ensure it meets their requirements before making a decision." },
-      { "question": "What support do you offer to new businesses renting a shop in Jalbera Road", "answer": "We provide comprehensive support, including assistance with paperwork, customization, and guidance on setting up your business in Jalbera Road." }
+      {
+        "question": "What types of shops are available for rent in Jalbera Road",
+        "answer": "We offer a variety of shop spaces, including compact setups, medium-sized shops, and large commercial spaces, catering to different business needs."
+      },
+      {
+        "question": "Is Jalbera Road a good location for starting a business",
+        "answer": "Yes, Jalbera Road is a bustling commercial hub with high foot traffic, excellent connectivity, and a diverse customer base, making it an ideal location for businesses."
+      },
+      {
+        "question": "What are the rental rates for shops in Jalbera Road",
+        "answer": "Rental rates vary depending on the size and location of the shop. We offer affordable options to suit different budgets."
+      },
+      {
+        "question": "Can I customize the shop space to fit my business needs",
+        "answer": "Yes, many of our shop spaces are customizable, allowing you to tailor the space to meet your specific requirements."
+      },
+      {
+        "question": "Are there any hidden costs involved in renting a shop in Jalbera Road",
+        "answer": "No, we provide transparent pricing with no hidden costs. All fees and charges are clearly outlined in the rental agreement."
+      },
+      {
+        "question": "How do I apply to rent a shop in Jalbera Road",
+        "answer": "You can apply by contacting us through our website or visiting our office. We’ll guide you through the process and help you find the perfect shop."
+      },
+      {
+        "question": "What amenities are available in the shops for rent in Jalbera Road",
+        "answer": "Our shops come with basic amenities such as electricity, water supply, and parking facilities. Additional amenities can be arranged upon request."
+      },
+      {
+        "question": "Is Jalbera Road well-connected to public transport",
+        "answer": "Yes, Jalbera Road is well-connected to public transport, making it easily accessible for both customers and employees."
+      },
+      {
+        "question": "Can I visit the shop space before renting it",
+        "answer": "Absolutely. We encourage potential renters to visit the shop space to ensure it meets their requirements before making a decision."
+      },
+      {
+        "question": "What support do you offer to new businesses renting a shop in Jalbera Road",
+        "answer": "We provide comprehensive support, including assistance with paperwork, customization, and guidance on setting up your business in Jalbera Road."
+      }
     ]
   },
   "contactSection": {
@@ -81,6 +198,11 @@
       "Ready to find your ideal shop for rent in Jalbera Road? Contact us today to explore our listings and get personalized assistance.",
       "Our team is here to help you every step of the way, from finding the perfect space to finalizing the rental agreement."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

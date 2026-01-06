@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "flat_balana_aerial_view",
-      "flat_balana_lobby"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "These neighboring areas benefit from Balana's connectivity to the Ambala-Chandigarh highway and proximity to major commercial centers. Our listings include detailed insights into the demographic profile, infrastructural developments, and future growth potential of each locality. Choosing a flat slightly outside the immediate Balana core might offer more expansive square footage or access to larger community parks, depending on your priority. Explore these high-growth areas to maximize your options when looking for a Flat For Sale in Balana Ambala region. We ensure transparent pricing and verified paperwork across all listed locations."
     ],
     "locations": [
-      "Balana Central Housing Complex",
-      "Balana Extension Modern Apartments",
-      "Societies Near Highway 44 Exit",
-      "Residential Sector 5 Balana",
-      "Apartments Adjacent to Cantonment Area",
-      "Mansa Devi Complex Balana"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

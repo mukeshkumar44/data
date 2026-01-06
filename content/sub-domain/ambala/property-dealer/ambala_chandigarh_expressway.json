@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Perfect Residential Plot Sizes for Sale along the Ambala Chandigarh Expressway",
@@ -58,14 +61,56 @@
       "Our experienced Property Dealer in Ambala Chandigarh Expressway team analyzes future governmental plans, proposed commercial projects, and connectivity upgrades to recommend only the most promising sectors. Whether you prioritize proximity to the Ambala Cantt railway station, seamless access to the Chandigarh International Airport, or a quieter lifestyle near established residential enclaves, we have listings that match your criteria. These areas promise rapid infrastructure maturation, making your purchase today an exceptionally smart move for tomorrow."
     ],
     "locations": [
-      "Zirakpur Extension Ambala Side",
-      "Lalru Residential Area",
-      "Derabassi Adjacent Sectors",
-      "Ghaggar Riverfront Development",
-      "NH 44 Industrial Belt Plots",
-      "Ambala Cantt Bypass Hubs",
-      "Sector 34 Ambala Development",
-      "Integrated Townships off Expressway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

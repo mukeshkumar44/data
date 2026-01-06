@@ -7,12 +7,18 @@
       "Whether you are looking to purchase a luxurious independent floor, rent a contemporary apartment, or sell your existing property at the best market value, having the right agent is crucial. We empower your transaction with data-driven advice, clear legal guidance, and unparalleled access to exclusive listings not available publicly. Let us simplify your real estate journey and ensure profitable outcomes every time."
     ],
     "buttons": [
-      { "label": "Connect with an Expert Agent Today", "path": "/contact" },
-      { "label": "Explore Premium Listings in DLF Phase 4", "path": "/listings" }
+      {
+        "label": "Connect with an Expert Agent Today",
+        "path": "/contact"
+      },
+      {
+        "label": "Explore Premium Listings in DLF Phase 4",
+        "path": "/listings"
+      }
     ],
     "images": [
-      "dlf-phase-4-hero-image-1.jpg",
-      "real-estate-agent-dlf-4-profile.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "We understand the nuances that define value in these areas from proximity to the South Point Mall to connectivity via Golf Course Road. Trust our Real Estate Agents in DLF Phase 4 to guide you precisely to the neighborhood that aligns perfectly with your lifestyle and investment criteria."
     ],
     "locations": [
-      "Near Galleria Market",
-      "The Regency Park Apartments",
-      "Hamilton Court and Richmond Park",
-      "Near South Point Mall",
-      "S Block Residential Areas",
-      "Exclusive Independent Floor Zones",
-      "Areas connecting to Golf Course Road",
-      "Near DLF City Club 4"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,12 +7,18 @@
       "The strategic location along the major expressways ensures excellent customer reach making this the ideal market for establishing your flagship store or expanding your service business. We offer flexible leasing options across various sizes and configurations catering to startups established brands and specialized service providers looking for quality commercial property rental solutions."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/listings" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/hero-newgurugram-shop1.jpg",
-      "/images/hero-newgurugram-map.png"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "Whether you prioritize proximity to the Dwarka Expressway for high connectivity or look for commercial spaces embedded within established residential sectors for immediate consumer base access we guide you to the location that best suits your target audience and operational logistics."
     ],
     "locations": [
-      "Sector 89 Commercial Hub",
-      "Sector 90 Retail Street",
-      "Sector 92 High Street Market",
-      "Central Avenue Commercial Belt",
-      "Dwarka Expressway Extension Shops",
-      "Multi-Utility Corridor Retail Zones"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

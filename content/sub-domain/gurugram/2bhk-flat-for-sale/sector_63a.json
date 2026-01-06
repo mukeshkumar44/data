@@ -7,10 +7,19 @@
       "Explore exclusive residential projects that prioritize security comfort and convenience. A 2BHK flat in Sector 63A places you strategically near major business districts entertainment zones and the smooth commute offered by the Golf Course Extension Road. Start your journey today to secure an affordable yet aspirational home in one of Gurugram’s most promising sectors. We offer verified listings and transparent dealings ensuring you make the best property decision."
     ],
     "buttons": [
-      { "label": "View All 2BHK Listings", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View All 2BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Advantages of Investing in a 2BHK Flat in Sector 63A Gurugram Today",
@@ -19,12 +28,30 @@
       "We highlight the specific project features and architectural planning that make the 2BHK Flat For Sale in Sector 63A an excellent long-term asset. From high-quality construction materials to integrated smart home features these properties represent the pinnacle of modern suburban living in the heart of Gurugram’s new growth corridor."
     ],
     "features": [
-      { "title": "Compact Luxury Design", "description": "Every 2BHK flat is optimized for natural light and airflow ensuring a vibrant living environment. Architects have focused on creating multi-functional spaces and maximizing usable carpet area so your home feels spacious and expansive despite its compact footprint. Enjoy luxury finishes and high-end fixtures that elevate the everyday living experience." },
-      { "title": "Efficient Floor Plans", "description": "Our featured 2BHK flats offer intelligently designed layouts minimizing wasted space and ensuring smooth internal flow. These plans often include two spacious bedrooms two well-appointed bathrooms and a combined living dining area making it perfect for efficient daily living and entertaining guests seamlessly. Efficiency translates directly into better value for your money." },
-      { "title": "Premium Tower Amenities", "description": "Residents gain access to world-class amenities within the project premises. This includes temperature-controlled swimming pools fully equipped modern gyms dedicated children's play areas and expansive clubhouses. These facilities promote a healthy and social lifestyle right outside your doorstep enhancing the overall quality of life when you purchase a 2BHK Flat For Sale in Sector 63A." },
-      { "title": "Excellent Connectivity", "description": "Sector 63A sits strategically connected via the Golf Course Extension Road and is close to the Southern Peripheral Road SPR. This ensures quick and easy travel to Delhi IGI Airport and other major areas of Gurugram including Cyber City. Public transport links and future metro expansion plans further secure this location’s connectivity advantage." },
-      { "title": "Secure Gated Community", "description": "Safety and security are paramount concerns for all residents. All featured projects are integrated gated communities offering multi-tiered security measures including 24/7 CCTV surveillance manned entry points and robust perimeter security. Enjoy peace of mind knowing your family and investment are protected within a safe environment." },
-      { "title": "High Rental Yield Potential", "description": "Due to its proximity to commercial business districts and excellent infrastructure a 2BHK Flat For Sale in Sector 63A is highly attractive to tenants. This translates into strong rental demand and impressive capital appreciation making your purchase a financially sound decision whether you plan to occupy the flat or use it purely for investment purposes." }
+      {
+        "title": "Compact Luxury Design",
+        "description": "Every 2BHK flat is optimized for natural light and airflow ensuring a vibrant living environment. Architects have focused on creating multi-functional spaces and maximizing usable carpet area so your home feels spacious and expansive despite its compact footprint. Enjoy luxury finishes and high-end fixtures that elevate the everyday living experience."
+      },
+      {
+        "title": "Efficient Floor Plans",
+        "description": "Our featured 2BHK flats offer intelligently designed layouts minimizing wasted space and ensuring smooth internal flow. These plans often include two spacious bedrooms two well-appointed bathrooms and a combined living dining area making it perfect for efficient daily living and entertaining guests seamlessly. Efficiency translates directly into better value for your money."
+      },
+      {
+        "title": "Premium Tower Amenities",
+        "description": "Residents gain access to world-class amenities within the project premises. This includes temperature-controlled swimming pools fully equipped modern gyms dedicated children's play areas and expansive clubhouses. These facilities promote a healthy and social lifestyle right outside your doorstep enhancing the overall quality of life when you purchase a 2BHK Flat For Sale in Sector 63A."
+      },
+      {
+        "title": "Excellent Connectivity",
+        "description": "Sector 63A sits strategically connected via the Golf Course Extension Road and is close to the Southern Peripheral Road SPR. This ensures quick and easy travel to Delhi IGI Airport and other major areas of Gurugram including Cyber City. Public transport links and future metro expansion plans further secure this location’s connectivity advantage."
+      },
+      {
+        "title": "Secure Gated Community",
+        "description": "Safety and security are paramount concerns for all residents. All featured projects are integrated gated communities offering multi-tiered security measures including 24/7 CCTV surveillance manned entry points and robust perimeter security. Enjoy peace of mind knowing your family and investment are protected within a safe environment."
+      },
+      {
+        "title": "High Rental Yield Potential",
+        "description": "Due to its proximity to commercial business districts and excellent infrastructure a 2BHK Flat For Sale in Sector 63A is highly attractive to tenants. This translates into strong rental demand and impressive capital appreciation making your purchase a financially sound decision whether you plan to occupy the flat or use it purely for investment purposes."
+      }
     ]
   },
   "locationsSection": {
@@ -34,13 +61,56 @@
       "This area is earmarked for significant growth promising superior social infrastructure including major retail complexes premium healthcare facilities and some of Gurugram's top educational institutions. Investing here means investing in a future of convenience and prosperity for your family."
     ],
     "locations": [
-      "Proximity to Golf Course Extension Road",
-      "Quick Access to Rapid Metro Station",
-      "Near Major Commercial Hubs",
-      "Established Social Infrastructure",
-      "Views of the Aravalli Hills",
-      "Leading School Districts",
-      "Upcoming High-Street Retail Centers"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -50,30 +120,84 @@
       "Choosing us means partnering with a team dedicated to finding you a home that perfectly matches your lifestyle needs and financial goals. Let us navigate the complexities of the Gurugram real estate market for you."
     ],
     "points": [
-      { "title": "Verified RERA Registered Properties", "description": "We exclusively list 2BHK flats that are RERA compliant ensuring transparency accountability and timely project delivery. You eliminate the risk associated with non-standardized projects and can invest with complete confidence knowing your asset adheres to the highest industry standards for construction and documentation." },
-      { "title": "Unbeatable Price Advantage", "description": "While offering high-end amenities Sector 63A provides significantly better entry-level pricing for a 2BHK flat compared to established neighbouring sectors like Sector 54 or Sector 55. This makes luxury living attainable without compromising on connectivity or quality of life in Gurugram." },
-      { "title": "High Growth Corridor Investment", "description": "The rapid infrastructure development including the upcoming metro extensions and widening of connecting roads positions Sector 63A as a key growth corridor. Early investment in a 2BHK flat here promises excellent capital appreciation in the medium to long term outpacing many saturated markets." },
-      { "title": "Ready Social and Civic Amenities", "description": "Unlike newly developing peripheral areas Sector 63A benefits from established social infrastructure. Reputable schools healthcare facilities and daily convenience stores are already operational ensuring residents do not have to wait for essential services to catch up." },
-      { "title": "Peaceful Residential Environment", "description": "Despite its superb connectivity Sector 63A maintains a quieter residential ambiance compared to the bustling older parts of Gurugram. This provides a sanctuary for families seeking a balance between urban accessibility and a peaceful living environment perfect for raising children." },
-      { "title": "Access to Top Builders and Developers", "description": "The sector hosts projects from leading national developers known for their quality construction and timely delivery track record. Investing in a 2BHK flat means buying into reliability and reputation assuring you of high-quality finished product and superior property management." },
-      { "title": "Flexible Financing Options", "description": "We connect you with major banks offering competitive home loan options and flexible payment plans specifically tailored for purchasing a 2BHK Flat For Sale in Sector 63A. Our finance experts help you secure the best mortgage rates simplifying the path to homeownership." },
-      { "title": "Expert Local Market Knowledge", "description": "Our team possesses deep localized knowledge of Sector 63A real estate trends pricing analysis and future forecasts. We provide tailored advice ensuring your selection of a 2BHK flat aligns perfectly with current market valuations and future projected growth." }
+      {
+        "title": "Verified RERA Registered Properties",
+        "description": "We exclusively list 2BHK flats that are RERA compliant ensuring transparency accountability and timely project delivery. You eliminate the risk associated with non-standardized projects and can invest with complete confidence knowing your asset adheres to the highest industry standards for construction and documentation."
+      },
+      {
+        "title": "Unbeatable Price Advantage",
+        "description": "While offering high-end amenities Sector 63A provides significantly better entry-level pricing for a 2BHK flat compared to established neighbouring sectors like Sector 54 or Sector 55. This makes luxury living attainable without compromising on connectivity or quality of life in Gurugram."
+      },
+      {
+        "title": "High Growth Corridor Investment",
+        "description": "The rapid infrastructure development including the upcoming metro extensions and widening of connecting roads positions Sector 63A as a key growth corridor. Early investment in a 2BHK flat here promises excellent capital appreciation in the medium to long term outpacing many saturated markets."
+      },
+      {
+        "title": "Ready Social and Civic Amenities",
+        "description": "Unlike newly developing peripheral areas Sector 63A benefits from established social infrastructure. Reputable schools healthcare facilities and daily convenience stores are already operational ensuring residents do not have to wait for essential services to catch up."
+      },
+      {
+        "title": "Peaceful Residential Environment",
+        "description": "Despite its superb connectivity Sector 63A maintains a quieter residential ambiance compared to the bustling older parts of Gurugram. This provides a sanctuary for families seeking a balance between urban accessibility and a peaceful living environment perfect for raising children."
+      },
+      {
+        "title": "Access to Top Builders and Developers",
+        "description": "The sector hosts projects from leading national developers known for their quality construction and timely delivery track record. Investing in a 2BHK flat means buying into reliability and reputation assuring you of high-quality finished product and superior property management."
+      },
+      {
+        "title": "Flexible Financing Options",
+        "description": "We connect you with major banks offering competitive home loan options and flexible payment plans specifically tailored for purchasing a 2BHK Flat For Sale in Sector 63A. Our finance experts help you secure the best mortgage rates simplifying the path to homeownership."
+      },
+      {
+        "title": "Expert Local Market Knowledge",
+        "description": "Our team possesses deep localized knowledge of Sector 63A real estate trends pricing analysis and future forecasts. We provide tailored advice ensuring your selection of a 2BHK flat aligns perfectly with current market valuations and future projected growth."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Buying a 2BHK Flat in Sector 63A",
     "description": "Get detailed answers to common queries regarding property investment residential viability and legal aspects of buying apartments in Sector 63A Gurugram.",
     "faqs": [
-      { "question": "What is the typical size range for a 2BHK Flat For Sale in Sector 63A Gurugram", "answer": "The typical super area for a 2BHK flat in the premium residential complexes of Sector 63A usually ranges between 1100 square feet and 1450 square feet. This variation depends on the specific project architecture the inclusion of balconies and the efficiency of the floor plan design. Prospective buyers should always confirm the carpet area versus the super area to fully understand the usable space they are acquiring." },
-      { "question": "Are the 2BHK projects in Sector 63A ready for possession or still under construction", "answer": "Sector 63A features a mixed inventory. You can find excellent options for ready-to-move-in 2BHK flats providing immediate occupancy and avoiding rental costs. Additionally there are several high-quality projects currently under advanced stages of construction which often offer lower entry prices and attractive installment-based payment plans for investors seeking capital appreciation upon project completion." },
-      { "question": "How is the connectivity from Sector 63A to the main business hubs like Cyber City", "answer": "Connectivity is one of Sector 63A’s strongest selling points. It provides easy access to the Golf Course Extension Road which connects directly to the main Gurugram city spine. Travel time to Cyber City is typically around 30 to 45 minutes depending on peak traffic conditions. The sector is also close to the HUDA City Centre and future rapid transit routes enhancing overall commuting convenience." },
-      { "question": "What kind of amenities can I expect when buying a new 2BHK flat here", "answer": "Modern 2BHK flats in Sector 63A projects come equipped with extensive lifestyle amenities. Standard offerings include 100 percent power backup secure basement parking 24/7 water supply high-speed elevators and comprehensive fire safety systems. Premium projects often add luxurious features such as dedicated sports courts multi-purpose hall fitness centres and landscaped podium gardens for recreational use." },
-      { "question": "Is Sector 63A a good location for investment purposes specifically for rental returns", "answer": "Absolutely Sector 63A exhibits strong investment potential. Its strategic location near the commercial belt and institutional areas along the Golf Course Extension Road drives consistent demand from working professionals. A well-maintained 2BHK flat generally commands competitive rental yields ensuring a reliable passive income stream for property investors." },
-      { "question": "What are the common maintenance charges for apartments in this sector", "answer": "Maintenance charges vary slightly between projects but typically range from INR 3.5 to INR 5.5 per square foot per month based on the extent of luxury amenities and the size of the project. This fee covers security common area upkeep utility bills for common facilities and the maintenance of recreational features like swimming pools and clubhouses." },
-      { "question": "Are there good schools and hospitals near the residential complexes in Sector 63A", "answer": "Yes Sector 63A boasts excellent social infrastructure. Reputed schools such as Heritage School DPS International and Scottish High are easily accessible. For healthcare world-class hospitals like Medanta The Medicity and Artemis Hospital are located within a short drive ensuring high-quality medical services are always close by." },
-      { "question": "What documents are required to secure a home loan for a 2BHK flat in Sector 63A", "answer": "To secure a home loan you will generally need basic KYC documents proof of income such as salary slips or tax returns property specific documents including the Sale Agreement and project approvals and a clear title report. Our financial consultants are available to assist you in compiling the complete list of necessary documentation specific to your chosen 2BHK flat." },
-      { "question": "Are there any specific hidden costs I should be aware of besides the basic flat price", "answer": "When purchasing a 2BHK Flat For Sale in Sector 63A always account for additional costs. These typically include stamp duty registration fees GST where applicable car parking charges development charges and the mandatory Internal Development Charges IDC or External Development Charges EDC levied by the government. Always request a full cost breakup from the developer or our sales representative." },
-      { "question": "What types of ownership status are available for 2BHK flats in Sector 63A Freehold or Leasehold", "answer": "Almost all multi-storey apartment projects and 2BHK flats in Sector 63A Gurugram are offered on a freehold basis. This means the buyer enjoys complete ownership rights over the dwelling unit and the proportionate share of the land underneath. This provides maximum security and stability for your property asset." }
+      {
+        "question": "What is the typical size range for a 2BHK Flat For Sale in Sector 63A Gurugram",
+        "answer": "The typical super area for a 2BHK flat in the premium residential complexes of Sector 63A usually ranges between 1100 square feet and 1450 square feet. This variation depends on the specific project architecture the inclusion of balconies and the efficiency of the floor plan design. Prospective buyers should always confirm the carpet area versus the super area to fully understand the usable space they are acquiring."
+      },
+      {
+        "question": "Are the 2BHK projects in Sector 63A ready for possession or still under construction",
+        "answer": "Sector 63A features a mixed inventory. You can find excellent options for ready-to-move-in 2BHK flats providing immediate occupancy and avoiding rental costs. Additionally there are several high-quality projects currently under advanced stages of construction which often offer lower entry prices and attractive installment-based payment plans for investors seeking capital appreciation upon project completion."
+      },
+      {
+        "question": "How is the connectivity from Sector 63A to the main business hubs like Cyber City",
+        "answer": "Connectivity is one of Sector 63A’s strongest selling points. It provides easy access to the Golf Course Extension Road which connects directly to the main Gurugram city spine. Travel time to Cyber City is typically around 30 to 45 minutes depending on peak traffic conditions. The sector is also close to the HUDA City Centre and future rapid transit routes enhancing overall commuting convenience."
+      },
+      {
+        "question": "What kind of amenities can I expect when buying a new 2BHK flat here",
+        "answer": "Modern 2BHK flats in Sector 63A projects come equipped with extensive lifestyle amenities. Standard offerings include 100 percent power backup secure basement parking 24/7 water supply high-speed elevators and comprehensive fire safety systems. Premium projects often add luxurious features such as dedicated sports courts multi-purpose hall fitness centres and landscaped podium gardens for recreational use."
+      },
+      {
+        "question": "Is Sector 63A a good location for investment purposes specifically for rental returns",
+        "answer": "Absolutely Sector 63A exhibits strong investment potential. Its strategic location near the commercial belt and institutional areas along the Golf Course Extension Road drives consistent demand from working professionals. A well-maintained 2BHK flat generally commands competitive rental yields ensuring a reliable passive income stream for property investors."
+      },
+      {
+        "question": "What are the common maintenance charges for apartments in this sector",
+        "answer": "Maintenance charges vary slightly between projects but typically range from INR 3.5 to INR 5.5 per square foot per month based on the extent of luxury amenities and the size of the project. This fee covers security common area upkeep utility bills for common facilities and the maintenance of recreational features like swimming pools and clubhouses."
+      },
+      {
+        "question": "Are there good schools and hospitals near the residential complexes in Sector 63A",
+        "answer": "Yes Sector 63A boasts excellent social infrastructure. Reputed schools such as Heritage School DPS International and Scottish High are easily accessible. For healthcare world-class hospitals like Medanta The Medicity and Artemis Hospital are located within a short drive ensuring high-quality medical services are always close by."
+      },
+      {
+        "question": "What documents are required to secure a home loan for a 2BHK flat in Sector 63A",
+        "answer": "To secure a home loan you will generally need basic KYC documents proof of income such as salary slips or tax returns property specific documents including the Sale Agreement and project approvals and a clear title report. Our financial consultants are available to assist you in compiling the complete list of necessary documentation specific to your chosen 2BHK flat."
+      },
+      {
+        "question": "Are there any specific hidden costs I should be aware of besides the basic flat price",
+        "answer": "When purchasing a 2BHK Flat For Sale in Sector 63A always account for additional costs. These typically include stamp duty registration fees GST where applicable car parking charges development charges and the mandatory Internal Development Charges IDC or External Development Charges EDC levied by the government. Always request a full cost breakup from the developer or our sales representative."
+      },
+      {
+        "question": "What types of ownership status are available for 2BHK flats in Sector 63A Freehold or Leasehold",
+        "answer": "Almost all multi-storey apartment projects and 2BHK flats in Sector 63A Gurugram are offered on a freehold basis. This means the buyer enjoys complete ownership rights over the dwelling unit and the proportionate share of the land underneath. This provides maximum security and stability for your property asset."
+      }
     ]
   },
   "contactSection": {
@@ -82,6 +206,11 @@
       "Ready to take the next step towards owning your ideal 2BHK flat We offer personalized consultations project brochures and comparative market analyses completely free of charge. Let us help you navigate the best available properties that fit your requirements perfectly.",
       "Fill out the form below to receive exclusive property listings site tour arrangements and tailored advice on pricing and investment potential in Sector 63A."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

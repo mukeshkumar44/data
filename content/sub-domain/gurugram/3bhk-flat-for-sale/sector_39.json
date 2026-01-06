@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Features of Premium 3BHK Flats Available For Sale in Sector 39 Gurugram",
@@ -58,14 +61,56 @@
       "Families appreciate the proximity to sectors known for excellent schools and hospitals, establishing a self-sufficient ecosystem around your new 3BHK flat. Key neighboring sectors contribute to Sector 39's prestige, offering diverse retail and recreational options just a short drive away. This central positioning ensures that while you enjoy the tranquility of a premium residential area, you are never far from the dynamic pulse of the city. The investment value of a 3BHK property here is consistently strong because of these infrastructural advantages. Review the adjacent areas that enhance the value and convenience of owning a flat in Sector 39 Gurugram."
     ],
     "locations": [
-      "Sector 40 Residential Hub",
-      "HUDA City Centre Metro",
-      "Signature Towers Area",
-      "Medanta The Medicity Hospital",
-      "Iffco Chowk Transit Point",
-      "Golf Course Road Extension",
-      "Subhash Chowk Commercial Zone",
-      "DLF Cyber City Tech Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

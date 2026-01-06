@@ -7,12 +7,18 @@
       "A 3BHK apartment in this sector provides ample space required for modern family living including three bedrooms a spacious living area and usually a servant room or utility balcony. Sector 10A boasts excellent connectivity to major roads hospitals and reputed schools ensuring all your daily needs are met within a short distance. Explore the best ready-to-move and under-construction options today and take the first step towards owning your dream home in one of Gurugram's finest sectors. Secure your future residence with expert guidance from our dedicated property advisors."
     ],
     "buttons": [
-      { "label": "Explore Verified 3BHK Listings", "path": "/listings/sector10a" },
-      { "label": "Schedule A Site Visit Now", "path": "/contact" }
+      {
+        "label": "Explore Verified 3BHK Listings",
+        "path": "/listings/sector10a"
+      },
+      {
+        "label": "Schedule A Site Visit Now",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/sector10a_hero1.jpg",
-      "/images/sector10a_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The strategic placement ensures that whether your commute is towards the corporate hubs of Cyber City or you need quick connectivity to the main national highway your travel time remains minimized. Review the vital locational advantages that enhance the appeal and value of every 3BHK flat for sale in Sector 10A."
     ],
     "locations": [
-      "Palam Vihar Extension",
-      "Sector 10 Market Hub",
-      "Proximity to NH-48 Highway",
-      "Major Hospitals and Clinics",
-      "Malls and Entertainment Centers",
-      "Reputed CBSE Affiliated Schools",
-      "Easy Access to Gurgaon Railway Station",
-      "Direct Road to Dwarka Expressway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

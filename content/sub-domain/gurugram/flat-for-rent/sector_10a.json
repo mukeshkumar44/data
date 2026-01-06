@@ -7,10 +7,19 @@
       "Our platform showcases the latest and most desirable rental opportunities, from modern studio apartments ideal for young professionals to spacious 3 BHK and 4 BHK flats perfect for large families. Every listing includes detailed photos, transparent pricing, and comprehensive information about local amenities and maintenance costs. Start your journey today to secure the perfect Flat For Rent in sector 10a Gurugram and move into a thriving community known for its excellent residential standards. Let us help you unlock the best housing options available right now."
     ],
     "buttons": [
-      { "label": "Search Available Flats", "path": "/search" },
-      { "label": "Request Rental Consultation", "path": "/contact" }
+      {
+        "label": "Search Available Flats",
+        "path": "/search"
+      },
+      {
+        "label": "Request Rental Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero-1.jpg", "/images/hero-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Best Range of Flats For Rent in sector 10a Gurugram for Every Family Need",
@@ -52,14 +61,56 @@
       "The local infrastructure is robust, featuring some of Gurugram’s best schools, modern healthcare facilities, and bustling shopping centers. Proximity to established markets and recreational green spaces further solidifies Sector 10A's position as a premium residential hub. Explore the surrounding areas that contribute to the high demand for rental properties in this specific sector, assuring you that you are making a location-savvy choice for your next home in Gurugram."
     ],
     "locations": [
-      "Sector 11 Market and Commercial Hubs",
-      "NH 44 National Highway Connectivity",
-      "Badarpur Border for Delhi Access",
-      "Sector 9 Retail and Services",
-      "Old Gurugram Metro Station",
-      "Crown Interiorz Mall",
-      "Major Private and Public Schools",
-      "Healthcare Facilities and Clinics"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure the best Flat For Rent in sector 10a Gurugram? Our dedicated team of rental specialists is here to guide you through every step of the process, from initial search to final keys handover. We understand the local market nuances and can quickly match you with properties that meet your specific needs and timeline.",
       "Do not waste time sifting through unverified listings. Reach out today for a personalized consultation and let us simplify your relocation to Sector 10A."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

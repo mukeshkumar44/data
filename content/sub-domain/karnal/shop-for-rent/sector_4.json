@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero-shop-sector4-1.jpg",
-      "/images/hero-shop-sector4-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "The sector benefits from seamless links to the NH 44 ensuring easy transport of goods and accessibility for clients commuting from outside Karnal. Proximity to well-established residential sectors like Sector 6 and Sector 7 means a massive readily available customer base for retail and service-oriented businesses. We guide you through the micro-locations within Sector 4 ensuring your chosen shop for rent enjoys the best possible visibility and customer catchment area crucial for maximizing profitability."
     ],
     "locations": [
-      "Sector 6 Residential Hub",
-      "National Highway 44 Connectivity",
-      "Model Town Commercial Area",
-      "Karnal Bus Stand Link Road",
-      "Sector 7 Housing Societies",
-      "Key Market near HUDA Office"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,10 +7,19 @@
       "We understand that property transactions are significant financial decisions. That is why we vet every agent featured on our platform ensuring they provide transparent dealings, expert negotiation skills, and dedicated client service. Stop wasting time searching through unverified listings. Connect with trusted Sector 8 Gurugram property advisors today and simplify your journey towards real estate success."
     ],
     "buttons": [
-      { "label": "Consult Expert Agents Now", "path": "/contact" },
-      { "label": "View Sector 8 Property Listings", "path": "/listings" }
+      {
+        "label": "Consult Expert Agents Now",
+        "path": "/contact"
+      },
+      {
+        "label": "View Sector 8 Property Listings",
+        "path": "/listings"
+      }
     ],
-    "images": ["hero_agent_consultation.jpg", "sector8_skyline.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Expert Agents Specializing in Diverse Property Sizes and Investment Types in Sector 8",
@@ -52,14 +61,56 @@
       "We provide specialized service mapping connectivity advantages development status and future infrastructure projects across neighboring sectors. This comprehensive approach ensures that whether you are buying selling or renting you receive advice that reflects the complete local property ecosystem maximizing your returns and minimizing transactional complexities."
     ],
     "locations": [
-      "Sector 5 Residential Blocks",
-      "Pataudi Road Connectivity Points",
-      "Near Delhi Jaipur Expressway",
-      "Commercial Zone near Sector 10",
-      "Industrial Areas close to Sector 8",
-      "Developing Plots in Sector 9",
-      "Access to Old Gurugram Road",
-      "Local Marketplaces of Basai"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to maximize your property investment in Sector 8 Stop searching and start succeeding. Fill out the form below to be instantly connected with a top rated local property expert who specializes in your specific needs.",
       "We guarantee prompt response and confidential consultation tailored specifically to the Sector 8 Gurugram market ensuring your real estate goals are met swiftly and efficiently."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -17,7 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero/sector-37-house-exterior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -60,13 +61,56 @@
       "The planning of this area ensures residents benefit from reduced travel times to schools, hospitals, and shopping centers, enhancing the overall quality of daily life. This strategic location makes Sector 37 a perfect place for families looking for convenience without sacrificing the tranquility of a well-developed residential area."
     ],
     "locations": [
-      "Delhi Bypass",
-      "NH 9 Rohtak-Delhi Highway",
-      "Maharshi Dayanand University MDU",
-      "Rohtak Bus Stand",
-      "Model Town Rohtak",
-      "PGI Rohtak",
-      "IMT Rohtak"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

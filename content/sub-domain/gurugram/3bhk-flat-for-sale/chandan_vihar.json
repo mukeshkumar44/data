@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero_chandan_vihar_flat_1.jpg",
-      "hero_chandan_vihar_flat_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "From top-rated educational institutions and super-specialty hospitals to extensive retail and entertainment zones the location offers a balanced life. Investing here means choosing accessibility and a thriving community environment."
     ],
     "locations": [
-      "Dwarka Expressway Access",
-      "Palam Vihar Extension",
-      "Sector 102 Gurugram",
-      "Major Corporate Offices",
-      "Reputed Schools and Universities",
-      "Max and Fortis Hospital Proximity",
-      "IGI Airport within 30 minutes",
-      "Local Shopping Complexes"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

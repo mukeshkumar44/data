@@ -7,10 +7,19 @@
       "The rental market here is highly sought after due to its proximity to major commercial hubs, renowned schools, world-class hospitals, and exceptional entertainment centers like the Galleria Market. Renting a home here means securing a lifestyle of convenience, luxury, and safety. Explore our comprehensive portfolio of ready-to-move flats and builder floors, complete with modern amenities, robust security infrastructure, and excellent maintenance services. Start your search now to unlock the best rental opportunities available today."
     ],
     "buttons": [
-      { "label": "Search 2 BHK Rentals Now", "path": "/search/2bhk" },
-      { "label": "Request a Free Consultation", "path": "/contact" }
+      {
+        "label": "Search 2 BHK Rentals Now",
+        "path": "/search/2bhk"
+      },
+      {
+        "label": "Request a Free Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_flat_1.jpg", "hero_flat_2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Flat Rental Configurations Available in Prime dlf phase 4 Location",
@@ -19,29 +28,29 @@
       "From high-rise towers offering panoramic views to independent builder floors providing privacy and space, renting in dlf phase 4 means access to premium living standards. Review the popular configurations below to understand what best suits your space requirements and budget goals for luxury living."
     ],
     "features": [
-      { 
-        "title": "Studio and 1 BHK Flat Rental", 
-        "description": "Ideal for single professionals, students, or couples who prioritize low maintenance and connectivity. These compact units in dlf phase 4 offer efficient layouts, essential modern amenities, and competitive rental prices. Enjoy high security and proximity to key business districts, making commuting effortless. This is the entry point for quality living in a prime location." 
+      {
+        "title": "Studio and 1 BHK Flat Rental",
+        "description": "Ideal for single professionals, students, or couples who prioritize low maintenance and connectivity. These compact units in dlf phase 4 offer efficient layouts, essential modern amenities, and competitive rental prices. Enjoy high security and proximity to key business districts, making commuting effortless. This is the entry point for quality living in a prime location."
       },
-      { 
-        "title": "2 BHK Flat For Rent in dlf phase 4", 
-        "description": "The most popular choice among small families and executives seeking spacious yet manageable living quarters. Our 2 BHK listings often include modular kitchens, dedicated parking, and access to community facilities like swimming pools and gyms. These flats provide the perfect balance between luxury, space, and affordability in this sought-after Gurgaon locality." 
+      {
+        "title": "2 BHK Flat For Rent in dlf phase 4",
+        "description": "The most popular choice among small families and executives seeking spacious yet manageable living quarters. Our 2 BHK listings often include modular kitchens, dedicated parking, and access to community facilities like swimming pools and gyms. These flats provide the perfect balance between luxury, space, and affordability in this sought-after Gurgaon locality."
       },
-      { 
-        "title": "3 BHK Premium Apartment Options", 
-        "description": "Offering significantly larger floor plans and often situated in premium societies with advanced amenities. A 3 BHK flat rental in dlf phase 4 is suitable for growing families who need extra rooms for guests, home offices, or children. Expect high-end finishes, power backup, and dedicated staff for a truly luxurious residential experience." 
+      {
+        "title": "3 BHK Premium Apartment Options",
+        "description": "Offering significantly larger floor plans and often situated in premium societies with advanced amenities. A 3 BHK flat rental in dlf phase 4 is suitable for growing families who need extra rooms for guests, home offices, or children. Expect high-end finishes, power backup, and dedicated staff for a truly luxurious residential experience."
       },
-      { 
-        "title": "4 BHK Residential Luxury Flats", 
-        "description": "Designed for luxury and grandeur, these four-bedroom apartments provide expansive living and dining areas, multiple balconies, and often servant quarters. Renting a 4 BHK flat here guarantees privacy, exceptional views, and proximity to the finest social infrastructure available in dlf phase 4 Gurgaon. Perfect for large families or those who frequently entertain guests." 
+      {
+        "title": "4 BHK Residential Luxury Flats",
+        "description": "Designed for luxury and grandeur, these four-bedroom apartments provide expansive living and dining areas, multiple balconies, and often servant quarters. Renting a 4 BHK flat here guarantees privacy, exceptional views, and proximity to the finest social infrastructure available in dlf phase 4 Gurgaon. Perfect for large families or those who frequently entertain guests."
       },
-      { 
-        "title": "Serviced Apartments and Penthouses", 
-        "description": "For those demanding the absolute pinnacle of luxury living, our listings include exclusive penthouses and fully furnished serviced apartments. These rentals offer tailored services, breathtaking terraces, superior interior design, and bespoke furnishing. Experience unparalleled comfort and convenience with all utilities and services managed professionally." 
+      {
+        "title": "Serviced Apartments and Penthouses",
+        "description": "For those demanding the absolute pinnacle of luxury living, our listings include exclusive penthouses and fully furnished serviced apartments. These rentals offer tailored services, breathtaking terraces, superior interior design, and bespoke furnishing. Experience unparalleled comfort and convenience with all utilities and services managed professionally."
       },
-      { 
-        "title": "Independent Builder Floor Rentals", 
-        "description": "Providing the privacy and space of an independent house combined with the security of a managed community. Builder floors are excellent options if you prefer fewer neighbors and direct access to parking and terraces. We list well-maintained, newly constructed builder floors across various quiet lanes of dlf phase 4, offering flexibility in design and usage." 
+      {
+        "title": "Independent Builder Floor Rentals",
+        "description": "Providing the privacy and space of an independent house combined with the security of a managed community. Builder floors are excellent options if you prefer fewer neighbors and direct access to parking and terraces. We list well-maintained, newly constructed builder floors across various quiet lanes of dlf phase 4, offering flexibility in design and usage."
       }
     ]
   },
@@ -52,14 +61,56 @@
       "We understand that location extends beyond the immediate boundary. Our insights help you compare rental trends and available inventory in surrounding sectors, ensuring you make a fully informed decision. The locality benefits from excellent infrastructure, including 24/7 water supply, reliable power, and wide, well-maintained roads, cementing its status as a premier residential destination."
     ],
     "locations": [
-      "DLF Phase 1 Rentals",
-      "Sushant Lok 1 Apartments",
-      "Sector 28 Rental Homes",
-      "South City 1 Flats",
-      "MG Road Residences Gurgaon",
-      "Golf Course Road Proximity",
-      "Sector 43 Rental Listings",
-      "Sikanderpur Metro Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -69,37 +120,37 @@
       "Our brokerage service enhances this experience by providing expert negotiation, transparent paperwork, and ongoing support throughout your tenancy. We help you secure the best rental price and ensure all contractual obligations are met professionally. Here are the key reasons why discerning tenants choose to rent flats in dlf phase 4."
     ],
     "points": [
-      { 
-        "title": "Unrivalled Community Security and Safety", 
-        "description": "DLF Phase 4 is known for its robust security network, featuring gated communities, 24/7 patrolling, CCTV surveillance, and secure entry systems. Residents enjoy peace of mind knowing their families and belongings are protected by stringent security protocols, making it a preferred location for families and senior residents." 
+      {
+        "title": "Unrivalled Community Security and Safety",
+        "description": "DLF Phase 4 is known for its robust security network, featuring gated communities, 24/7 patrolling, CCTV surveillance, and secure entry systems. Residents enjoy peace of mind knowing their families and belongings are protected by stringent security protocols, making it a preferred location for families and senior residents."
       },
-      { 
-        "title": "Exceptional Lifestyle and Retail Access", 
-        "description": "The locality hosts the famous Galleria Market and several high-end retail centers offering everything from boutique shopping to daily necessities. Access to gourmet restaurants, trendy cafes, and luxury salons is immediate, ensuring a convenient and high-quality daily life right outside your Flat For Rent in dlf phase 4." 
+      {
+        "title": "Exceptional Lifestyle and Retail Access",
+        "description": "The locality hosts the famous Galleria Market and several high-end retail centers offering everything from boutique shopping to daily necessities. Access to gourmet restaurants, trendy cafes, and luxury salons is immediate, ensuring a convenient and high-quality daily life right outside your Flat For Rent in dlf phase 4."
       },
-      { 
-        "title": "Superior Connectivity to Business Districts", 
-        "description": "Located strategically, dlf phase 4 offers quick access to Cyber City, Golf Course Road extension, and other major corporate hubs. Professionals save significant time on commuting, directly translating to a better work-life balance, a crucial factor for many choosing this prime location for rental accommodation." 
+      {
+        "title": "Superior Connectivity to Business Districts",
+        "description": "Located strategically, dlf phase 4 offers quick access to Cyber City, Golf Course Road extension, and other major corporate hubs. Professionals save significant time on commuting, directly translating to a better work-life balance, a crucial factor for many choosing this prime location for rental accommodation."
       },
-      { 
-        "title": "Premium Residential Amenities and Infrastructure", 
-        "description": "Most rental properties here boast excellent amenities, including dedicated power backup, piped gas, high-speed fiber internet availability, and well-maintained common areas. Many complexes also feature state-of-the-art clubhouses, swimming pools, and sports facilities for resident use." 
+      {
+        "title": "Premium Residential Amenities and Infrastructure",
+        "description": "Most rental properties here boast excellent amenities, including dedicated power backup, piped gas, high-speed fiber internet availability, and well-maintained common areas. Many complexes also feature state-of-the-art clubhouses, swimming pools, and sports facilities for resident use."
       },
-      { 
-        "title": "Proximity to Top Educational Institutions", 
-        "description": "Families benefit immensely from the close vicinity to highly reputable schools and colleges. Reducing travel time for children is a major advantage of residing in dlf phase 4. This convenience contributes significantly to the overall appeal of the area for long-term residency." 
+      {
+        "title": "Proximity to Top Educational Institutions",
+        "description": "Families benefit immensely from the close vicinity to highly reputable schools and colleges. Reducing travel time for children is a major advantage of residing in dlf phase 4. This convenience contributes significantly to the overall appeal of the area for long-term residency."
       },
-      { 
-        "title": "Expert Guidance in Rental Documentation", 
-        "description": "Navigating rental agreements and registration can be complex. We provide end-to-end assistance ensuring all legal documentation is accurate, compliant, and transparent. We facilitate smooth negotiations between tenants and landlords for a hassle-free move-in experience in dlf phase 4." 
+      {
+        "title": "Expert Guidance in Rental Documentation",
+        "description": "Navigating rental agreements and registration can be complex. We provide end-to-end assistance ensuring all legal documentation is accurate, compliant, and transparent. We facilitate smooth negotiations between tenants and landlords for a hassle-free move-in experience in dlf phase 4."
       },
-      { 
-        "title": "Variety of Flat Types and Budget Range", 
-        "description": "From budget-friendly studio apartments to ultra-luxury penthouses, the diversity in the rental portfolio means there is a suitable flat for almost every financial plan and lifestyle preference. This wide range ensures you find the perfect match without compromising on the location quality." 
+      {
+        "title": "Variety of Flat Types and Budget Range",
+        "description": "From budget-friendly studio apartments to ultra-luxury penthouses, the diversity in the rental portfolio means there is a suitable flat for almost every financial plan and lifestyle preference. This wide range ensures you find the perfect match without compromising on the location quality."
       },
-      { 
-        "title": "High Maintenance Standards and Cleanliness", 
-        "description": "DLF Phase 4 is generally known for its high standards of civic maintenance and cleanliness. The dedicated management of residential societies ensures common infrastructure remains pristine, offering tenants a superior living environment compared to peripheral areas." 
+      {
+        "title": "High Maintenance Standards and Cleanliness",
+        "description": "DLF Phase 4 is generally known for its high standards of civic maintenance and cleanliness. The dedicated management of residential societies ensures common infrastructure remains pristine, offering tenants a superior living environment compared to peripheral areas."
       }
     ]
   },
@@ -107,45 +158,45 @@
     "title": "Frequently Asked Questions About Renting a Flat in dlf phase 4 Gurgaon",
     "description": "We address the most common concerns potential tenants have regarding rental agreements, locality specifics, and moving into a new flat in the prestigious dlf phase 4 area.",
     "faqs": [
-      { 
-        "question": "What is the typical security deposit required for a flat rental in dlf phase 4", 
-        "answer": "The standard security deposit usually equates to two to three months’ worth of rent, though this can vary based on the specific landlord, property type, and the tenure of the lease agreement. For highly furnished or luxury properties, the deposit might be slightly higher. This amount is typically refundable upon the successful termination of the lease, provided the property is returned in good condition, allowing for reasonable wear and tear. Always ensure the terms regarding deposit refund are clearly outlined in the rental contract before finalizing your move." 
+      {
+        "question": "What is the typical security deposit required for a flat rental in dlf phase 4",
+        "answer": "The standard security deposit usually equates to two to three months’ worth of rent, though this can vary based on the specific landlord, property type, and the tenure of the lease agreement. For highly furnished or luxury properties, the deposit might be slightly higher. This amount is typically refundable upon the successful termination of the lease, provided the property is returned in good condition, allowing for reasonable wear and tear. Always ensure the terms regarding deposit refund are clearly outlined in the rental contract before finalizing your move."
       },
-      { 
-        "question": "Are maintenance charges included in the monthly rent for flats in dlf phase 4", 
-        "answer": "Maintenance charges arrangements differ significantly between properties. In some newer high-rise societies, a standard maintenance fee covering common area upkeep, security, and amenities is paid by the landlord and included in the quoted rent. In older builder floors or independent units, the tenant might be responsible for paying monthly society charges separately. It is critical to clarify exactly who is responsible for society charges, running repairs, and utility consumption charges like electricity and water before signing any agreement." 
+      {
+        "question": "Are maintenance charges included in the monthly rent for flats in dlf phase 4",
+        "answer": "Maintenance charges arrangements differ significantly between properties. In some newer high-rise societies, a standard maintenance fee covering common area upkeep, security, and amenities is paid by the landlord and included in the quoted rent. In older builder floors or independent units, the tenant might be responsible for paying monthly society charges separately. It is critical to clarify exactly who is responsible for society charges, running repairs, and utility consumption charges like electricity and water before signing any agreement."
       },
-      { 
-        "question": "How long is the standard lease term for a residential flat in this locality", 
-        "answer": "The most common lease duration for a Flat For Rent in dlf phase 4 is 11 months, which is often registered to avoid lengthy stamp duty procedures and usually includes a clause for automatic renewal or mutual extension upon completion. However, longer lease terms such as 18 or 24 months are negotiable, particularly for multinational executives or stable families seeking long-term security. Shorter terms are generally only available for fully serviced or corporate apartments, which usually carry a premium rental rate." 
+      {
+        "question": "How long is the standard lease term for a residential flat in this locality",
+        "answer": "The most common lease duration for a Flat For Rent in dlf phase 4 is 11 months, which is often registered to avoid lengthy stamp duty procedures and usually includes a clause for automatic renewal or mutual extension upon completion. However, longer lease terms such as 18 or 24 months are negotiable, particularly for multinational executives or stable families seeking long-term security. Shorter terms are generally only available for fully serviced or corporate apartments, which usually carry a premium rental rate."
       },
-      { 
-        "question": "What documentation is required to finalize a rental agreement as a tenant", 
-        "answer": "To secure a rental flat, tenants typically need to provide valid identity proof such as an Aadhar Card or Passport, current address proof, and proof of employment or student enrollment if applicable. Foreign nationals require valid visas and residency permits. Additionally, post-dated cheques or bank mandates for the monthly rent payments, along with the security deposit and one month's advance rent, are usually required at the time of signing the registered agreement." 
+      {
+        "question": "What documentation is required to finalize a rental agreement as a tenant",
+        "answer": "To secure a rental flat, tenants typically need to provide valid identity proof such as an Aadhar Card or Passport, current address proof, and proof of employment or student enrollment if applicable. Foreign nationals require valid visas and residency permits. Additionally, post-dated cheques or bank mandates for the monthly rent payments, along with the security deposit and one month's advance rent, are usually required at the time of signing the registered agreement."
       },
-      { 
-        "question": "Is dlf phase 4 well-connected by public transport for daily commuting needs", 
-        "answer": "Absolutely dlf phase 4 boasts excellent connectivity. While it is heavily dependent on private vehicles, the area is well-served by shared auto-rickshaws and app-based cab services. Crucially, the locality provides good access to the Sikanderpur Metro Station and the phase 3 Rapid Metro line, offering quick, pollution-free transport options to Delhi and key business areas like Cyber City and MG Road. Accessibility is a major strength of choosing a rental property here." 
+      {
+        "question": "Is dlf phase 4 well-connected by public transport for daily commuting needs",
+        "answer": "Absolutely dlf phase 4 boasts excellent connectivity. While it is heavily dependent on private vehicles, the area is well-served by shared auto-rickshaws and app-based cab services. Crucially, the locality provides good access to the Sikanderpur Metro Station and the phase 3 Rapid Metro line, offering quick, pollution-free transport options to Delhi and key business areas like Cyber City and MG Road. Accessibility is a major strength of choosing a rental property here."
       },
-      { 
-        "question": "Can I rent a fully furnished flat in dlf phase 4 or are only unfurnished options available", 
-        "answer": "Both fully furnished and unfurnished rental flats are readily available, depending on your preference and budget. Fully furnished flats include essential white goods, furniture, and often kitchen equipment, ideal for immediate move-ins or short-term stays, though they command higher rent. Unfurnished flats provide maximum flexibility for tenants to bring their own furniture and personalize the space, often resulting in lower monthly outgoings. We list options across the entire spectrum." 
+      {
+        "question": "Can I rent a fully furnished flat in dlf phase 4 or are only unfurnished options available",
+        "answer": "Both fully furnished and unfurnished rental flats are readily available, depending on your preference and budget. Fully furnished flats include essential white goods, furniture, and often kitchen equipment, ideal for immediate move-ins or short-term stays, though they command higher rent. Unfurnished flats provide maximum flexibility for tenants to bring their own furniture and personalize the space, often resulting in lower monthly outgoings. We list options across the entire spectrum."
       },
-      { 
-        "question": "What are the average utility costs like electricity and water in dlf phase 4", 
-        "answer": "Utility costs are variable and depend heavily on consumption and apartment size. Electricity is billed based on consumption under the state electricity board guidelines, and high usage of air conditioning contributes significantly to bills. Water supply in DLF Phase 4 is generally reliable, and the cost is often included within the monthly maintenance fee, or sometimes charged on a per-unit basis by the society. Tenants should budget separately for gas connections if available, and any private internet or DTH services." 
+      {
+        "question": "What are the average utility costs like electricity and water in dlf phase 4",
+        "answer": "Utility costs are variable and depend heavily on consumption and apartment size. Electricity is billed based on consumption under the state electricity board guidelines, and high usage of air conditioning contributes significantly to bills. Water supply in DLF Phase 4 is generally reliable, and the cost is often included within the monthly maintenance fee, or sometimes charged on a per-unit basis by the society. Tenants should budget separately for gas connections if available, and any private internet or DTH services."
       },
-      { 
-        "question": "Are pets generally allowed in rental apartments and societies in this area", 
-        "answer": "Pet policies are strictly determined by individual societies and landlords. While many standalone builder floors or older apartments may be pet-friendly, several premium high-rise residential complexes have strict rules against keeping pets. It is paramount that you explicitly inform us about your pet ownership requirements upfront so we can filter listings to only show properties where pets are explicitly permitted, avoiding future contractual disputes." 
+      {
+        "question": "Are pets generally allowed in rental apartments and societies in this area",
+        "answer": "Pet policies are strictly determined by individual societies and landlords. While many standalone builder floors or older apartments may be pet-friendly, several premium high-rise residential complexes have strict rules against keeping pets. It is paramount that you explicitly inform us about your pet ownership requirements upfront so we can filter listings to only show properties where pets are explicitly permitted, avoiding future contractual disputes."
       },
-      { 
-        "question": "What is the typical notice period required when vacating a rented flat", 
-        "answer": "The standard notice period stipulated in rental agreements in dlf phase 4 is usually one or two months, meaning the tenant must inform the landlord of their intent to vacate well in advance of the desired departure date. Failure to adhere to the notice period may result in forfeiture of a portion of the security deposit. Always refer to your signed lease agreement for the exact clauses regarding termination and notice requirements." 
+      {
+        "question": "What is the typical notice period required when vacating a rented flat",
+        "answer": "The standard notice period stipulated in rental agreements in dlf phase 4 is usually one or two months, meaning the tenant must inform the landlord of their intent to vacate well in advance of the desired departure date. Failure to adhere to the notice period may result in forfeiture of a portion of the security deposit. Always refer to your signed lease agreement for the exact clauses regarding termination and notice requirements."
       },
-      { 
-        "question": "How quickly can I secure and move into a Flat For Rent in dlf phase 4 after finding it", 
-        "answer": "If you have all necessary documentation ready and the flat is vacant, the process can be remarkably fast. We can typically arrange viewing, finalization of terms, and signing of the registered agreement within 5 to 7 working days. The key factor is the mutual agreement on terms and the timely completion of the background checks and police verification, which is mandatory for all tenants in the Gurgaon region." 
+      {
+        "question": "How quickly can I secure and move into a Flat For Rent in dlf phase 4 after finding it",
+        "answer": "If you have all necessary documentation ready and the flat is vacant, the process can be remarkably fast. We can typically arrange viewing, finalization of terms, and signing of the registered agreement within 5 to 7 working days. The key factor is the mutual agreement on terms and the timely completion of the background checks and police verification, which is mandatory for all tenants in the Gurgaon region."
       }
     ]
   },
@@ -155,6 +206,11 @@
       "Ready to move into the home of your dreams in one of Gurgaon's most sought-after localities? Contact our specialist rental team today. We provide personalized property tours, expert market advice, and transparent negotiations to simplify your rental journey.",
       "Fill out the form below with your requirements—whether it is a 1 BHK near Galleria Market or a large 4 BHK on a peaceful lane. Let us connect you with the best available Flat For Rent in dlf phase 4 that perfectly matches your lifestyle and budget expectations."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

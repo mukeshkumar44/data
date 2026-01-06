@@ -16,7 +16,10 @@
         "path": "/listings"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Expert Agents Specializing in All Plot Sizes and Property Types in Sector 35 Rohtak",
@@ -58,14 +61,56 @@
       "Our agents provide insights into proximity to key educational institutions, healthcare facilities, and commercial markets, crucial factors that significantly influence property values in Sector 35. Engage with the best Real Estate Agents in Sector 35 to unlock tailored advice on residential plots, builder floors, and ready-to-move apartments, ensuring your investment is sound, secure, and future-proof."
     ],
     "locations": [
-      "Residential Plots for Sale",
-      "Ready-to-Move Builder Floors",
-      "New Development Projects",
-      "Commercial Shops and Offices",
-      "Property near Sector 35 Market",
-      "Rental Properties Management",
-      "Investment Land Parcels",
-      "Resale Flats in Sector 35"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

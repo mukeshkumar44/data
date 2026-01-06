@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "sampla-rental-home-view.jpg",
-      "sampla-house-for-lease.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Our featured locations are chosen based on reliable infrastructure access to quality schools healthcare facilities and market areas. Finding the right house for rent in Sampla is easier when you understand the local residential landscape. Explore these popular areas that offer a mix of independent housing and newly constructed rental complexes ensuring you settle in a thriving community near Rohtak."
     ],
     "locations": [
-      "Sampla Main Market Area",
-      "Railway Road Sampla",
-      "NH-9 Proximity Rentals",
-      "Housing Board Colony Sampla",
-      "Rohtak-Sampla Road",
-      "Old Bus Stand Area",
-      "Model Town Sampla",
-      "Krishna Colony Sampla"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

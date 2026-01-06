@@ -7,10 +7,19 @@
       "Sector 35 Karnal boasts excellent infrastructure superior road connectivity and proximity to established residential colonies ensuring a constant influx of potential customers. Investing here means securing a spot in a planned commercial ecosystem designed for growth. Our portfolio includes diverse options from compact retail spaces ideal for startups to large showrooms perfect for established brands. Explore the best commercial properties today and let our expert team guide you through a seamless purchasing process designed to meet your specific investment goals. Start your journey towards owning a valuable commercial asset in Sector 35 Karnal."
     ],
     "buttons": [
-      { "label": "Explore Available Shops", "path": "/available-shops" },
-      { "label": "Get Investment Advice", "path": "/contact-us" }
+      {
+        "label": "Explore Available Shops",
+        "path": "/available-shops"
+      },
+      {
+        "label": "Get Investment Advice",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["/images/hero-shop-sector-35.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Options Finding the Perfect Shop For Sale in Sector 35 Karnal",
@@ -52,14 +61,56 @@
       "The connectivity Sector 35 offers to the National Highway and its proximity to other developed sectors makes any shop for sale here a desirable asset. Investors benefit from stable property prices and the assurance of continuous infrastructural development supported by the city planning authorities. This area promises substantial long-term growth ensuring your investment continues to appreciate effectively."
     ],
     "locations": [
-      "Near NH-44 connectivity",
-      "Proximity to established residential sectors 33 and 34",
-      "Easy access to major city hospitals and schools",
-      "Adjacent to proposed green belt areas in Karnal",
-      "Connectivity to Outer Ring Road projects",
-      "Close to major banking and financial service centers",
-      "Developing institutional areas nearby",
-      "Quick access to the main Karnal city center"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to explore exclusive listings of shops for sale in Sector 35 Karnal Our dedicated team of commercial real estate experts is here to provide personalized advice market reports and detailed site evaluations.",
       "Contact us now to schedule a consultation and take the first step towards securing a high-yield commercial property that promises sustainable growth and substantial returns."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

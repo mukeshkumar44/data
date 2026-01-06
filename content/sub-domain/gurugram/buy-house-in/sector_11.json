@@ -7,10 +7,19 @@
       "The housing market here provides robust investment potential due to consistent appreciation and high demand from discerning homeowners seeking quality living spaces. This sector offers unparalleled access to renowned educational institutions, world-class healthcare facilities, and vibrant retail spaces ensuring that everything you need is just moments away. Discover why Sector 11 remains a top choice for families and investors looking for secure and fulfilling residential opportunities in the heart of Gurugram."
     ],
     "buttons": [
-      { "label": "Explore Listings Now", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_sector11_1.jpg", "hero_sector11_2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Optimal Plot Sizes and Residential Solutions Available in Sector 11 Gurugram",
@@ -52,14 +61,56 @@
       "Connectivity highlights include rapid access to the Delhi-Jaipur Expressway NH-48 and close links to the Dwarka Expressway further solidifying its infrastructural advantage. Beyond transport links, residents enjoy immediate access to top-tier social infrastructure. Reputed schools, multispecialty hospitals, and bustling commercial markets are all within a short driving radius ensuring a high quality of urban life. The integrated planning of Sector 11 makes it a self-sufficient residential enclave where every necessity is met ensuring hassle-free daily living for families."
     ],
     "locations": [
-      "Palam Vihar Extension",
-      "Sector 5",
-      "Sector 10A",
-      "Major Arterial Road NH-48",
-      "Gurugram Railway Station",
-      "Dwarka Expressway Access Point",
-      "Columbia Asia Hospital",
-      "Major Retail Malls"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning a premium property in Sector 11 Gurugram The perfect residential opportunity awaits.",
       "Contact our expert property advisors now to receive personalized listings, detailed market insights, and professional guidance tailored to meet your housing goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

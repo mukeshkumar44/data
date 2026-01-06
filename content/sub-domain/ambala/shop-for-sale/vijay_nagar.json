@@ -1,4 +1,3 @@
-```json
 {
   "domain": "realestatevijaynagar.com",
   "hero": {
@@ -8,10 +7,19 @@
       "Whether you're looking to start a new business or expand your existing one, our properties provide the perfect blend of accessibility and growth potential. Secure your future with a smart investment today."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/shops" },
-      { "label": "Contact Agent", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/shops"
+      },
+      {
+        "label": "Contact Agent",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Shop Sizes Available in Vijay Nagar Ambala",
@@ -20,12 +28,30 @@
       "Each shop is designed to maximize utility and customer engagement, ensuring your business thrives in this prime location."
     ],
     "features": [
-      { "title": "100 Sq Ft Shop", "description": "Ideal for small retail outlets or service-based businesses, this compact shop offers affordability without compromising on location benefits." },
-      { "title": "200 Sq Ft Shop", "description": "Perfect for medium-sized businesses, this shop provides ample space for inventory and customer interaction in a high-traffic area." },
-      { "title": "300 Sq Ft Shop", "description": "A spacious option for growing businesses, offering room for expansion and enhanced customer experience." },
-      { "title": "400 Sq Ft Shop", "description": "Designed for larger retail operations, this shop ensures visibility and accessibility for maximum business potential." },
-      { "title": "500 Sq Ft Shop", "description": "An excellent choice for showrooms or multi-product stores, providing generous space and premium location advantages." },
-      { "title": "600 Sq Ft Shop", "description": "The ultimate commercial space for established businesses, combining size, location, and growth opportunities." }
+      {
+        "title": "100 Sq Ft Shop",
+        "description": "Ideal for small retail outlets or service-based businesses, this compact shop offers affordability without compromising on location benefits."
+      },
+      {
+        "title": "200 Sq Ft Shop",
+        "description": "Perfect for medium-sized businesses, this shop provides ample space for inventory and customer interaction in a high-traffic area."
+      },
+      {
+        "title": "300 Sq Ft Shop",
+        "description": "A spacious option for growing businesses, offering room for expansion and enhanced customer experience."
+      },
+      {
+        "title": "400 Sq Ft Shop",
+        "description": "Designed for larger retail operations, this shop ensures visibility and accessibility for maximum business potential."
+      },
+      {
+        "title": "500 Sq Ft Shop",
+        "description": "An excellent choice for showrooms or multi-product stores, providing generous space and premium location advantages."
+      },
+      {
+        "title": "600 Sq Ft Shop",
+        "description": "The ultimate commercial space for established businesses, combining size, location, and growth opportunities."
+      }
     ]
   },
   "locationsSection": {
@@ -35,16 +61,56 @@
       "Explore these nearby locations that complement the vibrant business environment of Vijay Nagar."
     ],
     "locations": [
-      "Ambala Cantt",
-      "Sector 7 Ambala",
-      "Sector 8 Ambala",
-      "Sector 9 Ambala",
-      "Sector 10 Ambala",
-      "Railway Road Ambala",
-      "Jagadhari Road",
-      "Naraingarh Road",
-      "Patel Nagar",
-      "Model Town"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -54,30 +120,84 @@
       "Here are compelling reasons why our shops stand out as the perfect investment opportunity."
     ],
     "points": [
-      { "title": "Strategic Location", "description": "Vijay Nagar's central position ensures excellent connectivity to major roads and markets, guaranteeing high customer footfall and business visibility." },
-      { "title": "Growing Commercial Hub", "description": "The area is rapidly developing as a preferred business destination, ensuring your investment appreciates over time." },
-      { "title": "Diverse Customer Base", "description": "Benefit from serving both local residents and visitors, thanks to Vijay Nagar's mixed residential and commercial character." },
-      { "title": "Modern Infrastructure", "description": "Our shops feature contemporary designs with proper ventilation, lighting, and amenities for comfortable business operations." },
-      { "title": "Competitive Pricing", "description": "Get premium commercial space at reasonable rates compared to other developing areas in Ambala." },
-      { "title": "Flexible Payment Options", "description": "We offer various payment plans to suit different financial capabilities and investment strategies." },
-      { "title": "Legal Clearance", "description": "All properties come with complete documentation and legal approvals for hassle-free ownership." },
-      { "title": "Future Appreciation", "description": "With Ambala's expanding urban landscape, Vijay Nagar properties are poised for significant value growth in coming years." }
+      {
+        "title": "Strategic Location",
+        "description": "Vijay Nagar's central position ensures excellent connectivity to major roads and markets, guaranteeing high customer footfall and business visibility."
+      },
+      {
+        "title": "Growing Commercial Hub",
+        "description": "The area is rapidly developing as a preferred business destination, ensuring your investment appreciates over time."
+      },
+      {
+        "title": "Diverse Customer Base",
+        "description": "Benefit from serving both local residents and visitors, thanks to Vijay Nagar's mixed residential and commercial character."
+      },
+      {
+        "title": "Modern Infrastructure",
+        "description": "Our shops feature contemporary designs with proper ventilation, lighting, and amenities for comfortable business operations."
+      },
+      {
+        "title": "Competitive Pricing",
+        "description": "Get premium commercial space at reasonable rates compared to other developing areas in Ambala."
+      },
+      {
+        "title": "Flexible Payment Options",
+        "description": "We offer various payment plans to suit different financial capabilities and investment strategies."
+      },
+      {
+        "title": "Legal Clearance",
+        "description": "All properties come with complete documentation and legal approvals for hassle-free ownership."
+      },
+      {
+        "title": "Future Appreciation",
+        "description": "With Ambala's expanding urban landscape, Vijay Nagar properties are poised for significant value growth in coming years."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Shops in Vijay Nagar Ambala",
     "description": "Find answers to common queries about purchasing commercial property in Vijay Nagar Ambala.",
     "faqs": [
-      { "question": "What types of businesses are suitable for Vijay Nagar shops", "answer": "Vijay Nagar shops are ideal for retail stores, eateries, service centers, pharmacies, electronics shops, and various other commercial ventures due to the area's mixed customer base and excellent visibility." },
-      { "question": "Are there any restrictions on business operations in these shops", "answer": "While most general businesses are permitted, certain activities requiring special licenses may need additional approvals. We recommend checking specific requirements for your business type before purchase." },
-      { "question": "What is the average price range for shops in Vijay Nagar", "answer": "Prices vary based on size and exact location, but generally range from ₹20,000 to ₹50,000 per square foot, offering options for different budget levels." },
-      { "question": "How is the parking facility for shops in this area", "answer": "Most shops come with designated parking spaces, and the area has well-planned road infrastructure to accommodate customer vehicles comfortably." },
-      { "question": "What are the peak business hours in Vijay Nagar", "answer": "The commercial activity typically peaks from 10 AM to 9 PM, with consistent footfall throughout the day due to the area's mixed residential and commercial nature." },
-      { "question": "Are there any upcoming infrastructure projects that might affect property values", "answer": "Several development projects including road expansions and commercial complexes are planned for Vijay Nagar and surrounding areas, which are expected to positively impact property values." },
-      { "question": "What financing options are available for shop purchases", "answer": "Most national and private banks offer commercial property loans for these shops, with financing options typically covering 70-80% of the property value." },
-      { "question": "How is the security situation in Vijay Nagar commercial areas", "answer": "The area has good security with regular police patrols and many shops employ private security, making it safe for business operations at all hours." },
-      { "question": "Can residential properties be converted to commercial use in Vijay Nagar", "answer": "Certain areas permit commercial conversion with proper approvals, but we recommend purchasing shops specifically designated for commercial use to avoid legal complications." },
-      { "question": "What is the process for transferring shop ownership", "answer": "The process involves documentation verification, stamp duty payment, and registration at the sub-registrar office. Our team assists buyers through every step of this process." }
+      {
+        "question": "What types of businesses are suitable for Vijay Nagar shops",
+        "answer": "Vijay Nagar shops are ideal for retail stores, eateries, service centers, pharmacies, electronics shops, and various other commercial ventures due to the area's mixed customer base and excellent visibility."
+      },
+      {
+        "question": "Are there any restrictions on business operations in these shops",
+        "answer": "While most general businesses are permitted, certain activities requiring special licenses may need additional approvals. We recommend checking specific requirements for your business type before purchase."
+      },
+      {
+        "question": "What is the average price range for shops in Vijay Nagar",
+        "answer": "Prices vary based on size and exact location, but generally range from ₹20,000 to ₹50,000 per square foot, offering options for different budget levels."
+      },
+      {
+        "question": "How is the parking facility for shops in this area",
+        "answer": "Most shops come with designated parking spaces, and the area has well-planned road infrastructure to accommodate customer vehicles comfortably."
+      },
+      {
+        "question": "What are the peak business hours in Vijay Nagar",
+        "answer": "The commercial activity typically peaks from 10 AM to 9 PM, with consistent footfall throughout the day due to the area's mixed residential and commercial nature."
+      },
+      {
+        "question": "Are there any upcoming infrastructure projects that might affect property values",
+        "answer": "Several development projects including road expansions and commercial complexes are planned for Vijay Nagar and surrounding areas, which are expected to positively impact property values."
+      },
+      {
+        "question": "What financing options are available for shop purchases",
+        "answer": "Most national and private banks offer commercial property loans for these shops, with financing options typically covering 70-80% of the property value."
+      },
+      {
+        "question": "How is the security situation in Vijay Nagar commercial areas",
+        "answer": "The area has good security with regular police patrols and many shops employ private security, making it safe for business operations at all hours."
+      },
+      {
+        "question": "Can residential properties be converted to commercial use in Vijay Nagar",
+        "answer": "Certain areas permit commercial conversion with proper approvals, but we recommend purchasing shops specifically designated for commercial use to avoid legal complications."
+      },
+      {
+        "question": "What is the process for transferring shop ownership",
+        "answer": "The process involves documentation verification, stamp duty payment, and registration at the sub-registrar office. Our team assists buyers through every step of this process."
+      }
     ]
   },
   "contactSection": {
@@ -86,7 +206,11 @@
       "Ready to invest in your dream commercial space? Our expert team is here to guide you through every step.",
       "Fill out the form below and we'll contact you with the best available options matching your requirements."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }
-```

@@ -7,10 +7,19 @@
       "Our network features only the most professional and highly-rated Real Estate Agents in sector_86. These local experts provide deep market insights precise valuation and flawless transaction management ensuring you achieve the best possible outcome. Stop guessing and start partnering with proven professionals who understand the nuances of the Sector 86 market. We connect you directly with agents committed to transparency and achieving your goals efficiently."
     ],
     "buttons": [
-      { "label": "Find Your Sector 86 Agent Now", "path": "/contact" },
-      { "label": "Explore Current Listings", "path": "/listings" }
+      {
+        "label": "Find Your Sector 86 Agent Now",
+        "path": "/contact"
+      },
+      {
+        "label": "Explore Current Listings",
+        "path": "/listings"
+      }
     ],
-    "images": ["/images/hero/sector86_agent_meeting.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Core Property Services Offered by Leading Real Estate Agents in Sector 86 Gurugram",
@@ -19,29 +28,29 @@
       "Below we outline the key areas of expertise and typical property sizes these professionals manage helping you understand the breadth of their service portfolio and how they can assist with your specific property requirements in Gurugram."
     ],
     "features": [
-      { 
-        "title": "4 Marla Plot Residential Apartment Sales", 
-        "description": "Expert assistance for first-time homebuyers and investors looking for smaller residential units like 1 BHK or 2 BHK apartments. Agents specialized in these segments provide thorough vetting of affordable properties precise legal documentation and quick closing processes suitable for rapid ownership." 
+      {
+        "title": "4 Marla Plot Residential Apartment Sales",
+        "description": "Expert assistance for first-time homebuyers and investors looking for smaller residential units like 1 BHK or 2 BHK apartments. Agents specialized in these segments provide thorough vetting of affordable properties precise legal documentation and quick closing processes suitable for rapid ownership."
       },
-      { 
-        "title": "6 Marla Plot Mid-Sized Home Transactions", 
-        "description": "Dedicated services for selling or purchasing 3 BHK apartments and standard independent floors. Agents focus on optimizing property visibility securing competitive pricing through skilled negotiation and streamlining the financial approval process for moderate sized family homes in Sector 86." 
+      {
+        "title": "6 Marla Plot Mid-Sized Home Transactions",
+        "description": "Dedicated services for selling or purchasing 3 BHK apartments and standard independent floors. Agents focus on optimizing property visibility securing competitive pricing through skilled negotiation and streamlining the financial approval process for moderate sized family homes in Sector 86."
       },
-      { 
-        "title": "8 Marla Plot Premium Housing Solutions", 
-        "description": "Specialized advisory for premium builder floors and larger independent houses often situated on 8 Marla equivalent plots. This includes marketing tailored to high-net-worth individuals detailed property showcases and complex contract negotiation to ensure top-tier value retention." 
+      {
+        "title": "8 Marla Plot Premium Housing Solutions",
+        "description": "Specialized advisory for premium builder floors and larger independent houses often situated on 8 Marla equivalent plots. This includes marketing tailored to high-net-worth individuals detailed property showcases and complex contract negotiation to ensure top-tier value retention."
       },
-      { 
-        "title": "10 Marla Plot Luxury Villa and Duplex Sales", 
-        "description": "Access elite properties such as luxury villas and large duplex units requiring specialized market knowledge. Agents handling this segment offer discrete service advanced legal scrutiny and sophisticated marketing strategies designed to attract qualified high-end buyers or sellers." 
+      {
+        "title": "10 Marla Plot Luxury Villa and Duplex Sales",
+        "description": "Access elite properties such as luxury villas and large duplex units requiring specialized market knowledge. Agents handling this segment offer discrete service advanced legal scrutiny and sophisticated marketing strategies designed to attract qualified high-end buyers or sellers."
       },
-      { 
-        "title": "12 Marla Plot Commercial Shop Leasing", 
-        "description": "Expert negotiation and leasing services for commercial properties including large retail spaces and offices in key market areas of Sector 86. Agents ensure favorable lease terms compliance with commercial zoning laws and optimal business placement." 
+      {
+        "title": "12 Marla Plot Commercial Shop Leasing",
+        "description": "Expert negotiation and leasing services for commercial properties including large retail spaces and offices in key market areas of Sector 86. Agents ensure favorable lease terms compliance with commercial zoning laws and optimal business placement."
       },
-      { 
-        "title": "14 Marla Plot Investment Advisory & Land Banking", 
-        "description": "Strategic consultation on large-scale real estate investments development plots and land banking opportunities around Sector 86 and nearby expansion zones. This service focuses purely on long-term capital appreciation and maximum ROI potential." 
+      {
+        "title": "14 Marla Plot Investment Advisory & Land Banking",
+        "description": "Strategic consultation on large-scale real estate investments development plots and land banking opportunities around Sector 86 and nearby expansion zones. This service focuses purely on long-term capital appreciation and maximum ROI potential."
       }
     ]
   },
@@ -52,12 +61,56 @@
       "This localized expertise is vital for understanding micro-market price fluctuations future infrastructure impacts and the distinct lifestyle benefits each sub-area provides. Trust an agent who knows every street corner of Sector 86 Gurugram."
     ],
     "locations": [
-      "BPTP Parklands Sector 86",
-      "Omaxe New Heights Sector 86",
-      "Puri Amanvil Sector 86",
-      "Adjacent Areas Sector 85 Gurugram",
-      "Commercial Hub Sector 86 Market",
-      "Green Zone Development Plots"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -67,37 +120,37 @@
       "Our recommended Real Estate Agents in sector_86 bring unparalleled transparency legal rigor and negotiation prowess to every table ensuring a smooth successful and profitable property experience every single time."
     ],
     "points": [
-      { 
-        "title": "Unmatched Local Market Insight", 
-        "description": "The best agents provide real-time data on property values sales velocity and rental yields specific to Sector 86. They can identify undervalued properties or accurately price your listing based on recent hyper-local comparable sales ensuring you never overpay or undersell your asset." 
+      {
+        "title": "Unmatched Local Market Insight",
+        "description": "The best agents provide real-time data on property values sales velocity and rental yields specific to Sector 86. They can identify undervalued properties or accurately price your listing based on recent hyper-local comparable sales ensuring you never overpay or undersell your asset."
       },
-      { 
-        "title": "Superior Negotiation Skills", 
-        "description": "A top agent acts as a buffer and a strategic negotiator maximizing your return whether you are buying or selling. They handle complex counter-offers and financial discussions professionally ensuring you secure the most advantageous terms without emotional decision making." 
+      {
+        "title": "Superior Negotiation Skills",
+        "description": "A top agent acts as a buffer and a strategic negotiator maximizing your return whether you are buying or selling. They handle complex counter-offers and financial discussions professionally ensuring you secure the most advantageous terms without emotional decision making."
       },
-      { 
-        "title": "Comprehensive Legal Due Diligence", 
-        "description": "Property transactions in Gurugram involve extensive legal paperwork titles deeds and regulatory approvals. Agents ensure every document is meticulously checked preventing future disputes and guaranteeing that the transaction is fully compliant with Haryana RERA norms." 
+      {
+        "title": "Comprehensive Legal Due Diligence",
+        "description": "Property transactions in Gurugram involve extensive legal paperwork titles deeds and regulatory approvals. Agents ensure every document is meticulously checked preventing future disputes and guaranteeing that the transaction is fully compliant with Haryana RERA norms."
       },
-      { 
-        "title": "Access to Exclusive Listings", 
-        "description": "Many prime properties in Sector 86 never hit public listings being sold exclusively within professional agent networks. Working with a leading agent gives you early access to off-market properties ensuring you get a competitive edge in desirable areas." 
+      {
+        "title": "Access to Exclusive Listings",
+        "description": "Many prime properties in Sector 86 never hit public listings being sold exclusively within professional agent networks. Working with a leading agent gives you early access to off-market properties ensuring you get a competitive edge in desirable areas."
       },
-      { 
-        "title": "Time and Stress Reduction", 
-        "description": "Managing property showings inspections marketing and paperwork consumes significant time and effort. Agents take on this heavy lifting coordinating schedules vetting potential buyers and handling logistics allowing you to focus on your personal or professional life." 
+      {
+        "title": "Time and Stress Reduction",
+        "description": "Managing property showings inspections marketing and paperwork consumes significant time and effort. Agents take on this heavy lifting coordinating schedules vetting potential buyers and handling logistics allowing you to focus on your personal or professional life."
       },
-      { 
-        "title": "Accurate Property Valuation", 
-        "description": "Setting the right price is crucial. Agents utilize sophisticated valuation models combining physical attributes market trends and future growth projections specific to Sector 86 Gurugram to ensure your property is priced perfectly for a fast and profitable sale." 
+      {
+        "title": "Accurate Property Valuation",
+        "description": "Setting the right price is crucial. Agents utilize sophisticated valuation models combining physical attributes market trends and future growth projections specific to Sector 86 Gurugram to ensure your property is priced perfectly for a fast and profitable sale."
       },
-      { 
-        "title": "Post-Transaction Support", 
-        "description": "Our agents offer continued support even after the deal closes assisting with utility transfers possession handovers and addressing any final administrative details. Their commitment extends beyond signing the sale deed for complete peace of mind." 
+      {
+        "title": "Post-Transaction Support",
+        "description": "Our agents offer continued support even after the deal closes assisting with utility transfers possession handovers and addressing any final administrative details. Their commitment extends beyond signing the sale deed for complete peace of mind."
       },
-      { 
-        "title": "Investment Portfolio Management", 
-        "description": "For serious investors agents offer strategic advice on diversifying property holdings minimizing tax liabilities and managing rental properties providing a holistic approach to growing and maintaining a successful real estate portfolio in Sector 86." 
+      {
+        "title": "Investment Portfolio Management",
+        "description": "For serious investors agents offer strategic advice on diversifying property holdings minimizing tax liabilities and managing rental properties providing a holistic approach to growing and maintaining a successful real estate portfolio in Sector 86."
       }
     ]
   },
@@ -105,45 +158,45 @@
     "title": "Frequently Asked Questions About Real Estate Agents in Sector 86 Gurugram",
     "description": "Get clear answers to the most common questions about working with property agents property valuation and the current market dynamics in Sector 86.",
     "faqs": [
-      { 
-        "question": "What is the typical commission structure for Real Estate Agents in sector_86", 
-        "answer": "The standard commission structure in Sector 86 Gurugram typically ranges between one to two percent of the total transaction value. This percentage can vary based on the property type residential versus commercial and whether the property is new sale or resale. It is essential to finalize the commission agreement in writing with your chosen agent before signing any mandate to ensure full transparency regarding service fees and deliverables." 
+      {
+        "question": "What is the typical commission structure for Real Estate Agents in sector_86",
+        "answer": "The standard commission structure in Sector 86 Gurugram typically ranges between one to two percent of the total transaction value. This percentage can vary based on the property type residential versus commercial and whether the property is new sale or resale. It is essential to finalize the commission agreement in writing with your chosen agent before signing any mandate to ensure full transparency regarding service fees and deliverables."
       },
-      { 
-        "question": "How do I verify the RERA registration of an agent operating in Sector 86", 
-        "answer": "Verifying an agent’s RERA registration is a crucial step for legal protection. You should ask the prospective agent for their RERA registration number and cross-reference it on the official Haryana Real Estate Regulatory Authority HRERA website. This ensures the agent is legally authorized compliant with regulatory standards and adheres to professional conduct protecting you from unauthorized practices." 
+      {
+        "question": "How do I verify the RERA registration of an agent operating in Sector 86",
+        "answer": "Verifying an agent’s RERA registration is a crucial step for legal protection. You should ask the prospective agent for their RERA registration number and cross-reference it on the official Haryana Real Estate Regulatory Authority HRERA website. This ensures the agent is legally authorized compliant with regulatory standards and adheres to professional conduct protecting you from unauthorized practices."
       },
-      { 
-        "question": "What key factors influence property prices in Sector 86 Gurugram currently", 
-        "answer": "Several factors drive property prices in Sector 86 including proximity to the upcoming metro connectivity development status of major infrastructure projects like highways specific builder reputation and the amenities offered within the society. Furthermore local demand supply balance and interest rate movements significantly affect the valuation. A good agent tracks these variables daily." 
+      {
+        "question": "What key factors influence property prices in Sector 86 Gurugram currently",
+        "answer": "Several factors drive property prices in Sector 86 including proximity to the upcoming metro connectivity development status of major infrastructure projects like highways specific builder reputation and the amenities offered within the society. Furthermore local demand supply balance and interest rate movements significantly affect the valuation. A good agent tracks these variables daily."
       },
-      { 
-        "question": "Should I use a single agent or multiple agents when searching for property", 
-        "answer": "While using multiple agents might seem like it increases your chances it often leads to confusion duplication of effort and poor service quality. It is highly recommended to sign an exclusive buyer’s or seller’s agreement with one highly capable Real Estate Agent in sector_86. This dedication encourages the agent to prioritize your needs offering comprehensive and focused service." 
+      {
+        "question": "Should I use a single agent or multiple agents when searching for property",
+        "answer": "While using multiple agents might seem like it increases your chances it often leads to confusion duplication of effort and poor service quality. It is highly recommended to sign an exclusive buyer’s or seller’s agreement with one highly capable Real Estate Agent in sector_86. This dedication encourages the agent to prioritize your needs offering comprehensive and focused service."
       },
-      { 
-        "question": "How long does the average property buying process take in Sector 86", 
-        "answer": "The duration of the property buying process varies but typically takes between 45 to 90 days from the initial offer acceptance to the final registration of the sale deed. This timeline depends heavily on the buyer's loan approval process the clarity of the property title and the speed of legal verification conducted by the agent and respective banks." 
+      {
+        "question": "How long does the average property buying process take in Sector 86",
+        "answer": "The duration of the property buying process varies but typically takes between 45 to 90 days from the initial offer acceptance to the final registration of the sale deed. This timeline depends heavily on the buyer's loan approval process the clarity of the property title and the speed of legal verification conducted by the agent and respective banks."
       },
-      { 
-        "question": "What documentation should a seller prepare before listing a property in Sector 86", 
-        "answer": "A seller must prepare essential documents including the original Sale Deed Occupancy Certificate OC Completion Certificate CC property tax receipts utility bills and approved building plans. Having these ready accelerates the sales process and reassures prospective buyers and their legal representatives about the property's clean title history." 
+      {
+        "question": "What documentation should a seller prepare before listing a property in Sector 86",
+        "answer": "A seller must prepare essential documents including the original Sale Deed Occupancy Certificate OC Completion Certificate CC property tax receipts utility bills and approved building plans. Having these ready accelerates the sales process and reassures prospective buyers and their legal representatives about the property's clean title history."
       },
-      { 
-        "question": "Are there good investment opportunities outside residential properties in Sector 86", 
-        "answer": "Absolutely Sector 86 also offers robust investment opportunities in commercial segments such as SCO plots office spaces and retail showrooms due to its strategic location near major highways and developing industrial areas. Agents can advise on properties offering high rental yields suitable for passive income generation." 
+      {
+        "question": "Are there good investment opportunities outside residential properties in Sector 86",
+        "answer": "Absolutely Sector 86 also offers robust investment opportunities in commercial segments such as SCO plots office spaces and retail showrooms due to its strategic location near major highways and developing industrial areas. Agents can advise on properties offering high rental yields suitable for passive income generation."
       },
-      { 
-        "question": "What should I look for when evaluating potential real estate agents", 
-        "answer": "Look for agents with proven track records strong testimonials from local clients deep knowledge specific to Sector 86 and clear communication skills. Check how long they have operated in this precise area and their expertise in handling your specific property type be it resale apartments or new builder inventory." 
+      {
+        "question": "What should I look for when evaluating potential real estate agents",
+        "answer": "Look for agents with proven track records strong testimonials from local clients deep knowledge specific to Sector 86 and clear communication skills. Check how long they have operated in this precise area and their expertise in handling your specific property type be it resale apartments or new builder inventory."
       },
-      { 
-        "question": "How important is an agent's network in the Gurugram market", 
-        "answer": "An agent’s professional network is immensely important. A well-connected agent can quickly match your property with qualified buyers or identify sellers with exclusive listings saving significant time. Their network also includes reliable legal counsel valuation experts and loan advisors crucial for smooth transactions." 
+      {
+        "question": "How important is an agent's network in the Gurugram market",
+        "answer": "An agent’s professional network is immensely important. A well-connected agent can quickly match your property with qualified buyers or identify sellers with exclusive listings saving significant time. Their network also includes reliable legal counsel valuation experts and loan advisors crucial for smooth transactions."
       },
-      { 
-        "question": "Can agents help with rental agreements and property management in Sector 86", 
-        "answer": "Yes many top Real Estate Agents in sector_86 offer specialized property management services including tenant vetting rent collection maintenance coordination and timely renewal of lease agreements. This is highly beneficial for Non-Resident Indian NRI owners or local investors seeking passive rental income management." 
+      {
+        "question": "Can agents help with rental agreements and property management in Sector 86",
+        "answer": "Yes many top Real Estate Agents in sector_86 offer specialized property management services including tenant vetting rent collection maintenance coordination and timely renewal of lease agreements. This is highly beneficial for Non-Resident Indian NRI owners or local investors seeking passive rental income management."
       }
     ]
   },
@@ -153,6 +206,11 @@
       "Take the first step towards a successful property transaction today. Tell us your specific needs and our dedicated team will connect you with a verified Sector 86 property expert.",
       "Whether buying selling or seeking investment advice our agents are prepared to deliver exceptional results tailored precisely to the Gurugram market."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

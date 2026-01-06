@@ -7,12 +7,18 @@
       "Investing in a house in Sector 34 Rohtak offers robust returns due to the area’s continuous development and proximity to major educational institutions and commercial hubs. Explore properties that are fully compliant, legally clear, and ready for immediate occupancy. Contact our expert team today to schedule a site visit and find the perfect dwelling that meets your specific needs and aspirations."
     ],
     "buttons": [
-      { "label": "View All Available Houses", "path": "/listings/sector-34" },
-      { "label": "Request a Callback Now", "path": "/contact" }
+      {
+        "label": "View All Available Houses",
+        "path": "/listings/sector-34"
+      },
+      {
+        "label": "Request a Callback Now",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/sector34_house_exterior.jpg",
-      "/images/sector34_living_room.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "Understanding the neighboring areas provides a clear picture of the convenience you gain when purchasing a house here. Accessibility to schools, hospitals, shopping centers, and commercial zones defines the quality of life, and Sector 34 excels in all these aspects. We help you find houses that offer the best balance between peaceful residential living and urban access."
     ],
     "locations": [
-      "Sector 35 Rohtak Investment Opportunities",
-      "Model Town Rohtak Proximity",
-      "Civil Lines Residential Area",
-      "Rohtak Railway Station Access",
-      "NH-9 Connectivity Hub",
-      "Shivaji Colony Nearby Amenities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -156,6 +206,11 @@
       "Ready to take the next step towards owning your dream house in Sector 34 Rohtak. Our property specialists are standing by to offer personalized consultations, detailed price analysis, and private showings of our exclusive listings. We ensure your home-buying journey is informed and stress-free.",
       "Fill out the short form below and one of our dedicated real estate advisors will contact you within the hour to discuss your requirements and answer any specific questions you might have about the Sector 34 property market."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

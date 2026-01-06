@@ -7,12 +7,18 @@
       "This vibrant locality offers proximity to essential infrastructure like schools, hospitals, and major commercial hubs, guaranteeing a high quality of life. Stop dreaming about owning a home and start exploring the tangible options for an Affordable House in Sector 29 Noida. Our expert team simplifies the buying process, offering transparent deals and personalized guidance every step of the way. Unlock the door to accessible homeownership and make a smart investment decision in one of the city’s rapidly developing sectors."
     ],
     "buttons": [
-      { "label": "Explore Verified Listings Now", "path": "/listings" },
-      { "label": "Calculate Your Home Loan Eligibility", "path": "/loan-calculator" }
+      {
+        "label": "Explore Verified Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Calculate Your Home Loan Eligibility",
+        "path": "/loan-calculator"
+      }
     ],
     "images": [
-      "img/hero_house_1.jpg",
-      "img/hero_sector_29_map.png"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,13 +61,56 @@
       "The proximity to key infrastructure adds immense value to properties here. We focus not only on the house itself but also on the convenience of the immediate neighborhood, ensuring all essential services are just minutes away from your doorstep."
     ],
     "locations": [
-      "Close Proximity to Major Expressways",
-      "Direct Access to Rapid Transit Metro Stations",
-      "Near Leading Educational Institutions and Universities",
-      "Surrounded by Top-Tier Healthcare Facilities",
-      "Easy Drive to Commercial Business Hubs and IT Parks",
-      "Walkable Distance to Local Markets and Retail Chains",
-      "Access to Large Green Parks and Recreational Spaces"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -157,6 +206,11 @@
       "Ready to find the perfect Affordable House in Sector 29? Our team of local specialists is standing by to provide personalized property tours, detailed financial consultations, and expert legal advice. Do not miss out on the best opportunities in this thriving locality.",
       "Submit your details below and take the first step toward securing your dream home or profitable investment property in Sector 29 Noida. We guarantee a prompt and professional response."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

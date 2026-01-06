@@ -7,10 +7,19 @@
       "As the premier Property Dealer in Sherpur Village Ambala we specialize in sourcing legally clear and strategically located plots that align perfectly with your budget and future goals. Whether you are looking for a small plot to build your dream home or a large parcel for commercial development trust us to simplify the entire buying and selling process from initial viewing to final registration. Secure your future investment in this burgeoning area today."
     ],
     "buttons": [
-      { "label": "Explore Available Plots in Sherpur Village", "path": "/plots" },
-      { "label": "Consult Our Local Real Estate Expert", "path": "/contact" }
+      {
+        "label": "Explore Available Plots in Sherpur Village",
+        "path": "/plots"
+      },
+      {
+        "label": "Consult Our Local Real Estate Expert",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Perfect Plot Sizes for Residential and Commercial Needs in Sherpur Village Ambala",
@@ -52,12 +61,56 @@
       "The connectivity to the main Ambala road network and proximity to essential services make Sherpur Village an increasingly valuable location. We help clients evaluate plots based on their access to major arterial roads public transport links and critical infrastructure development plans currently underway. This informed approach minimizes risk and maximizes your property value over time."
     ],
     "locations": [
-      "Near Ambala-Chandigarh Highway Access Points",
-      "Plots with direct road frontage in Sherpur Village",
-      "Areas close to new proposed school sites",
-      "Residential zones adjacent to established colonies",
-      "Investment pockets towards Ambala Cantt side",
-      "Commercial plots near village boundary markets"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to secure your high-potential plot in Sherpur Village Do not delay your investment in this growing market. Our team is standing by to provide personalized advice schedule site visits and answer all your real estate queries with professionalism and integrity.",
       "Fill out the form below or call our office directly to start your journey toward secure property ownership in Ambala's flourishing outskirts."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

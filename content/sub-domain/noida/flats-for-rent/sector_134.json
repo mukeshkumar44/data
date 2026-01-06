@@ -7,10 +7,19 @@
       "Whether you seek a compact 2 BHK unit with essential amenities or a sprawling 4 BHK luxury apartment with dedicated resident facilities, our curated portfolio highlights the best rental deals available. Stop wading through unverified listings. Start your journey here and find the perfect Flat For Rent in Sector 134 that aligns precisely with your budget and lifestyle requirements. Experience professional service and transparent dealings from inquiry to move-in."
     ],
     "buttons": [
-      { "label": "Browse 2 BHK Rentals", "path": "/2bhk-rentals" },
-      { "label": "Request A Call Back", "path": "/contact" }
+      {
+        "label": "Browse 2 BHK Rentals",
+        "path": "/2bhk-rentals"
+      },
+      {
+        "label": "Request A Call Back",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover The Range of Flats Available For Rent in Sector 134 Noida Today",
@@ -52,14 +61,56 @@
       "The availability of quality social infrastructure, including renowned schools, hospitals, and high-street retail, within a short driving distance further solidifies its appeal. When you search for a Flat For Rent in Sector 134, you are investing in convenience and proximity to everything that matters for a balanced life."
     ],
     "locations": [
-      "Noida-Greater Noida Expressway Access",
-      "Sector 137 Metro Station Aqua Line",
-      "Gautam Buddha University",
-      "Amity University Noida Campus",
-      "Jaypee Sports City",
-      "Film City and Sector 16",
-      "World Trade Tower Sector 132",
-      "Okhla Bird Sanctuary"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure the best Flat For Rent in Sector 134 Noida Stop searching and start living. Our dedicated team of rental experts possesses deep market knowledge and access to exclusive off-market listings.",
       "Submit your requirements below and let us handle the entire process, from property shortlisting and site visits to negotiation and final agreement execution. Your perfect home in Sector 134 is just a click away."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

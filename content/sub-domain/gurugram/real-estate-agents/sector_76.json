@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "agent_meeting_s76.jpg",
-      "sector76_skyline.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The connectivity provided by the Southern Peripheral Road and proximity to established hubs makes this location premium. We help clients evaluate properties based on accessibility to future metro links schools hospitals and commercial complexes ensuring a holistic investment decision that considers future urban development plans."
     ],
     "locations": [
-      "Sector 75 Gurugram",
-      "Sector 77 Residential Hub",
-      "Southern Peripheral Road SPR Access",
-      "Vatika India Next Township",
-      "NH 48 Delhi Jaipur Highway Connectivity",
-      "Tatvam Villas Luxury Enclave",
-      "Proximity to IMT Manesar Industrial Hub",
-      "Close Access to Central Gurugram Business District"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

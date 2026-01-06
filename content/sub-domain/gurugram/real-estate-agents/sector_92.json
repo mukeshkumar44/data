@@ -7,10 +7,19 @@
       "We provide bespoke property solutions that match your specific lifestyle requirements and financial goals. Whether you are searching for a spacious builder floor an independent plot for custom construction or a robust commercial investment opportunity our agents offer transparent guidance exceptional negotiation skills and deep market knowledge. Trust the local experts to unlock the best value properties in Sector 92 Gurugram and ensure a seamless transaction from inquiry to closing."
     ],
     "buttons": [
-      { "label": "Find Your Dream Home in Sector 92", "path": "/properties/sector-92" },
-      { "label": "Consult Our Property Experts Now", "path": "/contact" }
+      {
+        "label": "Find Your Dream Home in Sector 92",
+        "path": "/properties/sector-92"
+      },
+      {
+        "label": "Consult Our Property Experts Now",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Residential and Investment Property Types Available in Sector 92 Gurugram",
@@ -52,14 +61,56 @@
       "Our Real Estate Agents in Sector 92 provide insights not just into this sector but also into the property dynamics of surrounding areas ensuring you have a comprehensive view of the entire real estate ecosystem before making your final choice. This localized knowledge is invaluable for securing superior returns and lifestyle benefits."
     ],
     "locations": [
-      "Sector 91 Gurugram",
-      "Sector 93 Gurugram",
-      "Kheri Kalan",
-      "Sector 95 Greater Gurugram",
-      "Sector 89 Commercial Hub",
-      "Neharpar Residential Zone",
-      "Palwal Highway Access Points",
-      "Industrial Model Township IMT Gurugram"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to start your property search or maximize the return on your current investment in Sector 92 Gurugram Get in touch with our top-rated real estate experts now. We provide confidential consultations customized market appraisals and professional guidance tailored precisely to your goals.",
       "Do not leave your critical property decisions to chance. Fill out the form below or call us directly to schedule your appointment with the leading Real Estate Agents in Sector 92 dedicated to achieving your success."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Available Property Configurations When You Buy House in Ashok Vihar Phase 3 Gurugram",
@@ -58,14 +61,56 @@
       "Furthermore, the area is self-sufficient in terms of essential services. Reputable schools, major healthcare facilities, and bustling shopping centers are all located within a short driving distance. This robust infrastructure ensures a high quality of life for all residents, making the decision to buy house in Ashok Vihar Phase 3 a practical and rewarding choice. We can help you pinpoint properties that maximize connectivity while maintaining peaceful residential surroundings."
     ],
     "locations": [
-      "DLF Cyber Hub",
-      "Udyog Vihar Business District",
-      "Ambience Mall Gurugram",
-      "IGI Airport New Delhi",
-      "NH-48 Expressway Access",
-      "Rapid Metro Station Phase 3",
-      "Reputed Local Schools",
-      "Major Healthcare Facilities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

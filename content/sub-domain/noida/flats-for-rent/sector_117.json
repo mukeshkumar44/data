@@ -7,10 +7,19 @@
       "Sector 117 offers unparalleled convenience with easy access to major commercial centers educational institutions and medical facilities. Explore our comprehensive collection of Flat For Rent in Sector 117 listings ensuring you find a home that matches your requirements for budget amenities and location. Start your hassle-free rental journey with expert guidance today."
     ],
     "buttons": [
-      { "label": "Explore Rental Listings", "path": "/listings" },
-      { "label": "Request Expert Consultation", "path": "/contact" }
+      {
+        "label": "Explore Rental Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Expert Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["flat_117_hero1.jpg", "flat_117_hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Flat Configurations Available for Rent in Prime Sector 117 Noida",
@@ -52,12 +61,56 @@
       "We provide curated listings across these adjacent locations allowing you to compare rental rates amenities and travel times efficiently. Expanding your search radius slightly ensures you maximize your potential for finding the ideal home in this dynamic part of Noida."
     ],
     "locations": [
-      "Sector 78 Noida",
-      "Sector 118 Noida",
-      "Sector 116 Noida",
-      "Sector 104 Noida",
-      "Sector 77 Noida",
-      "Sector 120 Noida"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to move into your new home in one of Noida's most promising locations? Contact our specialized rental team for personalized assistance. We offer curated viewing schedules expert lease negotiation and verified listings ensuring a seamless transition.",
       "Tell us your exact requirements size budget and preferred amenities and let us do the hard work of finding the perfect Flat For Rent in Sector 117 that meets every expectation you have."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

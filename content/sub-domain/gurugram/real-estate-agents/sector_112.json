@@ -7,10 +7,19 @@
       "Choosing the right property partner is the critical first step toward a successful transaction. Our trusted network ensures you secure the best deals whether you are buying selling or looking for premium rental properties. They handle everything from initial property viewing and negotiation to final paperwork ensuring a seamless and transparent experience tailored exactly to your needs. Start your search for exceptional property in Sector 112 today with expert guidance."
     ],
     "buttons": [
-      { "label": "Connect with an Agent Now", "path": "/contact" },
-      { "label": "Explore Property Listings", "path": "/listings" }
+      {
+        "label": "Connect with an Agent Now",
+        "path": "/contact"
+      },
+      {
+        "label": "Explore Property Listings",
+        "path": "/listings"
+      }
     ],
-    "images": ["hero-sector112-agent-1.jpg", "hero-sector112-map.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Specialized Property Expertise Offered by Leading Real Estate Agents in Sector 112 Gurugram",
@@ -52,14 +61,56 @@
       "Understanding the property dynamics of adjacent areas is crucial for accurate valuation and future planning. We guide clients across these strategic locations offering deep market insights specific to each micro-market."
     ],
     "locations": [
-      "Sector 113 Gurugram",
-      "Sector 111 Property",
-      "New Palam Vihar",
-      "Dwarka Expressway Land",
-      "Bajghera Residential Plots",
-      "Palam Vihar Extension",
-      "Proximity to Indira Gandhi International Airport",
-      "Future Development Zones near Sector 112"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to find your ideal property or seeking a reliable valuation for your existing asset in Sector 112",
       "Fill out the form below and one of our dedicated property specialists will contact you immediately to discuss your specific real estate requirements without obligation."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

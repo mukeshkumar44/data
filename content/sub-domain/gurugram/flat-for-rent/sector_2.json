@@ -7,10 +7,19 @@
       "Explore our extensive portfolio of rental properties ranging from compact 1BHK units perfect for singles to spacious 3BHK homes designed for growing families. Our platform provides up-to-date availability transparent pricing and essential neighbourhood insights. Begin your search today and step into your new Flat For Rent in sector 2 without any hassle or hidden costs."
     ],
     "buttons": [
-      { "label": "Browse 2 BHK Listings", "path": "/2bhk-rentals-sector2" },
-      { "label": "Request a Callback", "path": "/contact" }
+      {
+        "label": "Browse 2 BHK Listings",
+        "path": "/2bhk-rentals-sector2"
+      },
+      {
+        "label": "Request a Callback",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore the Diverse Configurations of Flats For Rent in sector 2 Gurugram Today",
@@ -52,12 +61,56 @@
       "The locality is self-sufficient featuring reputed schools hospitals shopping centers and green parks all within a short radius. Tenants appreciate the convenience of having daily necessities and leisure facilities readily available enhancing the overall quality of rental life in sector 2. Review our location highlights to appreciate the neighbourhood."
     ],
     "locations": [
-      "Direct Metro Rail Connectivity Access",
-      "Proximity to NH-44 and Mathura Road",
-      "Leading Educational Institutions Nearby",
-      "State-of-the-Art Healthcare Facilities",
-      "Major Commercial and Retail Markets",
-      "Public Parks and Recreational Spaces"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Contact our expert rental team today for personalized assistance finding your next home in sector 2. Provide us with your specific requirements budget and preferred move-in date and we will curate a list of perfect rental options just for you.",
       "Stop searching endlessly and start living the sector 2 lifestyle. Fill out the form below or call us directly to discuss your Flat For Rent needs. We look forward to assisting you."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

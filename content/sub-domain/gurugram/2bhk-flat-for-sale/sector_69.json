@@ -7,12 +7,18 @@
       "Investing in a 2BHK flat in Sector 69 Gurugram means securing your future in one of the city’s fastest-developing corridors. Enjoy seamless access to major business hubs shopping centres and world-class schools. Whether you are looking for immediate possession or a high-rental yield investment our curated listings provide clear transparent options tailored to your budgetary needs. Start your journey toward owning a premium 2BHK flat today."
     ],
     "buttons": [
-      { "label": "Explore Available 2BHK Flats", "path": "/available-flats" },
-      { "label": "Request a Site Visit Now", "path": "/contact-us" }
+      {
+        "label": "Explore Available 2BHK Flats",
+        "path": "/available-flats"
+      },
+      {
+        "label": "Request a Site Visit Now",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "/images/2bhk-sector69-hero.jpg",
-      "/images/spr-view.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Beyond connectivity the area is developing into a self-sustained hub with numerous retail developments educational institutions and healthcare facilities within a short drive. Choosing a 2BHK flat here means securing a lifestyle where every convenience is just moments away contributing significantly to a higher quality of urban life."
     ],
     "locations": [
-      "Southern Peripheral Road SPR connectivity",
-      "Proximity to Golf Course Extension Road",
-      "Upcoming Metro Corridor Access",
-      "Leading Hospitals like Medanta and Artemis",
-      "Major Retail Malls and Shopping Complexes",
-      "Reputable International Schools and universities",
-      "Easy Access to NH-48 Delhi-Jaipur Highway",
-      "Rapid connectivity to IGI Airport Delhi"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

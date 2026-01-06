@@ -7,10 +7,19 @@
       "We specialize in connecting you with verified residential properties including builder floors independent houses and well-planned plots that perfectly match your budget requirements. Explore our curated selection of verified listings today and take the first step toward securing your future in one of Noida's most promising sectors. Invest smartly in your affordable house in Sector 63 and enjoy sustained growth."
     ],
     "buttons": [
-      { "label": "View Affordable Listings Now", "path": "/listings" },
-      { "label": "Request a Free Site Visit", "path": "/contact" }
+      {
+        "label": "View Affordable Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Free Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Ideal Property Sizes for an Affordable House in Sector 63 Noida",
@@ -52,12 +61,56 @@
       "The location’s affordability is enhanced by its excellent social infrastructure including proximity to top schools hospitals and major retail hubs like Sector 62 and Indirapuram. Investing in an affordable house in Sector 63 means benefiting from excellent city planning robust security and high future appreciation rates driven by ongoing commercial expansion in the area. This location truly maximizes value for money."
     ],
     "locations": [
-      "Noida Electronic City Metro Connectivity",
-      "Proximity to NH-24 and major highways",
-      "Direct access to Sector 62 and commercial offices",
-      "Near major hospitals and educational institutions",
-      "Easy commute to Ghaziabad and East Delhi",
-      "Well-maintained internal sector roads and green belts"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to explore verified property options that fit your budget and lifestyle requirements. Our expert real estate consultants are standing by to provide personalized advice schedule property tours and guide you through the entire purchasing journey.",
       "Fill out the form below to receive a customized portfolio of the best affordable house listings in Sector 63 Noida instantly. Start your hassle-free home buying experience with us."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

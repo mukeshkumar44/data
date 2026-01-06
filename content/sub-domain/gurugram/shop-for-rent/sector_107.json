@@ -7,12 +7,18 @@
       "We specialize in connecting entrepreneurs with premium, vetted commercial properties designed to maximize your business exposure. Explore our comprehensive listings featuring ground floor units, dedicated office spaces, and high-street retail options all strategically positioned within Sector 107 Gurugram. Start your search now and position your business where accessibility meets high commercial potential."
     ],
     "buttons": [
-      { "label": "View All Shop Listings", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View All Shop Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "shop_front_sector107.jpg",
-      "commercial_street_faridabad.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "We highlight nearby areas and developments that complement the business environment of Sector 107. These surrounding residential colonies and commercial sectors ensure a continuous flow of potential customers making your investment in commercial space highly viable and sustainable for the long term."
     ],
     "locations": [
-      "Sector 108 Residential Catchment Area",
-      "Proximity to Bypass Road Connectivity",
-      "Commercial Complexes near Sector 106",
-      "Emerging Retail Hubs in Greater Gurugram",
-      "Accessible Markets in Sector 88",
-      "Connectivity to Noida and Delhi Routes"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

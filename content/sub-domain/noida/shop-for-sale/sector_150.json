@@ -7,10 +7,19 @@
       "If you are seeking a lucrative commercial investment, securing a Shop For Sale in Sector 150 offers unparalleled future growth potential. We specialize in curating verified, RERA-approved commercial units across major projects, ensuring you access the best retail outlets, food court spaces, and high-street shops designed for maximum visibility and rental yield. Explore our exclusive listings and take the first step towards owning a valuable asset in Noida's most promising real estate corridor."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/listings" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero-shop1.jpg", "hero-shop2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Shop Options Catering to Every Business Model in Sector 150",
@@ -52,12 +61,56 @@
       "We focus on key commercial hubs near the sector's major entry points and those adjacent to landmark residential projects, optimizing future appreciation and rental reliability. Understanding the micro-location within this sector is crucial for making a high-yield commercial investment decision."
     ],
     "locations": [
-      "Near Expressway Entry Points",
-      "Central Sports City Commercial Corridor",
-      "High-Street Shopping Plazas near Residential Towers",
-      "Integrated Commercial Complexes adjacent to Yamuna Expressway",
-      "Areas serving the Golf Course Extension Road connectivity",
-      "Future Metro Station Connectivity Zone"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to explore the best inventory of Shop For Sale in Sector 150 Noida and capitalize on this booming market opportunity. Our commercial real estate experts provide personalized consultations, detailed financial projections, and site visits to help you secure the ideal investment unit.",
       "Fill out the form below to receive our exclusive list of RERA-approved commercial projects, detailed pricing sheets, and immediate assistance from our dedicated property advisors."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

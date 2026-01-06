@@ -7,10 +7,19 @@
       "Explore a curated selection of retail spaces showrooms and commercial plots perfectly positioned near major highways and established residential sectors. Whether you require a small unit for a local grocery or a large space for a major franchise our comprehensive listings offer the perfect match for every commercial ambition. Start your journey toward securing a lucrative commercial investment in Taraori Karnal by browsing our exclusive property inventory right now."
     ],
     "buttons": [
-      { "label": "Browse Premium Shops Now", "path": "/shops-for-sale" },
-      { "label": "Request Commercial Valuation Report", "path": "/contact" }
+      {
+        "label": "Browse Premium Shops Now",
+        "path": "/shops-for-sale"
+      },
+      {
+        "label": "Request Commercial Valuation Report",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero-shop-taraori.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Property Sizes and High-Yield Investment Options in Taraori Market",
@@ -52,14 +61,56 @@
       "Whether you prefer the bustling main market area or a quieter location suitable for clinics and professional services our portfolio covers the full spectrum of high-potential zones in Taraori. Invest where the future commerce is happening."
     ],
     "locations": [
-      "Taraori Main Market Area",
-      "Near Railway Station Road Taraori",
-      "Gagsina Road Commercial Belt",
-      "National Highway 44 Adjacent Commercial Plots",
-      "Developing Residential Sectors near Taraori",
-      "Old Grain Market Area Redevelopment Zones",
-      "Assandh Road Corner Commercial Units",
-      "Near Bus Stand Taraori"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

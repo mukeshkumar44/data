@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "shop-sector-31-hero-1.jpg",
-      "commercial-noida-31.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "This strategic positioning links it directly to affluent residential sectors and neighboring business districts ensuring that any investment here benefits from regional economic growth and easy access for both consumers and employees Explore key locations that enhance the commercial viability of Sector 31"
     ],
     "locations": [
-      "Sector 18 Atta Market",
-      "Great India Place GIP Mall",
-      "Okhla Industrial Area",
-      "Sector 62 Business Hub",
-      "Botanical Garden Metro Interchange",
-      "Sector 37 Commercial Corridor",
-      "Delhi-Noida Direct DND Flyway Access",
-      "Upcoming Residential Projects nearby"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

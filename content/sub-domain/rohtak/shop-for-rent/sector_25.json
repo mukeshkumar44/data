@@ -7,10 +7,19 @@
       "Explore various sizes and configurations, from ground-floor retail outlets suitable for showrooms to smaller units ideal for cafes or specialized services. We provide transparent rental terms and expert guidance to help you navigate the leasing process seamlessly. Let us connect you with a premium shop space in Sector 25 that drives customer flow and accelerates your business trajectory."
     ],
     "buttons": [
-      { "label": "Browse Available Shops", "path": "/listings" },
-      { "label": "Request Commercial Consultation", "path": "/contact" }
+      {
+        "label": "Browse Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Commercial Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/sector25_commercial_hero.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Commercial Units and Retail Spaces for Lease in Sector 25 Rohtak",
@@ -19,12 +28,30 @@
       "When you seek a shop for rent in Sector 25 Rohtak, consider factors like frontage visibility, accessibility via public transport, and the surrounding business ecosystem. We provide detailed analyses of each property’s commercial viability, helping you determine if the location is suitable for high-end retail, daily necessity stores, or specialized consultation services. Our goal is to ensure your rental investment provides immediate returns through optimal placement and configuration."
     ],
     "features": [
-      { "title": "4 Marla Commercial Unit", "description": "Ideal for startups, small cafes, or specialized service centers requiring high visibility but minimal operational space. These units offer cost-effective entry points into the bustling Sector 25 market and are perfect for quick-service retail." },
-      { "title": "6 Marla Commercial Unit", "description": "Excellent for medium-sized boutiques, pharmacies, or professional consulting offices. These shops usually offer good depth and sufficient floor space for extensive product display or dedicated staff areas facilitating comfortable operation." },
-      { "title": "8 Marla Commercial Unit", "description": "Prime units suitable for electronics stores, furniture showrooms, or banking branches. These properties typically feature wider frontages and better access for customer parking and deliveries, supporting higher volume retail." },
-      { "title": "10 Marla Commercial Unit", "description": "Anchor commercial space reserved for large format retail or major brands seeking maximum market presence in Sector 25. High ceiling clearance and multiple entry points often define these premium rental spaces providing an expansive customer experience." },
-      { "title": "12 Marla Commercial Unit", "description": "Suitable for multispecialty clinics, large gyms, or integrated commercial complexes requiring extensive square footage and dedicated customer flow management. These spaces support high operational demands and large teams." },
-      { "title": "14 Marla Commercial Unit", "description": "High-Street Corner Unit properties offering dual exposure and exceptional brand visibility. These are the most sought-after rental shops, promising the highest footfall and marketing impact in Rohtak due to their strategic positioning." }
+      {
+        "title": "4 Marla Commercial Unit",
+        "description": "Ideal for startups, small cafes, or specialized service centers requiring high visibility but minimal operational space. These units offer cost-effective entry points into the bustling Sector 25 market and are perfect for quick-service retail."
+      },
+      {
+        "title": "6 Marla Commercial Unit",
+        "description": "Excellent for medium-sized boutiques, pharmacies, or professional consulting offices. These shops usually offer good depth and sufficient floor space for extensive product display or dedicated staff areas facilitating comfortable operation."
+      },
+      {
+        "title": "8 Marla Commercial Unit",
+        "description": "Prime units suitable for electronics stores, furniture showrooms, or banking branches. These properties typically feature wider frontages and better access for customer parking and deliveries, supporting higher volume retail."
+      },
+      {
+        "title": "10 Marla Commercial Unit",
+        "description": "Anchor commercial space reserved for large format retail or major brands seeking maximum market presence in Sector 25. High ceiling clearance and multiple entry points often define these premium rental spaces providing an expansive customer experience."
+      },
+      {
+        "title": "12 Marla Commercial Unit",
+        "description": "Suitable for multispecialty clinics, large gyms, or integrated commercial complexes requiring extensive square footage and dedicated customer flow management. These spaces support high operational demands and large teams."
+      },
+      {
+        "title": "14 Marla Commercial Unit",
+        "description": "High-Street Corner Unit properties offering dual exposure and exceptional brand visibility. These are the most sought-after rental shops, promising the highest footfall and marketing impact in Rohtak due to their strategic positioning."
+      }
     ]
   },
   "locationsSection": {
@@ -34,11 +61,56 @@
       "Beyond the immediate main roads, we also list valuable shop spaces available near institutional areas and upcoming development zones in Sector 25 Rohtak. These offer potential lower rents now with high appreciation probability as the sector matures. We provide insights into foot traffic patterns, competitor density, and future infrastructure plans for all available rental properties, empowering you to make an informed strategic decision for your commercial venture in Rohtak."
     ],
     "locations": [
-      "Sector 25 Main Market Area",
-      "Shops Near Sector 25 Residential Zones",
-      "Commercial Space Near HUDA Sector 1",
-      "Rental Units Near Delhi Bypass Road",
-      "Retail Opportunities in Sunaria"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -134,6 +206,11 @@
       "Connect with our expert commercial leasing team today. We are ready to provide bespoke consultancy and immediate access to the best rental opportunities available in Sector 25.",
       "Share your specific requirements including size, budget, and business type, and let us fast-track your journey to securing a prime commercial location."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

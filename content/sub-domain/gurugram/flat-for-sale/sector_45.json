@@ -7,10 +7,19 @@
       "Explore exclusive inventory from reputable builders and individual sellers. Each Flat For Sale in sector 45 has been carefully selected to ensure high quality construction, strategic connectivity to major highways, and proximity to essential services like top schools, hospitals, and shopping centers. Start your search today and step closer to owning a premium home in one of Gurugram's most established sectors. Our dedicated team is ready to guide you through finding the perfect property investment."
     ],
     "buttons": [
-      { "label": "Explore Verified Flats", "path": "/listings/sector45" },
-      { "label": "Book a Site Visit", "path": "/contact" }
+      {
+        "label": "Explore Verified Flats",
+        "path": "/listings/sector45"
+      },
+      {
+        "label": "Book a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/sector45_hero1.jpg", "/images/sector45_hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Premium Flat Configurations Available When You Buy a Home in Sector 45",
@@ -52,14 +61,56 @@
       "The local infrastructure development complements the residential appeal. Sector 45 boasts easy access to highly reputed educational institutions, multi-specialty healthcare facilities, and vibrant local markets and large commercial complexes. Finding a Flat For Sale in sector 45 means securing a residence in an area that already possesses all necessary urban amenities while retaining a calm, residential ambiance."
     ],
     "locations": [
-      "Proximity to Badarpur Border",
-      "Easy Access to NH-44",
-      "Near Sector 46 and Sector 44",
-      "Close to Major Schools and Universities",
-      "Minutes from Local Shopping Centres",
-      "Rapid connectivity to commercial hubs",
-      "Well-developed internal road network",
-      "Presence of multiple green parks"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to find the perfect Flat For Sale in sector 45 Gurugram Get in touch with our specialist team for personalized assistance, detailed property reports, and exclusive access to off-market listings. We are committed to making your home buying journey smooth and successful.",
       "Fill out the form below to receive immediate information on the best available flats, scheduled site visits, and expert financial advice."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

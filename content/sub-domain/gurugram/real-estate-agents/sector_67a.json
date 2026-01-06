@@ -7,10 +7,19 @@
       "Our dedicated professionals are committed to making your property buying selling or leasing experience seamless and highly profitable. We provide comprehensive portfolio analysis legal due diligence and expert negotiation strategies tailored specifically to the Sector 67A micro-market. Stop searching endlessly and start investing smartly with the best property advisors available in this prime location today."
     ],
     "buttons": [
-      { "label": "Find Your Dream Property Now", "path": "/properties" },
-      { "label": "Request a Free Valuation", "path": "/contact" }
+      {
+        "label": "Find Your Dream Property Now",
+        "path": "/properties"
+      },
+      {
+        "label": "Request a Free Valuation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Real Estate Opportunities Guided by Experts in Sector 67A Gurugram",
@@ -52,14 +61,56 @@
       "We highlight properties that benefit most from the proximity to major employment hubs like Cyber City 2.0 Golf Course Extension Road and IMT Manesar. Our agents ensure you understand how connectivity drives property value making your investment in Sector 67A a long-term winner."
     ],
     "locations": [
-      "Southern Peripheral Road SPR connectivity",
-      "Proximity to Golf Course Extension Road",
-      "Easy access to Sohna Road Gurugram",
-      "Near major commercial and IT hubs",
-      "Excellent connectivity to NH-48 Delhi-Jaipur Expressway",
-      "Close to major schools and healthcare facilities",
-      "Direct route to Sector 65 and Sector 66",
-      "Rapid access to IGI Airport via Dwarka Expressway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure your next property success in Sector 67A Gurugram Contact our expert team now for personalized advice tailored to your needs. We are here to transform your property goals into reality.",
       "Fill out the form below and one of our dedicated Sector 67A specialists will reach out to schedule a private consultation and discuss current market opportunities."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

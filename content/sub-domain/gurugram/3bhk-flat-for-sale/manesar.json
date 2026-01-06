@@ -16,7 +16,10 @@
         "path": "/download"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Features Making 3BHK Flats in Manesar the Best Residential Choice for Modern Families",
@@ -58,12 +61,56 @@
       "We focus on areas that offer excellent social infrastructure including quality schools shopping centers and state-of-the-art hospitals ensuring that daily life is convenient and hassle-free. Whether you prefer a quiet community near IMT Manesar or a rapidly developing zone closer to the highway our portfolio includes top-rated properties across the most sought-after pockets of Manesar Gurugram. This detailed guide helps narrow down the best choices for your future home investment."
     ],
     "locations": [
-      "Sector 1 Manesar",
-      "Sector 8 Manesar",
-      "IMT Manesar Residential Zone",
-      "Naharpur Kasan",
-      "Kasan Village Extension",
-      "Sector M-1A Manesar"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,10 +7,19 @@
       "Searching for a comfortable and secure living space is simplified with our platform. Every flat for rent in Sector 25 listed here includes detailed photographs virtual tours and comprehensive property specifications. Start your search today and secure a high-quality rental home in one of Noida's most vibrant sectors. Experience hassle-free move-in and enjoy modern amenities that elevate your daily living standard in this prime location."
     ],
     "buttons": [
-      { "label": "Explore 2 BHK Rentals", "path": "/2bhk-rentals" },
-      { "label": "Contact Rental Experts", "path": "/contact-us" }
+      {
+        "label": "Explore 2 BHK Rentals",
+        "path": "/2bhk-rentals"
+      },
+      {
+        "label": "Contact Rental Experts",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["/images/hero-flat-sector25-1.jpg", "/images/hero-flat-sector25-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Apartment Types When Looking for a Flat For Rent in Sector 25 Noida",
@@ -52,14 +61,56 @@
       "Beyond connectivity the sector is renowned for its proximity to world-class amenities. Key educational institutions healthcare facilities and major retail outlets are all within a short radius. This comprehensive integration of residential commercial and infrastructural development enhances the quality of life for everyone living in a flat for rent in Sector 25 Noida making it a sound decision for any potential tenant."
     ],
     "locations": [
-      "Sector 18 Market and Entertainment Hub",
-      "DLF Mall of India",
-      "Noida City Centre Metro Station",
-      "Atta Market Noida",
-      "Fortis Hospital Noida",
-      "Sector 62 IT Hub proximity",
-      "Golf Course Noida access",
-      "DND Flyway Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Stop searching endlessly and connect with the leading real estate rental experts in Sector 25. We provide personalized assistance property viewings and transparent negotiation support ensuring you find the perfect rental home with ease. Your ideal flat is just a conversation away.",
       "Submit your requirements using the form below and let us handle the complexities of finding a verified and desirable property matching your exact criteria."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

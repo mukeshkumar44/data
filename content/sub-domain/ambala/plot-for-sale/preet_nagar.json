@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Plot Sizes and Investment Opportunities in Preet Nagar Ambala",
@@ -58,14 +61,56 @@
       "The infrastructure development surrounding a Plot For Sale in Preet Nagar is robust and planned for future expansion, ensuring high standards of civic amenities and rapidly increasing property values year over year. These localized growth points and investment nodes make acquiring land in this area a deeply thoughtful decision for both immediate construction needs and passive wealth creation. We also closely monitor and track development projects in these surrounding areas that positively impact the livability, convenience, and overall appreciation potential of your real estate investment within Preet Nagar Ambala."
     ],
     "locations": [
-      "Ambala City Main Commercial Hubs",
-      "Ambala Cantt Railway Station Access",
-      "Direct Connectivity to NH-44",
-      "Reputable Schools and Colleges Nearby",
-      "Major Hospitals and Healthcare Facilities",
-      "Local Markets and Shopping Centers",
-      "Easy access to public transport terminals",
-      "Developing Recreational Parks"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -169,4 +214,3 @@
     ]
   }
 }
-No explanation. No markdown.

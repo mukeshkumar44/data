@@ -7,10 +7,19 @@
       "We provide verified listings featuring modern architecture premium amenities and excellent proximity to essential infrastructure like schools hospitals and markets Each 3BHK flat for sale in Rajendra Park is meticulously vetted ensuring clear titles and hassle-free transactions Start your search now and unlock the door to sophisticated urban living in one of Gurugram’s most promising neighborhoods Do not miss the opportunity to secure a high-quality home that meets all your family needs and future aspirations"
     ],
     "buttons": [
-      { "label": "Explore Verified 3BHK Listings", "path": "/listings/3bhk-rajendra-park" },
-      { "label": "Schedule a Site Visit", "path": "/contact-us" }
+      {
+        "label": "Explore Verified 3BHK Listings",
+        "path": "/listings/3bhk-rajendra-park"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["/img/hero-3bhk-rajendra-park.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Features of Every 3BHK Flat For Sale in Rajendra Park Gurugram",
@@ -52,14 +61,56 @@
       "Our listings span the best pockets within Rajendra Park offering diverse options whether you prefer ground floor access or a penthouse view We focus solely on properties that deliver superior quality and undisputed value ensuring your investment in a Rajendra Park 3BHK is both lifestyle enhancing and financially sound Explore not just Rajendra Park but its immediately accessible neighboring sectors"
     ],
     "locations": [
-      "Palam Vihar Extension",
-      "Sector 105 Gurugram",
-      "Dwarka Expressway",
-      "Sector 5 Gurugram",
-      "Dharampura Gurugram",
-      "Sector 109 Gurugram",
-      "New Palam Vihar",
-      "Gurugram Railway Station Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure your perfect 3BHK flat for sale in Rajendra Park Gurugram Contact our specialized property consultants now for personalized assistance exclusive virtual tours and detailed market insights We simplify the complex process of buying property ensuring a secure and satisfying experience from inquiry to key handover",
       "Fill out the form below and let us help you find the spacious and ideal three-bedroom home that perfectly fits your family’s needs and investment goals We respond promptly to all inquiries"
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

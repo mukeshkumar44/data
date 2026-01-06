@@ -7,12 +7,18 @@
       "This established sector provides a mix of builder floors, independent houses, and plots catering to diverse lifestyle needs. We simplify the search process, ensuring you find a home that matches your aspirations and budget. Securing a property here means gaining quick access to the Golf Course Extension Road and NH-48, making daily commutes seamless. Start your journey toward luxury living right here."
     ],
     "buttons": [
-      { "label": "Explore Available Houses", "path": "/listings" },
-      { "label": "Get Expert Consultation", "path": "/contact" }
+      {
+        "label": "Explore Available Houses",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Expert Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "sushant-lok-3-hero-view-1.jpg",
-      "sushant-lok-3-house-exterior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "The area enjoys seamless connectivity via the Rapid Metro station at Sector 55/56, making travel to Cyber City and other business districts extremely convenient. Key commercial centers like Sector 56 Market and South Point Mall are easily accessible providing extensive retail and dining options. Furthermore, the vicinity is dotted with top-tier international schools and multi-specialty hospitals ensuring high standards of living for families. This strategic positioning solidifies Sushant Lok Phase 3 not just as a place to live but as a premium investment zone. Proximity to major roads ensures that traffic bottlenecks are minimized providing residents with a hassle-free lifestyle that is highly valued by buyers looking to buy house in Sushant Lok Phase 3."
     ],
     "locations": [
-      "Sector 57",
-      "Sector 56",
-      "Golf Course Road",
-      "Sector 55",
-      "Ardee City",
-      "DLF Phase 5"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

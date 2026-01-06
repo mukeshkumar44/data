@@ -7,10 +7,19 @@
       "Investing in property here means securing a future in a neighborhood renowned for its robust infrastructure, proximity to top schools, renowned hospitals, and vibrant local markets. Browse our exclusive collection of houses, including 3 BHK, 4 BHK, and larger formats, designed to meet diverse family needs and lifestyles. Start your journey today to find the perfect house that fits your aspirations and enjoy the unparalleled quality of life that comes with owning a home in the heart of Sector 4 Karnal. Trust us to connect you with the finest residential opportunities currently available."
     ],
     "buttons": [
-      { "label": "View All Listings", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View All Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero1.jpg", "/images/hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Residential House Formats and Plot Sizes Available in Sector 4",
@@ -52,14 +61,56 @@
       "Each surrounding area offers unique benefits, varying price points, and different levels of infrastructural development, providing a comprehensive view of the Karnal real estate market. This broad perspective ensures you make a fully informed decision about the best location for your new home, whether you prioritize proximity to specific institutions or specific budget requirements within the larger Karnal region."
     ],
     "locations": [
-      "Sector 5",
-      "Sector 6",
-      "Sector 9",
-      "Sector 7",
-      "Model Town",
-      "Preet Nagar",
-      "Shiv Colony",
-      "Hans Nagar"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Our expert team is prepared to assist you with personalized advice and exclusive property showings. Do not miss the opportunity to own a house in this premium locality, ensuring an unmatched quality of life and strong future returns.",
       "Contact us now to discuss your specific requirements, receive tailored investment advice, or schedule a viewing of the best houses currently listed in Sector 4. Your ideal home awaits."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

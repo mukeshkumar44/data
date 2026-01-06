@@ -7,12 +7,18 @@
       "The demand for a 2BHK Flat For Sale in South City 1 remains consistently high due to its proximity to major corporate hubs like Cyber City and Golf Course Road. Enjoy spacious layouts robust building quality and access to essential civic amenities right outside your door. Start your search today and step into a life of convenience and quality living in one of Gurugram's most sought-after addresses."
     ],
     "buttons": [
-      { "label": "View All 2BHK Listings", "path": "/listings/2bhk" },
-      { "label": "Schedule a Site Visit Now", "path": "/contact" }
+      {
+        "label": "View All 2BHK Listings",
+        "path": "/listings/2bhk"
+      },
+      {
+        "label": "Schedule a Site Visit Now",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/southcity1/hero-2bhk-view.jpg",
-      "/images/southcity1/hero-interior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The locality serves as a tranquil oasis amidst Gurugram's bustling corporate environment. Investors and homeowners consistently prefer South City 1 due to its infrastructure planning wide roads and excellent maintenance standards. Investing here guarantees convenience accessibility and a high quality of life."
     ],
     "locations": [
-      "Proximity to NH-48 Expressway",
-      "Near Huda City Centre Metro Station",
-      "Direct Access to Cyber City",
-      "Close to Medanta The Medicity Hospital",
-      "Major Retail Malls and Marketplaces nearby",
-      "Reputable Educational Institutions within 5 km radius",
-      "Easy Commute to Golf Course Road Extension",
-      "Established Green Parks and Recreational Spaces"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to explore the best available 2BHK Flat For Sale in South City 1 Gurugram Contact our specialized property advisors now. We provide personalized tours detailed market insights and tailored financial guidance to simplify your buying journey.",
       "Do not miss out on securing a highly valuable asset in this prime Gurugram location. Fill out the form below and we will reach out promptly to discuss your property needs."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

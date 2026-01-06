@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/mgroad-hero-1.jpg",
-      "/images/mgroad-hero-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "We help clients find houses that balance the vibrant excitement of MG Road with the quiet residential privacy of nearby sectors. Key locations like Sector 28 Sector 29 and Sukhrali offer diverse housing inventories ranging from premium societies to established builder floors. This section of Gurugram is strategically positioned for rapid transit ensuring easy connection to Delhi and IGI Airport cementing its status as a premier residential destination for professionals and families alike."
     ],
     "locations": [
-      "DLF Phase 1 Gurugram",
-      "Sushant Lok Phase 1",
-      "Sector 28 Residential Hub",
-      "Sukhrali Enclave",
-      "Sikanderpur Metro Area",
-      "DLF Phase 2 Connectivity",
-      "Near Cyber Hub",
-      "South City 1"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

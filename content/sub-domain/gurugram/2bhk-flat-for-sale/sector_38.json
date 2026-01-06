@@ -7,10 +7,19 @@
       "Searching for a spacious yet affordably priced 2BHK Flat For Sale in Sector 38? Look no further. Our listings include apartments in renowned complexes featuring top-tier amenities like 24/7 security dedicated parking and easy access to Medanta The Medicity and the HUDA City Centre metro station ensuring a balanced lifestyle and solid investment appreciation potential."
     ],
     "buttons": [
-      { "label": "View All 2BHK Listings", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View All 2BHK Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Benefits of Investing in a 2BHK Flat in Sector 38 Gurugram Today",
@@ -52,14 +61,56 @@
       "Understanding the local ecosystem is crucial when buying a 2BHK flat. Sector 38 sits perfectly between established luxury areas and rapidly developing commercial zones giving residents the best of both worlds."
     ],
     "locations": [
-      "HUDA City Centre",
-      "Sohna Road",
-      "Sector 45",
-      "Medanta The Medicity",
-      "Subhash Chowk",
-      "DLF Phase 4",
-      "Rajiv Chowk",
-      "NH-48"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

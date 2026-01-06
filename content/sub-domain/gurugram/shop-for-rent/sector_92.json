@@ -7,10 +7,19 @@
       "Explore exclusive listings that provide excellent visibility strategic location and modern amenities ensuring your venture thrives from day one. Whether you are launching a new cafe setting up a convenience store or establishing a professional service center Sector 92 provides the ideal landscape for robust commercial growth. Start your search for the perfect shop for rent in Sector 92 today and unlock your business potential in Gurugram's newest and most promising growth corridor. Our listings are verified transparent and ready for immediate possession."
     ],
     "buttons": [
-      { "label": "Explore Available Retail Spaces", "path": "/listings/retail" },
-      { "label": "Get a Free Rental Consultation", "path": "/contact" }
+      {
+        "label": "Explore Available Retail Spaces",
+        "path": "/listings/retail"
+      },
+      {
+        "label": "Get a Free Rental Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero-shop-sector92.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Property Options Find the Ideal Shop For Rent in Sector 92",
@@ -52,12 +61,56 @@
       "The location provides easy access to the Gurugram-Noida-Ghaziabad FNG Expressway and is well-connected to Delhi NCR via the Eastern Peripheral Expressway. Businesses establishing their presence here gain a competitive edge due to accessibility infrastructure quality and proximity to future public transport nodes. Renting a shop in Sector 92 means investing in a location poised for explosive commercial growth."
     ],
     "locations": [
-      "Proximity to Major Residential Clusters",
-      "Excellent Road Network Connecting Greater Gurugram",
-      "Future Metro Connectivity Planning",
-      "Quick Access to the FNG Expressway",
-      "Neighbouring Sectors 91 and 93 Residential Areas",
-      "Well-Developed Infrastructure and Utilities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to secure a high-potential commercial space in one of Gurugram's fastest-growing sectors Contact our commercial property experts today for personalized assistance and exclusive site visits. We simplify the rental process from initial search to final contract signing.",
       "Fill out the form below and let us know your specific requirements size budget and preferred business type. We commit to responding within one business day with tailored rental options matching your exact needs."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

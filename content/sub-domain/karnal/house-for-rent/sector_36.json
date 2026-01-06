@@ -7,10 +7,19 @@
       "We understand that renting a home is a significant decision. Whether you need a cozy 2 BHK for a small family or a spacious 4 BHK luxury villa, Sector 36 Karnal provides diverse options near schools, shopping hubs, and major road networks. Explore our exclusive collection of independent houses and builder floors today and secure your next residence in this prime location."
     ],
     "buttons": [
-      { "label": "Browse Verified Listings", "path": "/listings" },
-      { "label": "Schedule a Viewing", "path": "/contact" }
+      {
+        "label": "Browse Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Viewing",
+        "path": "/contact"
+      }
     ],
-    "images": ["/img/sector36-hero1.jpg", "/img/sector36-hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore the Diverse Selection of Houses For Rent in Sector 36 According to Your Needs",
@@ -52,14 +61,56 @@
       "The sector boasts proximity to several prominent educational institutions, healthcare facilities, and major highways, making it an ideal choice for residents working across different parts of Karnal. Understanding the neighborhood amenities enhances your decision-making process when selecting your next rental home."
     ],
     "locations": [
-      "National Highway 44 Connectivity",
-      "Proximity to HUDA Sectors 32 and 33",
-      "Near prominent schools and colleges",
-      "Easy access to Karnal Railway Station",
-      "Well-developed local markets and shops",
-      "Short drive to major medical centres",
-      "Direct routes to Karnal Bypass",
-      "Near recreational parks and green belts"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to move into the best residential area in Karnal We are here to help you navigate the listings, schedule property viewings, and finalize your lease agreement smoothly.",
       "Reach out to our Sector 36 rental specialists now to discuss your specific needs and access off-market properties that match your criteria perfectly."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

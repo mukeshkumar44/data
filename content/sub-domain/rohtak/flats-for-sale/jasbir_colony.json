@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "jasbir-colony-flat-exterior.jpg",
-      "flat-interior-rohtak.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The careful planning of Jasbir Colony means essential services, educational institutions, healthcare facilities, and recreational spots are all easily reachable. This robust surrounding ecosystem makes it an ideal spot for families and professionals alike who prioritize both convenience and a peaceful residential atmosphere. We invite you to explore the neighboring landmarks that enhance the desirability of living in this sought-after Rohtak location."
     ],
     "locations": [
-      "Rohtak Railway Station",
-      "Maharshi Dayanand University MDU Rohtak",
-      "PGI Medical College and Hospital",
-      "Sector 14 Market Rohtak",
-      "Delhi Rohtak Bypass Road",
-      "Major Banks and ATMs",
-      "Reputed Schools and Coaching Centers",
-      "Local Shopping Complexes and Daily Needs Stores"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

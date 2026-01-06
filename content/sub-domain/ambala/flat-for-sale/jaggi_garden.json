@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "flat-jaggi-garden-exterior.jpg",
-      "flat-jaggi-garden-interior.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Beyond physical connectivity, Jaggi Garden boasts proximity to the city’s best social infrastructure. Reputed schools, advanced hospitals, and bustling local markets are all within a short radius, ensuring all your family needs are met easily. Investing here means choosing a life of convenience where everything you need is right outside your doorstep, elevating the standard of residential living in Ambala."
     ],
     "locations": [
-      "Ambala City Railway Station",
-      "Ambala Bus Stand",
-      "NH44 National Highway Access",
-      "Reputed Schools and Colleges",
-      "Major Healthcare Facilities",
-      "Shopping Malls and Entertainment Zones",
-      "Ambala Cantt Area Proximity",
-      "Local Green Parks and Recreation Areas"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

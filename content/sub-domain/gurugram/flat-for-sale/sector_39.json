@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Residential Options Buying a Flat For Sale in sector 39 Gurugram",
@@ -58,12 +61,56 @@
       "Furthermore, access to public transport, including the efficient Gurugram Metro line, is readily available, positioning the sector as a commuter's dream. Investing here is not just about buying a flat; it’s about buying access to a rapidly developing economic corridor. The proximity to established educational institutions like Manav Rachna University and top-tier hospitals ensures all family needs are catered to within a short drive. Potential buyers are advised to review the development master plan for the area, which promises further infrastructure upgrades like dedicated green belts and enhanced civic amenities, confirming Sector 39's status as a high-growth residential area in Gurugram."
     ],
     "locations": [
-      "Sector 40 Gurugram",
-      "Sector 37 Residential Area",
-      "NH 44 Mathura Road",
-      "Badarpur Border Delhi",
-      "Gurugram Metro Station proximity",
-      "Tughlakabad Institutional Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

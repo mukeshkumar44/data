@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "house-rental-alipur-village-1.jpg",
-      "alipur-village-street-view.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "We provide listings not just within the core of Alipur Village but also in nearby promising areas that share similar characteristics of good infrastructure and peaceful living. These connected localities ensure easy access to major roads NH44 and the broader Ambala infrastructure including railway stations and bus terminals making any House For Rent in Alipur Village Ambala a strategic choice for regional connectivity."
     ],
     "locations": [
-      "Rental Homes in Ambala City Extension",
-      "Houses for Rent near Ambala Railway Station",
-      "Independent Houses in Sector 9 Ambala Cantt",
-      "Flats and Houses near Shahpur Alipur Road",
-      "Residential Options near Maharana Pratap Chowk",
-      "Affordable Rentals near Ambala-Chandigarh Highway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

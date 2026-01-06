@@ -7,10 +7,19 @@
       "Our platform streamlines your search allowing you to filter options based on budget amenities and proximity to essential services like schools hospitals and markets. Start your search today and step into a home that meets all your needs without compromising on location convenience or security. We are dedicated to providing transparent verified listings to ensure a smooth transition into your new rental property."
     ],
     "buttons": [
-      { "label": "View Verified Listings", "path": "/listings" },
-      { "label": "Contact Us Now", "path": "/contact" }
+      {
+        "label": "View Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Contact Us Now",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Flats For Rent Options Tailored to Every Lifestyle and Budget Requirement",
@@ -52,13 +61,56 @@
       "Areas like Model Town and Shivaji Colony are excellent choices offering slightly different price points and amenity standards complementing the selection in Dev Colony. Exploring these neighboring zones can often uncover hidden gems or larger properties that perfectly align with your family's size and budget requirements. Our goal is to be your single source for all flats for rent across the core residential belt of Rohtak giving you the power to compare analyze and decide with confidence. All listed locations benefit from Rohtak's robust public transport network making commuting easy regardless of your final choice within this vibrant region."
     ],
     "locations": [
-      "Model Town",
-      "Shivaji Colony",
-      "Sector 14 Rohtak",
-      "DLF Colony",
-      "Gandhra",
-      "Delhi Road Area",
-      "Subhash Nagar"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -154,6 +206,11 @@
       "Ready to take the next step towards securing your ideal rental flat in Dev Colony Rohtak We make the contact process simple efficient and personalized. Reach out to our expert team today to discuss your specific requirements including desired BHK configuration budget and preferred amenities.",
       "Our property specialists are standing by to provide verified listings schedule property viewings and answer all your complex questions about the local rental market. Do not waste time scrolling through unverified listings. Use the contact form below or call us directly to experience the fastest and most reliable way to find high-quality flats for rent in Dev Colony Rohtak."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

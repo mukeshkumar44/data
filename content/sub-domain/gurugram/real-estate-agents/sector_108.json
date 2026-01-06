@@ -7,10 +7,19 @@
       "Whether you are searching for luxurious high-rise apartments, spacious builder floors, or commercial spaces, our dedicated agents are committed to providing personalized service. We eliminate the guesswork from the buying or selling process, ensuring transparent transactions and securing the most favorable terms for you. Let us be your trusted partner in realizing your property goals in one of Gurugram’s most promising sectors."
     ],
     "buttons": [
-      { "label": "Find Your Agent Now", "path": "/contact" },
-      { "label": "Explore Listings", "path": "/listings" }
+      {
+        "label": "Find Your Agent Now",
+        "path": "/contact"
+      },
+      {
+        "label": "Explore Listings",
+        "path": "/listings"
+      }
     ],
-    "images": ["hero-sector-108-skyline.jpg", "agent-consultation-gurugram.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Key Property Segments Our Expert Real Estate Agents in Sector 108 Gurugram Handle",
@@ -52,12 +61,56 @@
       "Our Real Estate Agents in Sector 108 not only serve this immediate locale but also possess comprehensive knowledge of the surrounding micro-markets. This extended coverage ensures that if Sector 108 does not meet a specific requirement, we can seamlessly offer viable, high-quality alternatives within minutes of drive time, all while maintaining the same commitment to expert service."
     ],
     "locations": [
-      "Sector 109 along Dwarka Expressway",
-      "Prime Residential Areas of Sector 107",
-      "Established Neighborhoods of Palam Vihar",
-      "Connectivity Corridor of Dwarka Expressway",
-      "Emerging Opportunities in Sector 110",
-      "Residential Plots near New Palam Vihar"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Take the first step towards securing your ideal property or maximizing your investment return in Sector 108. Our expert team is ready to provide personalized guidance tailored to your specific needs.",
       "Contact us today for a free, no-obligation market consultation and experience the difference that professional expertise makes."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

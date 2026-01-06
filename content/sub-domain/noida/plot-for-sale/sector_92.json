@@ -7,10 +7,19 @@
       "We offer a curated selection of residential plots ranging from compact sizes for nuclear families to expansive lands for luxury villas. Every plot listing in Sector 92 Noida has been thoroughly verified, ensuring clear titles and hassle-free transactions. Start exploring the best land investments available and take the first step towards owning a valuable asset in one of Noida’s fastest-growing sectors."
     ],
     "buttons": [
-      { "label": "View All Available Plots", "path": "/listings/sector-92" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "View All Available Plots",
+        "path": "/listings/sector-92"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/sector-92-plot-hero.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Residential Plot Sizes Available in Sector 92 Tailored for Every Home Builder",
@@ -19,12 +28,30 @@
       "The availability of different Marla sizes ensures flexibility in budget and development scale. We help you navigate the zoning regulations and local development norms in Sector 92 so your construction process is smooth and compliant. Review the specific plot size options below and determine which dimension aligns perfectly with your residential goals."
     ],
     "features": [
-      { "title": "4 Marla Plot", "description": "A 4 Marla plot in Sector 92 Noida is an excellent entry point for new investors or smaller families. This compact size is perfect for constructing a well-designed ground-plus-one floor duplex, maximizing space utilization while keeping construction costs manageable. These plots are highly sought after due to their affordability and location within well-connected sub-localities offering proximity to daily needs like markets and schools near Sector 92." },
-      { "title": "6 Marla Plot", "description": "The 6 Marla plots provide a balanced footprint ideal for a comfortable independent house with ample front and rear yard space. This size allows for a more spacious three-bedroom layout or a dedicated parking area, enhancing lifestyle quality. Many residents choose this dimension in Sector 92 for its versatility, offering enough space for customized interior layouts and potential future expansion without feeling cramped." },
-      { "title": "8 Marla Plot", "description": "An 8 Marla plot represents the sweet spot for growing families looking for significant residential space in Sector 92 Noida. You can easily plan a grand four-bedroom house with dedicated study rooms or a home office. This size is highly advantageous for long-term appreciation, attracting strong rental demand and providing sufficient ground coverage for luxurious construction elements like a landscaped garden or private terrace space." },
-      { "title": "10 Marla Plot", "description": "For those aspiring to build a substantial luxury villa or a multi-story home, the 10 Marla plot size in Sector 92 offers generous dimensions. This space allows for expansive construction, including dedicated servant quarters, multiple parking slots, and large recreational areas. Investing in a 10 Marla plot maximizes your design freedom and positions your asset within the premium segment of the Sector 92 real estate market." },
-      { "title": "12 Marla Plot", "description": "12 Marla plots are considered prime residential real estate in this region, catering exclusively to high-end custom builds. Buyers can design magnificent homes featuring private swimming pools, home theatres, and extensive basement configurations. These larger plots ensure maximum privacy and exclusivity, making them exceptional investment opportunities for discerning buyers seeking the ultimate living experience near Sector 92." },
-      { "title": "14 Marla Plot", "description": "Securing a 14 Marla plot for sale in Sector 92 Noida means acquiring a rare and large land parcel suitable for institutional or very large residential projects. This size is often utilized by developers planning gated community cluster homes or ultra-luxury estates. The potential for high returns and bespoke development makes 14 Marla plots the top-tier choice for strategic real estate portfolio expansion." }
+      {
+        "title": "4 Marla Plot",
+        "description": "A 4 Marla plot in Sector 92 Noida is an excellent entry point for new investors or smaller families. This compact size is perfect for constructing a well-designed ground-plus-one floor duplex, maximizing space utilization while keeping construction costs manageable. These plots are highly sought after due to their affordability and location within well-connected sub-localities offering proximity to daily needs like markets and schools near Sector 92."
+      },
+      {
+        "title": "6 Marla Plot",
+        "description": "The 6 Marla plots provide a balanced footprint ideal for a comfortable independent house with ample front and rear yard space. This size allows for a more spacious three-bedroom layout or a dedicated parking area, enhancing lifestyle quality. Many residents choose this dimension in Sector 92 for its versatility, offering enough space for customized interior layouts and potential future expansion without feeling cramped."
+      },
+      {
+        "title": "8 Marla Plot",
+        "description": "An 8 Marla plot represents the sweet spot for growing families looking for significant residential space in Sector 92 Noida. You can easily plan a grand four-bedroom house with dedicated study rooms or a home office. This size is highly advantageous for long-term appreciation, attracting strong rental demand and providing sufficient ground coverage for luxurious construction elements like a landscaped garden or private terrace space."
+      },
+      {
+        "title": "10 Marla Plot",
+        "description": "For those aspiring to build a substantial luxury villa or a multi-story home, the 10 Marla plot size in Sector 92 offers generous dimensions. This space allows for expansive construction, including dedicated servant quarters, multiple parking slots, and large recreational areas. Investing in a 10 Marla plot maximizes your design freedom and positions your asset within the premium segment of the Sector 92 real estate market."
+      },
+      {
+        "title": "12 Marla Plot",
+        "description": "12 Marla plots are considered prime residential real estate in this region, catering exclusively to high-end custom builds. Buyers can design magnificent homes featuring private swimming pools, home theatres, and extensive basement configurations. These larger plots ensure maximum privacy and exclusivity, making them exceptional investment opportunities for discerning buyers seeking the ultimate living experience near Sector 92."
+      },
+      {
+        "title": "14 Marla Plot",
+        "description": "Securing a 14 Marla plot for sale in Sector 92 Noida means acquiring a rare and large land parcel suitable for institutional or very large residential projects. This size is often utilized by developers planning gated community cluster homes or ultra-luxury estates. The potential for high returns and bespoke development makes 14 Marla plots the top-tier choice for strategic real estate portfolio expansion."
+      }
     ]
   },
   "locationsSection": {
@@ -34,14 +61,56 @@
       "The surrounding areas are rapidly developing with planned commercial complexes, educational institutions, and healthcare facilities. Investors often look at Sector 92 because it offers a quieter residential environment while keeping urban necessities just a short drive away. This perfect balance enhances the value proposition of plots located here, securing robust capital appreciation over time."
     ],
     "locations": [
-      "Noida-Greater Noida Expressway Access",
-      "Proximity to established commercial sectors",
-      "Gautam Buddha University",
-      "Easy access to metro station extensions",
-      "Nearby planned institutional areas",
-      "Adjacent to existing Sector 135 and Sector 140",
-      "Upcoming retail and leisure destinations",
-      "Direct connectivity to proposed airport routes"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -51,30 +120,84 @@
       "Our focus is on delivering verified, RERA-compliant plots that minimize risk and maximize transparency. We provide end-to-end assistance from site visits to documentation, ensuring a stress-free purchase experience when securing your plot in Sector 92 Noida."
     ],
     "points": [
-      { "title": "High Capital Appreciation Potential", "description": "Sector 92 is in a growth phase, meaning current plot prices are competitive but poised for rapid appreciation as surrounding infrastructure matures. Early investment here secures your asset at lower acquisition costs, providing excellent long-term returns. Real estate analysts frequently highlight Sector 92 as a top performer for land investment growth in the next five years." },
-      { "title": "Unmatched Location Advantage", "description": "The sector offers superb connectivity via the Noida Expressway, making commuting to Delhi, Ghaziabad, and major corporate hubs seamless. This strategic location attracts professionals and business owners, ensuring strong demand for residential properties constructed on plots here. Location is the key driver for value when considering any plot for sale in Sector 92 Noida." },
-      { "title": "Freedom of Custom Construction", "description": "Unlike buying pre-built flats, owning a plot gives you complete control over design, materials, and construction timelines. Build a home that perfectly matches your aesthetic preferences and functional needs. This freedom allows for specialized features like vastu-compliant layouts or energy-efficient construction." },
-      { "title": "Verified and Clear Titles", "description": "We prioritize buyer security by exclusively listing plots with verified ownership documents, clear titles, and necessary government approvals. Our legal team ensures comprehensive due diligence, protecting you from future legal complexities and making the process of buying a plot in Sector 92 completely secure." },
-      { "title": "World-Class Infrastructure Planning", "description": "Sector 92 benefits from modern urban planning, including wide roads, organized utility connections, planned green spaces, and efficient sewage systems. This focus on structured development ensures a high quality of life and sustains the long-term desirability and value of the residential plots." },
-      { "title": "Proximity to Essential Amenities", "description": "The area is closely located near leading schools, multispecialty hospitals, shopping malls, and recreational centers. Everything you need is within a short driving distance, eliminating the need for long commutes for daily necessities and greatly improving the convenience of living in Sector 92 Noida." },
-      { "title": "Ideal for Self-Use and Investment", "description": "A plot in Sector 92 serves both purposes excellently. You can build your dream residence immediately, or hold the land as a future asset, benefiting from rental yield potential or capital gains upon sale. This versatility makes it a flexible and robust portfolio addition." },
-      { "title": "Favorable Financing Options Available", "description": "Given the clear documentation and RERA status of many developments, numerous leading banks and financial institutions offer attractive loan options for purchasing a plot in Sector 92. We can connect you with trusted financial advisors to streamline your loan application process quickly and efficiently." }
+      {
+        "title": "High Capital Appreciation Potential",
+        "description": "Sector 92 is in a growth phase, meaning current plot prices are competitive but poised for rapid appreciation as surrounding infrastructure matures. Early investment here secures your asset at lower acquisition costs, providing excellent long-term returns. Real estate analysts frequently highlight Sector 92 as a top performer for land investment growth in the next five years."
+      },
+      {
+        "title": "Unmatched Location Advantage",
+        "description": "The sector offers superb connectivity via the Noida Expressway, making commuting to Delhi, Ghaziabad, and major corporate hubs seamless. This strategic location attracts professionals and business owners, ensuring strong demand for residential properties constructed on plots here. Location is the key driver for value when considering any plot for sale in Sector 92 Noida."
+      },
+      {
+        "title": "Freedom of Custom Construction",
+        "description": "Unlike buying pre-built flats, owning a plot gives you complete control over design, materials, and construction timelines. Build a home that perfectly matches your aesthetic preferences and functional needs. This freedom allows for specialized features like vastu-compliant layouts or energy-efficient construction."
+      },
+      {
+        "title": "Verified and Clear Titles",
+        "description": "We prioritize buyer security by exclusively listing plots with verified ownership documents, clear titles, and necessary government approvals. Our legal team ensures comprehensive due diligence, protecting you from future legal complexities and making the process of buying a plot in Sector 92 completely secure."
+      },
+      {
+        "title": "World-Class Infrastructure Planning",
+        "description": "Sector 92 benefits from modern urban planning, including wide roads, organized utility connections, planned green spaces, and efficient sewage systems. This focus on structured development ensures a high quality of life and sustains the long-term desirability and value of the residential plots."
+      },
+      {
+        "title": "Proximity to Essential Amenities",
+        "description": "The area is closely located near leading schools, multispecialty hospitals, shopping malls, and recreational centers. Everything you need is within a short driving distance, eliminating the need for long commutes for daily necessities and greatly improving the convenience of living in Sector 92 Noida."
+      },
+      {
+        "title": "Ideal for Self-Use and Investment",
+        "description": "A plot in Sector 92 serves both purposes excellently. You can build your dream residence immediately, or hold the land as a future asset, benefiting from rental yield potential or capital gains upon sale. This versatility makes it a flexible and robust portfolio addition."
+      },
+      {
+        "title": "Favorable Financing Options Available",
+        "description": "Given the clear documentation and RERA status of many developments, numerous leading banks and financial institutions offer attractive loan options for purchasing a plot in Sector 92. We can connect you with trusted financial advisors to streamline your loan application process quickly and efficiently."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Buying a Plot For Sale in Sector 92 Noida",
     "description": "Get detailed answers to the most common queries regarding legal requirements, investment potential, and development status of residential plots in Sector 92.",
     "faqs": [
-      { "question": "What is the typical price range for a residential plot in Sector 92 Noida", "answer": "The price of a plot for sale in Sector 92 Noida largely depends on the size, precise location within the sector, and whether the plot is part of a gated community or a standalone area. Generally, prices start at a specific base rate for smaller plots (4 Marla) and increase significantly for premium, larger parcels (12-14 Marla). Factors like road width access, facing direction (e.g., park or corner plot), and proximity to the main road also impact the final valuation. We recommend consulting our specialists for the latest price list based on your specific requirements." },
-      { "question": "Are the plots in Sector 92 freehold or leasehold properties and what approvals are needed", "answer": "Most residential plots offered in Sector 92 are generally provided on a leasehold basis, typically for a period of 99 years, though specific terms can vary based on the developer or authority scheme. Necessary approvals usually include clearance from the Noida Authority and ensuring the plot adheres to established FAR (Floor Area Ratio) norms before construction begins. Always ensure the developer has RERA registration and clear title deeds verified by a legal expert before finalizing the purchase." },
-      { "question": "What construction guidelines must I follow after buying a plot in Sector 92", "answer": "Once you own a plot in Sector 92, construction must strictly adhere to the zoning laws and building bylaws set by the Noida Authority. This includes limits on the height of the building, the maximum percentage of the plot that can be covered (ground coverage), and the mandatory setbacks from property lines. Failure to comply can result in demolition orders or heavy penalties. Our team provides detailed guidance on the permissible FAR and necessary construction permissions to ensure compliance." },
-      { "question": "Is Sector 92 considered a high-growth area for real estate investment in Noida", "answer": "Yes, Sector 92 is prominently featured as a high-growth corridor in the Noida real estate map. Its strategic placement near major expressways and the ongoing development of social and commercial infrastructure contribute heavily to rising property values. The transition from developing area to established residential hub ensures that investors buying a plot for sale in Sector 92 today are well-positioned for strong capital appreciation over the next few years." },
-      { "question": "How do I verify the authenticity and legal status of a plot for sale in Sector 92", "answer": "Verifying authenticity involves several critical steps. Firstly, check the title deed and ownership documents. Secondly, ensure the plot is free from all encumbrances and outstanding dues. Thirdly, confirm that the project or individual plot is duly approved by the relevant governmental authority, like the Noida Authority, and if applicable, RERA. We facilitate a transparent process by providing all necessary documents and engaging reputable legal counsel for thorough verification." },
-      { "question": "Can Non-Resident Indians NRI purchase plots in Sector 92 Noida", "answer": "Yes, Non-Resident Indians are legally permitted to purchase residential and commercial properties, including plots, in Sector 92 Noida, provided they adhere to the regulations set forth by the Foreign Exchange Management Act FEMA. The payment for the plot typically needs to be made through NRE or NRO accounts. NRIs should ensure all documentation is handled correctly to comply with Indian tax laws and repatriation rules." },
-      { "question": "What amenities are typically available in the vicinity of Sector 92 plots", "answer": "Sector 92 is rapidly integrating into the urban fabric of Noida, offering robust access to modern amenities. This includes well-developed internal roads, reliable water and electricity supply infrastructure, organized sewage disposal systems, and dedicated green belts. Furthermore, the area is close to established educational institutions, premium hospitals, and emerging shopping centers and entertainment hubs." },
-      { "question": "What are the common risks associated with buying land in a developing sector like Sector 92", "answer": "The risks in a developing area like Sector 92 are primarily related to project delays in external infrastructure (roads, connectivity) and sometimes title disputes if due diligence is skipped. Mitigating these risks requires working exclusively with reputable developers, ensuring all legal documents are verified by a lawyer specializing in Noida Authority properties, and checking the proposed timeline for public utility connections." },
-      { "question": "Is bank financing easily available for purchasing plots in Sector 92", "answer": "Yes, major national and private sector banks offer land loans for verified plots in Sector 92, especially if the plot is located within an approved project sanctioned by the development authority. The eligibility criteria usually involve a stable income proof and a clean credit history. Loan-to-Value ratios for plot purchases are typically lower than those for finished apartments, often covering 60% to 75% of the land value." },
-      { "question": "How far is Sector 92 from the Noida Expressway and central Noida hubs", "answer": "Sector 92 boasts excellent proximity to the Noida-Greater Noida Expressway, often just a few minutes drive, ensuring fast commuting. Access to central Noida hubs like Sector 18 or Sector 62 is quick and efficient via the expressway and well-maintained feeder roads, typically taking 20 to 30 minutes depending on the time of day and traffic conditions." }
+      {
+        "question": "What is the typical price range for a residential plot in Sector 92 Noida",
+        "answer": "The price of a plot for sale in Sector 92 Noida largely depends on the size, precise location within the sector, and whether the plot is part of a gated community or a standalone area. Generally, prices start at a specific base rate for smaller plots (4 Marla) and increase significantly for premium, larger parcels (12-14 Marla). Factors like road width access, facing direction (e.g., park or corner plot), and proximity to the main road also impact the final valuation. We recommend consulting our specialists for the latest price list based on your specific requirements."
+      },
+      {
+        "question": "Are the plots in Sector 92 freehold or leasehold properties and what approvals are needed",
+        "answer": "Most residential plots offered in Sector 92 are generally provided on a leasehold basis, typically for a period of 99 years, though specific terms can vary based on the developer or authority scheme. Necessary approvals usually include clearance from the Noida Authority and ensuring the plot adheres to established FAR (Floor Area Ratio) norms before construction begins. Always ensure the developer has RERA registration and clear title deeds verified by a legal expert before finalizing the purchase."
+      },
+      {
+        "question": "What construction guidelines must I follow after buying a plot in Sector 92",
+        "answer": "Once you own a plot in Sector 92, construction must strictly adhere to the zoning laws and building bylaws set by the Noida Authority. This includes limits on the height of the building, the maximum percentage of the plot that can be covered (ground coverage), and the mandatory setbacks from property lines. Failure to comply can result in demolition orders or heavy penalties. Our team provides detailed guidance on the permissible FAR and necessary construction permissions to ensure compliance."
+      },
+      {
+        "question": "Is Sector 92 considered a high-growth area for real estate investment in Noida",
+        "answer": "Yes, Sector 92 is prominently featured as a high-growth corridor in the Noida real estate map. Its strategic placement near major expressways and the ongoing development of social and commercial infrastructure contribute heavily to rising property values. The transition from developing area to established residential hub ensures that investors buying a plot for sale in Sector 92 today are well-positioned for strong capital appreciation over the next few years."
+      },
+      {
+        "question": "How do I verify the authenticity and legal status of a plot for sale in Sector 92",
+        "answer": "Verifying authenticity involves several critical steps. Firstly, check the title deed and ownership documents. Secondly, ensure the plot is free from all encumbrances and outstanding dues. Thirdly, confirm that the project or individual plot is duly approved by the relevant governmental authority, like the Noida Authority, and if applicable, RERA. We facilitate a transparent process by providing all necessary documents and engaging reputable legal counsel for thorough verification."
+      },
+      {
+        "question": "Can Non-Resident Indians NRI purchase plots in Sector 92 Noida",
+        "answer": "Yes, Non-Resident Indians are legally permitted to purchase residential and commercial properties, including plots, in Sector 92 Noida, provided they adhere to the regulations set forth by the Foreign Exchange Management Act FEMA. The payment for the plot typically needs to be made through NRE or NRO accounts. NRIs should ensure all documentation is handled correctly to comply with Indian tax laws and repatriation rules."
+      },
+      {
+        "question": "What amenities are typically available in the vicinity of Sector 92 plots",
+        "answer": "Sector 92 is rapidly integrating into the urban fabric of Noida, offering robust access to modern amenities. This includes well-developed internal roads, reliable water and electricity supply infrastructure, organized sewage disposal systems, and dedicated green belts. Furthermore, the area is close to established educational institutions, premium hospitals, and emerging shopping centers and entertainment hubs."
+      },
+      {
+        "question": "What are the common risks associated with buying land in a developing sector like Sector 92",
+        "answer": "The risks in a developing area like Sector 92 are primarily related to project delays in external infrastructure (roads, connectivity) and sometimes title disputes if due diligence is skipped. Mitigating these risks requires working exclusively with reputable developers, ensuring all legal documents are verified by a lawyer specializing in Noida Authority properties, and checking the proposed timeline for public utility connections."
+      },
+      {
+        "question": "Is bank financing easily available for purchasing plots in Sector 92",
+        "answer": "Yes, major national and private sector banks offer land loans for verified plots in Sector 92, especially if the plot is located within an approved project sanctioned by the development authority. The eligibility criteria usually involve a stable income proof and a clean credit history. Loan-to-Value ratios for plot purchases are typically lower than those for finished apartments, often covering 60% to 75% of the land value."
+      },
+      {
+        "question": "How far is Sector 92 from the Noida Expressway and central Noida hubs",
+        "answer": "Sector 92 boasts excellent proximity to the Noida-Greater Noida Expressway, often just a few minutes drive, ensuring fast commuting. Access to central Noida hubs like Sector 18 or Sector 62 is quick and efficient via the expressway and well-maintained feeder roads, typically taking 20 to 30 minutes depending on the time of day and traffic conditions."
+      }
     ]
   },
   "contactSection": {
@@ -83,6 +206,11 @@
       "Ready to invest in premium land in Sector 92 Noida? Our specialized real estate consultants possess intimate knowledge of the local market trends, pricing strategies, and legal requirements. We are here to provide tailored advice and exclusive listings that match your financial and spatial needs.",
       "Fill out the form below to receive a personalized portfolio of verified plots, arrange a site visit, or discuss financing options. Take the decisive step towards securing your valuable asset today."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }
