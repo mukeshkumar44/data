@@ -3,61 +3,127 @@ import path from "path";
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
 // ⚠️ Direct API key (local use only)
-const GEMINI_API_KEY ="";
+const GEMINI_API_KEY = "";
 const DAILY_LIMIT = 20; // free tier safe
 let generatedToday = 0;
 const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
 const model = genAI.getGenerativeModel({
-   model: "gemini-flash-latest"
+  model: "gemini-flash-latest"
 });
 
 // ✅ ONLY LOCATION ARRAY (yahin bas locations add karni hain)
 const locations = [
-
-  
- 
-  
-  // "Sector 34",
-  // "Mithapur",
-  // "Parshuram Nagar",
-  // "Barnala Road",
-  // "Dhulkot",
-  // "Kesari Village",
-  // "Patti Mehar",
-  // "Ambala Chandigarh Expressway",
-  // "Manav Chowk",
-  // "Jasmeet Nagar",
-  // "Ram Nagar",
-  // "Sherpur Village",
-  // "Ram Bagh",
-  // "Circular Road",
-  // "Old Town",
-  // "Devi Nagar",
-  // "Sector 10",
-  // "Jaggi Colony",
-  // "Babyal",
-  // "Balana",
-  "Mahavir Nagar",
-  "Narain Garh",
-  "Ghel",
-  "Aliyaspur",
-  "Kallerheri",
-  "Model Town",
-  "Preet Nagar",
-  "Sector 8",
-  "Rana Bagh",
-  "Alipur Village",
-  "Jalbera Road",
-  "Sector 9",
-  "RK Puram",
-  "Laxmi Nagar"
- 
- 
-
-  
+  // "Sector 86",
+  // "Sector 92",
+  // "Sector 37D",
+  // "Sector 82",
+  // "Sector 81",
+  // "Sector 91",
+  // "Sector 77",
+  // "Sector 85",
+  // "Sector 109",
+  // "Sector 50",
+  // "Sector 67",
+  // "Sector 42",
+  // "Sector 39",
+  // "South City 1",
+  // "Sector 110",
+  // "Sector 114",
+  // "Sector 56",
+  // "Sector 57",
+  // "Sector 53",
+  // "Sector 55",
+  // "Palam Vihar",
+  // "Sector 105",
+  // "Sector 63A",
+  // "DLF Phase 1",
+  // "Sector 23",
+  // "Sector 41",
+  // "Sector 8",
+  // "Sector 65",
+  // "Sushant Lok Phase 2",
+  // "Ashok Vihar",
+  // "Sector 102",
+  // "Chandan Vihar",
+  // "Sector 30",
+  // "Sector 108",
+  // "Sector 43",
+  // "Sadar Bazar",
+  // "Ashok Vihar Phase 2",
+  // "Sector 33",
+  // "Sector 63",
+  // "Sector 7",
+  // "Sector 14",
+  // "Sector 3",
+  // "Sector 99",
+  // "Sector 111",
+  // "Sector 112",
+  // "Sector 88",
+  // "DLF Phase 3",
+  // "Sector 51",
+  // "Sector 10A",
+  // "Sector 76",
+  // "Sector 95",
+  // "DLF Phase 2",
+  // "Manesar",
+  // "Sector 80",
+  // "Sector 25",
+  // "Sector 68",
+  // "Sector 103",
+  // "DLF Phase 5",
+  // "Sector 1",
+  // "Sector 19",
+  // "Sector 78",
+  // "Sector 49",
+  // "Sector 48",
+  // "Sector 66",
+  // "Sector 93",
+  // "Sector 11",
+  // "Sector 107",
+  // "Sector 69",
+  // "Golf Course Road",
+  // "Udyog Vihar",
+  // "Sector 58",
+  // "Sector 28",
+  // "Palam Vihar Extension",
+  // "Palam Vihar Pocket H",
+  // "Sector 61",
+  // "Sector 67A",
+  // "Sushant Lok Phase 1",
+  // "New Palam Vihar",
+  // "Rajendra Park",
+  // "Sector 83",
+  // "Sector 84",
+  // "Sector 89",
+  // "DLF Phase 4",
+  // "Sector 90",
+  // "Sector 2",
+  // "Sector 59",
+  // "Sector 60",
+  // "Sector 26",
+  // "Sector 45",
+  // "South City 2",
+  // "Sector 94",
+  // "Sector 6",
+  // "Sector 62",
+  // "Sector 54",
+  // "Sector 31",
+  // "Sector 113",
+  // "Sector 87",
+  // "Sushant Lok Phase 3",
+  // "Sector 38",
+  // "Sector 106",
+  // "New Gurgaon",
+  // "MG Road",
+  "Civil Lines",
+  "Sohna Road",
+  "Sector 47",
+  "Sector 46",
+  "Sector 3A"
 ]
 
-;
+
+  ;
 const limitedLocations = locations.slice(0, DAILY_LIMIT);
 
 
@@ -76,7 +142,7 @@ Generate FULL webpage content in STRICT JSON ONLY.
 No explanation. No markdown.
 
 LOCATION: ${location}
-PRIMARY KEYWORD: Commercial Property in ${location}
+PRIMARY KEYWORD: Shop For Sale in ${location}
 
 CONTENT RULES:
 - Copywriting style
@@ -89,14 +155,14 @@ CONTENT RULES:
 - This applies to ALL fields including:
 - title, heading, section titles, hero title, feature titles, FAQ questions
 - Example of BAD text: "Discover Perfect Plot Sizes: Smart Investment Options"
-- Example of GOOD text: "Perfect Plot Sizes for Residential Homes in Sector 13 Ambala"
-- When contextually appropriate, you may append "Ambala"er the location name
+- Example of GOOD text: "Perfect Plot Sizes for Residential Homes in Sector 38 Gurugram"
+- When contextually appropriate, you may append "Gurugram"er the location name
 - This is optional and should be used naturally for clarity and SEO
 - Especially allowed in headings, hero title, section titles, and descriptive content
-- Do NOT force "Ambala"every line or every field
+- Do NOT force "Gurugram"every line or every field
 - Example allowed usage
-  "3 BHK Flat for Sale in Sector 18 Ambala"
-  "Residential Living Options in Model Town Ambala"
+  "3 BHK Flat for Sale in Sector 18 Gurugram"
+  "Residential Living Options in South City 2 Gurugram"
 
 JSON STRUCTURE (must match exactly):
 
@@ -199,15 +265,15 @@ async function run() {
           text
         );
         // ✅ count successful generation
-generatedToday++;
+        generatedToday++;
 
-if (generatedToday >= DAILY_LIMIT) {
-  console.log("Daily limit reached. Stop script.");
-  process.exit(0);
-}
+        if (generatedToday >= DAILY_LIMIT) {
+          console.log("Daily limit reached. Stop script.");
+          process.exit(0);
+        }
 
         success = true;
-        await sleep(2000); // rate-limit safe
+        await sleep(1000); // rate-limit safe
       } catch (err) {
         console.error("Retrying...", err.message);
         await sleep(25000);
