@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-shop-sector-102.jpg",
-      "commercial-investment-gurugram.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "This area is surrounded by high-density residential developments providing a ready captive audience for retail ventures. Understanding the locational advantages including access roads metro linkages and established residential projects is vital for commercial success in this thriving Gurugram corridor."
     ],
     "locations": [
-      "Direct Access to Dwarka Expressway",
-      "Proximity to Proposed Metro Corridor Extension",
-      "Surrounded by High-End Residential Projects like Adani M2K Oyster Grande",
-      "Easy Commute to IGI Airport Delhi",
-      "Close to Major Educational and Healthcare Institutions",
-      "Well Connected to Sector 103 and Sector 104 Commercial Hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

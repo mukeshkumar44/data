@@ -7,12 +7,18 @@
       "We showcase curated commercial properties that guarantee high footfall essential for retail vitality. Investing here means capitalizing on the dense residential catchment area that surrounds Sector 81, translating directly into accelerated business growth and superior rental yields. Explore opportunities ranging from high-street retail setups to integrated commercial complexes designed to meet the sophisticated demands of modern investors and entrepreneurs. Start your journey toward securing a profitable commercial asset in this dynamic Gurugram hub."
     ],
     "buttons": [
-      { "label": "View Available Commercial Shops", "path": "/available-shops" },
-      { "label": "Request Detailed Price List", "path": "/contact" }
+      {
+        "label": "View Available Commercial Shops",
+        "path": "/available-shops"
+      },
+      {
+        "label": "Request Detailed Price List",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/sector81-shop-hero1.jpg",
-      "/images/sector81-shop-hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "This area has seen significant investment in road networks and civic infrastructure, making it a seamlessly connected destination. The high-quality urban planning ensures smooth traffic flow and excellent accessibility, both crucial factors for thriving commercial centers. Understanding these locational advantages is key to appreciating why commercial property here offers superior returns compared to other emerging pockets of the city."
     ],
     "locations": [
-      "Direct Access to Dwarka Expressway",
-      "Proximity to NH-48 Delhi-Jaipur Highway",
-      "Dense Residential Catchment Area of Sectors 81-85",
-      "Upcoming Rapid Metro Line Connectivity",
-      "Near Major Corporate and IT Parks",
-      "Well-Developed Civic and Social Infrastructure",
-      "Planned Expansion of Commercial Corridors",
-      "Established Presence of Reputable Developers"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -158,6 +206,11 @@
       "Ready to secure your prime Shop For Sale in Sector 81 Gurugram asset? Our dedicated team of commercial property specialists is here to provide personalized guidance, detailed site visits, and comprehensive financial consultations.",
       "Fill out the form below to receive exclusive property listings, the latest pricing information, and bespoke investment advice tailored to maximize your success in the Gurugram commercial market."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

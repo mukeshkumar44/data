@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "sector28_plot_view1.jpg",
-      "sector28_plot_layout.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Key infrastructure like premium international schools, world-class hospitals such as Max and Artemis, and upscale shopping destinations like Galleria Market and Cyber Hub are merely minutes away, significantly enhancing the residential appeal. Furthermore, the Sikanderpur and HUDA City Centre Metro stations are within easy reach, offering effortless commuting throughout the NCR. This exceptional blend of established residential tranquility and modern urban convenience is rarely matched, guaranteeing sustained demand and excellent capital appreciation for plot owners here. Invest today in an area celebrated for its impeccable planning and undeniable strategic location within Gurugram."
     ],
     "locations": [
-      "DLF Golf Course Road",
-      "Sikanderpur Metro Station",
-      "DLF Phase 1",
-      "MG Road Gurgaon",
-      "Cyber Hub Business District",
-      "Galleria Market",
-      "Indira Gandhi International Airport",
-      "Max Hospital Gurugram"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

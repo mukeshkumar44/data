@@ -7,10 +7,19 @@
       "The availability of varied plot sizes caters to diverse needs, whether you are planning a sprawling family estate or a comfortable modern dwelling. Investing in a plot for sale in Sector 1 now means capitalising on the rapid infrastructural growth of Gurugram. Our expert team provides dedicated support, helping you navigate legal clearances and documentation necessary for acquiring your ideal piece of land. Do not miss this chance to own valuable real estate in one of the most promising sectors of Gurugram, securing your future home and financial stability."
     ],
     "buttons": [
-      { "label": "Explore Available Plots", "path": "/available-plots" },
-      { "label": "Request a Free Consultation", "path": "/contact" }
+      {
+        "label": "Explore Available Plots",
+        "path": "/available-plots"
+      },
+      {
+        "label": "Request a Free Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Best Dimensions for Your Dream Home with Plots For Sale in Sector 1",
@@ -52,14 +61,56 @@
       "The convenience of having top-tier educational institutions, world-class healthcare facilities, and vibrant retail centres just minutes away dramatically increases the lifestyle quotient and valuation of Sector 1 properties. Our listings often include plots near proposed green belts or upcoming metro extensions, offering an extra layer of investment security. This superior geographical placement makes every plot for sale in Sector 1 not just land, but a future-proof investment."
     ],
     "locations": [
-      "Proximity to NH-48 Delhi-Jaipur Highway",
-      "Easy access to Central Gurugram Business District",
-      "Nearby proposed rapid transit corridors",
-      "Developed residential Sectors 2 and 3 Gurugram",
-      "Close to major reputed International Schools",
-      "Near prominent hospitals and medical centers",
-      "Adjacency to commercial shopping complexes",
-      "Direct routes to the Indira Gandhi International Airport"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to invest in a premium plot for sale in Sector 1 Gurugram We are here to guide you through every step of the process. Contact us now to receive a curated list of properties that perfectly match your investment criteria and budgetary needs.",
       "Fill out the form below to schedule a private viewing or request a free, detailed market report on land valuation in Sector 1."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,10 +7,19 @@
       "Unlike buying an existing flat or builder floor purchasing a plot grants you complete freedom in design and construction guaranteeing maximum value appreciation over time. Our curated listings feature verified residential plots ensuring clear title deeds and hassle-free transactions. Explore various sizes ranging from compact spaces perfect for nuclear families to larger expansive plots ideal for multi-generational homes. Sector 7 offers a peaceful residential environment combined with rapid urban access making it the ultimate destination for building your future residence in Gurugram."
     ],
     "buttons": [
-      { "label": "Explore Verified Plots", "path": "/listings" },
-      { "label": "Download Plot Rate Card", "path": "/contact" }
+      {
+        "label": "Explore Verified Plots",
+        "path": "/listings"
+      },
+      {
+        "label": "Download Plot Rate Card",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Perfect Plot Sizes for Residential Homes in Sector 7 Gurugram Investment Opportunities",
@@ -52,12 +61,56 @@
       "Whether you are seeking proximity to business centers major hospitals or top educational institutions our comprehensive portfolio includes verified plots and properties across the most desirable locations near Sector 7 ensuring you make a well-informed decision based on convenience accessibility and future growth prospects."
     ],
     "locations": [
-      "Plot For Sale in Sector 5 Gurugram",
-      "Residential Plots Near Civil Lines Gurugram",
-      "Plot Investment in Sector 12 Gurugram",
-      "Land for Sale Near Railway Station Gurugram",
-      "Plot For Sale in Sector 10 Gurugram",
-      "Property Investment in New Colony Gurugram"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to take the next step towards owning a premium Plot For Sale in Sector 7 Gurugram Our team of real estate professionals specializes in this location and possesses deep market knowledge.",
       "Fill out the form below to receive personalized assistance exclusive verified listings and a detailed comparative analysis tailored to your specific investment requirements. We ensure a transparent and efficient buying experience."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

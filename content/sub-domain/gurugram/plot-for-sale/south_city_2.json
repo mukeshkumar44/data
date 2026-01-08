@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "plot_south_city_2_1.jpg",
-      "plot_south_city_2_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,13 +61,56 @@
       "The township is self-sufficient with established civic infrastructure including top schools hospitals and major retail outlets located just minutes away. This mature social infrastructure eliminates the need for long commutes for daily necessities enhancing the quality of life dramatically. When you invest here you are not just buying land you are securing a position within an integrated and flourishing community ensuring convenience and investment security."
     ],
     "locations": [
-      "Proximity to NH 48",
-      "Easy access to Golf Course Extension Road",
-      "Near Sector 49 Commercial Hub",
-      "Close to Medicity Hospitals",
-      "Walking distance to major retail malls",
-      "Direct link to Sohna Road and SPR",
-      "Established residential blocks within the society"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "plot_sector87_aerial.jpg",
-      "sector87_development.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,13 +61,56 @@
       "Key infrastructure highlights include close proximity to the Dwarka Expressway (NH 248-BB) which significantly cuts down travel time to Delhi International Airport (IGI) and key sectors like 83, 84, and 90. Furthermore the sector benefits from developed social infrastructure including reputed schools, hospitals, and high-street retail destinations located just minutes away making it a self-sufficient and highly desirable residential address."
     ],
     "locations": [
-      "Dwarka Expressway (5 minutes drive)",
-      "National Highway NH 48 (10 minutes drive)",
-      "Manesar Industrial Area (15 minutes access)",
-      "Sector 83 and 84 Commercial Hubs",
-      "Proposed Metro Corridor Expansion",
-      "Multi-Specialty Hospitals and Clinics",
-      "Premium International Schools and Universities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

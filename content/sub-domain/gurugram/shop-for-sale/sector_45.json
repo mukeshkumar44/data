@@ -7,10 +7,19 @@
       "We list verified and premium shop spaces ranging from compact storefronts ideal for specialized services to large retail outlets in modern commercial complexes. Investing in a prime shop for sale in Sector 45 Gurugram guarantees high visibility stable rental income and excellent capital appreciation making it the ideal choice for serious investors and ambitious entrepreneurs alike. Start exploring our exclusive inventory now and capitalize on Gurugram’s retail boom."
     ],
     "buttons": [
-      { "label": "Explore Verified Retail Listings", "path": "/listings/shops" },
-      { "label": "Get Commercial Investment Advice", "path": "/contact" }
+      {
+        "label": "Explore Verified Retail Listings",
+        "path": "/listings/shops"
+      },
+      {
+        "label": "Get Commercial Investment Advice",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero-shop-sector45-1.webp", "/images/hero-shop-sector45-2.webp"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Commercial Options for Shops For Sale in Sector 45 Gurugram",
@@ -52,13 +61,56 @@
       "The proximity to NH-48 and the established Golf Course Extension Road corridor makes this location highly desirable for retailers seeking strong consumer density and ease of access for logistics. Our experts provide detailed catchment analysis for each listing ensuring you invest where the retail traffic is guaranteed to thrive."
     ],
     "locations": [
-      "Near Huda City Centre Metro Station",
-      "Proximity to Sushant Lok Phase 1",
-      "Direct Link to NH-48 Delhi-Jaipur Expressway",
-      "Easy Access to Sector 44 Commercial Hub",
-      "Retail Centers Serving South City 1",
-      "Near Signature Tower Junction Market",
-      "Connecting Road to Sector 43 Gurugram"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -154,6 +206,11 @@
       "Ready to secure your high-return Shop For Sale in Sector 45 Gurugram We provide tailored investment strategies and access to exclusive off-market commercial inventory.",
       "Reach out to our dedicated team for a personalized consultation regarding investment potential legal documentation and market trends in this premium retail zone."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

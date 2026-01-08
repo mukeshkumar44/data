@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Premium Commercial Shop Options Available in Sector 6 Gurugram for Immediate Investment",
@@ -58,11 +61,56 @@
       "Finding the right shop for sale here means tapping into a dedicated consumer base that resides within walking distance or a short commute. Unlike newer developing areas Sector 6 offers immediate commercial viability with established utilities robust security protocols and existing market credibility. This stability minimizes operational risks and maximizes the potential for early profitability. We focus on commercial properties that offer long lease potential and strong capital appreciation projections making your investment in a Shop For Sale in Sector 6 both safe and highly lucrative."
     ],
     "locations": [
-      "Palam Vihar Extension",
-      "Sector 5 Residential Areas",
-      "Proximity to Dwarka Expressway",
-      "Easy access to Old Gurgaon Road",
-      "Connecting road to National Highway 48"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

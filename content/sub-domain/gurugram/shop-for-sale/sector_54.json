@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-shop-sector54-1.jpg",
-      "hero-shop-sector54-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "This unparalleled accessibility is a fundamental driver for the success of any commercial establishment here. When you acquire a Shop For Sale in Sector 54 Gurugram, you benefit from being close to major residential complexes like DLF Park Place and Palm Springs, guaranteeing high local consumption and consistent footfall. This location serves as a primary retail hub for the entire Golf Course Extension area, maximizing return on investment for savvy property owners."
     ],
     "locations": [
-      "Golf Course Road",
-      "Rapid Metro Station Sector 54",
-      "IFFCO Chowk Accessibility",
-      "DLF Cyber Hub Proximity",
-      "Sector 55/56 Residential Catchment",
-      "Sohna Road Connectivity",
-      "Major Corporate Towers Nearby",
-      "Easy Access to NH-48"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

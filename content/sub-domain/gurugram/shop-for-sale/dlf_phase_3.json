@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "dlf-phase3-commercial-hero1.jpg",
-      "dlf-phase3-commercial-hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "Connectivity in DLF Phase 3 is unparalleled with immediate access to multiple Rapid Metro stations including Phase 3 and Sikanderpur along with proximity to the NH-48 which makes the location effortlessly accessible from Delhi and other key areas of Gurugram. Our specialized expertise allows us to identify shops situated specifically in high-growth corridors within Phase 3 targeting those areas that benefit most from planned development projects new corporate relocations and infrastructure enhancements. This strategic selection process ensures that your investment in a shop for sale is placed in an area where sustained commercial demand consistently surpasses available supply ensuring exceptional long-term capital gains."
     ],
     "locations": [
-      "Near Cyber Hub Access Points",
-      "DLF Phase 3 Rapid Metro Stations",
-      "Adjacent to Belvedere Towers Residential",
-      "Commercial Complexes within Phase 3",
-      "Near NH-48 Expressway Exits",
-      "Corporate Office Proximity Zones"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,10 +7,19 @@
       "Finding the ideal commercial property requires local expertise and deep market insight. Our exclusive listings for shop for sale in Sector 3 are thoroughly verified, competitively priced, and often ready for immediate occupation or rental income generation. Whether you are launching a new brand, expanding an existing chain, or seeking reliable capital appreciation, Sector 3 provides the perfect commercial foundation. Explore high-return opportunities and allow our specialists to guide you toward a profitable investment decision in this highly sought-after locale."
     ],
     "buttons": [
-      { "label": "View Available Retail Units", "path": "/search/shops/sector-3" },
-      { "label": "Schedule an Expert Consultation", "path": "/contact" }
+      {
+        "label": "View Available Retail Units",
+        "path": "/search/shops/sector-3"
+      },
+      {
+        "label": "Schedule an Expert Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_shop_sector3_1.jpg", "hero_map_sector3.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Commercial Shop Inventory For Investment in Sector 3 Gurugram",
@@ -52,12 +61,56 @@
       "Reviewing adjacent commercial areas helps investors benchmark pricing, analyze competitive landscapes, and project the long-term appreciation potential of their shop in Sector 3. These nearby sectors further solidify Sector 3's position as a centrally located and highly desirable commercial hub within Gurugram."
     ],
     "locations": [
-      "Sector 4 Commercial Market",
-      "Palam Vihar Extension Retail Hub",
-      "Sector 5 Institutional Area",
-      "Railway Road Commercial Strip",
-      "Old Delhi Road Access Points",
-      "NH-48 Connectivity Zones"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to explore exclusive shops for sale in Sector 3 Gurugram or need tailored investment advice We are here to provide personalized guidance, detailed property tours, and market analysis.",
       "Fill out the form below to initiate your successful commercial investment journey in one of Gurugram's most sought-after retail locations."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

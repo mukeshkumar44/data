@@ -7,10 +7,19 @@
       "We present carefully curated commercial properties and shops for sale that meet stringent criteria for location visibility and growth potential. Whether you seek a small kiosk space perfect for quick service or a large anchor store location with maximum brand exposure, Sector 59 offers the ideal commercial mix. Leverage the immense demographic advantage and secure your asset today before prices escalate further."
     ],
     "buttons": [
-      { "label": "View All Retail Listings", "path": "/listings/sector-59" },
-      { "label": "Request Commercial Brochure", "path": "/contact" }
+      {
+        "label": "View All Retail Listings",
+        "path": "/listings/sector-59"
+      },
+      {
+        "label": "Request Commercial Brochure",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Shop For Sale Options in Sector 59 Gurugram",
@@ -52,12 +61,56 @@
       "The strategic location near the Golf Course Extension Road ensures quick access to key business districts and major highways like the NH-48. This excellent accessibility not only draws local residents but also attracts commuters and professionals, amplifying the business potential of every shop for sale in Sector 59."
     ],
     "locations": [
-      "Golf Course Extension Road Access",
-      "Proximity to Sector 60 and Sector 62",
-      "Major Residential Societies like Ireo Grand Arch",
-      "Easy Drive to Rapid Metro Stations",
-      "Connectivity to Sohna Road",
-      "Surrounded by Premium Schools and Hospitals"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

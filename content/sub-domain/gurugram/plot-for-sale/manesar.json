@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Finding the Perfect Plot Size Residential Options and Investment Opportunities in Manesar",
@@ -58,13 +61,56 @@
       "We focus on areas that offer immediate connectivity to NH 48 and the upcoming industrial corridors, ensuring short commute times and easy access to Gurugram's educational institutions and healthcare facilities. Locations near established residential complexes and commercial markets tend to appreciate faster, offering a secure environment for families. We provide detailed information on plot availability across various authorized sectors, highlighting the specific regulatory framework and future development plans unique to each area. Investing here means participating in the systematic development of one of Gurugram's fastest-growing regions."
     ],
     "locations": [
-      "Sector 1 Manesar",
-      "Sector 8 Manesar Industrial Model Township",
-      "Sector 3 Manesar Residential Area",
-      "Near KMP Expressway Junction",
-      "IMT Manesar Extension Plots",
-      "Pataudi Road Connectivity Zone",
-      "Plot near Kundli-Manesar-Palwal Expressway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero_plot_sector31_1.jpg",
-      "hero_plot_sector31_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Residents benefit from immediate access to the NH-48 Delhi-Jaipur Highway ensuring rapid transit to Indira Gandhi International Airport and central Delhi. The sector is surrounded by institutional areas retail markets and corporate offices minimizing daily commute times. Furthermore the excellent public transport linkages including the HUDA City Centre Metro Station nearby enhance its status as a preferred living destination offering comfort and convenience."
     ],
     "locations": [
-      "NH-48 Delhi-Jaipur Highway",
-      "HUDA City Centre Metro Station",
-      "Medanta The Medicity Hospital",
-      "Signature Towers and Commercial Hubs",
-      "DLF Sector 30",
-      "Subhash Chowk",
-      "Good Earth City Centre Mall",
-      "Sector 32 Institutional Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

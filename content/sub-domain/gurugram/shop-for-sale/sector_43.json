@@ -7,10 +7,19 @@
       "We present a curated selection of commercial properties ranging from high-street retail shops and ground-floor anchor spaces to purpose-built commercial complex units. Our portfolio focuses on verified listings guaranteeing clear titles and investment security. Take advantage of the burgeoning consumer market in this established locality and secure a Shop For Sale in Sector 43 Gurugram that promises maximum rental yield and capital appreciation. Your next successful venture starts here exploring the best commercial real estate available today."
     ],
     "buttons": [
-      { "label": "View Premium Shop Listings", "path": "/listings" },
-      { "label": "Request Commercial Investment Guide", "path": "/guide" }
+      {
+        "label": "View Premium Shop Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Commercial Investment Guide",
+        "path": "/guide"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Investment Segments for Shops For Sale in Sector 43 Gurugram",
@@ -52,14 +61,56 @@
       "The location’s strength lies in its connectivity to the Golf Course Road known for its luxury developments and rapid metro network ensuring ease of access for both employees and consumers. This unparalleled locational advantage is what makes commercial property here a safe and rewarding investment choice in the heart of Gurugram’s business corridor."
     ],
     "locations": [
-      "Golf Course Road",
-      "Sector 44 Commercial Hub",
-      "DLF Phase IV Galleria Market",
-      "Sushant Lok Phase I",
-      "HUDA City Centre Metro Station",
-      "M G Road Shopping Strip",
-      "Iffco Chowk Area",
-      "Rapid Metro Stations in Sector 43"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to explore the best commercial Shop For Sale in Sector 43 listings tailored to your specific investment criteria. Our experts offer unbiased advice detailed market reports and full transaction support.",
       "Fill out the form below to receive a personalized portfolio of verified high-yield commercial properties available exclusively through our network."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,10 +7,19 @@
       "Investing in a commercial shop here is not merely a purchase; it is a strategic move towards building generational wealth. Our curated portfolio includes ready-to-move units, pre-leased properties, and shell spaces across various sizes and configurations. We simplify the complex process of commercial real estate acquisition, providing transparent pricing and comprehensive legal due diligence, making your investment in a shop in Sector 30 both safe and supremely profitable."
     ],
     "buttons": [
-      { "label": "Explore Available Shops Now", "path": "/listings" },
-      { "label": "Request Expert Consultation", "path": "/contact" }
+      {
+        "label": "Explore Available Shops Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Expert Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero-shop-sector30-1.jpg", "/images/hero-shop-sector30-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Commercial Options for Every Investor Searching for Shop For Sale in Sector 30",
@@ -52,14 +61,56 @@
       "The connectivity infrastructure includes easy access to the Delhi-Gurugram Expressway (NH-48), placing it minutes away from both Delhi and the major corporate hubs of Cyber City and Udyog Vihar. Furthermore, its proximity to established residential sectors ensures a reliable local customer base, minimizing reliance solely on transient traffic. This combination of infrastructural strength and demographic density makes Sector 30 a top-tier commercial investment zone."
     ],
     "locations": [
-      "Direct Access to NH-48 Expressway",
-      "Proximity to Huda City Centre Metro Station",
-      "Nearness to Sector 29 Entertainment Hub",
-      "Connectivity to Civil Lines and Old Gurugram",
-      "Easy Reach of Signature Towers and IFFCO Chowk",
-      "Adjacent to Major Residential Sectors 31 and 40",
-      "Well-Developed Internal Road Network",
-      "Close to Key Government Offices"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure a highly profitable Shop For Sale in Sector 30 Gurugram? Our expert team provides personalized assistance, market analysis, and access to exclusive off-market listings tailored precisely to your investment goals. Do not miss the opportunity to capitalize on one of Gurugram's most sought-after commercial addresses.",
       "Connect with us today for a private consultation where we can discuss pricing, return projections, and legal frameworks specific to your commercial real estate requirements."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

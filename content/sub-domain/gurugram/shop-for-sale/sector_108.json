@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "shop_sector108_exterior.jpg",
-      "sector108_retail_view.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Major residential catchments including societies in Sectors 109 107 and 106 are just minutes away ensuring a steady and affluent customer base for any retail venture. The region is already witnessing significant development of high-end commercial centers transforming it into a self-sufficient ecosystem. Investing in a shop here places you at the epicenter of future growth. The robust infrastructure plan ensures that your business will thrive in a high-growth environment providing maximum visibility and ease of operation for any Shop For Sale in Sector 108 Gurugram."
     ],
     "locations": [
-      "Dwarka Expressway Access Points",
-      "Sector 109 Commercial Zone",
-      "Proximity to IGI Airport Delhi",
-      "Central Peripheral Road CPR Connectivity",
-      "Upcoming Metro Corridor Stations",
-      "Residential Hubs of Sectors 106 and 107",
-      "Easy Drive to Cyber City Gurugram",
-      "Kherki Daula Toll Plaza Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -16,7 +16,10 @@
         "path": "/investment-guide"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Configurations of Shops Available for Investment in Sector 99 Gurugram",
@@ -58,12 +61,56 @@
       "Connectivity is seamless with direct access to central Gurugram Dwarka and the Indira Gandhi International Airport making it attractive for both local shoppers and regional businesses. Furthermore the sector benefits from planned infrastructure upgrades including proposed metro connectivity which will exponentially increase footfall and accessibility in the coming years. Choosing a Shop For Sale in Sector 99 means aligning your investment with high-growth infrastructure and guaranteed consumer demand driven by the influx of thousands of new residents. This is where commercial success is engineered through superior location planning and urban integration unmatched by other sectors."
     ],
     "locations": [
-      "Direct Access to Dwarka Expressway",
-      "Prime Location on CPR Central Peripheral Road",
-      "Minutes from Proposed Metro Station Link",
-      "Seamless Connectivity to NH-48",
-      "Surrounded by High-Density Residential Catchment",
-      "Rapid Commute Time to IGI Airport Delhi"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

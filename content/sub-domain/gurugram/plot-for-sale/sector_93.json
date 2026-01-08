@@ -7,12 +7,18 @@
       "Explore a curated selection of residential and commercial plots tailored to meet diverse requirements and investment budgets. We offer fully developed land parcels within secure, gated communities that ensure essential infrastructure like roads water supply and electricity are already in place. Investing in a plot for sale in Sector 93 today guarantees significant capital appreciation as the region continues its aggressive infrastructural development towards becoming a prime area of New Gurugram."
     ],
     "buttons": [
-      { "label": "Explore Available Plots Now", "path": "/available-plots" },
-      { "label": "Download Price List", "path": "/price-list" }
+      {
+        "label": "Explore Available Plots Now",
+        "path": "/available-plots"
+      },
+      {
+        "label": "Download Price List",
+        "path": "/price-list"
+      }
     ],
     "images": [
-      "plot-sector93-aerial.jpg",
-      "residential-land-gurugram.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The location ensures swift access to the bustling commercial hubs of Gurugram the burgeoning social infrastructure along the Dwarka Expressway and essential amenities like top-tier schools hospitals and shopping malls. Investing in a plot for sale in Sector 93 is not just buying land it is buying into a future of convenience and rapid appreciation based on superior regional planning and connectivity."
     ],
     "locations": [
-      "Direct access to Dwarka Expressway",
-      "Proximity to National Highway 48 NH-48",
-      "Easy commute to Manesar Industrial Area",
-      "Close to major upcoming Metro stations",
-      "Well-developed internal sector roads",
-      "Immediate vicinity of Sector 88 and Sector 92",
-      "Quick access to KMP Expressway",
-      "Near IMT Manesar and Industrial Zones"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

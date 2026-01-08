@@ -7,10 +7,19 @@
       "Do not miss the chance to capitalize on this high-growth corridor that promises superior capital appreciation. We offer meticulously selected commercial properties, ranging from compact retail units ideal for essential services to large showrooms perfect for established brands. Explore our vetted listings that guarantee excellent visibility, strong rental yields, and sustained appreciation. Let our expert team help you find the ideal shop in Udyog Vihar that perfectly matches your immediate operational needs and long-term investment goals."
     ],
     "buttons": [
-      { "label": "View Premium Commercial Listings", "path": "/listings" },
-      { "label": "Request Detailed Investment Report", "path": "/contact" }
+      {
+        "label": "View Premium Commercial Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Detailed Investment Report",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero-udyog-vihar-shop-1.jpg", "hero-udyog-vihar-shop-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Perfect Commercial Shop Sizes and Retail Configurations Available in Udyog Vihar",
@@ -52,14 +61,56 @@
       "We provide detailed comparative analysis, clearly outlining the capital appreciation rates, optimal tenant profiles, specific access routes, and overall investment potential across all prominent phases. Our listings also include commercial opportunities in adjacent high-traffic areas like Cyber City and NH-48 periphery that benefit directly from Udyog Vihar’s massive economic gravitational pull."
     ],
     "locations": [
-      "Udyog Vihar Phase 1 Commercial Shops",
-      "Udyog Vihar Phase 2 Retail Units",
-      "Udyog Vihar Phase 3 Showrooms",
-      "Udyog Vihar Phase 4 F&B Spaces",
-      "Udyog Vihar Phase 5 Industrial Support Retail",
-      "Cyber City Adjacent Commercial Spaces",
-      "NH-48 Service Lane Shops Gurugram",
-      "Dundahera Commercial Hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "We are here to simplify the often-complex process of securing a premium commercial property in Gurugram’s prime industrial belt. Our team offers unparalleled market insights and access to exclusive off-market listings that perfectly match your investment criteria.",
       "Whether you are looking for a ready-to-use retail unit for immediate occupancy or a high-potential long-term investment asset, our experts provide personalized counsel and data-driven recommendations. Start your journey towards owning a highly profitable shop for sale in Udyog Vihar now."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,10 +7,19 @@
       "The opportunity to acquire a spacious plot in Sector 42 is increasingly rare given its developed nature and high demand among elite homebuyers. Our expert team specializes in connecting serious buyers with verified and legally clear properties ensuring a smooth transaction from inquiry to possession. Whether you seek a compact 180 sq yard plot or a sprawling parcel for a luxury mansion Sector 42 provides the perfect canvas for your aspirations. Act now to capitalize on this elite residential market and secure your piece of Gurugram’s most exclusive real estate."
     ],
     "buttons": [
-      { "label": "View Available Plots", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View Available Plots",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_plot_42_1.jpg", "hero_plot_42_2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Premium Residential Plot Sizes and Investment Opportunities in Sector 42 Gurugram",
@@ -52,14 +61,56 @@
       "Beyond its immediate surroundings Sector 42 offers excellent access to the rapid metro network ensuring quick commutes across the city. The area benefits from superior town planning wide service roads and established security measures providing a highly desirable living environment for expatriates and top executives. Investing here means investing in established lifestyle amenities and guaranteed future growth."
     ],
     "locations": [
-      "Golf Course Road Proximity",
-      "Sector 43 Residential Hub",
-      "DLF Phase 5 Connectivity",
-      "Sushant Lok 1 Access",
-      "Rapid Metro Stations IFFCO Chowk Huda City Centre",
-      "Near South Point Mall and Galleria Market",
-      "Tricity Premier Schooling Corridor",
-      "Quick Access NH-48 and Faridabad Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "The finest plots in Sector 42 Gurugram rarely stay on the market for long. Initiate a confidential discussion with our senior property consultants today to access off-market opportunities and verified listings before they become widely available.",
       "We are committed to helping you navigate this high-value market ensuring your investment decision is informed secure and perfectly aligned with your financial and residential goals. Reach out now to start securing your premium plot."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

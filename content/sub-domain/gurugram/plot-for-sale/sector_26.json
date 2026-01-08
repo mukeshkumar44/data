@@ -7,10 +7,19 @@
       "Investing in a Plot For Sale in Sector 26 Gurugram means securing a piece of prime real estate in a rapidly developing area while still enjoying established infrastructure. This sector boasts proximity to major business hubs excellent schools world-class hospitals and seamless access to the Delhi-Jaipur Expressway NH-48. Explore our curated listings today and take the first step towards owning valuable property in the heart of the Millennium City."
     ],
     "buttons": [
-      { "label": "Explore Available Plots", "path": "/listings" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "Explore Available Plots",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_plot_1.jpg", "hero_sector26_map.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Finding the Ideal Plot Size for Your Dream Home in Sector 26 Gurugram",
@@ -52,14 +61,56 @@
       "The location benefits from excellent road networks proximity to major business districts like Cyber City and easy connection to Delhi via the expressway ensuring commuting is swift and effortless."
     ],
     "locations": [
-      "DLF Cyber City",
-      "NH-48 Delhi-Jaipur Expressway",
-      "IFFCO Chowk Metro Station",
-      "MG Road Retail Hub",
-      "Sector 27 Residential Area",
-      "Golf Course Road",
-      "Major Private Hospitals",
-      "Premium Schools and Universities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to invest in a prime piece of land in Sector 26 Gurugram Our dedicated real estate team specializes in luxury plots and off-market listings ensuring you get access to the best opportunities before anyone else.",
       "Fill out the form below to receive personalized consultation pricing details and a tailored portfolio of plots matching your size and budget requirements. Your perfect plot awaits."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

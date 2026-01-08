@@ -7,12 +7,18 @@
       "Discover the perfect canvas for your bespoke architectural vision. Plots for sale in South City 1 offer flexibility in size and location allowing you to choose land that perfectly aligns with your financial strategy and lifestyle requirements. We simplify the entire buying process from initial consultation and site visits to legal due diligence ensuring a smooth transparent transaction. Start your journey to land ownership in one of Gurugram's most sought-after addresses today."
     ],
     "buttons": [
-      { "label": "Explore Available Plots Now", "path": "/plots" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "Explore Available Plots Now",
+        "path": "/plots"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/hero-south-city-1-plot.jpg",
-      "/images/map-south-city-1.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The comprehensive social infrastructure surrounding the plots in South City 1 includes top-tier educational institutions world-class healthcare facilities and premium retail destinations like the Galleria Market and MGF Metropolitan Mall. Furthermore the sector is known for its green spaces maintained parks and secure environment providing a peaceful living experience despite being centrally located. This combination of superior location and mature infrastructure guarantees that any Plot For Sale in South City 1 Gurugram is a blue-chip investment opportunity providing immediate lifestyle benefits and guaranteed capital appreciation."
     ],
     "locations": [
-      "HUDA City Centre Metro Proximity",
-      "Immediate access to NH-48 Expressway",
-      "Sector 29 Entertainment Hub",
-      "Golf Course Road Extension Link",
-      "Near Signature Tower Crossing",
-      "Proximity to Medanta The Medicity",
-      "Close to Galleria Market",
-      "Direct Road to DLF Cyber City"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

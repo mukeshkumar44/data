@@ -7,12 +7,18 @@
       "We present a curated inventory of freehold and residential plots perfectly suited for building your dream home or for long-term capital growth. Plots here offer clean titles, approved development plans, and proximity to essential social infrastructure like reputed schools, hospitals, and bustling retail centers. Investing in land provides the ultimate freedom to design your property exactly how you envision it without being restricted by standardized builder layouts. Explore our listings and take the first step toward smart real estate ownership in this rapidly developing location."
     ],
     "buttons": [
-      { "label": "View Available Plots", "path": "/listings" },
-      { "label": "Request a Callback", "path": "/contact" }
+      {
+        "label": "View Available Plots",
+        "path": "/listings"
+      },
+      {
+        "label": "Request a Callback",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "plot-sector-89-hero-1.jpg",
-      "plot-sector-89-map-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "The location’s proximity to major highways ensures quick commutes, making it a preferred residential area for professionals working in Cyber City, IMT Manesar, and other major commercial districts. When considering a plot for sale in Sector 89, it is helpful to look at the overall ecosystem provided by the surrounding sectors."
     ],
     "locations": [
-      "Sector 88 Dwarka Expressway Connectivity",
-      "Sector 90 Planned Infrastructure",
-      "Sector 95 Affordable Investment Options",
-      "Sector 85 Proximity to NH 48",
-      "Pataudi Road Emerging Residential Corridor",
-      "Sohna Road Commercial Hub Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

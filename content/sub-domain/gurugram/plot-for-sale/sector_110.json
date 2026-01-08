@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/sector-110-plot-view-1.jpg",
-      "/images/sector-110-map.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Furthermore the rapid development of social infrastructure surrounding Sector 110 guarantees a high quality of life. Reputable schools healthcare facilities and high-end retail centers are either established or planned within a short radius. Buying a plot for sale in Sector 110 means investing not just in land but in a flourishing ecosystem poised for exponential growth making it a smart foundational choice for long-term residency and financial appreciation."
     ],
     "locations": [
-      "Direct proximity to Dwarka Expressway",
-      "Easy access to IGI Airport (30 mins drive)",
-      "Near major commercial sectors of New Gurugram",
-      "Close to established educational institutions",
-      "Excellent road network connecting to NH-48",
-      "Developing retail and entertainment zones nearby",
-      "Planned metro corridor connectivity enhancement",
-      "Proximity to proposed governmental infrastructure projects"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

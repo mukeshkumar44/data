@@ -7,10 +7,19 @@
       "Explore high-yield retail spaces ground floor showroom options and exclusive high street units specifically designed for modern businesses seeking competitive edges. If you are serious about securing a blue-chip commercial asset and achieving reliable rental income, now is the ideal time to acquire a shop in this highly sought-after sector. View our exclusive listings today and transform your portfolio with confidence and guaranteed success."
     ],
     "buttons": [
-      { "label": "Explore Premium Shop Listings", "path": "/listings" },
-      { "label": "Request Detailed Investment Report", "path": "/contact" }
+      {
+        "label": "Explore Premium Shop Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Detailed Investment Report",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_shop_sector42_1.jpg", "hero_shop_sector42_2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Diverse Commercial Investment Options Shop For Sale in Sector 42",
@@ -52,14 +61,56 @@
       "When you choose a shop for sale in Sector 42 Gurugram you are investing in future-proof connectivity and an established client base. Enjoy immediate proximity to major corporate headquarters premium housing societies and direct access to the Rapid Metro network stations. This concentration of affluent residential and corporate activity guarantees the long-term success and commercial stability of ventures housed within this premium Gurugram sector."
     ],
     "locations": [
-      "Direct Access to Golf Course Road",
-      "Near Rapid Metro Station Sector 42-43",
-      "Proximity to DLF Phase 5 Residential Hubs",
-      "Close to Major Corporate Towers and IT Parks",
-      "Easy Drive to NH-48 Delhi-Jaipur Expressway",
-      "Immediate Catchment Area of High-Net-Worth Individuals",
-      "Seamless Connectivity to Cyber City",
-      "Well-Developed Infrastructure and Road Network"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to invest in one of Gurugram's most lucrative commercial hubs The Sector 42 market offers exceptional growth potential and stable rental income. Our experts have access to off-market premium listings and detailed financial projections you won't find anywhere else.",
       "Reach out today to schedule a site visit and receive a personalized investment portfolio tailored to your specific commercial real estate goals. Start your journey to securing a profitable shop in Sector 42 now."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

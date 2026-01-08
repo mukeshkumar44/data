@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "sector-63-plot-hero-1.jpg",
-      "sector-63-plot-hero-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The rapid development of commercial hubs like Worldmark and high-end hospitals and schools nearby makes this location exceptionally appealing. Investing in a Plot For Sale in Sector 63 places you at the epicenter of Gurugram’s future growth ensuring that both your quality of life and your property's value remain high. Review the key nearby zones that enhance the appeal of this sector."
     ],
     "locations": [
-      "Golf Course Extension Road 2 minutes",
-      "Southern Peripheral Road SPR 5 minutes",
-      "Rapid Metro Stations Sector 55/56 10 minutes",
-      "Worldmark 65 Commercial Hub 7 minutes",
-      "DLF Cyber Hub 25 minutes",
-      "Indira Gandhi International Airport Delhi 40 minutes",
-      "Top Tier Hospitals Artemis Medanta 15 minutes",
-      "Major Educational Institutions DPS St Xaviers 10 minutes"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

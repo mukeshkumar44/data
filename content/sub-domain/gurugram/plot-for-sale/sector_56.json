@@ -7,10 +7,19 @@
       "Building your dream home starts with the perfect foundation. Our curated selection of residential plots in Sector 56 offers various sizes and orientations to match your specific vision and financial goals. We ensure clear titles, RERA compliance, and ready-to-build status so you can start planning your future immediately. Discover why Sector 56 Gurugram is the ideal place to secure your generational wealth and design a life of comfort and convenience."
     ],
     "buttons": [
-      { "label": "Explore Available Plots", "path": "/available-plots" },
-      { "label": "Download Location Guide", "path": "/download-guide" }
+      {
+        "label": "Explore Available Plots",
+        "path": "/available-plots"
+      },
+      {
+        "label": "Download Location Guide",
+        "path": "/download-guide"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Popular Plot Sizes Available When Looking For Plots For Sale in Sector 56",
@@ -52,12 +61,56 @@
       "The location’s strength is further enhanced by its proximity to the Sector 55-56 Metro Station on the Rapid Metro line offering seamless public transit options. This established infrastructure, coupled with nearby high-end retail markets and corporate offices, makes buying a Plot For Sale in Sector 56 a strategic move for quality of life and future growth."
     ],
     "locations": [
-      "Golf Course Road Gurugram",
-      "Sector 55-56 Rapid Metro Station",
-      "Ardee City Mall",
-      "Sohna Road Accessibility",
-      "HUDA Market Sector 56",
-      "St Xaviers High School"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to secure the best Plot For Sale in Sector 56 Gurugram Our team of dedicated real estate specialists possesses deep market knowledge and access to exclusive off-market listings.",
       "Get in touch now to arrange a site visit receive detailed documentation and receive personalized investment advice that aligns with your residential or financial goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

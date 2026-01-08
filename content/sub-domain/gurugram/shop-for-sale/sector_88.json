@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "shop-sector88-hero1.jpg",
-      "shop-sector88-hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The location’s strength is further amplified by its proximity to established and developing residential sectors providing a captive and affluent consumer base. These surrounding hubs directly influence the footfall and rental value of commercial shop space available in Sector 88 making this a prime investment target for those seeking assured growth."
     ],
     "locations": [
-      "Sector 83 Retail Complex",
-      "Sector 84 High Street Malls",
-      "Dwarka Expressway Access Points",
-      "Kherki Daula Toll Plaza Region",
-      "Upcoming Global City Development",
-      "NH-48 Connectivity Corridor",
-      "Manesar Industrial Area Proximity",
-      "Sector 89 Residential Clusters"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

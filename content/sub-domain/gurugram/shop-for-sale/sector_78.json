@@ -7,10 +7,19 @@
       "We offer a curated portfolio of commercial retail spaces, including high-street units, mall spaces, and specialized food court zones designed for lucrative returns. Investing in a shop here means partnering with growth, leveraging the influx of new high-net-worth residents, and securing a future-proof asset in one of Gurugram's fastest developing sectors. Start your journey toward owning an elite commercial property now."
     ],
     "buttons": [
-      { "label": "View Available Retail Listings", "path": "/listings" },
-      { "label": "Get Free Investment Consultation", "path": "/contact" }
+      {
+        "label": "View Available Retail Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Free Investment Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Investment Opportunities When Buying Retail Shops in Sector 78",
@@ -52,14 +61,56 @@
       "The rapid infrastructural development, including the completion of key road networks and proximity to multiple premium residential projects, cement Sector 78’s status as a premium investment destination. Buying a commercial shop here means capitalizing on a location poised for exponential growth over the next five to ten years."
     ],
     "locations": [
-      "Proximity to NH-48",
-      "Direct Access to Dwarka Expressway",
-      "Near Sector 79 High-End Residential Clusters",
-      "Close to Industrial and IT Hubs of Manesar",
-      "Well-connected to IMT Manesar",
-      "Easy Drive to KMP Expressway",
-      "Surrounded by Upcoming Group Housing Societies",
-      "Adjacent to Future Metro Corridor Extensions"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Connect with our expert commercial real estate advisors today. We provide personalized portfolio analysis, site visits, and detailed financial projections specific to the Sector 78 market. Unlock high-yield opportunities before the prices escalate.",
       "Submit your details below to receive exclusive property listings and detailed investment reports tailored exactly to your capital requirement and risk appetite."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

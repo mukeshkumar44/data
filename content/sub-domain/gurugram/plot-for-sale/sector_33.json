@@ -7,12 +7,18 @@
       "Sector 33 boasts robust infrastructure, excellent road connectivity to NH48 and key commercial hubs like Cyber City and Golf Course Extension Road. Whether you are looking for a compact 4 Marla plot for immediate construction or a spacious 14 Marla plot for a luxury villa, our curated listings feature verified properties that guarantee clear titles and smooth transaction processes. Don't miss this opportunity to acquire a valuable asset where property appreciation is consistently strong. Start searching for your perfect plot in Sector 33 Gurugram today and take the first step toward customized ownership."
     ],
     "buttons": [
-      { "label": "Explore Verified Plots Now", "path": "/listings" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "Explore Verified Plots Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/sector-33-plot-view.jpg",
-      "/images/gurugram-skyline.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The connectivity of Sector 33 is unrivaled. It sits close to the Delhi-Jaipur Expressway (NH48), providing swift access to central Delhi, Indira Gandhi International Airport (IGIA), and other major business districts like Manesar and Bhiwadi. Future infrastructure developments, including proposed metro extensions and internal road widening projects, further cement Sector 33 as a future-ready location. Investing here means investing in convenience and continuous growth."
     ],
     "locations": [
-      "Proximity to NH48 Delhi-Jaipur Expressway",
-      "Direct Road Link to Rajiv Chowk Gurugram",
-      "Easy Access to Sohna Road and SPR",
-      "Close to Major Educational Institutions like GD Goenka",
-      "Near IMT Manesar Industrial Hub",
-      "Rapid Commute to Gurugram Railway Station",
-      "Accessibility to Medanta The Medicity Hospital",
-      "Upcoming Retail and Commercial Centers nearby"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

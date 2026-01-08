@@ -7,10 +7,19 @@
       "Explore our curated selection of verified and fully legal residential Plot For Sale in Sector 76, ranging from compact family sizes to large acreage suitable for premium development and builder floors. We specialize in providing comprehensive documentation support, transparent transaction processes, and expert guidance tailored to first-time buyers and seasoned investors alike. Unlock the maximum potential of bespoke living right in the heart of New Gurugram’s dynamic landscape by partnering with us to find your perfect land asset today."
     ],
     "buttons": [
-      { "label": "View Verified Plot Listings", "path": "/listings" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "View Verified Plot Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Understanding Ideal Plot Sizes for Residential Investment in Sector 76 Gurugram",
@@ -52,14 +61,56 @@
       "The sector’s growth trajectory is tied to future infrastructure projects, including planned metro expansion and express road links, solidifying its status as a top investment destination for residential plots. Investing here means capitalizing on current infrastructural value while benefiting from guaranteed future enhancements."
     ],
     "locations": [
-      "Direct Access to Southern Peripheral Road SPR",
-      "Proximity to National Highway 48 NH48",
-      "Easy Drive to IMT Manesar Industrial Hub",
-      "Close to Key Proposed Metro Stations",
-      "Excellent Connectivity to Dwarka Expressway",
-      "Nearness to Top International Schools and Hospitals",
-      "Adjacent to Major Retail and Commercial Developments",
-      "Quick Access to Kherki Daula Toll Plaza"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to invest in the rapidly growing real estate landscape of New Gurugram? Our expert team specializes exclusively in verified Plot For Sale in Sector 76 and is ready to provide tailored advice based on your budget and investment goals. Do not miss this opportunity to acquire a prime land asset in a future-proof location.",
       "Submit your details below to receive a personalized portfolio of available plots, detailed price comparisons, and schedule a site visit at your convenience. We guarantee transparency and professional service from inquiry to registration."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

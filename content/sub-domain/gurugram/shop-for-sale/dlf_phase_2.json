@@ -7,10 +7,19 @@
       "Investing in commercial property here is not just a purchase it is a strategic move towards assured capital growth and exceptional rental yields. We offer curated listings of premium retail spaces and high-visibility shops designed to meet the demands of discerning investors and ambitious entrepreneurs. Explore our exclusive inventory today and find the perfect foundation for your next commercial success story in DLF Phase 2."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/listings" },
-      { "label": "Download Investment Guide", "path": "/guide" }
+      {
+        "label": "View Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Download Investment Guide",
+        "path": "/guide"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Shop For Sale Options Tailored For High Investment Returns in DLF Phase 2",
@@ -52,12 +61,56 @@
       "Our curated listings focus on areas within DLF Phase 2 and immediate surroundings that guarantee the highest consumer engagement. These spots benefit from excellent infrastructure including pedestrian-friendly zones ample parking and immediate access to the Rapid Metro system maximizing the viability of any retail or commercial operation. Understanding these micro-locations is essential to making a superior investment decision in DLF Phase 2."
     ],
     "locations": [
-      "DLF Phase 2 Central Market Hub",
-      "Proximity to Sikanderpur Metro Station",
-      "Shops Adjacent to Corporate Towers",
-      "Areas Influenced by Cyber Hub Traffic",
-      "Retail Pockets Near Residential Gates",
-      "Connectivity to MG Road Commercial Axis"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

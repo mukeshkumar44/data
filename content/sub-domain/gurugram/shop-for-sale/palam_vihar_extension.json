@@ -7,10 +7,19 @@
       "This area benefits from excellent connectivity stable infrastructure and a dense residential catchment guaranteeing consistent foot traffic for your business. We offer a curated selection of commercial units from small boutique spaces to larger anchor shops ideal for various ventures. Investing here means securing a strategic position in a developing locality with strong future appreciation potential. Explore our exclusive listings and take the first step towards establishing your successful commercial enterprise in Gurugram."
     ],
     "buttons": [
-      { "label": "Explore Available Shops", "path": "/shops-listings" },
-      { "label": "Request Investment Guide", "path": "/investment-guide" }
+      {
+        "label": "Explore Available Shops",
+        "path": "/shops-listings"
+      },
+      {
+        "label": "Request Investment Guide",
+        "path": "/investment-guide"
+      }
     ],
-    "images": ["/images/hero-shop-pve-1.jpg", "/images/hero-shop-pve-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Understanding the Different Commercial Shop Sizes and Investment Potential in Gurugram",
@@ -52,12 +61,56 @@
       "The area is characterized by robust social infrastructure including renowned schools hospitals and recreational facilities ensuring a constant flow of affluent local traffic. Unlike congested core areas of Gurugram Palam Vihar Extension offers structured development better parking facilities and modern commercial architecture making it highly appealing to contemporary retailers. Furthermore proximity to the Delhi border enhances the target market encompassing residents from both Haryana and NCR territories. Investing here places your business at the crossroads of convenience growth and massive consumer potential solidifying its future success. We meticulously select commercial spaces that capitalize on these infrastructural benefits ensuring your investment delivers maximum returns in this dynamic part of Gurugram."
     ],
     "locations": [
-      "Palam Vihar Extension Main Commercial Road",
-      "Near Dwarka Expressway Access Point",
-      "High-Density Residential Catchment Zones",
-      "Commercial Hub Adjacent to Sector 23",
-      "Proximity to Major NH-48 Link Road",
-      "Areas Near Planned Metro Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Do not miss out on the strategic commercial opportunities available in one of Gurugram’s fastest-growing corridors. Whether you are looking for immediate rental income or long-term capital appreciation our selection of shops in Palam Vihar Extension offers unparalleled value.",
       "Contact our expert commercial real estate advisors today to schedule a site visit view detailed floor plans and discuss customized investment strategies. Let us help you transform your business aspirations into a lucrative reality with a prime retail space. Fill out the form below and secure your future success in Gurugram’s dynamic real estate market."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

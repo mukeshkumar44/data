@@ -7,12 +7,18 @@
       "Building your dream home begins with the perfect piece of land. We offer verified and legally sound residential plots that cater to every need, from smaller, affordable options to large plots suitable for luxurious independent villas. Discover why investors and homeowners are flocking to Sector 37D Gurugram and take the first step towards securing your generational asset today. Explore our exclusive listings and find the ideal plot matching your vision and budget."
     ],
     "buttons": [
-      { "label": "Explore Available Plots", "path": "/plots-listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact-us" }
+      {
+        "label": "Explore Available Plots",
+        "path": "/plots-listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact-us"
+      }
     ],
     "images": [
-      "/images/sector37d-hero-1.jpg",
-      "/images/sector37d-hero-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "Beyond vehicular connectivity, the sector benefits from planned metro connectivity and its proximity to major commercial zones like Cyber Hub 2.0 and Manesar's industrial belt. Residents gain easy access to world-class educational institutions, multispecialty hospitals, and premium retail centers. Choosing Sector 37D means investing not just in land, but in a future defined by convenience, rapid appreciation, and comprehensive urban development. We provide detailed location analysis for every plot, highlighting its unique advantages within this thriving ecosystem."
     ],
     "locations": [
-      "Direct access to Dwarka Expressway",
-      "Close proximity to NH-48",
-      "Near major institutional sectors",
-      "Upcoming metro line extension nearby",
-      "Seamless travel to IGI Airport Delhi",
-      "Adjacency to Sector 88 and Sector 37C"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -156,6 +206,11 @@
       "Ready to find your ideal Plot For Sale in Sector 37D Gurugram? Our specialized real estate consultants possess deep market knowledge of this high-growth corridor.",
       "Contact us now for personalized site visits, detailed investment analysis, and access to exclusive, verified plot listings not available elsewhere."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

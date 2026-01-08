@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/hero-plot-sector58-1.jpg",
-      "/images/hero-plot-sector58-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The sector enjoys excellent connectivity to the Delhi-Mumbai Expressway and is only a short drive from the Delhi-Gurugram Expressway (NH-48). Furthermore, Sector 58 is near established commercial centres, top-tier schools, world-class hospitals, and vibrant retail complexes. Investing in a Plot For Sale in Sector 58 means securing a location that guarantees future capital growth driven by ongoing infrastructural upgrades and its central positioning between New Gurugram and Central Gurugram hubs. This makes it an ideal spot for those who seek high returns alongside superior living quality."
     ],
     "locations": [
-      "Golf Course Extension Road",
-      "Sector 57 Residential Hub",
-      "Indira Gandhi International Airport (IGI)",
-      "Sector 58 Rapid Metro Station Access",
-      "Southern Peripheral Road (SPR)",
-      "Major Corporate Towers in Sector 62",
-      "NH-48 Connectivity",
-      "Educational Institutions & Hospitals"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -171,6 +213,4 @@
       "message"
     ]
   }
-}
-]
 }

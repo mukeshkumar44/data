@@ -7,10 +7,19 @@
       "Building a custom home gives you complete control over design materials and timelines unlike pre built properties. Our listings for plots in Sector 88 include diverse sizes and configurations suitable for independent villas duplexes or low rise builder floors. Take advantage of the developing social infrastructure including schools hospitals and retail centers planned nearby. Invest wisely in a residential plot in Sector 88 today and lay the foundation for a prosperous future in New Gurugram."
     ],
     "buttons": [
-      { "label": "Explore Verified Plots Now", "path": "/listings" },
-      { "label": "Request Expert Consultation", "path": "/contact" }
+      {
+        "label": "Explore Verified Plots Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Expert Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Perfect Plot Sizes and Optimal Locations for Investment in Sector 88 Gurugram",
@@ -52,13 +61,56 @@
       "Beyond physical connectivity Sector 88 is surrounded by established and rapidly developing residential and commercial sectors including Sector 83 84 and 85. Residents enjoy easy reach to major shopping malls international schools and top tier healthcare facilities positioning Sector 88 as a self sufficient and highly desirable residential address for smart investment choices in residential land."
     ],
     "locations": [
-      "Dwarka Expressway connectivity",
-      "Proximity to NH 48 Delhi Jaipur Highway",
-      "Short drive to IGI Airport",
-      "Adjacent to major commercial hubs",
-      "Easy access to established sectors like 83 and 84",
-      "Future metro corridor access nearby",
-      "Close proximity to IMT Manesar"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -154,6 +206,11 @@
       "Ready to secure your prime Plot For Sale in Sector 88 Gurugram Our dedicated team of real estate professionals specializes exclusively in land transactions in this high growth corridor. We provide personalized service transparent pricing and access to off market inventory that perfectly matches your investment criteria.",
       "Do not miss the opportunity to invest in one of Gurugram’s fastest appreciating locales. Contact us today to schedule a site visit or receive a comprehensive list of verified residential plots available for immediate purchase."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

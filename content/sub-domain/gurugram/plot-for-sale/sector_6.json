@@ -7,10 +7,19 @@
       "We specialize in verified clear-title plots in Sector 6 ensuring a seamless and risk-free transaction process. This established neighborhood boasts excellent connectivity to major business districts and essential civic amenities making it highly desirable for families and professionals alike. Explore diverse plot sizes tailored to fit every architectural vision from compact residential units to spacious bungalows. Start your journey today toward owning a valuable piece of real estate in Sector 6 Gurugram a location defined by growth and convenience."
     ],
     "buttons": [
-      { "label": "View Available Plots", "path": "/plots/sector-6/listings" },
-      { "label": "Request Expert Consultation", "path": "/contact-us" }
+      {
+        "label": "View Available Plots",
+        "path": "/plots/sector-6/listings"
+      },
+      {
+        "label": "Request Expert Consultation",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Optimal Plot Sizes for Sale in Sector 6 Gurugram Matching Your Construction Needs",
@@ -52,12 +61,56 @@
       "The proximity to established commercial centers and essential utilities makes it a self-sustaining residential zone minimizing the need for extensive travel for basic needs. Investors often prefer plots here because the existing infrastructure including well-maintained roads reliable water supply and established sewerage systems reduces development costs and timelines. Furthermore Sector 6 Gurugram is close to reputed educational institutions and top-tier healthcare facilities enhancing its appeal to families. Investing in a plot here means securing a future in a location that is already developed and consistently appreciates due to its excellent urban planning and central positioning within the city structure."
     ],
     "locations": [
-      "Proximity to NH-48",
-      "Easy Access to Old Gurugram Road",
-      "Near Sector 5 residential areas",
-      "Quick Drive to Major Hospitals",
-      "Close to Educational Hubs",
-      "Direct Route to Pataudi Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

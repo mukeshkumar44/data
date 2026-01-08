@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Residential Plot Sizes Available for Custom Home Construction in Sector 43",
@@ -58,12 +61,56 @@
       "The investment proposition of a Plot For Sale in Sector 43 is bolstered by its proximity to commercial powerhouses. Cyber Hub and the numerous Fortune 500 offices along the Expressway are just a short drive away minimizing commute times for working professionals. Furthermore, the Sector 42-43 Rapid Metro Station enhances public transit accessibility significantly adding liquidity and demand to the land parcels here. We also offer select listings in nearby sectors that share similar infrastructure benefits but may offer different entry price points depending on your budget and desired neighbourhood characteristics."
     ],
     "locations": [
-      "Golf Course Road Access",
-      "Sector 42 and 43 Rapid Metro Station",
-      "Proximity to Cyber City Gurugram",
-      "DPS and Lancers International School Nearby",
-      "Easy Connectivity to NH-48",
-      "Adjacent to Sector 53 and 54 Upscale Living"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

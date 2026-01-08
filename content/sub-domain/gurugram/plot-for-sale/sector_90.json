@@ -7,12 +7,18 @@
       "Discover the potential of developing your own custom residence in one of Gurugram’s fastest-growing sectors. Plots in Sector 90 are ideal for immediate construction or long-term capital appreciation, backed by robust planning and proximity to schools, hospitals, and major retail centers. Connect with our expert team now to explore premium plot listings that match your specific budget and requirements for land in New Gurugram."
     ],
     "buttons": [
-      { "label": "Explore Premium Plots", "path": "/plots" },
-      { "label": "Download Price List", "path": "/contact" }
+      {
+        "label": "Explore Premium Plots",
+        "path": "/plots"
+      },
+      {
+        "label": "Download Price List",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "plot_sector90_hero1.jpg",
-      "gurugram_skyline.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "Key proximity factors include the Dwarka Expressway, which is rapidly enhancing regional travel, and the Pataudi Road intersection, providing easy access to established areas of Gurugram. This excellent positioning makes it a highly desirable residential hub for daily commuters and those seeking rapid access to business districts."
     ],
     "locations": [
-      "Dwarka Expressway Access Point",
-      "NH 48 Delhi-Jaipur Highway",
-      "IMT Manesar Industrial Area",
-      "KMP Western Peripheral Expressway",
-      "Cyber Hub and Golf Course Road Extension",
-      "RPS International School Sector 89",
-      "Aarvy Healthcare Multi Speciality Hospital",
-      "Hyatt Regency Gurugram"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

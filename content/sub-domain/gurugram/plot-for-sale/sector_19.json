@@ -7,10 +7,19 @@
       "Our portfolio includes various plot sizes catering to diverse requirements and budgets. Investing in land here means capitalizing on Gurugram’s upward real estate trajectory and securing a tangible asset in a neighborhood that promises substantial appreciation. Do not miss the chance to lay the foundation for your wealth in this rapidly developing urban center."
     ],
     "buttons": [
-      { "label": "Explore Verified Plots", "path": "/plots/sector-19/listings" },
-      { "label": "Request Expert Consultation", "path": "/contact-us" }
+      {
+        "label": "Explore Verified Plots",
+        "path": "/plots/sector-19/listings"
+      },
+      {
+        "label": "Request Expert Consultation",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["hero-plot-sector-19.jpg", "gurugram-skyline.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Choosing the Perfect Plot Size Building Your Vision on Land For Sale in Sector 19 Gurugram",
@@ -52,13 +61,56 @@
       "Investors appreciate Sector 19 for its immediate neighborhood which includes well-developed sectors and burgeoning business parks guaranteeing high rental demand and steady capital appreciation. The area is served by reliable public transport including nearby metro stations enhancing its accessibility profile significantly. When you invest in a plot here you are not just buying land you are securing a foothold in a strategically crucial and future-proof urban environment supported by continuous infrastructural upgrades."
     ],
     "locations": [
-      "NH 48 Delhi-Gurugram Expressway",
-      "Udyog Vihar Industrial Area",
-      "Cyber City Gurugram",
-      "Indira Gandhi International Airport Connectivity",
-      "Sector 18 Commercial Hub",
-      "Sukhrali Enclave",
-      "Maruti Udyog Limited Complex"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -154,6 +206,11 @@
       "Ready to take the next step toward owning a premium plot in Sector 19 Gurugram. Our specialized consultants are here to provide tailored assistance and answer any specific questions regarding plot availability pricing or legal compliance.",
       "Contact us today to schedule a personalized site visit and receive a curated portfolio of plots that perfectly match your investment and residential requirements in this prime location."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

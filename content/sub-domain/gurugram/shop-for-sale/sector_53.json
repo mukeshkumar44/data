@@ -7,10 +7,19 @@
       "We specialize in connecting serious investors with verified properties that meet stringent criteria for location, accessibility, and potential rental yield. Discover diverse options including shops in existing established markets and new launch commercial projects designed with modern specifications. Start your search for the ideal Shop For Sale in Sector 53 today and capitalize on Gurugram’s booming economic landscape offering stability and aggressive asset appreciation."
     ],
     "buttons": [
-      { "label": "Explore Available Shops", "path": "/listings" },
-      { "label": "Request Investment Guide", "path": "/contact" }
+      {
+        "label": "Explore Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Investment Guide",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exceptional Commercial Investment Opportunities Shops in Sector 53 Gurugram",
@@ -51,7 +60,58 @@
       "Sector 53 benefits significantly from its prime location directly adjacent to the prestigious Golf Course Road a hub for Fortune 500 companies and ultra-luxury residential developments. This proximity ensures that any commercial venture here taps into a robust and high-spending demographic. Specific micro-markets like those near the Sector 53-54 Rapid Metro Station and major internal roads offer particularly high footfall.",
       "We focus on properties that benefit from infrastructure advantages ensuring easy access for customers and smooth logistics for businesses. Whether it is a standalone commercial building or space within a large multi-use development our detailed analysis helps pinpoint the areas promising the strongest returns for your investment in a Shop For Sale in Sector 53 Gurugram focusing on long-term value creation."
     ],
-    "locations": ["Golf Course Road Commercial Hubs", "Rapid Metro Corridor Sector 53", "Sushant Lok Phase 2 Proximity", "DLF The Aralias and Magnolias Catchment Area", "Upcoming Retail Development Zones"]
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Why Investors Choose to Buy a Shop in Sector 53 Gurugram Today",
@@ -146,6 +206,11 @@
       "Ready to secure your high-yield Shop For Sale in Sector 53 Gurugram We provide personalized investment advisory services leveraging real-time market data and deep local insights. Let us help you identify off-market deals and premium inventory that perfectly matches your portfolio requirements and long-term financial goals.",
       "Contact our expert team today for a detailed consultation on pricing regulatory compliance and future appreciation forecasts specific to the Sector 53 commercial market ensuring you make a confident and profitable investment decision."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

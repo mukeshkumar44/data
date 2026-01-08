@@ -7,12 +7,18 @@
       "We offer meticulously selected commercial spaces ranging from small high-street retail units to large anchor stores designed for maximum business impact. Investing here means positioning your venture in a location renowned for rapid appreciation and sustained economic vitality. Explore our exclusive listings now and capitalize on the premium commercial real estate market along MG Road with guidance from our expert team."
     ],
     "buttons": [
-      { "label": "Explore Prime Listings", "path": "/listings" },
-      { "label": "Consult an Expert", "path": "/contact" }
+      {
+        "label": "Explore Prime Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Consult an Expert",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/mgroad_hero1.jpg",
-      "/images/mgroad_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "We provide detailed analysis across the most profitable and high-demand addresses ensuring your retail investment aligns precisely with the demographic profile of the surrounding consumer base. Whether you prefer the controlled environment of a modern shopping center or the robust visibility of a high-street frontage we cover every prime opportunity to secure a superior shop for sale in MG Road Gurugram that promises sustained growth."
     ],
     "locations": [
-      "MGF Metropolitan Mall Complex",
-      "Sahara Mall Commercial Area",
-      "City Centre MG Road",
-      "DLF Grand Mall Vicinity",
-      "MG Road Metro Station Adjacent",
-      "Sikanderpur Crossing Commercial Hub",
-      "The Plaza Mall Retail Zone",
-      "Iskcon Temple Road Shops"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,10 +7,19 @@
       "We provide access to verified and legally clear plots across various sizes and sectors along Sohna Road, including licensed colonies and government-approved developments. Investing here means securing a foothold in a strategically important region poised for massive residential and economic expansion. Explore our curated selection of residential and commercial plots today and take the first step toward realizing your real estate goals in this high-potential micro-market."
     ],
     "buttons": [
-      { "label": "Explore Verified Plots", "path": "/plots" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "Explore Verified Plots",
+        "path": "/plots"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Finding the Ideal Residential and Commercial Plot Sizes on the Fast-Developing Sohna Road",
@@ -52,14 +61,56 @@
       "These micro-locations are seeing explosive growth due to the clustering of major educational institutions like GD Goenka University and KR Mangalam University, alongside upcoming business parks. We pinpoint sectors with clear potential for short-term construction and long-term rental demand, ensuring that your investment in a Plot For Sale in Sohna Road is both secure and highly profitable. We provide detailed analyses of zoning laws and infrastructure progress for each location listed below."
     ],
     "locations": [
-      "Sector 1 Sohna",
-      "Sector 35 Sohna",
-      "Sector 33 Sohna",
-      "Sohna Palwal Road",
-      "GD Goenka Road",
-      "Badshahpur Extension",
-      "Sohna City Limits",
-      "Tatva Hills Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

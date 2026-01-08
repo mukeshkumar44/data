@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "/images/sector38_shop_hero1.jpg",
-      "/images/sector38_shop_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,13 +61,56 @@
       "Its centrality ensures a massive captive audience base guaranteeing sustained customer traffic for any business established here. We focus on identifying micro-locations within Sector 38 that offer the best nexus of connectivity infrastructure and population density maximizing the potential returns on your Shop For Sale investment."
     ],
     "locations": [
-      "Near Medanta The Medicity Hospital",
-      "Proximity to NH-48 Delhi-Jaipur Highway",
-      "Close to Sector 39 Residential Areas",
-      "Direct Access to Rajiv Chowk",
-      "Adjacent to HUDA Market Sector 39",
-      "Easy link to Golf Course Extension Road",
-      "Rapid connectivity to IFFCO Chowk Metro Station"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

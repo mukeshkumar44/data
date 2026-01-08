@@ -7,10 +7,19 @@
       "Whether you are looking for immediate construction or a high-yield long term asset, the availability of a Plot For Sale in Sector 41 meets diverse investment goals. This sought-after locality ensures easy access to major commercial centers reputed schools and world class hospitals enhancing its appeal significantly. Do not miss the chance to build your dream home exactly the way you envision it in one of Gurugram’s most established sectors."
     ],
     "buttons": [
-      { "label": "View Available Plots", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View Available Plots",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["sector-41-plot-aerial-view.jpg", "residential-plot-gurugram.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Optimal Plot Sizes Ensuring Versatile Residential Construction in Sector 41 Gurugram",
@@ -52,14 +61,56 @@
       "Our curated map allows you to visualize the close proximity to vital commercial educational and leisure hubs ensuring that your investment in Sector 41 places you right at the nexus of connectivity and urban convenience in Gurugram. This strategic location minimizes commuting stress and maximizes lifestyle quality."
     ],
     "locations": [
-      "Sector 40 Residential",
-      "Sector 42 Premium Area",
-      "Sector 39 Institutional Hub",
-      "HUDA City Centre Metro Station",
-      "MG Road Commercial Area",
-      "Golf Course Road",
-      "NH 48 Access Point",
-      "Sohna Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure your investment in one of Gurugram's most sought-after residential sectors. Our specialized team possesses in-depth knowledge of the Sector 41 plot market and can provide personalized assistance tailored to your specific buying needs.",
       "Fill out the form below and a dedicated real estate advisor will reach out promptly to discuss current inventory investment potential and guide you through the entire purchase process seamlessly."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

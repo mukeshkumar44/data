@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Essential Features of Commercial Shop Properties in Sector 19 Gurugram for Maximum ROI",
@@ -58,14 +61,56 @@
       "Nearby sectors like 18 20 and 21 contribute heavily to the overall commercial energy providing immediate access to affluent catchment areas. The sector is positioned near key industrial and infrastructure developments guaranteeing sustained appreciation for any shop for sale investment. Investing here means tapping into a broader high-spending consumer base instantly expanding your market reach and rental viability."
     ],
     "locations": [
-      "Udyog Vihar Phase IV Industrial Area",
-      "Cyber City Gurugram Corporate Hub",
-      "Sector 18 Commercial Market",
-      "MG Road Shopping District Access",
-      "Delhi-Gurugram Expressway Connectivity",
-      "Maruti Udyog Limited Zone",
-      "IFFCO Chowk Metro Station Transit",
-      "Old Delhi Road Access Point"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

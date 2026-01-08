@@ -7,10 +7,19 @@
       "This sector is strategically positioned near major expressways and surrounded by upscale residential communities ensuring a constant stream of discerning customers. We offer exclusive listings for ready-to-move and under-construction commercial properties tailored to meet diverse investment strategies. Partner with us today to navigate the complexities of the Sector 60 commercial real estate market and secure your profitable asset before prices appreciate further."
     ],
     "buttons": [
-      { "label": "View Premium Retail Listings", "path": "/listings" },
-      { "label": "Talk to a Commercial Expert", "path": "/contact" }
+      {
+        "label": "View Premium Retail Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Talk to a Commercial Expert",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Options and Find the Perfect Retail Shop For Sale in Sector 60",
@@ -52,12 +61,56 @@
       "The density of high-quality residential projects surrounding Sector 60 provides an immediate and affluent customer base essential for retail success. Investors benefit from the proximity to international schools premium hospitals and recreational centers which collectively drive consistent consumer flow and establish Sector 60 as a prime retail destination. This robust infrastructure and demographic profile solidify the investment potential making every commercial shop in Sector 60 a high-return asset."
     ],
     "locations": [
-      "Golf Course Extension Road Access",
-      "Southern Peripheral Road (SPR) Connectivity",
-      "Proximity to Sector 57 Gurugram",
-      "Easy Access to Rapid Metro Stations",
-      "Surrounded by Premium Residential Societies",
-      "Direct Link to NH-48 Delhi-Jaipur Highway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

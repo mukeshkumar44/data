@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Retail Spaces and Investment Opportunities Across New Gurgaon Commercial Hubs",
@@ -58,13 +61,56 @@
       "Our curated listings focus on areas known for dense immediate residential catchment high-quality infrastructure and proximity to major arterial roads ensuring maximum visibility for your commercial venture. Invest confidently in a Shop For Sale in New Gurgaon situated within future commercial hotspots."
     ],
     "locations": [
-      "Sector 83 Dwarka Expressway Gurugram",
-      "Sector 109 Commercial Hub",
-      "Sector 84 High Street Retail",
-      "Sector 92 Integrated Commercial Projects",
-      "Sector 79 Prime Retail Zones",
-      "Sector 113 Near Delhi Border",
-      "Sectors 81 and 82 Investment Opportunities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

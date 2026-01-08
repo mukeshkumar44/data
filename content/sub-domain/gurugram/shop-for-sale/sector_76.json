@@ -7,12 +7,18 @@
       "We present curated listings of premium SCO plots and ready-to-move retail spaces designed for maximum visibility and footfall. These commercial properties are strategically positioned to serve the modern consumer ensuring robust rental yields and sustainable business growth. Whether you are an end-user looking to launch a flagship store or an investor seeking stable returns Sector 76 offers the commercial infrastructure required for success. Connect with our expert team to explore properties that align perfectly with your financial goals."
     ],
     "buttons": [
-      { "label": "View Available Retail Shops", "path": "/retail-listings" },
-      { "label": "Download Sector 76 Investment Guide", "path": "/download-guide" }
+      {
+        "label": "View Available Retail Shops",
+        "path": "/retail-listings"
+      },
+      {
+        "label": "Download Sector 76 Investment Guide",
+        "path": "/download-guide"
+      }
     ],
     "images": [
-      "sector-76-commercial-hero-view.jpg",
-      "gurugram-shop-investment.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "The proximity to major residential clusters ensures a constant flow of customers and white-collar professionals boosting the viability of any retail or commercial venture established here. Understanding these linkages is key to projecting future returns and selecting the most strategically located shop."
     ],
     "locations": [
-      "SCO Plots near NH-48 Access Point",
-      "Commercial Complex near Sector 75-76 Dividing Road",
-      "Shops adjacent to major Residential Societies",
-      "Connectivity to Central Peripheral Road CPR",
-      "Retail Centers near Sector 77 Gurugram",
-      "Proximity to Southern Peripheral Road SPR"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-image-103-1.jpg",
-      "hero-image-103-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "The unparalleled connectivity includes direct access to the upcoming Global City project high-quality educational institutions renowned healthcare facilities and multiple retail and entertainment centers. Investing in a Plot For Sale in Sector 103 means benefiting from immediate accessibility while enjoying the tranquility of a planned residential zone. This sector is poised for exponential growth ensuring your investment gains value rapidly."
     ],
     "locations": [
-      "Dwarka Expressway connectivity at 2 minutes drive",
-      "Proximity to IGI Airport Delhi approximately 25 minutes",
-      "Near major corporate offices and IT parks of Cyber City 2",
-      "Easy access to Pataudi Road and NH-48",
-      "Surrounded by upscale residential sectors 102 104 and 106",
-      "Access to premium schools like DPS and healthcare centers"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

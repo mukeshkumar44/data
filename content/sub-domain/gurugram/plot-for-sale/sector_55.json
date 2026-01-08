@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Perfect Residential Plot Sizes Available for Investment in Sector 55 Gurugram",
@@ -58,14 +61,56 @@
       "Beyond connectivity, the sector benefits immensely from established social infrastructure. Residents have easy access to world-class educational institutions, including renowned international schools and prestigious higher education centres. Healthcare needs are addressed by several top-tier multi-specialty hospitals located within a short drive. Furthermore, Sector 55 is surrounded by upscale commercial developments, dining destinations, and high-street retail centres, guaranteeing a comprehensive and luxurious urban lifestyle. This blend of excellent infrastructure and mature social amenities makes acquiring a Plot For Sale in Sector 55 an exceptionally appealing lifestyle choice and investment."
     ],
     "locations": [
-      "Golf Course Extension Road Access",
-      "Rapid Metro Stations IFFCO Chowk & Sector 55-56",
-      "Sohna Road Commercial Hubs",
-      "Malls & Retail Centres",
-      "Leading International Schools",
-      "Medanta and Artemis Hospitals Proximity",
-      "Direct link to NH-48 Delhi-Jaipur Highway",
-      "Sector 56 and Sector 57 Neighborhoods"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

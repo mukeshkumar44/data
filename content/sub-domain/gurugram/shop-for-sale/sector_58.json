@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-image-sector58-1.jpg",
-      "hero-image-sector58-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "We highlight specific commercial complexes and high-street developments that consistently deliver high occupancy rates and robust rental returns. Areas adjacent to major luxury housing projects are particularly desirable due to the high purchasing power of the residents. Our focused market analysis ensures you invest only in locations that promise sustained commercial vibrancy and superior long-term growth prospects in Gurugram."
     ],
     "locations": [
-      "Golf Course Extension Road Retail Stretch",
-      "Sector 57 Commercial Hub",
-      "Retail Spaces near Sector 62",
-      "Integrated Commercial Plazas near Sector 50",
-      "High Street Markets in Sushant Lok 2",
-      "Adjoining Residential Complex Retail Blocks"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

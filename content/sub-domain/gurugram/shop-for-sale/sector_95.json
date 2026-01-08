@@ -7,12 +7,18 @@
       "This sector benefits immensely from its strategic location close to major expressways, ensuring excellent visibility and continuous footfall necessary for commercial success. If you are searching for a high-growth asset, a shop for sale in Sector 95 represents a secure, future-proof investment opportunity. Explore the best properties today and position your portfolio for exponential growth in one of Gurugram's fastest developing corridors."
     ],
     "buttons": [
-      { "label": "View Available Commercial Projects", "path": "/listings" },
-      { "label": "Request Detailed Investment Report", "path": "/contact" }
+      {
+        "label": "View Available Commercial Projects",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Detailed Investment Report",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "shop_sector95_hero1.jpg",
-      "shop_sector95_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,13 +61,56 @@
       "Furthermore, Sector 95 benefits from rapid infrastructural development planned by the government and private developers alike. This connectivity ensures that businesses established here today will benefit from significantly increased valuation as the surrounding infrastructure matures. Investing in a shop for sale in Sector 95 is a direct investment into the future commercial backbone of New Gurugram."
     ],
     "locations": [
-      "Direct Access to Pataudi Road for seamless transit",
-      "Immediate Proximity to Dwarka Expressway making it accessible from Delhi",
-      "Servicing High Density Residential Areas of Sectors 92 and 94",
-      "Excellent Linkage to the KMP Expressway for regional connectivity",
-      "Near Future Metro Corridor Expansion Zone",
-      "Surrounded by multiple large group housing projects",
-      "Quick drive time to major healthcare and educational institutions"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

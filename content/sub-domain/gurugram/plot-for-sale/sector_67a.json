@@ -7,12 +7,18 @@
       "Explore exclusive Plot For Sale in Sector 67A inventory that caters to diverse budgets and size requirements. Our portfolio includes options ranging from compact plots ideal for independent villas to larger parcels perfect for gated communities or luxury floors. Gurugram's planned infrastructure development ensures that owning property here guarantees robust civic amenities, including wide roads, reliable utility services, and proximity to major business districts. Start your journey toward land ownership in this high-value corridor today."
     ],
     "buttons": [
-      { "label": "View Available Plots", "path": "/plots-inventory" },
-      { "label": "Request Site Visit", "path": "/contact" }
+      {
+        "label": "View Available Plots",
+        "path": "/plots-inventory"
+      },
+      {
+        "label": "Request Site Visit",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "hero-image-sector-67a-1.jpg",
-      "hero-image-sector-67a-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,13 +61,56 @@
       "Moreover, the proximity to Manesar Industrial Area and the burgeoning connectivity towards Sohna Road make Sector 67A a logical choice for those balancing professional commitments with premium residential living. Nearby educational institutions and top-tier hospitals ensure that family needs are well catered for, reducing daily commute stress significantly. Investing here is not just about buying land it is about accessing a comprehensively developed urban ecosystem. Our plots offer residents an opportunity to leverage the infrastructure of neighboring sectors while enjoying the specific advantages and growth trajectory unique to Sector 67A Gurugram."
     ],
     "locations": [
-      "Sector 67",
-      "Sector 66",
-      "Sector 65",
-      "Sector 69",
-      "Sohna Road",
-      "Southern Peripheral Road (SPR)",
-      "Sector 57"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -7,12 +7,18 @@
       "Investing in a shop for sale in Sector 46 provides immediate benefits including seamless connectivity to major roads like the Golf Course Extension Road and robust existing infrastructure. Whether you are expanding an established brand or launching a new venture finding the perfect commercial space here guarantees visibility potential and future growth. Explore listings below and take the first step toward securing your profitable commercial asset."
     ],
     "buttons": [
-      { "label": "Explore Available Shop Listings", "path": "/listings" },
-      { "label": "Request Commercial Investment Guide", "path": "/contact" }
+      {
+        "label": "Explore Available Shop Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Commercial Investment Guide",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "shop_sector46_1.jpg",
-      "shop_sector46_2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "The density of established residential colonies nearby guarantees a robust immediate catchment area essential for quick retail success. Furthermore the easy access to transportation hubs and medical facilities makes this sector a destination point not just a transit route solidifying the investment potential of any commercial property here."
     ],
     "locations": [
-      "South City 2 High-Density Residential Area",
-      "Access to Huda City Centre Metro Station",
-      "Proximity to Golf Course Extension Road",
-      "Easy Drive to Medanta The Medicity Hospital",
-      "Nearness to Sector 47 and Sector 45 Commercial Zones",
-      "Direct Connectivity to NH-48 Delhi-Jaipur Highway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

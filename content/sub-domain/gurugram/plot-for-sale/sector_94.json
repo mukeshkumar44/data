@@ -7,12 +7,18 @@
       "The demand for a quality Plot For Sale in Sector 94 is soaring due to its proximity to major highways like the Delhi-Mumbai Expressway and key business hubs. This area promises excellent infrastructure development including wide internal roads green spaces and world-class utilities. Whether you are planning immediate construction or looking for a long-term capital growth asset Sector 94 offers exceptional value and stability. Connect with our expert team today to explore available inventory and secure your piece of Gurugram's future."
     ],
     "buttons": [
-      { "label": "View Available Plots", "path": "/available-plots" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "View Available Plots",
+        "path": "/available-plots"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "hero-plot-sector94-1.jpg",
-      "hero-plot-sector94-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,13 +61,56 @@
       "Key nearby landmarks and connectivity advantages include seamless access to NH 48 the Southern Peripheral Road SPR and the proposed metro expansion route. Investing here means minimizing commute times and maximizing quality of life. The surrounding sectors like Sector 93 95 and 96 are also developing rapidly complementing the growth trajectory of Sector 94 and securing its status as a premium residential destination."
     ],
     "locations": [
-      "NH 48 Access Point",
-      "Southern Peripheral Road SPR",
-      "Dwarka Expressway",
-      "IMT Manesar Industrial Area",
-      "Cyber City Gurugram",
-      "Upcoming Metro Station",
-      "Major Commercial Hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -157,6 +206,11 @@
       "Ready to invest in a prime Plot For Sale in Sector 94 Gurugram Get in touch with our dedicated real estate consultants today. We provide personalized property tours detailed investment advice and transparent transaction support.",
       "Fill out the quick form below and one of our experts will call you back within the hour to discuss your requirements and share the latest inventory list and exclusive deals available only through our network."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

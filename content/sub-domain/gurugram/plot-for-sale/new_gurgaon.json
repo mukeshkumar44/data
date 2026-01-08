@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "image-of-new-gurgaon-development.jpg",
-      "map-of-dwarka-expressway-plots.png"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Key investment hotspots include Sectors 81 through 95 which boast extensive infrastructure development and proximity to major commercial hubs and proposed metro connectivity points. We focus on sectors known for clear land titles, rapid habitation growth, and assured utility connections ensuring your investment is both secure and immediately usable. Whether you are looking near institutional areas or close to upcoming retail destinations, our listings cover the most promising addresses guaranteed to deliver maximum returns on investment over the short and long term. Discover the specific sector that aligns perfectly with your lifestyle needs and budget requirements here in the future heart of Gurugram’s real estate boom right now."
     ],
     "locations": [
-      "Sector 82 New Gurgaon",
-      "Sector 83 New Gurgaon",
-      "Sector 84 New Gurgaon Dwarka Expressway",
-      "Sector 85 New Gurgaon Gurugram",
-      "Sector 92 New Gurgaon Residential Plots",
-      "Sector 95A New Gurgaon",
-      "Sector 102 Dwarka Expressway Plots",
-      "Sectors near Pataudi Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

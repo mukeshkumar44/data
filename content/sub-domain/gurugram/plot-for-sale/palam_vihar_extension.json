@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero_plot_view_palam.jpg",
-      "palam_vihar_extension_map.png"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "This unparalleled connectivity makes a Plot For Sale in Palam Vihar Extension an exceptional value proposition. Future infrastructure projects including improved metro links and road widening initiatives further solidify its status as a high-growth corridor. Investors often overlook the critical role of connectivity in real estate appreciation but here it is a primary driver of value. We highlight key adjacent areas and major infrastructure points that enhance the daily living and investment profile of this prime Gurugram locale."
     ],
     "locations": [
-      "Dwarka Expressway",
-      "Delhi Border Connectivity",
-      "Palam Vihar Old Sector",
-      "Sector 23 Gurugram",
-      "IGI Airport Access Road",
-      "Bajghera Village",
-      "Major Schools and Hospitals",
-      "Upcoming Metro Connectivity Hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

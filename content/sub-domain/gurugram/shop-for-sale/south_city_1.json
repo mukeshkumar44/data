@@ -7,10 +7,19 @@
       "We feature exclusive verified listings of commercial properties ranging from high street retail units to modern integrated market spaces perfectly suited for scalable business growth. This is the optimal time to capitalize on the sustained economic growth and infrastructural excellence defining South City 1 commercial real estate. Start your journey towards owning a premium Shop For Sale in South City 1 today and maximize your portfolio's commercial strength."
     ],
     "buttons": [
-      { "label": "View All Verified Shop Listings", "path": "/listings" },
-      { "label": "Request Commercial Investment Guide", "path": "/contact" }
+      {
+        "label": "View All Verified Shop Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Commercial Investment Guide",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_shop_southcity1.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Shop Inventory and Commercial Property Options in South City 1 Gurugram",
@@ -19,12 +28,30 @@
       "Our portfolio expertly caters to all scales of investment from compact retail outlets perfect for boutique services to much larger multi-tenanted spaces ideal for anchor stores and major brands. We prioritize units with superior frontage accessibility and established commercial zoning ensuring that every Shop For Sale in South City 1 maximizes its potential for generating superior returns and long-term capital appreciation."
     ],
     "features": [
-      { "title": "4 Marla Plot", "description": "Represents compact, high-visibility street-facing retail units perfect for small specialized businesses such as gourmet cafes chemists or quick-service takeaways. These units generally offer excellent value entry points for investors seeking immediate accessibility and high rental yield potential due to lower capital outlay in the established South City 1 market." },
-      { "title": "6 Marla Plot", "description": "Ideal for mid-sized retail outlets or sophisticated ground-floor showrooms requiring moderate display area substantial storage and dedicated customer service zones. These shops typically benefit from significant frontage and proximity to major residential access gates ensuring a steady flow of high-net-worth customers throughout the entire day in Gurugram’s best locality." },
-      { "title": "8 Marla Plot", "description": "Designed for flagship stores or double-height ceiling retail spaces offering expansive and impactful branding opportunities essential for attracting premium tenants. An 8 Marla equivalent shop allows for sophisticated interior design suitable for luxury retail banking services or specialized clinics ensuring premium market positioning within the competitive South City 1 commercial landscape." },
-      { "title": "10 Marla Plot", "description": "Represents large strategic commercial spaces often suitable for multiple tenancy arrangements departmental stores or integrated food and beverage outlets. These properties are strategically located near major intersections maximizing vehicular and high pedestrian traffic exposure securing superior brand visibility and consistent revenue generation." },
-      { "title": "12 Marla Plot", "description": "Premium investment grade units typically occupying dominant corner locations or prime spots within established commercial complexes. A 12 Marla equivalent space provides substantial square footage suitable for major anchors large gyms or corporate experience centers seeking a dominant, commanding market presence in Gurugram." },
-      { "title": "14 Marla Plot", "description": "The pinnacle of commercial property investment in South City 1 reserved for sprawling properties capable of housing large national or international retail chains and hypermarkets. These massive commercial units guarantee maximum brand recall offering exceptional modern infrastructure and outstanding long-term capital appreciation potential unlike any other unit in the area." }
+      {
+        "title": "4 Marla Plot",
+        "description": "Represents compact, high-visibility street-facing retail units perfect for small specialized businesses such as gourmet cafes chemists or quick-service takeaways. These units generally offer excellent value entry points for investors seeking immediate accessibility and high rental yield potential due to lower capital outlay in the established South City 1 market."
+      },
+      {
+        "title": "6 Marla Plot",
+        "description": "Ideal for mid-sized retail outlets or sophisticated ground-floor showrooms requiring moderate display area substantial storage and dedicated customer service zones. These shops typically benefit from significant frontage and proximity to major residential access gates ensuring a steady flow of high-net-worth customers throughout the entire day in Gurugram’s best locality."
+      },
+      {
+        "title": "8 Marla Plot",
+        "description": "Designed for flagship stores or double-height ceiling retail spaces offering expansive and impactful branding opportunities essential for attracting premium tenants. An 8 Marla equivalent shop allows for sophisticated interior design suitable for luxury retail banking services or specialized clinics ensuring premium market positioning within the competitive South City 1 commercial landscape."
+      },
+      {
+        "title": "10 Marla Plot",
+        "description": "Represents large strategic commercial spaces often suitable for multiple tenancy arrangements departmental stores or integrated food and beverage outlets. These properties are strategically located near major intersections maximizing vehicular and high pedestrian traffic exposure securing superior brand visibility and consistent revenue generation."
+      },
+      {
+        "title": "12 Marla Plot",
+        "description": "Premium investment grade units typically occupying dominant corner locations or prime spots within established commercial complexes. A 12 Marla equivalent space provides substantial square footage suitable for major anchors large gyms or corporate experience centers seeking a dominant, commanding market presence in Gurugram."
+      },
+      {
+        "title": "14 Marla Plot",
+        "description": "The pinnacle of commercial property investment in South City 1 reserved for sprawling properties capable of housing large national or international retail chains and hypermarkets. These massive commercial units guarantee maximum brand recall offering exceptional modern infrastructure and outstanding long-term capital appreciation potential unlike any other unit in the area."
+      }
     ]
   },
   "locationsSection": {
@@ -34,12 +61,56 @@
       "Our curated listings include shops strategically positioned to capture footfall from neighbouring affluent sectors like Sushant Lok Phase 1 Sector 29 and Sector 40 ensuring a broad stable and desirable customer base. We focus on commercial corridors with excellent public transport accessibility ample dedicated parking and robust security frameworks essential factors for sustainable and profitable retail operation in Gurugram."
     ],
     "locations": [
-      "South City 1 Main Market Retail Arcades",
-      "Commercial Belt near HUDA City Centre Metro Station",
-      "Shop Units on NH-48 Service Road Accessibility",
-      "High Street Retail near Sushant Lok Phase 1 Entrance",
-      "Commercial Pockets near Sector 40 Gurugram",
-      "Shops Close to Signature Towers Commercial Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -49,30 +120,84 @@
       "Choosing a shop in this location is a strategic business decision rooted in securing long-term capital appreciation operational stability and a powerful market position within Gurugram's most sought-after real estate environment."
     ],
     "points": [
-      { "title": "Exceptional Affluent Customer Base Guaranteed", "description": "South City 1 is predominantly inhabited by high-net-worth individuals and well-established professional families creating a uniquely lucrative consumer market ready to spend on premium goods and services. A shop location here guarantees direct access to this captive audience translating directly into higher average transaction values and substantial revenue potential compared to any other emerging areas." },
-      { "title": "Prime Connectivity to Major Gurugram Road Networks", "description": "The sector enjoys superb connectivity being directly linked to the Delhi-Gurugram Expressway NH-48 and major arterial roads like Golf Course Road. This superior infrastructure ensures easy access for suppliers employees and high-paying customers from across Delhi NCR making daily business operations seamless and significantly expanding your commercial catchment area." },
-      { "title": "Proven Track Record of High Rental Yields and Growth", "description": "Commercial properties within South City 1 boast some of the most stable and highest rental yields in the entirety of Gurugram due to persistently high demand and controlled supply. Investors can rely on a steady passive income stream while simultaneously benefiting from the sector's robust capital appreciation trajectory over the medium to long term ensuring powerful returns." },
-      { "title": "Proximity to HUDA City Centre Metro Station Access", "description": "Located mere minutes from the primary Metro hub of Gurugram the commercial areas of South City 1 benefit immensely from the heavy and continuous footfall generated by daily inter-city commuters. This strategic transportation node location ensures maximum brand visibility and accessibility crucial elements for any successful retail or service-oriented business operation." },
-      { "title": "Well-Maintained Infrastructure and Established Security", "description": "South City 1 is a meticulously planned and mature sector featuring broad access roads dedicated customer parking zones and high-quality utility services. The established community management ensures excellent civic amenities and comprehensive security protocols providing a safe reliable and professional environment for businesses their employees and valued customers." },
-      { "title": "Availability of Diverse Commercial Property Types", "description": "Whether your requirement is a small retail kiosk a modern double-height showroom or an integrated high-spec office space our curated inventory of Shop For Sale in South City 1 is vast and highly varied. We offer investment options tailored to every budget and specific business requirement allowing for flexible configuration and assured future expansion possibilities." },
-      { "title": "Investment Stability Due to Established Development", "description": "Unlike newer sectors still undergoing uncertain development and infrastructural challenges South City 1 is fully developed operational and risk-averse. Investing here means immediate operational readiness predictable market dynamics and reduced construction-related risks offering enhanced financial security and immediate operational peace of mind for the serious investor." },
-      { "title": "Expert Guidance for Seamless Legal and Documentation Processes", "description": "Navigating complex commercial property documentation and municipal approvals can be daunting but our specialized team provides comprehensive end-to-end legal verification and transaction support for every shop listed. We guarantee complete transparency in title ownership and facilitate a swift smooth transfer process ensuring a fully secure and hassle-free investment experience for all our valued clients." }
+      {
+        "title": "Exceptional Affluent Customer Base Guaranteed",
+        "description": "South City 1 is predominantly inhabited by high-net-worth individuals and well-established professional families creating a uniquely lucrative consumer market ready to spend on premium goods and services. A shop location here guarantees direct access to this captive audience translating directly into higher average transaction values and substantial revenue potential compared to any other emerging areas."
+      },
+      {
+        "title": "Prime Connectivity to Major Gurugram Road Networks",
+        "description": "The sector enjoys superb connectivity being directly linked to the Delhi-Gurugram Expressway NH-48 and major arterial roads like Golf Course Road. This superior infrastructure ensures easy access for suppliers employees and high-paying customers from across Delhi NCR making daily business operations seamless and significantly expanding your commercial catchment area."
+      },
+      {
+        "title": "Proven Track Record of High Rental Yields and Growth",
+        "description": "Commercial properties within South City 1 boast some of the most stable and highest rental yields in the entirety of Gurugram due to persistently high demand and controlled supply. Investors can rely on a steady passive income stream while simultaneously benefiting from the sector's robust capital appreciation trajectory over the medium to long term ensuring powerful returns."
+      },
+      {
+        "title": "Proximity to HUDA City Centre Metro Station Access",
+        "description": "Located mere minutes from the primary Metro hub of Gurugram the commercial areas of South City 1 benefit immensely from the heavy and continuous footfall generated by daily inter-city commuters. This strategic transportation node location ensures maximum brand visibility and accessibility crucial elements for any successful retail or service-oriented business operation."
+      },
+      {
+        "title": "Well-Maintained Infrastructure and Established Security",
+        "description": "South City 1 is a meticulously planned and mature sector featuring broad access roads dedicated customer parking zones and high-quality utility services. The established community management ensures excellent civic amenities and comprehensive security protocols providing a safe reliable and professional environment for businesses their employees and valued customers."
+      },
+      {
+        "title": "Availability of Diverse Commercial Property Types",
+        "description": "Whether your requirement is a small retail kiosk a modern double-height showroom or an integrated high-spec office space our curated inventory of Shop For Sale in South City 1 is vast and highly varied. We offer investment options tailored to every budget and specific business requirement allowing for flexible configuration and assured future expansion possibilities."
+      },
+      {
+        "title": "Investment Stability Due to Established Development",
+        "description": "Unlike newer sectors still undergoing uncertain development and infrastructural challenges South City 1 is fully developed operational and risk-averse. Investing here means immediate operational readiness predictable market dynamics and reduced construction-related risks offering enhanced financial security and immediate operational peace of mind for the serious investor."
+      },
+      {
+        "title": "Expert Guidance for Seamless Legal and Documentation Processes",
+        "description": "Navigating complex commercial property documentation and municipal approvals can be daunting but our specialized team provides comprehensive end-to-end legal verification and transaction support for every shop listed. We guarantee complete transparency in title ownership and facilitate a swift smooth transfer process ensuring a fully secure and hassle-free investment experience for all our valued clients."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Buying a Shop For Sale in South City 1 Gurugram",
     "description": "Find detailed professional answers regarding commercial property valuation legal formalities financing options and the exceptional long-term investment potential of retail units in this premier Gurugram commercial location.",
     "faqs": [
-      { "question": "What factors determine the price of a Shop For Sale in South City 1 Gurugram", "answer": "The pricing for commercial shops in South City 1 is primarily driven by several key factors including the exact location within the sector whether it is street-facing or internal complex position the total usable square footage and the specific floor level. Ground floor units typically command the highest premium due to maximum visibility and immediate accessibility while corner shops and those near major residential gates also fetch higher valuations reflecting increased potential footfall and branding impact. The age and maintenance quality of the commercial building also play a significant role in determining the final transaction price." },
-      { "question": "Is South City 1 considered a high-growth area for commercial property investment", "answer": "Yes South City 1 is universally recognized as one of Gurugram's most stable and high-potential commercial investment zones for retail assets. It benefits immensely from its strategic position between NH-48 and key affluent residential areas guaranteeing sustained high consumer demand. The limited availability of new commercial construction means existing shops enjoy strong capital appreciation and consistent growth in rental income making it a reliably safer and highly rewarding investment compared to many peripheral or less established sectors." },
-      { "question": "What are the typical rental yields I can realistically expect from a commercial shop here", "answer": "Typical rental yields for well-located ground floor retail units in South City 1 generally range between 45% and 65% depending significantly on the size quality of the structure tenant profile and the agreed lease terms. First floor commercial spaces often yield slightly lower but still highly attractive returns due to lower operational costs. The high density of affluent residents and reputable businesses ensures tenants are usually stable leading to predictable long-term returns on your commercial investment property." },
-      { "question": "What kind of businesses thrive best in the high-footfall commercial areas of South City 1", "answer": "Businesses that specifically cater to a high-end and demanding residential clientele flourish best in South City 1. This includes fine dining establishments specialized healthcare clinics high-fashion boutique clothing stores branded electronics showrooms premium salons and crucial financial service providers like banks and wealth management firms. The community values quality convenience and premium services making well-executed specialized retail extremely successful in this environment." },
-      { "question": "How important is guaranteed parking facility when purchasing a shop in this premium location", "answer": "Parking availability is absolutely critically important for achieving commercial success and maintaining high footfall in South City 1 due to the high volume of traffic from residents and regular visitors. Shops located in complexes or markets that offer dedicated or ample common parking space are significantly more attractive to customers and tenants. Limited or poor parking access can severely restrict customer flow especially for retail businesses requiring longer visits so this factor should be heavily scrutinized during the property selection process." },
-      { "question": "What are the specific legal steps involved in buying a commercial shop property in Gurugram", "answer": "The legal process involves rigorous title verification ensuring the seller has a clear legal and marketable ownership which often requires engaging a legal expert to review all previous sale deeds and current mutation records. Following comprehensive due diligence a binding Agreement to Sell is executed and necessary stamp duty is paid before the final Sale Deed is officially registered at the Sub-Registrar’s office in Gurugram. We assist in securing all necessary No Objection Certificates and ensuring full compliance with local municipal laws." },
-      { "question": "Can Non-Resident Indians NRIs invest in a Shop For Sale in South City 1 and what are the regulations", "answer": "Yes Non-Resident Indians NRIs and Persons of Indian Origin PIOs are fully permitted to purchase commercial properties including retail shops in India without requiring special prior approval from the RBI except for properties designated as agricultural or plantation land. The payment must strictly be routed through inward remittances or funds held in designated NRE or NRO accounts and all rental income derived is naturally subject to standard Indian tax laws and specified repatriation rules." },
-      { "question": "Are there mainly ready-to-move commercial shops available or only under-construction options in the sector", "answer": "Since South City 1 is a highly mature and well-established sector the significant majority of commercial properties available for sale are ready-to-move units guaranteeing immediate possession and potential rental income generation. While very limited opportunities for redevelopment or resale of older commercial structures may occasionally exist the current inventory is heavily dominated by finished shops that are ready for immediate tenant fit-outs or operational commencement." },
-      { "question": "What are the standard maintenance charges typically associated with commercial units in South City 1", "answer": "Maintenance charges for commercial shops usually cover essential services like common area security lighting upkeep of elevators if applicable and general cleaning and upkeep of the entire market complex or building structure. These charges can vary based on the developer the quality of amenities provided and the specific size of the unit but are generally comparable to other established premium commercial zones in Gurugram and are typically paid quarterly or semi-annually." },
-      { "question": "How does the crucial connectivity to the Delhi-Gurugram Expressway benefit shop owners here", "answer": "Direct and easy access to the Delhi-Gurugram Expressway NH-48 is a massive commercial asset as it greatly facilitates logistics and business activities across the wider National Capital Region NCR significantly broadening the potential customer reach. This superior connectivity makes the area highly attractive for major national retail chains and logistics-sensitive businesses seeking rapid access to both Delhi and other industrial parts of Gurugram ensuring sustained business flow and persistently high demand for commercial space." }
+      {
+        "question": "What factors determine the price of a Shop For Sale in South City 1 Gurugram",
+        "answer": "The pricing for commercial shops in South City 1 is primarily driven by several key factors including the exact location within the sector whether it is street-facing or internal complex position the total usable square footage and the specific floor level. Ground floor units typically command the highest premium due to maximum visibility and immediate accessibility while corner shops and those near major residential gates also fetch higher valuations reflecting increased potential footfall and branding impact. The age and maintenance quality of the commercial building also play a significant role in determining the final transaction price."
+      },
+      {
+        "question": "Is South City 1 considered a high-growth area for commercial property investment",
+        "answer": "Yes South City 1 is universally recognized as one of Gurugram's most stable and high-potential commercial investment zones for retail assets. It benefits immensely from its strategic position between NH-48 and key affluent residential areas guaranteeing sustained high consumer demand. The limited availability of new commercial construction means existing shops enjoy strong capital appreciation and consistent growth in rental income making it a reliably safer and highly rewarding investment compared to many peripheral or less established sectors."
+      },
+      {
+        "question": "What are the typical rental yields I can realistically expect from a commercial shop here",
+        "answer": "Typical rental yields for well-located ground floor retail units in South City 1 generally range between 45% and 65% depending significantly on the size quality of the structure tenant profile and the agreed lease terms. First floor commercial spaces often yield slightly lower but still highly attractive returns due to lower operational costs. The high density of affluent residents and reputable businesses ensures tenants are usually stable leading to predictable long-term returns on your commercial investment property."
+      },
+      {
+        "question": "What kind of businesses thrive best in the high-footfall commercial areas of South City 1",
+        "answer": "Businesses that specifically cater to a high-end and demanding residential clientele flourish best in South City 1. This includes fine dining establishments specialized healthcare clinics high-fashion boutique clothing stores branded electronics showrooms premium salons and crucial financial service providers like banks and wealth management firms. The community values quality convenience and premium services making well-executed specialized retail extremely successful in this environment."
+      },
+      {
+        "question": "How important is guaranteed parking facility when purchasing a shop in this premium location",
+        "answer": "Parking availability is absolutely critically important for achieving commercial success and maintaining high footfall in South City 1 due to the high volume of traffic from residents and regular visitors. Shops located in complexes or markets that offer dedicated or ample common parking space are significantly more attractive to customers and tenants. Limited or poor parking access can severely restrict customer flow especially for retail businesses requiring longer visits so this factor should be heavily scrutinized during the property selection process."
+      },
+      {
+        "question": "What are the specific legal steps involved in buying a commercial shop property in Gurugram",
+        "answer": "The legal process involves rigorous title verification ensuring the seller has a clear legal and marketable ownership which often requires engaging a legal expert to review all previous sale deeds and current mutation records. Following comprehensive due diligence a binding Agreement to Sell is executed and necessary stamp duty is paid before the final Sale Deed is officially registered at the Sub-Registrar’s office in Gurugram. We assist in securing all necessary No Objection Certificates and ensuring full compliance with local municipal laws."
+      },
+      {
+        "question": "Can Non-Resident Indians NRIs invest in a Shop For Sale in South City 1 and what are the regulations",
+        "answer": "Yes Non-Resident Indians NRIs and Persons of Indian Origin PIOs are fully permitted to purchase commercial properties including retail shops in India without requiring special prior approval from the RBI except for properties designated as agricultural or plantation land. The payment must strictly be routed through inward remittances or funds held in designated NRE or NRO accounts and all rental income derived is naturally subject to standard Indian tax laws and specified repatriation rules."
+      },
+      {
+        "question": "Are there mainly ready-to-move commercial shops available or only under-construction options in the sector",
+        "answer": "Since South City 1 is a highly mature and well-established sector the significant majority of commercial properties available for sale are ready-to-move units guaranteeing immediate possession and potential rental income generation. While very limited opportunities for redevelopment or resale of older commercial structures may occasionally exist the current inventory is heavily dominated by finished shops that are ready for immediate tenant fit-outs or operational commencement."
+      },
+      {
+        "question": "What are the standard maintenance charges typically associated with commercial units in South City 1",
+        "answer": "Maintenance charges for commercial shops usually cover essential services like common area security lighting upkeep of elevators if applicable and general cleaning and upkeep of the entire market complex or building structure. These charges can vary based on the developer the quality of amenities provided and the specific size of the unit but are generally comparable to other established premium commercial zones in Gurugram and are typically paid quarterly or semi-annually."
+      },
+      {
+        "question": "How does the crucial connectivity to the Delhi-Gurugram Expressway benefit shop owners here",
+        "answer": "Direct and easy access to the Delhi-Gurugram Expressway NH-48 is a massive commercial asset as it greatly facilitates logistics and business activities across the wider National Capital Region NCR significantly broadening the potential customer reach. This superior connectivity makes the area highly attractive for major national retail chains and logistics-sensitive businesses seeking rapid access to both Delhi and other industrial parts of Gurugram ensuring sustained business flow and persistently high demand for commercial space."
+      }
     ]
   },
   "contactSection": {
@@ -81,6 +206,11 @@
       "Ready to secure your future by investing in a high-performing Shop For Sale in South City 1 Gurugram Our specialized commercial real estate consultants are here to provide tailored advice deep market insights and exclusive verified property listings that perfectly match your investment profile and objectives.",
       "Do not miss the opportunity to own commercial property in one of Gurugram's most reliable and profitable sectors. Contact us today to schedule a confidential discussion a detailed market analysis or to arrange a personal site visit to the best available commercial units."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

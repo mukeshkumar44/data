@@ -7,12 +7,18 @@
       "Finding the ideal plot requires expert knowledge of zoning regulations development potential and infrastructural readiness. Our specialized team provides transparent guidance through the entire procurement process from initial site visits to final registration. Whether you seek a small residential plot for immediate construction or a larger parcel for long-term appreciation the opportunity to buy a plot for sale in Sector 109 right now is unparalleled. Do not miss out on establishing a crucial foothold in this dynamic corridor of New Gurugram."
     ],
     "buttons": [
-      { "label": "View Available Plots", "path": "/listings/sector-109" },
-      { "label": "Request A Callback Today", "path": "/contact" }
+      {
+        "label": "View Available Plots",
+        "path": "/listings/sector-109"
+      },
+      {
+        "label": "Request A Callback Today",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "sector-109-plot-hero-1.jpg",
-      "sector-109-dwarka-expressway.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "We list plots that benefit from proximity to major infrastructure projects ensuring future value enhancement and rapid growth. These surrounding sectors offer supplementary facilities such as major schools hospitals and commercial centers further solidifying Sector 109 as a prime investment destination for purchasing land."
     ],
     "locations": [
-      "Sector 106 Gurugram",
-      "Sector 108 Gurugram",
-      "Sector 110 Gurugram",
-      "Dwarka Expressway Access",
-      "New Palam Vihar",
-      "Bajghera Residential Hub",
-      "Daulatabad Industrial Area",
-      "Delhi Border Proximity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

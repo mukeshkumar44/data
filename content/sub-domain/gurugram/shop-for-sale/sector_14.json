@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-sector14-shop1.jpg",
-      "hero-sector14-shop2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "We provide listings in centrally located commercial buildings standalone market blocks and key surrounding zones that promise excellent future appreciation due to upcoming infrastructure development. Understanding the local economic drivers customer demographics and competitive environment is essential for selecting the best micro-location within or around Sector 14 for your next profitable retail venture or rental asset acquisition."
     ],
     "locations": [
-      "Old Delhi Road Commercial Strip",
-      "Mianwali Market Area",
-      "Sadar Bazaar Access Points",
-      "Near Signature Tower Junction",
-      "Housing Board Colony Market Extensions",
-      "Adjoining Sector 15 Commercial Belt",
-      "The Central Arcades of Sector 14",
-      "Major Connectivity Corridors to NH-48"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

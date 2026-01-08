@@ -7,10 +7,19 @@
       "Our curated selection of commercial properties ranges from small retail units perfect for start-ups to large high-street showrooms ideal for established brands looking to maximize visibility. Investing in a shop here means securing a strategic asset in a locality known for excellent connectivity robust infrastructure and continuous growth potential. Start your search today and find the ideal shop for sale in Ashok Vihar that meets your exact business requirements and long-term financial goals."
     ],
     "buttons": [
-      { "label": "Explore Premium Shops Now", "path": "/listings" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "Explore Premium Shops Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_shop_ashok_vihar.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Property Sizes and Layouts Ideal for Every Business Model",
@@ -52,13 +61,56 @@
       "We provide in-depth analysis of high-demand areas like Phase 1 where connectivity is paramount and Phase 3 known for large residential clusters ensuring you find the precise location to target your ideal customer base when searching for a commercial property or shop for sale in Ashok Vihar."
     ],
     "locations": [
-      "Ashok Vihar Phase 1 Market",
-      "Community Centre Ashok Vihar Phase 2",
-      "Deep Market",
-      "Wazirpur Industrial Area Proximity",
-      "Block C and D Retail Hubs",
-      "Near Satyawati College Main Road",
-      "DDA Market Sections"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -154,6 +206,11 @@
       "Ready to secure your profitable shop for sale in Ashok Vihar and capitalize on Delhi's dynamic commercial sector.",
       "Fill out the form below and our dedicated team will provide personalized listings detailed market reports and expert guidance tailored to your investment objectives."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

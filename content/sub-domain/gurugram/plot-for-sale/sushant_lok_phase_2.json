@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "sushant_lok_plot_aerial.jpg",
-      "sushant_lok_street_view.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The neighborhood benefits from proximity to the essential infrastructure that supports a luxury lifestyle, including high-end retail, healthcare facilities, and top educational institutions. This accessibility ensures that finding a Plot For Sale in Sushant Lok Phase 2 means buying into convenience and high quality of life."
     ],
     "locations": [
-      "Golf Course Road",
-      "Sector 56 Rapid Metro Station",
-      "HUDA Market Sector 56",
-      "Artemis Hospital",
-      "St Xaviers High School",
-      "DPS Sushant Lok",
-      "Sohna Road",
-      "NH 48 Delhi Jaipur Highway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

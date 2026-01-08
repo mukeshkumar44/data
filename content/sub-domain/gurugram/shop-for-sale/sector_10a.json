@@ -7,10 +7,19 @@
       "We present carefully curated commercial spaces ranging from small retail units to expansive showrooms designed to meet diverse investment criteria. This locality benefits from being centrally located near major roads and existing marketplaces ensuring a steady flow of customers and clients. Investing here means securing a strategic asset in one of Gurugram's fastest appreciating micro-markets guaranteeing excellent capital gains and robust returns on investment"
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/listings" },
-      { "label": "Request Expert Consultation", "path": "/contact" }
+      {
+        "label": "View Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Expert Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Commercial Options and Ideal Shop Sizes in Sector 10A Gurugram",
@@ -52,14 +61,56 @@
       "Exploring commercial property here means you are placing your capital near essential infrastructure and high-density population centers which is fundamental for high-yield returns in the Gurugram market. The connectivity via major roads further enhances the appeal of commercial holdings in Sector 10A."
     ],
     "locations": [
-      "Sector 10 Market",
-      "Sector 9 Chowk Commercial",
-      "Sheetla Mata Road Business District",
-      "Basai Enclave",
-      "Old Delhi Road Access Points",
-      "Civil Lines Area",
-      "Khandsa Road Commercial Stretch",
-      "Dundahera Village Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to find the perfect Shop For Sale in Sector 10A Get in touch with our commercial real estate specialists today. We provide personalized property tours detailed investment reports and legal advisory services tailored to your financial goals.",
       "Don't miss out on securing a high-yield asset in one of Gurugram's most promising commercial zones. Contact us now for exclusive listings and expert guidance."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

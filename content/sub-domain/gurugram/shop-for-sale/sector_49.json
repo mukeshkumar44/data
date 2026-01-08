@@ -7,10 +7,19 @@
       "We provide curated listings of the best commercial properties ranging from high-street retail spaces to SCO plots and specialized F&B units. Our focus is on identifying properties that offer maximum rental yield and long-term capital appreciation. Explore sophisticated commercial developments built to modern standards, designed to attract premium clientele and provide excellent retail environments. Start your journey to owning a thriving commercial shop today and capitalize on Gurugram's rapid economic expansion."
     ],
     "buttons": [
-      { "label": "View All Commercial Shops", "path": "/listings" },
-      { "label": "Request Investment Guide", "path": "/contact" }
+      {
+        "label": "View All Commercial Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Investment Guide",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Investment Opportunities When Looking for Shop For Sale in Sector 49",
@@ -52,14 +61,56 @@
       "Furthermore the sector enjoys superb connectivity to major commercial arteries including Sohna Road and the Golf Course Extension Road making it easily accessible for customers coming from across Gurugram and Delhi NCR. This strategic location minimizes vacancy risks and maximizes rental profitability making commercial properties here exceptionally stable long-term investments."
     ],
     "locations": [
-      "Sector 50 Gurugram Residential Hub",
-      "Nirvana Country Premium Housing",
-      "South City 2 Affluent Neighborhood",
-      "Sohna Road Commercial Corridor",
-      "Golf Course Extension Road Connectivity",
-      "HUDA City Centre Metro Access",
-      "Vipul Greens Residential Society",
-      "JMD Megapolis IT Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure your high-performing shop for sale in Sector 49 Gurugram Our dedicated commercial investment team offers personalized consultation tailored to your financial goals and risk profile. We provide comprehensive market data, legal assistance, and access to exclusive off-market listings.",
       "Do not miss the opportunity to invest in one of Gurugram's fastest appreciating commercial zones. Contact us now to schedule a site visit and receive a detailed investment prospectus at no obligation."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,10 +7,19 @@
       "Explore diverse plot sizes that cater to every need from compact family homes to expansive luxury villas. Every Plot For Sale in Sector 51 offers clear legal titles immediate possession options and access to developed amenities including wide roads power backup and robust security infrastructure. Start your journey towards custom-built luxury today and capitalize on Gurugram’s rapidly appreciating real estate market. Contact our Sector 51 specialists to review verified listings and secure the best deals before they are gone."
     ],
     "buttons": [
-      { "label": "Explore Available Plots", "path": "/plots/sector-51/listings" },
-      { "label": "Request Immediate Callback", "path": "/contact" }
+      {
+        "label": "Explore Available Plots",
+        "path": "/plots/sector-51/listings"
+      },
+      {
+        "label": "Request Immediate Callback",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Ideal Plot Sizes Available for Custom Home Construction in Sector 51 Gurugram",
@@ -52,14 +61,56 @@
       "The connectivity advantages mean that professional hubs major hospitals renowned educational institutions and retail centers are just minutes away from any Plot For Sale in Sector 51. This unparalleled convenience significantly contributes to the high appreciation rates and sustained demand for residential plots in this area making it an ideal choice for both end-users and serious property investors looking for reliability."
     ],
     "locations": [
-      "HUDA City Centre Metro Station Access",
-      "Proximity to Artemis Hospital and Medanta Medicity",
-      "Direct Access to Sohna Road and SPR",
-      "Nearby Sector 50 Nirvana Country",
-      "Close to DPS International and St. Xaviers High School",
-      "Easy Commute to Cyber City and Golf Course Road",
-      "Omaxe City Centre and Hong Kong Bazaar nearby",
-      "Well-developed internal sector roads and utilities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

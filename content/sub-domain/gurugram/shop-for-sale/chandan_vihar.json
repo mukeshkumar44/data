@@ -7,10 +7,19 @@
       "We present a curated selection of ownership opportunities from compact retail spaces ideal for startups to large showroom floors perfect for established brands. Invest strategically in Chandan Vihar real estate ensuring sustained rental yields and long-term capital appreciation. Explore listings with clear titles excellent connectivity and proximity to essential services ensuring your new commercial space is positioned for maximum success."
     ],
     "buttons": [
-      { "label": "View Available Commercial Shops", "path": "/listings" },
-      { "label": "Get Free Investment Consultation", "path": "/contact" }
+      {
+        "label": "View Available Commercial Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Free Investment Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/shop-chandan-vihar-hero.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Space Sizes for Sale in Chandan Vihar",
@@ -19,29 +28,29 @@
       "Whether you are searching for a high-street shop a ground-floor retail unit or a commercial space suitable for a medical clinic or office we offer options that maximize visibility and accessibility. Review the types of commercial shop spaces currently dominating the Chandan Vihar property market."
     ],
     "features": [
-      { 
-        "title": "Compact Retail Units", 
-        "description": "Ideal for small businesses startups or specialty stores seeking high visibility at an affordable entry price point. These units offer essential frontage perfect for chemist shops quick service restaurants or boutique retail outlets. Securing a compact shop for sale in Chandan Vihar ensures you tap into the localized daily consumer base quickly and efficiently without high overheads." 
+      {
+        "title": "Compact Retail Units",
+        "description": "Ideal for small businesses startups or specialty stores seeking high visibility at an affordable entry price point. These units offer essential frontage perfect for chemist shops quick service restaurants or boutique retail outlets. Securing a compact shop for sale in Chandan Vihar ensures you tap into the localized daily consumer base quickly and efficiently without high overheads."
       },
-      { 
-        "title": "Mid-Sized Commercial Shops", 
-        "description": "Offering flexibility for businesses requiring moderate storage or display areas such as fashion outlets electronics stores or mid-sized grocery providers. These spaces typically benefit from prominent ground floor positioning within established market complexes guaranteeing consistent shopper flow. This size provides the perfect balance between investment cost and operational capacity in Chandan Vihar." 
+      {
+        "title": "Mid-Sized Commercial Shops",
+        "description": "Offering flexibility for businesses requiring moderate storage or display areas such as fashion outlets electronics stores or mid-sized grocery providers. These spaces typically benefit from prominent ground floor positioning within established market complexes guaranteeing consistent shopper flow. This size provides the perfect balance between investment cost and operational capacity in Chandan Vihar."
       },
-      { 
-        "title": "Large Showroom Spaces", 
-        "description": "Designed for brands needing expansive display areas and high aesthetic appeal such as automobile dealerships furniture stores or banking service centers. These commercial spaces often occupy corner plots or main road frontages maximizing brand presence and attracting a wider demographic. Investing in a large shop for sale ensures dominant market positioning within the Chandan Vihar commercial ecosystem." 
+      {
+        "title": "Large Showroom Spaces",
+        "description": "Designed for brands needing expansive display areas and high aesthetic appeal such as automobile dealerships furniture stores or banking service centers. These commercial spaces often occupy corner plots or main road frontages maximizing brand presence and attracting a wider demographic. Investing in a large shop for sale ensures dominant market positioning within the Chandan Vihar commercial ecosystem."
       },
-      { 
-        "title": "First Floor Office Units", 
-        "description": "While not traditional retail shops these commercial units are perfect for service-oriented businesses like dental clinics accountants or insurance agencies. They offer professional settings lower per-square-foot costs and maintain proximity to the ground-floor retail activity. Find strategically located first-floor commercial units offering excellent long-term rental income potential in Chandan Vihar." 
+      {
+        "title": "First Floor Office Units",
+        "description": "While not traditional retail shops these commercial units are perfect for service-oriented businesses like dental clinics accountants or insurance agencies. They offer professional settings lower per-square-foot costs and maintain proximity to the ground-floor retail activity. Find strategically located first-floor commercial units offering excellent long-term rental income potential in Chandan Vihar."
       },
-      { 
-        "title": "Corner Shops with High Frontage", 
-        "description": "Corner plots are the gold standard for visibility and accessibility offering dual exposure and ample space for branding and signage. These premium shops demand higher investment but deliver superior returns through maximized customer engagement. This is the optimal choice for anchor tenants or flagship stores looking for the best shop for sale location in the locality." 
+      {
+        "title": "Corner Shops with High Frontage",
+        "description": "Corner plots are the gold standard for visibility and accessibility offering dual exposure and ample space for branding and signage. These premium shops demand higher investment but deliver superior returns through maximized customer engagement. This is the optimal choice for anchor tenants or flagship stores looking for the best shop for sale location in the locality."
       },
-      { 
-        "title": "Shops in Commercial Complexes", 
-        "description": "These properties benefit from integrated security maintenance and shared amenities within a dedicated commercial building structure. Ideal for businesses seeking a modern organized environment and benefiting from the synergistic foot traffic generated by neighboring businesses. We list high-demand shops within the newest commercial developments across Chandan Vihar." 
+      {
+        "title": "Shops in Commercial Complexes",
+        "description": "These properties benefit from integrated security maintenance and shared amenities within a dedicated commercial building structure. Ideal for businesses seeking a modern organized environment and benefiting from the synergistic foot traffic generated by neighboring businesses. We list high-demand shops within the newest commercial developments across Chandan Vihar."
       }
     ]
   },
@@ -52,14 +61,56 @@
       "We specialize in identifying prime commercial real estate that bridges local demand with strategic accessibility. Explore shops that are close to major residential colonies schools and main arterial roads ensuring your business is always within easy reach of your target consumers. Investing in a shop for sale here means buying into a neighborhood with proven economic stability."
     ],
     "locations": [
-      "Main Market Road Chandan Vihar",
-      "Proximity to Major Residential Blocks",
-      "Areas near Public Transport Hubs",
-      "Near Commercial Banks and ATMs",
-      "Adjacent to Busy School Zones",
-      "High Visibility Corner Locations",
-      "Upcoming Retail Development Zones",
-      "Service Road Access Points"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -69,37 +120,37 @@
       "Our dedicated expertise simplifies the process of finding the most profitable shop ensuring clear documentation transparent transactions and accurate valuation aligned with current market trends."
     ],
     "points": [
-      { 
-        "title": "Guaranteed High Foot Traffic", 
-        "description": "Chandan Vihar is densely populated ensuring a natural flow of potential customers throughout the day unlike purely office-centric locations. This constant activity guarantees maximum visibility for any shop enhancing sales potential and securing reliable rental income making the shop for sale a highly liquid asset." 
+      {
+        "title": "Guaranteed High Foot Traffic",
+        "description": "Chandan Vihar is densely populated ensuring a natural flow of potential customers throughout the day unlike purely office-centric locations. This constant activity guarantees maximum visibility for any shop enhancing sales potential and securing reliable rental income making the shop for sale a highly liquid asset."
       },
-      { 
-        "title": "Strong Rental Yield Potential", 
-        "description": "Due to high demand and limited prime retail space available commercial properties here command premium rental rates. Investors can expect a strong and consistent rental yield outperforming many residential investment alternatives in the surrounding region. Secure your financial future with a high-performing asset in Chandan Vihar." 
+      {
+        "title": "Strong Rental Yield Potential",
+        "description": "Due to high demand and limited prime retail space available commercial properties here command premium rental rates. Investors can expect a strong and consistent rental yield outperforming many residential investment alternatives in the surrounding region. Secure your financial future with a high-performing asset in Chandan Vihar."
       },
-      { 
-        "title": "Established Local Economy", 
-        "description": "This locality boasts a stable and diverse local economy reducing the risks associated with speculative market areas. Businesses thrive on the essential service demands of the large local population ensuring long-term viability for almost any commercial venture established here." 
+      {
+        "title": "Established Local Economy",
+        "description": "This locality boasts a stable and diverse local economy reducing the risks associated with speculative market areas. Businesses thrive on the essential service demands of the large local population ensuring long-term viability for almost any commercial venture established here."
       },
-      { 
-        "title": "Strategic Connectivity", 
-        "description": "Chandan Vihar offers excellent road connectivity to major nearby towns and city centers attracting customers from surrounding neighborhoods. Accessibility is a crucial factor for commercial success and this location provides easy access for both private vehicles and public transport users." 
+      {
+        "title": "Strategic Connectivity",
+        "description": "Chandan Vihar offers excellent road connectivity to major nearby towns and city centers attracting customers from surrounding neighborhoods. Accessibility is a crucial factor for commercial success and this location provides easy access for both private vehicles and public transport users."
       },
-      { 
-        "title": "Future Infrastructure Growth", 
-        "description": "The area is continually seeing infrastructural improvements and civic upgrades which further enhance property values and attract higher-caliber commercial tenants. Investing now positions you to benefit from future capital appreciation driven by development." 
+      {
+        "title": "Future Infrastructure Growth",
+        "description": "The area is continually seeing infrastructural improvements and civic upgrades which further enhance property values and attract higher-caliber commercial tenants. Investing now positions you to benefit from future capital appreciation driven by development."
       },
-      { 
-        "title": "Variety of Property Choices", 
-        "description": "We offer a wide inventory of commercial shops including newly constructed units resale properties and bare-shell spaces allowing you to select the precise size and configuration that matches your specific business model and investment criteria." 
+      {
+        "title": "Variety of Property Choices",
+        "description": "We offer a wide inventory of commercial shops including newly constructed units resale properties and bare-shell spaces allowing you to select the precise size and configuration that matches your specific business model and investment criteria."
       },
-      { 
-        "title": "Clear Legal Documentation", 
-        "description": "Our portfolio focuses exclusively on verified properties with clear titles and compliant legal paperwork minimizing transaction risks and ensuring a smooth hassle-free acquisition process. We prioritize transparency when listing any shop for sale in Chandan Vihar." 
+      {
+        "title": "Clear Legal Documentation",
+        "description": "Our portfolio focuses exclusively on verified properties with clear titles and compliant legal paperwork minimizing transaction risks and ensuring a smooth hassle-free acquisition process. We prioritize transparency when listing any shop for sale in Chandan Vihar."
       },
-      { 
-        "title": "Expert Market Insights", 
-        "description": "Benefit from our deep understanding of the Chandan Vihar commercial real estate market. We provide accurate valuation negotiation support and comprehensive guidance ensuring you make an informed decision and maximize your return on investment." 
+      {
+        "title": "Expert Market Insights",
+        "description": "Benefit from our deep understanding of the Chandan Vihar commercial real estate market. We provide accurate valuation negotiation support and comprehensive guidance ensuring you make an informed decision and maximize your return on investment."
       }
     ]
   },
@@ -107,45 +158,45 @@
     "title": "Frequently Asked Questions about Buying a Shop in Chandan Vihar",
     "description": "Get essential clarity on market trends investment viability and legal requirements associated with purchasing commercial property in this dynamic locality.",
     "faqs": [
-      { 
-        "question": "What is the typical price range for a small retail shop for sale in Chandan Vihar", 
-        "answer": "The price range for a commercial shop in Chandan Vihar is highly dependent on its exact location particularly whether it is on the main road or in an internal market its size and the floor level. Generally compact retail units on the ground floor start at a higher premium due to maximum visibility. We recommend scheduling a consultation to receive the most current real-time pricing and availability tailored to your budget requirements as the market is constantly evolving based on local demand and supply factors." 
+      {
+        "question": "What is the typical price range for a small retail shop for sale in Chandan Vihar",
+        "answer": "The price range for a commercial shop in Chandan Vihar is highly dependent on its exact location particularly whether it is on the main road or in an internal market its size and the floor level. Generally compact retail units on the ground floor start at a higher premium due to maximum visibility. We recommend scheduling a consultation to receive the most current real-time pricing and availability tailored to your budget requirements as the market is constantly evolving based on local demand and supply factors."
       },
-      { 
-        "question": "Are there financing options available for purchasing commercial property here", 
-        "answer": "Yes most major national and private banks offer robust commercial property loan options for investors seeking to purchase a shop for sale in Chandan Vihar. These loans typically cover a significant percentage of the property value depending on the borrower's financial profile and the specific property valuation. We can connect you with experienced financial advisors who specialize in commercial real estate lending to ensure you secure the best interest rates and terms." 
+      {
+        "question": "Are there financing options available for purchasing commercial property here",
+        "answer": "Yes most major national and private banks offer robust commercial property loan options for investors seeking to purchase a shop for sale in Chandan Vihar. These loans typically cover a significant percentage of the property value depending on the borrower's financial profile and the specific property valuation. We can connect you with experienced financial advisors who specialize in commercial real estate lending to ensure you secure the best interest rates and terms."
       },
-      { 
-        "question": "What documents are required to complete the sale deed for a commercial shop", 
-        "answer": "The required documents usually include the original title deed of the property mutation records current property tax receipts no-objection certificates if applicable and the approved building plan. Additionally both the buyer and seller need to provide identity proof and PAN cards. Our legal team meticulously verifies all documentation before proceeding ensuring a legally compliant and secure transaction for your Chandan Vihar shop purchase." 
+      {
+        "question": "What documents are required to complete the sale deed for a commercial shop",
+        "answer": "The required documents usually include the original title deed of the property mutation records current property tax receipts no-objection certificates if applicable and the approved building plan. Additionally both the buyer and seller need to provide identity proof and PAN cards. Our legal team meticulously verifies all documentation before proceeding ensuring a legally compliant and secure transaction for your Chandan Vihar shop purchase."
       },
-      { 
-        "question": "Is Chandan Vihar a good area for long-term commercial investment and appreciation", 
-        "answer": "Absolutely Chandan Vihar is considered a highly desirable location for long-term commercial investment due to its established infrastructure high population density and limited new commercial space development. These factors contribute to steady capital appreciation and reliable tenant demand ensuring your investment grows significantly over time especially for main road facing shop properties." 
+      {
+        "question": "Is Chandan Vihar a good area for long-term commercial investment and appreciation",
+        "answer": "Absolutely Chandan Vihar is considered a highly desirable location for long-term commercial investment due to its established infrastructure high population density and limited new commercial space development. These factors contribute to steady capital appreciation and reliable tenant demand ensuring your investment grows significantly over time especially for main road facing shop properties."
       },
-      { 
-        "question": "What is the expected rental yield from a shop in a prime location in Chandan Vihar", 
-        "answer": "While rental yields vary based on the specific micro-location and property condition prime ground-floor shops in Chandan Vihar generally offer competitive rental yields often higher than surrounding residential areas. We provide detailed feasibility reports and rental assessments to project your expected income accurately based on prevailing market rates for similar commercial premises." 
+      {
+        "question": "What is the expected rental yield from a shop in a prime location in Chandan Vihar",
+        "answer": "While rental yields vary based on the specific micro-location and property condition prime ground-floor shops in Chandan Vihar generally offer competitive rental yields often higher than surrounding residential areas. We provide detailed feasibility reports and rental assessments to project your expected income accurately based on prevailing market rates for similar commercial premises."
       },
-      { 
-        "question": "How important is proximity to residential areas for a retail shop in this locality", 
-        "answer": "Proximity to dense residential areas is paramount for retail success in Chandan Vihar. Retail shops especially those catering to daily needs like groceries pharmacies and local services rely heavily on immediate neighborhood consumption. A location close to residential colonies guarantees consistent foot traffic and repeat business which is vital for sustained commercial viability." 
+      {
+        "question": "How important is proximity to residential areas for a retail shop in this locality",
+        "answer": "Proximity to dense residential areas is paramount for retail success in Chandan Vihar. Retail shops especially those catering to daily needs like groceries pharmacies and local services rely heavily on immediate neighborhood consumption. A location close to residential colonies guarantees consistent foot traffic and repeat business which is vital for sustained commercial viability."
       },
-      { 
-        "question": "Can I buy a shell and core shop and customize the interior myself", 
-        "answer": "Yes many new commercial projects and some resale opportunities offer shell and core units providing buyers with the flexibility to design the interior layout electrical systems and finishes exactly to their business requirements. This is particularly advantageous for specialized businesses like clinics or restaurants requiring unique functional spaces within their Chandan Vihar shop." 
+      {
+        "question": "Can I buy a shell and core shop and customize the interior myself",
+        "answer": "Yes many new commercial projects and some resale opportunities offer shell and core units providing buyers with the flexibility to design the interior layout electrical systems and finishes exactly to their business requirements. This is particularly advantageous for specialized businesses like clinics or restaurants requiring unique functional spaces within their Chandan Vihar shop."
       },
-      { 
-        "question": "What are the common challenges when buying commercial property here", 
-        "answer": "Common challenges include verifying the legality of older structures negotiating competitive prices and assessing future infrastructure changes that might affect access or visibility. Our specialized real estate agents mitigate these challenges by providing thorough due diligence detailed valuation reports and skilled negotiation representation ensuring a smooth acquisition process." 
+      {
+        "question": "What are the common challenges when buying commercial property here",
+        "answer": "Common challenges include verifying the legality of older structures negotiating competitive prices and assessing future infrastructure changes that might affect access or visibility. Our specialized real estate agents mitigate these challenges by providing thorough due diligence detailed valuation reports and skilled negotiation representation ensuring a smooth acquisition process."
       },
-      { 
-        "question": "Do I need RERA registration when buying a commercial shop for sale", 
-        "answer": "If you are purchasing a shop within a newly launched or under-construction commercial project that meets RERA threshold requirements the project must be RERA registered. For resale commercial properties RERA compliance is generally verified at the project level. Always ensure that the developer or seller adheres to all mandatory regulatory guidelines to protect your investment in Chandan Vihar." 
+      {
+        "question": "Do I need RERA registration when buying a commercial shop for sale",
+        "answer": "If you are purchasing a shop within a newly launched or under-construction commercial project that meets RERA threshold requirements the project must be RERA registered. For resale commercial properties RERA compliance is generally verified at the project level. Always ensure that the developer or seller adheres to all mandatory regulatory guidelines to protect your investment in Chandan Vihar."
       },
-      { 
-        "question": "How quickly can I finalize the purchase of a ready-to-move shop in Chandan Vihar", 
-        "answer": "The timeline depends on factors like financing arrangements and the speed of legal documentation processing. If you have pre-approved financing and the documentation is clear the process can typically be completed within 45 to 60 days. Our team works proactively to expedite legal verification and registration to minimize delays in securing your new shop." 
+      {
+        "question": "How quickly can I finalize the purchase of a ready-to-move shop in Chandan Vihar",
+        "answer": "The timeline depends on factors like financing arrangements and the speed of legal documentation processing. If you have pre-approved financing and the documentation is clear the process can typically be completed within 45 to 60 days. Our team works proactively to expedite legal verification and registration to minimize delays in securing your new shop."
       }
     ]
   },
@@ -155,6 +206,11 @@
       "Ready to secure the best shop for sale opportunity in Chandan Vihar Do not navigate this lucrative market alone. Our experts are here to provide tailored advice and exclusive property listings that match your investment goals.",
       "Fill out the form below to receive a personalized consultation and a curated list of high-potential commercial shops perfect for immediate purchase or long-term lease investments."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,10 +7,19 @@
       "Discover unparalleled freedom to design and build your dream home exactly the way you envision it. Investing in a residential Plot For Sale in Sector 80 places you at the epicenter of New Gurugram's rapid infrastructural growth. Whether you are looking for a small plot for immediate construction or a larger parcel for a high-value future asset our comprehensive listings cover every possibility ensuring your property goals are met with precision and professionalism. Start exploring the best land opportunities Sector 80 Gurugram has to offer right now."
     ],
     "buttons": [
-      { "label": "Download Plot Brochure", "path": "/brochure" },
-      { "label": "Arrange Site Visit", "path": "/contact" }
+      {
+        "label": "Download Plot Brochure",
+        "path": "/brochure"
+      },
+      {
+        "label": "Arrange Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero-image-1.jpg", "hero-image-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Plot Sizes and Investment Opportunities in Sector 80 Gurugram",
@@ -52,14 +61,56 @@
       "The sector is designed to minimize commuting time providing residents with more time to enjoy their custom-built homes and local amenities. Access to major highways and upcoming infrastructure projects solidifies Sector 80 as a core part of the burgeoning New Gurugram real estate ecosystem ensuring sustained demand."
     ],
     "locations": [
-      "NH 48 National Highway",
-      "Manesar Industrial Area",
-      "Dwarka Expressway Junction",
-      "KMP Expressway Proximity",
-      "Sector 82 Residential Hub",
-      "Sapphire 83 Mall Commercial Center",
-      "Sohna Road Accessibility",
-      "IMT Manesar Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Contact our expert property advisors today to receive curated listings and detailed financial projections for the best Plot For Sale in Sector 80. We provide personalized service from initial inquiry to final registration.",
       "Do not miss out on this opportunity to build your legacy in one of Gurugram's most promising residential sectors. Fill out the form below to receive an immediate callback."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Plot Sizes Available in Civil Lines Offering Unique Residential Opportunities",
@@ -58,14 +61,56 @@
       "Choosing Civil Lines means choosing convenience prestige and security. We have highlighted key locations and amenities nearby that contribute to the exceptional livability and long-term investment potential of your future plot. These advantages underscore why Civil Lines remains a preferred residential address for senior bureaucrats professionals and prominent business families."
     ],
     "locations": [
-      "Access to Major Arterial Roads and Expressways",
-      "Proximity to Elite Educational Institutions and Universities",
-      "High-End Medical Centers and Specialty Hospitals",
-      "Exclusive Gymkhanas and Sports Clubs",
-      "Retail Malls and Premium Shopping Centers",
-      "Financial District and Corporate Offices",
-      "Major Connectivity via Nearby Metro Stations",
-      "Established Government Administrative Hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

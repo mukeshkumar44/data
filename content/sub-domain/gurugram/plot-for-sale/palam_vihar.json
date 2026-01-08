@@ -7,10 +7,19 @@
       "We provide access to meticulously verified plots, ranging from compact sizes perfect for nuclear families to large estate plots ready for custom luxury construction. Investing in land here allows you the freedom to design your dream home exactly as you envision it, without the limitations of pre-built apartments. Explore our exclusive listings of freehold and approved residential plots in prime locations within Palam Vihar and start building your future today. Our experts are ready to guide you through every step of the purchasing process."
     ],
     "buttons": [
-      { "label": "Browse Verified Listings", "path": "/listings" },
-      { "label": "Get Free Consultation", "path": "/contact" }
+      {
+        "label": "Browse Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Free Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero_plot_palam_vihar.jpg", "aerial_view_palam_vihar.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Finding the Perfect Size Plot For Sale in Palam Vihar to Match Your Vision",
@@ -52,14 +61,56 @@
       "We focus on plots that are strategically located, providing easy access to NH-48, Dwarka Expressway, schools, hospitals, and shopping centers. Our listed plots are situated in blocks known for superior infrastructure, well-maintained parks, and excellent community security features. Below are some of the most prominent sectors and blocks where we currently have verified Plot For Sale in Palam Vihar listings."
     ],
     "locations": [
-      "Palam Vihar Extension",
-      "Sector 23 A",
-      "Sector 22",
-      "New Palam Vihar Phase 1",
-      "Ansal Palam Vihar",
-      "Sushant Lok 3 (Nearby connectivity)",
-      "Vatika India Next (Adjacent investment corridor)",
-      "Maruti Kunj (Future growth potential)"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to take the next step towards owning a premium Plot For Sale in Palam Vihar Gurugram? Our dedicated property consultants possess deep local market knowledge and are committed to helping you find the ideal investment that meets your exact specifications and financial goals.",
       "Submit your details below for a personalized consultation, access to our off-market inventory, and detailed site visits. Let us handle the complexities of plot acquisition while you focus on designing your future home."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

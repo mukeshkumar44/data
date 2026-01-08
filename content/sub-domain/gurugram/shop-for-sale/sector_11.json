@@ -7,12 +7,18 @@
       "This area caters to a mix of residential communities and institutional presence, ensuring consistent foot traffic vital for retail success. We offer curated listings including ground-floor retail spaces, modern high-street shops, and larger showroom options perfect for various business models. Investing here guarantees visibility and accessibility. Our expert team provides end-to-end guidance, helping you navigate legal due diligence and secure premium commercial space that aligns perfectly with your financial goals."
     ],
     "buttons": [
-      { "label": "View Current Listings", "path": "/listings/sector11/shops" },
-      { "label": "Speak to an Expert", "path": "/contact" }
+      {
+        "label": "View Current Listings",
+        "path": "/listings/sector11/shops"
+      },
+      {
+        "label": "Speak to an Expert",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "shop_sector11_hero1.jpg",
-      "shop_sector11_hero2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "This strategic position ensures that whether your tenants are local residents, commuters, or corporate employees, they find the location convenient and accessible. Proximity to well-established markets and upcoming infrastructural developments further solidifies Sector 11 as a prime commercial destination, insulating investors from market volatility. We highlight properties positioned closest to public transport routes and high-density residential clusters for guaranteed foot traffic."
     ],
     "locations": [
-      "Sector 10 Residential Hub",
-      "Sector 9 Retail Market",
-      "Pataudi Road Industrial Belt",
-      "Dwarka Expressway Link Road",
-      "Old Gurugram Road Access",
-      "Sultanpur Bypass Connector"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

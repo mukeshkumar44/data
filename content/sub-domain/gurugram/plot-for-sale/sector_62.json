@@ -7,12 +7,18 @@
       "We offer verified residential plots designed to meet diverse requirements from small builder floors to sprawling luxury villas. This sector offers a mix of developed and rapidly developing residential land ensuring robust appreciation potential in the coming years. Explore our curated listings today and take the first step towards owning a piece of this exclusive Gurugram locality. Our commitment is to provide transparent deals and expert guidance throughout your journey to acquire the ideal plot."
     ],
     "buttons": [
-      { "label": "View Verified Plots", "path": "/plots/sector62" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "View Verified Plots",
+        "path": "/plots/sector62"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "/images/sector62_plot_view1.jpg",
-      "/images/sector62_map_overlay.png"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The sector benefits from seamless connectivity to major expressways and arterial roads ensuring quick access to Delhi NCR. Investing here means placing your capital in a location guaranteed to benefit from ongoing infrastructural enhancements and sustained corporate migration."
     ],
     "locations": [
-      "Sector 61 Residential Hub",
-      "Sector 63 Commercial Development",
-      "Golf Course Extension Road Access",
-      "Rapid Metro Station Sector 55/56",
-      "WorldMark Sector 65 Retail Center",
-      "Hong Kong Bazaar Shopping",
-      "NH 48 National Highway Connectivity",
-      "IREO Grand Arch Community"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

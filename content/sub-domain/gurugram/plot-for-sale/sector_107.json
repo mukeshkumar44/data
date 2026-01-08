@@ -7,10 +7,19 @@
       "We offer fully vetted and RERA-compliant residential plots ranging from boutique sizes perfect for independent floors to expansive layouts ideal for luxury villas. If you are searching for high-appreciation potential and premium living space, exploring a Plot For Sale in Sector 107 is your perfect first step. Capitalize on Gurugram’s unparalleled infrastructural boom today before prices escalate further and secure a foundational asset in a truly prime location."
     ],
     "buttons": [
-      { "label": "View Available Plots", "path": "/listings" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "View Available Plots",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero-plot-107.jpg", "sector-107-map.png"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Ideal Residential Plot Sizes Available for Investment in Sector 107 Gurugram",
@@ -52,12 +61,56 @@
       "Investing in a Plot For Sale in Sector 107 means buying into a location with confirmed future value appreciation linked directly to Government spending on infrastructure. Key destinations like major hospitals, international schools, and large retail outlets are merely minutes away, ensuring a high quality of life for residents. Furthermore, its location eases the daily commute for professionals working across the NCR making it a preferred address for discerning homeowners and savvy investors alike."
     ],
     "locations": [
-      "Dwarka Expressway Access Points",
-      "IGI Airport Delhi 25 minutes drive",
-      "Cyber City Gurugram 30 minutes drive",
-      "NH-48 National Highway 8 access",
-      "Upcoming Metro Station Points",
-      "Reputed Schools and Hospitals nearby"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to secure a highly valuable asset in one of Gurugram’s fastest-growing sectors We are here to provide tailored advice and exclusive inventory access.",
       "Get personalized market reports, legal guidance, and schedule a site visit to the best Plot For Sale in Sector 107 that meets your vision. We ensure a smooth, transparent buying journey."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

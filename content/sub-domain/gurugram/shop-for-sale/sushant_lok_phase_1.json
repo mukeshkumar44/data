@@ -7,10 +7,19 @@
       "Explore exclusive listings of commercial spaces ranging from compact retail outlets ideal for boutiques to expansive double-height showrooms suitable for anchor brands. We simplify the search process providing verified details transparent pricing and professional guidance to ensure your acquisition is seamless and profitable. Don't miss the opportunity to own commercial real estate in one of Gurugram's most sought-after prime locations ready for immediate possession and high returns on investment."
     ],
     "buttons": [
-      { "label": "View All Shop Listings Now", "path": "/listings" },
-      { "label": "Schedule a Site Visit Today", "path": "/contact" }
+      {
+        "label": "View All Shop Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit Today",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Property Options Available When You Look for a Shop For Sale in Sushant Lok Phase 1",
@@ -52,12 +61,56 @@
       "The area is easily accessible via the MG Road metro station and major arterial roads ensuring smooth transport for staff and customers. Nearby commercial neighbours like DLF Phase 4 Galleria Market and Sector 29 Entertainment District ensure that this area remains a focal point for shopping leisure and business activities. This inherent location advantage is why commercial properties here maintain high occupancy rates and excellent capital growth projections."
     ],
     "locations": [
-      "Near IFFCO Chowk Metro Station",
-      "Proximity to Galleria Market",
-      "Close to DLF Corporate Parks",
-      "Direct Access to MG Road",
-      "Near Max Hospital Gurugram",
-      "Residential Catchment of DLF City"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to explore the best selection of commercial shops for sale in Sushant Lok Phase 1 Gurugram Contact our specialised investment team now for exclusive market access and detailed property analysis. We are committed to helping you find a high-yielding asset.",
       "Fill out the form below to receive a curated list of properties that match your investment budget and specific business requirements."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

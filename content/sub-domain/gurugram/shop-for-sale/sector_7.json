@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Investment Opportunities When Searching for a Shop For Sale in Sector 7 Gurugram",
@@ -58,14 +61,56 @@
       "Nearby established markets contribute to a synergistic effect attracting a wider range of customers. Our experts analyze these micro-market dynamics ensuring your investment is placed in a zone poised for maximum appreciation. We provide insights into upcoming infrastructural developments such as elevated flyovers or metro connectivity extensions that will further boost commercial viability making a Shop For Sale in Sector 7 a truly future-proof asset. Explore the investment potential that arises from its proximity to established residential sectors and major business districts maximizing both rental and capital returns."
     ],
     "locations": [
-      "Sector 7 Main Market",
-      "Old Delhi Road Commercial Belt",
-      "Signature Tower Area",
-      "Sector 14 Retail Hub",
-      "DLF City Phase 3 Access Points",
-      "HUDA Market Palam Vihar",
-      "Gurugram Railway Station Proximity",
-      "Commercial Malls on MG Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -169,4 +214,3 @@
     ]
   }
 }
-```

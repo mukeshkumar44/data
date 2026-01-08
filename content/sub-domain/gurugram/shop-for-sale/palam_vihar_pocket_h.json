@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Commercial Spaces and High-Yield Retail Investment Opportunities in Palam Vihar Pocket H",
@@ -58,12 +61,56 @@
       "Connectivity is seamless with excellent access to major arterial roads leading to Dwarka Expressway Delhi and the main sectors of Gurugram. High-quality road infrastructure ensures easy movement of goods and customers. The area is serviced by robust public transport networks further driving pedestrian traffic and making your shop for sale in Palam Vihar Pocket H highly desirable to future tenants and end-users."
     ],
     "locations": [
-      "Direct accessibility from Dwarka Expressway and NH-48",
-      "Close proximity to major schools and hospitals ensuring constant service demand",
-      "Surrounded by densely populated, high-income residential societies",
-      "Immediate connection to established commercial markets and business centers",
-      "Swift access to Indira Gandhi International Airport New Delhi",
-      "Well-developed internal sector roads and ample public parking facilities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

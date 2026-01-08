@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Find the Ideal Plot Size for Your Dream Home Construction in Sector 108 Gurugram",
@@ -58,13 +61,56 @@
       "Furthermore, the area is surrounded by numerous planned high-end residential and commercial projects ensuring a high quality of life and access to premium facilities like international schools and world-class healthcare. Our network extends across the most promising investment zones bordering Sector 108, providing you with a holistic view of the growing Gurugram real estate market. Whether you are seeking immediate possession or future development potential, these adjacent localities enhance the value proposition of owning a plot here."
     ],
     "locations": [
-      "Sector 109 Gurugram",
-      "Sector 107 Dwarka Expressway",
-      "New Palam Vihar",
-      "Palam Vihar Extension",
-      "CPR Central Peripheral Road",
-      "Sector 105 Gurugram",
-      "IGI Airport Access Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

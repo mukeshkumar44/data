@@ -9,7 +9,7 @@ const __dirname = path.dirname(__filename);
 // 🔹 Target folder
 const FOLDER_PATH = path.resolve(
   __dirname,
-  "../content/sub-domain/rohtak/shop-for-sale"
+  "../content/sub-domain/gurugram/rent-house"
 );
 
 // 🔹 New locations array (FIXED)

@@ -7,10 +7,19 @@
       "Investing here means securing a piece of future Gurugram where connectivity meets convenience. These plots provide the flexibility to design and build your dream home exactly the way you envision it free from the limitations of apartment living. With rapid commercial and residential development surrounding the area prices are projected to appreciate significantly making this the optimal time to make your strategic land purchase in Sector 84"
     ],
     "buttons": [
-      { "label": "View Available Plots", "path": "/available-plots" },
-      { "label": "Request Pricing Details", "path": "/contact-us" }
+      {
+        "label": "View Available Plots",
+        "path": "/available-plots"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact-us"
+      }
     ],
-    "images": ["hero_plot_sector84_1.jpg", "hero_plot_sector84_2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Ideal Plot Sizes and Investment Options When Buying Land in Sector 84",
@@ -52,12 +61,56 @@
       "The area is quickly transforming into a self-sufficient ecosystem supported by top educational institutions world-class hospitals and major retail destinations currently under development. Investing in a Plot For Sale in Sector 84 means securing a future home that is seamlessly connected to all essential urban amenities while retaining the peace and quiet of a planned residential zone. Review these key neighbouring sectors that enhance the value proposition of Sector 84 Gurugram"
     ],
     "locations": [
-      "Sector 83 Gurugram",
-      "Sector 85 Dwarka Expressway",
-      "NH 48 National Highway",
-      "IMT Manesar Industrial Area",
-      "Sector 79 Gurugram",
-      "Vatika India Next"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to find the ideal Plot For Sale in Sector 84 Contact our expert property advisors now for tailored advice current price lists and to arrange site visits. We simplify the entire land buying process for you.",
       "Do not miss the opportunity to invest in one of Gurugram’s most promising residential locations along the Dwarka Expressway."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

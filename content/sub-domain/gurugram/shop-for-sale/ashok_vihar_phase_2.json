@@ -7,10 +7,19 @@
       "Investing in a commercial shop here means securing a future in a location known for its excellent connectivity and dense residential population. Our curated listings feature everything from compact retail units perfect for startups to expansive ground-floor showrooms designed for flagship stores. Explore certified properties, benefit from transparent dealings, and let us guide you to the commercial space that aligns perfectly with your business goals in Ashok Vihar Phase 2."
     ],
     "buttons": [
-      { "label": "View All Commercial Shops", "path": "/shops/all" },
-      { "label": "Get Investment Consultation", "path": "/contact" }
+      {
+        "label": "View All Commercial Shops",
+        "path": "/shops/all"
+      },
+      {
+        "label": "Get Investment Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/ashok-vihar-shop-hero.jpg", "/images/commercial-retail.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Property Options When Looking For a Shop For Sale in Ashok Vihar Phase 2",
@@ -19,12 +28,30 @@
       "Whether you require immediate possession or are interested in pre-leased properties offering instant returns, our portfolio is unmatched. These listings are meticulously vetted for legal compliance, superior location advantages, and future growth potential, ensuring your investment in a Shop For Sale in Ashok Vihar Phase 2 is sound and profitable for years to come."
     ],
     "features": [
-      { "title": "Ground Floor Retail Shop", "description": "Ground floor units are the most sought-after commercial spaces due to maximum visibility and easy accessibility. These shops benefit from constant foot traffic, making them ideal for high-volume retail, cafes, or service centers. Investing in a ground floor Shop For Sale in Ashok Vihar Phase 2 guarantees prime visibility and substantial brand exposure compared to other floors." },
-      { "title": "Small Retail Space Unit", "description": "Perfect for startups, independent professionals, or specialized boutique stores, smaller units offer an affordable entry point into the lucrative Ashok Vihar market. These spaces are cost-effective yet strategically located near busy residential clusters, ensuring a dedicated consumer base and lower operational overheads for new businesses." },
-      { "title": "Pre-Leased Commercial Shop", "description": "Pre-leased shops provide an immediate stream of rental income, minimizing waiting periods and offering instant returns on investment (ROI). This option is highly appealing for passive investors seeking stable long-term yields secured by established tenants and robust lease agreements in Ashok Vihar Phase 2." },
-      { "title": "Corner Property Shop Location", "description": "Corner shops are premium assets providing dual frontage and exceptional visibility from two main access roads. This superior positioning significantly enhances brand presence and customer attraction, making them suitable for anchor stores or businesses requiring maximum advertising potential." },
-      { "title": "First Floor Showroom Space", "description": "First-floor commercial spaces often offer larger floor plates at competitive prices compared to ground floor units. These are perfect for showrooms, diagnostic centers, educational institutes, or offices that require ample space but still need convenient market access near essential amenities in Ashok Vihar Phase 2." },
-      { "title": "Commercial Complex Unit", "description": "Investing in units within planned commercial complexes ensures benefits like shared parking, professional security, and modern amenities. These complexes are designed to draw mass crowds, providing a structured environment for sustained business growth and investment security in the commercial real estate sector." }
+      {
+        "title": "Ground Floor Retail Shop",
+        "description": "Ground floor units are the most sought-after commercial spaces due to maximum visibility and easy accessibility. These shops benefit from constant foot traffic, making them ideal for high-volume retail, cafes, or service centers. Investing in a ground floor Shop For Sale in Ashok Vihar Phase 2 guarantees prime visibility and substantial brand exposure compared to other floors."
+      },
+      {
+        "title": "Small Retail Space Unit",
+        "description": "Perfect for startups, independent professionals, or specialized boutique stores, smaller units offer an affordable entry point into the lucrative Ashok Vihar market. These spaces are cost-effective yet strategically located near busy residential clusters, ensuring a dedicated consumer base and lower operational overheads for new businesses."
+      },
+      {
+        "title": "Pre-Leased Commercial Shop",
+        "description": "Pre-leased shops provide an immediate stream of rental income, minimizing waiting periods and offering instant returns on investment (ROI). This option is highly appealing for passive investors seeking stable long-term yields secured by established tenants and robust lease agreements in Ashok Vihar Phase 2."
+      },
+      {
+        "title": "Corner Property Shop Location",
+        "description": "Corner shops are premium assets providing dual frontage and exceptional visibility from two main access roads. This superior positioning significantly enhances brand presence and customer attraction, making them suitable for anchor stores or businesses requiring maximum advertising potential."
+      },
+      {
+        "title": "First Floor Showroom Space",
+        "description": "First-floor commercial spaces often offer larger floor plates at competitive prices compared to ground floor units. These are perfect for showrooms, diagnostic centers, educational institutes, or offices that require ample space but still need convenient market access near essential amenities in Ashok Vihar Phase 2."
+      },
+      {
+        "title": "Commercial Complex Unit",
+        "description": "Investing in units within planned commercial complexes ensures benefits like shared parking, professional security, and modern amenities. These complexes are designed to draw mass crowds, providing a structured environment for sustained business growth and investment security in the commercial real estate sector."
+      }
     ]
   },
   "locationsSection": {
@@ -34,12 +61,56 @@
       "We help you analyze market trends across the wider area, ensuring you choose not just a property but the optimal geographic location for your specific retail or commercial venture. Expanding your search slightly can reveal hidden gems and capitalize on infrastructural developments happening nearby."
     ],
     "locations": [
-      "Ashok Vihar Phase 1 Commercial Market",
-      "Wazirpur Industrial Area",
-      "Shalimar Bagh Retail Hub",
-      "Model Town Commercial Belt",
-      "Lawrence Road Market",
-      "Tri Nagar Shopping Centers"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -49,30 +120,84 @@
       "Our dedicated team ensures seamless transactions, providing comprehensive legal verification and market valuation services. Choose us to simplify your journey to owning profitable commercial real estate in this bustling urban center."
     ],
     "points": [
-      { "title": "High Footfall and Dense Population", "description": "Ashok Vihar Phase 2 is surrounded by established residential colonies ensuring a constant and reliable flow of potential customers daily. This dense population base is critical for retail success, guaranteeing high footfall essential for driving sales volume. Businesses here benefit from immediate local consumption, making any Shop For Sale in Ashok Vihar Phase 2 an intrinsically valuable asset due to location economics." },
-      { "title": "Superior Connectivity and Access", "description": "The area boasts excellent connectivity via main roads and proximity to key metro stations, facilitating easy access for both local residents and customers traveling from other parts of the city. Seamless transit options increase the catchment area for your business, significantly enhancing its market reach and commercial viability." },
-      { "title": "Growth Potential and Appreciation", "description": "Commercial properties in Phase 2 are experiencing steady capital appreciation driven by ongoing infrastructural improvements and increasing commercialization. Investing now allows you to benefit from future growth projections, promising significant returns on your initial capital investment over the medium to long term." },
-      { "title": "Verified and Legally Sound Properties", "description": "We specialize in listings that are thoroughly verified for clear titles, municipal approvals, and legal compliance. Our commitment to transparency minimizes investment risk, ensuring you acquire a commercial Shop For Sale in Ashok Vihar Phase 2 that is free from future disputes or legal complications." },
-      { "title": "Flexible Sizing and Layout Options", "description": "Our portfolio includes a wide array of shop sizes and layouts, accommodating needs from small kiosks and specialized boutiques to large double-height showrooms. This flexibility ensures we can match your precise business requirements with the perfect commercial space in the market." },
-      { "title": "Competitive Market Pricing", "description": "While offering prime locations, properties in Ashok Vihar Phase 2 often maintain competitive pricing compared to neighboring saturated markets. This balance of quality location and reasonable entry cost provides an advantageous investment opportunity for serious buyers." },
-      { "title": "Guidance from Local Commercial Experts", "description": "Benefit from the deep local market knowledge of our real estate consultants who specialize exclusively in the Ashok Vihar commercial sector. We provide strategic insights on optimal shop placement, tenant profiles, and yield calculations specific to this highly localized market." },
-      { "title": "Access to Exclusive Off-Market Listings", "description": "We offer access to a selection of exclusive, off-market commercial properties that are not widely advertised. These discreet listings often represent superior value and prime locations, giving our clients a competitive edge when searching for the perfect Shop For Sale in Ashok Vihar Phase 2." }
+      {
+        "title": "High Footfall and Dense Population",
+        "description": "Ashok Vihar Phase 2 is surrounded by established residential colonies ensuring a constant and reliable flow of potential customers daily. This dense population base is critical for retail success, guaranteeing high footfall essential for driving sales volume. Businesses here benefit from immediate local consumption, making any Shop For Sale in Ashok Vihar Phase 2 an intrinsically valuable asset due to location economics."
+      },
+      {
+        "title": "Superior Connectivity and Access",
+        "description": "The area boasts excellent connectivity via main roads and proximity to key metro stations, facilitating easy access for both local residents and customers traveling from other parts of the city. Seamless transit options increase the catchment area for your business, significantly enhancing its market reach and commercial viability."
+      },
+      {
+        "title": "Growth Potential and Appreciation",
+        "description": "Commercial properties in Phase 2 are experiencing steady capital appreciation driven by ongoing infrastructural improvements and increasing commercialization. Investing now allows you to benefit from future growth projections, promising significant returns on your initial capital investment over the medium to long term."
+      },
+      {
+        "title": "Verified and Legally Sound Properties",
+        "description": "We specialize in listings that are thoroughly verified for clear titles, municipal approvals, and legal compliance. Our commitment to transparency minimizes investment risk, ensuring you acquire a commercial Shop For Sale in Ashok Vihar Phase 2 that is free from future disputes or legal complications."
+      },
+      {
+        "title": "Flexible Sizing and Layout Options",
+        "description": "Our portfolio includes a wide array of shop sizes and layouts, accommodating needs from small kiosks and specialized boutiques to large double-height showrooms. This flexibility ensures we can match your precise business requirements with the perfect commercial space in the market."
+      },
+      {
+        "title": "Competitive Market Pricing",
+        "description": "While offering prime locations, properties in Ashok Vihar Phase 2 often maintain competitive pricing compared to neighboring saturated markets. This balance of quality location and reasonable entry cost provides an advantageous investment opportunity for serious buyers."
+      },
+      {
+        "title": "Guidance from Local Commercial Experts",
+        "description": "Benefit from the deep local market knowledge of our real estate consultants who specialize exclusively in the Ashok Vihar commercial sector. We provide strategic insights on optimal shop placement, tenant profiles, and yield calculations specific to this highly localized market."
+      },
+      {
+        "title": "Access to Exclusive Off-Market Listings",
+        "description": "We offer access to a selection of exclusive, off-market commercial properties that are not widely advertised. These discreet listings often represent superior value and prime locations, giving our clients a competitive edge when searching for the perfect Shop For Sale in Ashok Vihar Phase 2."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Buying a Shop For Sale in Ashok Vihar Phase 2",
     "description": "Get clear answers regarding legal procedures investment returns financing options and future growth prospects for commercial property ownership in this desirable location.",
     "faqs": [
-      { "question": "What are the typical price ranges for a Shop For Sale in Ashok Vihar Phase 2", "answer": "The pricing of commercial shops in Ashok Vihar Phase 2 is highly dependent on factors like location whether it is high-street or inside a complex the floor level and the total carpet area. Ground floor shops in high-footfall areas command a premium price often significantly higher than first or second-floor units. Generally prices start from a certain threshold for smaller units and scale up substantially for large prominent corner properties. Contact our team with your budget and specific requirements for the most current and accurate price guide." },
-      { "question": "Is Ashok Vihar Phase 2 a good location for long-term commercial investment returns", "answer": "Absolutely Ashok Vihar Phase 2 is considered a robust and stable investment location primarily due to its established residential base and excellent infrastructure. The consistent demand from residents for retail and essential services ensures stable rental income and solid potential for capital appreciation over the long term. Unlike newly developed areas the market here is mature providing a lower risk profile for serious commercial investors." },
-      { "question": "What is the process for legal verification when buying a commercial shop property", "answer": "Legal verification is a crucial step that ensures the property has a clear title is free from encumbrances and possesses all necessary municipal and fire safety approvals. Our process involves checking the chain of title mutation records property tax receipts and compliance with local zoning laws. We recommend engaging an independent legal expert in commercial real estate to conduct thorough due diligence before finalizing any purchase agreement." },
-      { "question": "Can I get financing or a loan to purchase a Shop For Sale in Ashok Vihar Phase 2", "answer": "Yes most major banks and Non-Banking Financial Companies (NBFCs) offer specialized commercial property loans. The loan eligibility and amount depends on your credit score the property valuation and your business turnover or income stability. Commercial loans typically have different interest rates and tenure compared to residential loans. We can connect you with preferred banking partners who offer competitive loan products tailored for commercial investments in this area." },
-      { "question": "Are there ready-to-move or pre-leased commercial shops available in Phase 2", "answer": "Both ready-to-move shops and pre-leased investment opportunities are commonly available in Ashok Vihar Phase 2. Ready-to-move properties allow you to start your business or tenancy immediately. Pre-leased shops are highly desirable for investors as they come with existing tenants and ongoing rental agreements providing instant ROI from the day of acquisition. Our listings clearly categorize properties based on their readiness and tenancy status." },
-      { "question": "How important is parking space availability for commercial success here", "answer": "Parking is extremely important in a dense commercial area like Ashok Vihar Phase 2. While high-street shops may rely on common street parking commercial complexes or properties with dedicated parking facilities hold a significant competitive advantage. Businesses that rely on customers driving in such as large showrooms or clinics should prioritize properties offering secure and ample parking space to ensure customer convenience." },
-      { "question": "What documentation is required from the buyer during the commercial property transaction", "answer": "Buyers typically need to provide identity proof address proof PAN card Aadhaar card and financial documents like bank statements and income tax returns (ITR) for the last few years. If the purchase is made through a company or LLP corporate documentation like Certificate of Incorporation and Memorandum of Association will also be required. Clear documentation is essential for smooth registration and taxation purposes." },
-      { "question": "What kind of businesses thrive best in the Ashok Vihar Phase 2 market", "answer": "Given the affluent residential population businesses catering to higher-end retail specialized services healthcare clinics and premium dining or cafes tend to perform exceptionally well. Essential services like banking grocery stores and educational institutes also see consistent demand. Shops located close to residential exits or main thoroughfares are suitable for high-visibility retail brands." },
-      { "question": "What are the maintenance costs associated with owning a shop in this locality", "answer": "Maintenance costs vary depending on whether the shop is located in a standalone building or a managed commercial complex. Complex units typically involve a monthly maintenance fee covering common area upkeep security electricity backup and garbage disposal. Standalone shops require owners to manage these aspects individually. It is crucial to factor in these operational costs when calculating the net rental yield." },
-      { "question": "How can I assess the future rental potential of a commercial shop before buying", "answer": "Assessing rental potential involves analyzing current prevailing rental rates for comparable commercial spaces the specific location of the shop (frontage visibility) and the type of tenant you anticipate attracting. Our valuation experts provide detailed rental yield forecasts based on current market intelligence projected occupancy rates and historical price appreciation trends in Ashok Vihar Phase 2." }
+      {
+        "question": "What are the typical price ranges for a Shop For Sale in Ashok Vihar Phase 2",
+        "answer": "The pricing of commercial shops in Ashok Vihar Phase 2 is highly dependent on factors like location whether it is high-street or inside a complex the floor level and the total carpet area. Ground floor shops in high-footfall areas command a premium price often significantly higher than first or second-floor units. Generally prices start from a certain threshold for smaller units and scale up substantially for large prominent corner properties. Contact our team with your budget and specific requirements for the most current and accurate price guide."
+      },
+      {
+        "question": "Is Ashok Vihar Phase 2 a good location for long-term commercial investment returns",
+        "answer": "Absolutely Ashok Vihar Phase 2 is considered a robust and stable investment location primarily due to its established residential base and excellent infrastructure. The consistent demand from residents for retail and essential services ensures stable rental income and solid potential for capital appreciation over the long term. Unlike newly developed areas the market here is mature providing a lower risk profile for serious commercial investors."
+      },
+      {
+        "question": "What is the process for legal verification when buying a commercial shop property",
+        "answer": "Legal verification is a crucial step that ensures the property has a clear title is free from encumbrances and possesses all necessary municipal and fire safety approvals. Our process involves checking the chain of title mutation records property tax receipts and compliance with local zoning laws. We recommend engaging an independent legal expert in commercial real estate to conduct thorough due diligence before finalizing any purchase agreement."
+      },
+      {
+        "question": "Can I get financing or a loan to purchase a Shop For Sale in Ashok Vihar Phase 2",
+        "answer": "Yes most major banks and Non-Banking Financial Companies (NBFCs) offer specialized commercial property loans. The loan eligibility and amount depends on your credit score the property valuation and your business turnover or income stability. Commercial loans typically have different interest rates and tenure compared to residential loans. We can connect you with preferred banking partners who offer competitive loan products tailored for commercial investments in this area."
+      },
+      {
+        "question": "Are there ready-to-move or pre-leased commercial shops available in Phase 2",
+        "answer": "Both ready-to-move shops and pre-leased investment opportunities are commonly available in Ashok Vihar Phase 2. Ready-to-move properties allow you to start your business or tenancy immediately. Pre-leased shops are highly desirable for investors as they come with existing tenants and ongoing rental agreements providing instant ROI from the day of acquisition. Our listings clearly categorize properties based on their readiness and tenancy status."
+      },
+      {
+        "question": "How important is parking space availability for commercial success here",
+        "answer": "Parking is extremely important in a dense commercial area like Ashok Vihar Phase 2. While high-street shops may rely on common street parking commercial complexes or properties with dedicated parking facilities hold a significant competitive advantage. Businesses that rely on customers driving in such as large showrooms or clinics should prioritize properties offering secure and ample parking space to ensure customer convenience."
+      },
+      {
+        "question": "What documentation is required from the buyer during the commercial property transaction",
+        "answer": "Buyers typically need to provide identity proof address proof PAN card Aadhaar card and financial documents like bank statements and income tax returns (ITR) for the last few years. If the purchase is made through a company or LLP corporate documentation like Certificate of Incorporation and Memorandum of Association will also be required. Clear documentation is essential for smooth registration and taxation purposes."
+      },
+      {
+        "question": "What kind of businesses thrive best in the Ashok Vihar Phase 2 market",
+        "answer": "Given the affluent residential population businesses catering to higher-end retail specialized services healthcare clinics and premium dining or cafes tend to perform exceptionally well. Essential services like banking grocery stores and educational institutes also see consistent demand. Shops located close to residential exits or main thoroughfares are suitable for high-visibility retail brands."
+      },
+      {
+        "question": "What are the maintenance costs associated with owning a shop in this locality",
+        "answer": "Maintenance costs vary depending on whether the shop is located in a standalone building or a managed commercial complex. Complex units typically involve a monthly maintenance fee covering common area upkeep security electricity backup and garbage disposal. Standalone shops require owners to manage these aspects individually. It is crucial to factor in these operational costs when calculating the net rental yield."
+      },
+      {
+        "question": "How can I assess the future rental potential of a commercial shop before buying",
+        "answer": "Assessing rental potential involves analyzing current prevailing rental rates for comparable commercial spaces the specific location of the shop (frontage visibility) and the type of tenant you anticipate attracting. Our valuation experts provide detailed rental yield forecasts based on current market intelligence projected occupancy rates and historical price appreciation trends in Ashok Vihar Phase 2."
+      }
     ]
   },
   "contactSection": {
@@ -81,6 +206,11 @@
       "Ready to secure the perfect Shop For Sale in Ashok Vihar Phase 2? Connect with our dedicated commercial real estate team for personalized property recommendations and expert market analysis.",
       "Fill out the form below to receive exclusive listings and schedule a private site visit. We ensure confidentiality and strategic advice at every stage of your investment."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

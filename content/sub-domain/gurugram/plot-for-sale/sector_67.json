@@ -7,10 +7,19 @@
       "Our curated selection features approved plots of various sizes suitable for immediate construction or long-term investment growth. We understand that purchasing land is a significant decision. Let our experts guide you through the documentation and legal verification process ensuring a smooth and secure transaction. Explore available options now and secure your foothold in this rapidly appreciating micro-market of Gurugram. Investing in a plot here guarantees access to world-class facilities and superior civic management."
     ],
     "buttons": [
-      { "label": "View All Available Plots", "path": "/available-plots" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "View All Available Plots",
+        "path": "/available-plots"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero-plot-67-1.jpg", "hero-plot-67-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Ideal Plot Sizes Available for Investment and Custom Home Building in Sector 67",
@@ -52,12 +61,56 @@
       "Our property experts are equipped to provide comprehensive market analysis comparing Sector 67 with adjacent high-growth areas. This comparative approach ensures you make a fully informed decision that aligns perfectly with your budget, required size, and expected returns, whether you plan to build immediately or hold the land for future appreciation."
     ],
     "locations": [
-      "Plot For Sale in Sector 66 Gurugram",
-      "Plot For Sale in Sector 65 Gurugram",
-      "Plot For Sale in Sector 69 Gurugram",
-      "Plot For Sale in Sector 62 Gurugram",
-      "Plot For Sale in Sector 58 Gurugram",
-      "Plot For Sale in DLF Alameda"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to take the next step towards owning premium land in one of Gurugram's most sought-after sectors Contact our dedicated property specialists today. We provide personalized consultation, verified plot listings, and comprehensive legal support.",
       "Fill out the form below and specify your requirements, including desired size and budget. We will ensure you receive a curated list of the best Plot For Sale in Sector 67 opportunities tailored just for you."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

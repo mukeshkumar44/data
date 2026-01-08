@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Diverse Range of Commercial Shop Spaces Available in Thriving Sector 23",
@@ -58,13 +61,56 @@
       "Key demand drivers include nearby residential colonies high connectivity to the IGI Airport access road and the presence of numerous operational offices and schools. This synergistic environment makes every Shop For Sale in Sector 23 an opportunity backed by real consumer necessity and exceptional future growth projections."
     ],
     "locations": [
-      "Proximity to Palam Vihar Residential Hub",
-      "Direct Connectivity to Dwarka Expressway",
-      "Easy Access to NH 48 Delhi-Jaipur Highway",
-      "Surrounded by Operational Schools and Educational Institutions",
-      "Nearness to Planned Metro Expansion Routes",
-      "Established Local Markets and Service Lanes",
-      "Connectivity to Sector 22 and Sector 21 Commercial Areas"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

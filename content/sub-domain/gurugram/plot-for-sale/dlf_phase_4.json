@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Ideal Plot Sizes and Dimensions Available for Residential Construction in DLF Phase 4",
@@ -58,12 +61,56 @@
       "The proximity to the Huda City Centre Metro Station and the rapid transit networks ensures seamless travel across the NCR. This area is defined by its social amenities including the renowned DLF Cyber Hub just a short drive away and major retail anchors like South Point Mall and Mega Mall. Investing here means your plot is buffered by fully developed high-security neighborhoods. Furthermore the land parcels often back onto green belts or quieter internal streets offering tranquility despite the central location. We focus on listings that are not only centrally located but also benefit from enhanced security features and easy accessibility to the arterial roads connecting to Delhi."
     ],
     "locations": [
-      "Near Supermart 1",
-      "Close to Galleria Market",
-      "Adjacent to Sector 28 Gurugram",
-      "Access to Cyber Hub Road",
-      "Near South Point Mall",
-      "Internal Gated Blocks"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

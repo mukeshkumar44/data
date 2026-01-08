@@ -7,10 +7,19 @@
       "Explore premium ground-floor retail spaces, scalable double-height shops, and integrated market concepts designed for maximum foot traffic and visibility. The demand for quality retail infrastructure here is soaring, making now the optimal time to acquire a shop for sale in Sector 105. Let us help you navigate the best available properties that promise excellent rental yields and significant capital appreciation in the coming years. Leverage our expertise to find a commercial property that aligns perfectly with your long-term wealth creation goals."
     ],
     "buttons": [
-      { "label": "View Premium Shop Listings", "path": "/listings" },
-      { "label": "Request Investment Guide", "path": "/contact" }
+      {
+        "label": "View Premium Shop Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Investment Guide",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Unlocking Commercial Potential Essential Investment Features of Shops in Sector 105 Gurugram",
@@ -52,13 +61,56 @@
       "Explore the synergistic impact of nearby high-end communities and infrastructure projects which collectively elevate the investment potential of every shop for sale in Sector 105 Gurugram."
     ],
     "locations": [
-      "Sector 104 Dwarka Expressway Access",
-      "Sector 106 Residential Complexes",
-      "Central Peripheral Road CPR Connectivity",
-      "Proximity to Dwarka Delhi",
-      "New Gurugram Investment Corridor",
-      "Pataudi Road Industrial Link",
-      "Upcoming Metro Line Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

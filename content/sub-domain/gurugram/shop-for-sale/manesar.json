@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "shop_manesar_hero_1",
-      "shop_manesar_hero_2"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,12 +61,56 @@
       "Newer commercial developments near the upcoming Dwarka Expressway extension nodes are also showing massive potential for appreciation. Investing here means leveraging the spillover effect from Gurugram’s high property prices, offering higher affordability now with strong future returns. Our portfolio includes shops near major corporate hubs, ensuring a constant flow of affluent clientele ready to spend. Let us guide you to the perfect micro-market within Manesar that aligns with your financial goals and business requirements."
     ],
     "locations": [
-      "Sector 1 Manesar Industrial Estate Retail Complex",
-      "IMT Manesar High Street Market",
-      "Near NH-48 Commercial Service Lanes",
-      "New Commercial Hub near Sector 8 Manesar",
-      "Kherki Daula Commercial Zone proximity",
-      "Upcoming Retail Projects near Pataudi Road Manesar"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

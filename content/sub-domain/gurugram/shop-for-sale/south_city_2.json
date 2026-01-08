@@ -7,10 +7,19 @@
       "We present a curated selection of commercial units ranging from compact high-visibility kiosks to expansive double-height retail showrooms situated in prime market areas. These spaces are fully compliant legally clear and ready for immediate possession. Leverage the superior connectivity proximity to major expressways and the established infrastructure of South City 2 Gurugram to maximize your commercial success. Start your search today and secure a truly premium Shop For Sale in South City 2 before these limited opportunities disappear."
     ],
     "buttons": [
-      { "label": "Explore Premium Retail Spaces", "path": "/listings" },
-      { "label": "Get Detailed Investment Report", "path": "/contact" }
+      {
+        "label": "Explore Premium Retail Spaces",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Detailed Investment Report",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Premium Commercial Spaces Investment Opportunities for Shops For Sale in South City 2",
@@ -52,12 +61,56 @@
       "The area is bolstered by proximity to several reputed schools hospitals and corporate satellite offices all contributing significantly to continuous daily footfall. This reliable flow of consumers professional staff and visiting clients makes any commercial investment here inherently safer and more profitable compared to standalone locations. We help you select shops situated closest to these key infrastructural amenities for maximum return."
     ],
     "locations": [
-      "Shops near Sector 49 Residential Hubs",
-      "Retail spaces close to Sohna Road connectivity",
-      "Commercial areas adjacent to Uniworld Gardens",
-      "Units near established corporate business parks",
-      "High street markets on the main South City 2 road",
-      "Shops with easy access from Golf Course Extension"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to secure a highly profitable Shop For Sale in South City 2 Gurugram? Our dedicated commercial real estate team is standing by to provide personalized advice market analysis and exclusive access to off-market listings.",
       "Fill out the form below to receive a customized investment portfolio specific to your budget and preferred business model. Let us help you unlock the full commercial potential of this prime location."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

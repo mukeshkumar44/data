@@ -7,10 +7,19 @@
       "Unlock unparalleled capital appreciation and superior returns by choosing a commercial shop in this coveted location. Whether you are looking for ground-floor retail space, a high-visibility showroom, or strategic food and beverage outlets, our curated portfolio meets the stringent demands of discerning investors. Discover the optimal location to launch, expand, or stabilize your commercial portfolio. This is not just a purchase; it is entry into an exclusive commercial ecosystem thriving on success and connectivity in Gurugram."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/available-shops" },
-      { "label": "Request Commercial Brochure", "path": "/contact-us" }
+      {
+        "label": "View Available Shops",
+        "path": "/available-shops"
+      },
+      {
+        "label": "Request Commercial Brochure",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Retail and Commercial Shop Investment Options on Golf Course Road Gurugram",
@@ -52,13 +61,56 @@
       "Explore investment opportunities that sit strategically near Sector 42, DLF Phase 5, and the access points to the Rapid Metro connectivity. This ensures outstanding public transport access and excellent connectivity to the Delhi-Jaipur Expressway. When you choose a Shop For Sale in Golf Course Road, you are not just buying a space; you are leveraging the infrastructure and established affluence of the entire area for maximum business success and sustainable growth in Gurugram."
     ],
     "locations": [
-      "DLF Phase 5 Commercial Towers",
-      "Sector 42 High-End Residential Catchment",
-      "Sikanderpur Rapid Metro Station Proximity",
-      "Horizon Center Business District",
-      "Global Business Park Access",
-      "Sector 54 Rapid Metro Connectivity Hub",
-      "Major Connectivity to Delhi-Jaipur Expressway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -154,6 +206,11 @@
       "Ready to secure your high-value commercial asset on the most sought-after address in Gurugram? Our specialized team is here to provide bespoke consultation and exclusive listings of the best shops currently available For Sale in Golf Course Road. We ensure absolute confidentiality and provide data-driven insights to optimize your investment decision.",
       "Fill out the form below to receive a curated list of properties matching your budget and investment goals. Start your journey towards exceptional commercial success now."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,10 +7,19 @@
       "Investing in a commercial shop here means securing long-term capital appreciation and reliable rental income. Our curated selection of properties includes high-street retail, ground floor shops, and well-placed units within existing commercial complexes. We provide end-to-end guidance to ensure your purchase of a Shop For Sale in Sector 28 is smooth, profitable, and perfectly aligned with your financial goals. Discover the future of successful retailing right here in Sector 28 Gurugram."
     ],
     "buttons": [
-      { "label": "Explore Available Shops", "path": "/listings/sector-28" },
-      { "label": "Download Investment Brochure", "path": "/brochure" }
+      {
+        "label": "Explore Available Shops",
+        "path": "/listings/sector-28"
+      },
+      {
+        "label": "Download Investment Brochure",
+        "path": "/brochure"
+      }
     ],
-    "images": ["hero-shop-sector-28-gurugram.jpg", "commercial-investment-gurgaon.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exceptional Commercial Investment Opportunities and Shop Formats Available in Sector 28",
@@ -19,12 +28,30 @@
       "We highlight key property types and investment advantages below. Each segment is carefully analyzed to help you identify the best fit for your specific retail vision or investment portfolio. Selecting the right size and location ensures high visibility and steady profitability in the competitive Gurugram market. Let us help you navigate these opportunities in Sector 28."
     ],
     "features": [
-      { "title": "4 Marla Plot", "description": "This investment tier represents compact retail units often situated on the first floor or in secondary market positions. These shops are ideal for budget-conscious investors or small service providers like dry cleaners, tailoring shops, or specialty cafes. They offer a lower entry price point for securing a Shop For Sale in Sector 28 while still benefiting from the area's strong customer base and high commercial density. Expect strong rental yields due to high demand for smaller, affordable spaces." },
-      { "title": "6 Marla Plot", "description": "Medium-sized ground floor shops suitable for branded retail stores, pharmacies, or high-volume QSR outlets. These units generally command higher visibility and benefit from direct street frontage access, crucial for maximizing foot traffic. Investing in this size category provides a balance between capital outlay and potential revenue generation. A 6 Marla equivalent shop in Sector 28 offers robust potential for both long-term appreciation and immediate business operation success." },
-      { "title": "8 Marla Plot", "description": "A popular choice for premium anchors, large showrooms, or bank branches seeking significant operational space and high corporate visibility. These shops are typically located on main thoroughfares within Sector 28 Gurugram, guaranteeing maximum exposure. An 8 Marla investment is considered a high-value commercial asset that attracts blue-chip tenants and promises superior stability and high return on investment over time." },
-      { "title": "10 Marla Plot", "description": "Large format retail spaces often utilized for hypermarkets, electronics stores, or integrated multi-brand outlets. These spaces offer expansive layout flexibility allowing businesses to create customized shopping experiences. Securing a 10 Marla Shop For Sale in Sector 28 puts you in the league of major commercial landlords benefiting from anchor tenant security and premium lease terms. This is a substantial investment geared towards long-term portfolio growth." },
-      { "title": "12 Marla Plot", "description": "Represents integrated commercial buildings or multiple adjacent units suitable for developing boutique commercial complexes or mixed-use retail and office facilities. This size allows for diversification within a single investment. The demand for well-managed, larger integrated spaces is consistently high in Sector 28 Gurugram, offering investors the opportunity to curate a tenant mix for optimized revenue generation and reduced vacancy risk." },
-      { "title": "14 Marla Plot", "description": "The largest tier for investment focusing on strategic development or acquisition of entire commercial blocks. This is ideal for developers or institutional investors looking to capitalize on Sector 28’s growth potential through large-scale projects. This provides complete control over design, tenant selection, and facility management, maximizing the overall commercial value of the asset and dominating the retail presence in the immediate vicinity." }
+      {
+        "title": "4 Marla Plot",
+        "description": "This investment tier represents compact retail units often situated on the first floor or in secondary market positions. These shops are ideal for budget-conscious investors or small service providers like dry cleaners, tailoring shops, or specialty cafes. They offer a lower entry price point for securing a Shop For Sale in Sector 28 while still benefiting from the area's strong customer base and high commercial density. Expect strong rental yields due to high demand for smaller, affordable spaces."
+      },
+      {
+        "title": "6 Marla Plot",
+        "description": "Medium-sized ground floor shops suitable for branded retail stores, pharmacies, or high-volume QSR outlets. These units generally command higher visibility and benefit from direct street frontage access, crucial for maximizing foot traffic. Investing in this size category provides a balance between capital outlay and potential revenue generation. A 6 Marla equivalent shop in Sector 28 offers robust potential for both long-term appreciation and immediate business operation success."
+      },
+      {
+        "title": "8 Marla Plot",
+        "description": "A popular choice for premium anchors, large showrooms, or bank branches seeking significant operational space and high corporate visibility. These shops are typically located on main thoroughfares within Sector 28 Gurugram, guaranteeing maximum exposure. An 8 Marla investment is considered a high-value commercial asset that attracts blue-chip tenants and promises superior stability and high return on investment over time."
+      },
+      {
+        "title": "10 Marla Plot",
+        "description": "Large format retail spaces often utilized for hypermarkets, electronics stores, or integrated multi-brand outlets. These spaces offer expansive layout flexibility allowing businesses to create customized shopping experiences. Securing a 10 Marla Shop For Sale in Sector 28 puts you in the league of major commercial landlords benefiting from anchor tenant security and premium lease terms. This is a substantial investment geared towards long-term portfolio growth."
+      },
+      {
+        "title": "12 Marla Plot",
+        "description": "Represents integrated commercial buildings or multiple adjacent units suitable for developing boutique commercial complexes or mixed-use retail and office facilities. This size allows for diversification within a single investment. The demand for well-managed, larger integrated spaces is consistently high in Sector 28 Gurugram, offering investors the opportunity to curate a tenant mix for optimized revenue generation and reduced vacancy risk."
+      },
+      {
+        "title": "14 Marla Plot",
+        "description": "The largest tier for investment focusing on strategic development or acquisition of entire commercial blocks. This is ideal for developers or institutional investors looking to capitalize on Sector 28’s growth potential through large-scale projects. This provides complete control over design, tenant selection, and facility management, maximizing the overall commercial value of the asset and dominating the retail presence in the immediate vicinity."
+      }
     ]
   },
   "locationsSection": {
@@ -34,12 +61,56 @@
       "The proximity to prominent commercial centers and easy access to the Delhi Metro network amplify the appeal for both investors and tenants. Sector 28 is a central point that harnesses the purchasing power of affluent residents and the transient business crowd. This locational advantage makes any commercial property here not just a purchase but a powerful tool for economic growth and guaranteed customer reach."
     ],
     "locations": [
-      "MG Road Metro Station Proximity",
-      "Seamless connectivity to NH 48",
-      "Nearness to DLF Golf Course Road",
-      "Serves Affluent Residential Catchment Areas",
-      "Easy access to Cyber Hub and Cyber City",
-      "Surrounded by High-End Residential Communities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -49,30 +120,84 @@
       "Our expertise ensures you acquire assets that promise not only immediate rental returns but also substantial long-term capital gains. We analyze market trends, infrastructure development, and demographic shifts to provide properties that offer unparalleled commercial viability in the heart of Gurugram."
     ],
     "points": [
-      { "title": "Guaranteed High Rental Yields", "description": "The established residential density surrounding Sector 28 ensures persistent demand for retail and services. This robust demand translates directly into high occupancy rates and competitive rental prices for your commercial shop. Investors regularly report attractive rental yields significantly above the Gurugram average making Sector 28 a reliable source of passive income." },
-      { "title": "Exceptional Foot Traffic and Visibility", "description": "Sector 28 is traversed daily by thousands of residents and commuters. Shops positioned correctly benefit from natural high visibility and constant consumer exposure. Unlike isolated complexes, commercial spaces here integrate seamlessly with the community ensuring continuous potential customer engagement for businesses housed within the premises." },
-      { "title": "Strong Capital Appreciation Potential", "description": "Gurugram’s commercial real estate market is on an upward trajectory and Sector 28 being a prime and limited resource area shows consistent property value growth. Investing in a Shop For Sale in Sector 28 now secures your stake in an asset class poised for substantial future appreciation driven by infrastructure improvements and increasing affluence in the surrounding areas." },
-      { "title": "Strategic Connectivity to Major Hubs", "description": "The sector offers excellent road networks and rapid transit access including easy connection to the Delhi Metro. This strategic positioning makes it highly convenient for customers and employees ensuring your business location is optimally accessible from all parts of Gurugram and Delhi NCR." },
-      { "title": "Diverse Business Ecosystem", "description": "The commercial spaces in Sector 28 support a wide variety of businesses ranging from gourmet dining and lifestyle retail to essential services and corporate offices. This diversity creates a resilient business environment protecting investors from sector-specific market volatility and enhancing the overall appeal to quality tenants." },
-      { "title": "Safety and Established Infrastructure", "description": "As a well-developed and secure area of Gurugram, Sector 28 benefits from mature infrastructure including reliable power backup ample parking facilities and professional property management in modern complexes. These factors reduce operational hurdles for tenants and enhance the long-term attractiveness of the investment property." },
-      { "title": "Expert Legal and Transactional Support", "description": "We specialize in commercial property transactions in Sector 28 providing comprehensive legal due diligence and smooth transactional handling. We ensure all titles are clear and the acquisition process is transparent giving you complete peace of mind when securing your commercial shop investment." },
-      { "title": "Future-Proof Investment Location", "description": "Given its central location and established status, Sector 28 is resistant to competitive pressure from newer peripheral commercial areas. Its foundational strength guarantees long-term relevance and sustained commercial activity making it a future-proof location for any investor seeking security and sustained growth." }
+      {
+        "title": "Guaranteed High Rental Yields",
+        "description": "The established residential density surrounding Sector 28 ensures persistent demand for retail and services. This robust demand translates directly into high occupancy rates and competitive rental prices for your commercial shop. Investors regularly report attractive rental yields significantly above the Gurugram average making Sector 28 a reliable source of passive income."
+      },
+      {
+        "title": "Exceptional Foot Traffic and Visibility",
+        "description": "Sector 28 is traversed daily by thousands of residents and commuters. Shops positioned correctly benefit from natural high visibility and constant consumer exposure. Unlike isolated complexes, commercial spaces here integrate seamlessly with the community ensuring continuous potential customer engagement for businesses housed within the premises."
+      },
+      {
+        "title": "Strong Capital Appreciation Potential",
+        "description": "Gurugram’s commercial real estate market is on an upward trajectory and Sector 28 being a prime and limited resource area shows consistent property value growth. Investing in a Shop For Sale in Sector 28 now secures your stake in an asset class poised for substantial future appreciation driven by infrastructure improvements and increasing affluence in the surrounding areas."
+      },
+      {
+        "title": "Strategic Connectivity to Major Hubs",
+        "description": "The sector offers excellent road networks and rapid transit access including easy connection to the Delhi Metro. This strategic positioning makes it highly convenient for customers and employees ensuring your business location is optimally accessible from all parts of Gurugram and Delhi NCR."
+      },
+      {
+        "title": "Diverse Business Ecosystem",
+        "description": "The commercial spaces in Sector 28 support a wide variety of businesses ranging from gourmet dining and lifestyle retail to essential services and corporate offices. This diversity creates a resilient business environment protecting investors from sector-specific market volatility and enhancing the overall appeal to quality tenants."
+      },
+      {
+        "title": "Safety and Established Infrastructure",
+        "description": "As a well-developed and secure area of Gurugram, Sector 28 benefits from mature infrastructure including reliable power backup ample parking facilities and professional property management in modern complexes. These factors reduce operational hurdles for tenants and enhance the long-term attractiveness of the investment property."
+      },
+      {
+        "title": "Expert Legal and Transactional Support",
+        "description": "We specialize in commercial property transactions in Sector 28 providing comprehensive legal due diligence and smooth transactional handling. We ensure all titles are clear and the acquisition process is transparent giving you complete peace of mind when securing your commercial shop investment."
+      },
+      {
+        "title": "Future-Proof Investment Location",
+        "description": "Given its central location and established status, Sector 28 is resistant to competitive pressure from newer peripheral commercial areas. Its foundational strength guarantees long-term relevance and sustained commercial activity making it a future-proof location for any investor seeking security and sustained growth."
+      }
     ]
   },
   "faqSection": {
     "title": "Frequently Asked Questions About Buying a Shop For Sale in Sector 28 Gurugram",
     "description": "Find quick and detailed answers to common queries regarding commercial property investment and retail opportunities in Sector 28 Gurugram.",
     "faqs": [
-      { "question": "What makes Sector 28 an ideal location for commercial shop investment", "answer": "Sector 28 is uniquely positioned to capture the demand from high-net-worth individuals residing in nearby affluent sectors like DLF Phase 1 and Sushant Lok. It offers a confluence of established infrastructure high accessibility via main roads and proximity to key corporate hubs. This ensures a captive audience and continuous high footfall essential for retail success and guaranteeing consistent rental income for investors." },
-      { "question": "What are the typical price ranges for a Shop For Sale in Sector 28", "answer": "The price range for commercial shops in Sector 28 is highly dependent on factors like size location ground floor versus upper floor and the specific commercial complex prestige. Smaller, secondary market shops may start from around INR 70 lakhs while premium ground floor retail spaces on high street locations can easily range into several crores. We recommend consulting our specialists for real-time accurate pricing and valuation tailored to your specific investment criteria." },
-      { "question": "Are there ready-to-move-in shops available in Sector 28 Gurugram", "answer": "Yes Sector 28 is a mature locality and we maintain a wide portfolio of ready-to-move-in commercial shops both newly constructed and established resale units. These properties allow investors to start generating rental income immediately without waiting for construction or possession delays. We focus on properties with clear titles and immediate occupancy certificates to facilitate quick tenant placement." },
-      { "question": "What is the expected rental yield for commercial property in this area", "answer": "Commercial properties in prime areas like Sector 28 typically offer highly competitive rental yields often ranging between 5% and 8% annually depending on the specific asset type and tenant profile. Due to the high demand for retail space here, rental escalation clauses are common securing future revenue growth for the shop owner." },
-      { "question": "How does connectivity benefit commercial activity in Sector 28", "answer": "Excellent connectivity is the backbone of commercial viability in Sector 28. Its location near MG Road and major expressway connections ensures easy access for commuting customers from across NCR. This superior accessibility minimizes friction for shoppers and service users translating directly into higher business volume and making the shops more attractive to premium tenants." },
-      { "question": "What legal documents are essential when purchasing a commercial shop", "answer": "Essential legal documentation includes the Sale Deed or Conveyance Deed the Occupancy Certificate if applicable the property tax receipts and any relevant municipal approvals for the commercial use. If the shop is part of a complex, the allocation letter from the builder and all RERA documentation are crucial. Our team conducts exhaustive due diligence to verify every document before transaction finalization." },
-      { "question": "Can NRIs invest in commercial shops in Sector 28 easily", "answer": "Absolutely NRIs are encouraged to invest in commercial properties in Sector 28 Gurugram. Indian laws facilitate smooth property acquisition for non-resident Indians. We provide specialized services including power of attorney management remote documentation handling and repatriation guidance to ensure a seamless and compliant investment process for our global clients." },
-      { "question": "What kind of businesses thrive in Sector 28 commercial spaces", "answer": "Businesses that cater to the affluent local demographic thrive here. This includes high-end retail boutiques fine dining restaurants specialized health and wellness centers premium convenience stores and corporate branch offices. The stable environment supports both established national chains and successful local entrepreneurs." },
-      { "question": "Is Sector 28 investment considered low risk high reward for retail", "answer": "Compared to undeveloped areas Sector 28 offers a lower risk profile because its commercial potential is already proven and sustained by established demographics and infrastructure. The high demand and consistent appreciation potential classify this as a high-reward investment especially for those seeking stable assets with reliable income generation capabilities." },
-      { "question": "What amenities are provided in the commercial complexes of Sector 28", "answer": "Modern commercial complexes in Sector 28 typically feature advanced amenities such as 24/7 security surveillance 100% power backup provisions high-speed elevators dedicated visitor parking multi-level structured parking and professional facility management services ensuring a premium business operating environment." }
+      {
+        "question": "What makes Sector 28 an ideal location for commercial shop investment",
+        "answer": "Sector 28 is uniquely positioned to capture the demand from high-net-worth individuals residing in nearby affluent sectors like DLF Phase 1 and Sushant Lok. It offers a confluence of established infrastructure high accessibility via main roads and proximity to key corporate hubs. This ensures a captive audience and continuous high footfall essential for retail success and guaranteeing consistent rental income for investors."
+      },
+      {
+        "question": "What are the typical price ranges for a Shop For Sale in Sector 28",
+        "answer": "The price range for commercial shops in Sector 28 is highly dependent on factors like size location ground floor versus upper floor and the specific commercial complex prestige. Smaller, secondary market shops may start from around INR 70 lakhs while premium ground floor retail spaces on high street locations can easily range into several crores. We recommend consulting our specialists for real-time accurate pricing and valuation tailored to your specific investment criteria."
+      },
+      {
+        "question": "Are there ready-to-move-in shops available in Sector 28 Gurugram",
+        "answer": "Yes Sector 28 is a mature locality and we maintain a wide portfolio of ready-to-move-in commercial shops both newly constructed and established resale units. These properties allow investors to start generating rental income immediately without waiting for construction or possession delays. We focus on properties with clear titles and immediate occupancy certificates to facilitate quick tenant placement."
+      },
+      {
+        "question": "What is the expected rental yield for commercial property in this area",
+        "answer": "Commercial properties in prime areas like Sector 28 typically offer highly competitive rental yields often ranging between 5% and 8% annually depending on the specific asset type and tenant profile. Due to the high demand for retail space here, rental escalation clauses are common securing future revenue growth for the shop owner."
+      },
+      {
+        "question": "How does connectivity benefit commercial activity in Sector 28",
+        "answer": "Excellent connectivity is the backbone of commercial viability in Sector 28. Its location near MG Road and major expressway connections ensures easy access for commuting customers from across NCR. This superior accessibility minimizes friction for shoppers and service users translating directly into higher business volume and making the shops more attractive to premium tenants."
+      },
+      {
+        "question": "What legal documents are essential when purchasing a commercial shop",
+        "answer": "Essential legal documentation includes the Sale Deed or Conveyance Deed the Occupancy Certificate if applicable the property tax receipts and any relevant municipal approvals for the commercial use. If the shop is part of a complex, the allocation letter from the builder and all RERA documentation are crucial. Our team conducts exhaustive due diligence to verify every document before transaction finalization."
+      },
+      {
+        "question": "Can NRIs invest in commercial shops in Sector 28 easily",
+        "answer": "Absolutely NRIs are encouraged to invest in commercial properties in Sector 28 Gurugram. Indian laws facilitate smooth property acquisition for non-resident Indians. We provide specialized services including power of attorney management remote documentation handling and repatriation guidance to ensure a seamless and compliant investment process for our global clients."
+      },
+      {
+        "question": "What kind of businesses thrive in Sector 28 commercial spaces",
+        "answer": "Businesses that cater to the affluent local demographic thrive here. This includes high-end retail boutiques fine dining restaurants specialized health and wellness centers premium convenience stores and corporate branch offices. The stable environment supports both established national chains and successful local entrepreneurs."
+      },
+      {
+        "question": "Is Sector 28 investment considered low risk high reward for retail",
+        "answer": "Compared to undeveloped areas Sector 28 offers a lower risk profile because its commercial potential is already proven and sustained by established demographics and infrastructure. The high demand and consistent appreciation potential classify this as a high-reward investment especially for those seeking stable assets with reliable income generation capabilities."
+      },
+      {
+        "question": "What amenities are provided in the commercial complexes of Sector 28",
+        "answer": "Modern commercial complexes in Sector 28 typically feature advanced amenities such as 24/7 security surveillance 100% power backup provisions high-speed elevators dedicated visitor parking multi-level structured parking and professional facility management services ensuring a premium business operating environment."
+      }
     ]
   },
   "contactSection": {
@@ -81,6 +206,11 @@
       "Ready to secure the perfect Shop For Sale in Sector 28 Gurugram Our commercial property experts are here to provide tailored advice and exclusive listings that meet your investment goals. Do not miss out on this opportunity to own prime real estate in one of Gurugram's most sought-after commercial addresses.",
       "Contact us now for a private consultation and to receive a detailed prospectus of currently available shops and expected returns."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

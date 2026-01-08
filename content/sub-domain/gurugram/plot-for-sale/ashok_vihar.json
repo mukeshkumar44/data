@@ -7,10 +7,19 @@
       "The location boasts superior infrastructure, excellent metro connectivity, and proximity to elite educational institutions and world-class healthcare facilities. Investing in a plot here provides unparalleled stability and strong appreciation prospects due to its central location in Delhi. Explore varied plot sizes and configurations designed for bespoke luxury living. Connect with our expert team today to unlock the potential of land ownership in one of Delhi’s most sought-after neighborhoods."
     ],
     "buttons": [
-      { "label": "View Verified Plot Listings", "path": "/listings" },
-      { "label": "Request Expert Consultation", "path": "/contact" }
+      {
+        "label": "View Verified Plot Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Expert Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Plot Configurations Available Discovering the Right Plot Size For Your Home in Ashok Vihar",
@@ -52,14 +61,56 @@
       "Our curated inventory of plots for sale includes listings in the most demanded blocks, ensuring superior connectivity and access to local amenities like expansive parks, bustling local markets, and essential infrastructure. Whether you prefer the serene environment of a specific block or the bustle near commercial areas, let us guide you to the perfect location within this Delhi real estate gem. Investing in a specific Phase ensures proximity to essential services and maximum resale value potential, maximizing the utility of your Plot For Sale in Ashok Vihar investment."
     ],
     "locations": [
-      "Ashok Vihar Phase 1 Plots",
-      "Ashok Vihar Phase 2 Land",
-      "Ashok Vihar Phase 3 Residential Plots",
-      "Shastri Nagar Proximity Plots",
-      "Wazirpur Industrial Area Adjacent Land",
-      "Model Town Connector Plots",
-      "Block A Premium Plot Options",
-      "Block B High-Demand Plots"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

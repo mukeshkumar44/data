@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Premium Commercial Shop Options For Sale in Sector 107 Gurugram",
@@ -58,12 +61,56 @@
       "The commercial viability here is boosted by immediate access to thousands of high-density residential units ensuring a massive captive audience for your shop. This connectivity makes the logistics easy for suppliers enhances customer reach significantly and solidifies the purchase of a shop for sale in Sector 107 as a long-term winner in the commercial real estate market."
     ],
     "locations": [
-      "Proximity to Dwarka Expressway Main Arterial",
-      "Nearness to High-Density Residential Catchment Areas",
-      "Direct Access to SPR and NH-8 Interchange",
-      "Connectivity to IGI Airport Delhi within 30 Minutes",
-      "Planned Metro Corridor Access and Stations Nearby",
-      "Junction with Proposed Global City Development Zone"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

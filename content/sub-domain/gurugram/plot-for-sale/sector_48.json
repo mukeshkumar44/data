@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "plot-sector-48-hero1.jpg",
-      "plot-sector-48-map.png"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Key landmarks include the nearby Omaxe Celebration Mall Medanta The Medicity and several Fortune 500 company offices making the commute short and manageable. The area benefits from robust planned infrastructure including metro expansion proposals and widening of internal roads ensuring seamless travel now and in the coming decades. This area is considered fully developed providing immediate access to reliable utilities and a mature neighborhood atmosphere unlike the risks associated with peripheral undeveloped areas."
     ],
     "locations": [
-      "Nearness to Sohna Road and NH-48 Access",
-      "Proximity to Major IT and Business Parks like Infocity",
-      "Established Social Infrastructure Schools and Hospitals",
-      "Easy Access to Huda City Centre and Rapid Metro Stations",
-      "Adjacent to Sector 47 and South City II Premium Neighborhoods",
-      "Well-maintained Internal Sector Roads and Utility Grid",
-      "Quick Commute to Golf Course Extension Road",
-      "Availability of Daily Needs Stores and Markets within walking distance"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

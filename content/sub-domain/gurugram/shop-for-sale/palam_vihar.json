@@ -17,7 +17,8 @@
       }
     ],
     "images": [
-      "palam-vihar-shop-hero.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -60,14 +61,56 @@
       "We focus on shops located near major residential crossings established schools and new high-rise societies to ensure maximum footfall and sustained business viability for your newly acquired commercial property in Gurugram."
     ],
     "locations": [
-      "Near Palam Vihar Extension Commercial Complex",
-      "Close to Columbia Asia Hospital Market",
-      "Sector 23 Commercial Retail Belt",
-      "Near Dwarka Expressway Access Point",
-      "Major Markets within Sector 1 and 2 Palam Vihar",
-      "Adjacent to Established Residential Towers",
-      "Near Central Business District Hubs",
-      "Areas with Future Infrastructure Development"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

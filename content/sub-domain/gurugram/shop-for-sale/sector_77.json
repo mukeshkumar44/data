@@ -7,10 +7,19 @@
       "This sector promises massive footfall ensuring maximum business exposure. Explore unparalleled access to premium catchment areas and modern infrastructural advantages. Our selection features properties in reputable developments known for superior construction quality strategic locations and strong tenant potential. Whether you are looking for immediate rental income or long-term capital appreciation Sector 77 offers the ideal environment to achieve your financial goals. Talk to our commercial real estate experts today to unlock exclusive off-market deals."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/listings" },
-      { "label": "Download Investment Guide", "path": "/guide" }
+      {
+        "label": "View Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Download Investment Guide",
+        "path": "/guide"
+      }
     ],
-    "images": ["hero_shop_sector77_1.jpg", "hero_shop_sector77_2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Commercial Options When Looking For a Shop For Sale in Sector 77 Gurugram",
@@ -51,7 +60,58 @@
       "Sector 77 Gurugram enjoys a highly strategic position right off the Delhi-Jaipur Expressway NH-48 providing seamless connectivity to central Gurugram Manesar and Delhi. This superior location ensures excellent accessibility for both consumers and logistics maximizing the operational efficiency of your retail business.",
       "The rapid residential expansion in sectors 76 78 and 80 directly feeds into Sector 77 creating a massive immediate catchment area of affluent families. Furthermore its proximity to major corporate hubs and educational institutions guarantees a steady stream of target consumers providing an invaluable demographic advantage when you invest in a shop for sale in Sector 77."
     ],
-    "locations": []
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Eight Compelling Reasons to Invest in a Shop For Sale in Sector 77 Now",
@@ -146,6 +206,11 @@
       "Ready to invest in the most promising commercial corridor of New Gurugram? Our team of specialized real estate consultants possesses in-depth market intelligence regarding all available shop for sale options in Sector 77.",
       "Contact us today for a personalized consultation and receive curated investment opportunities that perfectly match your financial goals and portfolio requirements. Secure your high-yield asset now."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,10 +7,19 @@
       "We present a curated selection of premium commercial units designed to maximize footfall and ensure substantial returns on investment. Whether you are looking for a small retail unit, a spacious ground-floor showroom, or an investment property with excellent rental yield potential, Sector 103 offers the perfect commercial address. Explore available properties and partner with us to solidify your presence in one of Gurugram's most promising real estate destinations."
     ],
     "buttons": [
-      { "label": "Explore Premium Shops", "path": "/shops" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "Explore Premium Shops",
+        "path": "/shops"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Investment Opportunities and Commercial Shop Sizes in Sector 103 Gurugram",
@@ -52,13 +61,56 @@
       "The sector is surrounded by burgeoning residential sectors including Sector 102, 104, and 106, guaranteeing a massive captive audience base. Proximity to major educational institutions and upcoming corporate parks further boosts the daytime population, enhancing the viability of any commercial venture here. Investing in a shop for sale in Sector 103 is a direct investment in the future commercial artery of Gurugram."
     ],
     "locations": [
-      "Direct Access to Dwarka Expressway",
-      "Near Upcoming Metro Corridor Stops",
-      "Proximity to Aerocity and IGI Airport",
-      "Surrounded by High-Density Residential Projects",
-      "Seamless Link to Pataudi Road",
-      "Easy Commute to Cyber Hub and Golf Course Road",
-      "Close to Major Educational and Healthcare Facilities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -154,6 +206,11 @@
       "Ready to explore exclusive inventories of commercial shops for sale in Sector 103 Gurugram Get personalized investment advice tailored to your financial goals and risk tolerance.",
       "Fill out the form below to receive detailed brochures, price lists, site visit schedules, and projections for rental yields. Let us help you find the perfect commercial asset."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

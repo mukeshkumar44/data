@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Perfect Plot Sizes for Your Custom Home Construction in Sushant Lok Phase 1",
@@ -58,14 +61,56 @@
       "The locality is immediately adjacent to the HUDA City Centre Metro Station, providing direct connectivity to Delhi and other parts of the NCR. Additionally, it offers immediate access to the top hospitals like Max and Fortis, as well as renowned educational institutions, ensuring a life of convenience and quality for residents who purchase a plot here."
     ],
     "locations": [
-      "HUDA City Centre Metro Station",
-      "MG Road Malls and Commercial Areas",
-      "DLF Cyber Hub and Cyber City",
-      "Fortis Memorial Research Institute",
-      "Global Foyer Mall",
-      "Sector 29 Entertainment District",
-      "Golf Course Road Extension",
-      "NH-48 Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

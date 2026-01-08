@@ -7,10 +7,19 @@
       "The demand for quality retail and service spaces is accelerating rapidly driven by numerous established residential societies and upcoming developments. Investing here means securing a future-proof asset. Whether you need a small retail unit a large showroom or dedicated space for food and beverage operations we offer verified commercial listings that guarantee value and strategic positioning. Explore our exclusive portfolio of properties and take the decisive step toward maximizing your commercial returns in Sector 68 Gurugram."
     ],
     "buttons": [
-      { "label": "View Available Shops", "path": "/available-shops" },
-      { "label": "Consult Our Investment Experts", "path": "/contact-us" }
+      {
+        "label": "View Available Shops",
+        "path": "/available-shops"
+      },
+      {
+        "label": "Consult Our Investment Experts",
+        "path": "/contact-us"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover the Ideal Commercial Space Type and Shop For Sale in Sector 68 Gurugram",
@@ -52,14 +61,56 @@
       "The catchment area extends significantly beyond the sector boundaries incorporating thousands of high-net-worth residents from adjacent sectors. This robust demographic foundation guarantees sustained demand for retail and commercial services ensuring your investment remains highly profitable. We analyze these micro-market dynamics to recommend only the most promising commercial assets."
     ],
     "locations": [
-      "Southern Peripheral Road SPR Commercial Corridor",
-      "Sector 69 Residential Hubs",
-      "Sohna Road Commercial Complexes",
-      "Sector 67 and 67A Integrated Townships",
-      "Golf Course Extension Road Access Points",
-      "Proposed Metro Line Connectivity Points",
-      "IMT Manesar Industrial Proximity",
-      "Major High-End Group Housing Projects"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to invest in one of Gurugram’s fastest-growing commercial markets We offer exclusive access to premium and verified inventory of shops for sale in Sector 68. Contact our expert commercial real estate advisors for personalized recommendations and project tours.",
       "Fill out the form below or call us directly to receive a comprehensive investment prospectus detailing potential ROI rental forecasts and legal documentation for your desired commercial property."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -7,12 +7,18 @@
       "The demand for a Plot For Sale in Sector 82 is consistently high driven by planned infrastructure improvements and its proximity to major corporate zones. Whether you are looking for a compact 100 sq yard parcel or a sprawling estate lot our inventory caters to diverse investment appetites. Do not miss this opportunity to capitalize on Gurugram’s rapid expansion and secure clear title property that promises substantial returns in the near future. Explore our verified listings and start your journey towards owning prime land today."
     ],
     "buttons": [
-      { "label": "Explore Available Plots Now", "path": "/listings" },
-      { "label": "Request Expert Consultation", "path": "/contact" }
+      {
+        "label": "Explore Available Plots Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Expert Consultation",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "sector82_plot_view_01.jpg",
-      "dwarka_expressway_connectivity.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "The sector is master-planned to include wide roads dedicated green belts and organized civic amenities. Residents enjoy quick access to world-class educational institutions premier healthcare facilities and bustling retail centers. This blend of excellent connectivity and comprehensive social infrastructure makes finding a Plot For Sale in Sector 82 an attractive proposition for both self-use builders and serious real estate investors seeking capital growth."
     ],
     "locations": [
-      "Dwarka Expressway Access point just 5 minutes away",
-      "Proximity to NH-48 Delhi-Jaipur Expressway",
-      "Major Commercial Hubs of Sector 83 and 84 nearby",
-      "Close to IMT Manesar Industrial Area",
-      "Vatika Business Park and Skyview Corporate Tower",
-      "Reputable Schools like DPS and St Xaviers",
-      "Multi-specialty Hospitals within 10-minute drive",
-      "Upcoming Metro Corridor extension access points"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

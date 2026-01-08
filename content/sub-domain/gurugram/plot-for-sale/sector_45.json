@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-plot-sector-45-1.jpg",
-      "hero-plot-sector-45-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The sector benefits immensely from its proximity to the Golf Course Road Extension and the Delhi-Gurugram Expressway (NH-48) ensuring rapid travel across the NCR. Furthermore the presence of world-class hospitals prestigious educational institutions and major retail outlets within a 5 to 10-minute radius significantly enhances the quality of life and future growth potential of your property investment here. Review the key surrounding landmarks that make Sector 45 an unmatched residential destination."
     ],
     "locations": [
-      "Huda City Centre Metro Station",
-      "Medanta The Medicity Hospital",
-      "Delhi-Gurugram Expressway NH-48",
-      "The Heritage School",
-      "Pintail Lane Market Complex",
-      "Sector 44 Institutional Area",
-      "DLF Cyber Hub and Cyber City",
-      "Golf Course Road Gurugram"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

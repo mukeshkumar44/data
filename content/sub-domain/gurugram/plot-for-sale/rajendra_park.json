@@ -16,7 +16,10 @@
         "path": "/listings"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Diverse Plot Options Perfect Sizes for Building Your Dream Home in Rajendra Park",
@@ -58,12 +61,56 @@
       "Furthermore the infrastructure around this area is rapidly maturing. Proximity to reputable educational institutions modern hospitals and bustling retail centers adds significant value to any Plot For Sale in Rajendra Park. These integrated features confirm the area not just as a place to live but as a secure investment appreciating steadily due to sustained demand and excellent urban planning."
     ],
     "locations": [
-      "Proximity to NH-48",
-      "Easy Access to Dwarka Expressway",
-      "Near Palam Vihar and Sector 23",
-      "Close to Major Schools and Hospitals",
-      "Well-Developed Internal Roads",
-      "Rapid Metro Line Expansion Plans"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

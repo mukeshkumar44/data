@@ -7,10 +7,19 @@
       "This locale provides unmatched connectivity, surrounded by premium residential high-rises and established commercial hubs like Galleria Market and Supermart 1. Investing here means securing a future asset in a high-demand environment, ensuring sustained rental yields and rapid capital appreciation. Whether you seek a small boutique space, a large anchor store location, or a ready-to-move investment property, our curated listings feature the best commercial offerings available right now. Let us guide you to the perfect retail space that meets your business goals and investment criteria in DLF Phase 4."
     ],
     "buttons": [
-      { "label": "View Prime Commercial Listings", "path": "/listings" },
-      { "label": "Schedule a Consultation Today", "path": "/contact" }
+      {
+        "label": "View Prime Commercial Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Consultation Today",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Diverse Commercial Inventory Shop Sizes and Types Available in DLF Phase 4",
@@ -52,12 +61,56 @@
       "Markets like Galleria Market and Supermart 1 are iconic high-street destinations that generate enormous organic footfall benefiting adjacent commercial buildings. Furthermore proximity to major residential hubs like DLF Phase 1 Phase 3 and Sector 28 ensures a massive catchment area for daily shoppers. We provide detailed information on commercial property availability in these neighboring high-potential zones allowing you to compare valuations projected rental yields and overall growth potential. Whether you prefer the bustling environment of a high-street market or the structured setting of a commercial complex these adjacent areas offer supplementary investment options that reinforce the value of your asset in DLF Phase 4."
     ],
     "locations": [
-      "Supermart 1 Market",
-      "Galleria Market",
-      "DLF Phase 1 Commercial Belt",
-      "Sector 28 Main Market",
-      "South City 1 Retail Hub",
-      "Sushant Lok 1 Commercial Centres"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-plot-s50-1.jpg",
-      "hero-map-s50-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Furthermore, the sector boasts direct entry points to key arterial roads significantly reducing commute times across Gurugram. This excellent connectivity enhances the value proposition of any Plot For Sale in Sector 50, making it desirable for long-term residents and investors alike. The proximity to renowned educational institutions like DPS International and healthcare facilities such as Artemis Hospital cements its status as a self-sufficient locality where all needs are met within a small radius. Investing here means investing in convenience and growth."
     ],
     "locations": [
-      "Golf Course Extension Road",
-      "Sohna Road Access",
-      "Artemis Hospital",
-      "HUDA City Centre Metro Station",
-      "Omaxe City Centre Mall",
-      "Close Proximity to Sector 57",
-      "Good connectivity to SPR",
-      "Rapid Metro Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

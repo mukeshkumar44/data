@@ -9,7 +9,7 @@ const __dirname = path.dirname(__filename);
 // ===== CONFIG =====
 const GRAND_PARENT_FOLDER = path.join(
   __dirname,
-  "../content/sub-domain/ambala/commercial-property"
+  "../content/sub-domain/gurugram/rent-house"
 );
 
 const HERO_IMAGES = [

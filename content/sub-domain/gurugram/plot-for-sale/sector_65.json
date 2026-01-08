@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-plot-sector65-1.jpg",
-      "hero-plot-sector65-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The sector provides quick access to NH-48 and the Rapid Metro network ensuring seamless commutes to Cyber City Udyog Vihar and Indira Gandhi International Airport. Furthermore Sector 65 is surrounded by established educational institutions such as Scottish High International School and healthcare facilities like Medanta The Medicity. This integration of residential commercial and social infrastructure guarantees a high quality of life and makes plots here a secure and high-growth investment vehicle."
     ],
     "locations": [
-      "Golf Course Extension Road",
-      "Southern Peripheral Road SPR",
-      "M3M 65th Avenue Commercial Hub",
-      "Worldmark Sector 65",
-      "Heritage School Gurugram",
-      "Rapid Metro Station Sector 55/56",
-      "NH-48 Delhi-Jaipur Expressway",
-      "Sector 57 Residential Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

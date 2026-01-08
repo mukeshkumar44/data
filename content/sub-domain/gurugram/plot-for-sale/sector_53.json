@@ -16,7 +16,10 @@
         "path": "/contact-us"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Finding the Ideal Plot Size for Your Dream Home Construction in Sector 53 Gurugram",
@@ -58,14 +61,56 @@
       "Furthermore, residents benefit from proximity to some of the city’s most prestigious social infrastructure. Leading educational institutions like Lancers International School and Scottish High are just minutes away, ensuring quality schooling options. Healthcare needs are met by nearby world-class hospitals. For retail and leisure, residents have immediate access to luxurious shopping centers like South Point Mall and multiple five-star dining options along the Golf Course Extension Road. Investing in a plot here means investing in a lifestyle defined by convenience, affluence, and guaranteed infrastructural stability, enhancing the long-term desirability of any property built here."
     ],
     "locations": [
-      "Golf Course Road Proximity",
-      "Rapid Metro Station Sector 53-54",
-      "DLF Golf Course",
-      "South Point Mall",
-      "Access to Cyber City",
-      "Artemis Hospital",
-      "Lancers International School",
-      "HUDA City Centre Metro Line"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

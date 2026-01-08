@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-sector-69-plot-view-1.jpg",
-      "hero-sector-69-plot-view-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "The surrounding micro-markets contribute significantly to the appeal of buying a Plot For Sale in Sector 69. Rapid infrastructure development including proposed metro extensions and elevated road projects further solidifies this sector's future growth trajectory. Investing here means placing your capital in a location guaranteed to remain relevant and highly valuable for decades."
     ],
     "locations": [
-      "Southern Peripheral Road SPR",
-      "Sector 68 Gurugram",
-      "Sector 70 Gurugram",
-      "Golf Course Extension Road",
-      "Sohna Road Commercial Hub",
-      "NH-48 Connectivity",
-      "Badshahpur Industrial Area",
-      "Proximity to Top International Schools"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

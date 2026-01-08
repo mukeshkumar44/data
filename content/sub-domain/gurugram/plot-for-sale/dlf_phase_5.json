@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero-image-dlf-phase5-plot1.jpg",
-      "hero-image-dlf-phase5-plot2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Choosing the right location within DLF Phase 5 impacts your future quality of life. Our experts guide you through the specific advantages of each block, including proximity to top international schools like The Shri Ram School, world-class healthcare facilities, and premium retail destinations like South Point Mall. When searching for a plot for sale in DLF Phase 5, understand that the precise location within the phase dictates not only the price but also the long-term investment yield and daily convenience. Invest wisely in a location that supports your future goals."
     ],
     "locations": [
-      "DLF Belaire Residences Vicinity",
-      "DLF Magnolias Adjacent Areas",
-      "DLF Aralias Neighbourhood",
-      "Suncity Township Proximity",
-      "Golf Course Road Access Points",
-      "Sector 53 Direct Connectivity",
-      "South Point Mall Area",
-      "Rapid Metro Corridor Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

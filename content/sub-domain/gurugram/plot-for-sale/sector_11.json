@@ -7,10 +7,19 @@
       "Sector 11 stands out due to its proximity to major transportation hubs and established markets, providing residents with unmatched convenience. Whether you are looking for a small residential parcel for immediate construction or a larger land bank for long-term gains, our expert team provides comprehensive guidance throughout the acquisition process. Start your journey toward owning valuable land in one of Gurugram’s reliable sectors today."
     ],
     "buttons": [
-      { "label": "View Available Plots", "path": "/listings" },
-      { "label": "Request A Site Visit", "path": "/contact" }
+      {
+        "label": "View Available Plots",
+        "path": "/listings"
+      },
+      {
+        "label": "Request A Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero-sector-11-plot-1.jpg", "hero-sector-11-plot-2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Popular Plot Sizes Available When Looking for a Plot For Sale in Sector 11",
@@ -52,14 +61,56 @@
       "Whether you commute towards Delhi or require swift access to major business districts like Udyog Vihar, the location of Sector 11 ensures minimized travel time. We also list nearby established sectors known for their high quality of life and strong infrastructure, allowing you to compare investment potential and lifestyle benefits effectively."
     ],
     "locations": [
-      "Sector 10 Gurugram",
-      "Sector 12 Gurugram",
-      "New Colony",
-      "Palam Vihar",
-      "Basai Road",
-      "Civil Lines",
-      "Railway Road Gurugram",
-      "Sheetla Mata Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure your prime piece of land in Sector 11 Gurugram Our dedicated team of real estate professionals specializes exclusively in verified plot listings in this established locality. We offer personalized consultation, site visits, and comprehensive legal support to make your land purchase seamless and secure.",
       "Do not miss out on rapidly diminishing inventory. Contact us now to discuss your specific requirements, investment goals, and to receive a curated list of the best Plot For Sale in Sector 11 that meet your exacting standards."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

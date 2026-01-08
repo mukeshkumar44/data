@@ -16,7 +16,10 @@
         "path": "/brochure"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Shop Investment Opportunities Catering to Every Business Model in Sector 41",
@@ -58,12 +61,56 @@
       "The location benefits from seamless access to major arterial roads ensuring that consumers from nearby sectors can easily reach your commercial property. This geographic advantage drastically reduces tenant vacancy risks and boosts the overall profitability of your investment in a Shop For Sale in Sector 41."
     ],
     "locations": [
-      "Adjacent to Sector 40 Residential Hub",
-      "Direct Linkage to South City 2 Major Residential Area",
-      "Immediate Access to HUDA Market and Local Amenities",
-      "Proximity to Artemis Hospital Road and Medical Infrastructure",
-      "Easy Commute via National Highway 48 Delhi-Jaipur Expressway",
-      "Close to Major Schools and Institutional Areas"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

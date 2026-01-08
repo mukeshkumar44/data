@@ -7,10 +7,19 @@
       "Unlock remarkable rental yields and long-term capital appreciation by choosing a commercial shop in this established area. Our listings prioritize visibility accessibility and future growth potential ensuring your investment performs optimally. Whether you are launching a new brand or expanding an existing business finding the right shop for sale in Sector 47 Gurugram is the first step towards sustained success and profitability. Explore our curated selection today and start your journey towards commercial ownership."
     ],
     "buttons": [
-      { "label": "View Prime Listings", "path": "/listings" },
-      { "label": "Schedule a Site Visit", "path": "/contact" }
+      {
+        "label": "View Prime Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
     ],
-    "images": ["/images/hero/shop_sector47_main.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Diverse Commercial Property Options and Shop Features Available in Sector 47 Gurugram",
@@ -52,14 +61,56 @@
       "The sector benefits directly from the consumer base of several large adjacent residential sectors and its proximity to major corporate offices ensuring a steady flow of potential customers throughout the day. This robust ecosystem guarantees that any commercial investment here is underpinned by strong demographic demand."
     ],
     "locations": [
-      "Sohna Road Commercial Belt",
-      "Huda City Centre Metro Station",
-      "Sector 46 Residential Area",
-      "Medanta The Medicity",
-      "NH-48 Delhi-Jaipur Highway",
-      "Golf Course Extension Road Access",
-      "Vipul Square Retail Hub",
-      "Subhash Chowk Junction"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to secure your prime Shop For Sale in Sector 47 Gurugram We offer personalized consultations market reports and exclusive access to off-market listings tailored to your investment criteria.",
       "Fill out the form below and our dedicated commercial real estate advisors will contact you immediately to discuss your specific needs and schedule property viewings."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

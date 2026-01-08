@@ -7,12 +7,18 @@
       "Our curated selection includes high-street retail spaces anchor stores and dedicated food court units catering to diverse investment budgets and business models. Sector 90 stands out due to its modern infrastructure and its promise of becoming a primary commercial destination serving New Gurugram and surrounding areas. Take advantage of early mover benefits and invest in a dynamic market that guarantees high rental yields and impressive returns on investment."
     ],
     "buttons": [
-      { "label": "Explore Available Shops Now", "path": "/listings" },
-      { "label": "Request Detailed Investment Report", "path": "/contact" }
+      {
+        "label": "Explore Available Shops Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Detailed Investment Report",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "hero-image-sector90-shop1.jpg",
-      "hero-image-sector90-map.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,12 +61,56 @@
       "Explore neighbouring sectors and established commercial corridors known for high returns and infrastructural maturity. Our expert team provides detailed comparative analysis to help you decide whether a shop for sale in Sector 90 or another thriving Gurugram location best suits your portfolio goals."
     ],
     "locations": [
-      "Sector 83 Commercial Hubs",
-      "Sector 84 High-Street Retail",
-      "Sector 88 Commercial Development",
-      "Sector 79 Commercial Complexes",
-      "Dwarka Expressway Investment Pockets",
-      "New Gurugram Retail Zones"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,4 +214,3 @@
     ]
   }
 }
-.

@@ -7,10 +7,19 @@
       "Investing in a commercial property here means capitalizing on Gurugram’s rapid urban expansion and strong purchasing power. We offer meticulously selected commercial units ranging from small retail kiosks to expansive showroom spaces all verified for legal compliance and prime positioning. Let us guide you to the perfect investment that guarantees high rental yields and long-term asset security in one of Gurugram’s most established commercial zones."
     ],
     "buttons": [
-      { "label": "View Exclusive Shop Listings", "path": "/listings" },
-      { "label": "Schedule a Consultation", "path": "/contact" }
+      {
+        "label": "View Exclusive Shop Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Spaces and Shop For Sale in Sector 31 Options for Maximum Returns",
@@ -52,12 +61,56 @@
       "The proximity to major corporate centers and established residential colonies such as Sector 30 Sector 32 and Sector 40 strengthens its position as a primary retail destination. This inter-connected ecosystem guarantees sustained business growth and minimizes periods of vacancy making a Shop For Sale in Sector 31 a reliable asset."
     ],
     "locations": [
-      "Sector 30 Retail Complex",
-      "Sector 32 Institutional Area",
-      "Sector 40 Residential Hub",
-      "National Highway 48 Proximity",
-      "Old Delhi Road Commercial Strip",
-      "Signature Tower Business Zone"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -153,6 +206,11 @@
       "Ready to secure a highly profitable Shop For Sale in Sector 31 Gurugram Contact our expert commercial property advisors now. We provide personalized investment strategies due diligence support and curated listings that match your financial goals.",
       "Don't miss out on prime opportunities in one of Gurugram's most sought-after commercial addresses. Fill out the form below and take the next step towards lucrative property ownership."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

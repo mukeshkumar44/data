@@ -7,10 +7,19 @@
       "Investing in a commercial shop for sale in Sushant Lok Phase 3 provides immediate access to a captive audience ensuring high footfall and robust business potential. Whether you are seeking compact retail spaces, large showroom fronts, or dedicated food and beverage units, our portfolio is curated to match your specific investment goals. Leverage the established infrastructure and strategic location that makes this phase a preferred destination for both large brands and local businesses looking to expand their presence in Gurugram."
     ],
     "buttons": [
-      { "label": "View Available Shops Now", "path": "/listings" },
-      { "label": "Request Expert Consultation", "path": "/contact" }
+      {
+        "label": "View Available Shops Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Expert Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Shop Types and Commercial Investment Opportunities in Sushant Lok Phase 3 Gurugram",
@@ -52,11 +61,56 @@
       "We provide curated listings that highlight shops located near high-demand access points ensuring maximum visibility and convenience for your future tenants or your own business venture. Leverage the locational advantages of this area for superior investment results."
     ],
     "locations": [
-      "Golf Course Extension Road connectivity",
-      "Sector 56 & 57 Residential Hubs",
-      "Proximity to Huda City Centre Metro Station",
-      "Easy access to Sohna Road commercial clusters",
-      "Near major institutional areas and schools"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

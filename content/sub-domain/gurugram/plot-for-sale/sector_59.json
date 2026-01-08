@@ -17,8 +17,8 @@
       }
     ],
     "images": [
-      "hero_image_sector_59.jpg",
-      "plot_layout_map.png"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -61,14 +61,56 @@
       "Residents benefit from rapid access to the Delhi-Mumbai Expressway and key metro stations, dramatically reducing commute times. The area is highly self-sufficient, featuring proximity to world-class educational institutions, multispecialty hospitals like Artemis Hospital, and premium retail destinations including the popular M3M Cosmopolitan Mall. This strong infrastructure ecosystem reinforces the long-term appreciation value of every plot for sale in Sector 59 Gurugram, ensuring a convenient and high-quality lifestyle for future residents."
     ],
     "locations": [
-      "Golf Course Extension Road",
-      "Southern Peripheral Road SPR",
-      "Sector 58 Residential Area",
-      "Sector 60 Commercial Hub",
-      "M3M Urbana",
-      "Rapid Metro Extension Line",
-      "Artemis Hospital",
-      "Tulip Chowk"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

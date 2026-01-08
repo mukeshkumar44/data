@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Property Sizes and Premium Retail Units Available Today in Civil Lines",
@@ -58,14 +61,56 @@
       "Our expertise extends across the entire local commercial geography allowing us to advise clients on comparative advantages and growth trajectories of neighboring areas. Whether you are seeking supplementary storage space or exploring future expansion opportunities understanding these adjacent markets is key to comprehensive commercial strategy planning and maximizing your investment outreach."
     ],
     "locations": [
-      "Railway Road Commercial Corridor",
-      "Sadar Bazaar Market Area",
-      "New Colony Retail Belt",
-      "Sector 14 Institutional Area",
-      "Old Delhi Road Commercial Plots",
-      "Mianwali Colony Business Center",
-      "Jacobpura Retail Outlets",
-      "Shivaji Nagar Commercial Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Find the Ideal Residential Plot Size That Matches Your Vision in Sector 95 Gurugram",
@@ -58,12 +61,56 @@
       "The area is defined by robust upcoming social infrastructure including planned schools, high-end retail malls, and dedicated healthcare facilities ensuring residents enjoy a fully self-sustained lifestyle. Furthermore, Sector 95 is surrounded by other established residential sectors accelerating its growth trajectory. The master plan for the area emphasizes wide internal roads, ample green belts, and underground utility services contributing to a superior urban living environment. Future development plans indicate significant commercial investment further boosting land appreciation rates. Investing here means capitalizing on infrastructure that is rapidly transforming this location into a sought-after address in the NCR."
     ],
     "locations": [
-      "Near Dwarka Expressway",
-      "Proximity to NH-48",
-      "Adjacent to Sector 92 and Sector 94",
-      "Easy Access to Manesar Industrial Area",
-      "Close to Proposed Metro Corridor",
-      "Surrounded by A-Grade Residential Projects"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

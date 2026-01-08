@@ -7,12 +7,18 @@
       "We present a curated selection of premium retail spaces strategically located within integrated commercial projects ensuring maximum visibility and sustained footfall. These shops offer excellent capital appreciation potential and robust rental yields benefiting from thousands of immediate residents nearby. Explore floor plans starting from basic retail units to large double-height anchor stores perfect for established brands and ambitious new ventures alike."
     ],
     "buttons": [
-      { "label": "Explore Available Shops", "path": "/listings" },
-      { "label": "Request Pricing Details", "path": "/contact" }
+      {
+        "label": "Explore Available Shops",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Pricing Details",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "shop-37d-hero-1.jpg",
-      "shop-37d-hero-2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,14 +61,56 @@
       "This sector is strategically positioned to capture demand from established residential areas and new developments creating a ready captive audience essential for retail success. Understanding these key location drivers confirms why a shop for sale in Sector 37D represents a superior investment opportunity."
     ],
     "locations": [
-      "Direct proximity to the Dwarka Expressway ensuring seamless connectivity to Delhi and key areas of Gurugram",
-      "Immediate catchment area includes thousands of existing and planned residential units providing massive assured daily footfall",
-      "Easy access to NH-48 linking the sector swiftly to the established commercial districts of Cyber City and Manesar",
-      "Located near major institutional land parcels which will further drive daytime population and commercial demand",
-      "Well-planned internal road networks ensuring ease of access and ample surface parking for customers and visitors",
-      "Future infrastructure projects including proposed Metro expansions further cementing long-term capital appreciation",
-      "Surrounded by prominent sectors like 88 89 and 84 guaranteeing continuous development and economic activity",
-      "High visibility from main arterial roads making commercial complexes easy to locate for clientele"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

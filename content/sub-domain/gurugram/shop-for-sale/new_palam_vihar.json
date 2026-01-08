@@ -7,10 +7,19 @@
       "This area benefits from excellent proximity to Dwarka Expressway and Indira Gandhi International Airport making it a magnet for both local residents and transient customers. We present a curated selection of commercial properties ideal for immediate business launch or strategic portfolio expansion. Browse our verified listings today and take the definitive step towards owning commercial real estate in one of Gurugram's most promising localities and securing high rental yields instantly."
     ],
     "buttons": [
-      { "label": "View All Commercial Listings", "path": "/listings" },
-      { "label": "Request Expert Consultation", "path": "/contact" }
+      {
+        "label": "View All Commercial Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Expert Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Commercial Shop Sizes and Investment Opportunities in Gurugram",
@@ -52,14 +61,56 @@
       "The proximity to major residential sectors and key industrial zones ensures a steady flow of potential tenants and customers making your commercial property a high-demand asset. Explore how this location provides immediate access to high-growth corridors like the Dwarka Expressway ensuring fast market penetration and sustained commercial activity throughout the year."
     ],
     "locations": [
-      "Dwarka Expressway Access Point",
-      "Sector 110 Commercial Zone",
-      "Sector 111 Residential Catchment",
-      "Palam Vihar Extension Market",
-      "Rajendra Park Business Area",
-      "Bajghera Village Hub",
-      "IGI Airport Road Link",
-      "Gurgaon-Delhi Border"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to explore the best selection of verified shops for sale in New Palam Vihar Gurugram Contact our expert team now for personalized advice detailed property tours and bespoke investment analysis tailored to your specific financial goals.",
       "Secure a high-yield commercial asset in Gurugram's fastest-growing corridor. Fill out the form below and we will reach out within the hour to guide your next successful property acquisition."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

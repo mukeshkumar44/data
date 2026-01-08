@@ -7,10 +7,19 @@
       "Investing in commercial property here is not just about securing a space it is about capitalizing on Gurugram's relentless growth story. We offer an exclusive portfolio of retail units office spaces and premium shop floors that guarantee maximum visibility and strong rental yields. Explore modern commercial centers designed to attract affluent clientele and provide the ultimate business ecosystem. Start your lucrative investment journey by connecting with our Sector 25 commercial real estate experts today."
     ],
     "buttons": [
-      { "label": "Explore Premium Shop Listings", "path": "/listings" },
-      { "label": "Request Commercial Investment Guide", "path": "/contact" }
+      {
+        "label": "Explore Premium Shop Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Request Commercial Investment Guide",
+        "path": "/contact"
+      }
     ],
-    "images": ["hero1.jpg", "hero2.jpg"]
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Commercial Shop Investment Options in Prime Sector 25 Gurugram",
@@ -52,14 +61,56 @@
       "This location ensures high demographic quality of customers essential for upscale retail and service establishments. We focus on shops situated in micro-locations that promise maximum visibility and connectivity including properties near major intersections and established corporate centers. Secure your ideal commercial shop For Sale in Sector 25 based on robust locational advantages."
     ],
     "locations": [
-      "Direct access to NH 48 Delhi-Jaipur Highway",
-      "Immediate proximity to Cyber City Gurugram’s largest corporate hub",
-      "Seamless connectivity to Sikandarpur Metro Station and Rapid Metro lines",
-      "Close vicinity to MG Road and prominent luxury hotels",
-      "Easy approachability from Delhi via the expressway",
-      "Surrounded by established high-income residential areas",
-      "Access to major banks and financial institutions nearby",
-      "Well-developed internal road network within the sector"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to invest in a prime commercial Shop For Sale in Sector 25 Gurugram Our dedicated team of property advisors specializes exclusively in high-yield commercial assets within this strategic area.",
       "We provide personalized listings valuation reports and market analysis to ensure your investment meets your financial objectives. Contact us now to schedule a consultation or site visit."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

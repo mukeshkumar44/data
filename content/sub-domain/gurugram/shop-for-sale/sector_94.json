@@ -16,7 +16,10 @@
         "path": "/contact"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Discover Diverse Commercial Investment Opportunities for Every Budget in Sector 94 Gurugram",
@@ -58,12 +61,56 @@
       "The projected population density in the catchment area surrounding Sector 94 ensures a captive and growing market for retail, services, and dining establishments. This minimizes vacancy risk and maximizes rental yields over the long term, positioning your shop for significant capital appreciation. This sector is not merely a location; it is a meticulously planned future growth corridor designed for commercial success in the competitive Gurugram real estate market."
     ],
     "locations": [
-      "Proximity to Dwarka Expressway Connectivity",
-      "Immediate Access to Major Residential Developments",
-      "Excellent Linkage to Southern Peripheral Road SPR",
-      "Surrounded by High-Density Housing Projects",
-      "Rapidly Developing Infrastructure Footprint",
-      "Close to Major Future Transit Hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

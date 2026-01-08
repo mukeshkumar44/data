@@ -7,12 +7,18 @@
       "Chandan Vihar stands out as one of the most promising locations in the extended Gurugram corridor known for its organized development and strategic placement. Whether you are planning to build a spacious independent home or looking for a long-term land investment with substantial returns, our portfolio of residential plots caters to diverse needs and budgets. Explore various sizes and choose the perfect foundation for your future within this burgeoning neighborhood. Do not miss this chance to acquire valuable land in a high-demand location."
     ],
     "buttons": [
-      { "label": "Download Plot Brochure", "path": "/brochure" },
-      { "label": "Schedule Site Visit Now", "path": "/contact" }
+      {
+        "label": "Download Plot Brochure",
+        "path": "/brochure"
+      },
+      {
+        "label": "Schedule Site Visit Now",
+        "path": "/contact"
+      }
     ],
     "images": [
-      "plot_chandanvihar1.jpg",
-      "plot_chandanvihar2.jpg"
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
   "featuresSection": {
@@ -55,13 +61,56 @@
       "The location provides quick access to key commercial, educational, and healthcare facilities. Investing in a Plot For Sale in Chandan Vihar means securing a future where convenience is never compromised. Review the important locations nearby that enhance the value proposition of this area."
     ],
     "locations": [
-      "Close proximity to major state highways connecting Delhi NCR",
-      "Easy drive to established Gurugram business districts",
-      "Access to reputable international schools and universities",
-      "Nearby multispecialty hospitals and clinics",
-      "Well-developed local markets and shopping complexes",
-      "Future metro extension corridor proximity adding significant value",
-      "Direct routes to major IT and Industrial areas"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -157,6 +206,11 @@
       "Ready to invest in the future of residential living Get in touch with our specialist team today to receive personalized consultation on the best Plot For Sale in Chandan Vihar that meets your specific requirements and budget.",
       "We offer exclusive site tours and detailed documentation reviews. Contact us now to take the first step towards owning premium land in one of the most promising locations in the NCR."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

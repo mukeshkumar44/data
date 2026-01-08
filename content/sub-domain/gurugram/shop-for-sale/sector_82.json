@@ -7,10 +7,19 @@
       "Finding the perfect commercial property is critical and our portfolio features a range of shop formats including high-street retail units ground-floor visibility stores and dedicated food court spaces. Investing in a shop for sale in Sector 82 Gurugram means securing a high-yield asset in a rapidly developing corridor. Explore prime locations excellent developer track records and competitive pricing that positions Sector 82 as the ideal commercial investment hub today."
     ],
     "buttons": [
-      { "label": "Browse Verified Listings", "path": "/listings" },
-      { "label": "Download Investment Guide", "path": "/guide" }
+      {
+        "label": "Browse Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Download Investment Guide",
+        "path": "/guide"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Explore Diverse Commercial Formats When Looking For A Shop For Sale in Sector 82",
@@ -52,14 +61,56 @@
       "Furthermore Sector 82 is located near the intersection of the Dwarka Expressway and NH-48 providing outstanding logistical advantages for businesses reliant on freight movement or regional clientele. The high-density residential developments surrounding this sector guarantees a steady stream of high-net-worth customers making any commercial investment in a shop for sale in Sector 82 a secure bet on future prosperity and sustained rental demand."
     ],
     "locations": [
-      "Sector 83 Commercial Hub",
-      "Vatika India Next Township",
-      "NH-48 National Highway Connectivity",
-      "Dwarka Expressway Access Points",
-      "IMT Manesar Industrial Area Proximity",
-      "Kherki Daula Toll Plaza Region",
-      "Sector 81 Residential Catchment",
-      "Proposed Metro Corridor Route"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to find the perfect shop for sale in Sector 82 Gurugram Our expert team provides personalized consultations market analysis and exclusive access to off-market commercial inventory. Let us help you navigate the complexities of commercial real estate investment.",
       "Submit your details below and a dedicated consultant will contact you promptly to discuss your investment goals and property requirements in detail."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

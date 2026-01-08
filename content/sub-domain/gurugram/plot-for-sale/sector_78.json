@@ -7,10 +7,19 @@
       "We provide access to verified and legally clear residential plots ensuring a smooth and secure transaction process. Our curated listings include diverse plot sizes suitable for bungalows independent floors and villa development catering to various budget requirements. Sector 78 is rapidly developing with robust social and civic infrastructure plans promising a superior quality of life. Start your journey toward owning premium land in one of Gurugram’s fastest-growing sectors by reviewing our exclusive inventory now."
     ],
     "buttons": [
-      { "label": "View Verified Plots", "path": "/plots" },
-      { "label": "Request Consultation", "path": "/contact" }
+      {
+        "label": "View Verified Plots",
+        "path": "/plots"
+      },
+      {
+        "label": "Request Consultation",
+        "path": "/contact"
+      }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Exploring Diverse Plot Sizes and Investment Opportunities in Sector 78 Gurugram",
@@ -52,14 +61,56 @@
       "The surrounding sectors are witnessing parallel development creating a holistic ecosystem for residential and commercial activities. This synchronized growth ensures that appreciation rates remain robust and sustainable. Connectivity to major employment hubs like IMT Manesar and the ease of commuting via NH-48 make Sector 78 exceptionally desirable for professionals. Review the key surrounding areas that contribute to the high value of a plot for sale in Sector 78."
     ],
     "locations": [
-      "Sector 79 Gurugram",
-      "Sector 79A Residential Hub",
-      "Sector 80 Commercial Zone",
-      "NH-48 Delhi-Jaipur Expressway Access",
-      "IMT Manesar Industrial Area",
-      "Dwarka Expressway Access",
-      "Clover Leaf Interchange Proximity",
-      "Upcoming Global City Development"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -155,6 +206,11 @@
       "Ready to find the ideal Plot For Sale in Sector 78 Gurugram? Our team of seasoned real estate experts specializes in land acquisition across the New Gurugram corridor.",
       "Fill out the form below or call us directly to receive personalized listings market reports and detailed legal guidance ensuring you make the best investment decision."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }
