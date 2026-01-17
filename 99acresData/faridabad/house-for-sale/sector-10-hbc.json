@@ -1,0 +1,43 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "House",
+    "listingType": "sale",
+    "title": "4 Bedroom House for sale in Sector 10 HBC, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "     Sector 10 HBC     ",
+    "pincode": "",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 0,
+    "area": 810,
+    "areaUnit": "sqft",
+    "price": 14000000,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "House",
+    "listingType": "sale",
+    "title": "6 Bedroom House for sale in J Block Sector 10 HBC, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "     Sector 10 HBC     ",
+    "pincode": "",
+    "bedrooms": 6,
+    "bathrooms": 6,
+    "furnishing": "",
+    "floor": 0,
+    "area": 500,
+    "areaUnit": "sqft",
+    "price": 95000000,
+    "selectedAmenities": [
+      "East Facing",
+      "Private Garden"
+    ]
+  }
+]

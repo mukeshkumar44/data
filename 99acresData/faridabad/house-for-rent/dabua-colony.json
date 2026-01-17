@@ -1,0 +1,43 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "House",
+    "listingType": "rent",
+    "title": "3 Bedroom House for rent in Dabua Colony, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "   Dabua Colony   ",
+    "pincode": "",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "furnishing": "",
+    "floor": 0,
+    "area": 649,
+    "areaUnit": "sqft",
+    "price": 15000,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "rent",
+    "title": "2 BHK Independent Builder Floor for rent in A block Dabua colony, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "   Dabua Colony   ",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "furnishing": "",
+    "floor": 22,
+    "area": 700,
+    "areaUnit": "sqft",
+    "price": 9000,
+    "selectedAmenities": [
+      "2nd out of 2 Floors",
+      "East Facing"
+    ]
+  }
+]
