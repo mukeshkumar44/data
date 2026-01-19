@@ -3,10 +3,10 @@ import * as cheerio from "cheerio";
 import fs from "fs";
 
 // ================= CONFIG =================
-const URL = " https://www.99acres.com/flats-for-rent-in-sector-14-faridabad-25-thousand-to-30-thousand-ffid             ";
+const URL = "              ";
 
 // 🎯 TARGET LOCATION (Sector / Colony / Society / Block / Phase)
-const TARGET_LOCATION = "  Sector 14    ";
+const TARGET_LOCATION = "     "; 
 // 🛑 MAX RESULTS TO SAVE
 const MAX_SAVE = 30;
 
@@ -179,19 +179,30 @@ function extractBathroomsSmart(text) {
   });
 
   // ================= SAVE FILE =================
-  const OUTPUT_DIR = "./output";
-  if (!fs.existsSync(OUTPUT_DIR)) {
-    fs.mkdirSync(OUTPUT_DIR, { recursive: true });
-  }
+  // ================= SAVE FILE =================
 
-  const safeName = normalizeText(TARGET_LOCATION).replace(/\s+/g, "-");
-  const outputFile = `${OUTPUT_DIR}/${safeName}.json`;
-
-  fs.writeFileSync(outputFile, JSON.stringify(results, null, 2));
-
+// ❌ Agar ek bhi result nahi mila → save mat karo
+if (results.length === 0) {
+  console.log("⚠️ No properties found for:", TARGET_LOCATION);
+  console.log("🚫 File not saved.");
   await browser.close();
+  return;
+}
 
-  console.log("✅ DONE");
-  console.log("🏠 Properties saved:", results.length);
-  console.log("📄 File saved:", outputFile);
+const OUTPUT_DIR = "./output";
+if (!fs.existsSync(OUTPUT_DIR)) {
+  fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+}
+
+const safeName = normalizeText(TARGET_LOCATION).replace(/\s+/g, "-");
+const outputFile = `${OUTPUT_DIR}/${safeName}.json`;
+
+fs.writeFileSync(outputFile, JSON.stringify(results, null, 2));
+
+await browser.close();
+
+console.log("✅ DONE");
+console.log("🏠 Properties saved:", results.length);
+console.log("📄 File saved:", outputFile);
+
 })();

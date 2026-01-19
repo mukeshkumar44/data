@@ -3,8 +3,8 @@ import * as cheerio from "cheerio";
 import fs from "fs";
 
 // ================= CONFIG =================
-const URL = "https://housing.com/in/buy/faridabad/plot-sector_8_faridabad";
-const TARGET_LOCATION = "Sector 8";
+const URL = "";
+const TARGET_LOCATION = "Sector 70";
 const MAX_SAVE = 30;
 
 // ================= HELPERS =================
