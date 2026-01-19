@@ -3,10 +3,10 @@ import * as cheerio from "cheerio";
 import fs from "fs";
 
 // ================= CONFIG =================
-const URL = "              ";
+const URL = "  https://www.99acres.com/3-bhk-flats-in-sector-8-faridabad-ffid      ";
 
 // 🎯 TARGET LOCATION (Sector / Colony / Society / Block / Phase)
-const TARGET_LOCATION = "     "; 
+const TARGET_LOCATION = "  Sector 8 "; 
 // 🛑 MAX RESULTS TO SAVE
 const MAX_SAVE = 30;
 
@@ -194,7 +194,7 @@ if (!fs.existsSync(OUTPUT_DIR)) {
   fs.mkdirSync(OUTPUT_DIR, { recursive: true });
 }
 
-const safeName = normalizeText(TARGET_LOCATION).replace(/\s+/g, "-");
+const safeName = normalizeText(TARGET_LOCATION).replace(/\s+/g, "_");
 const outputFile = `${OUTPUT_DIR}/${safeName}.json`;
 
 fs.writeFileSync(outputFile, JSON.stringify(results, null, 2));
