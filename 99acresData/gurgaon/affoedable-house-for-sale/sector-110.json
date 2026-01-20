@@ -1,0 +1,62 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "House",
+    "listingType": "rent",
+    "title": "5 Bedroom House for sale in Block F New Palam Vihar Phase 1, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "Gurgaon",
+    "locality": "Sector 110",
+    "pincode": "",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "furnishing": "",
+    "floor": "",
+    "area": 70,
+    "areaUnit": "sqft",
+    "price": 22500000,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "House",
+    "listingType": "sale",
+    "title": "2 Bedroom House for sale in Sector 110, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "Gurgaon",
+    "locality": "Sector 110",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "furnishing": "",
+    "floor": "",
+    "area": 250,
+    "areaUnit": "sqft",
+    "price": 25000000,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "House",
+    "listingType": "sale",
+    "title": "4 Bedroom House for sale in Sector 110, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "Gurgaon",
+    "locality": "Sector 110",
+    "pincode": "",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "furnishing": "",
+    "floor": "",
+    "area": 780,
+    "areaUnit": "sqft",
+    "price": 122000000,
+    "selectedAmenities": [
+      "North Facing",
+      "Private Garden"
+    ]
+  }
+]

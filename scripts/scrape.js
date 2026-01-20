@@ -3,10 +3,10 @@ import * as cheerio from "cheerio";
 import fs from "fs";
 
 // ================= CONFIG =================
-const URL = "        ";
+const URL = "     ";
 
 // 🎯 TARGET LOCATION (Sector / Colony / Society / Block / Phase)
-const TARGET_LOCATION = "  Sector 8 "; 
+const TARGET_LOCATION = "  Sector 63  "; 
 // 🛑 MAX RESULTS TO SAVE
 const MAX_SAVE = 30;
 
@@ -164,7 +164,7 @@ function extractBathroomsSmart(text) {
       title,
       description: "",
       state: "Haryana",
-      city: "faridabad",
+      city: "Gurgaon",
       locality: TARGET_LOCATION,
       pincode: "",
       bedrooms,

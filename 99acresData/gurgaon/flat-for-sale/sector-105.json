@@ -1,0 +1,62 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "3 BHK Flat in Sector 105, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "Gurgaon",
+    "locality": "Sector 105",
+    "pincode": "",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": "",
+    "area": 900,
+    "areaUnit": "sqft",
+    "price": 70,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "3 BHK Flat in Ratan Vihar, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "Gurgaon",
+    "locality": "Sector 105",
+    "pincode": "",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": "",
+    "area": 720,
+    "areaUnit": "sqft",
+    "price": 35,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "House",
+    "listingType": "sale",
+    "title": "3 BHK Independent Builder Floor in Sector 105, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "Gurgaon",
+    "locality": "Sector 105",
+    "pincode": "",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "furnishing": "",
+    "floor": "",
+    "area": 950,
+    "areaUnit": "sqft",
+    "price": 36,
+    "selectedAmenities": [
+      "GF out of 3 Floors",
+      "East Facing"
+    ]
+  }
+]

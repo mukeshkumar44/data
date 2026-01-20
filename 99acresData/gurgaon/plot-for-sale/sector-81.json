@@ -1,0 +1,61 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Plot",
+    "listingType": "lease",
+    "title": "Residential land / Plot in Sector 81, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "Gurgaon",
+    "locality": "Sector 81",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": "",
+    "area": 900,
+    "areaUnit": "sqft",
+    "price": 13000000,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "House",
+    "listingType": "sale",
+    "title": "6 Bedroom House in Sector 81, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "Gurgaon",
+    "locality": "Sector 81",
+    "pincode": "",
+    "bedrooms": 6,
+    "bathrooms": 6,
+    "furnishing": "",
+    "floor": "",
+    "area": 450,
+    "areaUnit": "sqft",
+    "price": 140000000,
+    "selectedAmenities": [
+      "Private Garden"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "House",
+    "listingType": "sale",
+    "title": "3 Bedroom House in Sector 81, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "Gurgaon",
+    "locality": "Sector 81",
+    "pincode": "",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "furnishing": "",
+    "floor": "",
+    "area": 670,
+    "areaUnit": "sqft",
+    "price": 37500000,
+    "selectedAmenities": []
+  }
+]
