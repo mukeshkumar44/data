@@ -3,7 +3,7 @@ import * as cheerio from "cheerio";
 import fs from "fs";
 
 // ================= CONFIG =================
-const URL = "  https://www.99acres.com/3-bhk-flats-in-sector-8-faridabad-ffid      ";
+const URL = "        ";
 
 // 🎯 TARGET LOCATION (Sector / Colony / Society / Block / Phase)
 const TARGET_LOCATION = "  Sector 8 "; 
